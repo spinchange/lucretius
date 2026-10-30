@@ -4,3 +4,5 @@ __pycache__/
 margin/images/
 segments/manifest.*.tmp
 segments/manifest.tmp
+audiobook-build/
+audiobook-build-*/
