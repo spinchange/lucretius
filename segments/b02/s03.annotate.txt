@@ -1,0 +1,25 @@
+[DRAFT] (2.472) Neptune's body (Neptuni corpus) is the sea, a metonymy like Ceres for grain and Bacchus for wine, which Lucretius takes up at 2.655ff. The proof is the filtering (percolatur, 475). Sea water turns sweet when it passes through earth, which shows that rough and smooth first-beginnings can be separated, the rough ones catching in the soil.
+
+[DRAFT] (2.476) Primordia, "first-beginnings", is the register's name for what a modern reader will know as atoms. The translation keeps it distinct from principia (472, 573) "beginnings", semina (481) "seeds" and corpora prima (486) "first bodies", though all name the same entities.
+
+[DRAFT] (2.478) The two-line formula (Quod quoniam docui, pergam conectere rem) recurs verbatim at 522-523, and the English repeats itself word for word. It marks the two stages of the argument: first-beginnings vary within a finite range of shapes (478-521), and those of any one shape are infinite in number (522ff).
+
+[DRAFT] (2.485) The "least parts" (minimis e partibus) are the Epicurean minimal parts, the indivisible units of which a first body is composed (argued at 1.599ff). A body of fixed small size has few of them and so admits few arrangements (ordo). More shapes would therefore need more parts and larger bodies, which is the absurdity named at 498-499.
+
+[DRAFT] (2.500) Meliboea was a Thessalian coastal town known for purple dye made from shellfish (concharum), so "Thessalico ... colore" names the same dye. The luxuries listed (robes, peacocks, myrrh, swan-song, lyre music) stand for the best the senses know. If shapes were infinite, something better would always supersede them (507).
+
+[DRAFT] (2.505) Here daedala is an adjective of the carmina, whereas the register fixes it as "artificer" for daedala tellus (1.7) and natura daedala rerum (5.234). "Intricate" is a departure from the register, which the translator may keep, change, or note in the register. Phoebus is Apollo, god of the lyre, and cycnea mele alludes to the swan's proverbial song.
+
+[DRAFT] (2.528a) The source marks lost text after 528, and the translation prints the same marker with its lettered key and supplies nothing. The jump from the conclusion at 528 to the new promise at 529 (versibus ostendam) is abrupt, but what the missing line said is not known.
+
+[DRAFT] (2.531) Protelum (protelo plagarum continuato) comes from a word for a team pulling in succession, and "relay" renders it. The plagae are the collisions of first bodies. The doctrinal point is that only an infinite supply of matter can keep the blows coming without a break.
+
+[DRAFT] (2.533) Crux: the transmitted magis in "fecundamque magis naturam cernis in illis" sits uneasily with rara animalia, since rarer kinds would be expected to be less fruitful. The translation keeps magis and takes in illis of the other, commoner kinds, which strains the Latin. Some editors read minus, which makes in illis the rare animals themselves and fits 534-535, where the same kind is numerous elsewhere.
+
+[DRAFT] (2.537) "Snake-handed" (anguimanus) is a Latin compound for the elephant's trunk, and the animal was familiar to Romans from the wars with Pyrrhus and Hannibal. India stands for the far-off land where a kind that seems rare is abundant, and the ivory rampart (vallo ... eburno) is hyperbole for their numbers.
+
+[DRAFT] (2.552) The shipwreck simile (naufragiis ... aplustra) illustrates 547-551. A few finite bodies of one kind, scattered in a vast sea of unlike matter, would drift apart like wreckage and never reassemble into a ship. The "laughing" calm sea (ridet ... ponti, 559) recalls the proem's rident aequora ponti (1.8), where the sea smiles at the goddess's coming and here smiles in treachery. That echo is the reader's association, not something Lucretius points out.
+
+[DRAFT] (2.569) The "motions" of destruction and of generation (exitiales, genitales) are the movements of first-beginnings that break compounds up or build them. Their equal contest (aequo certamine) is the Epicurean balance that keeps the sum of things from ending either in total ruin or in unchecked growth.
+
+[DRAFT] (2.577) The register lists 2.577 under the refrain "dias in luminis oras", but the Latin here is visentis luminis oras, with visentis agreeing with pueri ("as they come to look on"), and it has no dias. The translation rightly omits "shining". This is a variant of the refrain rather than an instance, so the register's list should probably be corrected.

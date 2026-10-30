@@ -1,0 +1,27 @@
+[DRAFT] (6.627) Lucretius refers to his own earlier account of clouds drawing up sea-water (docui, "I have shown"), which is in this same book at 6.470-482. The English keeps the first-person backreference as stated.
+
+[DRAFT] (6.635) The translation renders "virus" as "brine", the bitter salt of sea-water, which the earth is imagined to strain out as the water percolates. Latin "virus" here means a pungent liquid, and the word is not the modern "virus". The same filtering argument appears at 2.475-477 and 5.269-272.
+
+[DRAFT] (6.639) "Ratio" is rendered "reasoning" here, as the register fixes it: "by what reasoning" the fires breathe out. Mount Etna in Sicily was the best-known active volcano of the Roman world, and its eruptions were remembered as portents.
+
+[DRAFT] (6.646) "Rerum ... novarum" ("new things") is also the Roman political idiom for revolution or upheaval, and the phrase sits beside "rerum natura". The translation keeps "new things" and "nature", so the echo is audible but not forced.
+
+[DRAFT] (6.649) The sum of things (summam rerum) is the whole infinite universe, in which our heaven (caelum) is a negligible part. This is the Epicurean doctrine of the infinite universe, which Lucretius uses here to make the Etna eruption unremarkable. The universe is "profundam", literally "deep" or "unfathomable".
+
+[DRAFT] (6.660) "Sacer ignis" ("sacred fire") names a spreading, burning skin disease, probably erysipelas or shingles. The Latin "sacer" can also mean "accursed", so the phrase carries both senses.
+
+[DRAFT] (6.662) "Semina rerum" is the register's "seeds of things", Lucretius's usual technical term for the first-beginnings. The argument is that earth and heaven hold enough such seeds to produce disease on a vast scale, just as they produce a body's illnesses. The same comparison of an individual's illness to cosmic upheaval is the logic of the passage.
+
+[DRAFT] (6.684) The source prints "aeeraeër", a corrupted form of Greek-derived "aer" (accusative of "aer", "air"). The translation reads "air" at 684 and 685. The garbled form is an editorial or transmission artefact, not Lucretius's spelling.
+
+[DRAFT] (6.693) "Animai" is the genitive of "anima", but here it means breath or wind, the moving air of the caverns, not the vital principle of Book 3. The register renders "anima" as "spirit" elsewhere. The translation uses "air" here to keep the sense from being misread.
+
+[DRAFT] (6.697) The lacuna after 697 is marked in the source and kept unnumbered, so the sentence breaks off. The sense is that the sea's water or wind passes through the caves, but the lost line is not supplied.
+
+[DRAFT] (6.701) "Crateres" is Greek "krateres", "mixing-bowls", used by the Greeks for volcanic craters. Lucretius says "ipsi nominitant" ("they themselves call"), meaning the Sicilian Greeks, and offers his Latin equivalents "fauces" and "ora".
+
+[DRAFT] (6.703) Here Lucretius introduces the doctrine of multiple explanations, which is characteristic of Epicurean method in his accounts of meteorological phenomena. Several causes may be possible, and only one is true. The corpse analogy illustrates this: we know the death had some cause of this kind without knowing which.
+
+[DRAFT] (6.712) The Nile's summer flood puzzled ancient writers, and Lucretius offers three causes, the Etesian winds, sand-bars at the mouths, and rain or snowmelt in Ethiopia, without choosing. The Etesian winds (etesiae) are the steady northerlies of the Mediterranean summer.
+
+[DRAFT] (6.721) The Nile "comes from the south" (ab austro), among dark-skinned peoples, "their color baked through" (percocto colore), which reflects the ancient climate theory that heat darkens skin. The "region of midday" (media regio diei) is the south, where the sun stands at noon.

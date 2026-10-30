@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+598	GRAMMAR	MINOR	0.50	"ne dissoluat natura repente" has natura (the earth's nature) as subject, and the same subject runs on into "neu distracta... dispandat"; the English makes natura a passive agent ("be undone by nature") and then switches to "it" as subject, so the agency is blurred; "lest the nature of the earth suddenly dissolve the caverns, or lest, torn apart, it spread its gaping chasm wide"

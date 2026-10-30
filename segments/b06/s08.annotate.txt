@@ -1,0 +1,29 @@
+[DRAFT] (6.1003) The translator's placeholder is answered as follows: *aestus* ("current") is the stream of seeds the stone is said to emit. The word is the same one used for the sea's surge or for heat, and the translation keeps "current" throughout the magnet passage so that the repeated word shows it is one agent doing the work. The line also gives the alternatives "seeds" or "current" (*semina sive aestum*), and the Latin text printed here has a corrupted form for "air" (*aeeraeër*) that reads as *aëra* or *aër*.
+
+[DRAFT] (6.1005) The "void" and "place" here (*inanitur spatium… locus*) are the register's *inane* and *locus ac spatium*. The argument is the Epicurean one that an emptied gap draws neighbouring bodies in, because bodies cannot move except by blow or by falling into empty space. The next lines apply it to the first-beginnings of iron (*primordia ferri*).
+
+[DRAFT] (6.1009) *Primoribus ex elementis* ("from its own first elements") is a compressed reference to the doctrine that iron's atoms are especially tightly hooked together. The "cold, rough thing" is *frigidus horror*, the chill, bristling quality of iron.
+
+[DRAFT] (6.1012) The line (*quo minus est mirum, quod dicitur esse alienum*) is textually uncertain in the manuscripts and the sense is hard. The translation takes *alienum* as "strange" and reads the clause as "though it is called strange". This follows the placeholder's note, but it is a choice among readings and the translator should check it against the apparatus before committing.
+
+[DRAFT] (6.1044) *Samothracia ferrea* ("Samothracian iron rings") refers to iron rings from Samothrace, the island of the mystery cult of the Cabiri, whose initiates wore iron rings. Lucretius says he saw rings leap and filings "rage" in bronze bowls (*ahenis in scaphiis*) when a magnet was held beneath, the one first-person eyewitness claim in the passage.
+
+[DRAFT] (6.1058) *Pondere… fretae* ("relying on their weight, such as gold") gives the first of two reasons why the stream does not move other things: heavy bodies resist it, and very porous ones let it pass untouched (*raro… corpore*, 1059). Wood is his example of the porous kind.
+
+[DRAFT] (6.1068) Here Lucretius begins a list of things that join by fitting together (lime, bull-glue, wine and water, purple dye on wool, solder), to show that the magnet's linking of iron is not unique. He closes it at 6.1084-1089 with the doctrine that bodies join best where hollows fit solids, or where hooks and rings catch.
+
+[DRAFT] (6.1074) *Conchyli* ("the shellfish") is the murex, source of Tyrian purple, which dyed wool permanently. "Neptune's flood" (*Neptuni fluctu*) is a poetic name for sea water, not a reference to the god in person.
+
+[DRAFT] (6.1078) The translator's placeholder says the gold-solder was called chrysocolla. The Latin has only "one thing" (*res… una*) joining gold to gold, and the translator should consider whether the note is needed or whether "chrysocolla" is the translator's gloss from outside the text.
+
+[DRAFT] (6.1079) *Plumbo albo* ("white lead") is tin, which the Romans called *plumbum album*, used as solder for bronze. The placeholder is right.
+
+[DRAFT] (6.1090) *Nunc ratio quae sit morbis* ("Now what the principle of diseases is") opens the plague section and begins the transition from magnetism to disease. Here *ratio* is "principle" in the sense of cause, a use the register allows (*qua ratione*). The "seeds of many things" that give life or bring disease (*semina… vitalia… morbo mortique*, 1093-1096) refer back to the discussion at 6.769-780 and earlier.
+
+[DRAFT] (6.1106) The "Britons" (*Brittannis*), Egypt, Pontus (the Black Sea region) and Gades (Cadiz) mark the extremes of north, south, east and west. They are Lucretius's four regions of the world, which he refers to at 1110-1111 as the "four winds and quarters of the sky".
+
+[DRAFT] (6.1107) *Qua mundi claudicat axis* ("where the axis of the world limps") rests on the ancient picture of the celestial axis tilting toward the south, so that in Egypt the pole seems to sink. The translator's placeholder is right.
+
+[DRAFT] (6.1114) *Elephas morbus* ("the elephant disease") is elephantiasis, probably a form of leprosy. Lucretius says it occurs in Egypt "and nowhere else" (*neque praeterea usquam*). This is a claim about disease being tied to place.
+
+[DRAFT] (6.1116) *Atthide… Achaeis* ("In Attica… the Achaean lands"): *Atthide* is Attic Greek for "in Attica", and Lucretius is saying that foot disease afflicts Attica and eye disease the Achaean lands (Greece). The line has a transmission problem in the Latin text, since *Atthide temptantur gressus* is an unusual construction, and the translator should check the apparatus.

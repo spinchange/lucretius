@@ -1,0 +1,29 @@
+[DRAFT] (3.819-823) Lines 819-823 voice an Epicurean-style objection that the mind might be immortal because it is shielded from harm. The Latin has no explicit speaker here and the translation takes it as a hypothetical rival view ("Quod si forte… habendast"), answered from 824 on.
+
+[DRAFT] (3.824) The source prints an unnumbered lacuna after 823 (Bailey and others mark a lost line or lines), so the reply begins mid-thought at "praeter enim quam quod". The translation prints the lacuna unnumbered and does not supply the lost text; the "for" (enim) is rendered as a connective to a clause we no longer have.
+
+[DRAFT] (3.828) Here "animi" and "animai/animae" are kept apart as the register requires: "the mind" (animus) is the rational seat, "spirit" (anima) the vital principle spread through the body. This is the first place in the segment where the two appear together, at 838 and 844 in particular ("corporis atque animai", "animi natura animaeque potestas").
+
+[DRAFT] (3.830) This is the thesis of the whole second half of Book 3: "Nil igitur mors est ad nos". It echoes Epicurus's Principal Doctrine 2 and the Letter to Menoeceus, and Lucretius draws the same conclusion again at 3.926 and in the refrain at 3.972.
+
+[DRAFT] (3.832-842) Lucretius's argument from symmetry: our non-existence after death is like our non-existence during the Punic Wars, and we felt no distress then. "Poenis" (833) are the Carthaginians, and the allusion is to the Second Punic War (Hannibal in Italy, 218-201 BC), the nearest great upheaval to his own time. The echo of 3.1 ff. on the "turmoil of war" is probably intended to make the point vivid for a Roman reader, not as a topical allusion.
+
+[DRAFT] (3.839) "Uniter apti" repeats at 846 ("uniter apti"): the same phrase for the body-spirit union frames the argument at 838-846. The repetition is deliberate, and the translation renders both occurrences identically ("joined and fitted into one").
+
+[DRAFT] (3.851) The unusual "repetentia" (the taking-up-again of oneself in memory) carries the argument: even if our atoms were reassembled, a break in the continuity of memory ("interrupta semel") means the later being would not be us. This is the Epicurean criterion of identity; a modern reader may hear Locke or Parfit in it, but that is the reader's association, not the poet's.
+
+[DRAFT] (3.857) "Semina" here is the register's "seeds", the same atoms as "primordia" at 924; the translation keeps the two terms distinct ("seeds" at 857, "first-beginnings" at 924). Note that Lucretius allows that the same atoms may have been arranged as we are in the infinite past ("inmensi temporis"), which follows from the infinity of time and the finite variety of atomic shapes, not from any doctrine of recurrence.
+
+[DRAFT] (3.870) With "Proinde" Lucretius turns from argument to diagnosis, a move that continues the diatribe-style address to the fearful man. The target is the person who professes that death is annihilation yet is still distressed at the thought of his corpse's fate (rotting, burning, savaged by beasts), a contradiction Lucretius exploits at 3.876-878.
+
+[DRAFT] (3.871-872) The three fates listed here (rotting, cremation, beasts) are all burial customs or exposures of the dead, and the argument at 888-893 extends the list to embalming in honey and entombment in earth. Roman funerary practice was by cremation or inhumation; exposure to beasts was a dishonour, which is what makes it vivid.
+
+[DRAFT] (3.891) Honey was used to preserve the dead (the body of Alexander the Great was said to have been so preserved), and the placing of "in melle" completes the list of ways a corpse may be treated. The cold slab in 892 ("gelidi saxi") describes laying out the body, not a particular rite.
+
+[DRAFT] (3.894-899) The 'Iam iam non domus…' lament is a stock Roman consolatory topos (compare the funeral dirge), put in the mouths of mourners. Lucretius's reply (900-901) is that they omit the key fact: the dead man feels no longing ("desiderium") for what he has lost, which is the Epicurean claim that deprivation requires a subject to be deprived.
+
+[DRAFT] (3.912-915) The drinking-party scene is a Roman convivial commonplace (garlands at the symposium, "carpe diem" sentiment). Lucretius cites it to show that men already treat the brevity of pleasure as a grievance, whereas in death even the craving for it is absent: the "thirst" image at 917 turns the toast against itself.
+
+[DRAFT] (3.924) "Primordia" appears here in the segment for the first time. The register's "first-beginnings" is kept, and a reader who knows the term as "atoms" should see that the Latin word is the same family as "principia", "semina", and "corpora prima", all of which the register keeps distinct (here the primordia are shown to remain in the sleeping body, available to rouse it).
+
+[DRAFT] (3.930) "Frigida… vitai pausa" repeats the phrase "vitai pausa" from 860 ("inter enim iectast vitai pausa"): the "pause of life" which breaks memory in the past returns here to close the passage. The repetition ties the symmetry argument (before birth) to the argument from sleep (after death).

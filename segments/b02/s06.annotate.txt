@@ -1,0 +1,27 @@
+[DRAFT] (2.842) The argument that first-beginnings lack all secondary qualities continues from the preceding lines on color (the "solo colore" of 842 means color is only the first item in a longer list). Here Lucretius adds warmth, sound, flavor, and odor (teporis, sonitu, suco, odorem).
+
+[DRAFT] (2.847) The perfumer's analogy: amaracinum (oil of marjoram) and stacte (oil of myrrh) were costly scented unguents, and nard was an imported aromatic. The base for such compounds had to be odorless olive oil (inolentis olivi) so that it would not taint the added scents. The analogy supports the claim that the first-beginnings must contribute no quality of their own to the things they compose.
+
+[DRAFT] (2.861) The Latin has principiis here, a second name for the primordia (854, "primordia rerum"). The translation renders both as "first-beginnings" in keeping with the register's deliberate merge of the cluster.
+
+[DRAFT] (2.862) Immortal foundations (inmortalia... fundamenta) are what keep things from returning "ad nihilum funditus" (864). This is the Epicurean principle that nothing is wholly destroyed, and Lucretius argues that if the first-beginnings were mortal, everything would dissolve into nothing.
+
+[DRAFT] (2.865) The new argument starts here, against the objection that sentient things cannot come from senseless first-beginnings. Lucretius's thesis is that sense arises from the arrangement of senseless first-beginnings (ex insensilibus... principiis), not from sense already present in them. The rival view is that of the earlier philosophers (the Ionian physicists, and Anaxagoras in particular) who gave the elements the properties of the things made from them.
+
+[DRAFT] (2.871) Worms from dung (vivos... vermes / stercore de taetro) is the spontaneous generation Lucretius uses as evidence for life from the lifeless, a common ancient belief. The same example recurs at 898-901 and 926-930, and Lucretius himself calls the later one a repetition ("quod fudimus ante", 926).
+
+[DRAFT] (2.874) The chain river-leaf-cattle-human-beast-bird (875-878) is an argument from nutrition: food becomes living flesh. The fire comparison at 881-882 supports the same point, that different things arise from the same material by new arrangement. Lucretius uses it as the proof of 883-885 that "order" and motions matter (referre in quali sint ordine).
+
+[DRAFT] (2.881) The comparison of logs turning to flame (arida ligna / explicat in flammas) is another case of the same stuff becoming something of a different kind through rearrangement. It recalls the letters analogy (elementa) used in Book 1 and again at 2.688-699, where order, position, and motion of the same elements produce different results.
+
+[DRAFT] (2.903) The line numbered 903a marks a lacuna after 903. The sentence starting "Deinde ex sensilibus..." (902) breaks off without its main verb or its refutation, and 904 picks up in the middle of a thought ("mollia cum faciunt"). The translation prints the gap unnumbered and supplies nothing.
+
+[DRAFT] (2.904) The opponents' claim, as the argument can be reconstructed, is that the supposed sentient first-beginnings are made of soft things (mollia), since sense is found in flesh, sinews, and veins. Lucretius's reply (906) is that these are mortal and "creta", fashioned of a mortal body, so they cannot be the eternal first-beginnings.
+
+[DRAFT] (2.911) The text is disputed here ("namque animus sensus membrorum respuit omnis"). The translation takes it that the mind rejects the idea of senses belonging to the limbs alone, so that sense belongs to the whole creature. Here animus is rendered "mind" in accord with the register.
+
+[DRAFT] (2.919) The refutation turns on the point that, even if the first-beginnings were living creatures, their union (coetu concilioque) would yield only a crowd of living things (volgum turbamque animantum), as humans and animals mating do not create anything new in kind. The regress is Lucretius's reductio against giving the first-beginnings sense.
+
+[DRAFT] (2.944) Lucretius now argues from the effects of blows. A blow too great for the creature's nature (grandior ictus) dissolves the positions of the first-beginnings (positurae) and the "knots of the vital spirit" (vitalis animae nodos), and so drives the spirit out through "caulas" (passages). Here anima is rendered "spirit", the vital principle, and the nodi are the bonds that hold it in the body, a doctrine developed at length in Book 3.
+
+[DRAFT] (2.963) The last argument is from pain and pleasure. Pain is the disturbance of bodies from their seats (sollicitata suis... sedibus) and pleasure their return (remigrant). First-beginnings, which are not compounded of smaller bodies, have no such parts to disturb, so they feel neither. This is the Epicurean definition of pleasure and pain as motion and settling, and "voluptas" is rendered "pleasure" in the register.

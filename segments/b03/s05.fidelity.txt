@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+803	GRAMMAR	MINOR	0.55	"inter se" means "from one another" (mortal and immortal each against the other), but "more disjoined from itself" makes it reflexive on a single thing; "or more disjoined from each other and more discordant"

@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+377	LEXICAL	MINOR	0.50	"ancipiti ... bello" means a two-fronted or double-edged war, and the English "doubtful war" shifts that to uncertainty of outcome; "by a two-sided war".

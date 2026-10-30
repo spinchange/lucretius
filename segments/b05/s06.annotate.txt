@@ -1,0 +1,27 @@
+[DRAFT] (5.764) The cone is the earth's shadow, which narrows away from the sun (coni... umbras); in a lunar eclipse the moon passes through it. The "rigid" shadows are the dense, sharply bounded dark of the cone's core.
+
+[DRAFT] (5.771) This line repeats 764 verbatim (menstrua dum rigidas coni perlabitur umbras). Editors treat it as a misplaced duplicate. It follows 770, where it breaks the syntax of the question, and the translation prints it anyway to keep the source order and numbering.
+
+[DRAFT] (5.751) Lucretius gives several possible causes for eclipses and does not choose among them (pluribus e causis). This is the Epicurean method of multiple explanations: for phenomena that cannot be observed directly, every cause consistent with the appearances is allowed to stand. The lunar eclipse he offers is the earth's shadow, but he also allows an unseen dark body, the sun's own fading, or the moon's own light failing.
+
+[DRAFT] (5.772) The long sentence recalls the astronomical account just given and announces the return to the youth of the world (mundi novitatem, 780). The "closing of eyes" (conivent) in 778 pictures the sun and moon as eyes that shut and open. It adds to the rhetorical conceit of the personified heavens without being a doctrinal claim.
+
+[DRAFT] (5.781) Crerint is the contracted form of decreverint, "had decided," so the earth is shown choosing what to bear first and what to risk to the winds (incertis... ventis). The translation keeps the sense of decision. "The shining shores of light" (in luminis oras) is the register's fixed phrase for birth into daylight, and it recurs at 1.22, 1.170 and 1.179.
+
+[DRAFT] (5.791) The "mortal generations" (mortalia saecla) are the animal species, human beings included. The earth bears plants first, then animals, as the body first grows hair and feathers (788-790). Lucretius's idea of a spontaneous earthly origin of living things belongs to the Epicurean tradition and is not his own invention.
+
+[DRAFT] (5.795) "Mother" (maternum nomen) is a deliberate argument, not an ornament. The earth deserves the name because everything came from her (e terra... creata). Lucretius rejects the claim that animals fell from the sky or rose from the sea (793-794), and he returns to the title at 821-822.
+
+[DRAFT] (5.808) The "wombs" (uteri) are rooted growths in the soil that held the first infants, and the earth then nursed them with a milk-like juice (sucum... consimilem lactis). The picture is a literal analogy to human birth and lactation (813-815). A modern reader may hear a faint resemblance to later ideas of spontaneous generation, but that is the reader's association and not the poet's.
+
+[DRAFT] (5.825) The source prints two spellings of aerias run together (aeriasqueaëriasque). The sense, "and with them the birds of the air," is not in doubt, and the translation follows it.
+
+[DRAFT] (5.828) Lines 828-836 are Lucretius's argument that the world ages and changes (mutat... mundi naturam totius aetas). The earth ceased to bear as a woman past childbearing does (827). The idea that the world itself grows old and weaker is distinctly Lucretian here: the whole cosmos has a life cycle, and the earth's present inability to produce what it once did (quod potuit nequeat) follows from that. Elsewhere, at 2.1150-1174, he says the same of the world's decline.
+
+[DRAFT] (5.839) The Latin of this line is corrupt in the manuscripts (androgynem, interutras necutrumque utrimque remotum). The sense, a hermaphrodite creature of both sexes and of neither, is clear, and the translation follows the reading that gives it. The androgyne belongs with the other monsters (portenta) that the earth tried to make and could not sustain.
+
+[DRAFT] (5.846) The failed monsters (monstra ac portenta) are the poem's account of why only some kinds survive. They die because they cannot feed, grow up, or breed (847-848), since nature "frightened off their growth" (natura absterruit auctum). A modern reader may hear natural selection in this, and in 855-877 where only protected kinds survive. That is the reader's association, since Lucretius is not describing change in species over time.
+
+[DRAFT] (5.859) The source misprints tuta as "tutaTA." The line says that cunning, courage, or speed has kept each surviving kind safe from the start of its life (ex ineunte aevo). The translation reads tuta.
+
+[DRAFT] (5.867) Lucretius addresses Memmius directly here (Memmi) and again in the second person. Memmius, the dedicatee, was a Roman aristocrat and politician, and the poem is addressed to him throughout. The creatures "handed over to our protection" (tutelae tradita) are the animals that survive by their usefulness to humans (dogs, horses, sheep, cattle).

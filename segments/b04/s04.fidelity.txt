@@ -1,0 +1,4 @@
+FINDINGS
+579	MISTRANSLATION	MODERATE	0.80	"iterabant dicta referri" means they repeated the words, which are sent back to the speaker, but the English "what they were taught to carry on" adds teaching and drops the return of the echo; "repeated the spoken words as they were flung back"
+SECONDARY
+591	GRAMMAR	MODERATE	0.60	"ne loca deserta ab divis quoque forte putentur sola tenere" has the places (loca) as the subject of the passive "putentur", but the English makes the neighbors the ones who "hold lonely places"; "so that the places may not be thought left deserted, lonely, even by the gods"

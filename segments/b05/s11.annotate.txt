@@ -1,0 +1,33 @@
+[DRAFT] (5.1362) The Latin order is *rerum ... natura creatrix*, with *primum* between them, so *rerum* can go with *natura* (the title formula, which the register fixes as "the nature of things") or with *creatrix* ("creator of things"). The English takes the second reading and drops the formula. Check the renderings at the lines you cite (1.629, 2.1117), which I have not seen, and decide whether this is a deliberate exception, or whether "the nature of things herself, the creator" would keep the formula.
+
+[DRAFT] (5.1387) *Dius* can mean "divine, godlike" and also "bright, of the open air", as in *sub divo*, "under the open sky". The English takes the open-air sense; "godlike leisure" would hint at the Epicurean picture of the gods' ease, which is not obviously in play here.
+
+[DRAFT] (5.1388-1389) This is the first appearance of a refrain that returns at 5.1454-1455, with *eruit* ("draws out, digs out") here and *erigit* ("raises") there. The English matches at 1388 and 1454, and varies only the verb, as the Latin does. The phrase is *luminis oras* without *dias*, so it is not the full refrain "the shining shores of light" (1.22 and elsewhere); keep "the shores of light" without "shining".
+
+[DRAFT] (5.1392-1396) These lines reuse 2.29-33, with changes: *saepe itaque* for *cum tamen*, *corpora habebant* for *corpus habemus*, *ridebat* for *adridet*, and *pingebant* for *conspergunt*; the person and tense shift from "we" to "they". Only the unchanged Latin (*inter se prostrati in gramine molli / propter aquae rivom sub ramis arboris altae*, and *anni tempora ... viridantis floribus herbas*) should match the Book 2 English word for word. I have not seen the Book 2 English, so check it. The reuse makes the first men's simple pleasure the same as ours, which is the point of 1409-1411.
+
+[DRAFT] (5.1408) *Vigiles* are those who stay awake (cf. *vigilantibus*, 1405). "Watchmen" suggests an office, so "the wakeful" may be safer here. The same word is used of the sun and moon at 1436 (*vigiles mundi*), and the English should either keep that echo in both places or drop it in both.
+
+[DRAFT] (5.1409) *Genus* looks like the subject of *didicere*: "and the race (of men now) has learned to keep the measure", set against the *silvestre genus* of 1411 and *hominum genus* at 1430. "In its kinds" in the English seems to take it otherwise; please recheck. Also, *extra numerum* (1401, "out of time") and *numerum servare* (1409, "keep the measure") are a deliberate pair, so the English should use the same word for *numerum* in both.
+
+[DRAFT] (5.1411) *Terrigenae* (also 1427), "the earth-born", are the first humans, whom Book 5 earlier describes as brought forth by the earth. The word is not in the register; consider adding "earth-born" for *terrigenae* so that 1411 and 1427 stay identical.
+
+[DRAFT] (5.1419-1422) *Quam reor* marks the story of the first wearer of a pelt, killed by ambush while the pelt was torn apart in the fight, as Lucretius's own inference rather than a received myth. The English keeps the conjecture visible with "I believe".
+
+[DRAFT] (5.1429) *Plebeia* ("common", the cloth of the plebs) sets purple and gold against plain cloth. The same contrast appears in 2.34-36, just after the lines reused at 1392-1396, where purple coverlets (*ostro rubenti*) are weighed against a *plebeia vestis* as cures for fever. "Common" here and in Book 2 should be rendered alike.
+
+[DRAFT] (5.1432-1433) The compressed doctrine is that natural pleasure has a limit (*quae sit habendi finis ... quoad crescat vera voluptas*). Beyond that limit, more possessions add only empty cares (*curis inanibus*, 1431), not more pleasure.
+
+[DRAFT] (5.1436) *Templum* is a marked-off region of the sky, originally the augur's space for observation, so "precinct", as for *Acherusia templa* (1.120), is right. The sun and moon are *vigiles* here, echoing the human *vigiles* of 1408; see the note there.
+
+[DRAFT] (5.1444) The Latin as supplied prints "poetaepoëtae", two spellings run together, apparently a source artifact for *poetae*. The English is unaffected, but check the line against `latin/`.
+
+[DRAFT] (5.1445) *Elementa* here are the letters of the alphabet, so the line says that writing was invented not long before the poets began to record deeds. "Elements" is kept per the register, which also uses the word for atoms (compare the letter analogy at 1.197), and the double sense is the point.
+
+[DRAFT] (5.1446-1447) The claim that earlier times lie beyond our view (*respicere aetas nostra nequit*) matches the argument at 5.324-327 that no poets sing of anything before the Theban War and the fall of Troy. *Nisi qua ratio vestigia monstrat* names the method of the whole account: inference from traces by reasoning.
+
+[DRAFT] (5.1451) *Daedala* here qualifies the finished work (*signa polita*), not a maker, so it cannot be "artificer" as at 1.7 (*daedala tellus*) and 5.234. The register should record it as a second sense, "artful" or "skilfully wrought", with the same root, Daedalus the craftsman. The English currently has "artful", which fits.
+
+[DRAFT] (5.1452-1453) *Progredientis* is genitive and agrees with *mentis*, so the mind itself is "advancing step by step". The English "as men advanced" shifts the subject slightly. The Latin verb is singular (*docuit*), with *usus* and *experientia* as its subjects.
+
+[DRAFT] (5.1454-1455) These lines repeat 5.1388-1389 (see the note there), with *erigit* for *eruit*. The English at 1454 should stay identical to 1388, with "raises" rendering the changed verb.

@@ -1,0 +1,37 @@
+[DRAFT] (5.1105) The subject of this passage is the same as the preceding one: the kings and talented men who lead the change from the primitive way of life to cities and property. "Fire" (igni) points back to the discovery of fire and cooking earlier in the book's history of civilization.
+
+[DRAFT] (5.1108) The account of early kingship (reges) is a hypothetical sociology, not a record: Lucretius gives kings a citadel as "defense and refuge" (praesidium perfugiumque), a pair of terms he will reuse for the fearful human mind at 5.1186, where the same word (perfugium) names the refuge of handing everything to the gods.
+
+[DRAFT] (5.1113) The invention of gold (aurum repertum) reverses the old standard of "looks and strength" (facies, vires) with wealth. Here the Epicurean doctrine that natural needs are small begins to surface, and it is stated outright at 1117-1119 ("to live sparingly with a level mind," vivere parce aequo animo), which echoes Epicurus' teaching that natural wealth is limited and easily obtained.
+
+[DRAFT] (5.1117) "True reasoning" (vera ratione) is the register's fixed rendering of ratio as the Epicurean method; the line states the school's ethical doctrine that frugality is itself riches, in a compressed form that a reader might take for a proverb.
+
+[DRAFT] (5.1125) The thunderbolt simile (quasi fulmen) is an image of envy (invidia) striking down the powerful, and it prepares the poem's later treatment of the thunderbolt as a natural event misread as divine punishment (5.1218-1221). The Latin syntax is loose here, with the subject (invidia) held back to the next line, and the English keeps that delay. "Tartarus" (Tartara) is the lowest region of the underworld, used here as a figure for ruin and not as a place Lucretius believes in.
+
+[DRAFT] (5.1135) The line (nec magis id nunc est neque erit mox quam fuit ante) is a remark on how little the habit of "wisdom from another's mouth" has changed, and it closes the digression on ambition. Some editors suspect the line is out of place, but the translation follows the transmitted text without comment on the point.
+
+[DRAFT] (5.1136) With "the kings slain" (regibus occisis) Lucretius turns to the fall of monarchy and the rise of magistrates and law. This is a historical sketch in the manner of contemporary social-contract thought, with no named event; Roman readers might hear in it the expulsion of the Tarquins, but the poet does not say so.
+
+[DRAFT] (5.1155) "Common covenants of peace" (communia foedera pacis) belongs to the register's family of foedera, the Epicurean idea that justice is a compact made for mutual advantage and not a thing existing in nature. Epicurus' maxims on justice as a pact not to harm or be harmed lie behind it.
+
+[DRAFT] (5.1161) Here begins the account of the origin of religion. Lucretius's explanation (causa) is psychological and anthropological: early men experienced dreams and waking visions of the gods and drew false conclusions, which accords with Epicurean doctrine that the gods exist as images but have no concern for the world. The "images" (simulacra) are not named in this passage, but the "forms" (facies) seen in sleep and waking are the same phenomenon treated in Book 4.
+
+[DRAFT] (5.1175) The reasoning that early men "gave them eternal life" (aeternamque dabant vitam) because the visions kept returning corresponds to the Epicurean account of the gods as supplied by a ceaseless stream of images (subpeditabatur). The reader should note that Lucretius accepts the gods' blessed immortality as true elsewhere, and what he faults is the inference from it to divine governance of the world.
+
+[DRAFT] (5.1183) Lucretius gives a second source of belief: ignorance of causes (nec poterant ... cognoscere causis) for the regularity of the heavens. This is the standard Epicurean diagnosis, and the poem argues throughout that the heavens work by natural causes, which Book 5 goes on to explain (5.509 ff.).
+
+[DRAFT] (5.1190) Line 1190 is textually troubled in the manuscripts, and editors have tried to repair or bracket parts of the catalogue of heavenly phenomena in 1189-1193. The translation follows the Latin as printed in the source, repeating "the moon" and "night" as the Latin does.
+
+[DRAFT] (5.1194) The apostrophe "O unhappy human race" (O genus infelix humanum) is the poet's own cry against the consequences of the error. It may be set beside the denunciation of religion at 1.101 ("tantum religio potuit suadere malorum"), where the same charge is made.
+
+[DRAFT] (5.1198) The note on veiled head: the Roman rite required the worshipper to cover the head with a fold of the toga (velatum caput) when sacrificing, as opposed to the Greek practice of sacrificing bareheaded. Lucretius sets "piety" (pietas) against this show and defines the true kind as a mind at peace (pacata mente) in the line that follows.
+
+[DRAFT] (5.1204) The description of fear arising on looking at the heavens (cum suspicimus ... caelestia ... templa) begins a passage that makes the sky the occasion of religious dread. "Walls of the world" (moenia mundi, 1213) is the register's fixed rendering, as at 1.73, where they are "flaming"; here the question is whether they can last, and the Epicurean answer, given at length elsewhere in Book 5, is that every world is born and will perish. A reader may hear in the worry about the world's end an anticipation of later cosmology, but that is the reader's association and not the poet's.
+
+[DRAFT] (5.1211) "Poverty of reasoning" (rationis egestas) names the cause of fear: the mind has no explanation to hand. The line carries the poem's central claim that terror follows from ignorance, and the same idea underlies the refrain at 1.146-148, where the "face and reasoning of nature" (naturae species ratioque) is what scatters it.
+
+[DRAFT] (5.1226) The storm-at-sea example with the "commander of a fleet" (induperatorem classis) uses an archaic form of imperator, as in Ennius, and probably suggests a Roman general with legions (legionibus) and war elephants (elephantis), such as those of Pyrrhus or Hannibal. The point is that even the mighty pray in vain (nequiquam) and drown anyway.
+
+[DRAFT] (5.1234) The note on fasces: the fasces (fascis) were bundles of rods with an axe (securis) carried by lictors before Roman magistrates as emblems of their authority to flog and execute. Lucretius shows the "hidden force" (vis abdita) crushing even these signs of power, which recalls the fall of kings and thrones at 1136-1140.
+
+[DRAFT] (5.1236) The earthquake (tellus ... vacillat) is the last of the three illustrations of terror, after thunder and storm. Lucretius's explanation of earthquakes is given in Book 6; here the phenomenon serves only as a reason for the mortal habit of assigning command (gubernent) to gods.

@@ -1,0 +1,43 @@
+[DRAFT] (3.931) Nature personified speaks (rerum natura ... ipsa), a rhetorical prosopopoeia that turns the argument of Book 3 into a speech of reproach, 933-949 and again 955-962. The English keeps "the nature of things" for the title phrase, so the speaker is the poem's own subject.
+
+[DRAFT] (3.936) The vessel full of holes (pertusum ... in vas) is the leaking jar of ingratitude: pleasures poured in run through unenjoyed. The image returns at 1008-1010, where Lucretius ties it to the Danaids.
+
+[DRAFT] (3.939) "With an even mind" renders aequo animo, the idiom for calm acceptance. Here animus is "mind", the thinking and feeling part, as against anima ("spirit") at 1033.
+
+[DRAFT] (3.955) The manuscripts give baratre, which editors take as a vocative of barathrum ("pit", "abyss"), an abusive term for a glutton who is never filled. The translation follows that reading. The word then plays against barathrum at 966, where the Pit is the underworld pit that no one is actually sent down to.
+
+[DRAFT] (3.962) The text is corrupt at magnis concede necessis. The English reads it as magnis concede, necessest ("yield to greater ones, it is necessary"). A popular conjecture, gnatis, would give "yield to your children", and others read dignis. The translation keeps the general sense of making room for those who come after, which 964-965 spell out.
+
+[DRAFT] (3.971) The line plays on Roman property law: mancipium is full ownership acquired by formal transfer, usus the mere right to use. Life is lent, not owned (vita mancipio nulli datur, omnibus usu). The English keeps "own" against "use" to carry the legal contrast.
+
+[DRAFT] (3.972) Nature's "mirror" (speculum) is the symmetry argument: the endless time before our birth was nothing to us, so the endless time after death will be too. Compare the Punic Wars example earlier in Book 3 (around 832-842).
+
+[DRAFT] (3.978) From here to 1023 Lucretius allegorizes the underworld torments (Acherunte profundo) as conditions of life above ground. The English keeps Acheron as a name for the whole realm of the dead, as with "the precincts of Acheron" (Acherusia templa, 1.120). The point is picked up at 1023.
+
+[DRAFT] (3.980) Tantalus is the figure in the underworld who fears a great rock hanging over him. Lucretius reads him as the living person oppressed by empty fear of the gods (divom metus inanis). The source prints a garbled aereaëre; the translation takes it as ablative aere, "in the air".
+
+[DRAFT] (3.984) Tityos was the giant whose liver, in the Odyssey and later poets, was torn by vultures as he lay stretched over nine "acres" (novem iugera). Lucretius makes the myth physically impossible (987-991) and then reapplies it to the lover, eaten by anxious anguish (992-994). The birds become the cares themselves.
+
+[DRAFT] (3.995) Sisyphus, who rolls a rock uphill only to have it roll down again, is read at 995-1002 as the political aspirant. The rock is the empty office he strives for (imperium, quod inanest), which never stays won.
+
+[DRAFT] (3.996) The fasces (rods) and secures (axes) were carried by lictors before Roman magistrates as signs of imperium. They were won by popular election, hence petere a populo. The English renders the two terms literally and leaves the reader to supply the office.
+
+[DRAFT] (3.1008) The "girls" (puellas) are the Danaids, the daughters of Danaus punished in the underworld by pouring water into a jar full of holes. They are not named in the verse. Lucretius reads them as the insatiable mind that is never satisfied, taking up the leaking vessel of 936-937 almost word for word (pertusum ... in vas).
+
+[DRAFT] (3.1016) The "hurling down from the rock" (de saxo iactus deorsum) refers to the Tarpeian Rock on the Capitoline, from which traitors and other criminals were thrown. The list that follows (carcer, verbera, carnifices, robur, pix, lammina, taedae) gives the real punishments of Rome in place of the mythical ones.
+
+[DRAFT] (3.1023) The closing line, hic Acherusia fit stultorum denique vita, answers the opening of the allegory at 978-979: the Acheron of the fools is their own life. Acherusia is the adjective used at 1.120, and the English does not use "temples" here either.
+
+[DRAFT] (3.1025) The line adapts Ennius, whose Annales have the same wording about good King Ancus (Ancus Marcius, the fourth king of Rome, remembered as a pious ruler). The sequence of examples that follows is the old consolation topos that even the best men die. Lucretius turns it into a self-address by the reader (tibi tute ... dicere).
+
+[DRAFT] (3.1029) Lucretius does not name this king, saying only ille quoque ipse; the reference is to Xerxes bridging the Hellespont in 480 BC (the road across the sea, stravit iter). The English keeps "He" unnamed, as in the Latin.
+
+[DRAFT] (3.1033) "Spirit" renders anima, the vital breath that is poured out (fudit) at death, not the animus or "mind" of 939, 1003 and 1052. Lucretius's whole argument that death is nothing depends on the anima dissolving with the body.
+
+[DRAFT] (3.1034) Scipiadas is a Greek-style patronymic for a member of the Scipio family. The singular ossa dedit points to one man, probably Africanus (conqueror of Hannibal), though Aemilianus, who destroyed Carthage in 146 BC, is a possible target of Carthaginis horror. Belli fulmen, "thunderbolt of war", is echoed by Virgil in Aeneid 6.842, as a reader's association only.
+
+[DRAFT] (3.1037) The Heliconiades are the Muses, named for Mount Helicon, their haunt in Boeotia. Homer's "sceptre" makes him the king of poets. He is the same Homer whose ghost appears to Ennius in the proem (1.124 ff.), so the figure of the great dead poet recurs.
+
+[DRAFT] (3.1039) Democritus, the earlier atomist, is said by tradition to have met his death by choice in old age. Lucretius's sponte sua leto caput obvius optulit ipse follows that tradition, in which Democritus starved himself or ended his life. The English keeps the Latin's formal, almost sacrificial wording (caput ... optulit).
+
+[DRAFT] (3.1042) Epicurus is named here, and the praise that follows (surpassing mankind in genius, putting out the stars like the risen sun) is the only extended apotheosis of him in this book. Check the placeholder's claim that this is "the only place in the poem" he is named. I recall other naming elsewhere, and the proem's "man of Greece" (1.66) is the periphrasis he is usually given.

@@ -1,0 +1,35 @@
+[DRAFT] (6.738) Avernus is the Latin Avernus, the lake near Cumae; the plural "Averna loca" (Avernian places) signals that Lucretius treats it as a type of site, with Cumae, Athens and Syria as further instances. Here the wording "places and lakes" (loca … lacusque) already frames the topic as natural geography.
+
+[DRAFT] (6.740) Lucretius derives "Averna" from Greek *aornos*, "birdless" (a-, "without," + *ornis*, "bird"), which he renders in Latin as "contraria cunctis avibus" (hostile to all birds). The translation keeps "Avernian" untranslated and lets the explanation in 741 carry the etymology.
+
+[DRAFT] (6.747) The "mountains" (montis) filled with sulphur and hot springs are the volcanic Phlegraean district around Cumae; the lake itself was held to be the mouth of the underworld, which is the belief Lucretius goes on to dismantle at 762-766.
+
+[DRAFT] (6.749) The Athenian Acropolis: the temple of "Pallas Tritonis" (Palladis … Tritonidis) is Athena, with "Tritonis" an epithet whose origin is disputed (a river or lake of that name in Libya, or a Boeotian stream). The crow story is told at 754.
+
+[DRAFT] (6.754) The "poets of the Greeks" (Graium … poetae) are the mythographers who made the crows' avoidance a punishment from Athena, in the tale of the crow who informed on Cecrops' daughters. The line has an editorial form in the source (the manuscript spelling "poeetae" printed beside "poeëtae"), which does not affect the sense. Lucretius rejects the myth in favour of "natura loci" (755), the principle governing the whole passage.
+
+[DRAFT] (6.756) The Syrian site is not named further; Lucretius gives it on report ("fertur"). The same kind of poisonous exhalation from the earth is what the following lines will classify as natural, as opposed to the beasts being "slaughtered to the divine shades" (759).
+
+[DRAFT] (6.762) "Orci … ianua" (gateway of Orcus) is the popular belief that Avernus opens onto the underworld; "Acheruntis in oras" (763) is the region of the dead. Lucretius's argument is that the cause is physical, so the gate need not be posited. The stags and snakes comparison (765-766) is a parallel instance of a supposed supernatural attraction explained by natural cause.
+
+[DRAFT] (6.769) "quod dixi saepe quoque ante" (as I have often said before) points back to the earlier doctrine that the earth contains seeds of every kind, some life-giving and some harmful, and that different seed-shapes suit different creatures (cf. 2.398-477, 4.633-672). The "primas figuras" (776), the first shapes of the first-beginnings, are the ground of that difference.
+
+[DRAFT] (6.786) Helicon is the Boeotian mountain of the Muses. The deadly flower there is Lucretius's own report; no ancient parallel is securely identified. Placing a poisonous plant on the Muses' mountain is, perhaps, an irony the reader may notice.
+
+[DRAFT] (6.788) "multa modis multis multarum semina rerum" (many seeds of many things, in many ways) states the doctrine that the earth holds mixed seeds of all kinds, and the line echoes the language of the earlier books (cf. 1.814, 2.1058, 5.916-924 for similar phrasing). The seeds of 789 are the "semina rerum", the register's "seeds of things."
+
+[DRAFT] (6.810) The mines of Scaptensula (Thracian Skapte Hyle) were famous for gold, and were worked by Thucydides and, earlier, by Thasians. The metals are "argenti … aurique" (808); the miners' pallor and early death (812-815) are the human cost Lucretius cites as evidence that the earth breathes out harm.
+
+[DRAFT] (6.826) The text of 826-829 is damaged or uncertain, and editors punctuate it differently, in particular around "cum iam cecidere veneni in fontis ipsos" (when they have fallen into the very springs of poison). The translation follows the sense that the exhalation first stirs a turmoil in the bird and then, once it has fallen into the poison's source, forces it to vomit out its life.
+
+[DRAFT] (6.831) The reading "aera" (air) is printed in the source with a doubled variant ("aeera/aeëra"); the sense is that the exhalation drives the air apart, leaving a near-vacuum below the bird. This is Lucretius's second mechanism for Avernus (830-839), which depends on the rarefied air giving the wings nothing to press against, not on poison.
+
+[DRAFT] (6.838) "vacuum … per inane" (through the almost empty void) uses the register's "void" (inane) in a local sense, as a region of rarefied air, not the absolute void of Book 1. A modern reader might hear a reference to a vacuum; the translation keeps "void" as the register requires.
+
+[DRAFT] (6.839) The source prints a lacuna after this line, and the unnumbered [lacuna] is kept as printed. The lost text presumably closed the Avernus section and introduced the new topic, the wells that are cold in summer and warm in winter (840 ff.), which would have been announced there.
+
+[DRAFT] (6.840) The explanation of wells that are cooler in summer rests on the doctrine of "semina" of heat (841) leaving the porous earth, and it is the first of the paired explanations (840-847) for the Hammon spring that follows. The seeds of heat are literal first-beginnings in Lucretius's physics, not a figure.
+
+[DRAFT] (6.848) The "fons … Hammonis" is the Spring of the Sun at the oasis of Siwa, reported by Herodotus (4.181) as cold at midday and hot at midnight. Lucretius gives it on report ("fertur") and then disputes the popular explanation that the sun heats it from below at night (850-853).
+
+[DRAFT] (6.871) "primordia ignis" (first-beginnings of fire) is the first occurrence in this segment of the register's "first-beginnings." The register's "primordia" corresponds to what a reader may know as atoms. Here it is the seeds of fire (semina ignis, 863, 867) that return to their old seats, so the two words are used interchangeably for the same thing.

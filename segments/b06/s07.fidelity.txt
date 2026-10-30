@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+973	LEXICAL	MINOR	0.50	"amaracinum ... unguentum" is the marjoram-based perfume, but the English "marjoram and ... every ointment" makes the plant and the ointment two separate things; "the pig flees marjoram-ointment and fears every perfume".

@@ -1,0 +1,47 @@
+[DRAFT] (3.3) Epicurus is unnamed here as at 1.66; the praise is addressed to "Graiae gentis decus" and the English keeps the periphrasis, "glory of the Greek race". The same opening (3.1-30) is a hymn to him and echoes the proem of Book 1 (1.62-79), where he is likewise "a man of Greece".
+
+[DRAFT] (3.9) "Pater" and "patria... praecepta" (3.9-10) make Epicurus a father in two senses: discoverer of things and giver of a father's teachings. "Rerum inventor" is the one who found out the nature of things, not an inventor in the modern sense.
+
+[DRAFT] (3.11-13) The bee simile (floriferis ut apes in saltibus) and the "aurea dicta" are a Lucretian image for his debt to Epicurus's writings (chartis). It is closely paralleled by 1.926-950 and by Ennian and Callimachean literary imagery. The reader should hear "golden" as the highest praise, not as ornament.
+
+[DRAFT] (3.16-17) "Moenia mundi" is "the walls of the world", the same phrase as "flammantia moenia mundi" at 1.73 and again at 5.454. In the proem Epicurus's mind breaks through them; here the walls "draw apart" before his reasoning. "Inane" is "void", per the register, and "totum... per inane" states the infinite void of Epicurean doctrine. A modern reader may hear an echo of an infinite universe, but that is the reader's association, not a claim the verse makes.
+
+[DRAFT] (3.18-22) These lines adapt Homer's picture of Olympus (Odyssey 6.42-46), where the gods' seat is neither shaken by wind nor wetted by rain nor covered with snow. The Epicurean point is the gods' undisturbed peace (divum numen sedesque quietae), which the verse takes over from the Homeric image. The same lines turn up in a similar form at 2.646-651 only in sense, not verbatim, so no verbatim echo is required.
+
+[DRAFT] (3.25) "Acherusia templa" is "the precincts of Acheron", as at 1.120; "templa" means regions, never "temples". It reappears at 3.86 in the same sense, where the fear of it drives men to betrayal.
+
+[DRAFT] (3.28-29) "Divina voluptas" and "horror" are Lucretius's own response to the vision of nature laid bare: a godlike pleasure joined with a shudder. "Voluptas" is "pleasure" as always in this register.
+
+[DRAFT] (3.31-36) "Exordia rerum" is another name for the first-beginnings (primordia), and "animi natura atque animae" announces the topic of the book. The register keeps "animus" as "mind" and "anima" as "spirit"; a reader who knows these as "soul" should not expect that word here. The sentence also signals the second task of the book, driving out the fear of Acheron (metus... Acheruntis).
+
+[DRAFT] (3.37) "Acheruntis" is Acheron, a river of the underworld, used here for the whole realm of the dead. The fear of it is the book's main target.
+
+[DRAFT] (3.42) "Tartara leti" is "the Tartarus of death", the deepest place of punishment in the underworld, used for the supposed terrors that follow death. The phrase belongs to the poet's account of popular fear and not to Epicurean doctrine.
+
+[DRAFT] (3.43-44) The two opinions that the mind is blood (sanguinis) or wind (venti) are those of rival philosophers, which Lucretius brushes aside as a boast. The "si fert ita forte voluntas" shows his scorn for the way such opinions are held.
+
+[DRAFT] (3.52) "Manibus divis" are the "divine shades", the spirits of the dead, honored with black cattle and "inferias", funeral gifts. This is a Roman custom of offerings to the dead that the exiles keep up even in misery.
+
+[DRAFT] (3.54) "Religionem" is rendered "religion", never "superstition", per the register; the plain word carries the force of the argument, as in the proem (1.63). Here it is what men turn to under pressure, which is Lucretius's point.
+
+[DRAFT] (3.58) The transmitted "amanare" is corrupt, and the translation follows the usual correction "manet res" ("what is real remains"). The sense is that under stress the mask (persona) is torn off and the real man remains. The note on the placeholder is right and may stay as the translator wrote it.
+
+[DRAFT] (3.59-64) "Avarities" and "honorum caeca cupido" are the two drivers Lucretius names, wealth and political ambition; the passage argues that both grow from the fear of death. A Roman reader would think of the civil strife of the late Republic, which the following lines (3.70-73) bring out ("sanguine civili").
+
+[DRAFT] (3.84) The text is uncertain here and the construction strained; the translation follows the source as printed. The sense is that fear of death overturns shame, friendship and "pietas", the Roman duty to family and country.
+
+[DRAFT] (3.87-90) These lines repeat 2.55-58 and recur at 6.35-38; the English must match the Book 2 rendering verbatim. The children's fear of the dark is Lucretius's own image of irrational fear, taken up again in the refrain at 3.91-93.
+
+[DRAFT] (3.91-93) This is the refrain first given at 1.146-148 and repeated at 2.59-61 and 6.39-41, with the English fixed at first occurrence. "Naturae species ratioque" is "the face and reasoning of nature", per the register.
+
+[DRAFT] (3.94) This is the first technical contrast of "animus" and "mens" in the book. "Animus" is rendered "mind" and "mens" "thought" beside it, per the register; Lucretius says he uses the two words for one and the same thing.
+
+[DRAFT] (3.97) The lacuna after this line is marked in the source; the surviving lines 98-105 give an opponent's view, so the lost line probably introduced it. The translation prints the lacuna unnumbered and supplies nothing.
+
+[DRAFT] (3.100) "Harmoniam" is the theory, held by Aristoxenus and others, that the soul is an attunement of the body, as music is of a lyre's strings. The Greeks (Grai) named it; Lucretius refutes it at 3.98-135.
+
+[DRAFT] (3.117) "Animam" is "spirit", here the vital principle spread through the limbs. The register distinguishes it from "animus" (mind), which Lucretius locates in the chest at 3.136 ff.
+
+[DRAFT] (3.121-127) "Corpora... caloris" and "venti... calidique vaporis semina" give the Epicurean doctrine that the spirit consists of fine bodies of heat and wind. The English keeps "bodies" and "seeds" as the register fixes them.
+
+[DRAFT] (3.132) "Heliconi" is Mount Helicon in Boeotia, seat of the Muses; the point is that the musicians took the word "harmony" from there, or from somewhere else. The phrase mocks the theory's pedigree.

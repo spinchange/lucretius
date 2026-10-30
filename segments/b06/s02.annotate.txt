@@ -1,0 +1,19 @@
+[DRAFT] (6.250) The Latin text here is garbled by an encoding fault, which also affects 253, 254, 304 and 346; the translation reads the sense as aëra ("air"), usque, superne and aëre, the ordinary readings, so no crux is concealed.
+
+[DRAFT] (6.251) Acheron (Acherunta) is the underworld river, here standing for the underworld itself. Lucretius uses the name for a place of darkness in a passage that denies the underworld's existence, so the image is a figure of speech and not a doctrine. The poem often reuses Acherusia templa in its argument against the fear of death.
+
+[DRAFT] (6.271) "I have shown above" (supra docui) refers back to the account of cloud-composition earlier in Book 6, and ultimately to the doctrine that clouds contain seeds of heat. Here "seeds" (semina) is the register's "seeds of things", used for the heat-bearing bodies.
+
+[DRAFT] (6.279) "In two ways" (duplici ratione) gives the two causes of ignition: the wind's own swift motion (mobilitate) and its contact with fire already in the cloud. Epicurean physics treats the heating of fast-moving bodies as a mechanical result of motion, not as a separate fire-substance.
+
+[DRAFT] (6.298) "Our native name" (patrio nomine) means the Latin word fulmen, set against the Greek keraunos, a point of pride in Latin's capacity to name things. Lucretius elsewhere laments the poverty of Latin (patrii sermonis egestas, 1.832).
+
+[DRAFT] (6.306) "Lead bullet" (plumbea glans) is the sling-bullet used by Roman auxiliaries. The ancient claim that such missiles melt or glow in flight is a stock illustration of heating by friction in air; the comparison explains the wind's acquiring fire on a long path.
+
+[DRAFT] (6.314) The sparking of iron on flint (lapidem ferro cum caedimus, evolat ignis) is a standard Lucretian proof that fire lies hidden in apparently cold bodies, as the "seeds of hot brightness" (semina calidi fulgoris) come together at the blow. The comparison recurs in the poem's accounts of fire's origins.
+
+[DRAFT] (6.335) "All weights strive downward" (pondera deorsum omnia nituntur) is the Epicurean doctrine that atoms move downward by weight, which the swerve later complicates (2.217-293). Here it explains why the thunderbolt falling from above gains speed, since its own downward tendency is added to the force of the blow.
+
+[DRAFT] (6.349) "Liquid fire" (liquidus ignis) is fire made of such fine, smooth bodies that it passes through the pores (foraminibus) of dense things without disturbing their structure. This is the doctrine behind the lightning that melts a sword and leaves the sheath whole, a standard illustration, which Lucretius develops in the lines that follow.
+
+[DRAFT] (6.352) "Elements" (elementa) in 354 is the register's single word for the smallest constituent bodies, and it is the same word Lucretius uses for the letters of the alphabet in his analogy of atoms and words (1.197). "Smooth" (leves) reflects the doctrine that smooth atoms are fine and penetrate easily, as at 2.381-477.

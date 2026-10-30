@@ -1,0 +1,4 @@
+FINDINGS
+1104	MISTRANSLATION	MODERATE	0.76	"indignos inque merentes" means the undeserving of such a fate and those who deserve well (the innocent and the deserving), but "the unworthy and the undeserving" makes both groups morally bad and drops the contrast with "nocentes"; "and strikes dead the innocent and the deserving?"
+SECONDARY
+1093	LEXICAL	MINOR	0.55	"pro sancta deum tranquilla pectora pace" has "sancta" modifying "pace" and "tranquilla" modifying "pectora", but the English gives "holy hearts" and "tranquil peace"; "For by the tranquil hearts of the gods, in holy peace"

@@ -1,0 +1,5 @@
+FINDINGS
+1409	MISTRANSLATION	MODERATE	0.85	"numerum servare genus didicere" has genus ("the race") as the subject learning to keep the measure, but the English turns it into "in its kinds" and leaves the subject implicit; fix: "and the race has learned to keep the measure, and yet not a whit"
+SECONDARY
+1386	GRAMMAR	MINOR	0.55	"avia per nemora ac silvas saltusque reperta" is a passive participle for things found in pathless woods (the laments, or the discoveries), but "the pipe found out through pathless groves" reads as the pipe doing the finding; fix: "found in pathless groves and woods and glades"
+1408	LEXICAL	MINOR	0.50	"vigiles" here means those who stay awake, picking up "vigilantibus" in 1405, but "watchmen" suggests a city watch; fix: "from which even now the wakeful keep these customs handed down"

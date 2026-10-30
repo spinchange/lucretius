@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+452	GRAMMAR	MODERATE	0.60	In "illa quidem debent e levibus atque rutundis esse magis, fluvido quae corpore liquida constant", the relative clause "quae ... liquida constant" describes illa (the liquids). The English "smooth and round bodies / that are liquid" attaches it to the bodies, so the first-beginnings themselves read as liquid. Suggested fix: "Those things, indeed, that stand as liquids, of fluid body, must be made rather of smooth and round bodies."

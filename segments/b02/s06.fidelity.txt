@@ -1,0 +1,5 @@
+FINDINGS
+NONE
+SECONDARY
+862	LINEATION	MINOR	0.50	The Latin "inmortalia ... fundamenta" makes the foundations immortal, but "set beneath things immortal / foundations" lets "immortal" attach to "things"; suggested fix: "if we wish to set beneath things foundations immortal,"
+865	GRAMMAR	MINOR	0.50	"ea quae sentire videmus cumque" is a restricted relative (whatever we see to have sense), but "all the things we see have sense" can read as a universal claim that everything visible senses; suggested fix: "Now all the things we see to have sense, whatever they are,"

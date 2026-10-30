@@ -1,0 +1,21 @@
+[DRAFT] (3.553) The Latin prints "tali" ("in parvo lincuntur tempore tali"), which the translation keeps, giving "in such a case"; several editors emend to "tabe" (decay), which would make the severed hand or eye "melt away in decay" within a short time. The sense, that a part cut off from the whole soon perishes, is the same either way.
+
+[DRAFT] (3.554) Here "animus" is "mind", and in 3.558-565 it is paired with "anima", "spirit". Lucretius treats the two as one mortal compound in the body (3.579, "coniunctast causa duobus"), so the English keeps both terms to show the pairing. His vessel image (illius quasi quod vas esse videtur) reappears at 3.440, where Epicurean doubt about body as container is stated, and is hedged here by "or whatever else you would rather picture".
+
+[DRAFT] (3.568) "First-beginnings" translates "primordia", the register's term for what a modern reader would call atoms. Here the primordia are those of the spirit, which are too closely held within the body to "leap apart" (dissultare) and so keep their sense-bearing motions.
+
+[DRAFT] (3.571) The source prints a doubled spelling ("aerisaëris", also "aeraër" at 3.573 and "aerisaëris" at 3.591); this is a spelling variant of the Latin for air (aer, genitive aeris), read simply as "air" in the English.
+
+[DRAFT] (3.573) The sense is that, if the spirit could hold together and keep its motions outside the body, the air would itself become a body and a living thing (corpus enim atque animans erit aer). Since it plainly does not, the spirit cannot keep its motions once released, because the air does not hold it in the way the body does.
+
+[DRAFT] (3.597) The idioms "animo male factum" and "animam liquisse" are ordinary Latin for fainting. Lucretius takes them at their word as evidence that the spirit can be loosened and begin to leave without a full death.
+
+[DRAFT] (3.614) The snake that sloughs its skin (vestem relinquere, ut anguis) is a familiar image of renewal. Lucretius uses it ironically: if the mind were immortal, dying would feel like shedding a garment, and the dying report no such thing.
+
+[DRAFT] (3.622) The compressed claim "usque adeo sequitur res rem" means that each kind of thing is bound to its own fitting place and conditions, as flame is not born in rivers nor cold in fire. The argument is that the mind's fixed seat (3.615-617) shows it is generated, and lives, only in this body. This is the same principle of fixed places that Lucretius uses for birth and growth elsewhere in the poem.
+
+[DRAFT] (3.628) "Acherunte" is Acheron, one of the rivers of the underworld and a name for the underworld itself, here the traditional realm where the shades wander. Lucretius argues that the shades of myth, painted and described as having eyes, ears and the rest (3.629-630), imply a body for the spirit that his doctrine denies.
+
+[DRAFT] (3.642) The "falciferos currus" are scythed chariots, war chariots with blades fixed to the axles, used by eastern armies (Seleucid and Pontic in Roman memory) rather than by Greeks or Romans. Lucretius says "memorant" (they tell), so he reports the account rather than claiming to have seen it.
+
+[DRAFT] (3.657) The sequence of the severed snake (3.657-663) is an observational argument that the spirit divides with the body. At 3.664-666 he turns it into a reductio: if each piece held a whole spirit, one living creature would have had many spirits, which is absurd, so the spirit was one and has been divided (3.667).

@@ -1,0 +1,5 @@
+FINDINGS
+NONE
+SECONDARY
+1209	GRAMMAR	MINOR	0.55	"ne quae forte deum nobis inmensa potestas sit" is a fear clause (lest there be some power of the gods over us), but the English "whether there may perhaps be" turns the dread into a neutral question; "lest there perhaps be some immeasurable power of the gods over us"
+1239	LEXICAL	MINOR	0.50	"potestatis magnas mirasque relinquunt in rebus viris divum" means they hand over or assign great powers to the gods' strengths, but "leave room for" weakens this to mere allowance; "and consign great and marvelous powers to the gods' strengths in the affairs of the world"

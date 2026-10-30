@@ -12,6 +12,10 @@ Billing: by default ANTHROPIC_API_KEY is removed from the child environment
 so claude -p uses the claude.ai login (your subscription). Pass
 --billing api to leave the key in place and bill the API instead.
 
+The child runs with no tools at all (--tools "" plus an empty MCP config), so
+the model must answer in one text turn; otherwise it sometimes reaches for a
+tool and the --max-turns 1 limit yields empty output.
+
 Usage:
   python tools/dispatch.py --stage translate --book 1 --max 3
   python tools/dispatch.py --stage fidelity --ids b01s01,b01s02
@@ -70,7 +74,8 @@ def run_one(entry, stage, model, billing, timeout):
     if billing == "subscription":
         env.pop("ANTHROPIC_API_KEY", None)
     exe = shutil.which("claude")
-    cmd = [exe, "-p", "--model", model, "--output-format", "text", "--max-turns", "1"]
+    cmd = [exe, "-p", "--model", model, "--output-format", "text", "--max-turns", "1", "--tools", "",
+           "--strict-mcp-config", "--mcp-config", str(ROOT / "tools" / "no_mcp.json")]
     RUNS.mkdir(exist_ok=True)
     t0 = time.time()
     r = subprocess.run(cmd, input=prompt.encode("utf-8"), capture_output=True, cwd=str(RUNS), env=env, timeout=timeout)

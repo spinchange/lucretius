@@ -1,0 +1,37 @@
+[DRAFT] (4.777-778) Lucretius opens a new run of problems about vision and thought with a stock formula of promise ("multa... quaeruntur"). The questions that follow are Epicurean: how the mind thinks of exactly what it wants, how dream-images can dance in order, and why the mind sees only what it attends to. All are answered from the doctrine of simulacra, called "images" here as elsewhere in the register.
+
+[DRAFT] (4.781) "Simulacra" is rendered "images", the film-like effluences from objects that Book 4 makes the cause of all sight and of thought. The question asks whether the images stand ready, as guards ("tuentur"), to meet each wish. The poem soon answers that thought is an act of attention, not of command.
+
+[DRAFT] (4.785) "Omnia sub verbone creat natura": "verbone" is the transmitted form, an old by-form of "verbo", and the translation reads it as "at a word". The phrase pictures nature as an obedient servant, which Lucretius means to be absurd.
+
+[DRAFT] (4.788-793) Dreams of dancing figures ("in numerum procedere", "ludos") are taken from the passage Lucretius gave in 4.768-776. The "docta" (taught) images are mocked as having been trained like dancers, and the passage then gives the real answer, which is the speed of the images.
+
+[DRAFT] (4.794-799) The doctrine compressed here is that perceived time is made of many unperceived moments ("tempora multa latent, ratio quae comperit esse"). In each of these a fresh image can arrive, so the mind seems to be served at once. "Ratio" here is the reasoning that finds what the senses cannot, as in the register.
+
+[DRAFT] (4.799) Repeats 4.774 verbatim: "tanta est mobilitas et rerum copia tanta". Here "rerum" means the images (the "store of things"), not things in general.
+
+[DRAFT] (4.800-801) These lines repeat 4.771-772 nearly word for word. Their sense fits the dream-dance, where a succession of slightly different images looks like one figure changing its posture ("gestum mutasse"), and the translation matches the earlier lines. The repetition is Lucretius's own and is probably an intrusion from 4.771-772 here.
+
+[DRAFT] (4.802-806) The mind (animus) sees only what it has prepared itself for ("quae ex sese ipse paravit"). The images are too fine to be seen unless the mind strains toward them ("contendit"). This attention is Lucretius's account of why thought follows desire without any image being summoned.
+
+[DRAFT] (4.808) This line repeats 4.804 ("praeterea pereunt, nisi quae ex se ipse paravit") and interrupts the sentence about the eyes, which breaks off with no main verb. Editors generally treat it as an intrusion from 4.804, or at least as damaged, and the translation keeps the line as transmitted so that the break remains visible.
+
+[DRAFT] (4.823) The text is corrupt in "vehementer ainesse inesse" (the transmitted "inesse" does not parse as it stands). The usual emendation, from "ainesse" read as "ainesseäinesse", gives "I strongly want you to flee this fault", which the translation follows.
+
+[DRAFT] (4.823-842) This is the famous argument against teleology: eyes were not made for seeing nor legs for walking, since each organ existed before its use and use arose from it ("quod natumst id procreat usum", 4.835). A modern reader may associate it with later anti-purposive accounts of living things, but that is the reader's association, not the poet's claim.
+
+[DRAFT] (4.832-833) "Perversa praepostera... ratione" is a tight phrase: the reasoning is "backward" (literally "put last what is first") and "turned upside down". The translation gives both words their force and keeps the Latin's rhetorical blame.
+
+[DRAFT] (4.843-850) The examples (fighting and wounds, rest and beds, thirst and cups) are meant to show that the need and the behavior precede the invention. "Nature compelled" ("natura coegit") marks the instinct, as against art ("per artem") in the shield.
+
+[DRAFT] (4.853-857) Lucretius divides things into those devised from use ("ex usu... reperta") and those that gave us the notion of use after they had been born. The senses and limbs are of the second kind, so he rejects the explanation "utilitatis ob officium". The same argument closes with a refrain-like "etiam atque etiam", which marks his insistence.
+
+[DRAFT] (4.858-876) Hunger and thirst are explained by the doctrine of effluences: bodies ("corpora") stream from creatures, and food replaces them. Lucretius refers back to this ("docui", 4.860) without a book citation; it is the doctrine that things constantly flow off and are replaced, taught in the earlier books.
+
+[DRAFT] (4.877-880) This announces the account of voluntary movement, which Lucretius has promised ("dicam"). The address "tu percipe dicta" turns again to Memmius, who is addressed as "you" throughout.
+
+[DRAFT] (4.881-891) The chain is: an image of walking strikes the mind (animus), the mind strikes the spirit (anima) spread through the body, and the spirit moves the body. The register keeps "mind" for animus and "spirit" for anima, and the distinction matters here, since the two are joined ("coniuncta") in a single causal chain.
+
+[DRAFT] (4.892-897) Air entering the loosened body is the second cause, so the body moves under two forces, like a ship driven by sails and wind ("velis ventoque"). The simile is Lucretius's own, with the two forces matching sail and wind.
+
+[DRAFT] (4.898-906) The final comparisons answer the worry that tiny bodies (corpuscula) cannot move a great one. Wind, a single rudder, and a machine with pulleys and treadwheels ("trocleas et tympana") all show a small force moving a large weight. "Tympana" are treadwheels or drums in the Roman lifting machine, a crane worked by men walking inside a wheel.

@@ -1,0 +1,5 @@
+FINDINGS
+NONE
+SECONDARY
+1110	OMISSION	MINOR	0.50	"appareret spatium caeli domus" has the space of heaven's house become visible or manifest, but "gain room" drops "appareret"; fix: "the house of heaven's space could appear, and lift its lofty roof"
+1174	LEXICAL	MINOR	0.50	"ad capulum" means to the bier or coffin, but "tomb" displaces it by moving from the carrying-out to the burial place; fix: "go to the bier"

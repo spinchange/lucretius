@@ -1,0 +1,37 @@
+[DRAFT] (2.297) Lucretius here says *principiorum* ("beginnings") rather than *primordia*; it is one of his interchangeable names for the first-beginnings, and the English keeps it distinct from "first-beginnings" (the register's rule that distinct Latin gets distinct English). The sense is the same bodies.
+
+[DRAFT] (2.300) The lines 2.294-302 state the conservation of matter: the total stock never grows or shrinks (*nam neque adaugescit quicquam neque deperit inde*), so the pattern of birth and growth stays fixed by *foedera naturai*. A modern reader may hear an anticipation of conservation laws; that is the reader's association, not the poet's claim.
+
+[DRAFT] (2.310) *summa tamen summa* repeats the word in two senses: the first is "the sum" (the whole of things, as at 2.303), the second is the adjective "utmost" (*summa quiete*, "in highest rest"). The translation keeps the pun by using "the sum" and "utmost" in the same line.
+
+[DRAFT] (2.317) The sheep on the hill (317-322) and the legions on the plain (323-332) are the first of the poem's illustrations that motion can be present but unseen at a distance. The same sheep image is reused in the Book 2 argument about invisible motion; the legions are a second example of the same point, seen from a high place (*altis montibus*).
+
+[DRAFT] (2.324) *belli simulacra* are mock-battles or military exercises, not images in the Epicurean technical sense (the films of Book 4). The translation keeps "images" so the register's fixed term for *simulacra* is not varied, but the sense here is "the semblance of war."
+
+[DRAFT] (2.333) *exordia rerum* ("starting-points") is a further synonym for the first-beginnings, here introducing the doctrine of the variety of atomic shapes. The register leaves *exordia* unfixed; "starting-points" keeps it distinct from "first-beginnings" and "beginnings."
+
+[DRAFT] (2.339) *uti docui* refers back to the proof of the infinity of the all and of the number of bodies in Book 1 (the argument at 1.951 ff.). The infinity of the supply of first-beginnings is what makes it necessary that not all have the same shape (340-341).
+
+[DRAFT] (2.353) *delubra* and *turicremas aras*: a Roman or Italic sacrificial scene, with a calf slaughtered at an incense-burning altar before the shrines. The calf-and-mother passage (352-366) is a famous set-piece; Lucretius uses the grief of the cow to prove that offspring recognise their own by individual shape, and the grief is not used here as a comment on religion.
+
+[DRAFT] (2.362) The reading *summis ... ripis* ("level with their banks") means the river flows full to the top of the banks, as in spate; it is not the sense "from the top of the banks." The translation takes the first sense.
+
+[DRAFT] (2.381) *animi ratione* ("by the mind's reasoning"): *ratio* here is the act of reasoning, not the doctrine, and the register's "reasoning" is kept. The passage 381-397 begins the series of explanations by shape: lightning through small pores, light through horn, wine through a strainer, oil held back.
+
+[DRAFT] (2.401) *ferique centauri*: "wild centaury," the plant (*centaurion*), named in myth after the centaur Chiron, who was said to have used it as a cure; the Latin adjective *feri* ("wild") gives the pun with "centaur," and the translation takes it as the plant.
+
+[DRAFT] (2.412) *musaea mele*: the melodies of the Muses, that is, music in general. The contrast of the screech of the saw (*serrae stridentis*) with musical sound is an argument from sense experience: sounds that please come from smooth bodies, harsh ones from rough.
+
+[DRAFT] (2.416) *croco Cilici*: saffron from Cilicia, used to scent and colour the Roman stage, where perfumed water or saffron was sprinkled; the *scena* here is the theatre, set against the funeral pyre (*cadavera torrent*) as a foul smell and the incense on the altar as a pleasant one. The line on Panchaea (417) is marked in the draft already.
+
+[DRAFT] (2.430) *fecula ... inulaeque sapores*: wine-lees and elecampane (*inula*), given as examples of tastes that are neither smooth nor hooked but have "little angles jutting out a little" (*angellis*), tickling rather than wounding. The translation follows the manuscripts' *inulae*.
+
+[DRAFT] (2.434) *tactus enim, tactus, pro divum numina sancta*: an emphatic repetition with an oath ("by the holy powers of the gods"), unusual in Lucretius, who stresses that touch is the sense underlying all the others. The doctrine is that all sensation is finally a kind of touch by bodies, which is why shape matters.
+
+[DRAFT] (2.437) *genitalis per Veneris res*: "the acts of Venus," that is, sexual pleasure, as one of the ways touch can delight when something goes out of the body. The Venus here is the goddess as a figure for sex, not a divine agent, as in the proem (1.1).
+
+[DRAFT] (2.447) *adamantina saxa*: "rocks of adamant," a legendary hardest substance, not the modern diamond; the translation keeps "adamant." *prima acie* is a military phrase ("in the front line"), continuing the image of hardness as resistance.
+
+[DRAFT] (2.453) *papaveris haustus*: a scoop or draught of poppy-seed, which pours like water because its little globes do not cling together (*glomeramina*). The Latin is difficult here, and the translation follows the reading *haustus itemst facilis quod aquarum*.
+
+[DRAFT] (2.465a) The sentence begun at 464-465 ("that you see the same things bitter that are fluid ... ought to be no wonder") has no verb or conclusion in the text as printed, because a line has been lost after 465; 466 then begins *nam* with the explanation. The translation prints the lacuna as unnumbered `* * *`, supplies nothing, and leaves the sentence broken as in the Latin.

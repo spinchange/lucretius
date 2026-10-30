@@ -1,0 +1,6 @@
+FINDINGS
+NONE
+SECONDARY
+662	MISTRANSLATION	MODERATE	0.62	"ipsam seque retro partem petere ore priorem": the English makes "the fore part" the subject that turns back to seek "itself", but in the Latin the piece turns back with its mouth to seek the earlier-struck part (the wound); suggested fix: "and turn back, each piece, to seek with its mouth the part struck before,"
+553	LEXICAL	MODERATE	0.55	"lincuntur tempore tali": "melt away" is the reading of the emendation "tabe", while the printed Latin says the parts are left or abandoned (linquuntur) in a short time; the {{NOTE}} flags the variant but the verse follows the emendation; suggested fix: "but in a short time are left behind in such a state,"
+592	GRAMMAR	MINOR	0.50	"finis vitae vertitur intra": the subject is "the end of life", turning or drawing in, but the English makes an unspecified "it" turn "within the bounds of life"; suggested fix: "What is more, while the end of life is still turning within,"

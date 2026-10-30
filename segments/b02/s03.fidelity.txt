@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+469	ADDITION	MINOR	0.55	"scilicet esse globosa tamen" says they are nonetheless round, though made of rough parts, but "need only be round" adds a minimal-requirement sense ("need only") that the Latin lacks; "Clearly they are round nonetheless, though they are made up rough,"

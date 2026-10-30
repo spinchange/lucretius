@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+345	GRAMMAR	MINOR	0.50	"mutua vitalis discunt contagia motus" has contagia as the object of discunt, with vitalis motus as its genitive, so they learn the mutual contacts of life-motions. The English makes the motions the thing learned and the contacts only the means: "learn the mutual contacts of the motions of life, in their joining".

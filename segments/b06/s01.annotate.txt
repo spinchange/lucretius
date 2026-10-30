@@ -1,0 +1,31 @@
+[DRAFT] (6.129) The Latin compound is a Lucretian coinage ("perterricrepo sonitu"), found nowhere else in surviving Latin. It is a hapax that stacks "terror" on "crackling" (-terri-, -crepo). The translation renders it "terrifying crackling" and keeps one English phrase for the one word.
+
+[DRAFT] (6.130) The comparison to a burst bladder (vensicula, a manuscript spelling for vesicula) is the first of the everyday analogies Lucretius uses to show that a small, familiar thing can make a loud noise. It is meant to take the mystery out of thunder, not to compare sizes.
+
+[DRAFT] (6.135) Caurus is the northwest wind. The translation gives the direction in English and does not keep the Latin name (cauri).
+
+[DRAFT] (6.139) "Manifesta res" is the plain evidence of the senses. In Epicurean method this is the check on what cannot be seen: the unseen action of wind in the clouds is argued from its visible action on trees.
+
+[DRAFT] (6.145) Lucretius is now treating the thunderbolt (fulmen) as fire that falls from one cloud into another. The "burning force" (vis ardens) acts on the cloud like iron on water, which accounts for the hiss in the next lines. The two explanations here, wet cloud and dry cloud, are given as alternatives. Epicurean method does not require choosing one.
+
+[DRAFT] (6.154) Phoebus is Apollo, and the laurel was his sacred tree at Delphi (Phoebi Delphica laurus). It was burned at his shrine, and the Roman reader would know it as the plant that crackles loudly in a fire. The point is that the god's own tree gets no protection from the fire.
+
+[DRAFT] (6.160) "Semina" of fire are "seeds" in the register, the same word as semina rerum. Here they are the fire-bodies struck out of the clouds, and "ignis semina" returns at 6.182, 6.201, 6.206 and 6.213.
+
+[DRAFT] (6.164) Lucretius explains the delay between lightning and thunder by the slower travel of sound (tardius adveniunt), and gives the woodcutter as the familiar case. A reader may hear an anticipation of the measured speeds of sound and light. That is the reader's association, not the poet's claim.
+
+[DRAFT] (6.176) "Ut ante docui" refers back to the passage at 6.126-127, where the wind's whirling made the cloud hollow and dense. It also points to the lines Lucretius wrote earlier in this same book.
+
+[DRAFT] (6.179) The leaden sling-bullet (plumbea glans) that melts in flight is the example Lucretius gives for motion producing heat. The idea reappears at 1.? in Book 1 only as a general principle. Check whether the translator wants it tied to the parallel at 6.306, where the same point is made.
+
+[DRAFT] (6.187) The Latin is difficult here: "frudi" for "fraudi" is the transmitted spelling, and the sense of 188 is disputed. The translation takes the argument to be that from below we see how wide the clouds are but cannot judge how high they are piled. A translator should check this against the apparatus.
+
+[DRAFT] (6.198) The wind imprisoned in the clouds is compared to wild animals shut in cages (ferarum more). It belongs to a group of passages in which Lucretius treats the winds as living creatures that are angry or trapped. The picture is figurative and is not the poet's doctrine.
+
+[DRAFT] (6.204) The "golden color of liquid fire" (liquidi color aureus ignis) is the lightning that falls to earth, as distinct from the flashes in the clouds. Lucretius now accounts for its brightness by the sun's light stored in the clouds (6.209).
+
+[DRAFT] (6.219) "Quod superest" opens the discussion of the thunderbolt's nature, and in the register it is the transitional "for the rest." The lines that follow argue that the bolt is fire and not wind or rain from its signs, which are scorching and the smell of sulphur.
+
+[DRAFT] (6.235) "Primordia vini" is "first-beginnings of the wine." This is the register's technical word used of a liquid, and it makes the point that the bolt breaks up the wine into its constituent bodies.
+
+[DRAFT] (6.245) The final line closes the preview of the topics for the next section: how thunderbolts are generated and why they have such force. It is the one place in this segment where Lucretius promises what he will deliver (promissis), which is characteristic of his habit of announcing a plan.

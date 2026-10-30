@@ -1,0 +1,31 @@
+[DRAFT] (6.879) The segment opens mid-argument: Lucretius is still explaining why some springs are cold yet can ignite tow and torches. The explanation (seeds of fire rising through the water, too few to heat it) continues the Book 6 treatment of springs from the preceding lines.
+
+[DRAFT] (6.883) "No wonder" renders (ni mirum), the poet's stock formula for turning a marvel into a consequence of first principles. The reasoning is that fire-bodies (ignis corpora) rise from the earth through the water in numbers too small to warm it but enough to kindle tow.
+
+[DRAFT] (6.890) Aradus was an island city off the Phoenician coast, and the sea-bed freshwater spring there (Aradi fons) was a well-known marvel. Sailors drew from it, as 892-894 say. The translator's placeholder is accurate. I would keep the gloss short and add that Lucretius uses the spring as a parallel (quod genus) for seeds rising through a body of water of a different kind.
+
+[DRAFT] (6.906) "Covenant of nature" renders (foedere naturae), the register's fixed rendering. The magnet is Lucretius's showpiece for the whole second half of the book. The explanation is withheld until 1002 ff., and 917-920 say outright that long preliminaries are needed.
+
+[DRAFT] (6.908) The name is derived from the Magnetes (Magnetum ... in finibus), the people of Magnesia, which the poet treats as the stone's homeland. Ancient sources place it in Thessaly or in Lydian Magnesia, and Lucretius does not say which. Keep the placeholder's point but note that he does not specify.
+
+[DRAFT] (6.921) These lines (921-935) closely repeat 4.217-229, the doctrine of continual effluences from things. Where the Latin repeats, the register requires the English to match the Book 4 translation word for word. The present English needs to be checked against it, since "bodies to strike the eyes" and the smell, sound and taste examples should agree.
+
+[DRAFT] (6.937) The "first song" (primo carmine) is Book 1, where the porousness of solids is argued with the examples of water seeping through caves, food passing into bodies and cold passing through bronze (see 1.346-357). It is cited here because the void is what allows things to pass through other things.
+
+[DRAFT] (6.941) "Body mixed with void" (corpus inani) condenses the doctrine that everything perceptible is made of first bodies and void. The void (inani) is what the effluences travel through, and so the whole list of examples at 942-958 depends on it.
+
+[DRAFT] (6.953) The Latin line has a textual variant at the end (sueevit / sueëvit, an editorial matter of orthography and scansion). The translation follows the sense "is used to" without comment on the spelling, and a note is probably not needed beyond the placeholder at 954.
+
+[DRAFT] (6.954) "Breastplate of the sky" (caeli lorica) is the outer shell of the world, the flaming walls (flammantia moenia mundi) in other terms. The line is difficult in context and the syntax of 953-955 is strained, and editors have suspected disturbance here. The English leaves the construction loose, as the Latin is, and the translator should decide whether to flag it.
+
+[DRAFT] (6.956) The sense of 956-957 is disputed: the storms "withdraw" (facessunt) to where they came from, which is read as the sky and earth giving them passage. Editors have worried over remotae and iure, and Bailey's text is followed. The English "as is right" for (iure) is a reasonable rendering of the sense but could be flagged as uncertain.
+
+[DRAFT] (6.958) This line (nihil est nisi raro corpore nexum) gives the conclusion drawn from the list of examples, and it is Lucretius's word for porousness in line 936 (raro corpore). It is the doctrine of Book 1 restated: nothing visible is solid throughout.
+
+[DRAFT] (6.970) The goats and the wild olive (oleaster), and the pig's relation to marjoram (amaracinum) and mud, are the first of several examples that what is food to one species is poison to another. The point is that the same effluences do not fit all bodies (959-961), which is the principle needed for the magnet. The same type of argument appears at 4.633-641 and at 3.741-743 in a different form.
+
+[DRAFT] (6.993) "Appearances" renders (species), which the register would otherwise translate as "face" or "likeness". Here it is the visible image passing through glass, and the translator's placeholder is right. The sense is close to the simulacra of Book 4, though Lucretius does not use that word here.
+
+[DRAFT] (6.995) These lines (995-996) repeat 988-989 verbatim (scilicet id fieri cogit natura viarum / multimodis varians, ut paulo ostendimus ante), and the English repeats it word for word. This is a refrain-like closing of an argument, and the third line (997) is added to it.
+
+[DRAFT] (6.1000) "For the rest" renders (quod super est), the register's transitional formula. The pronoun and verb at the end of 1001 (pelliciat) set up the image of the magnet as luring iron, which anticipates the explanation that follows.

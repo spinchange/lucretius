@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+130	REGISTER	MINOR	0.50	"plena animae vensicula parva" has anima here meaning air or breath, and the English gives "air" where the register fixes anima as "spirit"; the choice is defensible in context but is not noted, so add a note or keep it flagged: "a little bladder full of breath" {{NOTE: anima here is air, not the vital spirit}}

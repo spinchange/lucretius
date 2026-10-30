@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+296	LEXICAL	MINOR	0.50	"maturo culmine" says the cloud is ripe at its summit, but the English reads "when its thunderbolt is ripe", which drops "culmine" and moves the ripeness onto the bolt; suggested fix: "falls upon a strong cloud ripe at its crest"

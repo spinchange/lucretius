@@ -1,0 +1,31 @@
+[DRAFT] (4.379) The argument here is that the eyes report only light and shadow (lux atque umbra); judging whether a shadow is the same one moved, or a new one produced, belongs to the mind (animi ratio). This is the doctrine of the whole passage: error lies in the mind's added judgment, not in the sense. The refrain is Epicurean, "all sense-impressions are true."
+
+[DRAFT] (4.384) "Reasoning of the mind" renders animi ratio, the mind's inferential faculty as opposed to the eyes. The register keeps "mind" for animus. A reader may know the term as "soul" or "rational soul," which the register forbids for anima and animus.
+
+[DRAFT] (4.387) The ship illustration of relative motion is a commonplace of Greek sceptical and Epicurean argument; Lucretius uses it to show that the eyes accurately report the relative displacement and the mind misassigns which body moves. The stars (4.391) are the same case at large scale.
+
+[DRAFT] (4.391) "Vaults of the ether" renders aetheriis cavernis, the sky imagined as a hollow dome to which the stars are fixed, which is the appearance being explained away here, not Lucretius's own cosmology. Epicurean doctrine left the nature of the heavenly bodies open to several explanations.
+
+[DRAFT] (4.404) "Nature" (natura) is the subject of the dawn, which Lucretius personifies lightly; the English keeps the agent. The sun appears to touch the mountains, while the real distance includes seas and many lands (4.410-413), a stock of measurable absurdities used to show that apparent nearness is a failure of judgment, not of sight.
+
+[DRAFT] (4.408) The distances are armaments metrics: "bowshots" (sagittae) and "casts of a javelin" (veruti), a rough Roman measure of range. The figures are deliberately absurdly small against the real distance.
+
+[DRAFT] (4.414) The puddle between paving stones in a street (per strata viarum) is a Roman urban detail; the reflection offers a view of the sky "beneath the earth," a deliberate paradox of depth from a finger's depth of water.
+
+[DRAFT] (4.426) The colonnade (porticus) whose parallel sides seem to converge into a cone is the classical argument from perspective, used in the Epicurean tradition. Lucretius adds the parallel flat-ceiling and floor detail (tecta solo iungens) to make the convergence vivid.
+
+[DRAFT] (4.432) The sailors' sunset and the landsmen's broken oars (4.436) are paired: the first shows why the sailors' error is excusable, since they see only water and sky, and the sentence at 4.435 says that the senses are not therefore to be thought shaken in general (ne leviter credas labefactari undique sensus). The oar refraction at 4.438 is the standard case of an object appearing bent in water.
+
+[DRAFT] (4.446) The stars seem to glide against moving clouds, but the clouds are what move; "true reasoning" renders vera ratione, again assigning the correction to the mind's reasoning, not to the eyes. The line lacks final punctuation in the Latin text followed.
+
+[DRAFT] (4.447) The pressed eye gives double vision. Lucretius says it comes about "by a certain feeling" (quodam sensu), using the doubling as another case where the sense reports faithfully what the disturbed organ gives, and the error lies in the judgment.
+
+[DRAFT] (4.453) The dream passage fits the doctrine of simulacra, the images that strike the mind in sleep, treated in full later in this book. Here it serves only as another case of apparent perception without a present object, and the mind adds belief (4.462-468).
+
+[DRAFT] (4.469) The attack on the sceptic: one who says nothing can be known cannot know even that. The sceptical position is attributed to no named school, though a Roman reader would think of the Academy. "With his head where his footprints should be" (capite ipse suo in statuit vestigia) is a figure of absurd inversion, standing on one's head.
+
+[DRAFT] (4.478) Lucretius gives the Epicurean account of the "criteria of truth": the notion of the true (notitiem veri) arises from the senses first, and reasoning (ratio) derives wholly from them, so if the senses were false all reasoning would be. This is the compressed core of the Epicurean canon.
+
+[DRAFT] (4.491) Text uncertain: the transmitted videre ("to see") for the perception of soft, cold, and hot does not suit the argument, since those belong to touch and the sentence is about each sense having its own province. Editors emend or transpose; the translation follows the sense (perceived apart) without fixing a particular emendation.
+
+[DRAFT] (4.499) The conclusion is a verse summary of the Epicurean position that every impression, at the time it occurs, is true (quod in quoquest his visum tempore, verumst), with each sense judged only within its own province and none able to correct another.

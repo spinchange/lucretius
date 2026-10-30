@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+219	LEXICAL	MINOR	0.50	"aestus ab undis aequoris" has aestus (surge, seething, heat) rendered as the narrower "spray", which fixes the emanation as salt-spray and drops the parallel with calor; "surge from the waves".

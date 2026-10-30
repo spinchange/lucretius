@@ -1,0 +1,21 @@
+[DRAFT] (4.500-510) Lucretius answers the objection from the stick-in-water and tower illusions (Epicurean doctrine of 4.379ff.): if reasoning cannot explain why a square tower looks round at a distance, one must still not abandon the senses, since all inference rests on them (fidem primam, "first trust"). The "faulty causes" (mendose causas) are an acceptable fallback because they leave the evidence of sense intact.
+
+[DRAFT] (4.513-521) The builder's rule, square and level (regula, norma, libella) is the analogy for the senses as the criterion of truth: a single false first measurement ruins the whole structure. Lucretius uses it again in the same spirit at 4.469-477; this is the Epicurean claim that if one sense is discredited, all reasoning built on it falls.
+
+[DRAFT] (4.524-534) Voice is a body because it can strike the ear and scrape the throat; this is the Epicurean doctrine that anything able to act or be acted upon is corporeal (cf. 1.304ff., 1.443ff.). Here the "first-beginnings of voices" (primordia vocum, 4.531) are the same technical term as elsewhere. The placeholder at 534: Lucretius uses principia ("beginnings", 4.534, 4.543) and primordia (4.531, 4.544) interchangeably, and the English renders principia as "beginnings" to keep the Latin's two words distinct while not treating them as different things; this follows the register's rule that distinct Latin gets distinct English, with the merge acknowledged here.
+
+[DRAFT] (4.545-546) The source prints barbita, "lyre", but a lyre (barbitos) does not "boom a hoarse drone" in the register Lucretius is contrasting with the trumpet; most editors emend to barbara, the "barbarous" (Phrygian, i.e. foreign) horn, and the translation follows that reading. The sense required is a contrast of low, rough sounds with the high, smooth song of the birds that follows.
+
+[DRAFT] (4.547) "Daulian birds" (Dauliades... natae) are nightingales, after the myth in which Procne, daughter of the king of Daulis, was turned into a nightingale after avenging herself on Tereus; "gardens of Helicon" places them in the Muses' mountain. The line is textually disputed, and Bailey's reading has swans "from the torrents of Helicon"; the translation keeps the manuscript tradition's nightingales.
+
+[DRAFT] (4.551) "Artificer" renders daedala (as at 1.7, daedala tellus), applied here to the tongue. The translator's note that most texts read verborum for nervorum cannot be confirmed from the printed Latin; the line as given has nervorum ("artificer with its sinews"), and the translation follows the source; the reading verborum would make it "artificer of words".
+
+[DRAFT] (4.563-567) The crier (praeco) is the Roman public herald, who announced sales, proclamations and lost property to crowds. Lucretius's point is the divisibility of one voice among many ears without loss to each: each ear receives the whole word, because the voice "stamps" (obsignans) its form on each.
+
+[DRAFT] (4.570-579) Echo is explained as voice thrown back from solid places (solidis... locis); the passage is a stock example of Epicurean explanation of marvels by mechanism. The claim that six or seven echoes were heard is Lucretius's own report (vidi, "I have seen").
+
+[DRAFT] (4.580-594) Satyrs, Nymphs, Fauns and Pan are the rustic divinities and spirits of the Roman countryside, to whom the neighbors (finitimi) attribute echoes and night noises. Lucretius treats these as inventions, either to fill the lonely places with gods or from a love of telling and hearing tales (avidum auricularum); the Epicurean view is that the gods do not meddle in the world. Pan's reed pipe (fistula, calamos) is the syrinx of the myth.
+
+[DRAFT] (4.599-602) Voices pass through winding openings (flexa foramina) while images (simulacra, the thin films of Epicurean vision, first introduced at 4.30ff.) must travel straight or are torn apart (perscinduntur). Glass (vitrei) is the example of a straight-pored body through which images pass, which is why we see through it.
+
+[DRAFT] (4.605-606) The simile of the spark scattering into many fires (scintilla... in ignis) explains how one voice multiplies; the reader may hear a chain-reaction image, but that is an association and not the poet's claim.

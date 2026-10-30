@@ -1,0 +1,5 @@
+FINDINGS
+NONE
+SECONDARY
+349	GRAMMAR	MINOR	0.55	"inter nos nisi quod morbis aegrescimus isdem" is rendered "we sicken, one with another, with the same diseases", which reads "inter nos" as reciprocal sickening; the Latin more likely means "among ourselves, apart from this" and the clause should be read with the whole exception. Suggested fix: "except that we sicken with the same diseases"
+372	GRAMMAR	MINOR	0.50	"aut alia quavis possunt vi pulsa perire" is rendered "or they can be struck by any other force and perish", which makes it a free-standing assertion. It should stay parallel to "exspargi quo possint" under the "nec ... deficit" construction (lacking, into which they might be scattered, or driven by any other force perish). Suggested fix: "or, driven by any other force, perish"

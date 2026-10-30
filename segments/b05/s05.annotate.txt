@@ -1,0 +1,23 @@
+[DRAFT] (5.614-617) Lucretius gives two or more explanations for the sun's turning between the tropics, as his method requires where the evidence cannot decide. Capricorn (aegocerotis, "goat-horned") marks the winter turning-point and Cancer (canceris … metas) the summer one, the "goal-posts" being the turning-posts of a racecourse.
+
+[DRAFT] (5.622) The "holy judgment" (sancta … sententia) is Democritus's, the atomist predecessor of Epicurus, whom Lucretius honors here even while borrowing his explanation only as one possibility. The theory is that bodies nearer the earth are less swept along by the heavenly whirl (turbine), so the sun lags behind the fixed stars and seems to move backward through the signs. The translation follows the Latin and does not clarify the mechanics.
+
+[DRAFT] (5.637-645) The second explanation proposes alternating currents of air (aeraër, a doubled-vowel manuscript spelling of aër) that push the sun between the summer and winter signs. Lucretius supports it with the analogy of clouds moving in different directions at different heights (646-649). Neither this nor the Democritean theory is asserted over the other.
+
+[DRAFT] (5.656) Matuta is the old Italian goddess of dawn, identified with the Greek Leucothea. Her name stands here for the dawn itself, in the same figurative way as Ceres and Bacchus later (742-743); Lucretius elsewhere permits such names provided one does not take them for gods (2.655-660).
+
+[DRAFT] (5.663-665) "The story goes" (fama est) marks this as report, not observation: the legend that fires seen scattered on Mount Ida at daybreak gather into a single orb. It supports the claim that the sun's fire may be assembled anew each dawn from scattered seeds (semina … ardoris, "seeds of heat").
+
+[DRAFT] (5.679) The Latin text prints "conseque" and the translation does not follow it letter for letter. The usual correction is consequiae ("consequences, sequels"), which gives the sense "in sequence" here; the reading is a conjecture because the manuscripts are corrupt.
+
+[DRAFT] (5.687-688) "Node of the year" (anni nodus) is the equinox, the point where the ecliptic crosses the celestial equator and day and night are equal. The argument is that the sun's oblique path (obliquo … lumine, 693) through the zodiac (signiferi … orbis, 691) divides the sky into unequal arcs except at that point.
+
+[DRAFT] (5.701-704) "They seem to speak the truth" (videantur dicere verum) most plausibly refers back to those who hold the sun is renewed daily from gathering fires (660-665); the pronoun is not stated in the Latin. The point is that the varying speed of gathering would account for the seasonal change in the sun's rising-point, so the doctrine would be borne out.
+
+[DRAFT] (5.705-714) This begins the section on the moon's phases, again offered as a set of alternatives. First, the moon shines by reflected sunlight (solis radiis percussa), as those hold who picture it as a ball (pilai) moving beneath the sun. The reader may hear in this the correct modern explanation; the poem presents it only as one possibility among several, with no preference given.
+
+[DRAFT] (5.727-730) The "Babylonian doctrine of the Chaldaeans" (Babylonica Chaldaeum doctrina) held that the moon is itself half-luminous and turns, as in the second ball theory (720-726), while the Greek astronomers (astrologorum artem) held that it is lit by the sun. Lucretius's point is that each side denies the other without a decisive reason, so both remain open; the Latin of 729-730 is compressed and the translation keeps it close.
+
+[DRAFT] (5.731-736) The third alternative is that a new moon is created each month, in a fixed order, and destroyed. Lucretius defends it by the regularity of other recurring things, which prepares the procession of the seasons that follows.
+
+[DRAFT] (5.737-747) The procession of the seasons is a personified set-piece in the manner of a Roman triumphal or religious procession. Venus and Cupid ("winged herald", Veneris praenuntius … pennatus), Zephyr, Flora, Heat, Ceres, the etesian winds, Bacchus (Euhius Euan, from the ritual cry euhoe), Autumn, Volturnus, Auster, Bruma and Hiemps appear in turn. The names are poetic ornament for natural events, not divine agents, as Lucretius insists elsewhere; Bruma and Hiemps are the winter solstice and winter, and Volturnus is a south-east wind. The passage concludes by returning to the moon (748-750) with the argument from regularity.

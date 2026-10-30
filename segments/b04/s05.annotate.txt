@@ -1,0 +1,47 @@
+[DRAFT] (4.615) Lucretius opens on taste: the mouth is treated as a place where "first-beginnings" of smooth or rough shape act on the sense, and the argument runs entirely on shape (levia/aspera). "Flavor" translates sucus, the juice pressed from food, not the sensation itself.
+
+[DRAFT] (4.618) The sponge image (ceu plenam spongiam) shows how chewing wrings flavor out of food, as water is wrung from a sponge. It is the poet's only picture of the mechanism, and it carries the whole account of how taste reaches the palate.
+
+[DRAFT] (4.638) The snake that dies of human spittle (serpens, hominis quae tacta salivis) is a piece of ancient natural lore, also found in Pliny. Lucretius uses it as the extreme case of one substance being food to one creature and poison to another.
+
+[DRAFT] (4.640) Hellebore (veratrum) was a drug and poison for humans, yet goats and quails were said to eat it and fatten. Like the snake, it is an ancient commonplace used to prove that a substance's effect depends on the eater's make-up.
+
+[DRAFT] (4.644) "Seeds" renders semina, the register's fixed rendering of Lucretius's word for the first bodies as they exist mixed in compound things. "That we said before" refers to the doctrine of mixed seeds in Book 2, where the same point is made for the variety of things.
+
+[DRAFT] (4.650) "Pores" renders foramina, with the gloss quae perhibemus ("which we call"). This marks it as a term Lucretius is adopting for the passages in the body that match the shapes of the seeds, and the argument that follows depends on that matching.
+
+[DRAFT] (4.653) The shapes listed here (triquetra, quadrata, rutunda, multangula) give the pores their geometry. They are Lucretius's own shorthand for the variety of atomic shapes argued in Book 2, applied now to the passages in living bodies.
+
+[DRAFT] (4.662) "Rough and hooked bodies" (aspera … hamataque) are the shapes Lucretius assigns to what tastes bitter. The same smooth and hooked contrast carries his account of sweet and bitter in Book 2, so the reader should take it as a standing doctrine, not a new one.
+
+[DRAFT] (4.667) "First-beginnings" renders principiorum, in the plural and without prima or rerum. It is the register's primordia cluster, here used in the sense of the atoms whose arrangement (positurae) changes in fever, so that the same honey tastes bitter to the sick.
+
+[DRAFT] (4.671) "Honey" is Lucretius's standard example of a thing that is a mixture of smooth and rough bodies. The phrase "a thing we have often shown you above already" points back to the earlier passages on mixed seeds, including the honey-and-bitter-wormwood image in Book 1.
+
+[DRAFT] (4.683) The sacred geese of Juno on the Capitol woke the defenders when the Gauls attempted a night attack on the citadel (traditionally 390 BC; Livy 5.47). Lucretius calls the goose the "savior of the citadel" (arcis servator), which gives the notice of a human smell an unexpected patriotic dignity.
+
+[DRAFT] (4.693) Odor is said to be "torn apart" (distractus) into the air because its first-beginnings are larger and more loosely held than those of voice or light. That is why it travels slowly and weakly; the later argument about walls of stone (4.699) rests on the same size difference.
+
+[DRAFT] (4.713) The belief that lions fear the cock is widespread in ancient writers (compare Pliny, Natural History 8.52 and 10.47). Lucretius takes it as a fact needing explanation, and his answer is that seeds from the cock's body strike the lion's eyes painfully, while in human eyes they either fail to enter or pass straight through.
+
+[DRAFT] (4.724) "Images" renders simulacra, the register's fixed term for the thin films that stream off things. The reader may know them as "idols" or "eidola"; the poem uses the same word for what strikes the eye and, here, for the finer ones that act on the mind.
+
+[DRAFT] (4.727) The spider's web and gold leaf (aranea bratteaque auri) are the comparisons for how thin the images are. They join in the air easily, which the later Centaur argument needs.
+
+[DRAFT] (4.731) "Mind" renders animi naturam, and the passage turns on the claim that the mind's substance is so fine that images too thin for the eye still move it. The reader who knows Book 3 will recall that animus is made of the smallest and roundest atoms.
+
+[DRAFT] (4.732) Centaurs, Scyllas and Cerberus are the stock monsters of myth. Lucretius uses them to show that dream and imagination can present things that never existed, and his explanation is that images of real things combine in the air.
+
+[DRAFT] (4.734) This line repeats 1.135 verbatim in the Latin, where it names the images of the dead that haunt Ennius's account. The English repeats its own line from there, word for word; the first occurrence also introduces Ennius's vision of Homer, which the reader may wish to recall.
+
+[DRAFT] (4.739) The Centaur has no living original (nulla fuit … natura animata), so its image cannot have come off a real body. It arises when the images of horse and man meet by chance and cling together, "as we said before," so the monster is a composite assembled in the air and not an emanation from any one thing.
+
+[DRAFT] (4.742) "As we said before" (quod diximus ante) refers back to the account of how images join in the air in Book 4's earlier part. The same appeal to prior argument recurs at 4.746 (ut prius ostendi).
+
+[DRAFT] (4.758) "Mind" appears here as mens animi, a compound in which Lucretius joins the two words. The register keeps mens and animus apart, but here mens animi is rendered "the thought of the mind," following the policy that mens is non-technical outside the Book 3 contrast.
+
+[DRAFT] (4.761) The sleeper "sees" a dead person because images of him still circulate, and the senses are inactive to refute the vision (4.762-767). The idea that the dead appear in dreams is an old one, and Lucretius uses it to give a natural cause for the belief in ghosts.
+
+[DRAFT] (4.768) "For the rest" renders quod super est, the register's transitional formula, and here it opens the explanation of why dream-images seem to move and dance. The explanation is that a rapid succession of slightly different images produces the appearance of movement.
+
+[DRAFT] (4.776) The explanation of movement by rapid replacement of images (tanta est mobilitas) may remind a modern reader of a film's succession of still frames. That is the reader's association, not the poet's claim.

@@ -1,0 +1,4 @@
+FINDINGS
+1266	GRAMMAR	MODERATE	0.80	In "quia sic loca sumere possunt / ... semina" the seeds are the subject and take up the places, but the English makes the places take the seeds, which reverses subject and object; suggested fix: "because so the seeds can take their places,"
+SECONDARY
+NONE

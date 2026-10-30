@@ -1,0 +1,23 @@
+[DRAFT] (4.269) The Latin has *imago* ("image") where the register fixes *simulacra* as "images" too; the translation lets both stand as "image(s)" here, so the reader should know that *imago* is the single reflected likeness (the mirror-picture) and *simulacra* the films that travel through air, which the passage treats as one stuff. Lucretius slides between them freely in this section (cf. 4.279 *imago*, 4.303 *simulacra*).
+
+[DRAFT] (4.274) The "double, twin air" (*duplici geminoque… aere*) is the doctrine of the passage: seeing through an open door involves air on this side of the doorposts and air beyond, and the mirror image is likewise seen across two stretches of air, the one between us and the mirror and the one the image drives ahead of itself after reflection (cf. 4.291 *aeribus binis*). That is why the image appears set back behind the glass.
+
+[DRAFT] (4.289) The source marks a lost line after 4.289; the sentence "it is right to wonder not at all" breaks off before its object, evidently "at the things seen in mirrors" or similar, which 4.290 resumes with *illis*. The translation prints the unnumbered [lacuna] and supplies nothing.
+
+[DRAFT] (4.292) Here begins the explanation of lateral reversal: the image is not turned round intact but dashed back and pressed out in reverse, like a wet clay mask thrown against a beam (*cretea persona*, 4.297). The comparison is Lucretius's own and is physical rather than optical, since the image is a thin film that can be flattened and printed.
+
+[DRAFT] (4.303) *Simulacra* is rendered "images" per the register (first fixed 1.123); these are the thin films of Epicurean theory, shed from the surfaces of things, not "idols" or mere pictures. The five or six images in a row (*quinque etiam aut sex*) are the reader's mirror-hall of repeated reflections.
+
+[DRAFT] (4.322) *natura* is "nature" here, the agent that compels the rebound (*cogit natura referri*), so the angle of return is given as a law of nature's working. A modern reader may hear the law of reflection; that is the reader's association, not a claim of the poet's, who states only that images rebound at equal bends (*ad aequos… flexus*).
+
+[DRAFT] (4.330) *semina ignis* ("seeds of fire") is the register's *semina rerum* applied to a particular stuff: bright light is made of fire-seeds which enter the eyes and cause pain. The passage treats colour and brightness as a matter of what actual bodies stream into the eye, a mechanism the verse states very briefly.
+
+[DRAFT] (4.333) *arquati* are those with jaundice, called the "rainbow disease" (*arquatus morbus*, from *arcus*) for its colour. The Epicurean explanation is that seeds of the yellow-green sallowness (*luroris… semina*) stream from the sufferer's body and meet and tint the images coming to the eye, so that everything looks sallow. The translation renders the effect, "turn sallow", rather than the disease name.
+
+[DRAFT] (4.337) Lucretius explains why we see into the light from darkness but not the reverse by the order in which two airs enter the pores of the eye: the thick, black air of gloom is driven out by the finer, swifter bright air that follows. The explanation depends on the doctrine of the passages (*vias*) in the eye, open or blocked by atoms of differing size and mobility.
+
+[DRAFT] (4.361) *ad turnum* ("on a lathe") is a woodworker's image: the blunted angles of far towers look as if the stone structures had been turned round on a lathe. The verse is the poem's standard case of the senses reporting faithfully what reaches them (cf. 4.353–363), so the error is in the judgment, not the eye.
+
+[DRAFT] (4.364) The shadow is explained as nothing but air deprived of light (*aer… lumine cassus*), and its apparent following of us as the ground being darkened and relit in succession. This is a case of what the Epicurean sense-doctrine takes as no illusion at all, but a real series of different patches of ground; the "shadow" does not follow us as one thing.
+
+[DRAFT] (4.376) *quasi in ignem lana trahatur* ("as if wool were drawn into fire"): the simile of the instant destruction of light's first rays, which perish as wool is consumed on touching fire. The image supports the claim that new light constantly pours out and the old is annihilated, so the ground is stripped and refilled with ease.

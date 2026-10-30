@@ -1,0 +1,49 @@
+[DRAFT] (2.581-585) The sealed-up principle (obsignatum) is the premise of the whole passage: no visible thing consists of one kind of first-beginning, and everything is "of mingled seed" (permixto semine). Everything from here to 2.729 argues that premise from the earth, from living bodies, from fruit, and from the letters of the alphabet.
+
+[DRAFT] (2.589-593) "First bodies" (corpora prima) is the register's rendering of what Lucretius also calls primordia; he uses the two terms interchangeably. The earth is shown to hold the first bodies of water (springs feeding the sea), of fire (burning ground, Etna), and of food, which is why it is rich in kinds.
+
+[DRAFT] (2.598-599) The Great Mother (Magna Mater, Cybele) is introduced here because the earth, as source of everything, has been called "mother of the gods" (deum mater) and "mother of wild beasts" (materque ferarum). The long description of her Phrygian cult that follows (600-643) is given in order to be set aside at 644-645, and the English line should carry this explanation. In 599 "she alone" (una) means that this one earth is given all three titles. The line also plays on mater and materies, "matter", which the English cannot reproduce.
+
+[DRAFT] (2.600-609) The "learned poets of the Greeks" (Graium docti poetae) read the image allegorically: the lions are the wild offspring tamed by parental kindness, the mural crown is the earth bearing cities, and the chariot in the air shows the earth hung in space. "Earth cannot rest upon earth" (neque posse in terra sistere terram) is the argument that the earth needs no support beneath it. It is a rare Lucretian use of a mythic image to carry doctrine, and he treats it as picture, not as truth.
+
+[DRAFT] (2.611) Mount Ida in Phrygia is the Idaean Mother's home, as the note on the English line says. The "bands of Phrygians" (Phrygias catervas) are her escort in procession, and Lucretius reports the Phrygian origin of grain as one of the ancient explanations (quia primum ex illis finibus).
+
+[DRAFT] (2.614-617) The Galli (Gallos) were her eunuch priests. The allegory is that those who wronged the Mother or their parents are shown as unfit to "bring forth living offspring" (vivam progeniem edant), since they are themselves unable to. The phrase "into the shores of light" (in oras luminis) is the register's refrain, first at 1.22.
+
+[DRAFT] (2.618-623) The instruments (tympana, cymbala, cornua, tibia) and the weapons (tela) of the procession are meant to terrify the "ungrateful minds" (ingratos animos) of the crowd. Lucretius is describing the effect as a deliberate religious device. The sixfold ingratos / impia anticipates his later charge that fear of the gods is a tool of religio.
+
+[DRAFT] (2.624-628) During the procession (the Megalensia at Rome) the image of the goddess is carried silently through cities, and people strew the road with coins and roses. "Wordless blessing" (muta salute) is the goddess's gift of prosperity, mute because the image does not speak.
+
+[DRAFT] (2.629-633) The "armed troop" (armata manus) imitates the Curetes, the attendants of the infant Jupiter in Crete. Lucretius gives the Greek name (Curetas nomine Grai) and glosses it with the Cretan myth: they danced in armor, clashing bronze, to drown the infant's cries (vagitum) so that Saturn would not find him. "Dictaean" belongs to Mount Dicte in Crete. The ritual dancers in Phrygian processions are identified with them by the Romans.
+
+[DRAFT] (2.635-637) The Latin text of 635-636 is corrupt in the source: 636 repeats the end of 635 (pernice chorea / armat et in numerum) and is generally deleted by editors. The English prints both as given in the source, so the repetition in 635 and 636 reflects the damage and not Lucretius's own emphasis.
+
+[DRAFT] (2.640-643) The second explanation (aut quia) is that the armed attendants signify the goddess's command to defend one's country and be a protection and honor to one's parents. The first reading (638-639) was mythical; this one is moral, and both are said to be "well and excellently set out" (bene et eximie disposta) before being rejected.
+
+[DRAFT] (2.644-651) After the rejection (longe a vera ratione repulsa) comes the doctrine that the gods live in peace, untouched by human affairs. Lines 646-651 repeat 1.44-49 verbatim, and the English repeats the earlier rendering. In the Latin the repetition is probably the poet's own insertion, and some editors have suspected it here as a misplaced duplicate (the passage reads on without it, from 645 to 652), but the source text keeps it and so does the translation. It is the Epicurean doctrine that the gods need nothing from us and are neither pleased nor angered, so that cult is pointless.
+
+[DRAFT] (2.652-654) The earth, though called a goddess, is "without sense" (caret sensu), since it has the first-beginnings of many things but is not itself alive. This is the point of the passage: calling the earth "mother" is a harmless name if it is understood as a metaphor for this multiplicity of seeds.
+
+[DRAFT] (2.655-659, 680) "Neptune" for the sea, "Ceres" for crops and "Bacchus" for wine are metonymy (the god's name for his domain), and Lucretius allows it (concedamus) so long as no one is stained by "foul religion" (religione turpi). Line 680 is printed after 659 in the source because editors moved it here from its transmitted place. The sense is carried by 659 + 680 together, with the clause "provided he refrains" (dum ... parcat) breaking across them. Here "religion" is the register's plain word, with no softening to "superstition".
+
+[DRAFT] (2.660-667) The flocks and herds eat the same grass and drink the same water yet remain unlike and keep their parents' nature (retinentque parentum naturam), which is evidence that the grass and water themselves contain many kinds of first-beginnings. The "order of matter" (herbae materiai dissimilis ratio) renders ratio here as arrangement, not "reasoning".
+
+[DRAFT] (2.668-671) Bones, blood, veins, heat, moisture, flesh, and sinews (ossa cruor venae calor umor viscera nervi) are the parts that make up an animal and differ from one another, so their first-beginnings must differ in shape. The grammar is compressed; the sentence has its main verb only in constituunt, with "formed of unlike shapes" (dissimili perfecta figura) as a loose addition.
+
+[DRAFT] (2.672-675) Things that burn must contain the seeds of fire, sparks, and ash (ignem ... lumen ... scintillas ... favillam). This repeats the argument at 2.589-593 on a small scale: even a log holds the bodies of fire.
+
+[DRAFT] (2.679-685) The argument from the senses: color, taste and smell reach the senses by different paths (nidor enim penetrat qua fucus non it), so the bodies that give them differ in shape. This is the Epicurean doctrine that perceived qualities depend on atomic shape, compressed into a single syllogism.
+
+[DRAFT] (2.688-694) The alphabet analogy: "elements" (elementa) is both the Latin for letters and the register's word for the elements of the physical world, so "elements common to many words" is the pun the register says to note once. Lucretius uses the same analogy at 1.196-198 and 1.823-829, and returns to it at 2.1013-1022. The point is that shared letters make different words, as shared first-beginnings make different things.
+
+[DRAFT] (2.700-706) Monsters such as the Chimaera (Chimaeras, flame-breathing, a lion-goat-serpent of Greek myth) and the half-human beasts are what we would see if any seeds could combine freely. Since we do not see them, the combination of seeds must be limited. The reader may hear in this an argument that anticipates the later account of failed hybrids at 5.878-924, where the same impossibility is argued again; that is a reader's association, not part of this passage.
+
+[DRAFT] (2.707-710) "A fixed mother" (certa genetrice) and "fixed seeds" (seminibus certis) state the principle of fixed kinds: each thing comes from its own seed and keeps its kind. "Fixed principle" (certa ratione) is the register's "principle" for ratio.
+
+[DRAFT] (2.711-717) The argument from nutrition: only the food bodies that fit the animal's motions are taken up, and the rest are expelled (reicere). "Unseen bodies" (caecis corporibus) are first-beginnings too small to see, driven out by blows (plagis). "Vital motions" (vitalis motus) is the register's way of saying the motions that make a living body what it is.
+
+[DRAFT] (2.718-719) In the source the second half of 719 appears to lack its sense: "the same principle bounds all things" (quaedam ratio res terminat omnis) is the English for an obscure line. Some editors mark 718-719 as corrupt; the translation follows the source as printed.
+
+[DRAFT] (2.723-724) Line 724 repeats 694 verbatim (sed quia non volgo paria omnibus omnia constant), and the English repeats its earlier rendering. The first instance of 723 differs slightly from 692; the English follows the Latin.
+
+[DRAFT] (2.725-729) The list "intervals, paths, connections, weights, blows, meetings, motions" (intervalla vias conexus pondera plagas concursus motus) is a compressed summary of the properties of atoms in motion and combination that Lucretius has worked out since 2.62. The sentence closes on the largest division, the separation of land, sea, and sky.

@@ -1,0 +1,31 @@
+[DRAFT] (5.1241) The metals' discovery by forest fire is Lucretius's own rationalist account; the sequence (copper and bronze, gold, silver, lead, then iron) follows the order of use in the Epicurean history of culture, which assumes that human skills arise from chance and necessity and not from divine gift. "Potestas" for lead and silver is the sense of their "power" or effective property, and the translation keeps "weight" and "power" literally.
+
+[DRAFT] (5.1250) The hunting aside is compressed: Lucretius says that trapping with a pit and fire (fovea atque igni) is an older method than the organized hunt with nets and dogs, which supports fire as a possible origin of the forest blaze. It is offered as one of several alternative causes, in the Epicurean manner of "multiple explanations" (seu… sive… sive).
+
+[DRAFT] (5.1252) "Quicquid id est, qua cumque e causa" closes the list of possible causes without choosing among them, a regular Epicurean method for phenomena that cannot be settled by observation. The doctrine, not the particular cause, carries the argument.
+
+[DRAFT] (5.1257) The English renders "concreta" as "hardened" and keeps "bronze" for "aes", since the Latin word covers both copper and bronze. Reading "aeris" as "of bronze" follows the register, though a reader should know that Lucretius does not distinguish the two metals.
+
+[DRAFT] (5.1261) "Lacunarum… vestigia": the "lacunae" here are the hollows or pits in the ground, an ordinary Latin sense, and have nothing to do with a gap in the text. The metal took the shape of the cavity it had run into, and this suggested casting.
+
+[DRAFT] (5.1275) The reversal of esteem between bronze and gold is a Roman observation of the poet's own day, and "nunc" marks it as contemporary. It leads to the general lesson of 1276-1280 on how the value of things shifts with time.
+
+[DRAFT] (5.1282) Memmius is addressed here by name for the first time in this segment; the second-person address and the claim that the reader can work it out "per te" reflect the poet's habit of drawing the dedicatee into the argument.
+
+[DRAFT] (5.1283) The list of "ancient weapons" (hands, nails, teeth, stones, branches, fire) belongs to the Epicurean primitive stage of humanity before metal. The order bronze before iron in 1286-1288 matches the Three Age pattern known to Hesiod and later to modern archaeology, though a modern reader should take that as the reader's association and not the poet's claim.
+
+[DRAFT] (5.1302) The "Lucanian oxen" (boves Lucas) are elephants, so called because Romans first met them in Lucania in the army of Pyrrhus (280 BC). "Poeni" are the Carthaginians, who used elephants against Rome in the Punic Wars, and "anguimanus" (snake-handed) describes the trunk. The English keeps "Lucanian oxen" as Lucretius's own coinage and does not substitute "elephants".
+
+[DRAFT] (5.1308) The catalogue of animals in war (bulls, boars, lions) is Lucretius's argument that such inventions are doomed because the beasts turn on their own side. The pattern of "ne quiquam" (in vain) recurs at 1271, 1313, and 1332, which marks each failed experiment.
+
+[DRAFT] (5.1319) The manuscripts give "patebant" (lay open), which does not suit the sense; most editors read "petebant", "made for", as in the English. The reading is an emendation, and the translation follows it.
+
+[DRAFT] (5.1327) Lines 1327 and 1328 are two forms of one line, one with "suo… sanguine" and the other with "in se fracta", and both appear in the manuscripts. Editors keep one and bracket or delete the other; the translation prints both, as the source does, so the files stay aligned.
+
+[DRAFT] (5.1341) Lines 1341-1349 are often suspected as a later addition or unrevised alternative draft, since the poet's doubt that men foresaw the harm sits awkwardly with the preceding account. The translation prints them as given.
+
+[DRAFT] (5.1348) "In variis mundis varia ratione creatis" invokes the Epicurean doctrine of an infinite number of worlds (mundi), here used to say that such a war might have happened on some other world as well. A modern reader may hear an anticipation of later plurality-of-worlds thinking, but that is the reader's association, not Lucretius's claim. The register renders "mundus" as "world".
+
+[DRAFT] (5.1354) The manuscripts have a doubled word, "coegit coëgit", a scribal doubling of a single form; the translation reads "coegit". The sentence says that wool-working was first a man's task by nature's compulsion, before it passed to women.
+
+[DRAFT] (5.1357) "Agricolae… severi" refers to the stern farmers who reproached the men for the work and so assigned wool to women while taking on the hard labor themselves; the passage is Lucretius's own aetiology of the division of labor and is not found in other Epicurean sources.

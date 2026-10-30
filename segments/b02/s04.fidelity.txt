@@ -1,0 +1,5 @@
+FINDINGS
+714	GRAMMAR	MODERATE	0.80	"caecis corporibus ... percita plagis" says the alien things are driven out by blows from unseen bodies, but the English "many things, in unseen bodies, flee" makes the unseen bodies the things that flee; fix: "and many things flee from the body, struck out by the blows of unseen bodies,"
+SECONDARY
+607	LEXICAL	MINOR	0.50	"eximiis munita locis" means fortified in lofty or eminent places, but the English gives "strong places"; fix: "because, fortified on lofty sites, she holds up cities."
+719	GRAMMAR	MINOR	0.50	"quaedam ratio" means "a certain principle", but the English says "the same principle", which implies identity with the earlier laws; fix: "a certain principle bounds all things."

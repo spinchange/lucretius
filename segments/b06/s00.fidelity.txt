@@ -1,0 +1,5 @@
+FINDINGS
+NONE
+SECONDARY
+6.90	GRAMMAR	MINOR	0.55	"caeli divisis partibus" is an ablative absolute (the sky's regions having been divided, i.e. by the augurs), but the English has the addressee doing the dividing ("dividing heaven into parts"); suggested fix: "so that you do not tremble, out of your wits, when heaven's parts are divided,"
+6.30-31	AMBIGUITY	MINOR	0.50	"naturali ... seu casu seu vi" (the printed adjective "naturali" is awkward Latin) is rendered "natural chance or force", which attaches "natural" to chance alone and loses the separate sense "by nature"; suggested fix: "whether by chance or by force, since nature had so arranged it," with a note on "naturali"

@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+513	LEXICAL	MINOR	0.50	"aecumst" means it is required or necessary (aequum est), and "fitting" is weaker, so the argument that any change to the mind needs added or removed parts loses force; "For it is necessary to add parts or shift them from their order,"

@@ -1,0 +1,43 @@
+[DRAFT] (6.1) Athens: the city is credited with giving grain (Ceres' gift, "frugiparos fetus") and law, and then with giving Epicurus; the same praise of Athens opens no other book, but the structure recalls the praise of Epicurus that opens Books 3 and 5. Place the Book 6 proem in that series.
+
+[DRAFT] (6.5) The man is Epicurus, left unnamed ("virum tali cum corde repertum") as in the first proem, where he is "Graius homo" (1.66). The translation keeps the periphrasis and does not supply the name; the later "extincti" (6.7) confirms he is dead.
+
+[DRAFT] (6.17) The vessel image (vas) is the leaky jar of the Danaids, developed more fully at 3.936-938 and 3.1003-1010. The diagnosis is that the fault lies in the container, the mind, not in what is poured in.
+
+[DRAFT] (6.30) "naturali varieque volaret seu casu seu vi": the text here is difficult and often marked corrupt, and "naturali" is a suspect reading. The translation renders "natural chance or force" and follows the printed text without emending it.
+
+[DRAFT] (6.39) These lines repeat 1.146-148, 2.59-61 and 3.91-93 verbatim. In the register this is the fixed refrain on the terror of the mind ("naturae species ratioque"), and the English repeats its earlier wording word for word.
+
+[DRAFT] (6.43) "mundi mortalia templa": templa here means regions or precincts of the world, not temples, in line with the register's rendering of Acherusia templa (1.120). The sentence recalls the argument of Book 5 that the world has a beginning and an end.
+
+[DRAFT] (6.47) The text is damaged here: a lacuna follows line 47 (and again after 51, 52), so the syntax of 47-48 does not close and "tu" in 48 has no clear verb. The translation prints the lacunae unnumbered and supplies nothing. Line 47 is also given a different position by some editors.
+
+[DRAFT] (6.49) "callida musa / Calliope": the epithet may play on Calliope's name, "beautiful voice", but the pun is unclear in Latin and the English does not reproduce it. The racetrack imagery (candida callis, spatium, currenti, coronam) is carried over from the end of the course, a metaphor Lucretius used at 1.926 ff. in the poet's laurel claim.
+
+[DRAFT] (6.50) "hominum divomque voluptas" echoes the first line of the poem, where Venus is "hominum divomque voluptas" (1.1). The register fixes voluptas as "pleasure", so the repetition is audible in English.
+
+[DRAFT] (6.52) The sense of 52-53 is fragmentary because lacunae surround both lines. "ventorum existant" probably belongs to a list of topics of the book, namely the origin and quieting of winds, but the translation does not guess the missing governing words.
+
+[DRAFT] (6.58) "ignorantia causarum": the doctrine in compressed form. For Epicurus, fear of the gods arises from ignorance of natural causes, especially of the heavenly and meteorological phenomena that Book 6 will explain by several possible causes.
+
+[DRAFT] (6.60) These lines repeat 1.153-154 and recur at 6.94-95, where many editors think they have been misplaced. The English repeats its earlier wording verbatim, in line with the register's policy on whole-passage repetition.
+
+[DRAFT] (6.62) "deos securum agere aevom": Epicurean doctrine that the gods live in untroubled peace and take no part in the affairs of the world. The following lines argue that the pious fall back into fear if they still wonder how celestial things are caused.
+
+[DRAFT] (6.66) "religionis": the plural is used in the register's plain sense, "religion", never "superstition". The word carries the proem's charge from 1.63 that religion is the oppressor.
+
+[DRAFT] (6.69) These lines repeat 1.76-77 (also 1.595-596 and 5.89-90) on the limit set to each thing's power. The English repeats its earlier wording verbatim, and "terminus haerens" is rendered by the same boundary-stone image.
+
+[DRAFT] (6.80) "simulacra": the images are the thin films that Book 4 describes as streaming off bodies and reaching the mind, here applied to the gods, whose forms come to human minds. The register fixes "images", and the divine "images" are the means by which the gods are known.
+
+[DRAFT] (6.87) The printed text reads "caeliQUE ignisque", with the capitalised -QUE marking a doubtful reading in the source. The translation follows it as "the order of heaven and of fire", and many editors prefer "caeli speciesque", "the order and the face of heaven"; the sense of "ratio" is the same as in "summa caeli ratio" (1.54).
+
+[DRAFT] (6.90) The Etruscan practice of dividing the sky into regions ("divisis partibus") in order to interpret where lightning came from and went. The Roman augurs and haruspices used a fixed scheme, and Lucretius's reader would have known it; the poet treats the practice as a symptom of fear.
+
+[DRAFT] (6.94) These lines repeat 6.60-61 and 1.153-154. Here many editors think they are out of place, since they do not follow naturally on the preceding sentence; the translation keeps them as printed.
+
+[DRAFT] (6.96) "Principio": the start of the account of thunder. The first of several explanations given; Lucretius will offer multiple possible causes for thunder and lightning, which is Epicurean method for phenomena that cannot be observed directly.
+
+[DRAFT] (6.109) "carbasus ... magnis intenta theatris": the awning (more usually "velum") stretched over Roman theatres to shade the audience. Lucretius uses it as a familiar sound that a Roman reader would recognise.
+
+[DRAFT] (6.112) "chartarum": sheets of papyrus or paper, translated as "papers"; the point is the dry, brittle crackle, which is the point of the comparison with thunder at 113.

@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+8	LEXICAL	MINOR	0.50	"bene munita ... edita doctrina sapientum" has edita as "lofty" and doctrina as the means of fortifying. The English joins "built high" to "by the teaching", which turns the lofty precincts into something built by the teaching. Suggested fix: "the serene precincts, lofty, and well fortified by the teaching of the wise"

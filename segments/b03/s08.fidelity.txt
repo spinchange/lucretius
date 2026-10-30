@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+1084	GRAMMAR	MINOR	0.50	"vitai semper hiantis" is genitive, so the gaping belongs to life (the craving for life), but "holds us, always gaping" makes it describe the people; "and an equal thirst holds us for life that is always gaping"

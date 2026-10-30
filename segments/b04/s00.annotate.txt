@@ -1,0 +1,29 @@
+[DRAFT] (4.1) Pieridum = the Muses, named for Pieria, their old haunt in Macedonia. In the Latin, 4.1-25 repeat 1.926-950 exactly, so by register policy (principle 3) the English here must be Book 1's committed lines word for word. The fresh draft is to be replaced with them before assembly.
+
+[DRAFT] (4.7) religionum ... animum: religio is rendered plainly "religion", as at 1.63, so the "tight knots" are those of religion itself, not of mere superstition. animum is "mind"; the register's contrast between animus ("mind") and anima ("spirit") becomes explicit at 4.46 and 4.121.
+
+[DRAFT] (4.31) simulacra: "images", the Epicurean eidola, thin films shed from the surface of bodies. The Latin also uses imago (4.38), effigiae (4.51) and figurae, which the translation keeps distinct as "image," "effigies," and "shapes".
+
+[DRAFT] (4.32) The transition appears twice: 4.26-32 and 4.33-37 are two "since I have taught" clauses (atoms; the mind) followed by the same main clause, so 4.30-31 = 4.36-37. This is probably an unrevised double draft, which some editors resolve by deleting one set. The translation keeps both in Bailey's order and repeats the English word for word.
+
+[DRAFT] (4.35) ordia prima is a shortened form of primordia, the same technical term. The translation's "first origins" departs from the register's "first-beginnings" (used for primordia at 4.50 and 4.111), and the translator may wish to harmonize it. Primordia is the word a modern reader will hear as "atoms".
+
+[DRAFT] (4.46) Lines 45-53 are suspected of being misplaced or a remnant of the earlier draft. The sense of 4.42-50 is continuous, but 4.51-53 restate the thesis already announced at 4.30-31 and 4.36-37. The translation keeps every line in the source order and does not rearrange.
+
+[DRAFT] (4.46-48) Acherunte: Acheron, a river of the underworld, here standing for the realm of the dead, as at 1.120. The point is Epicurean: dream-visions of the dead are only images, because at death the spirit (animas) and the mind (animi natura) are dissolved together (4.49-50), as argued in Book 3.
+
+[DRAFT] (4.65-66) nam cur illa cadant ... hiscendist nulla potestas: this couplet recurs verbatim at 4.102-103, and the English repeats as well. hiscendist nulla potestas is an idiom for "there is no room to gape (to object)", meaning no one can open their mouth against the argument. The first appearance concerns surface films, the second mirror-images.
+
+[DRAFT] (4.75-80) vela ... magnis intenta theatris: Roman theaters were shaded by coloured awnings stretched on masts (malos) and beams, so the light that passed through them tinted the crowd below. The audience (consessum, patrum matrumque) are the men and women in the seats, and the example shows colour being shed from the surface of a cloth.
+
+[DRAFT] (4.102-103) Verbatim repeat of 4.65-66; see the note there. The English repeats the earlier lines word for word.
+
+[DRAFT] (4.116) corum is the source's misprint for eorum ("of them"), meaning the tiny living creatures. The point is the Epicurean argument from minute animals: if a creature is so small that a third of it cannot be seen, its organs and the first-beginnings composing them must be smaller still.
+
+[DRAFT] (4.125) panaces, habrotonum, centaurea: strong-smelling medicinal plants (all-heal, southernwood, centaury). "The panacea" in the English is the plant, not a general cure-all. absinthia taetra repeats the phrase from the honey-and-wormwood simile at 4.11.
+
+[DRAFT] (4.126) The sentence breaks off at duobus and the source prints a lacuna before 4.127. The missing text presumably supplied the fingers rubbing the plant (perhaps digitis) and the point that its smell is carried by bodies too small to see. The translation prints the lacuna unnumbered and supplies nothing.
+
+[DRAFT] (4.128) nulla vi cassaque sensu: the phrase can mean that the images are "without force" and also "bereft of sense", so that they are harmless and not themselves sentient. The translation takes cassaque sensu as "imperceptible to sense", and the translator may prefer to keep the wording closer to the Latin.
+
+[DRAFT] (4.136) The source prints "aeraaëra", a doubling; the translation reads aëra (the Greek-form accusative of "air"). Gigantum refers to the Giants of myth, earth-born beings who fought the Olympian gods, whose faces the clouds seem to form.

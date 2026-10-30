@@ -1,0 +1,5 @@
+FINDINGS
+5.53	MISTRANSLATION	MODERATE	0.75	"ipsis iam mortalibus e divis dare dicta suerit" says he was used to give sayings from the gods to mortals themselves. The English drops the recipients and the verb "dare" and substitutes a conjectural "immortalibus" for the printed "mortalibus", giving "many sayings about the immortal gods themselves"; fix: "to give to mortals themselves, from the gods, many sayings" (this also removes the {{NOTE}} emendation).
+SECONDARY
+5.58	REGISTER	MINOR	0.50	"aevi" (register: aevum = "life, age") is rendered "time" in "the strong laws of time", although 5.61 renders "aevum" as "ages"; fix: "the strong laws of age" or "of life's span".
+5.72	LEXICAL	MINOR	0.50	"vesci per nomina rerum" means to make use of, or feed on, the names of things among themselves. "Deal with one another" loses the "use" sense; fix: "began to use among themselves the names of things".

@@ -1,0 +1,5 @@
+FINDINGS
+NONE
+SECONDARY
+412	LEXICAL	MINOR	0.50	"terrarum milia multa" means many thousands (of paces or miles) of land, but "many thousands of lands" reads as countries. Suggested fix: "and many thousands of miles of land lie in between,"
+471	AMBIGUITY	MINOR	0.50	"hunc igitur contra minuam contendere causam" most likely means I will not trouble to plead against his cause, but "my case" makes the case the speaker's own with no note. Suggested fix: "Against this man, then, I will make little effort to contend with his case,"

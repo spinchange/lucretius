@@ -1,0 +1,39 @@
+[DRAFT] (5.146-147) Epicurean doctrine compressed: the gods live in the intermundia, the spaces between worlds, not in any part of our world (in mundi partibus ullis). The point opposes the Stoic and popular view of a divinely inhabited cosmos; the argument runs from the gods' thin nature to the unlikeness of their dwellings (146-155).
+
+[DRAFT] (5.148-149) "Thin" renders tenvis, "the thought of the mind" is animi mente, the register's merge of mens with animus in a non-technical phrase. On Epicurean doctrine the gods are perceived only by the mind, through very fine images, not by the senses.
+
+[DRAFT] (5.155) The promise (quae tibi posterius largo sermone probabo) is not fulfilled in the poem as transmitted. The gods' dwellings are touched on at 3.18-24 but not proved at length. Whether this reflects the poem's unfinished state or a lost passage is disputed; the translation keeps the future tense as written.
+
+[DRAFT] (5.156-164) One long sentence whose subject is the infinitive clause "to say that..." and whose predicate is "desiperest" (is folly) at 165. The target is the teleological view (Stoic in particular) that the world was made for men, and that it is impious to question its eternity. "Memmi" is the dedicatee, Gaius Memmius, addressed again here.
+
+[DRAFT] (5.160) "Ratione vetusta" is rendered "ancient reasoning", with ratio in the sense of design or plan, a deliberate fit with the register's "reasoning". The line is difficult in construction: "quod... fundatum" is the object of the infinitives "sollicitare... vexare... evertere" in 162-163.
+
+[DRAFT] (5.165-167) The argument from the gods' self-sufficiency, a core Epicurean tenet: beings blessed and immortal need nothing from men and cannot be put in their debt. Compare the denial of divine anger or favour at 2.646-651 (= 1.44-49), a passage whose authenticity is contested in the proem.
+
+[DRAFT] (5.175-176) "Credo" is ironic ("I suppose"), mocking the supposition that life before creation lay in darkness. The Epicurean point is that non-existence involves no deprivation (cf. 3.830-869); the reader may also note "genitalis origo" (generative origin), echoing the "genitalia corpora" of the register.
+
+[DRAFT] (5.181-182) "Notities" is the Epicurean preconception (Greek prolepsis), the mental pattern of a thing; Lucretius argues the gods could have had no such pattern of men before men existed. The translation gives "notion" for lack of an English technical term.
+
+[DRAFT] (5.184) "Principiorum" is rendered "beginnings", a different word from "first-beginnings" (primordia), since the Latin differs. The term is a synonym for the same entities, here with "vis" (power) of the atoms, a point the register should record as a deliberate distinction.
+
+[DRAFT] (5.186) The sense of the question that opens at 181 closes here: "if nature herself did not give a likeness of creating" (speciem creandi). Here "species" is rendered "likeness", in the register's sense of pattern or model.
+
+[DRAFT] (5.187-194) The first-beginnings, by infinite chance combinations over infinite time, must have fallen on the arrangements that form this world. This is the same argument as 1.1021-1028 and 2.1067-1076 with the same wording of a random, trial-and-error process; a modern reader may hear a distant echo of selection, but that is the reader's association, not the poet's claim.
+
+[DRAFT] (5.195-199) The poet claims he could refute design from the visible faults of heaven alone, even if the primordia were unknown. "Tanta stat praedita culpa" opens a catalogue of the world's defects (200-234), a standard Epicurean argument against providence.
+
+[DRAFT] (5.204) "Duas partis" (two parts) is meant loosely: of the habitable earth remaining after mountains, seas and marshes, nearly two parts in three are lost to heat and frost, which is the poet's rhetorical estimate rather than a measurement.
+
+[DRAFT] (5.206-212) The syntax is difficult and 207-212 are punctuated differently in editions. The translation follows the Perseus text: the sequence of potential clauses (would choke with brambles, could not come out) depends on 207 "ni vis humana resistat" and 210-212 as the further conditional "if we did not turn..." Note "ad ortus" at 211 as "to birth", the clods called forth to growth.
+
+[DRAFT] (5.222-227) The child as a shipwrecked sailor is a famous passage of pessimism; the baby is cast up (proiectus) as if from the waves. "Luminis oras" (224) is the refrain "shining shores of light", first at 1.22 and here recalled in a bitter context. Lucretius is arguing from the evidence of a natural world not designed for human good.
+
+[DRAFT] (5.235-239) The argument that the world is mortal begins: the four constituents (earth, moisture, air, fire) are each mortal, so the whole is. "Principio" opens a new section after the transition from 234. Note that "omnia nativo ac mortali corpore constant" rests on the doctrine that composite bodies are born and perish, only the first-beginnings being immortal.
+
+[DRAFT] (5.240-246) The inference from the parts to the whole: what is composed of mortal, born parts is itself mortal. "Principiale aliquod tempus" is "some time of beginning", the world having a first moment and a final destruction, as argued at length in the rest of Book 5. The word "caeli" (heaven) names the sky or upper part of the world.
+
+[DRAFT] (5.247-250) The poet anticipates an objection that he is begging the question in treating earth, fire, water and air as mortal. Here Lucretius is, without naming, contradicting Empedocles and other thinkers for whom the four elements were eternal roots; the "I said" (dixi) refers back to earlier discussion in Books 1 and 2.
+
+[DRAFT] (5.254) The reading "aereaëre" is evidently corrupt in this printed text; the translation gives "air" (aere). Editors differ on the repair, and the printed form should not be taken as a manuscript reading.
+
+[DRAFT] (5.259) "Omniparens... commune sepulcrum" (mother of all and common tomb) is the same formulation as 5.259 echoing 1.250-251 and the 2.998-1000 passage on the earth as the mother of creatures and their burial. The earth is both womb and grave.

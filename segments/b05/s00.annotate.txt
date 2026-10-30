@@ -1,0 +1,37 @@
+[DRAFT] (5.8) "Graius homo" is again left unnamed: the god is Epicurus (cf. 1.66), and Lucretius says "deus ille fuit, deus" outright. The deification is meant seriously within the poem's terms and is defended at 5.49-54, where the benefactor who frees men from passion "with words, not arms" is held worthy of the gods. The translation keeps the doubled "a god, a god."
+
+[DRAFT] (5.14) Ceres (fruges) and Liber (liquoris vitigeni laticem) are the Roman grain-goddess and the wine-god, identified with Bacchus. They stand for the "divine" inventions of agriculture and viticulture that the poem ranks below Epicurus's discovery of how to live. The English "Liber" keeps the Latin cult-name.
+
+[DRAFT] (5.22) Hercules, the great benefactor-hero of Greek and Roman tradition, is here measured against Epicurus. The twelve Labors that follow (5.24-36) are listed as monsters cleared from the earth, and the argument is that they are trivial next to the inner "monsters" of desire and fear (5.43-48).
+
+[DRAFT] (5.26) The Labors run from the Nemean lion and the Erymanthian boar ("Arcadius sus") to the Stymphalian birds (Stymphala colentes), the Cretan bull, the Lernaean hydra, Geryon, the mares of Diomedes of Thrace, and the serpent guarding the Hesperides' golden apples. The list is not in the canonical order, and the Latin "Stymphala colentes" is more exactly "those dwelling at Stymphalus", which the English takes as the birds.
+
+[DRAFT] (5.35) "Atlanteum litus" is the far western shore beyond the Pillars of Hercules, where the Hesperides' garden was located. "Noster … nec barbarus" means neither Roman nor foreigner ventures there, i.e. nobody at all.
+
+[DRAFT] (5.53) The Perseus text reads "iam mortalibus e divis", which is nonsensical against "e divis" and is probably a reading of "immortalibus" (or a corruption close to it), so the sense is "about the immortal gods." The translation follows that sense and reads "ipsis immortalibus" as what Epicurus used to say "divinely" about the gods. Editors differ on the exact reading, so the translator should check against the apparatus.
+
+[DRAFT] (5.55) "Cuius ... vestigia" picks up the unnamed Epicurus again (cf. 5.8 and 1.66), and "ingressus vestigia" echoes the proem's "ingredior ... vestigia" at 3.3-4, where Lucretius follows the Greek master's footsteps. The "reasonings" (rationes) are the Epicurean arguments of Books 1-3 that Lucretius now summarizes before turning to cosmology.
+
+[DRAFT] (5.59) "Animi natura" is rendered "the nature of the mind", the subject of Book 3 (the mortality of animus and anima). The back-reference sums up Book 3's doctrine, and "simulacra ... in somnis" (5.62) refers to the Book 4 theory of dream-images, here kept as "images" per the register.
+
+[DRAFT] (5.74) "Terrarum ... orbi" and the catalogue of shrines, lakes, groves, altars, and images (fana lacus lucos aras simulacraque) name the physical objects of Roman cult. The poet gives the origin of the fear of the gods (divom metus) as one of the topics of this book, which is taken up at 5.1161-1240.
+
+[DRAFT] (5.82) These lines (5.82-90) recur at 6.58-66, and 5.88-90 repeat 1.75-77. The English repeats the earlier lines word for word, and "deos securum agere aevom" states the Epicurean doctrine that the gods live untroubled and do not govern the world, which is the point against "antiquas religiones".
+
+[DRAFT] (5.86) "Religiones" here is the plural of the register term "religion", and the sense is the old cult-fears and observances that return when men cannot explain heavenly phenomena. The English keeps "religions" rather than "superstitions", as the register requires.
+
+[DRAFT] (5.93) "Naturam triplicem, tria corpora" names sea, land, and sky, which the Epicureans (and Lucretius) treat as aggregates formed in time and so dissolvable. The "machina mundi" is the poem's image of the cosmos as a built structure, and "una dies" is the single day of its dissolution, which sets up the prediction of collapse in 5.95-96. A reader may hear in this a hint of modern cosmic mortality, but that is the reader's association, not the poet's claim.
+
+[DRAFT] (5.102) "Via ... munita fidei" is the "paved road of belief": sight and touch are the most direct routes to conviction, and since the destruction of the world cannot be shown to either, Lucretius must rely on argument (dictis). The "templa mentis" are the regions or precincts of the mind (templa as in "Acherusia templa", never "temples").
+
+[DRAFT] (5.107) "Fortuna gubernans" is "steering fortune", a parallel to "natura gubernans" at 5.77. This is a conventional prayer that the catastrophe not occur in the speaker's lifetime, and its note of piety sits oddly with the poem's denial of divine providence.
+
+[DRAFT] (5.112) The Pythia is the priestess of Apollo (Phoebus) at Delphi who spoke from the tripod, with the laurel as the god's plant. The comparison is borrowed from Lucretius's own critique at 1.738-739 of Empedocles, whose verses he says are worthy of the oracle, but here the claim is that his own pronouncements are "more holy and more certain."
+
+[DRAFT] (5.117) The Giants (Gigantum) were the earth-born sons of Gaia who attacked Olympus and were punished by Jupiter. The Latin "ritu par esse Gigantum" is the claim that men who deny the divinity of the heavenly bodies would be seen as being like the Giants, and this is probably a thrust at Stoic or traditional piety that treated sun and moon as gods.
+
+[DRAFT] (5.121) "Inmortalia mortali sermone notantes" is the accusation that Epicureans label immortal things with a mortal tongue, which is the charge Lucretius sets up to refute. In his view, sun, moon, sea, and earth are not divine at all, so the charge fails.
+
+[DRAFT] (5.128) These lines (5.128-141) closely repeat 3.784-797, the Book 3 argument that the mind cannot exist outside the body, and the English matches its Book 3 lines where the Latin agrees. The point is the Epicurean doctrine that each thing has its fixed place (certum ac dispositum), so mind (animi natura) needs the sinews and blood of a body.
+
+[DRAFT] (5.140) "Anima atque animus" is rendered "the spirit and the mind", following the register: anima is the vital principle ("spirit") and animus the ruling mind. In Book 3 Lucretius treats them as two parts of one nature, and the line is a compressed reminder of that.

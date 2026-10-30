@@ -1,0 +1,29 @@
+[DRAFT] (3.136) The poem here moves from the promise of the proem to the first doctrinal claim: *animus* (mind) and *anima* (spirit) are two names for parts of one composite nature, the same pairing Lucretius announced as his topic in 3.94ff. The register keeps them distinct throughout: mind is the ruling part, spirit the part spread through the body.
+
+[DRAFT] (3.139) *animum mentemque*: Lucretius treats *animus* and *mens* as names for the same ruling part, so the "and" does not add a second faculty. The translation renders *mens* as "thought" when it is paired with *animus*, as the register provides, and "mind" elsewhere. Readers who know the Latin will see both words in the line, but the doctrine has one seat, not two.
+
+[DRAFT] (3.142) *hic ergo mens animusquest*: the "therefore" is an argument from location. The seat of fear and joy is the breast, so that is where the governing part must be. The Epicurean view differs from the Platonic view that places reason in the head; the "head" of 3.138 is only a figure (*quasi*).
+
+[DRAFT] (3.144) *ad numen mentis momenque*: *numen* here is the root sense of a nod, the sign by which a command is given, not divinity. It sits beside *momen*, "impulse," in a pairing with a faintly military or monarchic tone that suits the "lord" of 3.138.
+
+[DRAFT] (3.145) *sibi solum per se sapit*: the mind can feel on its own account when the spirit and body are undisturbed. This is a compressed doctrine of the partial independence of the mind. The same mind will still be shown to depend on the body in the arguments that follow.
+
+[DRAFT] (3.161) *corpoream*: this begins the first argument that mind and spirit are bodily. For the Epicureans only body can touch and be touched (*tactus*), and only what touches can act on another thing. The argument runs from action on the body, through touch, to body. The reader who knows the void (*inane*) should also note that void cannot act or be acted on, so whatever moves the limbs must be body.
+
+[DRAFT] (3.170) *vitam*: the wound passage argues from the effects of a blow that stops short of killing. The faintness, the sinking to the earth and the uncertain wish to rise show the mind undergoing the same changes as the body. Lucretius takes them as signs that the mind itself is struck.
+
+[DRAFT] (3.186) *rutundis ... seminibus*: here the register's "seeds" (*semina*) names the atoms of the mind, and their roundness is the explanation of their mobility. The analogy that follows is of water and honey, then poppy seed against stones and ears of grain. The reader may know that Lucretius uses the same images elsewhere in the poem for the same purpose, the relation between texture and mobility.
+
+[DRAFT] (3.208) *loco se contineat parvo*: the argument from weight starts here. A man's body weighs the same just after death as just before, so what has departed has no measurable weight. The ancient claim is an observation, not an experiment, and the translation keeps it as the verse states it.
+
+[DRAFT] (3.221) *Bacchi ... flos*: "the flower of Bacchus" is the bouquet of wine, and the placeholder note on this line can be kept as it stands, with the fuller form: the wine, the perfume (*unguenti*) and the savour (*sucus*) all lose something to the senses without losing weight, which is the analogy for the departing spirit. The word *flos* was used for the bloom or best part of a thing, and the figure is Lucretius's own.
+
+[DRAFT] (3.233) *aera* ... *aër* ... *aeris*: the source file prints doubled forms (*aeraaëra*, *aeraër*, *aerisaëris*) at 233, 234, 236 and 248. These look like transcription artefacts, two spellings of one Greek loanword set side by side. The translation reads them as *aera*, *aër* and *aeris*, "air," and the Latin transcription in `latin/` should be checked before the notes are finalised.
+
+[DRAFT] (3.237) *triplex ... natura*: the three components so far are breath (*aura*), heat (*vapor*) and air (*aër*). Lucretius names a fourth in the next lines, so the count here is the first of two stages and the "threefold" is deliberately incomplete.
+
+[DRAFT] (3.242) *east omnino nominis expers*: the fourth nature is "without a name." Lucretius cannot name it because no word exists for it, and this limit anticipates the complaint about the poverty of Latin at 3.258-261. It is the finest part of the soul, the first to be moved and the one that passes motion on to heat, wind and air in turn.
+
+[DRAFT] (3.244) *elementis*: *elementa* here means the first bodies, not letters. The register keeps "elements" for both senses, and the pun on letters (1.197 and elsewhere) is not at work in this line.
+
+[DRAFT] (3.260) *patrii sermonis egestas*: the poverty of the native tongue, that is Latin as compared with Greek, is a topos Lucretius uses at 1.136-139 and 1.832. Here it explains why he cannot describe how the four natures are mingled, and he promises only a summary (*summatim*).

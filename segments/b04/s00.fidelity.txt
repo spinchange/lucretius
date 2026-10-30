@@ -1,0 +1,4 @@
+FINDINGS
+127	LEXICAL	MODERATE	0.76	"cassaque sensu" means "bereft of sensation" (the images themselves have no sense), but the English "imperceptible to sense" makes them unperceived by our senses, which changes the claim; fix: "without any force and bereft of sensation"
+SECONDARY
+35	REGISTER	MINOR	0.50	"in ordia prima" is rendered "first origins", a coinage outside the register, though it names the same first-beginnings that primordia (50) renders as "first-beginnings"; fix: "returns to its first-beginnings" (or add "first origins" to the register)

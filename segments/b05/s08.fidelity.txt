@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+1095	LEXICAL	MODERATE	0.65	"caeli plaga" means a region or quarter of the sky, but the English renders plaga as "a stroke from heaven", which turns it into a blow or lightning strike; suggested fix: "when a quarter of the sky has granted its heat"

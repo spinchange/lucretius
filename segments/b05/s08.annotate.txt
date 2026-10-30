@@ -1,0 +1,21 @@
+[DRAFT] (5.997) The placeholder asks what "vermina" are. The word is rare: it seems to mean sharp internal pains, griping of the bowels (from vermen, a twisting), and the translation takes it so ("gripings"). Some editors and readers take it as "worms" infesting the wounds, which would fit the foul sores (ulcera tetra, 995) but not the "savage" (saeva) pains.
+
+[DRAFT] (5.1006) The placeholder asks about ratio. Here "improba navigii ratio" means the technique or art of seafaring, not Epicurean "reasoning" as in the register's usual rendering. The translation uses "craft", a deliberate departure from the fixed term, since the sense is practical skill.
+
+[DRAFT] (5.1011) The lacuna after 1012 is marked in the text. The transmitted "cognita sunt" (1013) has lost its subject, and the sense probably concerned the bonds of marriage or the first knowledge of family ties. The translation prints the lacuna unnumbered and supplies nothing. The sentence is therefore broken at that point, and "were known" has no subject in the English.
+
+[DRAFT] (5.1017) "Venus inminuit viris" is the goddess standing for sexual love, which Lucretius says sapped the primitive strength (viris). Here Venus is a force in the human story rather than the divine patron of the proem. In the translation the name is kept and the sense left to the context.
+
+[DRAFT] (5.1025) "Foedera" (covenants) is the register's term for nature's covenants, but here it means the human compacts of mutual non-aggression made among neighbours (1019-1020). This is the beginning of Epicurean social contract. Lucretius says it did not hold universally, only for "a good and great part" (bona magnaque pars), and the translation keeps "covenants" so the vocabulary connects to the later political account (5.1136 ff.).
+
+[DRAFT] (5.1028) This opens the argument on the origin of language, which is directed against the view that one man gave things their names. "Natura" and "utilitas" (need) together cause speech: nature supplies the capacity for varied sounds, need shapes the names. The parallel with children pointing (1030-1032) is offered as evidence of how it happens, not as an analogy for its own sake.
+
+[DRAFT] (5.1041) The "someone" who "distributed names" (nomina distribuisse) is a Greek-philosophical target, probably the doctrine, found in Plato's Cratylus and in Stoic thought, of a name-giver (nomothetes). The attack is Epicurean: language arose naturally from the earliest humans' feelings and needs, not from the invention of a single wise man. Lucretius does not name the opponent.
+
+[DRAFT] (5.1047) The placeholder asks about notities. In Epicurean terms it is the "preconception" (Greek prolepsis), a general concept stored in the mind from repeated experience of things. Lucretius's argument is that the supposed first name-giver could not have had any notion of the usefulness of speech unless others had already been using it, since such a notion is formed by experience.
+
+[DRAFT] (5.1063) The placeholder concerns the Molossian dog. It was a large breed from Molossia in Epirus, prized in antiquity as a guard and hunting dog, and a stock example of fierce, powerful dogs. The translation keeps the ethnic adjective as Lucretius has it.
+
+[DRAFT] (5.1075) "Pinnigeri Amoris" is the winged Cupid (Love) personified as the source of the stallion's desire. The "spurs" (calcaribus) are the goad of passion, an image drawn from riding. The Latin uses the mythological figure for an animal drive, and the translation keeps the personification.
+
+[DRAFT] (5.1091) This line turns from language to fire, answering an objection Memmius (the addressee) might silently raise: how did humans get fire? The sentence that follows gives lightning (fulmen) and friction of branches as the two possible sources (1101, "quorum utrumque"), without deciding between them, which is typical of Lucretius's method of multiple explanations. The same fire is then said to have been put to use in cooking, taught by the sun (1102-1104).

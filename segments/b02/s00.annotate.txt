@@ -1,0 +1,39 @@
+[DRAFT] (2.1-4) The opening image (suave, mari magno) is the poem's most famous prologue; Lucretius is not praising cruelty but the security of the observer, who sees what evils he is free of (quibus ipse malis careas). The sea-and-shore picture sets up the contrast between the philosopher's detached vantage and the struggle of ordinary life that runs through the whole proem.
+
+[DRAFT] (2.5-6) The source prints 2.6 before 2.5 (editorial transposition, so that "suave etiam belli certamina magna tueri" reads directly after 2.4); the translation follows the source order and keeps both line keys, so the English "drawn up across the plains" completes the sense of 2.6.
+
+[DRAFT] (2.7-8) The "serene precincts" (templa serena) are Epicurean philosophy imagined as a fortified high sanctuary, built by "the teaching of the wise" (doctrina sapientum), meaning Epicurus and his followers, whom Lucretius does not name here. Templa means a consecrated or marked-off region, not a building, in keeping with the register's rendering of Acherusia templa as "precincts."
+
+[DRAFT] (2.14-19) The "blind hearts" and the barking of nature (latrare) introduce Epicurus's doctrine that nature demands only the absence of bodily pain and a mind free of care and fear. The verb is deliberately blunt, as if nature were a dog insisting on its few needs.
+
+[DRAFT] (2.20-22) "The body's nature" (corpoream naturam) and the few things it needs state compressedly the Epicurean division of desires into natural and necessary, natural but unnecessary, and empty. The verse treats luxuries (delicias) as permissible additions, not necessities.
+
+[DRAFT] (2.24) The golden youths holding lamps (aurea iuvenum simulacra) are statues of the kind that lit rich Roman dinner halls. Here simulacra means "statues" in an ordinary sense, kept as "images" in the translation, and is not the Book 4 technical term for the films shed by things.
+
+[DRAFT] (2.28) Templa laqueata aurataque are the coffered, gilded ceilings of a rich hall (the English "rafters" follows this sense), a non-sacred use of templa; the word's sense of a defined space of roof or sky is why the same word is used of the "serene precincts" at 2.8.
+
+[DRAFT] (2.40-43) The reading and sense of 2.43 are disputed: the transmitted text has stlattas (a broad merchant ship, with the odd spelling stlatta), and the line is often considered corrupt or the sense uncertain. The translation takes the line as describing fleets "fitted out with arms," following the transmitted text, with the whole movement being a mock review of land and naval forces meant to show that such displays do not calm the mind.
+
+[DRAFT] (2.44) Religiones is rendered "religions," as the register requires, even though the plural strains English; the sense is the terrors and scruples that religio imposes, which Lucretius treats as the real enemy throughout the poem (compare 1.63 and the proem of Book 1).
+
+[DRAFT] (2.55-58) The comparison of adult fears to children's fear of the dark is an image Lucretius uses in all his refrain passages. It anticipates the refrain at 2.59-61 by supplying its ground: terror of the mind (animi terrorem) is darkness of imagination, not a real danger.
+
+[DRAFT] (2.59-61) These three lines repeat 1.146-148 word for word (and recur at 3.91-93 and 6.39-41); the English repeats its own earlier rendering. This is the first appearance of the refrain in Book 2, and "the face and reasoning of nature" (naturae species ratioque) renders species as "face" per the register.
+
+[DRAFT] (2.62-66) The "generative bodies of matter" (genitalia materiai corpora) are the first-beginnings, i.e. what a modern reader would call atoms, and the passage announces the topic of the book: the motion of atoms in the void. The "mobility" (mobilitas) given to them is the source of everything that follows, down to the swerve at 2.216ff.
+
+[DRAFT] (2.79) The runners passing on the torch (cursores vitai lampada tradunt) refer to the Greek lampadedromia, a relay in which a lit torch was handed on. The image of life as handed from generation to generation was widely quoted afterward.
+
+[DRAFT] (2.83-88) The sentence compresses the Epicurean claim that atoms move either by their own weight (gravitate sua) or by blows from other atoms. Nothing in the void stops them (neque quicquam a tergibus obstet), so collisions send them rebounding at once. A reader who knows the swerve may see a gap here, since the third cause, the swerve, is not yet introduced.
+
+[DRAFT] (2.92-94) The infinity of space (spatium sine fine modoquest) and the claim that the whole has no bottom, no "lowest point" (imum), are proved in 1.951-1051, as the English note flags. The point matters because it means there is no floor on which atoms could come to rest.
+
+[DRAFT] (2.105-106) The text and sense of these lines is uncertain, and the translation renders what is printed without resolving the difficulty: the few atoms which wander in loose freedom are set against the dense mass that makes rock and iron. The modern reader may recall a contrast between solids and gases, which is the reader's association, not Lucretius's claim.
+
+[DRAFT] (2.112-113) Simulacrum et imago ("an image and picture") here means an analogy or likeness for the eye, and not the technical simulacra of Book 4. The register keeps "images" for simulacra, and the word is used here in a non-technical sense, so a reader who knows the later doctrine should not read it back into this line.
+
+[DRAFT] (2.114-124) The dust motes dancing in a sunbeam are Lucretius's famous visible analogue for atomic motion; he says the little bodies in the sunbeam merely give a sample (exemplare) of what he cannot show, not that they are atoms. A modern reader may hear Brownian motion here, but that is the reader's association, not the poet's claim.
+
+[DRAFT] (2.132) Error is rendered "wandering," its literal sense, and principia is "beginnings," kept distinct from primordia ("first-beginnings") as the register requires. The line says that the motes' wandering derives from the invisible motion of the atoms themselves.
+
+[DRAFT] (2.133-141) The passage explains the chain by which motion passes upward in scale: atoms move of themselves, then the smallest compounds (nearest to them in strength) are set moving, then larger bodies, until the motion reaches the visible motes. Lucretius is giving a causal ladder from the invisible to the seen, with the final sentence admitting that the blows that move the visible motes are not themselves plain to see.

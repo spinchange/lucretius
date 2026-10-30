@@ -1,0 +1,37 @@
+[DRAFT] (3.670) The Latin opens the series of arguments against reincarnation (metempsychosis), which Lucretius treats here as the doctrine of Pythagoras and Ennius. He argues from lost memory, from the spirit's growth with the body, and from the species-specific character of animals. Here "spirit" renders anima, the vital principle, and "mind" renders animus; the opening phrase (natura animai) is the first use of anima in the segment.
+
+[DRAFT] (3.676) "Wanders now not far from death" (id ab leto iam longius errat): a total loss of memory is, for Lucretius, already a kind of death, since the former self no longer survives. The same point appears in 3.843-846, where continuity of memory is the criterion of identity.
+
+[DRAFT] (3.684) "As in a cage" (in cavea): the image is of a bird or animal confined. Lucretius says that if the spirit entered a finished body it would live apart from it, as a captive does, yet the body feels everywhere, so the spirit cannot be an outside tenant.
+
+[DRAFT] (3.691) The source prints a garbled word at the start of the line (aenamque/ænamque, apparently for "eaque" or "ita"). The English reads the sense as "the spirit is so knit through...". Line 694 also shows a variant spelling (asperae/asperæ) in the source, a transmission artifact with no effect on the sense.
+
+[DRAFT] (3.713) "Seeds of the spirit" (semina animai) are the atomic components of the anima in Epicurean doctrine. Lucretius argues that if some remain in the corpse the spirit was not immortal, and if none remain the worms in the corpse cannot be explained.
+
+[DRAFT] (3.719) The generation of worms in rotting corpses was ordinary ancient belief (spontaneous generation). Lucretius uses it as evidence that the dead body still contains spirit-seeds, which then make the worms; it is an argument from the science of his day, not an observation by his own method.
+
+[DRAFT] (3.722) In this passage the Latin has a clause that breaks off and a question mark (insinuari?), where one expects a verb of belief; the English supplies "believe" from the next line's credis. The phrase "one by one" renders privas, and the apparent grammatical break is generally taken to be loose syntax rather than a lost line.
+
+[DRAFT] (3.741) The inherited-character argument: each species has a fixed temperament (lion's violence, fox's cunning, deer's flight) that grows with the body from birth. Lucretius infers that the mind-force is born together with the body and shares its seed, which a migrating spirit could not explain.
+
+[DRAFT] (3.746) This refrain (certa suo quia semine seminioque / vis animi pariter crescit cum corpore quoque) recurs at 3.763, where it is generally thought to be an intrusion from here; see the note at 3.763.
+
+[DRAFT] (3.750) Hyrcania lay southeast of the Caspian Sea (Hyrcano de semine). Its dogs were proverbial for ferocity, and the point is that even a dog of the fiercest stock would, if spirits migrated, sometimes flee a stag. The English lines 750-753 follow the source's spellings (aerisaëris is a diaeresis variant and does not affect the sense).
+
+[DRAFT] (3.757) "Transposed and shift from their order" (traiciuntur... atque ordine migrant): the Epicurean point is that any change in the arrangement of the parts of a compound is a dissolution of it. A spirit that changes its body thus is no longer the same thing, and so has perished. Lines 756 repeats the formula of 3.701 (quod mutatur enim, dissolvitur, interit ergo), echoing the earlier "what seeps through is dissolved."
+
+[DRAFT] (3.763) This line repeats 3.746 and does not fit its context: the sentence has already used "if not because" (si non) and the next line (764) has no verb for it. Editors commonly treat 763 as an interpolation from 746; the translation prints it because the source does, and the translator may wish to bracket it.
+
+[DRAFT] (3.765) "Take refuge" (confugient) shows Lucretius anticipating the believer's reply: the spirit grows tender in a tender body. He answers at once (766-768) that this admits change in the spirit and so its mortality.
+
+[DRAFT] (3.781) "Covenants" (foedera) here is used ironically of an agreement among the spirits; elsewhere foedera naturae are nature's fixed laws, rendered "nature's covenants" in the register. The joke is that the spirits would need a treaty to avoid brawling.
+
+[DRAFT] (3.784) The argument from fixed place: each thing has its proper habitat (tree in earth, fish in water), and so the mind has its proper place in the body. The lines 784-787 are the first of several "natural place" arguments; "the nature of the mind" (animi natura, 788) is used for the combined anima and animus, a looseness Lucretius allows in the polemic.
+
+[DRAFT] (3.806) Lines 806-818 recur almost word for word at 5.351-363, where they argue that the world is mortal; the English should therefore repeat verbatim at Book 5 where the Latin repeats. The passage lists the three ways something can be eternal (solidity, void, absence of outside), and the soul has none of them.
+
+[DRAFT] (3.809) "Bodies of matter" (materiai corpora) are the first-beginnings in the register's sense; the cross-reference "we have shown before" points to Book 1, where the solidity of the primordia (1.483-634) was argued.
+
+[DRAFT] (3.812) "As the void is" (inanest): the void is eternal because it cannot be struck or acted upon, being nothing. Here inane is "void" in the register; the reader may know it as "vacuum."
+
+[DRAFT] (3.816) "The sum of sums" (summarum summa) is the whole universe, which is eternal because nothing lies outside it to attack it or into which it could scatter. It is a Lucretian phrase for the totality, and the register's "sum of things" (summa rerum) is the same idea.

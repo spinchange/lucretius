@@ -1,0 +1,27 @@
+[DRAFT] (5.495-497) The earth's settling is the last stage of the cosmogony: heavy matter sinks "like dregs" (ut faex) and the lighter elements are sorted out above it. The lines continue the sequence begun in 5.449 ff., where earth, sea, air and fire separate out by weight.
+
+[DRAFT] (5.498-505) The ether (aether ignifer) is the outermost, finest layer of the cosmos. The poet pictures it as steady and untroubled, carrying the stars' fires, while the air below it is stormy (turbantibus, procellis).
+
+[DRAFT] (5.507) The Pontus (Pontos) is the Black Sea. Its steady outflow through the Bosporus was a commonplace in ancient writing, and Lucretius uses it as a visible analogy for the ether's even flow (certo aestu, unum tenorem).
+
+[DRAFT] (5.509) Nunc quae sit causa canamus (the cause of the motions of the stars) opens the astronomical section. Lucretius gives a list of possible causes, not one.
+
+[DRAFT] (5.510-516) The first model is a rotating celestial sphere (magnus orbis) held at its poles by air, driven by a current above or below (alium supra… alium supter). The comparison is to a water-wheel (fluvios versare rotas), which turns when the current strikes its paddles.
+
+[DRAFT] (5.521) The Latin summania templa is a textual puzzle. It may refer to Summanus, the Roman god of nocturnal thunder, so that the phrase means "nightly precincts of heaven," or it may be a corrupt or variant reading for "highest." The translation takes "nightly," following the Summanus reading.
+
+[DRAFT] (5.526-533) This is the Epicurean doctrine of multiple explanations (plurisque… causas, plures causae). For celestial phenomena, which cannot be observed directly, any cause consistent with the appearances is admissible. Lucretius claims only that one of these causes must hold in our world (una… necessest), and that the surviving options are those that occur "in various worlds" (in variis mundis), a reference to the infinity of worlds.
+
+[DRAFT] (5.534-538) The earth stays at rest because the air below it is "joined from the beginning" (ex ineunte aevo coniunctam) to its parts, so the earth is not a load placed on air. A modern reader may hear a distant echo of the idea that weight is relative to position, but that is the reader's association, not the poet's claim.
+
+[DRAFT] (5.556-563) The comparison to the anima (vis animai) and the animus (animi vis) works as a proof by analogy: the body's weight does not burden the limbs, just as the air does not burden the earth. The register terms are anima = "spirit" and animus = "mind," and here the two are used almost interchangeably for the vital force.
+
+[DRAFT] (5.564-573) The point about the size of the sun is Epicurean: the senses do not lie about the size of distant bodies (nostris sensibus esse videtur). The sun is as large as it appears, or very nearly so, and the argument is that fire loses almost nothing in apparent size over distance.
+
+[DRAFT] (5.574) This line (perveniunt nostros ad sensus et loca fulgent) repeats 571 in the source and does not belong to the argument at this point. The translation keeps it, as the source prints it, so the files stay aligned line for line.
+
+[DRAFT] (5.575) The notho lumine ("bastard light") is borrowed light, reflected from the sun. Lucretius leaves open whether the moon shines by reflected or by its own light, as part of the same multiple-explanations method.
+
+[DRAFT] (5.596) This line repeats 584 in the source and does not fit its context, so editors treat it as a stray intrusion. The translation keeps it for alignment.
+
+[DRAFT] (5.599) The elementa vaporis ("elements of heat") are the first-beginnings of fire. As in the register, elementa recalls the letters of the alphabet, which Lucretius elsewhere compares to atoms.

@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+754	AMBIGUITY	MINOR	0.50	"obstruere ei" (the dative "ei" is the sun, whose high head the moon blocks off from the lands) is rendered "set itself against its high head", where "its" could be read as the moon's own head; "and block his high head from the lands"

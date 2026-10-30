@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+1012	GRAMMAR	MINOR	0.50	"quod dicitur esse alienum" is a relative clause ("the thing said to be strange"), and the English makes it a concessive "though it is called strange"; suggested fix: "so it is less to be wondered at, this thing that is called strange, if bodies..."

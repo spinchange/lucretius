@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+843	GRAMMAR	MINOR	0.55	Latin "sentit" has a singular subject, "animi natura" (the mind's nature), but the English "they do feel" is plural and has no clear antecedent, so it could be read as "we" or "the mind and spirit"; suggested fix: "And even if the nature of the mind feels, after it is torn from our body, along with the power of the spirit,"

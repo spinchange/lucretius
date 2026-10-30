@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+709	AMBIGUITY	MINOR	0.50	In "atque oriens obitus eius super edita vidit", "eius" is the sun's, but "looked down upon its setting" can read as the moon's own setting; suggested fix: "and, rising, has looked down on the sun's setting from the heights"

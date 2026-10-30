@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+3.121	LEXICAL	MINOR	0.50	"Atque eadem" picks up anima (117) as subject, but the English renders it "this same life", which loses the register's "spirit" for anima; "And again this same spirit, when a few bodies of heat..."

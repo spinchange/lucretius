@@ -1,0 +1,23 @@
+[DRAFT] (3.1053) The sentence runs 1053-1059 as a single long conditional, and the opening is the Lucretian diagnosis: men feel the weight (pondus … animo) but do not know its cause. "Mind" here is animus, in the register's fixed rendering, so the burden belongs to the governing part of the mind, not to the spirit (anima).
+
+[DRAFT] (3.1056) The Latin text is uncertain here: the manuscripts give "tam quam", and Bailey prints "tamquam" ("as it were"). The translation follows Bailey's sense, so the "mass of evil" is figurative, and keeps the two-word spelling only in the apparatus, not in the verse.
+
+[DRAFT] (3.1060) The figure from here to 1070 is a satire on restless Roman wealth: the great town house (magnis ex aedibus) and the country villa were the two settings of an aristocrat's life. Lucretius's point is that changing place (commutare locum, 1059) cannot cure a trouble the man carries within him.
+
+[DRAFT] (3.1063) "Mannos" were small, swift Gallic ponies, a fashionable luxury for the rich to drive. The detail makes the man's headlong haste (praecipitanter) look more absurd, since he is rushing to a place where he will only yawn.
+
+[DRAFT] (3.1068) The self from which the man flees (quisque se fugit) is the same one he cannot escape. This is the clearest statement of the passage's thesis: the distress comes from within and so travels with him, and its cause (morbi causam, 1070) is ignorance of the nature of things, which the next lines name. A reader may think of later talk of "restlessness" or "neurosis", but that is the reader's association, not the poet's claim.
+
+[DRAFT] (3.1069) The manuscripts read "ingratius haeret", "it clings the more unwelcomely". The translation follows Bailey's emendation "ingratis" (a standard Lucretian adverbial use, "against one's will"), which makes "ingratis haeret et odit" a plain pair of verbs; the Latin phrase is a minor crux that does not change the sense.
+
+[DRAFT] (3.1072) "Naturam … rerum" is the title phrase, here "the nature of things", rendered as the register fixes it. The passage turns on the claim that the cure for the sick man's restlessness is to study it (cognoscere), and 1073-1075 give the reason: the stakes are all of eternal time after death, not a single hour.
+
+[DRAFT] (3.1076) With "Denique" the poem passes from the restless individual to the general craving for life (vitai tanta cupido). The argument is the Epicurean one that fear of death makes men cling to life, even though life offers nothing new.
+
+[DRAFT] (3.1081) "Nec nova vivendo procuditur ulla voluptas": the verb procuditur ("is hammered out", as at a forge) pictures pleasure as something fabricated. The doctrine behind it is that prolonging life adds no new kind of pleasure, because pleasure (voluptas) is complete once pain is removed, so longer life only repeats the same round (versamur ibidem).
+
+[DRAFT] (3.1084) "Sitis … vitai semper hiantis" ("thirst for life … always gaping") joins the thirst image to the open-mouthed one. The thirst that is never filled recalls the Danaids and the other figures of insatiable desire that Lucretius takes up in the lines just before this passage.
+
+[DRAFT] (3.1087) The passage ends on the "symmetry" argument: the time of death (tempore de mortis) is eternal and cannot be shortened by living longer. The same claim is put at 3.1090-1094 with the person who died today and the one who died long ago, and is the poem's final word that every length of life ends in the same duration of nothing.
+
+[DRAFT] (3.1090) "Condere saecla" ("to complete generations") is a deliberate extreme: even if you lived out as many generations as you like, "mors aeterna" waits just the same. Here Lucretius presses the point that duration of life is irrelevant to the length of death, a claim he states earlier in the book at 3.1087-1089.

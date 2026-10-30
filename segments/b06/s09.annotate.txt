@@ -1,0 +1,33 @@
+[DRAFT] (6.1138) "Haec ratio" (ratio) is the manner or pattern of the disease, here "kind, sort", not the poet's technical "reasoning". The register's rendering of ratio as "reasoning" would mislead, so the translation says "pattern".
+
+[DRAFT] (6.1138) This is the opening of Lucretius's account of the plague at Athens, which ends the poem. It follows Thucydides 2.47-54 closely, and its structure matches the poem's last words on the death-fear (cf. the proem of Book 6 on Athens as the home of Epicurus's birth).
+
+[DRAFT] (6.1139) "Cecropis" (finibus in Cecropis): Cecrops was the legendary first king of Athens, so "the borders of Cecrops" means Attica. The plague is that of 430 BC, in the second year of the Peloponnesian War.
+
+[DRAFT] (6.1142) The line is corrupt in the manuscripts: the text printed here, "aeeraaeëra", is a garbled form of aëra ("air"), and the editors' conjecture is that the poet wrote *aëra permensus multum*. The translation follows the sense "having measured out much air", with "swimming plains" (campos natantis) for the sea.
+
+[DRAFT] (6.1143) "Pandionis" (populo Pandionis): Pandion was a legendary king of Athens, so "the people of Pandion" are the Athenians, as "Cecropis" was Attica in 1139.
+
+[DRAFT] (6.1149) "Animi interpres" (the mind's interpreter): the tongue is called the interpreter of the mind. In the register animus is "mind", the rational part of the spirit, seated in the chest, which is why the plague's descent to the heart at 1151-1153 matters.
+
+[DRAFT] (6.1152) "Cor" (the heart) is the seat of the animus in Epicurean doctrine, so the disease reaching the heart means it reaches the mind and the vital barriers (vitai claustra, 1153). The translation keeps "heart" as the Latin does.
+
+[DRAFT] (6.1156) "Animi... vires totius" is the strength of the whole mind, with "animi" here taken as the mind in the technical sense. The line is syntactically awkward in the Latin and some editors suspect a corruption; the translation follows the transmitted text.
+
+[DRAFT] (6.1167) "Sacer ignis" (sacred fire) is a disease of burning skin, probably erysipelas, but ancient usage is loose. The translation keeps the literal phrase.
+
+[DRAFT] (6.1174) "Nymphis putealibus" (the nymphs of the wells): the nymphs stand for the water by metonymy, and the translation keeps the personification.
+
+[DRAFT] (6.1199) "Funera leti" (the funeral of death): funera here is death itself rather than a burial, as at 1225 and 1238. The translation keeps "funeral" in all three, though the sense shifts between death and its rites.
+
+[DRAFT] (6.1213) "Oblivia rerum cunctarum" (forgetfulness of all things): Thucydides 2.49 also records that some lost their memory entirely and did not know themselves or their friends. Lucretius's version stays close to his source.
+
+[DRAFT] (6.1222) "Animam" (spirit) is the vital principle, rendered "spirit" per the register and never "soul". Here it is said of dogs, which fits the Epicurean view that animals have anima too.
+
+[DRAFT] (6.1237) "Lanigeras... pecudes et bucera saecla" (woolly flocks and horned cattle): the comparison of the dying to infected livestock is Lucretius's own, as Thucydides compares only the mortality among the attendants. The same simile appears at 3.472 in a different context, but here it is applied to contagion.
+
+[DRAFT] (6.1267) "Delubra" (shrines) and "templa" (1269, precincts) are distinct: delubra are the sacred buildings, templa the consecrated regions. The register fixes "precincts" for templa and the translation keeps them apart.
+
+[DRAFT] (6.1271) "Religio divom" (the religion of the gods) uses the register's plain "religion", the word on which the proem's force depends (1.63). Its collapse here, as the plague overwhelms it, is the poem's last word on religion.
+
+[DRAFT] (6.1286) The poem ends here, and the text is probably incomplete. Whether Lucretius meant to close on the plague without a consoling Epicurean turn, or died before finishing, is disputed.

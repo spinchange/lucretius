@@ -1,0 +1,4 @@
+FINDINGS
+1190	REGISTER	MINOR	0.80	"bello animost" renders animus as "spirit", although the register fixes animus as "mind" (and the same word is "mind" at 1135 and 1188); fix: "and, if she has a pleasant mind and is not hateful, in your turn"
+SECONDARY
+1088	MISTRANSLATION	MODERATE	0.65	"quod fieri contra totum natura repugnat" says that nature wholly resists the hope of quenching the flame in the same body, but the English "nature fights back: the whole goes the opposite way" makes "totum" a subject and loses the point; fix: "but nature wholly resists this happening; it goes the other way"

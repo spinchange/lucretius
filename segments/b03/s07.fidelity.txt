@@ -1,0 +1,5 @@
+FINDINGS
+NONE
+SECONDARY
+969	MISTRANSLATION	MODERATE	0.55	"nec minus ergo ante haec quam tu cecidere cadentque" says earlier generations fell before these later ones, no less than you will; the English "these have fallen before and will fall" makes "haec" the subject and blurs who fell and who will fall; "and so those before these have fallen no less than you, and these will fall too"
+1038	LEXICAL	MINOR	0.50	"quorum unus Homerus sceptra potitus eadem aliis" has Homer gaining the same scepters as the others, but the English turns "unus" into "alone" and drops "eadem aliis" from the scepter clause; "among them Homer, who won the same scepters as the rest, sleeps in rest"

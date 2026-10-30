@@ -1,0 +1,35 @@
+[DRAFT] (3.381-390) The list of things we fail to feel (dust, chalk, mist, cobweb, down, creeping insects) is an argument from the fineness of the spirit's atoms: a touch must disturb many of them before sensation arises. The sequence is in the Latin as a catalogue of ever smaller contacts, ending in the footprints of gnats (culices).
+
+[DRAFT] (3.392) The first occurrence in this segment of the register's "first-beginnings" (primordia) and of "spirit" (animai, genitive of anima), the vital principle that spreads through the limbs. Its seeds (semina) are mixed through the body, and sensation needs them to be shaken and move together (concursare coire et dissultare) across the gaps between them.
+
+[DRAFT] (3.396-398) Here the translation keeps "mind" for animus and "thought and mind" for mens animusque (398, 402), as in 1.74. The register asks for a note at the first technical contrast of mens and animus in Book 3. Lucretius treats them as one thing, the seat of thought in the chest, and opposes it to anima, the spirit spread through the body. Anima depends on it: it cannot stay in the limbs without the animus, while the animus can remain without most of the anima.
+
+[DRAFT] (3.408-415) The eye is an analogy for the animus within the body. The pupil (pupula) is the small central part on which sight depends, as the mind is the small central part on which life depends, and the surrounding "orb" (orbis) can be injured while sight remains. "Tantula pars" is the pupil as a fragment so small that its loss ends sight.
+
+[DRAFT] (3.416) "Foedere" is rendered "covenant" in keeping with the register's foedera naturae. The word is Lucretius's regular term for a binding law of nature, and here the bond is that of anima and animus.
+
+[DRAFT] (3.421-424) Lucretius asks Memmius to treat anima and animus as one thing in the argument that follows, so that proofs of the mortality of one count for the other. He says he will use either word for both, "inasmuch as" (qua tenus) they are one thing joined together.
+
+[DRAFT] (3.428) The sentence begun at 425 ("since I have shown...") breaks off at the parenthesis "nam longe mobilitate praestat", and its main clause does not arrive until "crede" at 437. The translation keeps the break (the dash) and does not repair the syntax. The Latin text is unsettled in the passage; the translation follows the source as printed.
+
+[DRAFT] (3.430-433) The "images of smoke and mist" (imaginibus fumi nebulaeque) are the simulacra, the thin films Lucretius treats at length in Book 4. They are rendered "images" per the register, and the claim is that the mind is so mobile that even such a faint stimulus moves it in dreams. The source prints a garbled verb at 433; the translation reads "geruntur".
+
+[DRAFT] (3.434-444) The vessel (vas) is the body, and the argument is by analogy: if a shattered jar lets its liquid run out, a body made rare by loss of blood cannot hold the spirit, and the air, being still rarer, can hold it even less. "Vas" echoes Greek "skēnos" (tent, body) used of the body in Epicurean and Platonic talk, and Lucretius will use the vessel image again at 3.555 and 3.792.
+
+[DRAFT] (3.445-458) The four ages (child, adult, old man) are the first of the arguments from the parallel growth and decay of body and mind. The translation keeps "mind" for mens (446, 453), though the register notes mens as non-technical here. The phrase "ut docui" (458) looks back to the argument for the mortality of the whole spirit already given.
+
+[DRAFT] (3.463-473) The disease arguments begin here, with delirium, lethargy, and the dying around whom friends stand weeping (469). "Contagia" (471) means touch or contact, not infection in the modern sense, and "leti fabricator" (472), "craftsman of death", makes disease and pain agents of death. The line 473 refers to the deaths Lucretius expects Memmius and the reader to have witnessed.
+
+[DRAFT] (3.474-475) Editors bracket 474-475 as an intrusion, and the second line is incomplete in the manuscripts ("inani" does not complete the sense). They look like a garbled anticipation of 510-511, which says the same thing in whole form.
+
+[DRAFT] (3.476-486) The drunkenness argument is by analogy, running by the principle that what can be confused can be destroyed. Lucretius reads the symptoms (heavy limbs, slow tongue, swimming eyes) as the spirit being thrown into confusion within the body by the wine. The inference at 484-486 is that anything that can be disturbed would perish if the cause were stronger.
+
+[DRAFT] (3.487-505) The fit is in the Latin a description of what is most likely epilepsy, the "sacred disease" of Greek medical writing, though Lucretius does not name it, and the simile of a lightning stroke (fulminis ictu) belongs to the popular idea that the sufferer is struck by a god. The "seeds of voice" (semina vocis, 496) are atoms of sound, understood as corporeal like everything else in the system. The waves under winds (493-494) are the simile for the spirit driven by the disease.
+
+[DRAFT] (3.510-512) These lines say again, in a whole form, what 474-475 attempt: the mind is healed like a sick body, and can be turned by medicine. The translation repeats the English of 474 where the Latin repeats it, and the phrase "mortalem vivere mentem" (512) is rendered "lives a mortal life".
+
+[DRAFT] (3.513-520) The argument: a change in what is immortal would be a change of its parts, and Lucretius holds that anything which leaves its own boundaries (suis finibus) is at once the death of what it was. The principle is repeated at 1.670-671 and 2.753-754 ("quod cumque suis mutatum finibus exit, continuo hoc mors est illius quod fuit ante"), and the translation must give the same English in each place. "Hilum" (514, 518) is a jot or whit, the smallest conceivable amount.
+
+[DRAFT] (3.523-525) Lucretius turns here to the opposing view: true reasoning meets false reasoning like an opponent in argument and cuts off its way of escape. "Ancipiti refutatu" is a two-edged refutation, one that cuts both ways.
+
+[DRAFT] (3.526-547) The dying man whose toes and nails grow livid first (528) is the last argument of this passage, and has the creeping death (gelidi vestigia leti, 530) advancing through the body. The reply at 533-539 anticipates the objection that the spirit retreats inward, and replies that the place where it gathered should then have greater sense, which no one sees. "Ut diximus ante" (538) points back to earlier argument. Line 540 onward grants the objection for the sake of argument and shows the result is the same.
