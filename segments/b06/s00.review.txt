@@ -1,0 +1,123 @@
+    1  First, to suffering mortals, the grain-bearing harvests
+    2  were given out long ago by Athens of illustrious name;
+    3  she it was who renewed life and enacted laws,
+    4  and first gave sweet consolations for life
+    5  when she bore a man found to have such a heart, {{NOTE: Epicurus, unnamed here as in the first proem ("a man of Greece", 1.66)}}
+    6  who once poured out all things from his truth-telling lips;
+    7  whose glory, though he is extinguished, for divine discoveries
+    8  is spread abroad and, old already, carried up to heaven.
+    9  For when he saw that nearly all that need demands for living
+   10  was by now made ready for mortals,
+   11  and that life, as far as could be, was set on a safe footing,
+   12  that men, powerful, abounded in riches and honor and praise,
+   13  and stood out in the good name of their children,
+   14  and yet at home the heart in each was no less anxious,
+   15  and harried life, against the mind's own will, without any
+   16  pause, and were compelled to rage in hostile complaints,
+   17  he understood that it was the vessel itself that made the fault,
+   18  and that by its fault everything was corrupted within,
+   19  whatever was gathered from outside and came in, however good;
+   20  partly because he saw that it was leaking and full of holes,
+   21  so that by no means could it ever be filled;
+   22  partly because he saw it fouled, as it were, with a loathsome taste
+   23  everything it had taken in, whatever it was, within.
+   24  Therefore with truth-telling words he purged men's breasts,
+   25  and set a limit to desire and to fear,
+   26  and set forth the highest good, toward which we all strain,
+   27  what it was, and pointed out the road by which, on a narrow track,
+   28  we could press on toward it on a straight course,
+   29  and what evil there was everywhere in mortal affairs,
+   30  coming about and flying abroad in various forms, whether
+   31  by natural chance or force, since nature had so arranged it,
+   32  and from what gates it was fitting to go out to meet each;
+   33  and he proved that the human race, for the most part in vain,
+   34  rolls the gloomy waves of cares within its breast.
+   35  For just as children tremble and fear everything
+   36  in blind darkness, so we in the light are afraid
+   37  at times of things that are no more to be feared than
+   38  what children in the dark shudder at and imagine will come.
+   39  This terror of the mind, then, and this darkness {{NOTE: 6.39-41 repeat 1.146-148 (also 2.59-61, 3.91-93); rendered verbatim}}
+   40  must be scattered not by the sun's rays or the bright shafts of day
+   41  but by the face and reasoning of nature.
+   42  All the more I will press on to weave out in words what I began.
+   43  And since I have taught that the precincts of the world are mortal,
+   44  and that heaven consists of a body that had a birth,
+   45  and that of all that comes to be in it, and must come to be,
+   46  most are dissolved, take in further what remains,
+   47  since once for all to mount the glorious chariot
+       [lacuna]
+   48  you, toward the white line marked out on the final track,
+   49  show me, as I run, the course ahead, cunning Muse, {{NOTE: "callida musa / Calliope": Lucretius puns on the Muse's name}}
+   50  Calliope, rest of men and pleasure of gods, {{NOTE: "divomque voluptas" echoes the opening address to Venus, "pleasure of men and gods" (1.1)}}
+   51  so that with you as guide I may win the crown with signal praise.
+       [lacuna]
+   52  of winds arise, how all things are appeased again,
+       [lacuna]
+   53  that were, and are changed back, their fury appeased.
+   54  The other things that on earth and in heaven are seen to happen
+   55  by mortals, when often they hang with fearful minds,
+   56  make their minds lowly with dread of the gods,
+   57  and press them down, flattened to the earth, because
+   58  ignorance of causes compels them to assign things
+   59  to the command of the gods and to yield them the kingdom.
+   60  The causes of whose workings they can in no way see, {{NOTE: 6.60-61 repeat 1.153-154 and recur at 6.94-95, where they are probably misplaced}}
+   61  and they suppose them to be done by divine power.
+   62  For those who have learned well that the gods lead a life without care,
+   63  if yet meanwhile they wonder by what principle
+   64  each thing can be carried on, above all in those things
+   65  that are seen overhead in the shores of the ether,
+   66  are carried back again into the old religions
+   67  and take on harsh masters, whom the wretches believe
+   68  can do all things, ignorant of what can come to be
+   69  and what cannot, and how at last each thing's power is bounded, {{NOTE: 6.69-70 repeat 1.76-77 (also 1.595-596, 5.89-90); rendered verbatim}}
+   70  by what principle, and its boundary-stone set deep;
+   71  and so all the more they wander, carried along by blind reasoning.
+   72  Unless you spit these things out of your mind and cast far from you
+   73  thinking what is unworthy of the gods and alien to their peace,
+   74  the holy powers of the gods, diminished by you, will often
+   75  harm you; not that the gods' highest power can be violated
+   76  so as to thirst in anger to exact harsh penalties,
+   77  but because you yourself will picture those who rest in tranquil peace
+   78  as rolling great waves of anger,
+   79  nor will you approach the shrines of the gods with a calm breast,
+   80  nor the images that are carried from their holy body
+   81  into the minds of men, heralds of the divine form,
+   82  will you have strength to take in with tranquil peace of mind.
+   83  From this you can see what kind of life must follow.
+   84  And that truest reasoning may drive this far from us,
+   85  though much has already gone forth from me,
+   86  yet much remains, and must be adorned with polished
+   87  verses; the order of heaven and of fire must be grasped, {{NOTE: text as printed in the source ("caelique ignisque"); many editors read "caeli speciesque", "the order and face of heaven"}}
+   88  storms and the bright thunderbolts must be sung,
+   89  what they do and from what cause they are carried, whatever it be,
+   90  lest you tremble, out of your wits, when heaven's parts are divided, {{NOTE: the Etruscan augurs divided the sky into regions to read the meaning of lightning}}
+   91  from what quarter the flying fire has come, or into which half
+   92  it has turned from here, in what way through walled-in places
+   93  it has slipped in, and how, having held sway, it has carried itself out.
+   94  The causes of whose workings they can in no way see,
+   95  and they suppose them to be done by divine power.
+   96  First, the blue expanses of heaven are shaken by thunder
+   97  because, flying on high, there clash together
+   98  the clouds of the ether, when the winds fight from opposite sides.
+   99  For no sound comes from a clear part of the sky,
+  100  but wherever the clouds are massed in a denser column,
+  101  from there, so much the more, a roar often comes with great rumbling.
+  102  Further, clouds cannot be of so dense a body
+  103  as stones and timbers are, nor again
+  104  so thin as are the mists and the flying smoke;
+  105  for either they would have to fall, pressed down by brute weight
+  106  like stones, or, like smoke, they could not hold together
+  107  or keep in the icy snows and the showers of hail.
+  108  They give out a sound, too, above the levels of the wide world,
+  109  as at times the canvas stretched over great theaters {{NOTE: the awnings spread over Roman theaters to shade the audience}}
+  110  gives a crackle, tossed about among the poles and beams,
+  111  and sometimes, torn through, runs wild in the boisterous breezes
+  112  and imitates the brittle sound of papers;
+  113  for this kind too you may recognize in thunder,
+  114  or when hanging clothes and flying papers
+  115  are twisted and beaten through the air by the lashes of the wind.
+  116  For it happens too at times that clouds cannot so much collide
+  117  head on as pass along each other's flank
+  118  with contrary motion, grazing their bodies slowly,
+  119  whence that dry sound brushes the ears and is long
+  120  drawn out, until they have come out of the narrow regions.

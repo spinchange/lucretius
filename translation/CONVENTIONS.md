@@ -116,6 +116,11 @@ every book unless explicitly revisited. Modelled on the Iliad project's
 | pari / simili ratione | on (by) a like principle | 5.643 | 5.910; ratione ulla in the non-technical 5.1052, 5.1054 = in any way |
 | natura daedala rerum | nature, artificer of things | 5.234 | daedala signa (5.1451) = artful statues, the crafted work |
 | rerum natura creatrix | the nature of things, the creator | 1.629 | 2.1117 "the creating nature of things"; 5.1362 "the nature of things herself, the creator" |
+| anima (of wind, air) | air, breath | 6.130 | the non-technical sense in the meteorology (6.578, 6.586, 6.591, 6.693), noted at each place; anima = spirit wherever it is the vital principle (6.798, 6.1223, 6.1234, 6.1261) |
+| lapis Magnes | the Magnes; this Magnesian stone | 6.908 | the Greek name kept as Lucretius keeps it (6.1046 "this Magnesian stone", 6.1064 "the Magnesian stones"); "magnet" only in the notes |
+| ratio quae sit | what the principle is | 6.535 | 6.639, 6.861, 6.1090 (the explanation of a phenomenon); est ratio ut (6.132) = "there is a way"; ratio morborum (6.1138) = pattern; ratio remedii (6.1226) = method; rationem reddere (6.918, 6.1000) = give a reasoning |
+| consimili / pari ratione | on a like principle | 6.506 | 6.881, 6.902, 6.1131, as in Books 3-5; naturali ratione (6.760) = by a natural principle |
+| aether | the ether; the upper air | 6.65 | "the shores of the ether" (6.65, as 5.85), "the sign-bearing ether" (6.481), "the pores of the ether" (6.492); "the upper air" where it is the region (6.268, 6.291, as 3.21, 3.784) |
 
 ## Policy
 
@@ -214,6 +219,25 @@ every book unless explicitly revisited. Modelled on the Iliad project's
     cepit (5.331) = "took its beginnings" and causarum exordia prima (5.677)
     = "the first starting-points of causes". mobilitas = mobility enforced
     at 5.858.
+- **Refrains fixed in Book 6** (review of 2026-10-30):
+  - Taken verbatim from earlier review text where the Latin is identical:
+    6.35-38 = 2.55-58 (and 3.87-90); 6.39-41 = 1.146-148; 6.60-61 and
+    6.94-95 = 1.153-154 ("The causes of whose workings they can in no way
+    see, / and they suppose them to be done by divine power."); 6.62-70 =
+    5.82-90 (6.70 keeps the Latin's semicolon); 6.252 = 4.171; 6.635-638 =
+    5.269-272 (6.637 "returns" for redit, where 5.271 has fluit); 6.924-926
+    and 6.928-935 = 4.218-220 and 4.222-229 (6.927 differs in the Latin:
+    varii sonitus manare; 6.923 is the Latin of 4.217 but reads "bodies
+    that strike the eyes and provoke the sight", because the Book 4 line
+    carries "are sent out" from 4.216 and Book 6 has mitti at 6.922).
+  - Inside Book 6: 6.91-93 = 6.383-385 ("from what quarter the flying fire
+    has come, or into which half / it has turned from here, in what way
+    through walled-in places / it has slipped in, and how, having held
+    sway, it has carried itself out"); 6.988-989 = 6.995-996.
+  - Book 6 has no technical principia or exordia; the four principio
+    (6.740, 6.942, 6.962, 6.1145) are the adverb, "First" or "At first".
+  - "To begin with" and "First" both stand for Principio at a paragraph
+    head (6.96 "First", 6.608 "First"); either is accepted.
 - **Scientific anachronism**: never import a modern term the Latin does not
   have (no "atom" for primordia, no "molecule", no "evolution"). The notes
   may say where a modern reader will hear an anticipation; the verse may

@@ -14,45 +14,45 @@ TRANSLATOR'S COMMENTARY
     4  and first gave sweet consolations for life
     5  when she bore a man found to have such a heart, {{NOTE: Epicurus, unnamed here as in the first proem ("a man of Greece", 1.66)}}
     6  who once poured out all things from his truth-telling lips;
-    7  whose glory, though he is extinguished, for his divine discoveries
+    7  whose glory, though he is extinguished, for divine discoveries
     8  is spread abroad and, old already, carried up to heaven.
-    9  For when he saw that almost everything need demands for living
+    9  For when he saw that nearly all that need demands for living
    10  was by now made ready for mortals,
    11  and that life, as far as could be, was set on a safe footing,
    12  that men, powerful, abounded in riches and honor and praise,
    13  and stood out in the good name of their children,
    14  and yet at home the heart in each was no less anxious,
    15  and harried life, against the mind's own will, without any
-   16  pause, and was compelled to rage in hostile complaints,
+   16  pause, and were compelled to rage in hostile complaints,
    17  he understood that it was the vessel itself that made the fault,
    18  and that by its fault everything was corrupted within,
    19  whatever was gathered from outside and came in, however good;
    20  partly because he saw that it was leaking and full of holes,
    21  so that by no means could it ever be filled;
-   22  partly because he saw that it fouled, as it were, with a loathsome taste
+   22  partly because he saw it fouled, as it were, with a loathsome taste
    23  everything it had taken in, whatever it was, within.
    24  Therefore with truth-telling words he purged men's breasts,
    25  and set a limit to desire and to fear,
    26  and set forth the highest good, toward which we all strain,
-   27  what it might be, and pointed out the road by which, on a narrow track,
+   27  what it was, and pointed out the road by which, on a narrow track,
    28  we could press on toward it on a straight course,
    29  and what evil there was everywhere in mortal affairs,
-   30  coming about and flying abroad in various forms, whether by natural
-   31  chance or force, since nature had so arranged it,
+   30  coming about and flying abroad in various forms, whether
+   31  by natural chance or force, since nature had so arranged it,
    32  and from what gates it was fitting to go out to meet each;
    33  and he proved that the human race, for the most part in vain,
    34  rolls the gloomy waves of cares within its breast.
-   35  For just as children tremble and fear all things
+   35  For just as children tremble and fear everything
    36  in blind darkness, so we in the light are afraid
    37  at times of things that are no more to be feared than
-   38  what children shudder at in the dark and imagine is coming.
+   38  what children in the dark shudder at and imagine will come.
    39  This terror of the mind, then, and this darkness {{NOTE: 6.39-41 repeat 1.146-148 (also 2.59-61, 3.91-93); rendered verbatim}}
    40  must be scattered not by the sun's rays or the bright shafts of day
    41  but by the face and reasoning of nature.
-   42  So much the more shall I press on to weave out in words what I have begun.
+   42  All the more I will press on to weave out in words what I began.
    43  And since I have taught that the precincts of the world are mortal,
    44  and that heaven consists of a body that had a birth,
-   45  and that of whatever things come to be in it, and must come to be,
+   45  and that of all that comes to be in it, and must come to be,
    46  most are dissolved, take in further what remains,
    47  since once for all to mount the glorious chariot
        [lacuna]
@@ -64,28 +64,28 @@ TRANSLATOR'S COMMENTARY
    52  of winds arise, how all things are appeased again,
        [lacuna]
    53  that were, and are changed back, their fury appeased.
-   54  All the other things that on earth and in heaven are seen to happen
+   54  The other things that on earth and in heaven are seen to happen
    55  by mortals, when often they hang with fearful minds,
    56  make their minds lowly with dread of the gods,
    57  and press them down, flattened to the earth, because
    58  ignorance of causes compels them to assign things
    59  to the command of the gods and to yield them the kingdom.
-   60  The causes of these workings they by no reasoning can see, {{NOTE: 6.60-61 repeat 1.153-154 and recur at 6.94-95, where they are probably misplaced}}
-   61  and they suppose that they are done by divine power.
-   62  For those who have learned well that the gods lead a carefree life,
-   63  if all the same they wonder meanwhile by what principle
+   60  The causes of whose workings they can in no way see, {{NOTE: 6.60-61 repeat 1.153-154 and recur at 6.94-95, where they are probably misplaced}}
+   61  and they suppose them to be done by divine power.
+   62  For those who have learned well that the gods lead a life without care,
+   63  if yet meanwhile they wonder by what principle
    64  each thing can be carried on, above all in those things
-   65  that are seen above our heads in the shores of the ether,
-   66  are carried back again into the ancient religions
-   67  and take to themselves harsh masters, who can do all things,
-   68  so the wretches believe, ignorant of what can be
+   65  that are seen overhead in the shores of the ether,
+   66  are carried back again into the old religions
+   67  and take on harsh masters, whom the wretches believe
+   68  can do all things, ignorant of what can come to be
    69  and what cannot, and how at last each thing's power is bounded, {{NOTE: 6.69-70 repeat 1.76-77 (also 1.595-596, 5.89-90); rendered verbatim}}
    70  by what principle, and its boundary-stone set deep;
    71  and so all the more they wander, carried along by blind reasoning.
    72  Unless you spit these things out of your mind and cast far from you
-   73  the thought of what is unworthy of the gods and alien to their peace,
+   73  thinking what is unworthy of the gods and alien to their peace,
    74  the holy powers of the gods, diminished by you, will often
-   75  do you harm; not that the highest power of the gods can be violated
+   75  harm you; not that the gods' highest power can be violated
    76  so as to thirst in anger to exact harsh penalties,
    77  but because you yourself will picture those who rest in tranquil peace
    78  as rolling great waves of anger,
@@ -100,21 +100,21 @@ TRANSLATOR'S COMMENTARY
    87  verses; the order of heaven and of fire must be grasped, {{NOTE: text as printed in the source ("caelique ignisque"); many editors read "caeli speciesque", "the order and face of heaven"}}
    88  storms and the bright thunderbolts must be sung,
    89  what they do and from what cause they are carried, whatever it be,
-   90  so that you do not tremble, out of your wits, dividing heaven into parts, {{NOTE: the Etruscan augurs divided the sky into regions to read the meaning of lightning}}
-   91  asking from where the flying fire has come, or into which side
-   92  it turned off from here, and by what means through walled-in places
-   93  it worked its way in, and how, having held sway, it took itself out.
-   94  The causes of these workings they by no reasoning can see,
-   95  and they suppose that they are done by divine power.
-   96  To begin with, the blue expanses of heaven are shaken by thunder
+   90  lest you tremble, out of your wits, when heaven's parts are divided, {{NOTE: the Etruscan augurs divided the sky into regions to read the meaning of lightning}}
+   91  from what quarter the flying fire has come, or into which half
+   92  it has turned from here, in what way through walled-in places
+   93  it has slipped in, and how, having held sway, it has carried itself out.
+   94  The causes of whose workings they can in no way see,
+   95  and they suppose them to be done by divine power.
+   96  First, the blue expanses of heaven are shaken by thunder
    97  because, flying on high, there clash together
    98  the clouds of the ether, when the winds fight from opposite sides.
    99  For no sound comes from a clear part of the sky,
   100  but wherever the clouds are massed in a denser column,
-  101  from there, so much the more, a roar often comes with a great rumbling.
+  101  from there, so much the more, a roar often comes with great rumbling.
   102  Further, clouds cannot be of so dense a body
   103  as stones and timbers are, nor again
-  104  so thin as are mists and flying smoke;
+  104  so thin as are the mists and the flying smoke;
   105  for either they would have to fall, pressed down by brute weight
   106  like stones, or, like smoke, they could not hold together
   107  or keep in the icy snows and the showers of hail.
@@ -141,19 +141,19 @@ TRANSLATOR'S COMMENTARY
   127  compels the cloud to grow hollow, its body thickened all around;
   128  afterwards, when the wind's force and keen onset have broken it,
   129  then, split, it gives a crash with a terrifying crackling sound. {{NOTE: perterricrepo, a Lucretian coinage, "terror-crackling"}}
-  130  Nor is this a wonder, when a little bladder full of air
+  130  Nor is this a wonder, when a little bladder full of air {{NOTE: anima here is breath or air, not the vital spirit of Book 3}}
   131  often gives no little sound when it is suddenly burst.
-  132  There is also a principle by which, when winds blow through the clouds,
-  133  they make sounds; for indeed we see clouds, branching
+  132  There is also a way, when winds blow through the clouds,
+  133  for them to make sounds; for indeed we see clouds, branching
   134  and rough, often borne along in many ways;
   135  just as, when the blasts of the northwest wind blow through a dense wood, {{NOTE: cauri, Caurus, the northwest wind}}
   136  the leaves give a sound and the branches a crash.
   137  It happens too at times that the roused force of a strong wind
   138  tears through the cloud, breaking it with a straight onset;
   139  for what a blast can do there the plain fact shows us
-  140  here on earth, where it is gentler, when even so it overturns tall
-  141  trees and wrenches them out from their deepest roots.
-  142  There are also waves through the clouds, which give something like a murmur,
+  140  here, where it is gentler, when even so on earth it overturns
+  141  tall trees, wrenching them out from their deepest roots.
+  142  There are waves too through the clouds, which give a kind of murmur
   143  heavily, as they break; as happens likewise in deep
   144  rivers and on the great sea, when the surf is broken.
   145  It happens too when from cloud into cloud the burning force
@@ -169,12 +169,12 @@ TRANSLATOR'S COMMENTARY
   155  burn with terrible sound in the crackling flame.
   156  Finally, often a great crashing of ice and a downfall
   157  of hail gives a sound high up in great clouds;
-  158  for when the wind crams them together, there are broken, pressed into a narrow space,
+  158  for when the wind packs them, there are broken, crammed into narrow space,
   159  the frozen mountains of storm-cloud, mixed with hail.
-  160  It lightens likewise when the clouds by their collision have struck out
+  160  It lightens likewise when the clouds by collision have struck out
   161  many seeds of fire, as if stone should strike
   162  on stone, or on iron; for then too a light
-  163  leaps out and fire scatters bright sparks.
+  163  leaps out and the fire scatters its bright sparks.
   164  But it happens that we receive the thunder with our ears after
   165  the eyes see the lightning, because always to the ears
   166  things arrive more slowly than the things that move the sight.
@@ -200,8 +200,8 @@ TRANSLATOR'S COMMENTARY
   186  piled up high, one upon another, with wondrous onset.
   187  Do not let it deceive you that we, below, see
   188  how broad they are rather than how high they stand piled up.
-  189  For look, when the winds carry clouds like mountains
-  190  crosswise through the air,
+  189  For observe, when clouds that are made like mountains
+  190  are carried crosswise through the air by the winds,
   191  or when you see them heaped along great mountains,
   192  one above another, and the higher pressing down,
   193  set at rest in their station, the winds buried on every side;
@@ -215,7 +215,7 @@ TRANSLATOR'S COMMENTARY
   201  seeds of fire out of the clouds, and so drive together
   202  many, and whirl the flame within the hollow furnaces,
   203  until the cloud is torn apart and they have flashed out, gleaming.
-  204  For this cause too it happens that that swift
+  204  For this cause too it happens that the mobile
   205  golden color of liquid fire flies down to earth,
   206  because the clouds themselves must have very many seeds
   207  of fire; for indeed when they are without any moisture,
@@ -245,7 +245,7 @@ TRANSLATOR'S COMMENTARY
   231  Likewise it makes wine, though the jars are whole, suddenly
   232  vanish away, because, no doubt, easily all around
   233  it loosens and makes porous the sides of the jar,
-  234  its heat, as it arrives, and, working its way into the wine itself,
+  234  its heat as it comes, and, winding into the wine itself,
   235  dissolving nimbly, scatters the first-beginnings of the wine.
   236  And this the heat of the sun seems unable, in a lifetime,
   237  to accomplish, strong as it is with its flashing glow.
@@ -262,7 +262,7 @@ TRANSLATOR'S COMMENTARY
   247  heaped up on high; for from a clear sky none,
   248  nor from clouds of slight density, are ever sent.
   249  For beyond doubt the plain fact shows that this is so:
-  250  that at such times the clouds grow dense through the whole air, {{NOTE: source text garbled here (and at 253, 254, 304, 346) by an encoding fault; read as aëra, usque, superne, aëre}}
+  250  that at such times the clouds grow dense through the whole air, {{NOTE: the source text prints doubled forms here and at 253, 254, 304, 346 where the TEI marks a diaeresis (aëra, aëre); the plain word is read}}
   251  so that we would think all the darkness on every side had left
   252  Acheron and filled the great caverns of the sky;
   253  so far, when the foul night of storm-clouds has risen,
@@ -297,24 +297,24 @@ TRANSLATOR'S COMMENTARY
   282  onset of fire has come in, the thunderbolt, ripe as it were,
   283  suddenly tears through the cloud, and the roused blaze is carried
   284  on, lighting up all places with its flashing lights.
-  285  After it follows a heavy sound, so that the precincts of heaven
+  285  A heavy sound follows it, so that the precincts of heaven
   286  seem to burst apart all at once and crush us from above.
   287  Then a trembling heavily assails the lands, and rumblings
   288  run across the high sky; for at that time nearly the whole
   289  tempest is shaken and trembles, and roarings are set moving.
   290  From this shaking follows a heavy and abundant rain,
   291  so that the whole upper air seems to be turned to rain
-  292  and, plunging headlong so, to call us back to the flood;
+  292  and so, rushing headlong, to bring back the flood;
   293  so great a downpour is sent by the rending of the cloud
   294  and the storm of the wind, when the sound flies out with the burning stroke.
   295  There are times, too, when the force of wind, roused from outside,
-  296  falls upon a strong cloud when its thunderbolt is ripe;
+  296  falls upon a strong cloud that is ripe at its crest; {{NOTE: maturo culmine, ripe at the crest: the cloud is at the height of its ripeness, ready to let the bolt fall}}
   297  and when it has torn through it, at once there falls that fiery
   298  whirl which by our native name we call the thunderbolt. {{NOTE: "patrio nomine": the Latin word fulmen, as against the Greek keraunos}}
-  299  The same happens toward other parts, wherever the force has carried it.
+  299  The same happens in other parts, wherever the force has borne it.
   300  It happens too that at times the force of wind, sent without fire,
   301  nonetheless catches fire in the space of its long passage,
-  302  while, as it comes, it loses along its course certain bodies,
+  302  while, as it comes, it sheds along its course certain bodies,
   303  large ones, which cannot pass through the air as readily,
   304  and, scraping up others from the air itself, carries
   305  tiny ones, which, mixed together, make fire as they fly;
@@ -335,15 +335,15 @@ TRANSLATOR'S COMMENTARY
   320  that force which is sent from on high with so much power,
   321  but that, if it is not kindled with fire before, along its course,
   322  it still arrives warmed and mingled with heat.
-  323  Further, the mobility of the thunderbolt and its heavy stroke come about,
+  323  But the thunderbolt's mobility and heavy stroke come about,
   324  and thunderbolts commonly run their course with swift gliding,
   325  because the force itself, first roused, gathers itself wholly
   326  within the clouds and takes on a great effort for going,
   327  then, when the cloud can no longer hold the growing onset,
   328  the force is squeezed out and so flies with wondrous onset,
-  329  like the missiles that are carried, sent from mighty engines of war.
+  329  like the missiles that fly, sent from mighty engines of war.
   330  Add that it is made of small and smooth elements,
-  331  and it is not easy for anything to withstand such a nature;
+  331  nor is it easy for anything to withstand such a nature;
   332  for it slips between and pierces through the loose-knit passages,
   333  and so is not held back by many collisions
   334  and delayed; for this reason it flies, gliding with swift onset.
@@ -361,19 +361,19 @@ TRANSLATOR'S COMMENTARY
   346  Perhaps too, as it comes, it draws from the air itself certain
   347  bodies, which by their blows kindle its mobility.
   348  And it comes unharmed through things, and passes through many
-  349  leaving them whole, because the liquid fire passes through their pores.
-  350  And many it shatters, when the very bodies of the thunderbolt
-  351  have fallen on the bodies of things where their texture holds together.
-  352  Further, it easily dissolves bronze, and in an instant makes gold
+  349  leaving them whole, since the liquid fire passes through their pores.
+  350  And many it shatters, when the thunderbolt's own bodies
+  351  have fallen on the bodies of things where their weave is held.
+  352  Further, it easily dissolves bronze and at once makes gold
   353  boil, because its force is made finely of small
-  354  bodies and of smooth elements,
+  354  bodies and out of smooth elements,
   355  which easily work their way in, and, once worked in, suddenly
   356  dissolve all knots and loosen the bonds.
 
   357  And in autumn above all the high house of heaven, bright with stars,
   358  is shaken on every side, and the whole earth with it,
-  359  and again when the flowering seasons of spring unfold themselves.
-  360  For in the cold there is a lack of fires, and in the heat the winds
+  359  and when the flowering seasons of spring unfold themselves.
+  360  For in the cold fires are lacking, and in the heat the winds
   361  fail, nor are the clouds then of so dense a body.
   362  When, therefore, the seasons of heaven stand between the two,
   363  then all the various causes of the thunderbolt run together.
@@ -390,40 +390,40 @@ TRANSLATOR'S COMMENTARY
   374  Therefore these must be named the straits of the year,
   375  nor is it a wonder if at that time the most thunderbolts
   376  come about, and a turbulent storm is stirred up in the sky,
-  377  since it is thrown into turmoil on both sides by a doubtful war,
+  377  since it is troubled on both sides by a two-fronted war,
   378  on this side by flames, on that by winds and moisture mixed.
-  379  This is to see into the very nature of the fire-bearing
+  379  This is to see through the very nature of the fire-bearing
   380  thunderbolt, and to see by what force it does each thing,
   381  not to unroll the Tyrrhenian chants backward, to no purpose, {{NOTE: the Etruscan books of thunder-lore, used by the haruspices to read lightning as signs from the gods}}
   382  searching out the signs of the hidden mind of the gods:
   383  from what quarter the flying fire has come, or into which half
-  384  it has turned from here, in what way it has worked its way through walled places
-  385  and how, having lorded it there, it has carried itself out again,
+  384  it has turned from here, in what way through walled-in places
+  385  it has slipped in, and how, having held sway, it has carried itself out,
   386  or what harm the stroke of the thunderbolt from heaven can do.
   387  But if Jupiter and the other gods shake the shining
   388  precincts of heaven with terrifying sound
   389  and hurl fire wherever each one has the will,
-  390  why do they not bring it about that those who have some heedless, abhorrent crime
-  391  are struck, and breathe out the flames of lightning
+  390  why do they not make those who have some heedless, loathsome crime
+  391  be struck, and breathe out the flames of lightning
   392  from a breast run through, a sharp lesson to mortals,
   393  and why instead does one conscious of nothing shameful
   394  roll in the flames, innocent, and find himself entangled,
   395  seized suddenly by the whirlwind and fire of heaven?
   396  Why, too, do they aim at empty places and labor in vain?
-  397  Or are they then exercising their arms and strengthening their shoulders?
-  398  And why do they suffer their father's weapon to be blunted
-  399  on the earth? Why does he himself allow it, and not save it for his enemies?
-  400  Finally, why, when the sky is clear on every side, does Jupiter never
+  397  Or are they then training their arms and hardening their muscles?
+  398  And why do they let their father's weapon be blunted
+  399  on the earth? Why does he himself allow it, not spare it for foes?
+  400  Finally, why does Jupiter never, with the sky clear all round,
   401  hurl a thunderbolt on the earth and pour out its sounds?
   402  Or as soon as the clouds have come up, does he himself then
-  403  go down into them, so as to aim the stroke of his weapon from close by?
-  404  Again, by what principle does he send it into the sea? What charge
+  403  go down into them, to aim his weapon's stroke from close at hand?
+  404  By what principle, again, does he send it to sea? What charge
   405  has he against the waves, the liquid mass, the floating plains?
   406  Further, if he wants us to beware the thunderbolt's stroke,
   407  why does he hesitate to let us see it when it is sent?
   408  But if he wants to crush us with fire when we do not expect it,
   409  why does he thunder from that quarter, so that we can avoid it,
-  410  why does he stir up darkness beforehand, and roarings and rumblings?
+  410  why does he first stir up darkness and roarings and rumblings?
   411  And how could you believe that he sends it into many places
   412  at once? Or would you dare to argue that it has never happened
   413  that several strokes were made at one and the same time?
@@ -445,16 +445,16 @@ TRANSLATOR'S COMMENTARY
   429  and whatever ships are then caught in that tumult
   430  are harried and come into the utmost danger.
   431  This happens when at times the stirred-up force of the wind
-  432  cannot burst the cloud it has set upon, but presses it down, so that it is
-  433  like a column let down from heaven into the sea,
-  434  little by little, as if something were thrust from above by a fist
-  435  and the cast of an arm, and stretched out into the waves;
+  432  cannot burst the cloud it has begun on, but presses it down,
+  433  so it is like a column let down from heaven into the sea,
+  434  little by little, as if something were pushed by a fist
+  435  and an arm's thrust from above, and stretched out into the waves;
   436  and when the wind has split it, from there its force bursts out
   437  into the sea and works a wondrous boiling in the waves;
   438  for a whirling eddy comes down and draws that cloud
-  439  down with it, cloud of pliant body;
-  440  and as soon as it has thrust it, heavy, down to the levels of the sea,
-  441  the eddy suddenly casts itself whole into the water and stirs up
+  439  down together with it, a cloud of pliant body;
+  440  and as soon as it has thrust it, heavy, down to the sea's levels,
+  441  the eddy at once plunges whole into the water and stirs
   442  the whole sea with enormous sound, forcing it to boil.
   443  It happens too that the eddy of wind itself wraps itself
   444  in clouds, scraping together seeds of cloud from the air,
@@ -465,26 +465,26 @@ TRANSLATOR'S COMMENTARY
   449  block it on land, the same thing is seen more often
   450  on the wide view of the sea and under the open sky.
   451  Clouds grow together when many bodies, flying
-  452  here above in the space of heaven, have suddenly come together,
+  452  up here in the space of heaven, have suddenly come together,
   453  rougher bodies, such as, though entangled in slight ways,
   454  can still be held together, pressed one upon another.
-  455  These first make small clouds take shape;
+  455  These first make the small clouds take their shape;
   456  then these take hold of one another and flock together
   457  and by joining grow, and are carried by the winds,
   458  until at last a savage storm has risen.
   459  It happens too that mountain peaks, the nearer they are to heaven,
   460  the more they smoke, the higher they stand,
   461  continually, with the thick murk of tawny cloud,
-  462  because, when the clouds first take shape,
+  462  because, when the clouds first come to take shape,
   463  before the eyes can see them, thin as they are, the winds
-  464  carry them and drive them together to the topmost peaks of the mountain;
+  464  carry them and drive them together to the mountain's topmost peaks;
   465  only here, when a greater throng has gathered,
   466  and condensed, can they appear, and at the same time
-  467  they seem to rise from the very summit of the mountain into the clear upper air.
+  467  they seem to rise from the mountain's very top into the clear sky.
   468  For that places high up lie open to the winds
-  469  the thing itself declares, and our senses, when we climb high mountains.
+  469  the fact itself shows, and our senses, when we climb high mountains.
 
-  470  Further, that from the whole sea as well nature lifts very many
+  470  Further, that from the whole sea too nature lifts very many
   471  bodies, clothes declare, when they are hung up on the shore
   472  and take into themselves a clinging of moisture.
   473  So it seems all the more that many bodies, to swell the clouds,
@@ -495,24 +495,24 @@ TRANSLATOR'S COMMENTARY
   478  which are pressed out from there like a breath and so carried upward,
   479  and they suffuse the sky with their murk, and high
   480  clouds they furnish, little by little, by coming together;
-  481  for the heat of the sign-bearing ether above presses on them too, {{NOTE: signifer aether, the heaven that carries the signs of the zodiac; cf. 1.2 "the gliding signs of heaven".}}
+  481  for the sign-bearing ether's heat presses on them from above too, {{NOTE: signifer aether, the heaven that carries the signs of the zodiac; cf. 1.2 "the gliding signs of heaven".}}
   482  and, as if by packing them close, weaves rain-cloud beneath the blue.
   483  It happens too that into this sky there come from outside those
   484  bodies that make clouds and flying storm-clouds;
   485  for I have taught that their number is past counting, and the sum
-  486  of the deep infinite, and I have shown with what great speed
-  487  bodies fly, and how in a moment
+  486  of the deep infinite, and have shown with what mobility
+  487  the bodies fly, and how in a moment
   488  they are used to passing across a space beyond telling.
   489  It is no wonder, therefore, if often in a short time
-  490  storm and darkness, with winds so great,
+  490  a storm and darkness, with such mighty winds,
   491  cover seas and lands, looming over them from above,
   492  since on every side, through all the pores of the ether,
-  493  and, as it were, through the breathing-holes of the great world all around,
+  493  and, as it were, through the great world's breathing-holes all around,
   494  a way out and a way in stands granted to the elements.
   495  Come now, how rainy moisture grows together in the high
   496  clouds, and how, sent down to the earth as a shower,
-  497  it falls, I will explain. First, I shall prove that many seeds of water
-  498  rise up at once together with the clouds themselves
+  497  it falls, I will unfold. First, I will prove that seeds of water
+  498  rise up, many at once, together with the clouds themselves
   499  from all things, and that both grow alike in this way,
   500  both the clouds and the water, whatever there is in the clouds,
   501  just as in us the body grows alike together with the blood,
@@ -520,11 +520,11 @@ TRANSLATOR'S COMMENTARY
   503  Often, too, the clouds take in a great deal of the sea's
   504  moisture, just like hanging fleeces of wool,
   505  when the winds carry the clouds above the great sea.
-  506  In like manner from all the rivers moisture
-  507  is lifted into the clouds. And when in them many seeds of water
-  508  have come well together in many ways, increased from every side,
+  506  On a like principle from all the rivers moisture
+  507  is lifted into the clouds. And when many seeds of water
+  508  have come well together there in many ways, swelled from all sides,
   509  the crowded clouds strive to send out their moisture
-  510  in two ways; for the force of the wind thrusts them together, and the very
+  510  in two ways; for the wind's force thrusts them together, and the very
   511  abundance of storm-clouds, driven together in a greater throng,
   512  urges and presses from above and makes the showers flow out.
   513  Further, when the clouds too are thinned out by winds
@@ -546,9 +546,9 @@ TRANSLATOR'S COMMENTARY
   529  all, snow, winds, hail, and the chill hoarfrosts,
   530  and the great force of ice, the great hardening of waters,
   531  and the check that everywhere reins in the eager rivers,
-  532  it is still very easy to find these out and see them in the mind,
+  532  it is still quite easy to discover and see in the mind,
   533  how all of them come about and why they are created,
-  534  once you have come to know well what properties are granted to the elements.
+  534  once you have learned well what is granted to the elements.
   535  Come now, by what principle the motions of the earth come about,
   536  learn. And first of all, be sure you think the earth to be,
   537  below as well as above, full on every side of windy
@@ -556,7 +556,7 @@ TRANSLATOR'S COMMENTARY
   539  in its lap, and cliffs and sheer-broken rocks;
   540  and many rivers hidden beneath the back of the earth
   541  you must suppose roll on with force their sunken waves, unseen;
-  542  for the thing itself demands that it be like itself everywhere.
+  542  for the thing itself demands that it be like itself throughout.
   543  With these things, therefore, joined on and set beneath it,
   544  the earth trembles above, shaken by great collapses,
   545  when beneath it age has undermined huge caverns;
@@ -569,7 +569,7 @@ TRANSLATOR'S COMMENTARY
   552  It happens too, when into great and vast pools of water
   553  a huge clod rolls down from the earth through age,
   554  that the earth too is tossed by the wave of the water and totters;
-  555  as a vessel cannot stand steady among waters unless the liquid {{NOTE: inter aquas is doubtful; many editors read interdum, "a vessel sometimes cannot stand steady".}}
+  555  as a vessel cannot stand firm in water unless the liquid {{NOTE: inter aquas is doubtful; many editors read interdum, "a vessel sometimes cannot stand steady".}}
   556  within has ceased to be tossed about in an unsteady wave.
   557  Further, when wind, gathered through the hollow places of the earth,
   558  leans forward from one quarter and presses,
@@ -579,7 +579,7 @@ TRANSLATOR'S COMMENTARY
   562  and the more so the higher each rises toward heaven,
   563  lean and threaten, pitched forward toward the same quarter,
   564  and the beams, thrust out, overhang, ready to go.
-  565  And yet men are afraid to believe that for the nature of the great world
+  565  And yet men fear to believe that for the nature of the great world
   566  some fatal time and overthrow is waiting,
   567  even when they see so vast a mass of lands leaning over!
   568  But unless the winds drew breath, no force could rein things in
@@ -590,7 +590,7 @@ TRANSLATOR'S COMMENTARY
   573  than causes it; for it leans over and springs back,
   574  and, having slipped forward, recovers its seat in balance.
   575  By this principle, therefore, all buildings totter,
-  576  the top more than the middle, the middle than the lowest, the lowest very little.
+  576  tops more than middles, middles than bottoms, bottoms hardly at all.
   577  This too is a cause of that same great trembling:
   578  when wind and some very great force of air, suddenly {{NOTE: anima here and at 586, 591 is air or breath, not the vital spirit of Book 3.}}
   579  arising either from outside or from the earth itself,
@@ -606,17 +606,17 @@ TRANSLATOR'S COMMENTARY
   589  upheavals on land, and many cities down through the sea
   590  have settled to the bottom, together with their citizens.
   591  But if it does not break forth, still the very onset of the air
-  592  and the fierce force of the wind is spread through the many holes of the earth
+  592  and the fierce force of the wind is spread through the earth's many holes
   593  like a shudder, and from there strikes in a trembling;
   594  as when cold comes deep into our limbs
   595  it shakes them against their will, forcing them to tremble and move.
   596  So through the cities people tremble with a twofold terror:
-  597  they fear the roofs above, and they dread below lest the caverns
-  598  of the earth be suddenly undone by nature,
+  597  they fear the roofs above, and they dread below lest nature
+  598  should suddenly dissolve the caverns of the earth,
   599  or lest, torn apart, it spread its gaping chasm wide
   600  and, thrown into confusion, seek to fill it with its own ruins.
   601  Therefore, however much they may think that heaven and earth
-  602  will be incorruptible, entrusted to eternal safety,
+  602  will be uncorrupted, entrusted to eternal safety,
   603  yet now and then the very present force of danger
   604  sets beneath them this goad of fear as well, from some quarter,
   605  lest the earth, snatched from under their feet, be swept away
@@ -624,7 +624,7 @@ TRANSLATOR'S COMMENTARY
   607  utterly, and a confused ruin of the world come to be.
        [lacuna]
 
-  608  To begin with, men wonder that nature does not make the sea larger,
+  608  First, men wonder that nature does not make the sea larger,
   609  when so great is the downrush of waters into it,
   610  when all the rivers come to it from every side.
   611  Add the wandering rains and the flying storms
@@ -638,7 +638,7 @@ TRANSLATOR'S COMMENTARY
   619  and we see the seas are many and spread wide beneath it.
   620  Therefore, however small a portion of moisture the sun
   621  may sip from the level sea at any one place,
-  622  yet over so great a space it will take largely from the waves.
+  622  yet over so great a space it will take much from the waves.
   623  Then again the winds too can lift a great part
   624  of moisture as they sweep the levels, since very often
   625  we see the roads dried by the winds in a single night
@@ -649,23 +649,23 @@ TRANSLATOR'S COMMENTARY
   630  when it rains on the earth and the winds carry the clouds.
   631  Finally, since the earth is of a porous body
   632  and is joined to the sea, girding its shores on every side,
-  633  it must be that, as the moisture of water flows from land into sea,
+  633  it must be that, as water's moisture comes from land into sea,
   634  so it seeps likewise into the lands from the salt level;
   635  for the brine is strained out, and the matter of moisture {{NOTE: virus, the sea's bitter salt, filtered out as the water passes through the earth}}
-  636  flows back again, and all of it gathers at the rivers' head,
-  637  and from there returns over the lands in a fresh-water column,
-  638  where the way, once cut, has carried down the waves with liquid foot.
-  639  Now by what reasoning it is that through the jaws of Mount Etna
+  636  oozes back, and all of it gathers at the heads of the rivers,
+  637  and from there returns over the lands, a column of sweet water,
+  638  where the way, once cut, has carried the waves down with liquid foot.
+  639  Now what the principle is by which, through the jaws of Mount Etna,
   640  fires at times breathe out in so great a whirlwind
-  641  I shall unfold; for it was with no common disaster that the storm
-  642  of flame arose and, holding sway over the fields of the Sicilians,
+  641  I shall unfold; for with no common disaster did the storm
+  642  of flame arise and, holding sway over the Sicilian fields,
   643  turned the faces of the neighboring peoples toward itself,
   644  when, seeing all the precincts of heaven smoking and sparkling,
   645  they filled their hearts with fearful anxiety
   646  at what new things nature might be working. {{NOTE: rerum ... novarum, "new things", also the Roman idiom for revolution; the words echo rerum natura}}
   647  In these matters you must look widely and deeply
   648  and see far out into every quarter,
-  649  so as to remember that the sum of things is unfathomable,
+  649  that you may remember the sum of things is unfathomable,
   650  and to see that one heaven, of the whole sum,
   651  is how small a part, how minute a fraction it makes,
   652  not even so great a part as one man is of the whole earth.
@@ -681,7 +681,7 @@ TRANSLATOR'S COMMENTARY
   662  no doubt because there are seeds of many things,
   663  and this earth and heaven bear enough of disease and harm
   664  for the force of measureless disease to grow up from them.
-  665  So therefore we must think that to the whole of heaven and earth
+  665  So, then, we must think that to the whole of heaven and earth
   666  all things are supplied from the infinite in plenty,
   667  so that on a sudden the earth can be shaken and moved,
   668  and a rapid whirlwind run across sea and lands,
@@ -700,10 +700,10 @@ TRANSLATOR'S COMMENTARY
   681  blows out from the vast furnaces of Etna
   682  I shall unfold. First, the nature of the whole mountain
   683  is hollow beneath, held up for the most part on caverns of flint.
-  684  Further, in all the caves there is wind and air. {{NOTE: the source prints a corrupted form of aer here and in 685; read as "air"}}
+  684  Further, in all the caves there is wind and air. {{NOTE: the source prints a doubled form of aer here and at 685, where the TEI marks a diaeresis; the plain word is read}}
   685  For wind arises when air is stirred and set in motion.
   686  When this has grown hot through and through and, raging, has heated
-  687  all the rocks around wherever it touches, and the earth, and from them
+  687  all the rocks around, where it touches, and the earth, and from them
   688  has struck out fire, hot with swift flames,
   689  it rises and so flings itself out on high through the straight jaws.
   690  And so it carries its heat far, and far it scatters
@@ -715,13 +715,13 @@ TRANSLATOR'S COMMENTARY
   696  From this sea, caves reach beneath to the high jaws
   697  of the mountain. By this way, we must admit, there passes
        [lacuna]
-  698  and the fact compels us to think it penetrates deep from the open sea
+  698  and the fact compels, that it pierces deep from the open sea
   699  and breathes out, and therefore lifts the flame
   700  and throws up rocks and raises clouds of sand.
   701  For on the topmost summit there are craters, as they themselves {{NOTE: krateres, Greek "mixing-bowls"; "they" are the Greeks of Sicily}}
-  702  call them, what we name jaws and mouths.
+  702  give them the name, what we call jaws and mouths.
   703  There are some things, too, for which to state one cause
-  704  is not enough, but several, of which one is nonetheless the true one;
+  704  is not enough, but several, though one of them is the true one;
   705  just as, if you yourself should see the lifeless body
   706  of a man lying far off, it is fitting to name all
   707  the causes of death, so that the one cause of his death is named;
@@ -744,7 +744,7 @@ TRANSLATOR'S COMMENTARY
   724  It may be, too, that a great heap of sand
   725  blocks up the mouths against the opposing waves,
   726  when the sea, stirred up by winds, sweeps sand inward;
-  727  by this means it comes about that the river's outlet is less free
+  727  by this means it happens that the river's outlet is less free
   728  and the waters likewise have less downhill onrush.
   729  It happens too, perhaps, that more rains fall at its head
   730  at that time when the Etesian blasts of the north winds
@@ -752,7 +752,7 @@ TRANSLATOR'S COMMENTARY
   732  Of course, when they have been driven toward the region of midday
   733  and have come together there, at last, against the high mountains,
   734  the clouds are crowded together and pressed by force.
-  735  Perhaps it grows from deep within, from the high mountains of the Ethiopians,
+  735  Perhaps it grows from deep in the high mountains of the Ethiopians,
   736  where the sun, surveying all things, forces the white snows
   737  to come down into the plains with its melting rays.
 
@@ -763,16 +763,16 @@ TRANSLATOR'S COMMENTARY
   742  when birds in their flight have come over those places,
   743  they forget the oarage of their wings, they slacken their sails,
   744  and fall headlong, their soft necks drooping, stretched out
-  745  on the ground, if the nature of the places happens to bring it so,
-  746  or into the water, if a lake of Avernus happens to lie beneath.
+  745  on the ground, if the nature of the place so happens to have it,
+  746  or in the water, if a lake of Avernus lies beneath.
   747  Such a place is near Cumae, where the mountains, filled {{NOTE: Lake Avernus, near Cumae on the Bay of Naples, was the traditional entrance to the underworld.}}
   748  with pungent sulphur, smoke, enriched with hot springs.
-  749  There is one also within the walls of Athens, on the very
-  750  summit of the citadel, by the temple of nurturing Pallas, the Tritonian,
+  749  There is one too within the walls of Athens, on the very
+  750  citadel's top, by the temple of kindly Pallas Tritonis, {{NOTE: Pallas Tritonis, Athena, named from Lake Triton in Libya, her birthplace in one story}}
   751  where the hoarse ones never bring their bodies on the wing,
   752  the crows, not even when the altars smoke with offerings;
-  753  so constantly do they shun it, not fleeing the fierce anger of Pallas
-  754  for their watchfulness, as the poets of the Greeks have sung, {{NOTE: The myth is that Athena banished crows from the Acropolis because a crow told her that Cecrops' daughters had opened the chest holding Erichthonius.}}
+  753  so constantly do they shun it, not from Pallas's fierce anger
+  754  at their watchfulness, as the poets of the Greeks have sung, {{NOTE: The myth is that Athena banished crows from the Acropolis because a crow told her that Cecrops' daughters had opened the chest holding Erichthonius.}}
   755  but the nature of the place does the work by its own power.
   756  In Syria too, it is said, a place is likewise to be seen
   757  where, as soon as even four-footed beasts have first set
@@ -780,8 +780,8 @@ TRANSLATOR'S COMMENTARY
   759  as if they had suddenly been slaughtered to the divine shades.
   760  All these things are brought about by a natural principle,
   761  and the causes they come from, their origin, are plain to see,
-  762  so that it may not be believed there is a gateway of Orcus in these regions,
-  763  and we then suppose that spirits are led from here to the shores of Acheron,
+  762  lest a gate of Orcus be believed to lie in these regions,
+  763  and we then think spirits are led from here to Acheron's shores,
   764  led down, it may be, by the gods of the shades below,
   765  as wing-footed stags are often thought, with their nostrils,
   766  to draw from their lairs the crawling generations of wild things. {{NOTE: The belief was that stags draw snakes out of their holes by their breath (Pliny, Natural History 8.118).}}
@@ -789,9 +789,9 @@ TRANSLATOR'S COMMENTARY
   768  take note; for now I attempt to speak of the thing itself.
   769  First, I say this, as I have often said before as well:
   770  that in the earth there are shapes of things of every kind;
-  771  many that are life-giving, serving as food, and many that diseases
+  771  many that are food, life-giving, and many that diseases
   772  can drive in upon us and that can hasten death.
-  773  And that different things are better suited to different living creatures
+  773  And that different things suit different creatures better
   774  for the ordering of life we have shown before,
   775  because of their unlike nature and their unlike
   776  textures, one from another, and their first shapes.
@@ -812,17 +812,17 @@ TRANSLATOR'S COMMENTARY
   791  And a night-lamp, newly put out, when with its sharp
   792  reek it strikes the nostrils, puts to sleep there and then
   793  the one whose sickness makes him fall and foam at the mouth. {{NOTE: Epilepsy, the "falling sickness".}}
-  794  And heavy castoreum puts a woman to sleep so that she sinks back, {{NOTE: Castoreum: a strong-smelling secretion of the beaver, used in ancient medicine.}}
+  794  And a woman, put to sleep by heavy castoreum, sinks back, {{NOTE: Castoreum: a strong-smelling secretion of the beaver, used in ancient medicine.}}
   795  and the bright work slips from her tender hands,
   796  if she has smelled it at the time of her monthly flow.
   797  Many things besides make the limbs droop, and through the joints
   798  loosen them, and shake the spirit in its seats within.
-  799  Again, if you linger in hot baths
-  800  and bathe on a full stomach, how easily, in the tub of boiling water,
+  799  Again, if you also linger in hot baths
+  800  too full, and bathe, how easily, in the tub of boiling water,
   801  it comes about that you often collapse in the middle!
   802  And the heavy force and smell of charcoal makes its way
-  803  how easily into the brain, unless we have first taken water!
-  804  But when a burning fever has seized the body, mastering the limbs,
+  803  how easily into the brain, unless we first take water!
+  804  But when a burning fever, mastering the limbs, has taken hold,
   805  then the smell of wine is like a killing blow.
   806  Do you not see, too, that in the earth itself sulphur
   807  is produced, and bitumen thickens with a foul smell,
@@ -835,22 +835,22 @@ TRANSLATOR'S COMMENTARY
   814  they are apt to die, and how the store of life fails them,
   815  those whom the great force of necessity holds to such work?
   816  All these exhalations, therefore, the earth seethes out
-  817  and breathes forth into the open and the free spaces of the sky.
+  817  and breathes forth into the open and the sky's free spaces.
   818  So also the Avernian places must send up against birds
   819  a deadly force, which rises from the earth into the breezes
   820  so that it poisons the space of sky over some part;
   821  and as soon as a bird has been carried on its wings into it,
   822  there it is hampered, seized by unseen poison,
-  823  so that it falls straight down over the place where the exhalation is aimed.
+  823  so that it falls straight down where the exhalation is directed.
   824  And when it has collapsed there, the same force of that exhalation
   825  takes the remnants of life from all its limbs.
   826  For indeed at first it stirs in it a kind of turmoil;
   827  afterwards it comes about, when they have fallen at last {{NOTE: The text and punctuation of 826-829 are uncertain; the sense is that birds fallen into the source of the poison must vomit out their life.}}
-  828  into the very springs of poison, that there life too must be vomited out,
+  828  into the poison's very springs, life too must there be vomited,
   829  because there is a great abundance of evil all around.
-  830  It happens too that at times this force and exhalation of Avernus
-  831  drives apart the air, whatever lies placed between the birds and the earth,
-  832  so that the place there is left almost empty.
+  830  It happens too that this force and exhalation of Avernus
+  831  drives apart the air, whatever lies between birds and earth,
+  832  so that at times the place there is left almost empty.
   833  And when, flying, they have come directly over this place,
   834  at once the effort of their wings limps, empty,
   835  and all the striving of the wings on either side is betrayed.
@@ -861,11 +861,11 @@ TRANSLATOR'S COMMENTARY
        [lacuna]
   840  Further, the water in wells grows colder in summer,
   841  because the earth dries out with the heat, and whatever seeds
-  842  of heat it may happen to have of its own, it lets go into the breezes.
+  842  of heat it may have of its own, it lets go into the breezes.
   843  The more, therefore, the earth is exhausted by heat,
   844  the colder too becomes the water hidden in the earth.
   845  Again, when all the earth is pressed by cold and draws together
-  846  and as it were congeals, it plainly happens that in drawing together
+  846  and as it were congeals, plainly in drawing together
   847  it squeezes out into the wells whatever heat it holds.
   848  There is, by the shrine of Hammon, a spring in the light of day {{NOTE: Hammon (Ammon): the oracle of Zeus Ammon at the oasis of Siwa in the Libyan desert.}}
   849  cold, and hot in the time of night, so the story goes.
@@ -885,7 +885,7 @@ TRANSLATOR'S COMMENTARY
   863  and there are many seeds of fire near the body of the water.
   864  So, when night has buried the earth in dew-bearing waves,
   865  at once the earth grows cold deep down and draws together.
-  866  By this principle it comes about that, just as if pressed by a hand,
+  866  By this principle it happens that, as if pressed by a hand,
   867  it squeezes out into the spring whatever seeds of fire it holds,
   868  which make the water hot to the touch, and its steam hot.
   869  Then, when the sun has risen and parted the earth with its rays
@@ -894,14 +894,14 @@ TRANSLATOR'S COMMENTARY
   872  of fire, and all the water's heat withdraws into the earth.
   873  For this reason the spring grows cold in the light of day.
   874  Further, by the rays of the sun the water's
-  875  moisture is shaken, and in daylight it thins out with the trembling heat;
-  876  therefore it comes about that whatever seeds of fire it has
+  875  moisture is tossed, and in the light thins out with the trembling heat;
+  876  therefore it happens that whatever seeds of fire it has
   877  it lets go, just as often the frost it holds within itself
   878  it gives up, and dissolves its ice and loosens its knots.
 
   879  Cold too is the spring above which tow, when set there, often
   880  throws out a flame, catching fire at once,
-  881  and a torch of pine, lit by a like principle, shines out across the waves
+  881  and a pine torch, lit on a like principle, shines on the waves
   882  wherever, floating, it is driven along by the breezes.
   883  No wonder: because in the water there are very many seeds
   884  of heat, and from the earth itself, from deep below, it must be
@@ -910,8 +910,8 @@ TRANSLATOR'S COMMENTARY
   887  yet not so many that the spring could become hot;
   888  further, a force compels them, scattered, to break out
   889  suddenly through the water and to gather together above.
-  890  Of this kind is the spring in the sea at Aradus, which wells up with fresh {{NOTE: Aradus, an island city off the Phoenician coast, known for a freshwater spring rising from the seabed.}}
-  891  water and pushes the salt waves away around it;
+  890  Of this kind in the sea at Aradus is the spring of fresh {{NOTE: Aradus, an island city off the Phoenician coast, known for a freshwater spring rising from the seabed.}}
+  891  water, that gushes and pushes away the salt waves round it;
   892  and in many other regions too the level sea offers
   893  a timely service to thirsty sailors,
   894  in that it spews up fresh water among the salt waves.
@@ -922,14 +922,14 @@ TRANSLATOR'S COMMENTARY
   899  also hold in themselves many seeds of fire.
   900  Do you not see, too, that when you bring a wick, just now
   901  put out, close to the lights at night, it catches fire before
-  902  it has touched the flame, and a torch in the same way?
+  902  it has touched the flame, and a torch on a like principle?
   903  And many other things, further, touched first by the heat itself,
   904  blaze up at a distance before fire soaks them from close by.
   905  This, then, we must think also happens in that spring.
   906  For the rest, I shall begin to set out by what covenant
   907  of nature it comes about that this stone can draw iron,
-  908  the stone the Greeks call the magnet, from its native name,
-  909  because it had its origin within the native bounds of the Magnetes. {{NOTE: The Magnetes, people of Magnesia (in Thessaly, or Magnesia in Lydia); hence "magnet".}}
+  908  which the Greeks call the Magnes, from its native name, {{NOTE: Magnes lithos, the Magnesian stone, our "magnet"; Lucretius keeps the Greek name, lapis Magnes (6.1046)}}
+  909  because it arose within the native bounds of the Magnetes. {{NOTE: The Magnetes, people of Magnesia (in Thessaly, or Magnesia in Lydia); hence "magnet".}}
   910  Men marvel at this stone; for it often makes
   911  a chain out of rings hanging down from itself.
   912  For indeed you may see at times five or more
@@ -941,21 +941,21 @@ TRANSLATOR'S COMMENTARY
   918  you can give a reasoning of the thing itself,
   919  and it must be approached by very long windings;
   920  so all the more I ask of you attentive ears and mind.
-  921  First, from all the things we see, whatever they are, {{NOTE: 6.921-935 closely repeat 4.217-229 (with small variants); align with the Book 4 English.}}
+  921  First, from all the things we see, whatever they are, {{NOTE: 6.921-935 closely repeat 4.216-229; the English repeats its Book 4 lines where the Latin agrees}}
   922  there must ceaselessly flow, be sent out and scattered
-  923  bodies to strike the eyes and provoke the sight.
-  924  And from certain things smells flow ceaselessly;
-  925  as cold from rivers, heat from the sun, spray from the waves
-  926  of the sea, devourer of walls, along the shores;
+  923  bodies that strike the eyes and provoke the sight.
+  924  And from certain things odors flow perpetually;
+  925  as cold from rivers, heat from the sun, surge from the waves
+  926  of the sea, eater of walls along the shores,
   927  nor do various sounds cease to stream through the air;
-  928  finally, a moisture of salt taste often comes into the mouth
-  929  when we walk beside the sea, and on the other hand, when we watch
+  928  finally, a moisture of salty flavor often comes into the mouth
+  929  when we walk beside the sea, and when we watch
   930  wormwood being diluted and mixed, its bitterness touches us.
   931  So true is it that from all things each thing is carried off
-  932  in a stream and sent away on all sides in every direction,
-  933  nor is any delay or rest from flowing granted between,
-  934  since we feel ceaselessly, and are always able
-  935  to see all things, to smell them, and to sense them sound.
+  932  in a stream, and sent away in all directions on every side,
+  933  and no delay, no rest is granted in the flowing,
+  934  since we perpetually feel, and may always
+  935  see all things, smell them, and sense them sounding.
   936  Now I shall go back to recall how porous of body
   937  all things are; which is clear also in my first song. {{NOTE: Book 1, esp. 1.346-357, on water, food, sound, and cold passing through solid things.}}
   938  For indeed, although to know this bears on many matters,
@@ -966,7 +966,7 @@ TRANSLATOR'S COMMENTARY
   943  sweat with moisture and drip with trickling drops.
   944  Likewise sweat streams out from all our body,
   945  the beard grows, and hairs through all our members, through our limbs.
-  946  Food is distributed into the veins, all of it, increases and feeds
+  946  All food is spread into the veins, and increases and feeds
   947  even the furthest parts of the body and the little nails.
   948  Likewise we feel cold and warm heat pass through bronze,
   949  we feel them likewise pass through gold
@@ -993,7 +993,7 @@ TRANSLATOR'S COMMENTARY
   970  The wild olive so delights the bearded she-goats,
   971  as if it truly flowed with ambrosia and were steeped in nectar,
   972  though for man nothing grows more bitter than its sour leaf.
-  973  Finally, the pig flees marjoram and fears every
+  973  Finally, the pig flees marjoram oil and fears every
   974  ointment; for to bristly pigs it is a sharp poison,
   975  though to us it sometimes seems, as it were, to give new life.
   976  But on the other hand, though mud to us is the foulest
@@ -1006,7 +1006,7 @@ TRANSLATOR'S COMMENTARY
   983  and each must have its own nature and its own paths.
   984  For indeed living creatures have various senses in them,
   985  each of which takes in its own proper object;
-  986  for we see that sounds penetrate by one way, by another flavor
+  986  for we see sounds penetrate by one way, by another flavor
   987  from juices, by another the scents of reek.
   988  Clearly it is the nature of the paths that compels this,
   989  varying in many ways, as we showed a little before.
@@ -1020,25 +1020,25 @@ TRANSLATOR'S COMMENTARY
   997  because of the unlike nature and texture of things.
   998  Therefore, when these things have been well confirmed and laid down,
   999  all standing ready for us, set out beforehand,
- 1000  for the rest, from here the reasoning will easily be given, and every
+ 1000  for the rest, from here the reasoning comes easily, and the whole
  1001  cause laid open, that lures the force of iron.
 
  1002  First, from this stone there must flow very many
  1003  seeds, or a current, which with its blows drives apart all the air {{NOTE: aestus, "current" or "surge", here and below (6.1049, 1051, 1056, 1059), is the stream that pours from the magnet.}}
  1004  that is lodged anywhere between the stone and the iron.
  1005  When this space is emptied, and a great deal of place
- 1006  in the middle becomes empty, at once the first-beginnings of iron
- 1007  slip forward into the void and fall, joined together, and so it comes about
- 1008  that the ring itself follows, and goes on so with its whole body.
+ 1006  in the middle is emptied, at once the iron's first-beginnings
+ 1007  slip forward into the void and fall, joined, and so it happens
+ 1008  that the ring itself follows, and so goes with its whole body.
  1009  Nor is there anything that, from its own first elements,
  1010  entangled and tightly linked, holds together more closely
  1011  than the nature of strong iron, that cold, rough thing.
- 1012  So it is less to be wondered at, though it is called strange, {{NOTE: The text of this line is uncertain; the sense is that the result follows naturally from what has just been said.}}
+ 1012  So it is less a wonder, the thing that is called strange, {{NOTE: The text of this line is uncertain; the sense is that the result follows naturally from what has just been said.}}
  1013  if bodies, rising in numbers from the iron,
- 1014  cannot be carried into the void without the ring itself following;
+ 1014  cannot go into the void without the ring itself following;
  1015  and this it does, and follows, until it has reached
  1016  the stone itself and clung to it by hidden fastenings.
- 1017  The same thing happens in every direction: wherever a place
+ 1017  The same happens in every direction: wherever a place
  1018  becomes empty, whether from the side or from above,
  1019  the neighboring bodies are carried at once into the void;
  1020  for indeed they are driven by blows from elsewhere, nor can they
@@ -1050,7 +1050,7 @@ TRANSLATOR'S COMMENTARY
  1026  it comes about at once that the air lodged behind it
  1027  as it were carries it forward from the rear and pushes it on.
  1028  For the air set all around things always beats on them;
- 1029  but at such a time it comes about that it pushes the iron forward,
+ 1029  but at such a time it happens that it pushes the iron on,
  1030  because on one side space stands empty and takes it in.
  1031  This air I tell you of, through the iron's many pores
  1032  working its way finely into its small parts,
@@ -1072,10 +1072,10 @@ TRANSLATOR'S COMMENTARY
  1048  With bronze set between, so great a discord is created
  1049  because, no doubt, when the current of the bronze has first
  1050  seized and taken possession of the open paths of the iron,
- 1051  the current of the stone comes after, and finds everything full
+ 1051  the stone's current comes after, and finds everything full
  1052  in the iron, and has no way to swim through as before;
  1053  it is forced, therefore, to strike and beat with its flow
- 1054  upon the iron's texture; in this way it spits it away from itself
+ 1054  the iron's texture; and in this way it spits from itself
  1055  and drives through the bronze what, without it, it often draws in.
  1056  In these matters cease to wonder at this: that the current
  1057  from this stone cannot drive other things in the same way.
@@ -1084,7 +1084,7 @@ TRANSLATOR'S COMMENTARY
  1060  flies through untouched, cannot be driven anywhere;
  1061  of which kind the matter of wood is seen to be.
  1062  The nature of iron, therefore, placed between the two,
- 1063  once it has taken in certain small bodies of bronze, then it comes about
+ 1063  when it has taken in some small bodies of bronze, then it happens
  1064  that the Magnesian stones drive it with their stream.
  1065  And yet these things are not so foreign to other things
  1066  that I have only a scant supply of examples of this kind
@@ -1098,26 +1098,26 @@ TRANSLATOR'S COMMENTARY
  1074  And the purple color of the shellfish is joined in one
  1075  body with the wool, so that it can never be parted,
  1076  not if you took pains to renew it with Neptune's flood,
- 1077  not if the whole sea should wish to wash it out with all its waves.
+ 1077  not if the whole sea wished to wash it out with all its waves.
  1078  Again, is there not one thing alone that couples gold to gold, {{NOTE: The gold-solder the ancients called chrysocolla.}}
  1079  and does it not come about that bronze is joined to bronze by white lead? {{NOTE: "White lead" (plumbum album) is tin, used as solder.}}
  1080  How many others one could find! What then?
  1081  You have no need anywhere of such long windings,
  1082  nor is it fitting for me to spend so much labor here;
- 1083  rather it is better to grasp many things briefly, in a few words.
+ 1083  but it is better to grasp many things briefly, in few words.
  1084  Things whose textures have so fallen out, matching one another,
- 1085  that hollows fit with solids, the hollows of this with the solids of that,
+ 1085  that hollows meet solids, the hollows of this the solids of that,
  1086  and of that with this, these have the best joining among themselves.
  1087  There is also the case where, as if folded with rings and hooks,
  1088  certain things can be held coupled to one another;
  1089  which seems to happen rather with this stone and iron.
- 1090  Now what the principle of diseases is, or from where, rising suddenly,
- 1091  a force of sickness can blow up a deadly disaster
+ 1090  Now what the principle of disease is, and from where, suddenly,
+ 1091  a force of sickness, risen, can blow up a deadly disaster
  1092  for the race of men and the herds of beasts,
  1093  I shall unfold. First, that there are seeds of many things
  1094  that are vital to us, I have taught above,
- 1095  and that, on the other hand, there must be many that make for disease
- 1096  and death, flying about; when these by chance have happened to rise
+ 1095  and that, on the other hand, many that make for disease and death
+ 1096  must fly about; when these by chance have happened to rise
  1097  and have disturbed the sky, the air becomes diseased.
  1098  And all that force of diseases, and pestilence,
  1099  either comes from outside, as clouds and mists from above
@@ -1130,7 +1130,7 @@ TRANSLATOR'S COMMENTARY
  1106  For how much do we think the sky of the Britons differs
  1107  from that in Egypt, where the axis of the world limps, {{NOTE: In the south the celestial pole sinks low, so the world's axis seems to lean.}}
  1108  or how much what is in Pontus differs from Gades, and from
- 1109  the races of men further on, black with their thoroughly baked color?
+ 1109  to the black generations of men, their color baked through?
  1110  As we see these four regions differ among themselves,
  1111  by the four winds and quarters of the sky,
  1112  so the color and face of men are seen to differ
@@ -1139,20 +1139,20 @@ TRANSLATOR'S COMMENTARY
  1115  is born in the middle of Egypt, and nowhere else.
  1116  In Attica the feet are attacked, and the eyes in the Achaean
  1117  lands. So one place is hostile to one part
- 1118  and limb, another to another; the varying air brings it about.
+ 1118  and limb, another to another; the varying air does this.
  1119  Therefore, when a sky that happens to be alien to us
  1120  stirs itself, and a hostile air has begun to creep,
- 1121  as mist and cloud crawl little by little, and throw into confusion
- 1122  all that they pass through, and force it to change,
+ 1121  like mist and cloud it creeps little by little, and all
+ 1122  that it passes through it confounds, and forces to change,
  1123  it happens too that, when at last it comes into our sky,
  1124  it corrupts it, and makes it like itself, and alien.
  1125  This new disaster and pestilence, therefore, suddenly
- 1126  either falls into the waters, or settles on the crops themselves,
+ 1126  either falls on the waters, or settles on the crops themselves,
  1127  or on other food of men and fodder of beasts,
  1128  or else its force stays hanging in the air itself,
  1129  and when, breathing, we draw in the mingled air from there,
  1130  we must suck that too into our body along with it.
- 1131  In a like way pestilence often comes upon cattle too,
+ 1131  On a like principle, pestilence often comes on oxen too,
  1132  and sickness upon the sluggish bleating flocks.
  1133  Nor does it matter whether we travel into places
  1134  hostile to us and change the cloak of sky,
@@ -1163,7 +1163,7 @@ TRANSLATOR'S COMMENTARY
  1138  A pattern of disease like this, and a death-bearing heat, once {{NOTE: ratio here is the "pattern" or "manner" of disease, not the poet's "reasoning".}}
  1139  made the fields deadly within the borders of Cecrops {{NOTE: Athens, whose legendary first king was Cecrops; the plague of 430 BC, told after Thucydides 2.47-54.}}
  1140  and laid waste the roads and drained the city of its citizens.
- 1141  For coming from deep within, arisen in the borders of Egypt,
+ 1141  For coming from deep within, risen in the borders of Egypt,
  1142  having measured out much air and the swimming plains of the sea,
  1143  it fell at last upon the whole people of Pandion. {{NOTE: Pandion, a legendary king of Athens; his people are the Athenians.}}
  1144  From then on, in throngs, they were handed over to disease and death.
@@ -1188,7 +1188,7 @@ TRANSLATOR'S COMMENTARY
  1163  Nor could you see in anyone, with excessive heat,
  1164  the outermost part on the surface of the body burning,
  1165  but rather it offered a lukewarm touch to the hands,
- 1166  and at the same time the whole body reddened with ulcers as if burned in,
+ 1166  and all the body at once reddened with ulcers as if burned in,
  1167  as it does when the sacred fire spreads through the limbs. {{NOTE: sacer ignis, probably erysipelas or a similar inflammation of the skin.}}
  1168  But the inmost part of these men blazed to the bones,
  1169  a flame blazed in the stomach as in furnaces within.
@@ -1221,7 +1221,7 @@ TRANSLATOR'S COMMENTARY
  1196  And not long after, their limbs lay stiff in death.
  1197  And about the eighth bright light of the sun,
  1198  or even at the ninth lamp of day, they gave back their life.
- 1199  If any of them, as happens, had escaped the funeral of death,
+ 1199  If any of them, as happens, had escaped death's funeral,
  1200  yet with foul ulcers and a black flux of the bowels
  1201  wasting and death awaited him later on,
  1202  or else, often with pain in the head, much
@@ -1233,7 +1233,7 @@ TRANSLATOR'S COMMENTARY
  1208  And some, gravely fearing the threshold of death,
  1209  lived on, deprived by the knife of the male part,
  1210  and some, without hands and feet, remained
- 1211  yet in life, and some lost their eyes.
+ 1211  yet in life, and some lost the lights of their eyes.
  1212  So keen a fear of death had come upon them.
  1213  And some, too, were seized by forgetfulness of all
  1214  things, so that they could not even know themselves.
@@ -1247,7 +1247,7 @@ TRANSLATOR'S COMMENTARY
  1222  and died. Foremost, the faithful strength of dogs,
  1223  strewn in all the streets, gave up its spirit painfully;
  1224  for the force of the disease wrenched the life from their limbs.
- 1225  Funerals, unattended, vast, raced one another to be hurried off,
+ 1225  Vast funerals, unattended, vied to be hurried away,
  1226  nor was any sure and common method of remedy given;
  1227  for what had granted some to roll the vital breezes of air
  1228  in their mouths, and to look upon the precincts of heaven,
@@ -1284,7 +1284,7 @@ TRANSLATOR'S COMMENTARY
  1259  Many bodies, laid low by thirst and rolled forward along the street,
  1260  lay stretched out at the fountain-spouts of the waters,
  1261  their spirit cut off by the too great sweetness of water,
- 1262  and through the open places and streets of the people everywhere
+ 1262  and through the people's open places and streets everywhere
  1263  you could see faint limbs, with half-living bodies,
  1264  bristling with filth and covered with rags, perishing
  1265  in the body's foulness, skin alone upon their bones,
@@ -1293,13 +1293,13 @@ TRANSLATOR'S COMMENTARY
  1268  with lifeless bodies, and everywhere, loaded
  1269  with corpses, stood all the precincts of the heavenly ones,
  1270  places their wardens had filled with guests.
- 1271  For now neither the religion of the gods nor their divine power
+ 1271  For now neither the gods' religion nor their divine power
  1272  counted for much: the present pain overwhelmed them.
  1273  Nor did that custom of burial remain in the city
  1274  by which this people had always been buried before;
- 1275  for the whole people, thrown into confusion, was in alarm, and each
+ 1275  for the whole people, in confusion, was in alarm, and each
  1276  man, grieving, buried his own kin as the moment allowed.
- 1277  And the sudden event and horrid poverty prompted many things;
+ 1277  And the sudden crisis and horrid poverty urged many things;
  1278  for on pyres built by others they would lay
  1279  their own blood-kin, with a huge outcry,
  1280  and set torches beneath, often with much bloodshed
