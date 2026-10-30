@@ -306,7 +306,7 @@ transcript metrics and the acceptance reason.
 
 | Book | Chunks | Length | Retaken chunks | Accepted without a strict pass |
 |---|---|---|---|---|
-| 1 | 25 | 60.7 min | 3, 12, 19, 21 | 012 (`take in` heard as taken) |
+| 1 | 25 |  min | 3, 12, 19, 21 | 012 (`take in` heard as taken) |
 | 2 | 26 | 64.9 min | 10, 12, 16, 21, 22, 23 | none |
 | 3 | 24 | 62.0 min | 5, 8, 17, 18, 19, 20 | 020 (`laid asleep` heard as lay to sleep) |
 | 4 | 29 | 72.5 min | 4, 6, 10, 11, 12, 15, 16 | 012 (`already` heard as all ready) |
