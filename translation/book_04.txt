@@ -1,14 +1,61 @@
 BOOK 4
 
-[argument: one sentence, to be written]
+The poet's untrodden path again; the images, thin films shed from the
+surface of things, their fineness, their speed and their kinds; sight,
+mirrors and the deceptions of sight, which are the mind's error and never
+the eyes'; the senses as the ground of all truth, against the sceptic;
+hearing, echo, taste and smell; how the mind thinks and dreams, and why
+dream-figures seem to move; the limbs were not made for their uses; hunger,
+walking and sleep; the dreams of men and beasts and of desire; the passion
+of love, its madness, its waste and its cure; and the shared pleasure,
+inheritance and fertility of the sexes.
 
 TRANSLATOR'S COMMENTARY
 
-[to be written]
+The text followed is the printed Perseus text, as in Books 1 to 3. Three
+gaps are marked and left unfilled, after 126, after 144 and after 289. The
+book's opening is not in order: 26-32 and 33-37 are two drafts of the same
+transition, each ending in the same two lines, and 45-53 look like a
+leftover of an earlier version; the translation prints them in the printed
+order and repeats the English where the Latin repeats. Line 808 repeats 804
+and breaks its sentence, 1000-1003 repeat 992-995 after a line lost before
+999, and 1047 all but repeats 1034; all are rendered as printed, with a note
+at each. At 116 (eorum), 546 (barbara) and 823 the English follows the
+correction every editor makes; at 491, 547 and 551 it renders the printed
+text and the notes give the alternatives. As in Book 3 the transcription
+doubles a word wherever the original marked a diaeresis, so that "air"
+appears as aeraaëra, aeraër, aerisaëris and the like at some thirty places,
+and coepit, coercet and suerint are doubled in the same way (303, 369, 619,
+647, 657); these are artifacts of the copy, read as the single word without
+notice.
+
+Simulacra, the book's subject, is "images" throughout, as it was for the
+ghosts of 1.123 and the statues and pictures of Book 2, so that the
+technical sense is seen to grow out of the ordinary one; imago, the single
+likeness and above all the picture in a mirror, is also "image", and the
+notes say so where the two words meet. Lucretius's other names for the
+images are kept apart: membranae are "films" (32, 40, 59, 95), effigiae
+"effigies" (51, 85, 105), figurae "shapes". Ratio is "reasoning" where it
+means thought or doctrine and "principle" where it means the manner in which
+a thing comes about (qua ratione, "by what principle"). Animus and anima are
+"mind" and "spirit" as in Book 3, and mens animi at 758 is "the thought of
+the mind". Venus is left as a name wherever Lucretius uses it, for the
+goddess, for desire and for the act itself, since the book's argument
+depends on the one word covering all three. Particulae at 776 is "tiny
+parts", as the register requires, and there it means the images themselves.
+
+The proem (1-25) repeats 1.926-950 and the English repeats itself, differing
+only at 11 and 24-25, where the Latin differs; 26-29 repeat 3.31-34, 65-66
+recur at 102-103, 180-182 at 909-911, and 734 is 1.135, the line about the
+dead whose bones the earth embraces. Within the book 774 recurs at 799,
+771-772 at 800-801 and 992-995 at 1000-1003, and the English is kept the
+same in each pair save where the Latin changes its first word. The Latin has
+no quotation marks; those at 1160-1169 are the translator's, marking the
+lovers' pet names, which in the Latin are Greek.
 
 ------------------------------------------------------------
 
-    1  I range through the pathless places of the Pierides, trodden before {{NOTE: 4.1-25 repeat 1.926-950 almost word for word; the English repeats the Book 1 lines; the Pierides are the Muses, named from Pieria}}
+    1  I range through the pathless places of the Pierides[1], trodden before
     2  by no one's foot. It is a joy to come to untouched springs
     3  and drink from them, a joy to pluck new flowers
     4  and to seek for my head a crown of distinction from there
@@ -38,12 +85,12 @@ TRANSLATOR'S COMMENTARY
    28  they fly of their own accord, driven by eternal motion,
    29  and in what way each thing can be created from them,
    30  I shall now begin to treat for you what bears closely on these things:
-   31  that there exist what we call the images of things,
-   32  which are to be named, as it were, films or bark; {{NOTE: 26-44 preserve two versions of the same transition (30-31 = 36-37); Bailey prints both, and the translation follows him}}
+   31  that there exist what we call the images[2] of things,
+   32  which are to be named, as it were, films or bark;
    33  and since I have taught what the nature of the mind is,
    34  and from what things, joined with the body, it is made and thrives,
    35  and in what way, torn apart, it returns to its first-beginnings,
-   36  I shall now begin to treat for you what bears closely on these things:
+   36  I shall now begin to treat for you what bears closely on these things:[3]
    37  that there exist what we call the images of things,
    38  because the image carries a likeness and form like that thing's
    39  from whose body, whatever it is, it is said to be shed and wander;
@@ -53,7 +100,7 @@ TRANSLATOR'S COMMENTARY
    43  our minds, and in sleep too, when often we behold shapes
    44  strange to see, and the images of those who lack the light,
    45  which have often roused us in horror as we lay languid
-   46  in sleep: lest we should think by chance that spirits escape {{NOTE: 45-53 are widely thought to be misplaced or a remnant of the earlier draft of this transition}}
+   46  in sleep: lest we should think by chance that spirits escape
    47  from Acheron, or that shades fly among the living,
    48  or that something of us can be left behind after death,
    49  when the body and the nature of the mind, destroyed together,
@@ -73,7 +120,7 @@ TRANSLATOR'S COMMENTARY
    63  And since these things happen, a thin image too must
    64  be sent off from things, from the outermost body of things.
    65  For why those should fall and withdraw from things more
-   66  than those that are thin, there is no power to open one's mouth;
+   66  than those that are thin, there is no power to open one's mouth;[4]
    67  especially since on the surface of things there are bodies
    68  many and minute, which could be thrown off in the same order
    69  they had before and keep the outline of the form,
@@ -83,7 +130,7 @@ TRANSLATOR'S COMMENTARY
    73  not only from the depth and from within, as we said before,
    74  but from the surface, often, the very color too.
    75  And this is commonly done by awnings, yellow and red
-   76  and dark blue, when stretched over great theaters
+   76  and dark blue, when stretched over great theaters[5]
    77  they flap and quiver, spread out on masts and beams;
    78  for there the assembly seated in the tiers beneath, and all
    79  the face of the stage, the fathers and the mothers down below,
@@ -123,7 +170,7 @@ TRANSLATOR'S COMMENTARY
   113  than those things which the eyes first begin to be unable to see,
   114  yet now, so that I may confirm this too, how fine the origins
   115  of all things are, learn in a few words.
-  116  First, there are living creatures already so tiny that a third part {{NOTE: the source's "corum" is a misprint for "eorum", "of them"}}
+  116  First, there are living creatures already so tiny that a third part[6]
   117  of them could by no means be seen.
   118  What must one think any one of their entrails is like!
   119  What of the heart's ball, or the eye's? What of the limbs? The joints?
@@ -132,7 +179,7 @@ TRANSLATOR'S COMMENTARY
   122  Do you not see how fine they are, and how minute?
   123  Further, whatever things breathe out from their bodies
   124  a sharp smell, the panacea, foul wormwood,
-  125  strong-smelling southernwood, and grim centaury, {{NOTE: panaces, abrotonum, centaureum: strong-scented medicinal plants}}
+  125  strong-smelling southernwood, and grim centaury[7],
   126  of which any one, if by chance lightly between two
        [lacuna]
   127  Why not rather recognize that images of things wander about,
@@ -144,7 +191,7 @@ TRANSLATOR'S COMMENTARY
   133  which, formed in many ways, are borne on high,
   134  as we see clouds at times easily gather on high
   135  and mar the calm face of the world,
-  136  caressing the air with their motion; for often the faces of Giants {{NOTE: the source prints "aeraaëra", a doubling; read "aëra", the air}}
+  136  caressing the air with their motion; for often the faces of Giants[8]
   137  seem to fly and draw a shadow far and wide,
   138  at times great mountains and rocks torn from
   139  the mountains seem to go before and pass across the sun,
@@ -153,7 +200,7 @@ TRANSLATOR'S COMMENTARY
   142  and turn into the outlines of forms of every kind.
 
   143  Now, by how easy and how swift a principle these are produced,
-  144  and how they flow perpetually from things and slip off and withdraw, {{NOTE: a lacuna follows; the opening of the account of how the images form is lost, and 145 resumes mid-argument}}
+  144  and how they flow perpetually from things and slip off and withdraw,[9]
        [lacuna]
   145  for always there is something streaming off the surface of things
   146  for them to cast away. And when this reaches other things,
@@ -183,14 +230,14 @@ TRANSLATOR'S COMMENTARY
   170  so that you would think all the darkness on every side had left
   171  Acheron and filled the great caverns of the sky.
   172  So utterly, when the hideous night of storm clouds has risen,
-  173  do the faces of black Terror hang over us from above; {{NOTE: Formido, Terror, personified as a figure with faces, like the shapes in the clouds at 4.136-140}}
+  173  do the faces of black Terror[10] hang over us from above;
   174  yet how tiny a part of these an image is, there is no one
   175  who could say, or render an account of it in words.
   176  Come now, with what swift motion the images are carried,
   177  and what mobility is granted them as they swim through the air,
   178  so that a long distance is worn away in a brief hour,
   179  toward whatever place each strains with its diverse bent,
-  180  I shall set out in verses sweet-spoken rather than many; {{NOTE: 180-182 recur at 4.909-911; the English repeats them verbatim there}}
+  180  I shall set out in verses sweet-spoken rather than many;[11]
   181  as the small song of the swan is better than that clamor
   182  of cranes scattered among the high clouds of the south wind.
   183  To begin with, very often one may see that things that are light
@@ -200,7 +247,7 @@ TRANSLATOR'S COMMENTARY
   187  which are, as it were, hammered on, and through the interval of air
   188  do not hesitate to pass, driven on by the blow that follows;
   189  for at once light is supplied by light,
-  190  and flash is goaded on by flash, as if by a team in tandem. {{NOTE: protelo, a team of oxen yoked one behind another, each pulling the next}}
+  190  and flash is goaded on by flash, as if by a team in tandem[12].
   191  Therefore images, on a like principle, must
   192  be able to run across a space beyond telling
   193  in a moment of time, first because there is a very small cause
@@ -280,7 +327,7 @@ TRANSLATOR'S COMMENTARY
   267  yet we do not feel that by touch; rather we feel
   268  the hardness itself, deep within the rock, far down.
 
-  269  Come now, learn why the image is seen beyond the mirror; {{NOTE: imago and simulacra are both rendered "image(s)" in this passage; a deliberate merge for the register}}
+  269  Come now, learn why the image[13] is seen beyond the mirror;
   270  for certainly it is seen withdrawn deep within.
   271  It is like those things outside that are truly seen through
   272  when a doorway offers through itself an open view
@@ -300,7 +347,7 @@ TRANSLATOR'S COMMENTARY
   286  and, driving another air before it, rolls it on,
   287  and makes us see this air before itself, and for that reason
   288  it seems to stand removed from the mirror by just so much.
-  289  Therefore again and again it is right to wonder not at all {{NOTE: a line appears to be lost after this one}}
+  289  Therefore again and again it is right to wonder not at all[14]
        [lacuna]
   290  at those that give back a sight from the level surface of mirrors,
   291  since in either case the thing is brought about by two airs.
@@ -309,7 +356,7 @@ TRANSLATOR'S COMMENTARY
   294  when the image, coming, strikes against the mirror's flat,
   295  it is not turned about unharmed, but is dashed straight
   296  backward, as if someone, before it was dry,
-  297  should dash a clay mask against a pillar or a beam, {{NOTE: cretea persona: a mask of wet clay, which takes the impression inside out}}
+  297  should dash a clay mask[15] against a pillar or a beam,
   298  and it should at once keep its features straight in front
   299  and, dashed back, should press out its own form in reverse.
   300  It will come about that the eye that was the right before
@@ -335,7 +382,7 @@ TRANSLATOR'S COMMENTARY
   320  because, from whatever part of the mirror you withdraw,
   321  from there at once the images cannot return;
   322  since nature compels all things to be carried back
-  323  and to leap back from things, returned at equal angles.
+  323  and to leap back from things, returned at equal angles[16].
   324  Further, the eyes shun bright things and avoid looking at them.
   325  The sun even blinds them, if you persist in straining toward it,
   326  because its own force is great, and from on high
@@ -345,7 +392,7 @@ TRANSLATOR'S COMMENTARY
   330  the eyes, because it holds many seeds of fire
   331  which, working their way in, beget pain in the eyes.
   332  Further, all things turn sallow that are looked upon
-  333  by the jaundiced, since seeds of sallowness from their body {{NOTE: arquati: those with jaundice, the "rainbow disease" (arquatus morbus), from its color}}
+  333  by the jaundiced[17], since seeds of sallowness from their body
   334  flow forth in numbers to meet the images of things,
   335  and many, finally, are mingled in their eyes,
   336  which with their contagion paint all things with pallor.
@@ -392,7 +439,7 @@ TRANSLATOR'S COMMENTARY
   377  Therefore the earth is easily both stripped of light
   378  and filled again, and washes its black shadows from itself.
 
-  379  Yet we do not grant that the eyes are deceived one whit in this.
+  379  Yet we do not grant that the eyes are deceived one whit in this.[18]
   380  For to see in what place there is light and shadow
   381  is their task; but whether the lights are the same or not,
   382  and whether the shadow that was here now passes over there,
@@ -421,7 +468,7 @@ TRANSLATOR'S COMMENTARY
   405  with its trembling fires, and to lift it above the mountains,
   406  those mountains above which the sun then seems to you to be,
   407  touching them close at hand, burning, with its own fire,
-  408  are scarcely two thousand bowshots away from us,
+  408  are scarcely two thousand bowshots[19] away from us,
   409  often scarcely even five hundred casts of a javelin;
   410  between them and the sun lie the immense levels
   411  of the sea, spread out beneath the vast shores of the ether,
@@ -482,7 +529,7 @@ TRANSLATOR'S COMMENTARY
   466  so that things not seen by the senses pass for seen;
   467  for nothing is harder than to separate things plain
   468  from doubtful ones, which the mind straightway adds of itself.
-  469  Again, if anyone thinks that nothing can be known, he does not know
+  469  Again, if anyone thinks that nothing can be known, he does not know[20]
   470  whether even that can be known, since he admits he knows nothing.
   471  Against this man, then, I will forbear to argue the case,
   472  who has set himself with his head where his footprints should be.
@@ -504,7 +551,7 @@ TRANSLATOR'S COMMENTARY
   488  or will the nostrils confute it, or the eyes refute it?
   489  It is not so, I think. For to each a separate power
   490  has been allotted, each has its own force, and so it must be
-  491  that what is soft, and cold or hot, is perceived apart, {{NOTE: text uncertain at 4.491: the transmitted "videre" ("to see") sits oddly with touch; editors emend or transpose; rendered by sense}}
+  491  that what is soft, and cold or hot, is perceived apart,[21]
   492  and that the various colors of things are perceived apart,
   493  and whatever things are joined to colors.
   494  Apart, likewise, the mouth's taste has its power, apart smells
@@ -519,7 +566,7 @@ TRANSLATOR'S COMMENTARY
   502  as round, still it is better, if you are at a loss for reasoning,
   503  to give faulty causes for each of the two shapes
   504  than to let things plain to see slip from your hands somewhere
-  505  and violate the first trust and tear up all
+  505  and violate the first trust[22] and tear up all
   506  the foundations on which life and safety rest.
   507  For not only would all reasoning fall in ruin; life itself
   508  would collapse at once, unless you dared to trust the senses
@@ -529,7 +576,7 @@ TRANSLATOR'S COMMENTARY
   512  which is drawn up and made ready against the senses.
   513  Finally, as in a building, if the first rule is crooked,
   514  and if the square is false and slips from its straight lines,
-  515  and if the level limps a hair's breadth at any point,
+  515  and if the level[23] limps a hair's breadth at any point,
   516  everything must be made faulty and askew,
   517  crooked, sagging, leaning forward, leaning back, the roof out of true,
   518  so that some parts seem already to want to fall, and do fall,
@@ -548,7 +595,7 @@ TRANSLATOR'S COMMENTARY
   531  the first-beginnings of voices have begun to go out.
   532  Clearly the door of the mouth too is scraped when it is filled.
   533  There is no doubt, then, that voices and words consist
-  534  of bodily beginnings, since they are able to do harm. {{NOTE: principia, "beginnings", Lucretius's alternative term for the first-beginnings (primordia, 4.531)}}
+  534  of bodily beginnings, since they are able to do harm.
   535  Nor, likewise, does it escape you what body is lost, and what
   536  is drawn from men's sinews and their very strength
   537  by unbroken speech carried on to the shadow of black night
@@ -560,12 +607,12 @@ TRANSLATOR'S COMMENTARY
   543  of the beginnings, and smoothness likewise is made by smoothness;
   544  nor do the first-beginnings pierce the ears with like shape
   545  when the trumpet bellows deep with its low-pressed growl
-  546  and the barbarous horn, roused, booms back its hoarse drone, {{NOTE: the source prints barbita ("lyre"); most editors read barbara, the "barbarous" Phrygian horn, which the sense requires and is rendered here}}
-  547  and when the Daulian birds, born in the gardens of Helicon, {{NOTE: nightingales, after the myth of Procne and Philomela set at Daulis; the line is textually disputed (Bailey reads swans from the torrents of Helicon)}}
+  546  and the barbarous horn[24], roused, booms back its hoarse drone,
+  547  and when the Daulian birds[25], born in the gardens of Helicon,
   548  raise their liquid lament with mourning voice.
   549  So when we press these voices out from deep within our body
   550  and send them out straight through the mouth,
-  551  the nimble tongue, artificer of sinews, articulates them, {{NOTE: daedala, "artificer", as in the artificer earth (1.7); most texts read verborum, "artificer of words", for the source's nervorum}}
+  551  the nimble tongue, artificer of sinews[26], articulates them,
   552  and the shaping of the lips gives them form in its turn.
   553  When the space is not long from which each voice
   554  sets out to arrive, the words themselves too must
@@ -578,7 +625,7 @@ TRANSLATOR'S COMMENTARY
   561  make out what the meaning of the words is;
   562  so confused and tangled does the voice arrive.
   563  Further, a single word often rouses the ears
-  564  of all in a crowd, sent out from a crier's mouth.
+  564  of all in a crowd, sent out from a crier[27]'s mouth.
   565  One voice, then, suddenly scatters into many voices,
   566  since it divides itself among separate ears,
   567  stamping on the words their form and clear sound.
@@ -594,7 +641,7 @@ TRANSLATOR'S COMMENTARY
   577  I have seen places give back even six or seven voices
   578  when you threw out one: so the hills themselves, to hills
   579  beating the words back, repeated the sayings as they returned.
-  580  These places, the neighbors fancy, goat-footed Satyrs
+  580  These places, the neighbors fancy, goat-footed Satyrs[28]
   581  and Nymphs hold, and they say there are Fauns,
   582  by whose night-wandering din and jesting play
   583  they declare the speechless silences are commonly broken,
@@ -655,7 +702,7 @@ TRANSLATOR'S COMMENTARY
   637  that what is food to some is to others sharp poison;
   638  for indeed there is a snake which, touched by a man's spittle,
   639  perishes and destroys itself by gnawing at itself.
-  640  Further, hellebore is sharp poison to us,
+  640  Further, hellebore[29] is sharp poison to us,
   641  but to goats and to quails it adds fat.
   642  So that you can learn by what means this comes about,
   643  first it is fitting to remember what we said before,
@@ -698,7 +745,7 @@ TRANSLATOR'S COMMENTARY
   680  and vultures by carcasses; then, where the cloven hoof of beasts
   681  has carried its steps, the far-reaching force of hounds
   682  leads on, and the human smell is scented from far away
-  683  by the savior of the citadel of Romulus' sons, the white goose. {{NOTE: the sacred geese of Juno on the Capitol, whose cackling woke the defenders against the Gauls' night attack (Livy 5.47)}}
+  683  by the savior of the citadel of Romulus' sons, the white goose[30].
   684  So one scent given to some, another to others, leads each
   685  to its own pasture, and makes it spring back from foul poison,
   686  and in this way the generations of wild beasts are preserved.
@@ -728,7 +775,7 @@ TRANSLATOR'S COMMENTARY
   710  Indeed, the cock, who with clapping wings drives out the night
   711  and is wont to call the dawn with ringing voice,
   712  ravening lions are not able to stand against
-  713  and look upon: so instantly do they remember flight. {{NOTE: a common ancient belief, also in Pliny, Natural History 8.52 and 10.47}}
+  713  and look upon: so instantly do they remember flight.[31]
   714  Doubtless because there are in the body of cocks certain
   715  seeds which, when they are sent into the eyes of lions,
   716  bore into the pupils and give sharp pain,
@@ -749,7 +796,7 @@ TRANSLATOR'S COMMENTARY
   731  the thin nature of the mind within, and provoke sense.
   732  And so we see Centaurs and the limbs of Scyllas
   733  and the dog-faces of Cerberus, and images of those
-  734  whose bones, after death, the earth embraces; {{NOTE: repeats 1.135 verbatim in the Latin; the English repeats its own line}}
+  734  whose bones, after death, the earth embraces;[32]
   735  since images of every kind are carried everywhere,
   736  some that come to be of their own accord in the air itself,
   737  some that withdraw from all manner of things,
@@ -773,7 +820,7 @@ TRANSLATOR'S COMMENTARY
   755  by images of lions and the rest, which it sees just as
   756  well as the eyes, except that it perceives thinner ones.
   757  Nor by any other principle, when sleep has spread out the limbs,
-  758  does the thought of the mind keep watch, except that the same images
+  758  does the thought of the mind[33] keep watch, except that the same images
   759  provoke our minds as when we are awake,
   760  so much so that we seem surely to see one
   761  whom, life left behind, death and the earth now possess.
@@ -791,7 +838,7 @@ TRANSLATOR'S COMMENTARY
   773  Of course we must suppose that this happens by a swift principle:
   774  so great is the mobility, and so great the abundance of things,
   775  and so great, in any one moment we can perceive,
-  776  the abundance of tiny parts, that it can supply them. {{NOTE: particulae, Lucretius's diminutive, used here only; the tiny parts are the images themselves, not the first-beginnings}}
+  776  the abundance of tiny parts[34], that it can supply them.
 
   777  And many questions arise in these matters, and much we must
   778  make clear, if we wish to set out the matter plainly.
@@ -812,19 +859,19 @@ TRANSLATOR'S COMMENTARY
   793  so that they can put on shows in the time of night.
   794  Or will this rather be the truth? Because in a single time,
   795  when we perceive, that is, when a single sound is uttered,
-  796  many times lie hidden, which reasoning finds to exist,
+  796  many times lie hidden[35], which reasoning finds to exist,
   797  therefore it comes about that in any time whatever
   798  every image is at hand, ready in every place.
   799  So great is the mobility, and so great the abundance of things.
   800  Here, when the first perishes and a second is born after it
-  801  in another posture, the earlier seems to have changed its gesture.
+  801  in another posture, the earlier seems to have changed its gesture.[36]
   802  And because they are thin, the mind cannot sharply see
   803  any but those it strains toward; and so all that are
   804  beyond these perish, except those it has made itself ready for.
   805  And it makes itself ready, and hopes it will come about
   806  that it sees what follows on each thing: and so it does.
   807  Do you not see that the eyes too, when things that are thin
-  808  beyond these perish, except those it has made itself ready for, {{NOTE: 4.808 repeats 4.804 and breaks the sentence; most editors delete it}}
+  808  beyond these perish, except those it has made itself ready for,[37]
   809  they have begun to look at, strain and make themselves ready,
   810  and that without this we cannot see sharply?
   811  And yet even with things in plain view you can recognize
@@ -839,7 +886,7 @@ TRANSLATOR'S COMMENTARY
   820  seems to be there in our hands, made into a man,
   821  or one face and one age follow after another.
   822  That we do not wonder at this, sleep and forgetfulness see to it.
-  823  In these matters there is a fault I earnestly want you {{NOTE: textual crux; the transmitted "vehementer inesse" is corrupt, and the sense "I strongly wish you" follows the usual emendation}}
+  823  In these matters there is a fault I earnestly want you[38]
   824  to flee, an error to avoid with foresight:
   825  do not think that the bright lights of the eyes were created
   826  so that we might look before us, and that, so we could take
@@ -851,7 +898,7 @@ TRANSLATOR'S COMMENTARY
   832  All other things of this kind which men expound, whatever they are,
   833  are all backward, by reasoning turned upside down,
   834  since nothing was born in the body so that we could use
-  835  it, but what is born creates its use.
+  835  it, but what is born creates its use[39].
   836  Nor was there seeing before the lights of the eyes were born,
   837  nor pleading with words before the tongue was created;
   838  rather, the origin of the tongue came long before
@@ -903,7 +950,7 @@ TRANSLATOR'S COMMENTARY
   884  anything before the mind has foreseen what it wills.
   885  Of what it foresees, an image of that thing exists.
   886  Therefore, when the mind so stirs itself that it wills to go
-  887  and step forward, at once it strikes the force of spirit
+  887  and step forward, at once it strikes the force of spirit[40]
   888  that is scattered through the whole body, through limbs and frame;
   889  and that is easy to do, since it is held joined with it.
   890  Then this in turn strikes the body, and so the whole
@@ -921,7 +968,7 @@ TRANSLATOR'S COMMENTARY
   902  drives on and pushes a great ship with great momentum,
   903  and one hand rules it, going at whatever speed,
   904  and one rudder turns it wherever it pleases,
-  905  and a machine, by pulleys and treadwheels, moves many things
+  905  and a machine, by pulleys and treadwheels[41], moves many things
   906  of great weight and lifts them up with slight effort.
 
   907  Now in what ways sleep floods the limbs with rest
@@ -933,7 +980,7 @@ TRANSLATOR'S COMMENTARY
   913  lest you deny that what I say can come to be, and go off
   914  with a breast that thrusts the true words back,
   915  when you yourself are at fault and cannot see it.
-  916  To begin with, sleep comes about when the force of the spirit
+  916  To begin with, sleep comes about when the force of the spirit[42]
   917  is scattered through the frame, and part, thrown out of doors, has gone,
   918  and part, crowded together, has withdrawn deeper inside;
   919  for only then are the limbs loosened and go slack.
@@ -987,7 +1034,7 @@ TRANSLATOR'S COMMENTARY
   967  commanders to fight and go into battle,
   968  sailors to live through the war they have joined with the winds,
   969  and we to do this work, and seek the nature of things
-  970  always, and set it out, once found, in our native pages. {{NOTE: patriis chartis: Latin, as against the Greek of Epicurus' own writings}}
+  970  always, and set it out, once found, in our native pages[43].
   971  So other pursuits and arts are generally seen
   972  to hold the minds of men in dreams, deluding them.
   973  And whoever have given unbroken attention to the games
@@ -1016,7 +1063,7 @@ TRANSLATOR'S COMMENTARY
   996  images of stags, as though they saw them given over to flight,
   997  until, their errors shaken off, they come back to themselves.
   998  But the fawning offspring of puppies, used to the house,
-  999  hasten to shake off and snatch their body up from the ground, {{NOTE: the source text is disordered here: a line is missing before 999 (Bailey: "to live there, often [shake off] light and fleeting sleep from their eyes"), and 1000-1003 repeat 992-995; translated as printed}}
+  999  hasten to shake off and snatch their body up from the ground,[44]
  1000  still throw out their legs suddenly, and all at once give
  1001  cries, and draw the air back through their nostrils again and again,
  1002  as if they were holding to the tracks of wild beasts they have found,
@@ -1046,7 +1093,7 @@ TRANSLATOR'S COMMENTARY
  1026  Often the cleanly, if beside a pool or a cut-down jar
  1027  they believe, bound fast in sleep, that they are lifting their clothes,
  1028  pour out the filtered liquid of their whole body,
- 1029  and the Babylonian coverlets of great splendor are drenched. {{NOTE: Babylonica: costly embroidered coverlets from the East}}
+ 1029  and the Babylonian coverlets[45] of great splendor are drenched.
  1030  Then to those into whose straits of age seed first
  1031  works its way, when the day itself has made it ripe in their limbs,
  1032  there come images from outside, from any body at all,
@@ -1065,7 +1112,7 @@ TRANSLATOR'S COMMENTARY
  1044  at once the very generative parts of the body.
  1045  The places, provoked, swell with seed, and the will arises
  1046  to cast it out toward that on which the dire lust is bent,
- 1047  and, provoking the places swollen with much seed, it drives on {{NOTE: nearly repeats 4.1034; many editors suspect the line}}
+ 1047  and, provoking the places swollen with much seed, it drives on[46]
  1048  and seeks that body from which the mind is wounded with love;
  1049  for as a rule all men fall toward their wound, and the blood
  1050  spurts out toward that quarter from which we are struck by the blow,
@@ -1076,7 +1123,7 @@ TRANSLATOR'S COMMENTARY
  1055  he strains toward the source of his wound and longs to join with it
  1056  and to cast the moisture drawn from body into body;
  1057  for his dumb desire foretells the pleasure.
- 1058  This is Venus for us; from this comes the name of Love; {{NOTE: Venus here is sexual desire itself, Amor (Love, Cupid) its name}}
+ 1058  This is Venus[47] for us; from this comes the name of Love;
  1059  from this that drop of Venus' sweetness first
  1060  trickled into the heart, and chill care came after;
  1061  for if what you love is absent, still its images are present,
@@ -1089,7 +1136,7 @@ TRANSLATOR'S COMMENTARY
  1068  for the sore quickens and grows chronic by feeding,
  1069  and day by day the madness swells and the misery grows heavier,
  1070  unless you confuse the first wounds with new blows
- 1071  and, wandering, heal them while fresh with wandering Venus, {{NOTE: volgivaga Venus, the Venus who roams the streets: casual or bought love}}
+ 1071  and, wandering, heal them while fresh with wandering Venus[48],
  1072  or can lead the motions of your mind elsewhere.
  1073  Nor does he who avoids love go without the fruit of Venus;
  1074  rather he takes the advantages that come without the penalty.
@@ -1125,7 +1172,7 @@ TRANSLATOR'S COMMENTARY
  1104  as they wander, uncertain, over the whole body.
  1105  Finally, when, limbs entwined, they enjoy the flower
  1106  of youth, when now the body foretells its joys
- 1107  and Venus is on the point of sowing the woman's fields,
+ 1107  and Venus is on the point of sowing the woman's fields[49],
  1108  they greedily press body to body and join the saliva
  1109  of their mouths, and breathe hard, pressing mouths with teeth,
  1110  in vain, since they can rub nothing away from there,
@@ -1143,12 +1190,12 @@ TRANSLATOR'S COMMENTARY
  1122  add that life is passed at the nod of another.
  1123  Duties languish, and reputation, tottering, falls sick.
  1124  Meanwhile wealth slips away and turns into Babylonian
- 1125  perfumes, and lovely Sicyonian shoes laugh on her feet, {{NOTE: shoes from Sicyon, near Corinth, a fashionable luxury}}
+ 1125  perfumes, and lovely Sicyonian shoes[50] laugh on her feet,
  1126  and of course huge emeralds with green light
  1127  are set in gold, and the sea-purple dress is worn out
  1128  constantly and, worked hard, drinks the sweat of Venus.
  1129  And the fathers' well-gotten wealth becomes headbands and turbans,
- 1130  sometimes is turned into a mantle and stuffs from Alinda and Ceos. {{NOTE: Alinda in Caria and the island of Ceos, known for fine fabrics; Ceos for transparent silk}}
+ 1130  sometimes is turned into a mantle and stuffs from Alinda and Ceos.
  1131  With splendid dress and fare, banquets, games,
  1132  cup after cup, perfumes, crowns, garlands are prepared,
  1133  in vain, since from the very fountain of delights
@@ -1178,7 +1225,7 @@ TRANSLATOR'S COMMENTARY
  1157  And men laugh at one another and urge each other to appease
  1158  Venus, since they are afflicted by a shameful love,
  1159  and often, poor wretches, do not look back at their own greatest ills.
- 1160  The black girl is "honey-brown", the dirty and fetid "unadorned", {{NOTE: 4.1160-1169 the lovers' pet names are Greek words in the Latin, a mark of affectation; rendered here in English, in quotation marks}}
+ 1160  The black girl is "honey-brown", the dirty and fetid "unadorned",[51]
  1161  the gray-eyed a "little Pallas", the sinewy and wooden a "gazelle",
  1162  the tiny dwarf "one of the Graces, pure wit throughout",
  1163  the huge and monstrous "a marvel, full of dignity".
@@ -1186,7 +1233,7 @@ TRANSLATOR'S COMMENTARY
  1165  but the blazing, hateful chatterbox becomes "a little torch".
  1166  She becomes "a slender darling" when she cannot live
  1167  for thinness; she is "willowy" when already dead of a cough.
- 1168  But the huge, big-breasted one is Ceres herself, nursing Iacchus; {{NOTE: Iacchus, a divine child linked with Ceres in the Eleusinian mysteries; the text is disputed}}
+ 1168  But the huge, big-breasted one is Ceres herself, nursing Iacchus;
  1169  the snub-nosed a she-Silenus and a satyress, the thick-lipped "a kiss".
  1170  It would be long if I tried to tell the rest of this kind.
  1171  But still, let her be as beautiful in face as you like,
@@ -1204,7 +1251,7 @@ TRANSLATOR'S COMMENTARY
  1183  and he would damn himself there for folly, having given her
  1184  more than it is right to grant to a mortal.
  1185  Nor does this escape our Venuses; all the more do they
- 1186  hide with all their effort these backstage parts of their life {{NOTE: postscaenia, the area behind the stage-building of a theater}}
+ 1186  hide with all their effort these backstage parts[52] of their life
  1187  from those whom they wish to keep and hold bound fast in love,
  1188  in vain, since you can still, with your mind, drag it all
  1189  forth into the light and search out every cause of laughter,
@@ -1230,7 +1277,7 @@ TRANSLATOR'S COMMENTARY
  1208  Therefore again and again, as I say, the pleasure is common.
  1209  And when, in the mingling of seed, the woman by chance
  1210  has overcome the man's force with sudden force and seized it,
- 1211  then children are made like their mothers by the mother's seed,
+ 1211  then children are made like their mothers by the mother's seed[53],
  1212  as like their fathers by the father's. But those you see
  1213  to be of both forms, mixing side by side their parents' faces,
  1214  grow from the father's body and the mother's blood,
@@ -1267,7 +1314,7 @@ TRANSLATOR'S COMMENTARY
  1245  than is right, either does not fly forward with so long a stroke,
  1246  or cannot pierce the places as well, or, once it has pierced,
  1247  the seed mixes only with difficulty with the woman's seed.
- 1248  For the harmonies of Venus are seen to differ greatly. {{NOTE: harmoniae, a Greek word: the fittings or attunements of the couple, as in 3.100-135}}
+ 1248  For the harmonies of Venus[54] are seen to differ greatly.
  1249  And some men fill some women more, and from others
  1250  other women take the burden more and grow heavy.
  1251  And many women were barren before in several marriages
@@ -1306,314 +1353,344 @@ TRANSLATOR'S COMMENTARY
  1284  for what is struck by frequent blows, however lightly,
  1285  is nevertheless overcome in a long space of time and gives way.
  1286  Do you not see, too, that drops of water falling on stones
- 1287  in a long space of time beat their way through the stones?
+ 1287  in a long space of time beat their way through the stones?[55]
 
 ------------------------------------------------------------
 
-Notes (DRAFT)
-
-[DRAFT] (4.1) Pieridum = the Muses, named for Pieria, their old haunt in Macedonia. In the Latin, 4.1-25 repeat 1.926-950 exactly, so by register policy (principle 3) the English here must be Book 1's committed lines word for word. The fresh draft is to be replaced with them before assembly.
-
-[DRAFT] (4.7) religionum ... animum: religio is rendered plainly "religion", as at 1.63, so the "tight knots" are those of religion itself, not of mere superstition. animum is "mind"; the register's contrast between animus ("mind") and anima ("spirit") becomes explicit at 4.46 and 4.121.
-
-[DRAFT] (4.31) simulacra: "images", the Epicurean eidola, thin films shed from the surface of bodies. The Latin also uses imago (4.38), effigiae (4.51) and figurae, which the translation keeps distinct as "image," "effigies," and "shapes".
-
-[DRAFT] (4.32) The transition appears twice: 4.26-32 and 4.33-37 are two "since I have taught" clauses (atoms; the mind) followed by the same main clause, so 4.30-31 = 4.36-37. This is probably an unrevised double draft, which some editors resolve by deleting one set. The translation keeps both in Bailey's order and repeats the English word for word.
-
-[DRAFT] (4.35) ordia prima is a shortened form of primordia, the same technical term. The translation's "first origins" departs from the register's "first-beginnings" (used for primordia at 4.50 and 4.111), and the translator may wish to harmonize it. Primordia is the word a modern reader will hear as "atoms".
-
-[DRAFT] (4.46) Lines 45-53 are suspected of being misplaced or a remnant of the earlier draft. The sense of 4.42-50 is continuous, but 4.51-53 restate the thesis already announced at 4.30-31 and 4.36-37. The translation keeps every line in the source order and does not rearrange.
-
-[DRAFT] (4.46-48) Acherunte: Acheron, a river of the underworld, here standing for the realm of the dead, as at 1.120. The point is Epicurean: dream-visions of the dead are only images, because at death the spirit (animas) and the mind (animi natura) are dissolved together (4.49-50), as argued in Book 3.
-
-[DRAFT] (4.65-66) nam cur illa cadant ... hiscendist nulla potestas: this couplet recurs verbatim at 4.102-103, and the English repeats as well. hiscendist nulla potestas is an idiom for "there is no room to gape (to object)", meaning no one can open their mouth against the argument. The first appearance concerns surface films, the second mirror-images.
-
-[DRAFT] (4.75-80) vela ... magnis intenta theatris: Roman theaters were shaded by coloured awnings stretched on masts (malos) and beams, so the light that passed through them tinted the crowd below. The audience (consessum, patrum matrumque) are the men and women in the seats, and the example shows colour being shed from the surface of a cloth.
-
-[DRAFT] (4.102-103) Verbatim repeat of 4.65-66; see the note there. The English repeats the earlier lines word for word.
-
-[DRAFT] (4.116) corum is the source's misprint for eorum ("of them"), meaning the tiny living creatures. The point is the Epicurean argument from minute animals: if a creature is so small that a third of it cannot be seen, its organs and the first-beginnings composing them must be smaller still.
-
-[DRAFT] (4.125) panaces, habrotonum, centaurea: strong-smelling medicinal plants (all-heal, southernwood, centaury). "The panacea" in the English is the plant, not a general cure-all. absinthia taetra repeats the phrase from the honey-and-wormwood simile at 4.11.
-
-[DRAFT] (4.126) The sentence breaks off at duobus and the source prints a lacuna before 4.127. The missing text presumably supplied the fingers rubbing the plant (perhaps digitis) and the point that its smell is carried by bodies too small to see. The translation prints the lacuna unnumbered and supplies nothing.
-
-[DRAFT] (4.128) nulla vi cassaque sensu: the phrase can mean that the images are "without force" and also "bereft of sense", so that they are harmless and not themselves sentient. The translation takes cassaque sensu as "imperceptible to sense", and the translator may prefer to keep the wording closer to the Latin.
-
-[DRAFT] (4.136) The source prints "aeraaëra", a doubling; the translation reads aëra (the Greek-form accusative of "air"). Gigantum refers to the Giants of myth, earth-born beings who fought the Olympian gods, whose faces the clouds seem to form.
-
-[DRAFT] (4.144) The lacuna follows 144 and 145 resumes mid-argument: the lost lines must have introduced the surface-film account (the "summum quicquid", 145), and "semper enim" gives the reason for a claim now missing. The translation prints [lacuna] unnumbered and supplies nothing. Note also that 143-144 is a program ("Nunc ea… genantur") whose main verb is lost, so the English sentence is deliberately left hanging.
-
-[DRAFT] (4.145) "Summum… de rebus" is the "outermost" film that things continually shed. This is the doctrine of the simulacra (here "images"), thin skins of atoms that keep the shape of their source. Epicurean doctrine holds that seeing occurs when these strike the eye.
-
-[DRAFT] (4.150) The mirror argument explains reflection: the images cannot pass through a dense, smooth surface ("splendida… densaque… levor") and are not torn by it, so they rebound ("redundent", 154). Compare cloth (porous, passes them) and rock or wood (rough, shreds them).
-
-[DRAFT] (4.163) "Ratione" (also 143, 191, 254) is rendered "principle" where it means the manner or mechanism of a process, in keeping with the register's "by what principle." It is not the doctrine "reasoning."
-
-[DRAFT] (4.170) Acherunta ("Acheron"): the underworld river stands for the underworld itself, so the darkness of the storm is imagined as rising from Hades. Lucretius uses mythological imagery even as he denies its reality.
-
-[DRAFT] (4.173) "Formidinis ora," the "faces of Terror," personifies fear as a figure with many faces, as the storm clouds seem to be. Compare the cloud-shapes of 4.136-140. The image echoes the "terror of the mind" that the proem says must be dispelled (1.146-148).
-
-[DRAFT] (4.180) Lines 180-182 recur verbatim at 4.909-911, where they introduce the discussion of sleep. The English repeats them there word for word. The swan and the cranes belong to the Hellenistic tradition of the poet's modest "sweet" verse set against loud verbosity.
-
-[DRAFT] (4.186) "E primis… minutis" renders "primis" as "first bodies" in keeping with the register's corpora prima, although the Latin has only the shorthand "primis." The "minute first bodies" are what make light and heat swift.
-
-[DRAFT] (4.190) "Protelo": a technical term from ox-driving for a team yoked in tandem, each animal pulling the next in line; "stimulatur fulgere fulgur" ("flash goaded by flash") carries the image of one beam driving the next. The translation keeps the sense with "a team in tandem."
-
-[DRAFT] (4.198) "Aeris intervallum": the manuscripts show "aeris," which the Perseus text normalizes as "aëris" in two places (187, 198). The translation reads the same word and gives "interval of air" both times, as a refrain.
-
-[DRAFT] (4.206) "Quone… debere" is a rhetorical argument from the greater to the lesser: if the sun's light, which comes from deep inside, crosses the sky in a moment, images shed from the very surface must be faster. It argues from the faster to the slower.
-
-[DRAFT] (4.211) The reflection of the stars in water is offered as proof ("specimen verum", 209) of the images' speed, since the stars appear in the water the instant it is set out. "Mundi" in 213 is rendered "of the world," so "stars of the world" means the stars of the whole cosmos.
-
-[DRAFT] (4.220) "Exesor moerorum" ("eater of walls") describes the sea's spray as eroding walls along the shore, which shows that even such salty effluences are bodies leaving the sea. Lucretius uses it to argue that every kind of sensation depends on material streams.
-
-[DRAFT] (4.224) "Absinthia" is wormwood, the bitter herb. Lucretius uses it again at 1.936-950, the famous honey-on-the-cup simile that returns at 4.11-25; the bitter taste here is a sensory example of effluence.
-
-[DRAFT] (4.229) "Sentire sonare": "sense them sounding." Hearing, smell and sight are all treated as the reception of material streams, as the preceding examples have argued. The verse states compressed Epicurean doctrine that all perception is contact with bodies.
-
-[DRAFT] (4.236) "Species" here is rendered "sight" in "fall upon our sight." The register gives "species" as "face, appearance, likeness"; the context of vision decides. The square shape felt in the dark is supposed to be known in the light only through its image.
-
-[DRAFT] (4.246) The air between object and eye is pushed along ahead of the image and "sweeps the pupils," so that distance is judged by the quantity of air driven before it. This is the Epicurean account of depth perception.
-
-[DRAFT] (4.269) The Latin has *imago* ("image") where the register fixes *simulacra* as "images" too; the translation lets both stand as "image(s)" here, so the reader should know that *imago* is the single reflected likeness (the mirror-picture) and *simulacra* the films that travel through air, which the passage treats as one stuff. Lucretius slides between them freely in this section (cf. 4.279 *imago*, 4.303 *simulacra*).
-
-[DRAFT] (4.274) The "double, twin air" (*duplici geminoque… aere*) is the doctrine of the passage: seeing through an open door involves air on this side of the doorposts and air beyond, and the mirror image is likewise seen across two stretches of air, the one between us and the mirror and the one the image drives ahead of itself after reflection (cf. 4.291 *aeribus binis*). That is why the image appears set back behind the glass.
-
-[DRAFT] (4.289) The source marks a lost line after 4.289; the sentence "it is right to wonder not at all" breaks off before its object, evidently "at the things seen in mirrors" or similar, which 4.290 resumes with *illis*. The translation prints the unnumbered [lacuna] and supplies nothing.
-
-[DRAFT] (4.292) Here begins the explanation of lateral reversal: the image is not turned round intact but dashed back and pressed out in reverse, like a wet clay mask thrown against a beam (*cretea persona*, 4.297). The comparison is Lucretius's own and is physical rather than optical, since the image is a thin film that can be flattened and printed.
-
-[DRAFT] (4.303) *Simulacra* is rendered "images" per the register (first fixed 1.123); these are the thin films of Epicurean theory, shed from the surfaces of things, not "idols" or mere pictures. The five or six images in a row (*quinque etiam aut sex*) are the reader's mirror-hall of repeated reflections.
-
-[DRAFT] (4.322) *natura* is "nature" here, the agent that compels the rebound (*cogit natura referri*), so the angle of return is given as a law of nature's working. A modern reader may hear the law of reflection; that is the reader's association, not a claim of the poet's, who states only that images rebound at equal bends (*ad aequos… flexus*).
-
-[DRAFT] (4.330) *semina ignis* ("seeds of fire") is the register's *semina rerum* applied to a particular stuff: bright light is made of fire-seeds which enter the eyes and cause pain. The passage treats colour and brightness as a matter of what actual bodies stream into the eye, a mechanism the verse states very briefly.
-
-[DRAFT] (4.333) *arquati* are those with jaundice, called the "rainbow disease" (*arquatus morbus*, from *arcus*) for its colour. The Epicurean explanation is that seeds of the yellow-green sallowness (*luroris… semina*) stream from the sufferer's body and meet and tint the images coming to the eye, so that everything looks sallow. The translation renders the effect, "turn sallow", rather than the disease name.
-
-[DRAFT] (4.337) Lucretius explains why we see into the light from darkness but not the reverse by the order in which two airs enter the pores of the eye: the thick, black air of gloom is driven out by the finer, swifter bright air that follows. The explanation depends on the doctrine of the passages (*vias*) in the eye, open or blocked by atoms of differing size and mobility.
-
-[DRAFT] (4.361) *ad turnum* ("on a lathe") is a woodworker's image: the blunted angles of far towers look as if the stone structures had been turned round on a lathe. The verse is the poem's standard case of the senses reporting faithfully what reaches them (cf. 4.353–363), so the error is in the judgment, not the eye.
-
-[DRAFT] (4.364) The shadow is explained as nothing but air deprived of light (*aer… lumine cassus*), and its apparent following of us as the ground being darkened and relit in succession. This is a case of what the Epicurean sense-doctrine takes as no illusion at all, but a real series of different patches of ground; the "shadow" does not follow us as one thing.
-
-[DRAFT] (4.376) *quasi in ignem lana trahatur* ("as if wool were drawn into fire"): the simile of the instant destruction of light's first rays, which perish as wool is consumed on touching fire. The image supports the claim that new light constantly pours out and the old is annihilated, so the ground is stripped and refilled with ease.
-
-[DRAFT] (4.379) The argument here is that the eyes report only light and shadow (lux atque umbra); judging whether a shadow is the same one moved, or a new one produced, belongs to the mind (animi ratio). This is the doctrine of the whole passage: error lies in the mind's added judgment, not in the sense. The refrain is Epicurean, "all sense-impressions are true."
-
-[DRAFT] (4.384) "Reasoning of the mind" renders animi ratio, the mind's inferential faculty as opposed to the eyes. The register keeps "mind" for animus. A reader may know the term as "soul" or "rational soul," which the register forbids for anima and animus.
-
-[DRAFT] (4.387) The ship illustration of relative motion is a commonplace of Greek sceptical and Epicurean argument; Lucretius uses it to show that the eyes accurately report the relative displacement and the mind misassigns which body moves. The stars (4.391) are the same case at large scale.
-
-[DRAFT] (4.391) "Vaults of the ether" renders aetheriis cavernis, the sky imagined as a hollow dome to which the stars are fixed, which is the appearance being explained away here, not Lucretius's own cosmology. Epicurean doctrine left the nature of the heavenly bodies open to several explanations.
-
-[DRAFT] (4.404) "Nature" (natura) is the subject of the dawn, which Lucretius personifies lightly; the English keeps the agent. The sun appears to touch the mountains, while the real distance includes seas and many lands (4.410-413), a stock of measurable absurdities used to show that apparent nearness is a failure of judgment, not of sight.
-
-[DRAFT] (4.408) The distances are armaments metrics: "bowshots" (sagittae) and "casts of a javelin" (veruti), a rough Roman measure of range. The figures are deliberately absurdly small against the real distance.
-
-[DRAFT] (4.414) The puddle between paving stones in a street (per strata viarum) is a Roman urban detail; the reflection offers a view of the sky "beneath the earth," a deliberate paradox of depth from a finger's depth of water.
-
-[DRAFT] (4.426) The colonnade (porticus) whose parallel sides seem to converge into a cone is the classical argument from perspective, used in the Epicurean tradition. Lucretius adds the parallel flat-ceiling and floor detail (tecta solo iungens) to make the convergence vivid.
-
-[DRAFT] (4.432) The sailors' sunset and the landsmen's broken oars (4.436) are paired: the first shows why the sailors' error is excusable, since they see only water and sky, and the sentence at 4.435 says that the senses are not therefore to be thought shaken in general (ne leviter credas labefactari undique sensus). The oar refraction at 4.438 is the standard case of an object appearing bent in water.
-
-[DRAFT] (4.446) The stars seem to glide against moving clouds, but the clouds are what move; "true reasoning" renders vera ratione, again assigning the correction to the mind's reasoning, not to the eyes. The line lacks final punctuation in the Latin text followed.
-
-[DRAFT] (4.447) The pressed eye gives double vision. Lucretius says it comes about "by a certain feeling" (quodam sensu), using the doubling as another case where the sense reports faithfully what the disturbed organ gives, and the error lies in the judgment.
-
-[DRAFT] (4.453) The dream passage fits the doctrine of simulacra, the images that strike the mind in sleep, treated in full later in this book. Here it serves only as another case of apparent perception without a present object, and the mind adds belief (4.462-468).
-
-[DRAFT] (4.469) The attack on the sceptic: one who says nothing can be known cannot know even that. The sceptical position is attributed to no named school, though a Roman reader would think of the Academy. "With his head where his footprints should be" (capite ipse suo in statuit vestigia) is a figure of absurd inversion, standing on one's head.
-
-[DRAFT] (4.478) Lucretius gives the Epicurean account of the "criteria of truth": the notion of the true (notitiem veri) arises from the senses first, and reasoning (ratio) derives wholly from them, so if the senses were false all reasoning would be. This is the compressed core of the Epicurean canon.
-
-[DRAFT] (4.491) Text uncertain: the transmitted videre ("to see") for the perception of soft, cold, and hot does not suit the argument, since those belong to touch and the sentence is about each sense having its own province. Editors emend or transpose; the translation follows the sense (perceived apart) without fixing a particular emendation.
-
-[DRAFT] (4.499) The conclusion is a verse summary of the Epicurean position that every impression, at the time it occurs, is true (quod in quoquest his visum tempore, verumst), with each sense judged only within its own province and none able to correct another.
-
-[DRAFT] (4.500-510) Lucretius answers the objection from the stick-in-water and tower illusions (Epicurean doctrine of 4.379ff.): if reasoning cannot explain why a square tower looks round at a distance, one must still not abandon the senses, since all inference rests on them (fidem primam, "first trust"). The "faulty causes" (mendose causas) are an acceptable fallback because they leave the evidence of sense intact.
-
-[DRAFT] (4.513-521) The builder's rule, square and level (regula, norma, libella) is the analogy for the senses as the criterion of truth: a single false first measurement ruins the whole structure. Lucretius uses it again in the same spirit at 4.469-477; this is the Epicurean claim that if one sense is discredited, all reasoning built on it falls.
-
-[DRAFT] (4.524-534) Voice is a body because it can strike the ear and scrape the throat; this is the Epicurean doctrine that anything able to act or be acted upon is corporeal (cf. 1.304ff., 1.443ff.). Here the "first-beginnings of voices" (primordia vocum, 4.531) are the same technical term as elsewhere. The placeholder at 534: Lucretius uses principia ("beginnings", 4.534, 4.543) and primordia (4.531, 4.544) interchangeably, and the English renders principia as "beginnings" to keep the Latin's two words distinct while not treating them as different things; this follows the register's rule that distinct Latin gets distinct English, with the merge acknowledged here.
-
-[DRAFT] (4.545-546) The source prints barbita, "lyre", but a lyre (barbitos) does not "boom a hoarse drone" in the register Lucretius is contrasting with the trumpet; most editors emend to barbara, the "barbarous" (Phrygian, i.e. foreign) horn, and the translation follows that reading. The sense required is a contrast of low, rough sounds with the high, smooth song of the birds that follows.
-
-[DRAFT] (4.547) "Daulian birds" (Dauliades... natae) are nightingales, after the myth in which Procne, daughter of the king of Daulis, was turned into a nightingale after avenging herself on Tereus; "gardens of Helicon" places them in the Muses' mountain. The line is textually disputed, and Bailey's reading has swans "from the torrents of Helicon"; the translation keeps the manuscript tradition's nightingales.
-
-[DRAFT] (4.551) "Artificer" renders daedala (as at 1.7, daedala tellus), applied here to the tongue. The translator's note that most texts read verborum for nervorum cannot be confirmed from the printed Latin; the line as given has nervorum ("artificer with its sinews"), and the translation follows the source; the reading verborum would make it "artificer of words".
-
-[DRAFT] (4.563-567) The crier (praeco) is the Roman public herald, who announced sales, proclamations and lost property to crowds. Lucretius's point is the divisibility of one voice among many ears without loss to each: each ear receives the whole word, because the voice "stamps" (obsignans) its form on each.
-
-[DRAFT] (4.570-579) Echo is explained as voice thrown back from solid places (solidis... locis); the passage is a stock example of Epicurean explanation of marvels by mechanism. The claim that six or seven echoes were heard is Lucretius's own report (vidi, "I have seen").
-
-[DRAFT] (4.580-594) Satyrs, Nymphs, Fauns and Pan are the rustic divinities and spirits of the Roman countryside, to whom the neighbors (finitimi) attribute echoes and night noises. Lucretius treats these as inventions, either to fill the lonely places with gods or from a love of telling and hearing tales (avidum auricularum); the Epicurean view is that the gods do not meddle in the world. Pan's reed pipe (fistula, calamos) is the syrinx of the myth.
-
-[DRAFT] (4.599-602) Voices pass through winding openings (flexa foramina) while images (simulacra, the thin films of Epicurean vision, first introduced at 4.30ff.) must travel straight or are torn apart (perscinduntur). Glass (vitrei) is the example of a straight-pored body through which images pass, which is why we see through it.
-
-[DRAFT] (4.605-606) The simile of the spark scattering into many fires (scintilla... in ignis) explains how one voice multiplies; the reader may hear a chain-reaction image, but that is an association and not the poet's claim.
-
-[DRAFT] (4.615) Lucretius opens on taste: the mouth is treated as a place where "first-beginnings" of smooth or rough shape act on the sense, and the argument runs entirely on shape (levia/aspera). "Flavor" translates sucus, the juice pressed from food, not the sensation itself.
-
-[DRAFT] (4.618) The sponge image (ceu plenam spongiam) shows how chewing wrings flavor out of food, as water is wrung from a sponge. It is the poet's only picture of the mechanism, and it carries the whole account of how taste reaches the palate.
-
-[DRAFT] (4.638) The snake that dies of human spittle (serpens, hominis quae tacta salivis) is a piece of ancient natural lore, also found in Pliny. Lucretius uses it as the extreme case of one substance being food to one creature and poison to another.
-
-[DRAFT] (4.640) Hellebore (veratrum) was a drug and poison for humans, yet goats and quails were said to eat it and fatten. Like the snake, it is an ancient commonplace used to prove that a substance's effect depends on the eater's make-up.
-
-[DRAFT] (4.644) "Seeds" renders semina, the register's fixed rendering of Lucretius's word for the first bodies as they exist mixed in compound things. "That we said before" refers to the doctrine of mixed seeds in Book 2, where the same point is made for the variety of things.
-
-[DRAFT] (4.650) "Pores" renders foramina, with the gloss quae perhibemus ("which we call"). This marks it as a term Lucretius is adopting for the passages in the body that match the shapes of the seeds, and the argument that follows depends on that matching.
-
-[DRAFT] (4.653) The shapes listed here (triquetra, quadrata, rutunda, multangula) give the pores their geometry. They are Lucretius's own shorthand for the variety of atomic shapes argued in Book 2, applied now to the passages in living bodies.
-
-[DRAFT] (4.662) "Rough and hooked bodies" (aspera … hamataque) are the shapes Lucretius assigns to what tastes bitter. The same smooth and hooked contrast carries his account of sweet and bitter in Book 2, so the reader should take it as a standing doctrine, not a new one.
-
-[DRAFT] (4.667) "First-beginnings" renders principiorum, in the plural and without prima or rerum. It is the register's primordia cluster, here used in the sense of the atoms whose arrangement (positurae) changes in fever, so that the same honey tastes bitter to the sick.
-
-[DRAFT] (4.671) "Honey" is Lucretius's standard example of a thing that is a mixture of smooth and rough bodies. The phrase "a thing we have often shown you above already" points back to the earlier passages on mixed seeds, including the honey-and-bitter-wormwood image in Book 1.
-
-[DRAFT] (4.683) The sacred geese of Juno on the Capitol woke the defenders when the Gauls attempted a night attack on the citadel (traditionally 390 BC; Livy 5.47). Lucretius calls the goose the "savior of the citadel" (arcis servator), which gives the notice of a human smell an unexpected patriotic dignity.
-
-[DRAFT] (4.693) Odor is said to be "torn apart" (distractus) into the air because its first-beginnings are larger and more loosely held than those of voice or light. That is why it travels slowly and weakly; the later argument about walls of stone (4.699) rests on the same size difference.
-
-[DRAFT] (4.713) The belief that lions fear the cock is widespread in ancient writers (compare Pliny, Natural History 8.52 and 10.47). Lucretius takes it as a fact needing explanation, and his answer is that seeds from the cock's body strike the lion's eyes painfully, while in human eyes they either fail to enter or pass straight through.
-
-[DRAFT] (4.724) "Images" renders simulacra, the register's fixed term for the thin films that stream off things. The reader may know them as "idols" or "eidola"; the poem uses the same word for what strikes the eye and, here, for the finer ones that act on the mind.
-
-[DRAFT] (4.727) The spider's web and gold leaf (aranea bratteaque auri) are the comparisons for how thin the images are. They join in the air easily, which the later Centaur argument needs.
-
-[DRAFT] (4.731) "Mind" renders animi naturam, and the passage turns on the claim that the mind's substance is so fine that images too thin for the eye still move it. The reader who knows Book 3 will recall that animus is made of the smallest and roundest atoms.
-
-[DRAFT] (4.732) Centaurs, Scyllas and Cerberus are the stock monsters of myth. Lucretius uses them to show that dream and imagination can present things that never existed, and his explanation is that images of real things combine in the air.
-
-[DRAFT] (4.734) This line repeats 1.135 verbatim in the Latin, where it names the images of the dead that haunt Ennius's account. The English repeats its own line from there, word for word; the first occurrence also introduces Ennius's vision of Homer, which the reader may wish to recall.
-
-[DRAFT] (4.739) The Centaur has no living original (nulla fuit … natura animata), so its image cannot have come off a real body. It arises when the images of horse and man meet by chance and cling together, "as we said before," so the monster is a composite assembled in the air and not an emanation from any one thing.
-
-[DRAFT] (4.742) "As we said before" (quod diximus ante) refers back to the account of how images join in the air in Book 4's earlier part. The same appeal to prior argument recurs at 4.746 (ut prius ostendi).
-
-[DRAFT] (4.758) "Mind" appears here as mens animi, a compound in which Lucretius joins the two words. The register keeps mens and animus apart, but here mens animi is rendered "the thought of the mind," following the policy that mens is non-technical outside the Book 3 contrast.
-
-[DRAFT] (4.761) The sleeper "sees" a dead person because images of him still circulate, and the senses are inactive to refute the vision (4.762-767). The idea that the dead appear in dreams is an old one, and Lucretius uses it to give a natural cause for the belief in ghosts.
-
-[DRAFT] (4.768) "For the rest" renders quod super est, the register's transitional formula, and here it opens the explanation of why dream-images seem to move and dance. The explanation is that a rapid succession of slightly different images produces the appearance of movement.
-
-[DRAFT] (4.776) The explanation of movement by rapid replacement of images (tanta est mobilitas) may remind a modern reader of a film's succession of still frames. That is the reader's association, not the poet's claim.
-
-[DRAFT] (4.777-778) Lucretius opens a new run of problems about vision and thought with a stock formula of promise ("multa... quaeruntur"). The questions that follow are Epicurean: how the mind thinks of exactly what it wants, how dream-images can dance in order, and why the mind sees only what it attends to. All are answered from the doctrine of simulacra, called "images" here as elsewhere in the register.
-
-[DRAFT] (4.781) "Simulacra" is rendered "images", the film-like effluences from objects that Book 4 makes the cause of all sight and of thought. The question asks whether the images stand ready, as guards ("tuentur"), to meet each wish. The poem soon answers that thought is an act of attention, not of command.
-
-[DRAFT] (4.785) "Omnia sub verbone creat natura": "verbone" is the transmitted form, an old by-form of "verbo", and the translation reads it as "at a word". The phrase pictures nature as an obedient servant, which Lucretius means to be absurd.
-
-[DRAFT] (4.788-793) Dreams of dancing figures ("in numerum procedere", "ludos") are taken from the passage Lucretius gave in 4.768-776. The "docta" (taught) images are mocked as having been trained like dancers, and the passage then gives the real answer, which is the speed of the images.
-
-[DRAFT] (4.794-799) The doctrine compressed here is that perceived time is made of many unperceived moments ("tempora multa latent, ratio quae comperit esse"). In each of these a fresh image can arrive, so the mind seems to be served at once. "Ratio" here is the reasoning that finds what the senses cannot, as in the register.
-
-[DRAFT] (4.799) Repeats 4.774 verbatim: "tanta est mobilitas et rerum copia tanta". Here "rerum" means the images (the "store of things"), not things in general.
-
-[DRAFT] (4.800-801) These lines repeat 4.771-772 nearly word for word. Their sense fits the dream-dance, where a succession of slightly different images looks like one figure changing its posture ("gestum mutasse"), and the translation matches the earlier lines. The repetition is Lucretius's own and is probably an intrusion from 4.771-772 here.
-
-[DRAFT] (4.802-806) The mind (animus) sees only what it has prepared itself for ("quae ex sese ipse paravit"). The images are too fine to be seen unless the mind strains toward them ("contendit"). This attention is Lucretius's account of why thought follows desire without any image being summoned.
-
-[DRAFT] (4.808) This line repeats 4.804 ("praeterea pereunt, nisi quae ex se ipse paravit") and interrupts the sentence about the eyes, which breaks off with no main verb. Editors generally treat it as an intrusion from 4.804, or at least as damaged, and the translation keeps the line as transmitted so that the break remains visible.
-
-[DRAFT] (4.823) The text is corrupt in "vehementer ainesse inesse" (the transmitted "inesse" does not parse as it stands). The usual emendation, from "ainesse" read as "ainesseäinesse", gives "I strongly want you to flee this fault", which the translation follows.
-
-[DRAFT] (4.823-842) This is the famous argument against teleology: eyes were not made for seeing nor legs for walking, since each organ existed before its use and use arose from it ("quod natumst id procreat usum", 4.835). A modern reader may associate it with later anti-purposive accounts of living things, but that is the reader's association, not the poet's claim.
-
-[DRAFT] (4.832-833) "Perversa praepostera... ratione" is a tight phrase: the reasoning is "backward" (literally "put last what is first") and "turned upside down". The translation gives both words their force and keeps the Latin's rhetorical blame.
-
-[DRAFT] (4.843-850) The examples (fighting and wounds, rest and beds, thirst and cups) are meant to show that the need and the behavior precede the invention. "Nature compelled" ("natura coegit") marks the instinct, as against art ("per artem") in the shield.
-
-[DRAFT] (4.853-857) Lucretius divides things into those devised from use ("ex usu... reperta") and those that gave us the notion of use after they had been born. The senses and limbs are of the second kind, so he rejects the explanation "utilitatis ob officium". The same argument closes with a refrain-like "etiam atque etiam", which marks his insistence.
-
-[DRAFT] (4.858-876) Hunger and thirst are explained by the doctrine of effluences: bodies ("corpora") stream from creatures, and food replaces them. Lucretius refers back to this ("docui", 4.860) without a book citation; it is the doctrine that things constantly flow off and are replaced, taught in the earlier books.
-
-[DRAFT] (4.877-880) This announces the account of voluntary movement, which Lucretius has promised ("dicam"). The address "tu percipe dicta" turns again to Memmius, who is addressed as "you" throughout.
-
-[DRAFT] (4.881-891) The chain is: an image of walking strikes the mind (animus), the mind strikes the spirit (anima) spread through the body, and the spirit moves the body. The register keeps "mind" for animus and "spirit" for anima, and the distinction matters here, since the two are joined ("coniuncta") in a single causal chain.
-
-[DRAFT] (4.892-897) Air entering the loosened body is the second cause, so the body moves under two forces, like a ship driven by sails and wind ("velis ventoque"). The simile is Lucretius's own, with the two forces matching sail and wind.
-
-[DRAFT] (4.898-906) The final comparisons answer the worry that tiny bodies (corpuscula) cannot move a great one. Wind, a single rudder, and a machine with pulleys and treadwheels ("trocleas et tympana") all show a small force moving a large weight. "Tympana" are treadwheels or drums in the Roman lifting machine, a crane worked by men walking inside a wheel.
-
-[DRAFT] (4.907) Opening of the sleep section. The swan and crane comparison (parvus ut est cycni melior canor, ille gruum quam clamor) is a recycled proem-style apology for brevity: Lucretius promises few sweet verses rather than many. The same swan/crane contrast appears at 3.6-7 (hirundo and cycni, equine and kids), and the poet's self-presentation as a swan recurs there.
-
-[DRAFT] (4.912) The address to Memmius resumes (tu mihi da tenuis auris animumque sagacem). "Fine ears" is the register's rendering of tenuis auris, meaning delicate, discriminating hearing. The plea anticipates that the reader will reject the account as impossible (ne fieri negites), a worry Lucretius voices elsewhere when a doctrine seems incredible.
-
-[DRAFT] (4.916) "Spirit" (vis animae) is the register's fixed rendering of anima, the vital principle spread through the body, in contrast to animus, the mind, seated in the breast. On the Epicurean account sleep is a partial displacement of the anima: some is expelled and some is pushed deep inside, while enough stays to keep the body alive (4.920-928, with the buried-fire image, cinere obrutus ignis).
-
-[DRAFT] (4.943) "First-beginnings" (principiorum) is the register's term for the atoms, here called by the alternative name that the register fixes as primordia, and this is the first time the segment uses it. It is paired with the "first parts and first elements" at 4.941 (primas partis elementaque prima), so the blows of the air are said to reach down to the atomic level of both body and mind.
-
-[DRAFT] (4.970) Patriis chartis means "the pages of our native tongue," i.e. Latin, as against the Greek in which Epicurus wrote. The line is a rare moment in which Lucretius shows himself in his own dream-life, and it matches his complaint about the poverty of Latin (patrii sermonis egestas, 1.832, 3.260).
-
-[DRAFT] (4.999) The text is disordered here. In the printed order, the puppies at 998-999 are followed by a repetition of 992-995 at 1000-1003, and 1004 ends with the dogs looking at "unfamiliar faces." Editors take 1000-1003 as a displaced duplicate of 992-995, and 999 as the broken end of a lost line about the puppies; the translation follows the printed order and does not repair it.
-
-[DRAFT] (4.1029) Babylonica refers to costly embroidered Babylonian coverlets, a stock luxury item in Roman writing. The detail makes the dreamer's bed-wetting incongruous: he dreams of relieving himself at a pool or beside jars (dolia curta), and drenches expensive bedding.
-
-[DRAFT] (4.1030) Here the argument turns from general dreams to adolescent wet dreams, which Lucretius explains by the doctrine of simulacra, rendered in the register as "images" (simulacra, 4.1032). The images of a beautiful face and coloring reach the seed-swollen parts of a youth at puberty, and in sleep act as if the act itself had happened (transactis omnibus rebus). This passage opens the longer treatment of love and desire that follows in the rest of Book 4.
-
-[DRAFT] (4.1037) The "seed of which we spoke before" refers to the account of the generation of seed in the body at the opening of this section (the transition from the boy's first stirrings, 4.1030ff.). Here Lucretius begins the physiology of desire proper: seed ripens with age, is stirred by the sight of the beloved's simulacra, and is drawn toward its source of excitation.
-
-[DRAFT] (4.1047) The line closely echoes 4.1034 (incitat inritans loca turgida semine multo); here it follows 4.1045-1046 awkwardly, repeating "swollen with seed" and introducing a second verb of driving on where the sentence has already reached its goal. Some editors bracket or transpose it; the translation keeps it in the source order and simply renders it, so the repetition shows.
-
-[DRAFT] (4.1049) The comparison with a wound (vulnus) develops the image of 4.1048 (saucia amore): as blood spurts toward the injury and toward the striker, so the seed rushes toward the person who struck with the "weapons of Venus" (Veneris telis). The ictus language belongs to the Roman poetic tradition of love as a wound or dart, which Lucretius takes in a literal physiological sense.
-
-[DRAFT] (4.1058) Venus here is the sexual drive itself, and "Love" (Amor) is its name, derived (hinc) from the physiology just described: in the Epicurean reading the gods Venus and Cupid are not persons but names for a bodily process. The drop (gutta) of Venus' sweetness is the first stirring, and "chill care" (frigida cura) follows, the sorrow the poet goes on to describe.
-
-[DRAFT] (4.1061) Simulacra (images) are the Epicurean films of atoms shed from the surface of things and carried through the air to the eyes and mind. The beloved's image is thus present to the lover even when the beloved is absent, and the same name-word that keeps hovering about the ears (nomen dulce obversatur) keeps desire alive. This explains why Lucretius advises fleeing them (fugitare decet simulacra).
-
-[DRAFT] (4.1071) The "wandering Venus" (volgivaga Venus) is the Venus of the street, casual or bought love; the doubled "wandering" (volgivaga ... vagus) is deliberate, and the translation keeps it. The advice is therapeutic rather than moralizing: discharge the seed into any body, so that it does not fix on one (4.1065-1066).
-
-[DRAFT] (4.1073) Lucretius's argument that the man who avoids love loses nothing of Venus' fruit rests on Epicurus's distinction between pleasure and the pain that often accompanies it; the "pure" pleasure (purast ... voluptas) is that of the sane man, who takes the advantages without the penalty (sine poena). This is Epicurean hedonism applied to sex, not an ascetic rejection of it.
-
-[DRAFT] (4.1088) The sense is that nature "fights back" (repugnat): love alone intensifies with satisfaction, unlike hunger and thirst, which are filled because food and drink enter the body and occupy fixed parts (certas ... partis, 4.1092). The doctrine behind it is that the image-films of the beloved never become the stuff of the body, so they can feed no real need and only inflame it.
-
-[DRAFT] (4.1097) The simile of the thirsty dreamer who drinks in his sleep and still thirsts (bibere in somnis sitiens) is a standard figure for frustrated desire, and here it makes the point that in love one chases only simulacra (laticum simulacra). The translation renders the paradox of thirsting in the middle of a river (in medioque ... torrenti flumine) literally.
-
-[DRAFT] (4.1107) The "woman's fields" (muliebria ... arva) belong to the old agricultural metaphor of marriage and procreation as sowing and ploughing, found throughout Latin and Greek poetry; conserat is the verb of sowing. The translation keeps the image and does not explain it away.
-
-[DRAFT] (4.1124) Babylonian perfumes (Babylonia ... unguenta), Sicyonian shoes (Sicyonia), emeralds, Alindan and Cean fabrics: the list catalogues the luxury goods of the Roman demimonde, and each geographical adjective stands for a specific fashionable import. The shoes "laugh" (rident) in the sense of gleam, and are on her feet, not his, so the spender is bankrupting himself on a mistress's finery.
-
-[DRAFT] (4.1129) The fathers' "well-gotten wealth" (bene parta patrum) is the family patrimony squandered; the anademata (Greek headbands) and mitrae (turbans) are named in Greek or Greek-derived words because they are the foreign luxuries of a courtesan, whose finery Lucretius mocks. The translation gives them in English.
-
-[DRAFT] (4.1141) "Love that is true and at its most prosperous" (in amore ... proprio summeque secundo) renders the Latin literally: even in happy love the bitterness rises from the "fountain of delights" (4.1133), and unhappy love (in adverso atque inopi) is worse. The point is that the evils are inseparable from the passion, not accidents of failure.
-
-[DRAFT] (4.1145) "By the principle I have taught" (qua docui ratione) points back to the earlier advice to fly the images and turn the mind elsewhere (4.1063-1072) and, more broadly, to the whole reasoning of the book. This is the register's "ratio" used instrumentally.
-
-[DRAFT] (4.1148) The "nets" and "knots" (retibus ... nodos) belong to the hunting and fishing imagery of love as a snare, which runs from Greek epigram through Roman elegy. The translation keeps the physical image and does not tone it down.
-
-[DRAFT] (4.1160) The catalogue of pet names that follows (4.1160-1169) is a famous passage, imitated by Ovid (Ars Amatoria 2.657-662) and Molière. In the Latin, many of the euphemisms are Greek words transliterated (melichrus, acosmos, Palladium, dorcas, chariton mia, cataplexis, traulizi, ischnon eromenion, rhadine, philema), a mark of the lovers' affectation; the translation puts them into English and in quotation marks. The text here is also disputed in places, and some lines show corruption.
-
-[DRAFT] (4.1168) "Ceres herself, nursing Iacchus" (Ceres ... ab Iaccho): Iacchus is the child-god of the Eleusinian mysteries, associated with Demeter (Ceres) and Dionysus; here a big-breasted woman is called Ceres for her fullness. The reading ab Iaccho is uncertain, and the translation follows the source text as given; the line is a comic compression of the epithet.
-
-[DRAFT] (4.1169) The "she-Silenus" and "satyress" (Silena ac Satura) are female versions of Silenus and satyrs, the snub-nosed, thick-lipped followers of Dionysus, so the flattering names for a snub-nosed woman are a joke at her expense. "Kiss" (philema) is Greek for a kiss.
-
-[DRAFT] (4.1186) The "backstage parts" (postscaenia) are the area behind the stage of a Roman theater, here a figure for the unglamorous routines (perfume, hygiene, etc.) that women hide from the men they want to keep. The translation renders the theatrical word literally.
-
-[DRAFT] (4.1191) The closing "make allowance for human things" (humanis concedere rebus) is a mild and tolerant note after the satire: the poet recommends that a woman of good heart be forgiven her imperfections, in return, so that love becomes a livable arrangement rather than a madness. This line ends the section on love and passes to the end of Book 4.
-
-[DRAFT] (4.1192) Lucretius is arguing against the idea that female pleasure is always feigned. The woman who "seeks joys in common" (communia quaerens gaudia) anticipates the point he states outright at 1208, that pleasure in love is shared. The passage returns to the question of mutual pleasure that began at 4.1192.
-
-[DRAFT] (4.1199) The doctrine is that animals mount and submit only because each feels desire of its own (ipsa... ardet abundans natura), so mutual pleasure is the cause of mating. "Venus" here stands for the act of mating itself, not the goddess, and the translation keeps the name as Lucretius uses it.
-
-[DRAFT] (4.1203) The dogs caught at the crossroads (in triviis) are an observed, rather crude, proof of mutual pleasure. Lucretius reads their refusal to pull free as evidence that they "know" shared joys (mutua gaudia nossent). The crossroads are where dogs gather, and Trivia (Diana, goddess of crossroads) is named elsewhere in the poem (1.84).
-
-[DRAFT] (4.1209) Here begins Lucretius's account of heredity. In his view both parents contribute seed (semen), and the child resembles whichever seed prevails, or both when neither does. The seed of the mother is a real contributor to the child, which was a contested position, since Aristotle gave the female only matter, not seed.
-
-[DRAFT] (4.1220) Resemblance to grandparents and great-grandparents is explained by first-beginnings (primordia) hidden in the parents' bodies and handed down along the line (a stirpe). This is the first occurrence in this segment of the register term primordia, "first-beginnings", the Epicurean atoms. A modern reader may hear an anticipation of recessive inheritance. That is the reader's association, not the poet's claim.
-
-[DRAFT] (4.1233) Lucretius turns on the belief that the gods can withhold fertility, and he denies it. The sacrifices and prayers at altars (aras, altaria) and the consultation of oracles (sortis) are useless, since the causes of barrenness are physical. This is the argument of the proem again: religio, here the practice of appeasing gods, is shown to be pointless.
-
-[DRAFT] (4.1240) Barrenness is explained by the consistency of the seed, too thick (crasso) or too thin (liquido). The thin seed cannot adhere and is expelled in miscarriage (abortu), and the thick seed cannot travel far or mix with the woman's seed. Each is a mechanical failure of the seed's "stroke" and fit, with no divine agency involved.
-
-[DRAFT] (4.1248) Harmoniae is Greek (ἁρμονίαι), the fittings or attunements of two bodies. Here it names the compatibility of the pair, whose seeds either fit or do not, and the translator's cross-reference to 3.100-135 concerns Lucretius's rejection of the "harmony" theory of the soul. The word is used there in a different sense, so the cross-reference is better checked than assumed. The translation could keep "harmonies" and note that the Latin uses the Greek word.
-
-[DRAFT] (4.1268) The advice not to move wantonly (molles motus) is aimed at wives, and the harlots (scorta) at 1274 are the contrast, who move to avoid conception. The furrow and ploughshare image (sulcum... vomeris) is a standing figure for intercourse and sowing in Latin, and in the poem the sowing metaphor is used also at 4.1233, satum.
-
-[DRAFT] (4.1278) Lucretius denies that love for a plain woman is caused by divine intervention (divinitus), including the "arrows of Venus", that is, the darts a god or Cupid would shoot. He gives instead her good manners and care of herself, and then habit (consuetudo). The translation renders muliercula as "a little woman" to keep the diminutive, which is mildly dismissive.
-
-[DRAFT] (4.1286) The dripping water that wears through stone (guttas... pertundere saxa) is a favorite image of Lucretius and recurs at 1.313, where it is applied to the wearing away of a stone by water. The comparison here is of habit slowly overcoming resistance in love.
+Notes
+
+[1] (4.1-25) The proem repeats 1.926-950 almost word for word, and the
+    English repeats the English of Book 1 (see the note there), differing
+    only where the Latin does: "for" replaces "but" at 11, and 24-25 now end
+    on the usefulness of the whole nature of things rather than on its
+    structure. The Pierides are the Muses, from Pieria below Olympus; the
+    honey on the rim of the children's cup of wormwood is the poet's own
+    account of his method.
+
+[2] (4.31) Simulacra, "images", are the thin films of first-beginnings
+    thrown off from the surface of every body, by which, on the Epicurean
+    account, we see and also think and dream. Lucretius gives them several
+    names in the lines that follow, and the English keeps each: "films or
+    bark" (membranae, cortex, 32), "effigies" (effigiae, 51), "shapes"
+    (figurae, 51), "image" also for imago (38), the single likeness that an
+    image carries. A reader who knows them as eidola or "idols" should
+    expect neither word.
+
+[3] (4.26-53) The transition is preserved in two drafts: 26-32 and 33-37 are
+    each a "since I have taught" clause followed by the same two lines
+    (30-31, 36-37), the first looking back to Books 1 and 2, the second to
+    Book 3; and 45-53, which restate the thesis a third time, look like a
+    remnant of an earlier version. Lucretius probably meant to keep one. The
+    English prints all of it in the printed order and repeats itself where
+    the Latin does; 26-29 are also 3.31-34.
+
+[4] (4.65-66) The couplet recurs word for word at 102-103, there of the
+    images in mirrors. Hiscendi nulla potestas is an idiom, "no room to open
+    one's mouth", that is, no objection is possible: if the coarse
+    effluences of smoke and heat leave things, the fine ones must.
+
+[5] (4.75-83) Roman theaters were shaded by colored awnings (vela) stretched
+    on masts and beams over the seating, so that the light coming through
+    them dyed the crowd below; the "fathers and the mothers" are the men and
+    women in the tiers, and "the face of the stage" the scenery. It is one
+    of the few places where Lucretius describes a thing he has plainly
+    watched himself.
+
+[6] (4.116-122) The printed corum is a misprint for eorum, "of them". The
+    argument is from the smallest living creatures: if a third of such a
+    creature cannot be seen, its organs are smaller still, and the first-
+    beginnings of its spirit and mind smaller than those.
+
+[7] (4.123-128) Panaces ("the panacea", here a plant, not a cure-all),
+    wormwood, southernwood and centaury are strong-smelling medicinal herbs;
+    the sentence breaks off at 126 ("between two", presumably fingers) and
+    the printed text marks a gap, after which 127 resumes mid-argument. The
+    English supplies nothing.
+
+[8] (4.129-142) The second kind of image is born of itself in the air, like
+    the shapes seen in clouds: the faces of the Giants, the earth-born
+    enemies of the gods, mountains, a beast dragging storm-clouds. These
+    composite images return at 732-743 to explain Centaurs and the other
+    monsters of dream.
+
+[9] (4.143-145) The sentence announced at 143-144, how swiftly the images
+    are made and how perpetually they flow, has lost its main verb, and the
+    printed text marks a gap after 144; 145 begins the reason ("for always")
+    for a claim no longer there. The English leaves the announcement hanging
+    as the Latin does.
+
+[10] (4.168-175) Acheron (171) is the underworld, whose darkness the storm
+     seems to have loosed, and Formido, "Terror", is personified as a figure
+     with faces, like the Giants in the clouds at 136. Lucretius uses the
+     mythology freely as a picture of how the sky looks, having denied it as
+     fact.
+
+[11] (4.180-182) These three lines recur word for word at 909-911 to
+     introduce the account of sleep. The swan's small song set against the
+     clamor of cranes is a figure of Hellenistic poetics for the short,
+     sweet poem; at 3.6-7 Lucretius was the swallow beside Epicurus's swans.
+
+[12] (4.190) Protelo is the ox-driver's word for a team yoked one behind
+     another, each beast pulling the next: flash drives flash as the oxen in
+     line draw the plough.
+
+[13] (4.269-291) Imago, the picture in a mirror, and simulacra, the films
+     that travel through the air, are both "image" here, since the passage
+     treats them as one stuff. The mirror-picture seems set back behind the
+     glass because sight crosses two bodies of air, the one the image drives
+     before it on its way to the mirror and the one it drives before it on
+     the way back (the "double, twin air" of 274, "two airs" at 291), as one
+     sees through an open door across the air on either side of the
+     doorposts.
+
+[14] (4.289) A line is lost after 289: "it is right to wonder not at all"
+     has lost its object, which 290 resumes with "those that give back a
+     sight". The English prints the gap and supplies nothing.
+
+[15] (4.292-301) Cretea persona, a mask of wet clay: dashed against a post
+     before it is dry it keeps its features but comes away inside out, which
+     is Lucretius's picture of why a mirror shows the right side on the
+     left. The comparison is his own, and it treats the image as a thin film
+     that can be flattened and printed in reverse.
+
+[16] (4.318-323) That a reflected image returns at an angle equal to that of
+     its arrival was already a theorem of Greek optics; Lucretius gives it
+     as a compulsion of nature and uses it to explain why the image steps in
+     time with us and leaves the mirror the moment we do.
+
+[17] (4.332-336) Arquati are sufferers from jaundice, the "rainbow disease"
+     (arquatus morbus), named for its color. The explanation is that seeds
+     of sallowness stream from the sick man's body, meet the incoming images
+     and tint them, so that he sees everything yellow.
+
+[18] (4.379-386) The thesis of the whole catalogue of appearances that
+     follows (387-468): the eyes are never deceived, since their task is
+     only to report light and shadow; whether the shadow is one thing moving
+     or many patches of ground darkened in turn is for "the reasoning of the
+     mind" to decide, and the error, when there is one, is "this fault of
+     the mind" (386). This is Epicurus's rule that every sensation is true
+     and that falsehood lies in the opinion the mind adds (462-468, 499).
+
+[19] (4.404-413) The mountains the rising sun seems to touch are "scarcely
+     two thousand bowshots" off, a soldier's rough measure of range, against
+     the seas and lands that really lie between them and the sun. The
+     absurdly small figure is the point: nearness here is a judgment, not a
+     sight.
+
+[20] (4.469-499) The sceptic who says nothing can be known is answered first
+     by the turn of his own words on himself and then from the senses: the
+     very notion of true and false (notities, Epicurus's prolepsis, the
+     concept laid down by repeated sensation) comes from them, reasoning is
+     wholly born of them, and no sense can correct another, each having its
+     own province. Hence 499, "what has seemed to them at any time is true",
+     the doctrine stated at 379-386. "With his head where his footprints
+     should be" (472) is standing on one's head.
+
+[21] (4.491) The printed videre, "to see", for the perception of what is
+     soft, cold or hot does not suit a sentence that gives each sense its
+     own province; editors emend or transpose, and the English renders the
+     sense, "perceived apart", without choosing among them.
+
+[22] (4.500-512) Fides prima, the "first trust" that must not be violated,
+     is the standing of the senses as the foundation of all inference (so at
+     1.423 sensation is the first ground of trust). Better a wrong
+     explanation of the round tower than a doubt about the evidence it rests
+     on; without the senses one could not even avoid a cliff.
+
+[23] (4.513-521) Regula, norma and libella are the builder's straightedge,
+     square and plumb-level; a first measurement that is out ruins the whole
+     house. The image makes the senses the first rule of all reasoning, as
+     in the argument just given.
+
+[24] (4.545-546) The printed barbita is the lyre (barbitos), which does not
+     boom a hoarse drone; most editors read barbara, the "barbarous", that
+     is Phrygian, horn, and the English follows them, since the passage sets
+     the deep rough sounds of trumpet and horn against the liquid song of
+     birds.
+
+[25] (4.547-548) The printed text's "Daulian birds" are nightingales, after
+     the story of Procne and Philomela set at Daulis in Phocis; "the gardens
+     of Helicon" are the Muses' mountain. The line is much disputed, and
+     Bailey reads swans "from the torrents of Helicon". The English keeps
+     the printed reading.
+
+[26] (4.551) Daedala, "artificer", the word used of the earth at 1.7, is
+     here the tongue. The printed text has nervorum, "of sinews", the tongue
+     as a craftsman working with its muscles; most editors read verborum,
+     "artificer of words". The English renders what is printed.
+
+[27] (4.563-571) The praeco is the public crier who announced auctions,
+     edicts and lost property to a crowd; his single word reaches every ear,
+     which shows that one voice divides into many, each stamped with the
+     word's form. The rest, falling on nothing, is lost, or is thrown back
+     as an echo.
+
+[28] (4.572-594) The six or seven echoes are Lucretius's own report ("I have
+     seen", 577). The Satyrs, Nymphs and Fauns to whom country people credit
+     the sounds, and Pan with his pine-wreathed head and reed pipe, are the
+     rustic powers of Greek and Italian belief; Lucretius gives the
+     believers two motives, the wish not to think any place empty of gods
+     and the universal appetite for a wonder.
+
+[29] (4.638-641) That a snake dies if touched by human spittle, and that
+     hellebore, a violent purge and poison to men, fattens goats and quails,
+     are pieces of ancient natural lore (both are in Pliny). They are
+     offered as the extreme case of one thing being food to one creature and
+     poison to another, which the shapes of seeds and pores (649-662) are to
+     explain.
+
+[30] (4.679-683) When the Gauls tried to scale the Capitol by night
+     (traditionally 390 BC), the sacred geese of Juno gave the alarm (Livy
+     5.47); hence the goose is "savior of the citadel of Romulus' sons". The
+     mock-grand title dresses a plain fact about the bird's sense of smell.
+
+[31] (4.710-721) That lions cannot bear the cock is a commonplace of ancient
+     natural history (Pliny repeats it twice). Lucretius accepts it and
+     explains it by seeds from the cock's body that wound the lion's eyes
+     but pass harmlessly through ours; it serves as the one example that
+     sight, like taste and smell, suits different creatures differently.
+
+[32] (4.732-743) Centaurs, Scyllas and Cerberus are the standing monsters of
+     myth, and 734 is 1.135, the images of the dead that haunted Ennius; the
+     English keeps its line save for the connecting word. Such images come
+     from no living original, since no Centaur ever existed (739-740): they
+     are made when the images of horse and man meet and cling in the air,
+     being finer than the images that strike the eye and so able to reach
+     the mind directly.
+
+[33] (4.758) Mens animi, the thinking part of the mind, is rendered "the
+     thought of the mind", keeping both words as the register does in Book
+     3. In sleep the mind still receives images while the senses are shut,
+     so that the dead seem to stand before us (760-767).
+
+[34] (4.768-776) Particulae here are the images themselves, so plentiful in
+     any one perceptible moment that one can always replace another: a
+     dream-figure seems to move its arms because a new image in a new
+     posture succeeds the old. The same explanation is given again at
+     794-801.
+
+[35] (4.794-806) In the time it takes to utter one sound many smaller times
+     "lie hidden, which reasoning finds to exist", and in any of them a
+     fresh image is at hand; the mind sees sharply only the images it
+     strains toward and has prepared itself for, which is why thought seems
+     to follow the will and why it sees what it expects.
+
+[36] (4.799-801) Line 799 repeats 774 and 800-801 repeat 771-772, in
+     Lucretius's own words, though many editors think the second pair an
+     intrusion here; the English matches the earlier lines, differing only
+     in the opening word, as the Latin does.
+
+[37] (4.807-810) Line 808 repeats 804 and breaks the sentence about the
+     eyes, which is left without its construction; most editors delete it as
+     a copyist's slip. The English prints it as it stands so that the break
+     remains visible.
+
+[38] (4.823) The printed text is corrupt here (vehementer ainesse inesse);
+     the English follows the usual mending, "I earnestly want you to flee
+     this fault".
+
+[39] (4.823-857) The argument against purpose in the body: eyes were not
+     made for seeing nor legs for walking, since each organ existed before
+     its use and "what is born creates its use"; only things made by men,
+     like beds, cups and shields, were devised for a use already felt. The
+     target is the teleology of the Stoics and of Aristotle. A modern reader
+     may hear in it later accounts of living things without design; that is
+     the reader's association, not the poet's claim.
+
+[40] (4.877-897) Voluntary movement runs down a chain: an image of walking
+     strikes the mind (animus), the mind strikes the spirit (anima) spread
+     through the body, and the spirit moves the body; air entering the
+     loosened frame is the second cause, so that the body goes like a ship
+     by sail and wind. The two words are kept apart here as in Book 3.
+
+[41] (4.898-906) Trocleae and tympana are the pulley-blocks and the great
+     treadwheel of the Roman crane, worked by men walking inside the wheel;
+     with the ship steered by one hand and one rudder, it answers the worry
+     that bodies so small as those of the spirit cannot move so large a
+     thing.
+
+[42] (4.907-928) Sleep is a partial dispersal of the spirit (anima): part is
+     driven out of the body, part crowds inward, and enough stays hidden,
+     like fire under ash, for sense to be rekindled; were none left, the
+     body would lie in the chill of death. The lines that introduce the
+     account (909-911) repeat 180-182.
+
+[43] (4.962-972) Patriis chartis, "our native pages", are Latin, as against
+     the Greek of Epicurus. Among the advocates, generals and sailors who
+     dream their trades, Lucretius sets himself seeking the nature of things
+     and setting it out, a rare glimpse of the poet at his own work.
+
+[44] (4.998-1004) The text is disordered: a line is lost before 999, so that
+     the house-dogs "hasten to shake off" something no longer named (Bailey
+     supplies a light sleep from their eyes), and 1000-1003 repeat 992-995,
+     which were said of hounds; 1004 then completes the thought about the
+     puppies. The English prints the lines as they stand and repeats its own
+     words for the repeated ones.
+
+[45] (4.1026-1029) Babylonica, embroidered coverlets from the East, were a
+     proverbial luxury; the dreamer who thinks he is relieving himself
+     beside a pool or a sawn-off jar drenches the most expensive bedding in
+     the house.
+
+[46] (4.1047) The line all but repeats 1034 and sits awkwardly after
+     1045-1046, which have already reached their goal; many editors bracket
+     or move it. The English renders it where it is printed, so that the
+     repetition shows.
+
+[47] (4.1058-1060) "This is Venus for us": in this book Venus is desire
+     itself and the act, and Amor, "Love", is only its name, derived (hinc)
+     from the physiology just described. The counsel that follows is
+     Epicurean, not ascetic: the pleasure of Venus is open to the man who
+     avoids love, and purer for him, since he takes it "without the penalty"
+     (1073-1074); what Lucretius attacks is the fixing of desire on one
+     person.
+
+[48] (4.1071) Volgivaga Venus, the Venus that roams the streets, is casual
+     or bought love, and the doubled "wandering" (volgivaga ... vagus) is in
+     the Latin. The advice is a cure, not a sermon: new wounds confuse the
+     first.
+
+[49] (4.1107) Muliebria arva, the fields a woman offers to be sown, belongs
+     to the old farming metaphor of begetting that runs through Greek and
+     Latin poetry; it returns at 1272-1273 with the furrow and the
+     ploughshare, and the English keeps the figure each time.
+
+[50] (4.1123-1130) The lover's inheritance turns into a courtesan's
+     wardrobe: Babylonian perfumes, soft shoes from Sicyon near Corinth,
+     emeralds set in gold, a dress of sea-purple (thalassina), Greek
+     headbands (anademata) and turbans (mitrae), and stuffs named in the
+     printed text from Alinda in Caria and the island of Ceos (some editors
+     read Coa, the famous transparent silks of Cos). The shoes "laugh", that
+     is gleam, on her feet, not his.
+
+[51] (4.1160-1169) The lovers' pet names are Greek in the Latin (melichrus,
+     acosmos, Palladium, dorcas, chariton mia, cataplexis, traulizi,
+     Lampadium, ischnon eromenion, rhadine, philema), the fashionable
+     language of Roman love-talk, and the affectation is part of the joke;
+     the English gives them in plain words and quotation marks. The big-
+     breasted woman is "Ceres herself, nursing Iacchus", the child-god of
+     the Eleusinian mysteries, and the snub-nosed one a she-Silenus or
+     satyress, the goat-faced followers of Bacchus; the text of 1168 is
+     disputed. Ovid borrowed the catalogue (Art of Love 2.657-662).
+
+[52] (4.1185-1186) Postscaenia, the area behind the stage-building of a
+     theater, is the women's word for all they do out of sight to keep up
+     the show.
+
+[53] (4.1209-1232) Lucretius holds that both parents contribute seed and
+     that the child resembles whichever prevails, or both when neither does;
+     this was a contested position, since Aristotle allowed the female only
+     matter and not seed. Likeness to grandparents and remoter ancestors
+     comes from first-beginnings hidden in the parents' bodies and handed
+     down from the stock (1218-1222).
+
+[54] (4.1248) Harmoniae is the Greek word for fittings or attunements; here
+     it means the physical match of two partners' seed, and has nothing to
+     do with the "harmony" theory of the soul refuted at 3.98-135, where the
+     same word appears. The English keeps the plural "harmonies" to show the
+     Greek word.
+
+[55] (4.1286-1287) Drops of water wearing through stone are the image
+     already used at 1.313 for the slow loss of bodies from things; here
+     they stand for habit, which Lucretius makes the last and least romantic
+     cause of love.
