@@ -102,6 +102,10 @@ every book unless explicitly revisited. Modelled on the Iliad project's
 | mobilitas | mobility | 2.65 | 2.142, 2.161; never "speed" |
 | conciliatus | union | 2.100 | the noun of combination, same as concilium (2.134, 2.936 "a uniting") |
 | species (of animals) | sight, form | 2.364 | "the sight of other calves"; never "shapes", which is figura |
+| consimili ratione | on a like principle | 3.74 | 3.282; simili ratione 3.572 "by a like principle" |
+| particulae | tiny parts, small pieces | 3.665 | 3.708; "particles" is barred along with corpora |
+| sensifer | sense-bearing | 3.245 | sensiferos motus, 3.272, 3.570, 3.924 |
+| memores motus (mentis) | the remembering motions | 3.1040 | memory as motion; not "mindful" |
 
 ## Policy
 
@@ -148,6 +152,16 @@ every book unless explicitly revisited. Modelled on the Iliad project's
     (1.188), 2.750-754 (1.789-793), 2.761-762 and 2.1008-1009 (1.818-819).
   - `python tools/refrains.py N` lists every repeated line of Book N with the
     current English of each occurrence.
+- **Refrains fixed in Book 3** (review of 2026-10-30):
+  - 3.87-90 = 2.55-58 and 3.519-520 = 1.670-671 confirmed verbatim; 3.62 keeps
+    2.12 in its infinitive ("to strive night and day with surpassing labor");
+    3.91-93 = 1.146-148 verbatim.
+  - 3.806-818 recur almost word for word at 5.351-363: when Book 5 is
+    reviewed, take the Book 3 review text for the lines that are identical.
+  - Dashes: the accepted verse uses none (commas, semicolons, colons for the
+    Latin's breaks; 3.428 and 3.481 were changed).
+  - mens beside animus = "thought" (3.94, 3.139, 3.142, 3.398, 3.402, 3.615);
+    mens alone, including instrumental mente, = "mind" (3.240).
 - **Scientific anachronism**: never import a modern term the Latin does not
   have (no "atom" for primordia, no "molecule", no "evolution"). The notes
   may say where a modern reader will hear an anticipation; the verse may

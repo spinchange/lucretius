@@ -1,8 +1,8 @@
 # Handoff: state of the work and how to resume
 
 Written 2026-10-30 at the end of the session that drafted Books 2-6 and
-reviewed Book 1; updated the same day after the Book 2 review and the Book 1
-audiobook build. Read this, `README.md` and `translation/CONVENTIONS.md`
+reviewed Book 1; updated the same day after the Book 2 review, the Book 1
+audiobook build, and the Book 3 review. Read this, `README.md` and `translation/CONVENTIONS.md`
 before touching anything. The manifest (`segments/manifest.json`) is the
 source of truth for what has been done to each segment.
 
@@ -13,8 +13,8 @@ source of truth for what has been done to each segment.
 | translate (Opus) | 58/58 | every segment passes `check_segment` |
 | fidelity (Sonnet) | 58/58 | findings tables in `segments/bNN/sKK.fidelity.txt` |
 | annotate (Sonnet) | 58/58 | draft notes, all marked DRAFT |
-| review (translator, Fable) | Books 1-2 (17/17) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines patched |
-| assemble | all six books | `translation/book_0N.txt`; Books 1-2 from review text |
+| review (translator, Fable) | Books 1-3 (26/26) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines, Book 3: 89 lines patched |
+| assemble | all six books | `translation/book_0N.txt`; Books 1-3 from review text |
 | notes | none final | 302 `{{NOTE: ...}}` placeholders across the books |
 | margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
 | audiobook | Book 1 built | `audiobook-build-book01/books/book-01-full.wav` and `-review.m4a` (untracked) |
@@ -108,31 +108,46 @@ fixed in Book 2". A new tool, `python tools/refrains.py N [--earlier]`, lists
 every repeated Latin line of Book N with the current English of each
 occurrence; run it before each review.
 
-## Starting Book 3 (next session)
+## Book 3 review (done 2026-10-30)
+
+89 lines patched across the nine segments; reasons are `#` comments in the
+patch files. Sonnet's eleven secondaries: five accepted (3.345, 3.513, 3.553,
+3.803, 3.843), six rejected with the consensus of Bailey, Munro and Smith
+(3.121 eadem = vita; 3.592 intra finis vitae; 3.662 the fore part seeks
+itself; 3.969 ante adverbial; 3.1038 unus = alone, eadem with quiete; 3.1084
+hiantis with the understood nos). One outright error found on the full read:
+3.897, where praesidium governs factis florentibus tuisque (the dead man can
+no longer guard his affairs and his own; Opus had him "flourishing"). Also
+3.868 (nullo tempore = never born) and 3.1040 (memores motus = the
+remembering motions). Register: exordia = origins enforced at 3.31 and
+3.380; principia = beginnings was already right throughout; "particles"
+removed at 3.708; the two em-dashes in the Opus draft removed. Refrains
+3.87-90 and 3.519-520 made verbatim. b03s08 now passes the syllable-band
+check (93%); only b06s03 still fails.
+
+Source-text artifacts seen in `latin/` for Book 3, for the OCT collation:
+the Perseus text prints doubled forms where the TEI marks a diaeresis
+(3.233 "aeraaëra", 3.234, 3.236, 3.248, 3.269, 3.282, 3.287, 3.292, 3.302,
+3.443, 3.456, 3.508, 3.571, 3.573, 3.591, 3.691 "aenamquenamque", 3.694
+"asperaeasperë", 3.752, 3.980) and two garbled words (3.396
+"coercenscoërcens", 3.433 "gerunturaegeruntur"). The English reads the
+plain word in each case; the Latin files have not been touched.
+
+## Starting Book 4 (next session)
 
 1. Open the repo, check `git log`, run `python tools/check_segment.py --all`
-   (exit 1 is expected until the reviews reach b03s08 and b06s03, whose Opus
-   drafts fall under the 80% syllable-band floor) and
-   `python tools/refrains.py 3 --earlier`.
-2. Book 3 is segments b03s00 to b03s08 (3.1-1094; bounds 1-135, 136-261,
-   262-380, 381-547, 548-669, 670-818, 819-930, 931-1052, 1053-1094). Sonnet
-   found no firm FINDINGS in Book 3; eleven secondaries across the book (s00
-   1, s02 1, s03 1, s04 3, s05 1, s06 1, s07 2, s08 1). Weigh each.
-3. Refrains to make verbatim against the accepted text: 3.87-90 = 2.55-58
-   (3.87 "fear everything", 3.90 "what children in the dark shudder at and
-   imagine will come."); 3.91-93 = 1.146-148 (already matches); 3.519-520 =
-   1.670-671 ("for whatever is changed and passes out of its own bounds, /
-   this at once is the death of what it was before."); 3.62 keeps "night and
-   day with surpassing labor" (2.12) in its infinitive.
-4. Register points in Book 3: animus = mind and anima = spirit is the book's
-   whole subject; the first technical contrast (3.94 ff., 3.136 ff.) gets the
-   note promised in CONVENTIONS; mens = "mind", "thought" only when paired
-   with animus. Sweep principia = beginnings (not "first-beginnings") with a
-   script as was done for Book 2, since Opus slips on it. The proem (3.1-30)
-   and the diatribe against the fear of death (3.830-1094) are set pieces;
-   read them in full.
-5. Patch, `python tools/review.py b03sKK segments/b03/sKK.patch.tsv`,
-   `python tools/assemble.py 3`, commit with the usual identity (user.name
+   (exit 1 is expected until the review reaches b06s03) and
+   `python tools/refrains.py 4 --earlier`.
+2. Book 4 is segments b04s00 to b04s11 (4.1-1287). Read the fidelity files
+   first; weigh every finding and secondary.
+3. Refrains: 4.1-25 = 1.926-950 (take the Book 1 review text verbatim);
+   4.26 exordia = origins; 4.207 = 2.163. Run the refrains tool for the rest.
+4. Register points in Book 4: simulacra = images throughout (never "idols",
+   "films" only in a note); the obscenity policy in CONVENTIONS for
+   4.1030-1287 (plain, neither coy nor coarse beyond the Latin). Sweep
+   principia = beginnings and exordia = origins with a script as before.
+5. Patch, `python tools/review.py b04sKK segments/b04/sKK.patch.tsv`,
+   `python tools/assemble.py 4`, commit with the usual identity (user.name
    spinchange, user.email spinchange@users.noreply.github.com,
    core.safecrlf=false), message ending with the Claude co-author line.
 6. Update `translation/CONVENTIONS.md` with any new fixed terms and the table

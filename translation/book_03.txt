@@ -31,14 +31,14 @@ TRANSLATOR'S COMMENTARY
    21  falling white, do them violence; an ever-cloudless upper air
    22  covers them and laughs with light poured wide:
    23  nature, moreover, supplies them all things, and nothing
-   24  at any time nibbles away their peace of mind.
+   24  at any time diminishes their peace of mind.
    25  But on the other hand nowhere do the precincts of Acheron appear,
    26  nor does the earth prevent all things from being seen
    27  that are carried on beneath our feet, below, through the void.
    28  At these things a certain divine pleasure
    29  and a shudder seize me there, that by your power nature
    30  lies so plainly open, laid bare on every side.
-   31  And since I have taught what the beginnings of all things
+   31  And since I have taught what the origins of all things
    32  are like, and how, differing in their various shapes,
    33  they fly of their own accord, driven by eternal motion,
    34  and in what way each thing can be created from them,
@@ -94,10 +94,10 @@ TRANSLATOR'S COMMENTARY
    84  and, in sum, urges them to overturn piety; {{NOTE: text uncertain at 3.83-84; the construction is strained and editors emend; rendered as the source prints it}}
    85  for often before now men have their country and dear parents
    86  betrayed, seeking to shun the precincts of Acheron.
-   87  For just as children tremble and fear all things
+   87  For just as children tremble and fear everything
    88  in blind darkness, so we in the light are afraid
    89  at times of things that are no more to be feared than
-   90  what children shudder at in the dark and imagine is coming. {{NOTE: 3.87-90 repeat 2.55-58 (and recur at 6.35-38); the English must match the Book 2 rendering verbatim}}
+   90  what children in the dark shudder at and imagine will come. {{NOTE: 3.87-90 repeat 2.55-58 (and recur at 6.35-38); rendered verbatim}}
    91  This terror of the mind, then, and this darkness
    92  must be scattered not by the sun's rays or the bright shafts of day
    93  but by the face and reasoning of nature.
@@ -154,7 +154,7 @@ TRANSLATOR'S COMMENTARY
   142  joys caress us: here, therefore, are thought and mind.
   143  The rest of the spirit, scattered through the whole body,
   144  obeys, and moves at the nod and impulse of the mind. {{NOTE: numen here in its root sense, "nod", the sign of command, not divinity}}
-  145  This alone, by itself, has understanding for itself and rejoices for itself,
+  145  This alone, of itself, knows for itself and is glad for itself,
   146  when nothing moves either the spirit or the body along with it.
   147  And just as, when the head or the eye is hurt in us
   148  by an attack of pain, we are not tormented in our whole
@@ -193,7 +193,7 @@ TRANSLATOR'S COMMENTARY
   181  you may turn your mind to here, so as to know it thoroughly.
   182  Nothing is seen to come about in so swift a way
   183  as what the mind proposes to happen and itself begins;
-  184  therefore the mind sets itself in motion more quickly than any of the things
+  184  therefore the mind stirs itself more quickly than any of the things
   185  whose nature is seen plain before our eyes.
   186  But what is so very mobile must consist of exceedingly round
   187  and exceedingly tiny seeds,
@@ -249,7 +249,7 @@ TRANSLATOR'S COMMENTARY
   237  So now the nature of the mind is found to be threefold;
   238  and yet these are not enough, all together, to create sensation,
   239  since the mind does not accept that any of these can create
-  240  the sense-bearing motions, or the things it then turns over in thought.
+  240  the sense-bearing motions, or what it then turns over in the mind.
   241  Therefore a certain fourth nature must also be
   242  added to these; it is altogether without a name; {{NOTE: the "nameless" fourth nature, the finest element of the soul, beyond breath, heat, and air}}
   243  than which nothing exists more mobile or more thin,
@@ -277,7 +277,7 @@ TRANSLATOR'S COMMENTARY
   264  nor its power be made separate by space,
   265  but they stand out as the many forces of one body.
   266  Just as in the flesh of any living thing, commonly,
-  267  there is a smell and a certain color and a savor, and yet from all these
+  267  there is smell and a certain color and savor, yet from all these
   268  there is made up one complete growth of body,
   269  so heat and air and the unseen power of wind,
   270  mingled, create one nature, together with that mobile
@@ -291,8 +291,8 @@ TRANSLATOR'S COMMENTARY
   278  because it is created of bodies small and few,
   279  so, you see, this force that has no name, made of minute {{NOTE: "nominis expers": the fourth nature of 3.241-245, which Lucretius declines to name}}
   280  bodies, lies hidden, and is, as it were, the very spirit
-  281  in its turn of the whole spirit, and holds dominion through the whole body.
-  282  By a like reasoning wind and air and heat
+  281  in its turn of the whole spirit, and rules through the whole body.
+  282  On a like principle, wind and air and heat
   283  must be active, mingled with one another through the limbs,
   284  and one lie more beneath or stand out more than another,
   285  so that one thing may be seen to be made from them all,
@@ -313,7 +313,7 @@ TRANSLATOR'S COMMENTARY
   300  and more quickly rouses icy breaths through the flesh,
   301  which make a trembling motion rise up in the limbs.
   302  But the nature of oxen lives more by calm air,
-  303  nor does the smoky torch of anger, set beneath it, ever rouse it too far,
+  303  nor ever does anger's smoky torch, set beneath, rouse it too far,
   304  spreading over it the shadow of blind darkness,
   305  nor is it numbed, pierced through by the icy shafts of fear;
   306  it is set between the two, the deer and the savage lions.
@@ -321,7 +321,7 @@ TRANSLATOR'S COMMENTARY
   308  some equally polished, still it leaves behind
   309  those first traces of the nature of each one's mind.
   310  Nor must we think that faults can be torn out by the roots,
-  311  so that one man would not run down more readily into fierce anger,
+  311  so that one man does not run more readily to fierce anger,
   312  another be assailed a little sooner by fear, and a third
   313  take certain things more mildly than is right.
   314  And in many other things the varied natures of men
@@ -337,10 +337,10 @@ TRANSLATOR'S COMMENTARY
   324  and is itself the body's guardian and the cause of its safety;
   325  for they cling to one another by common roots
   326  and it seems they cannot be torn apart without destruction.
-  327  Just as it is not easy to tear the smell from lumps of frankincense
-  328  without its nature also perishing,
-  329  so it is not easy to draw out the nature of mind and spirit
-  330  from the whole body without all things being dissolved.
+  327  Just as to tear the smell from lumps of frankincense
+  328  is not easy, without its nature too perishing,
+  329  so to draw out the nature of mind and spirit
+  330  from the whole body is not easy, without all being dissolved.
   331  So, with their beginnings interwoven from their first origin,
   332  they come to be endowed with a life held in partnership,
   333  nor, it seems, can either, without the force of the other,
@@ -355,7 +355,7 @@ TRANSLATOR'S COMMENTARY
   342  endure the separation of the spirit,
   343  but they perish utterly, torn apart, and rot away.
   344  So from the beginning of life the body and the spirit,
-  345  in their mutual contacts, learn the motions of life,
+  345  learn the mutual contacts of the motions of life,
   346  even while laid away in the mother's limbs and womb,
   347  so that separation cannot happen without ruin and harm;
   348  so that you may see, since the cause of their safety is joined,
@@ -375,8 +375,8 @@ TRANSLATOR'S COMMENTARY
   362  for sense drags us and thrusts us to the pupils themselves,
   363  especially since often we cannot see bright things,
   364  because the light of our eyes is hampered by light.
-  365  This does not happen to doors; for the doorways through which we ourselves
-  366  look, when thrown open, take on no labor.
+  365  This does not happen with doors; for the doorways through which
+  366  we ourselves look, when thrown open, take on no labor.
   367  Further, if our eyes serve in place of doors,
   368  then, it seems, the mind ought to see things better
   369  with the eyes taken out, the very doorposts removed.
@@ -386,17 +386,17 @@ TRANSLATOR'S COMMENTARY
   373  set side by side alternately, diversify and knit the limbs.
   374  For not only are the elements of the spirit much smaller
   375  than those of which our body and flesh are made,
-  376  but they also yield to them in number, and are scattered sparsely
+  376  but also yield to them in number, and are sparsely scattered
   377  through the limbs, so that you may promise this much at least:
   378  as small as are the first bodies which, falling on us,
   379  can stir sense-bearing motions in the body, so wide
-  380  are the intervals the first starting-points of the spirit keep. {{NOTE: "exordia prima": a synonym for the first-beginnings, given distinct English per policy}}
+  380  are the intervals the first origins of the spirit keep. {{NOTE: "exordia prima": Lucretius's third name for the first-beginnings, "origins" per the register (2.333)}}
 
   381  For we do not feel at times the clinging of dust
   382  upon the body, nor chalk dashed on our limbs and settling there,
   383  nor do we feel mist at night, nor the spider's slender threads
   384  meeting us, when we are netted in them as we go,
-  385  nor that the same spider's shriveled garment has fallen on our head,
+  385  nor the same spider's shriveled garment fallen on our head,
   386  nor the feathers of birds, nor the flying down of plants,
   387  which, from their great lightness, mostly fall only reluctantly,
   388  nor do we feel the passage of every creeping creature,
@@ -415,7 +415,7 @@ TRANSLATOR'S COMMENTARY
   401  and leaves the limbs gone cold in the chill of death.
   402  But he stays in life in whom thought and mind remain,
   403  however torn his trunk, with the limbs all round cut off;
-  404  the trunk, though the spirit is taken from around it and the limbs removed,
+  404  the trunk, with spirit taken from around it and limbs removed,
   405  lives and draws in the life-giving airs of heaven;
   406  deprived, if not entirely, yet of a great part of its spirit,
   407  it still lingers and holds fast in life;
@@ -428,7 +428,7 @@ TRANSLATOR'S COMMENTARY
   414  at once the light sets and darkness follows,
   415  though the bright orb be otherwise unharmed.
   416  By this covenant spirit and mind are always bound.
-  417  Come now, so that you can know that in living creatures the minds
+  417  Come now, so you may know that in living creatures the minds
   418  and the light spirits are things born and mortal,
   419  verses long sought out and found with sweet labor
   420  I shall go on to set out, worthy of your life.
@@ -439,7 +439,7 @@ TRANSLATOR'S COMMENTARY
   425  To begin with, since I have shown that it is fine, and made
   426  of minute bodies, and formed of beginnings much smaller
   427  than the flowing moisture of water
-  428  or mist or smoke — for in mobility it far {{NOTE: the sentence begun at 425 breaks off here (anacoluthon); its thought is taken up again at 434}}
+  428  or mist or smoke; for in mobility it far {{NOTE: the sentence begun at 425 breaks off here (anacoluthon); its thought is taken up again at 434}}
   429  excels, and moves when struck by a slighter cause;
   430  indeed it is moved even by images of smoke and mist,
   431  as when, lulled in sleep, we see altars
@@ -474,7 +474,7 @@ TRANSLATOR'S COMMENTARY
   460  takes on monstrous diseases and hard pain,
   461  so the mind takes on sharp cares and grief and fear;
   462  therefore it follows that it shares in death as well.
-  463  What is more, in diseases of the body there often wanders astray
+  463  What is more, in diseases of the body there often strays
   464  the mind; for it loses its wits and speaks crazed words,
   465  and at times by a heavy lethargy is carried down into deep
   466  and endless sleep, the eyes and the nodding head drooping,
@@ -487,14 +487,14 @@ TRANSLATOR'S COMMENTARY
   473  as we have been thoroughly taught before by the deaths of many.
   474  And since the mind, like a sick body, is healed {{NOTE: 3.474-475 are corrupt and probably not Lucretius' own; they look like a garbled anticipation of 3.510-511 and are bracketed by editors. Translated as printed, not mended}}
   475  and equally the mind is healed, the body with an empty ...
-  476  Finally, why is it that when the force of wine has pierced a man, {{NOTE: source prints "cor"; read "cur", "why", a question taken up again at 482}}
+  476  Finally, why, when the force of wine has pierced a man, {{NOTE: source prints "cor"; read "cur", "why", a question taken up again at 482}}
   477  fierce, and its heat has gone out, spread through the veins,
   478  a heaviness of the limbs follows, his legs are hobbled
   479  as he staggers, his tongue grows slow, his mind is sodden,
   480  his eyes swim, shouting, sobbing, quarrels swell,
-  481  and then whatever else of this kind follows —
-  482  why are these things, unless because the vehement violence of wine
-  483  is used to throwing the spirit into confusion within the body itself?
+  481  and then whatever else of this kind follows:
+  482  why are these, unless because the vehement violence of wine
+  483  is wont to confound the spirit within the body itself?
   484  But whatever things can be confused and hindered
   485  show that, if a somewhat harsher cause worked its way in,
   486  they would perish, deprived of future life.
@@ -524,16 +524,16 @@ TRANSLATOR'S COMMENTARY
   510  And since the mind, like a sick body, is healed,
   511  as we discern, and we see that it can be turned by medicine,
   512  this too foretells that the mind lives a mortal life.
-  513  For it is fitting to add parts or shift them from their order,
-  514  or to take away at least some jot from the sum,
+  513  For he must add parts, or shift them from their order,
+  514  or at any rate take away some jot from the sum,
   515  for whoever sets about and begins to change the mind
   516  or seeks to bend any other nature whatever.
-  517  But it does not allow parts to be shifted in it, nor anything
-  518  to be added, what is immortal, nor one jot to flow away;
-  519  for whatever is changed and goes out beyond its own boundaries,
-  520  that is at once the death of what it was before.
+  517  But neither will it let parts be shifted in it, nor added,
+  518  that which is immortal, nor will it let one jot flow away;
+  519  for whatever is changed and passes out of its own bounds,
+  520  this at once is the death of what it was before. {{NOTE: 3.519-520 repeat 1.670-671 (also 1.792-793, 2.753-754); rendered verbatim}}
   521  Therefore the mind, whether it sickens, gives out
-  522  mortal signs, as I have shown, or whether it is turned by medicine.
+  522  mortal signs, as I have shown, or whether medicine turns it.
   523  So surely does the true thing seem to meet false reasoning
   524  and bar its escape as it goes
   525  and convict the false with a two-edged refutation.
@@ -565,7 +565,7 @@ TRANSLATOR'S COMMENTARY
   550  and the other senses that steer our life,
   551  and since, just as hand or eye or nostrils, set apart
   552  and severed from us, cannot feel or even be,
-  553  but in such a case melt away in a little time,{{NOTE: "tali" as printed; many editors read "tabe", "melt away in decay"}}
+  553  but yet, in such a state, are abandoned in a short time, {{NOTE: "tali" and "lincuntur" as printed; many editors read "tabe", "melt away in decay"}}
   554  so the mind cannot by itself be without the body and the man
   555  himself, which seems to be a kind of vessel for it,
   556  or whatever else you would rather picture as more closely
@@ -626,7 +626,7 @@ TRANSLATOR'S COMMENTARY
   611  just as he knows the other senses dissolve, each in its own
   612  part. But if our mind were immortal,
   613  it would not, dying, so lament that it was being dissolved,
-  614  but rather feel itself going out and leaving its garment, like a snake.
+  614  but rather go out and leave its garment behind, like a snake.
   615  Again, why is the thought and judgment of the mind never
   616  born in the head or the feet or hands, but in all men clings
   617  to one seat and to fixed regions,
@@ -662,16 +662,16 @@ TRANSLATOR'S COMMENTARY
   647  and at once, since the mind is given over to the zeal of battle,
   648  with what is left of the body it makes for battle and slaughter,
   649  and often does not grasp that its left arm is lost, shield and all,
-  650  that wheels and ravening scythes have dragged it off among the horses;
-  651  another does not know his right has fallen, as he climbs and presses on.
+  650  that wheels and ravening scythes have dragged off among the horses;
+  651  another, that his right has fallen, as he climbs and presses on.
   652  Then another tries to rise when his leg is taken away,
   653  while nearby on the ground the dying foot works its toes.
   654  And the head cut off from the warm and living trunk
   655  keeps on the ground a living look and open eyes
   656  until it has given up all the remnants of the spirit.
-  657  What is more, if you should choose, with its tongue flickering and threatening,
-  658  to take a serpent's tail and long body, the two of them,
-  659  and cut them into many pieces with the steel,
+  657  What is more, if, with its tongue flickering and threatening,
+  658  a serpent's tail, and its long body, both of them,
+  659  it pleased you to cut into many pieces with the steel,
   660  you will see all the pieces, severed, each apart, with the wound
   661  still fresh, writhe and sprinkle the earth with gore,
   662  and the fore part turn back to seek itself with its mouth,
@@ -693,7 +693,7 @@ TRANSLATOR'S COMMENTARY
   677  and so you must confess that what was before
   678  has perished, and that what is now has now been created.
   679  Further, if, when our body is already complete,
-  680  the living power of the mind is used to being brought in
+  680  the living power of the mind is wont to be brought in
   681  at the moment we are born and cross the threshold of life,
   682  it would not then be fitting that, with the body and together
   683  with the limbs, it should be seen to grow within the very blood,
@@ -711,8 +711,8 @@ TRANSLATOR'S COMMENTARY
   695  nor, since they are so closely woven in, do they seem able
   696  to go out unharmed and unloose themselves safe
   697  from all the sinews and the bones and joints.
-  698  But if perhaps you think that the spirit, working its way in from outside,
-  699  is used to seeping through our limbs,
+  698  But if perhaps you think the spirit, working in from outside,
+  699  is wont to make its way, seeping, through our limbs,
   700  so much the more surely will it perish, being fused with the body;
   701  for what seeps through is dissolved, and therefore perishes;
   702  for it is parted out through all the passages of the body.
@@ -721,7 +721,7 @@ TRANSLATOR'S COMMENTARY
   705  so spirit and mind, however whole they go fresh
   706  into the body, are yet dissolved in seeping through,
   707  while, as through passages, there are dispersed into all the frame
-  708  the particles of which this nature of the mind is created,
+  708  the tiny parts of which this nature of the mind is created,
   709  the nature which now has mastery in our body, born
   710  from that which perished then, parted through the frame.
   711  Therefore it seems the nature of the spirit is neither
@@ -733,7 +733,7 @@ TRANSLATOR'S COMMENTARY
   717  But if it has fled away, taken off with its parts so intact
   718  that it has left no parts of itself in the body,
   719  from where do corpses, their flesh now going rancid,
-  720  breathe out worms, and from where does so great a host of living things,
+  720  breathe out worms, and from where so great a host of living things,
   721  boneless and bloodless, surge through the swollen frame?
   722  But if perhaps you believe that spirits work their way in from outside
   723  into worms, and can come one by one into bodies,
@@ -748,7 +748,7 @@ TRANSLATOR'S COMMENTARY
   732  they do not flit about troubled by diseases and cold and hunger;
   733  for it is the body, more akin to these ills, that suffers them,
   734  and the mind endures many evils by contact with it.
-  735  But grant that it is as useful as you like for them to make a body
+  735  But grant it as useful as you like for them to make a body
   736  when they come in under; yet there seems no way they could.
   737  Therefore spirits do not make bodies and frames for themselves.
   738  Nor yet is there a way they could work their way into bodies
@@ -767,7 +767,7 @@ TRANSLATOR'S COMMENTARY
   751  the charge of the horned stag, and the hawk would tremble
   752  through the breezes of the air, fleeing at the coming of the dove,
   753  men would lack sense, and the wild generations of wild beasts be wise.
-  754  For that is carried by false reasoning, when they say
+  754  For that rests on false reasoning, when they say
   755  an immortal spirit is altered when its body is changed;
   756  for what is changed is dissolved, and therefore perishes;
   757  for its parts are transposed and shift from their order;
@@ -805,10 +805,10 @@ TRANSLATOR'S COMMENTARY
   789  alone, nor exist far off from sinews and blood.
   790  For if it could, the force of the mind itself, much sooner,
   791  could be in the head or shoulders or the lowest heels,
-  792  and be used to being born in any part you like,
+  792  and would be wont to be born in any part you please,
   793  and still remain in the same man and the same vessel.
   794  And since even in our body it is evidently fixed
-  795  and ordered, it seems, where they can be and grow,
+  795  and ordered, it seems, where each can be and grow,
   796  spirit and mind, each apart, all the more must we deny
   797  that it can, entire, endure outside the body, or be born.
   798  Therefore, when the body has perished, you must confess
@@ -816,7 +816,7 @@ TRANSLATOR'S COMMENTARY
   800  For indeed, to join the mortal to the eternal, and to think
   801  that they can feel together and act each upon each,
   802  is folly; for what must be thought more at odds
-  803  or more disjoined from itself and more discordant
+  803  or more disjoined from each other and more discordant
   804  than that what is mortal, joined to the immortal
   805  and everlasting in union, should bear savage storms?
   806  Further, whatever things endure eternal must, of necessity, {{NOTE: 3.806-818 recur almost word for word at 5.351-363}}
@@ -839,10 +839,10 @@ TRANSLATOR'S COMMENTARY
   822  or because those that do come are by some means driven back
   823  and retreat before we can feel what harm they do,
        [lacuna]
-  824  for besides the fact that it sickens along with the diseases of the body, {{NOTE: text lost before 824; the reply to the hypothesis of 819-823 begins mid-thought}}
+  824  for besides that it sickens along with the body's diseases, {{NOTE: text lost before 824; the reply to the hypothesis of 819-823 begins mid-thought}}
   825  there comes that which often torments it about things to come,
   826  keeps it wretched in fear, and wears it out with cares,
-  827  and for wrongs committed in the past its sins gnaw it with remorse.
+  827  and for misdeeds in the past its sins gnaw it with remorse.
   828  Add the madness proper to the mind, and its forgetfulness of things;
   829  add that it is plunged into the black waves of lethargy.
   830  Death, therefore, is nothing to us, and concerns us not a whit, {{NOTE: Epicurus, Principal Doctrines 2, "death is nothing to us"; the thesis the rest of Book 3 draws out}}
@@ -858,8 +858,8 @@ TRANSLATOR'S COMMENTARY
   840  surely nothing at all, to us who then shall not be,
   841  will be able to happen or to move our sense,
   842  not if earth should be mingled with sea, and sea with sky.
-  843  And even if they do feel, after from our body
-  844  the nature of the mind and the power of the spirit are torn away,
+  843  And even if it does feel, after it is torn from our body,
+  844  the nature of the mind along with the power of the spirit,
   845  still it is nothing to us, who by the joining and wedlock
   846  of body and spirit exist, joined and fitted into one.
   847  Nor, if time should gather up our matter
@@ -875,15 +875,15 @@ TRANSLATOR'S COMMENTARY
   857  that seeds have often been set in the same order as now,
   858  these very seeds of which we now consist, in times before.
   859  And yet we cannot recapture this with remembering mind;
-  860  for between there has been thrown a pause of life, and all motions
+  860  for a pause of life has been thrown between, and all the motions
   861  have wandered off at random, astray, far from the senses.
   862  For if there is to be misery and distress, perhaps,
   863  he too must himself exist at that time, to whom ill can
   864  befall. Since death takes this away, and prevents the existence
   865  of him to whom these troubles could be brought together,
   866  we may know that there is nothing to be feared in death,
-  867  that one who is not cannot become wretched, and that it makes not a whit
-  868  of difference whether he had ever been born at any time,
+  867  that he who is not cannot be wretched, and that not a whit
+  868  it differs whether he had never been born at any time,
   869  when immortal death has taken away his mortal life.
   870  Therefore, when you see a man indignant on his own behalf
   871  that after death he will either rot, his body laid away,
@@ -892,17 +892,17 @@ TRANSLATOR'S COMMENTARY
   874  some blind goad in his heart, however much he himself denies
   875  that he believes any sense will remain to him in death.
   876  For he does not, I think, grant what he professes, nor its ground,
-  877  nor does he tear himself up by the roots from life and cast himself out,
+  877  nor tear himself up by the roots from life and cast himself out,
   878  but, unknowing, makes something of himself survive.
   879  For when each man, alive, pictures to himself the future,
   880  that birds and beasts will tear his body in death,
   881  he pities himself; for he does not separate himself from it,
   882  nor withdraw enough from the body flung away, and that body
-  883  he imagines to be himself, and standing by, infects it with his own sense.
+  883  he fancies is himself, and, standing by, taints with his own sense.
   884  Hence he resents that he was created mortal,
   885  and does not see that in real death there will be no other self
   886  who could, alive, mourn for himself destroyed,
-  887  and, standing, grieve that he himself lies there being torn or burned.
+  887  and, standing, grieve that he lies there, torn or burned.
   888  For if it is an evil in death to be mauled by the jaws and bite
   889  of wild beasts, I do not find how it is not bitter
   890  to be laid on the fire and scorched in hot flames,
@@ -912,8 +912,8 @@ TRANSLATOR'S COMMENTARY
   894  'Now, now no glad home will receive you, nor your excellent
   895  wife, nor will your sweet children run to snatch
   896  your kisses first and touch your heart with silent sweetness.
-  897  You will not be able to flourish in your affairs and be a defense
-  898  to your own. Wretched man,' they say, 'wretchedly, all of them,
+  897  You will not be able to guard your flourishing affairs
+  898  and your own. Wretched man,' they say, 'wretchedly, all of them,
   899  one hostile day has taken from you, so many prizes of life.'
   900  This they do not add in these matters: 'nor does any longing
   901  for those things any longer remain with you as well.'
@@ -921,15 +921,15 @@ TRANSLATOR'S COMMENTARY
   903  they would free themselves from great anguish and fear of mind.
   904  'You indeed, as you are now, laid asleep in death, so will you be
   905  for all the time that remains, freed from every grievous pain;
-  906  but we, beside the horrifying pyre, have wept for you, turned to ash,
-  907  insatiably wept you out, and for eternity
+  906  but we, beside the horrifying pyre, you turned to ash,
+  907  have wept insatiably, and for all eternity
   908  no day will take the sorrow from our hearts.'
   909  This, then, must be asked of him: what is so very bitter
   910  in it, if things return to sleep and rest,
   911  that anyone should waste away in eternal grief.
-  912  This too men often do, when they have taken their places and hold
+  912  This too men often do, when they recline at table and hold
   913  their cups, and shade their faces with garlands:
-  914  they say from the heart, 'Brief is this enjoyment for poor little men;
+  914  they say from the heart: 'Brief is this fruit for poor little men;
   915  soon it will have been, and never after can it be called back.'
   916  As if in death this were chief among their evils,
   917  that thirst should burn the wretches and parch them dry,
@@ -938,8 +938,8 @@ TRANSLATOR'S COMMENTARY
   920  when mind and body alike lie quiet in sleep;
   921  for as far as we care, that sleep could be everlasting,
   922  and no longing for ourselves touches us;
-  923  and yet those first-beginnings throughout our limbs are by no means then
-  924  wandering far from the motions that bring sense,
+  923  and yet by no means then throughout our limbs do those
+  924  first-beginnings wander far from the sense-bearing motions,
   925  when a man, startled from sleep, gathers himself together.
   926  Much less, then, must we think that death is to us,
   927  if there can be less than what we see to be nothing;
@@ -952,7 +952,7 @@ TRANSLATOR'S COMMENTARY
   933  'What ails you so, mortal, that you give yourself up too far
   934  to sick grieving? Why do you groan at death and weep?
   935  For if the life you have lived till now was welcome to you,
-  936  and all its good things have not, as if poured into a vessel full of holes,
+  936  and all its good things have not, as into a vessel full of holes,
   937  run through and perished unenjoyed,
   938  why not withdraw like a guest who has had his fill of life,
   939  and with an even mind, you fool, take your untroubled rest?
@@ -964,18 +964,18 @@ TRANSLATOR'S COMMENTARY
   945  to please you: all things are always the same.
   946  If your body is not yet withering with years, and your limbs
   947  are not worn out and slack, still all things remain the same,
-  948  even if you should go on living until you outlast all generations,
+  948  if you should go on living to outlast all generations,
   949  and still more if you were never going to die.'
   950  What do we answer, except that nature presses a just suit
   951  and sets out a true case in her words?
   952  But if now someone older, well on in years, should complain
   953  and lament his death, poor wretch, more than is right,
-  954  would she not with reason cry out louder and rebuke him in a sharp voice:
+  954  would she not rightly cry out louder and rebuke in a sharp voice:
   955  'Away with your tears, you bottomless pit, and check your complaints. {{NOTE: baratre: the text is uncertain; taken as a vocative of barathrum, "pit", i.e. a glutton never filled; compare 3.966}}
   956  You have had all the prizes of life, and now you wither;
-  957  but because you always crave what is absent and scorn what is present,
+  957  but since you always crave what is absent and scorn what is here,
   958  your life has slipped away from you unfinished and unenjoyed,
-  959  and death, before you looked for it, has taken its stand at your head
+  959  and death, unlooked for, has taken its stand at your head
   960  before you can depart full and sated with things.
   961  As it is, let go of all things that do not suit your age,
   962  and with an even mind, come, yield to greater ones: you must.' {{NOTE: textual crux; the source reads "magnis concede necessis"; editors differ (magnis, gnatis, dignis; necessest)}}
@@ -1024,7 +1024,7 @@ TRANSLATOR'S COMMENTARY
  1005  as the seasons of the year do for us when they come
  1006  round again and bring their offspring and their varied charms,
  1007  and yet we are never filled with the fruits of life,
- 1008  this, I think, is what is meant by the girls in the flower of their age {{NOTE: the Danaids, punished in the underworld by carrying water in leaking vessels}}
+ 1008  this, I think, is what they mean by the girls in the flower of age {{NOTE: the Danaids, punished in the underworld by carrying water in leaking vessels}}
  1009  who, they tell, pour water into a vessel full of holes,
  1010  which yet can by no means be filled.
  1011  Cerberus, too, and the Furies, and the lack of light,
@@ -1049,16 +1049,16 @@ TRANSLATOR'S COMMENTARY
  1030  and gave his legions a way to go over the deep
  1031  and taught them to cross the salt lagoons on foot
  1032  and, trampling with his horses, scorned the roar of the sea,
- 1033  had the light taken from him and poured his spirit from a dying body.
+ 1033  robbed of the light, poured out his spirit from a dying body.
  1034  The son of the Scipios, thunderbolt of war, terror of Carthage, {{NOTE: Scipio Africanus, conqueror of Hannibal (or possibly Aemilianus, who destroyed Carthage)}}
  1035  gave his bones to the earth as if he were the lowest servant.
  1036  Add the discoverers of learning and of graces,
  1037  add the companions of the Heliconian Muses; among them Homer,
  1038  who alone held the scepter, sleeps in the same rest as the others.
  1039  Finally Democritus, after ripe old age
- 1040  warned him that the mindful motions of his mind were slackening,
+ 1040  warned him that the remembering motions of his mind were slackening,
  1041  went of his own will to meet death and offered up his head.
- 1042  Epicurus himself died when the light of his life had run its course, {{NOTE: the only place in the poem where Epicurus is named}}
+ 1042  Epicurus himself died, the light of his life run through, {{NOTE: the only place in the poem where Epicurus is named}}
  1043  he who surpassed the human race in genius and put out
  1044  all the stars, as the sun does, risen in the upper air.
  1045  And will you hesitate, and resent it, to die?
@@ -1071,23 +1071,23 @@ TRANSLATOR'S COMMENTARY
  1052  and drift wandering in the wavering error of your mind.'
 
  1053  If men could, just as they plainly feel
- 1054  that there is a weight in the mind that wears them out with its heaviness,
+ 1054  a weight lies in the mind, wearing them out with its heaviness,
  1055  also come to know from what causes it arises, and from where
  1056  so great a mass, as it were, of evil stands in the breast, {{NOTE: text uncertain; "tam quam" printed for Bailey's "tamquam", "as it were"}}
- 1057  they would hardly live their lives as now for the most part we see them,
+ 1057  they would not live their lives as now we mostly see them,
  1058  each not knowing what he wants for himself, and always seeking
  1059  to change his place, as if he could set his burden down.
  1060  Often he goes out of doors from his great house,
- 1061  the man who is sick to death of being at home, and suddenly comes back,
+ 1061  who is weary to death of home, and suddenly comes back,
  1062  since indeed he feels himself no better off outside.
  1063  He races to his villa, driving his ponies headlong, {{NOTE: "mannos", small Gallic ponies, a fashionable luxury of the rich}}
  1064  as if pressing on to bring help to a house on fire;
  1065  he yawns at once, the moment he has touched the villa's threshold,
  1066  or goes off heavily into sleep and looks for forgetfulness,
  1067  or even hurries back to make for the city and see it again.
- 1068  In this way each man runs from himself, but that self, of course, as happens,
- 1069  he cannot escape: it clings to him against his will, and he hates it, {{NOTE: "ingratius" as printed; rendered as Bailey's "ingratis", "against his will"}}
- 1070  for this reason, that, sick as he is, he does not grasp the cause of his disease;
+ 1068  So each man flees himself, yet that self, as happens, of course,
+ 1069  he cannot escape; it clings against his will, and he hates it, {{NOTE: "ingratius" as printed; rendered as Bailey's "ingratis", "against his will"}}
+ 1070  because, sick as he is, he does not grasp the cause of his disease;
  1071  if he saw it clearly, each man would leave his affairs behind
  1072  and study first of all to know the nature of things,
  1073  since it is the state of eternal time, not of a single hour,
@@ -1100,14 +1100,14 @@ TRANSLATOR'S COMMENTARY
  1080  Further, we turn about in the same place and stay there always,
  1081  and no new pleasure is hammered out by living;
  1082  but while what we long for is absent, it seems to surpass
- 1083  all the rest; afterwards, when that has come to us, we long for something else,
+ 1083  the rest; then, when that has come, we long for something else,
  1084  and an equal thirst for life holds us, always gaping.
  1085  And it is in doubt what fortune the coming age will carry,
  1086  or what chance will bring us, or what end is at hand.
  1087  Nor by prolonging life do we take away one jot
  1088  from the time of death, nor can we subtract anything from it
  1089  so that, once destroyed, we might perhaps be dead for less long.
- 1090  Therefore you may live to complete as many generations as you like;
+ 1090  Therefore you may live out as many generations as you like;
  1091  that eternal death will be waiting for you none the less,
  1092  and he will be no more for no less long who, with today's
  1093  light, made an end of life, than he
