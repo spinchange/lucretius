@@ -188,11 +188,6 @@ at 4.823 (the vehementer inesse crux). The English reads the plain word.
 6. Update `translation/CONVENTIONS.md` with any new fixed terms and the table
    at the top of this file.
 
-Uncommitted at the end of the Book 4 session, from the audiobook thread and
-not part of the review: `audiobook/production-onyx.json`,
-`tools/build_audiobook.py` (modified) and `audiobook-source/book_02.txt`
-(new). Left for the user to commit with the Book 2 audiobook build.
-
 ## After the reviews
 
 - Notes stage per book: resolve the `{{NOTE}}` placeholders and Sonnet's
