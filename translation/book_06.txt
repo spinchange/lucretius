@@ -1,18 +1,74 @@
 BOOK 6
 
-[argument: one sentence, to be written]
+Athens, which gave men grain, laws and Epicurus, who found the fault in the
+vessel of the mind; the fears that remain come from the sky, and the book
+explains them: thunder, lightning and the thunderbolt, its fire, its speed
+and its season, and why it cannot be Jupiter's; waterspouts, clouds, rain
+and the rainbow; earthquakes; why the sea does not grow; the fires of Etna;
+the flooding of the Nile; the Avernian places whose breath kills birds, and
+the many harmful exhalations of the earth; springs cold by day and hot by
+night, the spring of Hammon and the spring in the sea at Aradus; the stone
+of Magnesia and how it draws iron; the seeds of disease and why diseases
+differ by place; and the plague of Athens, with which the poem, finished or
+not, ends.
 
 TRANSLATOR'S COMMENTARY
 
-[to be written]
+The text followed is the printed Perseus text, as in Books 1 to 5. Six gaps
+are marked and left unfilled: three in the proem, after 47, 51 and 52, where
+the sentence to the Muse never closes and 52-53 are fragments; one after
+607; one after 697; and one after 839. The source marks a seventh after the
+last line, 1286, and the poem breaks off there in the middle of the plague.
+The source prints two doubtful readings in capitals, caeliQUE at 87 and
+versabundaQUE at 582, and the English renders both as printed, with a note
+at 87 giving the correction most editors make. Lines 30-31, 555, 826-829,
+953-957 and 1012 are uncertain in text or construction and are rendered for
+their probable sense; 60-61 recur at 94-95, where editors think them
+misplaced, and are rendered where they stand. As in Books 3 to 5 the
+transcription doubles a word wherever the original marked a diaeresis, so
+that "air" appears as aeeraeër, aeeraaeëra and aeereaeëre at some twenty
+places (250, 253, 254, 304, 346, 684, 685, 831, 1003, 1142 and elsewhere),
+and poetae (754), suevit (953) and coercet (954) are doubled in the same
+way; these are artifacts of the copy, read as the single word without
+notice.
+
+The register is that of the earlier books, with one word that changes its
+sense. Anima in this book is most often the air itself, a blast of wind shut
+in a bladder (130) or in the earth (578, 586, 591, 693), and there it is
+"air" or "force of air"; where it is the life that leaves a dying bird or
+dog (839, 1223) it is "spirit", as in Book 3. Simulacra are "images" both
+for the films that stream from the gods' bodies to the mind (80) and for the
+statues the thunderbolt breaks (419). Templa are "precincts", of the mortal
+world at 43 and of the gods at 1269; at 750 alone templum is a building, the
+shrine of Pallas on the Acropolis, and is "temple". Ratio is "reasoning" in
+the refrain (41), "principle" where it asks the manner of a thing (639,
+1090), and "pattern" at 1138, where it is the course of a disease. Inane is
+"void" even at 838, where it is the nearly emptied air beneath the falling
+bird and not the void of Book 1. The stone that draws iron is "the Magnes"
+(908), "the stone" or "this Magnesian stone" (1046) in the verse, as in the
+Latin, and "magnet" appears only in the notes; aestus, the stream it sends
+out, is "current" throughout (1003 and after). Foedus is "covenant" (906)
+and religio "religion" (66, 1271).
+
+The book repeats earlier lines freely, and the English repeats itself
+wherever the Latin does: 35-41 are 2.55-61 and 3.87-93, and within them
+39-41 are the refrain of 1.146-148; 60-61 are 1.153-154 and recur at 94-95;
+62-70 are 5.82-90, and 69-70 within them are 1.76-77; 921-935 rework
+4.216-229, with the English the same except at 921-922 and 927, where the
+Latin differs; and 988-989 return at 995-996. The account of the plague of
+Athens (1138-1286) follows Thucydides 2.47-54 closely, and the notes mark
+where Lucretius adds to his source. The rule of several causes stated at
+5.526-533 is restated at 703-711 with the image of the corpse, and governs
+the explanations of thunder, the thunderbolt, earthquakes, Etna, the Nile
+and the magnet.
 
 ------------------------------------------------------------
 
-    1  First, to suffering mortals, the grain-bearing harvests
+    1  First, to suffering mortals, the grain-bearing harvests[1]
     2  were given out long ago by Athens of illustrious name;
     3  she it was who renewed life and enacted laws,
     4  and first gave sweet consolations for life
-    5  when she bore a man found to have such a heart, {{NOTE: Epicurus, unnamed here as in the first proem ("a man of Greece", 1.66)}}
+    5  when she bore a man found to have such a heart[2],
     6  who once poured out all things from his truth-telling lips;
     7  whose glory, though he is extinguished, for divine discoveries
     8  is spread abroad and, old already, carried up to heaven.
@@ -24,7 +80,7 @@ TRANSLATOR'S COMMENTARY
    14  and yet at home the heart in each was no less anxious,
    15  and harried life, against the mind's own will, without any
    16  pause, and were compelled to rage in hostile complaints,
-   17  he understood that it was the vessel itself that made the fault,
+   17  he understood that it was the vessel itself[3] that made the fault,
    18  and that by its fault everything was corrupted within,
    19  whatever was gathered from outside and came in, however good;
    20  partly because he saw that it was leaking and full of holes,
@@ -37,28 +93,28 @@ TRANSLATOR'S COMMENTARY
    27  what it was, and pointed out the road by which, on a narrow track,
    28  we could press on toward it on a straight course,
    29  and what evil there was everywhere in mortal affairs,
-   30  coming about and flying abroad in various forms, whether
+   30  coming about and flying abroad in various forms, whether[4]
    31  by natural chance or force, since nature had so arranged it,
    32  and from what gates it was fitting to go out to meet each;
    33  and he proved that the human race, for the most part in vain,
    34  rolls the gloomy waves of cares within its breast.
-   35  For just as children tremble and fear everything
+   35  For just as children tremble[5] and fear everything
    36  in blind darkness, so we in the light are afraid
    37  at times of things that are no more to be feared than
    38  what children in the dark shudder at and imagine will come.
-   39  This terror of the mind, then, and this darkness {{NOTE: 6.39-41 repeat 1.146-148 (also 2.59-61, 3.91-93); rendered verbatim}}
+   39  This terror of the mind, then, and this darkness
    40  must be scattered not by the sun's rays or the bright shafts of day
    41  but by the face and reasoning of nature.
    42  All the more I will press on to weave out in words what I began.
-   43  And since I have taught that the precincts of the world are mortal,
+   43  And since I have taught that the precincts of the world[6] are mortal,
    44  and that heaven consists of a body that had a birth,
    45  and that of all that comes to be in it, and must come to be,
    46  most are dissolved, take in further what remains,
-   47  since once for all to mount the glorious chariot
+   47  since once for all to mount the glorious chariot[7]
        [lacuna]
    48  you, toward the white line marked out on the final track,
-   49  show me, as I run, the course ahead, cunning Muse, {{NOTE: "callida musa / Calliope": Lucretius puns on the Muse's name}}
-   50  Calliope, rest of men and pleasure of gods, {{NOTE: "divomque voluptas" echoes the opening address to Venus, "pleasure of men and gods" (1.1)}}
+   49  show me, as I run, the course ahead, cunning Muse[8],
+   50  Calliope, rest of men and pleasure of gods[9],
    51  so that with you as guide I may win the crown with signal praise.
        [lacuna]
    52  of winds arise, how all things are appeased again,
@@ -70,16 +126,16 @@ TRANSLATOR'S COMMENTARY
    57  and press them down, flattened to the earth, because
    58  ignorance of causes compels them to assign things
    59  to the command of the gods and to yield them the kingdom.
-   60  The causes of whose workings they can in no way see, {{NOTE: 6.60-61 repeat 1.153-154 and recur at 6.94-95, where they are probably misplaced}}
+   60  The causes of whose workings they can in no way see,[10]
    61  and they suppose them to be done by divine power.
-   62  For those who have learned well that the gods lead a life without care,
+   62  For those who have learned well that the gods lead a life without care[11],
    63  if yet meanwhile they wonder by what principle
    64  each thing can be carried on, above all in those things
    65  that are seen overhead in the shores of the ether,
    66  are carried back again into the old religions
    67  and take on harsh masters, whom the wretches believe
    68  can do all things, ignorant of what can come to be
-   69  and what cannot, and how at last each thing's power is bounded, {{NOTE: 6.69-70 repeat 1.76-77 (also 1.595-596, 5.89-90); rendered verbatim}}
+   69  and what cannot, and how at last each thing's power is bounded,
    70  by what principle, and its boundary-stone set deep;
    71  and so all the more they wander, carried along by blind reasoning.
    72  Unless you spit these things out of your mind and cast far from you
@@ -90,17 +146,17 @@ TRANSLATOR'S COMMENTARY
    77  but because you yourself will picture those who rest in tranquil peace
    78  as rolling great waves of anger,
    79  nor will you approach the shrines of the gods with a calm breast,
-   80  nor the images that are carried from their holy body
+   80  nor the images[12] that are carried from their holy body
    81  into the minds of men, heralds of the divine form,
    82  will you have strength to take in with tranquil peace of mind.
    83  From this you can see what kind of life must follow.
    84  And that truest reasoning may drive this far from us,
    85  though much has already gone forth from me,
    86  yet much remains, and must be adorned with polished
-   87  verses; the order of heaven and of fire must be grasped, {{NOTE: text as printed in the source ("caelique ignisque"); many editors read "caeli speciesque", "the order and face of heaven"}}
+   87  verses; the order of heaven and of fire[13] must be grasped,
    88  storms and the bright thunderbolts must be sung,
    89  what they do and from what cause they are carried, whatever it be,
-   90  lest you tremble, out of your wits, when heaven's parts are divided, {{NOTE: the Etruscan augurs divided the sky into regions to read the meaning of lightning}}
+   90  lest you tremble, out of your wits, when heaven's parts are divided[14],
    91  from what quarter the flying fire has come, or into which half
    92  it has turned from here, in what way through walled-in places
    93  it has slipped in, and how, having held sway, it has carried itself out.
@@ -119,7 +175,7 @@ TRANSLATOR'S COMMENTARY
   106  like stones, or, like smoke, they could not hold together
   107  or keep in the icy snows and the showers of hail.
   108  They give out a sound, too, above the levels of the wide world,
-  109  as at times the canvas stretched over great theaters {{NOTE: the awnings spread over Roman theaters to shade the audience}}
+  109  as at times the canvas stretched over great theaters[15]
   110  gives a crackle, tossed about among the poles and beams,
   111  and sometimes, torn through, runs wild in the boisterous breezes
   112  and imitates the brittle sound of papers;
@@ -140,13 +196,13 @@ TRANSLATOR'S COMMENTARY
   126  with its whirling eddy more and more on every side
   127  compels the cloud to grow hollow, its body thickened all around;
   128  afterwards, when the wind's force and keen onset have broken it,
-  129  then, split, it gives a crash with a terrifying crackling sound. {{NOTE: perterricrepo, a Lucretian coinage, "terror-crackling"}}
-  130  Nor is this a wonder, when a little bladder full of air {{NOTE: anima here is breath or air, not the vital spirit of Book 3}}
+  129  then, split, it gives a crash with a terrifying crackling[16] sound.
+  130  Nor is this a wonder, when a little bladder full of air[17]
   131  often gives no little sound when it is suddenly burst.
   132  There is also a way, when winds blow through the clouds,
   133  for them to make sounds; for indeed we see clouds, branching
   134  and rough, often borne along in many ways;
-  135  just as, when the blasts of the northwest wind blow through a dense wood, {{NOTE: cauri, Caurus, the northwest wind}}
+  135  just as, when the blasts of the northwest wind[18] blow through a dense wood,
   136  the leaves give a sound and the branches a crash.
   137  It happens too at times that the roused force of a strong wind
   138  tears through the cloud, breaking it with a straight onset;
@@ -165,7 +221,7 @@ TRANSLATOR'S COMMENTARY
   151  it is kindled all at once and burns with a huge sound,
   152  as if flame were to roam through mountains leafy with laurel,
   153  burning them up with great onset in a whirlwind of winds;
-  154  nor does anything, more than the Delphic laurel of Phoebus, {{NOTE: Phoebus is Apollo; the laurel was his sacred tree at Delphi}}
+  154  nor does anything, more than the Delphic laurel[19] of Phoebus,
   155  burn with terrible sound in the crackling flame.
   156  Finally, often a great crashing of ice and a downfall
   157  of hail gives a sound high up in great clouds;
@@ -175,7 +231,7 @@ TRANSLATOR'S COMMENTARY
   161  many seeds of fire, as if stone should strike
   162  on stone, or on iron; for then too a light
   163  leaps out and the fire scatters its bright sparks.
-  164  But it happens that we receive the thunder with our ears after
+  164  But it happens that we receive the thunder with our ears after[20]
   165  the eyes see the lightning, because always to the ears
   166  things arrive more slowly than the things that move the sight.
   167  You may learn this from this too: if you see someone
@@ -190,7 +246,7 @@ TRANSLATOR'S COMMENTARY
   176  has made the cloud, as I showed before, grow hollow and thick,
   177  it grows hot by its own mobility; as you see all things,
   178  heated through by motion, take fire; indeed a leaden
-  179  sling-bullet, whirled along a long course, even melts.
+  179  sling-bullet[21], whirled along a long course, even melts.
   180  Therefore when this wind, hot, has cut through the black cloud,
   181  it scatters the seeds of heat, squeezed out as if by force all at once,
   182  which make the flickering lightnings of flame;
@@ -198,7 +254,7 @@ TRANSLATOR'S COMMENTARY
   184  than the things that arrive at the lights of our eyes.
   185  This happens, of course, when clouds are dense and at the same time
   186  piled up high, one upon another, with wondrous onset.
-  187  Do not let it deceive you that we, below, see
+  187  Do not let it deceive you that we, below, see[22]
   188  how broad they are rather than how high they stand piled up.
   189  For observe, when clouds that are made like mountains
   190  are carried crosswise through the air by the winds,
@@ -262,8 +318,8 @@ TRANSLATOR'S COMMENTARY
   247  heaped up on high; for from a clear sky none,
   248  nor from clouds of slight density, are ever sent.
   249  For beyond doubt the plain fact shows that this is so:
-  250  that at such times the clouds grow dense through the whole air, {{NOTE: the source text prints doubled forms here and at 253, 254, 304, 346 where the TEI marks a diaeresis (aëra, aëre); the plain word is read}}
-  251  so that we would think all the darkness on every side had left
+  250  that at such times the clouds grow dense through the whole air,
+  251  so that we would think all the darkness on every side had left[23]
   252  Acheron and filled the great caverns of the sky;
   253  so far, when the foul night of storm-clouds has risen,
   254  do faces of black terror hang over us from above,
@@ -308,9 +364,9 @@ TRANSLATOR'S COMMENTARY
   293  so great a downpour is sent by the rending of the cloud
   294  and the storm of the wind, when the sound flies out with the burning stroke.
   295  There are times, too, when the force of wind, roused from outside,
-  296  falls upon a strong cloud that is ripe at its crest; {{NOTE: maturo culmine, ripe at the crest: the cloud is at the height of its ripeness, ready to let the bolt fall}}
+  296  falls upon a strong cloud that is ripe at its crest;
   297  and when it has torn through it, at once there falls that fiery
-  298  whirl which by our native name we call the thunderbolt. {{NOTE: "patrio nomine": the Latin word fulmen, as against the Greek keraunos}}
+  298  whirl which by our native name[24] we call the thunderbolt.
   299  The same happens in other parts, wherever the force has borne it.
   300  It happens too that at times the force of wind, sent without fire,
   301  nonetheless catches fire in the space of its long passage,
@@ -319,14 +375,14 @@ TRANSLATOR'S COMMENTARY
   304  and, scraping up others from the air itself, carries
   305  tiny ones, which, mixed together, make fire as they fly;
   306  in a way not far different from how a lead
-  307  bullet often grows hot in its course, when, shedding many {{NOTE: glans, the lead sling-bullet}}
+  307  bullet often grows hot in its course, when, shedding many
   308  bodies of cold, it has taken fire in the air.
   309  It happens too that the force of the blow itself rouses fire,
   310  when the force of wind, sent cold and without fire, has struck,
   311  doubtless because, when it has struck with a violent stroke,
   312  elements of heat can flow together out of the wind itself
   313  and at the same time out of the thing that then receives the stroke;
-  314  as, when we strike a stone with iron, fire flies out,
+  314  as, when we strike a stone with iron[25], fire flies out,
   315  nor, because the force of iron is cold, do the seeds
   316  of hot brightness rush together any the less at the stroke.
   317  So, then, a thing must also be kindled by the thunderbolt
@@ -347,7 +403,7 @@ TRANSLATOR'S COMMENTARY
   332  for it slips between and pierces through the loose-knit passages,
   333  and so is not held back by many collisions
   334  and delayed; for this reason it flies, gliding with swift onset.
-  335  Then too, since by nature all weights strive
+  335  Then too, since by nature all weights strive[26]
   336  downward, when a blow is added to this as well,
   337  the mobility is doubled and that onset grows heavier,
   338  so that more violently and more swiftly it shatters with blows
@@ -361,7 +417,7 @@ TRANSLATOR'S COMMENTARY
   346  Perhaps too, as it comes, it draws from the air itself certain
   347  bodies, which by their blows kindle its mobility.
   348  And it comes unharmed through things, and passes through many
-  349  leaving them whole, since the liquid fire passes through their pores.
+  349  leaving them whole, since the liquid fire[27] passes through their pores.
   350  And many it shatters, when the thunderbolt's own bodies
   351  have fallen on the bodies of things where their weave is held.
   352  Further, it easily dissolves bronze and at once makes gold
@@ -377,7 +433,7 @@ TRANSLATOR'S COMMENTARY
   361  fail, nor are the clouds then of so dense a body.
   362  When, therefore, the seasons of heaven stand between the two,
   363  then all the various causes of the thunderbolt run together.
-  364  For the very strait of the year mixes cold with heat, {{NOTE: fretus anni, the "strait" or narrows where two seas meet and churn; Lucretius's figure for the turning of the seasons, explained at 6.374}}
+  364  For the very strait of the year[28] mixes cold with heat,
   365  and a cloud needs both of these for the forging of thunderbolts,
   366  so that there is discord among things, and with a great tumult
   367  the air, raging with fires and winds, heaves like a sea.
@@ -394,13 +450,13 @@ TRANSLATOR'S COMMENTARY
   378  on this side by flames, on that by winds and moisture mixed.
   379  This is to see through the very nature of the fire-bearing
   380  thunderbolt, and to see by what force it does each thing,
-  381  not to unroll the Tyrrhenian chants backward, to no purpose, {{NOTE: the Etruscan books of thunder-lore, used by the haruspices to read lightning as signs from the gods}}
+  381  not to unroll the Tyrrhenian chants[29] backward, to no purpose,
   382  searching out the signs of the hidden mind of the gods:
   383  from what quarter the flying fire has come, or into which half
   384  it has turned from here, in what way through walled-in places
   385  it has slipped in, and how, having held sway, it has carried itself out,
   386  or what harm the stroke of the thunderbolt from heaven can do.
-  387  But if Jupiter and the other gods shake the shining
+  387  But if Jupiter[30] and the other gods shake the shining
   388  precincts of heaven with terrifying sound
   389  and hurl fire wherever each one has the will,
   390  why do they not make those who have some heedless, loathsome crime
@@ -432,12 +488,12 @@ TRANSLATOR'S COMMENTARY
   416  so many thunderbolts come about at one time.
   417  Finally, why does he shatter the holy shrines of the gods
   418  and his own illustrious seats with hostile thunderbolt,
-  419  and break the well-made images of the gods, and strip {{NOTE: simulacra here in the ordinary sense, statues of the gods, not the films of Book 4}}
+  419  and break the well-made images of the gods[31], and strip
   420  his own likenesses of their honor with a violent wound?
   421  And why does he mostly aim at high places, and why do we see
   422  the most traces of his fire on the tops of mountains?
   423  For the rest, it is easy to learn from these things
-  424  how those which the Greeks, from what they are, named presters {{NOTE: prester, Greek "burner"; a fiery whirlwind or waterspout}}
+  424  how those which the Greeks, from what they are, named presters[32]
   425  come down from above into the sea, by what principle.
   426  For it happens at times that a kind of column, let down
   427  from heaven, descends into the sea, and round it the waters
@@ -495,11 +551,11 @@ TRANSLATOR'S COMMENTARY
   478  which are pressed out from there like a breath and so carried upward,
   479  and they suffuse the sky with their murk, and high
   480  clouds they furnish, little by little, by coming together;
-  481  for the sign-bearing ether's heat presses on them from above too, {{NOTE: signifer aether, the heaven that carries the signs of the zodiac; cf. 1.2 "the gliding signs of heaven".}}
+  481  for the sign-bearing ether[33]'s heat presses on them from above too,
   482  and, as if by packing them close, weaves rain-cloud beneath the blue.
   483  It happens too that into this sky there come from outside those
   484  bodies that make clouds and flying storm-clouds;
-  485  for I have taught that their number is past counting, and the sum
+  485  for I have taught that their number is past counting, and the sum[34]
   486  of the deep infinite, and have shown with what mobility
   487  the bodies fly, and how in a moment
   488  they are used to passing across a space beyond telling.
@@ -540,7 +596,7 @@ TRANSLATOR'S COMMENTARY
   523  and when the whole earth, steaming, breathes its moisture back.
   524  Here, when the sun with its rays amid the dark storm
   525  has shone facing it, against the spray of the rain-clouds,
-  526  then the color of the bow appears in the black clouds.
+  526  then the color of the bow[35] appears in the black clouds.
   527  The other things that grow on high and are created on high,
   528  and that grow together in the clouds, all of them, utterly
   529  all, snow, winds, hail, and the chill hoarfrosts,
@@ -569,7 +625,7 @@ TRANSLATOR'S COMMENTARY
   552  It happens too, when into great and vast pools of water
   553  a huge clod rolls down from the earth through age,
   554  that the earth too is tossed by the wave of the water and totters;
-  555  as a vessel cannot stand firm in water unless the liquid {{NOTE: inter aquas is doubtful; many editors read interdum, "a vessel sometimes cannot stand steady".}}
+  555  as a vessel cannot stand firm[36] in water unless the liquid
   556  within has ceased to be tossed about in an unsteady wave.
   557  Further, when wind, gathered through the hollow places of the earth,
   558  leans forward from one quarter and presses,
@@ -592,14 +648,14 @@ TRANSLATOR'S COMMENTARY
   575  By this principle, therefore, all buildings totter,
   576  tops more than middles, middles than bottoms, bottoms hardly at all.
   577  This too is a cause of that same great trembling:
-  578  when wind and some very great force of air, suddenly {{NOTE: anima here and at 586, 591 is air or breath, not the vital spirit of Book 3.}}
+  578  when wind and some very great force of air, suddenly
   579  arising either from outside or from the earth itself,
   580  has hurled itself into the hollow places of the earth, and there
   581  among the great caverns first roars with tumult
   582  and is carried whirling round, and then, when its force, driven on
   583  and harried, bursts out of doors, and at the same time, splitting the deep
   584  earth, it makes a great gaping chasm.
-  585  This happened at Sidon in Syria, and was so at Aegium {{NOTE: Aegium in Achaea, struck by an earthquake in 373 BC, when nearby Helice sank into the sea.}}
+  585  This happened at Sidon[37] in Syria, and was so at Aegium
   586  in the Peloponnese, cities which this outbreak of air
   587  and the earthquake that rose up threw into ruin.
   588  And many walls besides have fallen through great
@@ -615,7 +671,7 @@ TRANSLATOR'S COMMENTARY
   598  should suddenly dissolve the caverns of the earth,
   599  or lest, torn apart, it spread its gaping chasm wide
   600  and, thrown into confusion, seek to fill it with its own ruins.
-  601  Therefore, however much they may think that heaven and earth
+  601  Therefore, however much they may think that heaven and earth[38]
   602  will be uncorrupted, entrusted to eternal safety,
   603  yet now and then the very present force of danger
   604  sets beneath them this goad of fear as well, from some quarter,
@@ -643,7 +699,7 @@ TRANSLATOR'S COMMENTARY
   624  of moisture as they sweep the levels, since very often
   625  we see the roads dried by the winds in a single night
   626  and soft mud hardening into crusts.
-  627  Further, I have shown that the clouds too lift much {{NOTE: refers back to 6.470-482, where clouds draw moisture from the sea}}
+  627  Further, I have shown[39] that the clouds too lift much
   628  moisture, taken up from the great level of the sea,
   629  and scatter it everywhere over the whole round of lands,
   630  when it rains on the earth and the winds carry the clouds.
@@ -651,18 +707,18 @@ TRANSLATOR'S COMMENTARY
   632  and is joined to the sea, girding its shores on every side,
   633  it must be that, as water's moisture comes from land into sea,
   634  so it seeps likewise into the lands from the salt level;
-  635  for the brine is strained out, and the matter of moisture {{NOTE: virus, the sea's bitter salt, filtered out as the water passes through the earth}}
+  635  for the brine[40] is strained out, and the matter of moisture
   636  oozes back, and all of it gathers at the heads of the rivers,
   637  and from there returns over the lands, a column of sweet water,
   638  where the way, once cut, has carried the waves down with liquid foot.
-  639  Now what the principle is by which, through the jaws of Mount Etna,
+  639  Now what the principle is by which, through the jaws of Mount Etna[41],
   640  fires at times breathe out in so great a whirlwind
   641  I shall unfold; for with no common disaster did the storm
   642  of flame arise and, holding sway over the Sicilian fields,
   643  turned the faces of the neighboring peoples toward itself,
   644  when, seeing all the precincts of heaven smoking and sparkling,
   645  they filled their hearts with fearful anxiety
-  646  at what new things nature might be working. {{NOTE: rerum ... novarum, "new things", also the Roman idiom for revolution; the words echo rerum natura}}
+  646  at what new things[42] nature might be working.
   647  In these matters you must look widely and deeply
   648  and see far out into every quarter,
   649  that you may remember the sum of things is unfathomable,
@@ -676,7 +732,7 @@ TRANSLATOR'S COMMENTARY
   657  or any other pain of disease through the body?
   658  For suddenly the foot swells; often a sharp pain
   659  seizes the teeth, invades the very eyes;
-  660  the sacred fire breaks out and, creeping in the body, burns {{NOTE: sacer ignis, a spreading skin inflammation, probably erysipelas or shingles}}
+  660  the sacred fire[43] breaks out and, creeping in the body, burns
   661  whatever part it has seized, and crawls through the limbs,
   662  no doubt because there are seeds of many things,
   663  and this earth and heaven bear enough of disease and harm
@@ -700,7 +756,7 @@ TRANSLATOR'S COMMENTARY
   681  blows out from the vast furnaces of Etna
   682  I shall unfold. First, the nature of the whole mountain
   683  is hollow beneath, held up for the most part on caverns of flint.
-  684  Further, in all the caves there is wind and air. {{NOTE: the source prints a doubled form of aer here and at 685, where the TEI marks a diaeresis; the plain word is read}}
+  684  Further, in all the caves there is wind and air.
   685  For wind arises when air is stirred and set in motion.
   686  When this has grown hot through and through and, raging, has heated
   687  all the rocks around, where it touches, and the earth, and from them
@@ -709,18 +765,18 @@ TRANSLATOR'S COMMENTARY
   690  And so it carries its heat far, and far it scatters
   691  the ash, and rolls smoke in thick darkness,
   692  and thrusts out at the same time rocks of wondrous weight;
-  693  so you need not doubt that this is the stormy force of air. {{NOTE: animai here is breath or wind, not the spirit of Book 3}}
+  693  so you need not doubt that this is the stormy force of air.
   694  Further, along a great part of its length the sea breaks its waves
   695  at the roots of that mountain and draws back its surge.
   696  From this sea, caves reach beneath to the high jaws
-  697  of the mountain. By this way, we must admit, there passes
+  697  of the mountain. By this way[44], we must admit, there passes
        [lacuna]
   698  and the fact compels, that it pierces deep from the open sea
   699  and breathes out, and therefore lifts the flame
   700  and throws up rocks and raises clouds of sand.
-  701  For on the topmost summit there are craters, as they themselves {{NOTE: krateres, Greek "mixing-bowls"; "they" are the Greeks of Sicily}}
+  701  For on the topmost summit there are craters[45], as they themselves
   702  give them the name, what we call jaws and mouths.
-  703  There are some things, too, for which to state one cause
+  703  There are some things, too, for which to state one cause[46]
   704  is not enough, but several, though one of them is the true one;
   705  just as, if you yourself should see the lifeless body
   706  of a man lying far off, it is fitting to name all
@@ -729,18 +785,18 @@ TRANSLATOR'S COMMENTARY
   709  or by cold, or by disease, or perhaps by poison,
   710  but we know that what befell him is something
   711  of this kind. So we can say the same in many matters.
-  712  The Nile rises toward summer and overflows the plains,
+  712  The Nile[47] rises toward summer and overflows the plains,
   713  unique on earth, the river of all Egypt.
   714  It waters Egypt often in the middle of the heat,
   715  either because in summer the north winds blow against its mouths,
-  716  at that time of year when they are said to be the Etesians, {{NOTE: the Etesian winds, steady northerlies of the Mediterranean summer}}
+  716  at that time of year when they are said to be the Etesians,
   717  and blowing against the stream hold it back, and driving
   718  the waters upward fill it and force it to stay.
   719  For beyond doubt these blasts are carried against
   720  the stream, blasts driven from the chill stars of the pole;
   721  that river comes from the heat-bearing quarter, from the south,
   722  among the black generations of men, their color baked through,
-  723  rising far within, from the region of midday. {{NOTE: "the region of midday" is the south, where the sun stands at noon}}
+  723  rising far within, from the region of midday.
   724  It may be, too, that a great heap of sand
   725  blocks up the mouths against the opposing waves,
   726  when the sea, stirred up by winds, sweeps sand inward;
@@ -758,21 +814,21 @@ TRANSLATOR'S COMMENTARY
 
   738  Come now: whatever the Avernian places and lakes may be,
   739  I will explain to you with what nature they are endowed.
-  740  First, the name by which they are called, Avernian, was given {{NOTE: Lucretius takes the name from Greek aornos, "birdless".}}
+  740  First, the name by which they are called, Avernian[48], was given
   741  from the fact itself, because they are hostile to all birds:
   742  when birds in their flight have come over those places,
   743  they forget the oarage of their wings, they slacken their sails,
   744  and fall headlong, their soft necks drooping, stretched out
   745  on the ground, if the nature of the place so happens to have it,
   746  or in the water, if a lake of Avernus lies beneath.
-  747  Such a place is near Cumae, where the mountains, filled {{NOTE: Lake Avernus, near Cumae on the Bay of Naples, was the traditional entrance to the underworld.}}
+  747  Such a place is near Cumae, where the mountains, filled
   748  with pungent sulphur, smoke, enriched with hot springs.
   749  There is one too within the walls of Athens, on the very
-  750  citadel's top, by the temple of kindly Pallas Tritonis, {{NOTE: Pallas Tritonis, Athena, named from Lake Triton in Libya, her birthplace in one story}}
+  750  citadel's top, by the temple of kindly Pallas Tritonis[49],
   751  where the hoarse ones never bring their bodies on the wing,
   752  the crows, not even when the altars smoke with offerings;
   753  so constantly do they shun it, not from Pallas's fierce anger
-  754  at their watchfulness, as the poets of the Greeks have sung, {{NOTE: The myth is that Athena banished crows from the Acropolis because a crow told her that Cecrops' daughters had opened the chest holding Erichthonius.}}
+  754  at their watchfulness, as the poets of the Greeks have sung,
   755  but the nature of the place does the work by its own power.
   756  In Syria too, it is said, a place is likewise to be seen
   757  where, as soon as even four-footed beasts have first set
@@ -780,11 +836,11 @@ TRANSLATOR'S COMMENTARY
   759  as if they had suddenly been slaughtered to the divine shades.
   760  All these things are brought about by a natural principle,
   761  and the causes they come from, their origin, are plain to see,
-  762  lest a gate of Orcus be believed to lie in these regions,
+  762  lest a gate of Orcus[50] be believed to lie in these regions,
   763  and we then think spirits are led from here to Acheron's shores,
   764  led down, it may be, by the gods of the shades below,
   765  as wing-footed stags are often thought, with their nostrils,
-  766  to draw from their lairs the crawling generations of wild things. {{NOTE: The belief was that stags draw snakes out of their holes by their breath (Pliny, Natural History 8.118).}}
+  766  to draw from their lairs the crawling generations[51] of wild things.
   767  How far this is driven from true reasoning,
   768  take note; for now I attempt to speak of the thing itself.
   769  First, I say this, as I have often said before as well:
@@ -804,15 +860,15 @@ TRANSLATOR'S COMMENTARY
   783  first, to certain trees an oppressive shade is given,
   784  so much so that they often cause pains of the head
   785  if someone has lain stretched out beneath them on the grass.
-  786  There is also, on the great mountains of Helicon, a tree
+  786  There is also, on the great mountains of Helicon[52], a tree
   787  that is used to killing a man with the foul smell of its flower.
   788  Plainly all these rise up out of the earth for this reason,
   789  that many seeds of many things, in many ways,
   790  the earth holds mixed together, and gives them forth apart.
   791  And a night-lamp, newly put out, when with its sharp
   792  reek it strikes the nostrils, puts to sleep there and then
-  793  the one whose sickness makes him fall and foam at the mouth. {{NOTE: Epilepsy, the "falling sickness".}}
-  794  And a woman, put to sleep by heavy castoreum, sinks back, {{NOTE: Castoreum: a strong-smelling secretion of the beaver, used in ancient medicine.}}
+  793  the one whose sickness makes him fall and foam at the mouth[53].
+  794  And a woman, put to sleep by heavy castoreum[54], sinks back,
   795  and the bright work slips from her tender hands,
   796  if she has smelled it at the time of her monthly flow.
   797  Many things besides make the limbs droop, and through the joints
@@ -828,7 +884,7 @@ TRANSLATOR'S COMMENTARY
   807  is produced, and bitumen thickens with a foul smell,
   808  and again, where men follow the veins of silver and of gold,
   809  searching with iron the hidden places deep in the earth,
-  810  what smells Scaptensula breathes out from below? {{NOTE: Scaptensula (Skapte Hyle): a gold-mining district in Thrace.}}
+  810  what smells Scaptensula[55] breathes out from below?
   811  Or what evil the gold mines breathe out!
   812  What faces, what colors they give to men!
   813  Do you not see, or hear, how in a short time
@@ -845,7 +901,7 @@ TRANSLATOR'S COMMENTARY
   824  And when it has collapsed there, the same force of that exhalation
   825  takes the remnants of life from all its limbs.
   826  For indeed at first it stirs in it a kind of turmoil;
-  827  afterwards it comes about, when they have fallen at last {{NOTE: The text and punctuation of 826-829 are uncertain; the sense is that birds fallen into the source of the poison must vomit out their life.}}
+  827  afterwards it comes about, when they have fallen at last[56]
   828  into the poison's very springs, life too must there be vomited,
   829  because there is a great abundance of evil all around.
   830  It happens too that this force and exhalation of Avernus
@@ -856,7 +912,7 @@ TRANSLATOR'S COMMENTARY
   835  and all the striving of the wings on either side is betrayed.
   836  Here, when they cannot lean their weight and rest upon their wings,
   837  plainly, it forces them by their weight to slip down to the earth,
-  838  nature does, and lying now through the almost empty void
+  838  nature does, and lying now through the almost empty void[57]
   839  they scatter their spirits through all the passages of the body.
        [lacuna]
   840  Further, the water in wells grows colder in summer,
@@ -867,7 +923,7 @@ TRANSLATOR'S COMMENTARY
   845  Again, when all the earth is pressed by cold and draws together
   846  and as it were congeals, plainly in drawing together
   847  it squeezes out into the wells whatever heat it holds.
-  848  There is, by the shrine of Hammon, a spring in the light of day {{NOTE: Hammon (Ammon): the oracle of Zeus Ammon at the oasis of Siwa in the Libyan desert.}}
+  848  There is, by the shrine of Hammon[58], a spring in the light of day
   849  cold, and hot in the time of night, so the story goes.
   850  At this spring men marvel too much, and suppose that by the fierce
   851  sun beneath the earth it partly grows hot
@@ -910,7 +966,7 @@ TRANSLATOR'S COMMENTARY
   887  yet not so many that the spring could become hot;
   888  further, a force compels them, scattered, to break out
   889  suddenly through the water and to gather together above.
-  890  Of this kind in the sea at Aradus is the spring of fresh {{NOTE: Aradus, an island city off the Phoenician coast, known for a freshwater spring rising from the seabed.}}
+  890  Of this kind in the sea at Aradus[59] is the spring of fresh
   891  water, that gushes and pushes away the salt waves round it;
   892  and in many other regions too the level sea offers
   893  a timely service to thirsty sailors,
@@ -926,10 +982,10 @@ TRANSLATOR'S COMMENTARY
   903  And many other things, further, touched first by the heat itself,
   904  blaze up at a distance before fire soaks them from close by.
   905  This, then, we must think also happens in that spring.
-  906  For the rest, I shall begin to set out by what covenant
+  906  For the rest, I shall begin to set out by what covenant[60]
   907  of nature it comes about that this stone can draw iron,
-  908  which the Greeks call the Magnes, from its native name, {{NOTE: Magnes lithos, the Magnesian stone, our "magnet"; Lucretius keeps the Greek name, lapis Magnes (6.1046)}}
-  909  because it arose within the native bounds of the Magnetes. {{NOTE: The Magnetes, people of Magnesia (in Thessaly, or Magnesia in Lydia); hence "magnet".}}
+  908  which the Greeks call the Magnes[61], from its native name,
+  909  because it arose within the native bounds of the Magnetes.
   910  Men marvel at this stone; for it often makes
   911  a chain out of rings hanging down from itself.
   912  For indeed you may see at times five or more
@@ -941,7 +997,7 @@ TRANSLATOR'S COMMENTARY
   918  you can give a reasoning of the thing itself,
   919  and it must be approached by very long windings;
   920  so all the more I ask of you attentive ears and mind.
-  921  First, from all the things we see, whatever they are, {{NOTE: 6.921-935 closely repeat 4.216-229; the English repeats its Book 4 lines where the Latin agrees}}
+  921  First, from all the things we see, whatever they are,[62]
   922  bodies must ceaselessly flow and be scattered, and they
   923  are sent out that strike the eyes and provoke the sight.
   924  And from certain things odors flow perpetually;
@@ -957,7 +1013,7 @@ TRANSLATOR'S COMMENTARY
   934  since we perpetually feel, and may always
   935  see all things, smell them, and sense them sounding.
   936  Now I shall go back to recall how porous of body
-  937  all things are; which is clear also in my first song. {{NOTE: Book 1, esp. 1.346-357, on water, food, sound, and cold passing through solid things.}}
+  937  all things are; which is clear also in my first song[63].
   938  For indeed, although to know this bears on many matters,
   939  among the first, for this very matter now at hand,
   940  which I set about discussing, it must be established
@@ -974,10 +1030,10 @@ TRANSLATOR'S COMMENTARY
   951  Finally, through the stone partitions of houses voices
   952  fly through, smell streams through, and cold, and the heat
   953  of fire, which is used to piercing even the strength of iron,
-  954  finally where the breastplate of the sky encloses all around, {{NOTE: the "breastplate of the sky" is the outer wall of the world; the line is suspect and its connection uncertain.}}
+  954  finally where the breastplate of the sky[64] encloses all around,
   955  and the force of disease as well, when it creeps in from outside;
   956  and storms that have arisen in earth and sky
-  957  withdraw, far off, into sky and earth, as is right; {{NOTE: 956-957 text and sense uncertain; rendered as Bailey's text stands.}}
+  957  withdraw, far off, into sky and earth, as is right;
   958  since nothing is put together except with porous body.
   959  Add to this that not all the bodies, whatever they are, thrown off
   960  from things are endowed with the same effect on sense
@@ -990,7 +1046,7 @@ TRANSLATOR'S COMMENTARY
   967  but hides and flesh it draws and contracts into one.
   968  The moisture of water, again, hardens iron from the fire,
   969  but softens hides and flesh hardened by heat.
-  970  The wild olive so delights the bearded she-goats,
+  970  The wild olive[65] so delights the bearded she-goats,
   971  as if it truly flowed with ambrosia and were steeped in nectar,
   972  though for man nothing grows more bitter than its sour leaf.
   973  Finally, the pig flees marjoram oil and fears every
@@ -1008,12 +1064,12 @@ TRANSLATOR'S COMMENTARY
   985  each of which takes in its own proper object;
   986  for we see sounds penetrate by one way, by another flavor
   987  from juices, by another the scents of reek.
-  988  Clearly it is the nature of the paths that compels this,
+  988  Clearly it is the nature of the paths that compels this,[66]
   989  varying in many ways, as we showed a little before.
   990  Further, one thing seems to stream through rocks,
   991  another through wood, another to pass through gold,
   992  and another to make its way out through silver and glass;
-  993  for here appearances are seen to flow, there heat to go, {{NOTE: species here = the visible appearances (the images) that pass through glass.}}
+  993  for here appearances[67] are seen to flow, there heat to go,
   994  and the same things to let one thing through more quickly than others.
   995  Clearly it is the nature of the paths that compels this,
   996  varying in many ways, as we showed a little before,
@@ -1024,7 +1080,7 @@ TRANSLATOR'S COMMENTARY
  1001  cause laid open, that lures the force of iron.
 
  1002  First, from this stone there must flow very many
- 1003  seeds, or a current, which with its blows drives apart all the air {{NOTE: aestus, "current" or "surge", here and below (6.1049, 1051, 1056, 1059), is the stream that pours from the magnet.}}
+ 1003  seeds, or a current[68], which with its blows drives apart all the air
  1004  that is lodged anywhere between the stone and the iron.
  1005  When this space is emptied, and a great deal of place
  1006  in the middle is emptied, at once the iron's first-beginnings
@@ -1033,7 +1089,7 @@ TRANSLATOR'S COMMENTARY
  1009  Nor is there anything that, from its own first elements,
  1010  entangled and tightly linked, holds together more closely
  1011  than the nature of strong iron, that cold, rough thing.
- 1012  So it is less a wonder, the thing that is called strange, {{NOTE: The text of this line is uncertain; the sense is that the result follows naturally from what has just been said.}}
+ 1012  So it is less a wonder, the thing that is called strange,[69]
  1013  if bodies, rising in numbers from the iron,
  1014  cannot go into the void without the ring itself following;
  1015  and this it does, and follows, until it has reached
@@ -1065,7 +1121,7 @@ TRANSLATOR'S COMMENTARY
  1041  plunged once, and has made its effort toward the empty part.
  1042  It happens too that the nature of iron draws back from this stone
  1043  at times, used as it is to flee and follow by turns.
- 1044  I have even seen Samothracian iron rings leap, {{NOTE: Samothracian rings: iron rings, perhaps magnetized, associated with the mysteries of Samothrace.}}
+ 1044  I have even seen Samothracian[70] iron rings leap,
  1045  and iron filings rage at the same time inside bronze
  1046  bowls, when this Magnesian stone was set beneath;
  1047  so eagerly does the iron seem to long to flee the stone.
@@ -1095,12 +1151,12 @@ TRANSLATOR'S COMMENTARY
  1071  than the bull-glue's bonds can loosen their hold.
  1072  The vine-born liquors dare to mingle with the springs
  1073  of water, though heavy pitch cannot, nor light olive oil.
- 1074  And the purple color of the shellfish is joined in one
+ 1074  And the purple color of the shellfish[71] is joined in one
  1075  body with the wool, so that it can never be parted,
  1076  not if you took pains to renew it with Neptune's flood,
  1077  not if the whole sea wished to wash it out with all its waves.
- 1078  Again, is there not one thing alone that couples gold to gold, {{NOTE: The gold-solder the ancients called chrysocolla.}}
- 1079  and does it not come about that bronze is joined to bronze by white lead? {{NOTE: "White lead" (plumbum album) is tin, used as solder.}}
+ 1078  Again, is there not one thing alone that couples gold to gold,
+ 1079  and does it not come about that bronze is joined to bronze by white lead?
  1080  How many others one could find! What then?
  1081  You have no need anywhere of such long windings,
  1082  nor is it fitting for me to spend so much labor here;
@@ -1111,7 +1167,7 @@ TRANSLATOR'S COMMENTARY
  1087  There is also the case where, as if folded with rings and hooks,
  1088  certain things can be held coupled to one another;
  1089  which seems to happen rather with this stone and iron.
- 1090  Now what the principle of disease is, and from where, suddenly,
+ 1090  Now what the principle of disease[72] is, and from where, suddenly,
  1091  a force of sickness, risen, can blow up a deadly disaster
  1092  for the race of men and the herds of beasts,
  1093  I shall unfold. First, that there are seeds of many things
@@ -1127,17 +1183,17 @@ TRANSLATOR'S COMMENTARY
  1103  Do you not see, too, that by the strangeness of sky and waters
  1104  those are attacked who come from far away from country and home,
  1105  because things differ so widely?
- 1106  For how much do we think the sky of the Britons differs
- 1107  from that in Egypt, where the axis of the world limps, {{NOTE: In the south the celestial pole sinks low, so the world's axis seems to lean.}}
+ 1106  For how much do we think the sky of the Britons[73] differs
+ 1107  from that in Egypt, where the axis of the world limps,
  1108  or how much what is in Pontus differs from Gades, and from
  1109  to the black generations of men, their color baked through?
  1110  As we see these four regions differ among themselves,
  1111  by the four winds and quarters of the sky,
  1112  so the color and face of men are seen to differ
  1113  widely, and diseases to hold the races kind by kind.
- 1114  There is the elephant disease, which by the streams of the Nile {{NOTE: Elephantiasis, probably a form of leprosy.}}
+ 1114  There is the elephant disease[74], which by the streams of the Nile
  1115  is born in the middle of Egypt, and nowhere else.
- 1116  In Attica the feet are attacked, and the eyes in the Achaean
+ 1116  In Attica[75] the feet are attacked, and the eyes in the Achaean
  1117  lands. So one place is hostile to one part
  1118  and limb, another to another; the varying air does this.
  1119  Therefore, when a sky that happens to be alien to us
@@ -1160,18 +1216,18 @@ TRANSLATOR'S COMMENTARY
  1136  or something we are not used to using,
  1137  which can attack us by its fresh arrival.
 
- 1138  A pattern of disease like this, and a death-bearing heat, once {{NOTE: ratio here is the "pattern" or "manner" of disease, not the poet's "reasoning".}}
- 1139  made the fields deadly within the borders of Cecrops {{NOTE: Athens, whose legendary first king was Cecrops; the plague of 430 BC, told after Thucydides 2.47-54.}}
+ 1138  A pattern of disease[76] like this, and a death-bearing heat, once
+ 1139  made the fields deadly within the borders of Cecrops[77]
  1140  and laid waste the roads and drained the city of its citizens.
  1141  For coming from deep within, risen in the borders of Egypt,
  1142  having measured out much air and the swimming plains of the sea,
- 1143  it fell at last upon the whole people of Pandion. {{NOTE: Pandion, a legendary king of Athens; his people are the Athenians.}}
+ 1143  it fell at last upon the whole people of Pandion.
  1144  From then on, in throngs, they were handed over to disease and death.
  1145  At first they carried their heads on fire with fever
  1146  and both their eyes red with a light suffused through them.
  1147  Further, the throat, black within, sweated
  1148  with blood, and the path of the voice, hedged with ulcers, closed,
- 1149  and the tongue, the mind's interpreter, oozed gore,
+ 1149  and the tongue, the mind's interpreter[78], oozed gore,
  1150  weakened by its ills, heavy to move, rough to the touch.
  1151  Then, when through the throat it had filled the chest, and the very
  1152  force of the disease had flowed into the sick men's grieving heart,
@@ -1189,14 +1245,14 @@ TRANSLATOR'S COMMENTARY
  1164  the outermost part on the surface of the body burning,
  1165  but rather it offered a lukewarm touch to the hands,
  1166  and all the body at once reddened with ulcers as if burned in,
- 1167  as it does when the sacred fire spreads through the limbs. {{NOTE: sacer ignis, probably erysipelas or a similar inflammation of the skin.}}
+ 1167  as it does when the sacred fire spreads through the limbs.
  1168  But the inmost part of these men blazed to the bones,
  1169  a flame blazed in the stomach as in furnaces within.
  1170  Nothing, then, however light and thin, could you turn
  1171  to use for anyone's limbs, but always wind and cold.
  1172  Some gave their limbs, burning with disease, to the icy
  1173  rivers, throwing their naked bodies into the waves.
- 1174  Many plunged headlong, from high, into the nymphs of the wells, {{NOTE: nymphis putealibus, "the nymphs of the wells": the nymphs stand for the water.}}
+ 1174  Many plunged headlong, from high, into the nymphs of the wells[79],
  1175  coming at them with their mouths themselves gaping open:
  1176  thirst, not to be appeased, plunging their parched bodies in,
  1177  made a great flood of water no more than a few drops.
@@ -1221,7 +1277,7 @@ TRANSLATOR'S COMMENTARY
  1196  And not long after, their limbs lay stiff in death.
  1197  And about the eighth bright light of the sun,
  1198  or even at the ninth lamp of day, they gave back their life.
- 1199  If any of them, as happens, had escaped death's funeral,
+ 1199  If any of them, as happens, had escaped death's funeral[80],
  1200  yet with foul ulcers and a black flux of the bowels
  1201  wasting and death awaited him later on,
  1202  or else, often with pain in the head, much
@@ -1235,7 +1291,7 @@ TRANSLATOR'S COMMENTARY
  1210  and some, without hands and feet, remained
  1211  yet in life, and some lost the lights of their eyes.
  1212  So keen a fear of death had come upon them.
- 1213  And some, too, were seized by forgetfulness of all
+ 1213  And some, too, were seized by forgetfulness[81] of all
  1214  things, so that they could not even know themselves.
  1215  And though many bodies lay unburied on the ground, upon
  1216  bodies, yet the race of birds and of wild beasts
@@ -1245,7 +1301,7 @@ TRANSLATOR'S COMMENTARY
  1220  to be seen, nor did the gloomy generations of wild beasts
  1221  come out of the woods. Most of them grew faint with the disease
  1222  and died. Foremost, the faithful strength of dogs,
- 1223  strewn in all the streets, gave up its spirit painfully;
+ 1223  strewn in all the streets, gave up its spirit[82] painfully;
  1224  for the force of the disease wrenched the life from their limbs.
  1225  Vast funerals, unattended, vied to be hurried away,
  1226  nor was any sure and common method of remedy given;
@@ -1259,7 +1315,7 @@ TRANSLATOR'S COMMENTARY
  1234  and, looking to funerals, gave up his spirit on the spot.
  1235  For indeed at no time did they cease to catch,
  1236  one from another, the contagion of the greedy disease,
- 1237  just like woolly flocks and the horned generations of cattle,
+ 1237  just like woolly flocks[83] and the horned generations of cattle,
  1238  and this above all heaped funeral upon funeral.
  1239  For whoever shunned visiting their own sick,
  1240  too greedy for life and fearful of death,
@@ -1289,11 +1345,11 @@ TRANSLATOR'S COMMENTARY
  1264  bristling with filth and covered with rags, perishing
  1265  in the body's foulness, skin alone upon their bones,
  1266  already almost buried in foul ulcers and dirt.
- 1267  Death, finally, had filled all the holy shrines of the gods
+ 1267  Death, finally, had filled all the holy shrines[84] of the gods
  1268  with lifeless bodies, and everywhere, loaded
  1269  with corpses, stood all the precincts of the heavenly ones,
  1270  places their wardens had filled with guests.
- 1271  For now neither the gods' religion nor their divine power
+ 1271  For now neither the gods' religion[85] nor their divine power
  1272  counted for much: the present pain overwhelmed them.
  1273  Nor did that custom of burial remain in the city
  1274  by which this people had always been buried before;
@@ -1308,312 +1364,427 @@ TRANSLATOR'S COMMENTARY
  1283  they strove; they came back worn out with tears and grief;
  1284  then a good part were given over to their beds through grief;
  1285  nor could anyone be found whom neither disease
- 1286  nor death nor mourning assailed at such a time. {{NOTE: The poem ends here; whether Lucretius meant this as its close or left the work unfinished is disputed.}}
+ 1286  nor death nor mourning assailed at such a time.[86]
 
 ------------------------------------------------------------
 
-Notes (DRAFT)
-
-[DRAFT] (6.1) Athens: the city is credited with giving grain (Ceres' gift, "frugiparos fetus") and law, and then with giving Epicurus; the same praise of Athens opens no other book, but the structure recalls the praise of Epicurus that opens Books 3 and 5. Place the Book 6 proem in that series.
-
-[DRAFT] (6.5) The man is Epicurus, left unnamed ("virum tali cum corde repertum") as in the first proem, where he is "Graius homo" (1.66). The translation keeps the periphrasis and does not supply the name; the later "extincti" (6.7) confirms he is dead.
-
-[DRAFT] (6.17) The vessel image (vas) is the leaky jar of the Danaids, developed more fully at 3.936-938 and 3.1003-1010. The diagnosis is that the fault lies in the container, the mind, not in what is poured in.
-
-[DRAFT] (6.30) "naturali varieque volaret seu casu seu vi": the text here is difficult and often marked corrupt, and "naturali" is a suspect reading. The translation renders "natural chance or force" and follows the printed text without emending it.
-
-[DRAFT] (6.39) These lines repeat 1.146-148, 2.59-61 and 3.91-93 verbatim. In the register this is the fixed refrain on the terror of the mind ("naturae species ratioque"), and the English repeats its earlier wording word for word.
-
-[DRAFT] (6.43) "mundi mortalia templa": templa here means regions or precincts of the world, not temples, in line with the register's rendering of Acherusia templa (1.120). The sentence recalls the argument of Book 5 that the world has a beginning and an end.
-
-[DRAFT] (6.47) The text is damaged here: a lacuna follows line 47 (and again after 51, 52), so the syntax of 47-48 does not close and "tu" in 48 has no clear verb. The translation prints the lacunae unnumbered and supplies nothing. Line 47 is also given a different position by some editors.
-
-[DRAFT] (6.49) "callida musa / Calliope": the epithet may play on Calliope's name, "beautiful voice", but the pun is unclear in Latin and the English does not reproduce it. The racetrack imagery (candida callis, spatium, currenti, coronam) is carried over from the end of the course, a metaphor Lucretius used at 1.926 ff. in the poet's laurel claim.
-
-[DRAFT] (6.50) "hominum divomque voluptas" echoes the first line of the poem, where Venus is "hominum divomque voluptas" (1.1). The register fixes voluptas as "pleasure", so the repetition is audible in English.
-
-[DRAFT] (6.52) The sense of 52-53 is fragmentary because lacunae surround both lines. "ventorum existant" probably belongs to a list of topics of the book, namely the origin and quieting of winds, but the translation does not guess the missing governing words.
-
-[DRAFT] (6.58) "ignorantia causarum": the doctrine in compressed form. For Epicurus, fear of the gods arises from ignorance of natural causes, especially of the heavenly and meteorological phenomena that Book 6 will explain by several possible causes.
-
-[DRAFT] (6.60) These lines repeat 1.153-154 and recur at 6.94-95, where many editors think they have been misplaced. The English repeats its earlier wording verbatim, in line with the register's policy on whole-passage repetition.
-
-[DRAFT] (6.62) "deos securum agere aevom": Epicurean doctrine that the gods live in untroubled peace and take no part in the affairs of the world. The following lines argue that the pious fall back into fear if they still wonder how celestial things are caused.
-
-[DRAFT] (6.66) "religionis": the plural is used in the register's plain sense, "religion", never "superstition". The word carries the proem's charge from 1.63 that religion is the oppressor.
-
-[DRAFT] (6.69) These lines repeat 1.76-77 (also 1.595-596 and 5.89-90) on the limit set to each thing's power. The English repeats its earlier wording verbatim, and "terminus haerens" is rendered by the same boundary-stone image.
-
-[DRAFT] (6.80) "simulacra": the images are the thin films that Book 4 describes as streaming off bodies and reaching the mind, here applied to the gods, whose forms come to human minds. The register fixes "images", and the divine "images" are the means by which the gods are known.
-
-[DRAFT] (6.87) The printed text reads "caeliQUE ignisque", with the capitalised -QUE marking a doubtful reading in the source. The translation follows it as "the order of heaven and of fire", and many editors prefer "caeli speciesque", "the order and the face of heaven"; the sense of "ratio" is the same as in "summa caeli ratio" (1.54).
-
-[DRAFT] (6.90) The Etruscan practice of dividing the sky into regions ("divisis partibus") in order to interpret where lightning came from and went. The Roman augurs and haruspices used a fixed scheme, and Lucretius's reader would have known it; the poet treats the practice as a symptom of fear.
-
-[DRAFT] (6.94) These lines repeat 6.60-61 and 1.153-154. Here many editors think they are out of place, since they do not follow naturally on the preceding sentence; the translation keeps them as printed.
-
-[DRAFT] (6.96) "Principio": the start of the account of thunder. The first of several explanations given; Lucretius will offer multiple possible causes for thunder and lightning, which is Epicurean method for phenomena that cannot be observed directly.
-
-[DRAFT] (6.109) "carbasus ... magnis intenta theatris": the awning (more usually "velum") stretched over Roman theatres to shade the audience. Lucretius uses it as a familiar sound that a Roman reader would recognise.
-
-[DRAFT] (6.112) "chartarum": sheets of papyrus or paper, translated as "papers"; the point is the dry, brittle crackle, which is the point of the comparison with thunder at 113.
-
-[DRAFT] (6.129) The Latin compound is a Lucretian coinage ("perterricrepo sonitu"), found nowhere else in surviving Latin. It is a hapax that stacks "terror" on "crackling" (-terri-, -crepo). The translation renders it "terrifying crackling" and keeps one English phrase for the one word.
-
-[DRAFT] (6.130) The comparison to a burst bladder (vensicula, a manuscript spelling for vesicula) is the first of the everyday analogies Lucretius uses to show that a small, familiar thing can make a loud noise. It is meant to take the mystery out of thunder, not to compare sizes.
-
-[DRAFT] (6.135) Caurus is the northwest wind. The translation gives the direction in English and does not keep the Latin name (cauri).
-
-[DRAFT] (6.139) "Manifesta res" is the plain evidence of the senses. In Epicurean method this is the check on what cannot be seen: the unseen action of wind in the clouds is argued from its visible action on trees.
-
-[DRAFT] (6.145) Lucretius is now treating the thunderbolt (fulmen) as fire that falls from one cloud into another. The "burning force" (vis ardens) acts on the cloud like iron on water, which accounts for the hiss in the next lines. The two explanations here, wet cloud and dry cloud, are given as alternatives. Epicurean method does not require choosing one.
-
-[DRAFT] (6.154) Phoebus is Apollo, and the laurel was his sacred tree at Delphi (Phoebi Delphica laurus). It was burned at his shrine, and the Roman reader would know it as the plant that crackles loudly in a fire. The point is that the god's own tree gets no protection from the fire.
-
-[DRAFT] (6.160) "Semina" of fire are "seeds" in the register, the same word as semina rerum. Here they are the fire-bodies struck out of the clouds, and "ignis semina" returns at 6.182, 6.201, 6.206 and 6.213.
-
-[DRAFT] (6.164) Lucretius explains the delay between lightning and thunder by the slower travel of sound (tardius adveniunt), and gives the woodcutter as the familiar case. A reader may hear an anticipation of the measured speeds of sound and light. That is the reader's association, not the poet's claim.
-
-[DRAFT] (6.176) "Ut ante docui" refers back to the passage at 6.126-127, where the wind's whirling made the cloud hollow and dense. It also points to the lines Lucretius wrote earlier in this same book.
-
-[DRAFT] (6.179) The leaden sling-bullet (plumbea glans) that melts in flight is the example Lucretius gives for motion producing heat. The idea reappears at 1.? in Book 1 only as a general principle. Check whether the translator wants it tied to the parallel at 6.306, where the same point is made.
-
-[DRAFT] (6.187) The Latin is difficult here: "frudi" for "fraudi" is the transmitted spelling, and the sense of 188 is disputed. The translation takes the argument to be that from below we see how wide the clouds are but cannot judge how high they are piled. A translator should check this against the apparatus.
-
-[DRAFT] (6.198) The wind imprisoned in the clouds is compared to wild animals shut in cages (ferarum more). It belongs to a group of passages in which Lucretius treats the winds as living creatures that are angry or trapped. The picture is figurative and is not the poet's doctrine.
-
-[DRAFT] (6.204) The "golden color of liquid fire" (liquidi color aureus ignis) is the lightning that falls to earth, as distinct from the flashes in the clouds. Lucretius now accounts for its brightness by the sun's light stored in the clouds (6.209).
-
-[DRAFT] (6.219) "Quod superest" opens the discussion of the thunderbolt's nature, and in the register it is the transitional "for the rest." The lines that follow argue that the bolt is fire and not wind or rain from its signs, which are scorching and the smell of sulphur.
-
-[DRAFT] (6.235) "Primordia vini" is "first-beginnings of the wine." This is the register's technical word used of a liquid, and it makes the point that the bolt breaks up the wine into its constituent bodies.
-
-[DRAFT] (6.245) The final line closes the preview of the topics for the next section: how thunderbolts are generated and why they have such force. It is the one place in this segment where Lucretius promises what he will deliver (promissis), which is characteristic of his habit of announcing a plan.
-
-[DRAFT] (6.250) The Latin text here is garbled by an encoding fault, which also affects 253, 254, 304 and 346; the translation reads the sense as aëra ("air"), usque, superne and aëre, the ordinary readings, so no crux is concealed.
-
-[DRAFT] (6.251) Acheron (Acherunta) is the underworld river, here standing for the underworld itself. Lucretius uses the name for a place of darkness in a passage that denies the underworld's existence, so the image is a figure of speech and not a doctrine. The poem often reuses Acherusia templa in its argument against the fear of death.
-
-[DRAFT] (6.271) "I have shown above" (supra docui) refers back to the account of cloud-composition earlier in Book 6, and ultimately to the doctrine that clouds contain seeds of heat. Here "seeds" (semina) is the register's "seeds of things", used for the heat-bearing bodies.
-
-[DRAFT] (6.279) "In two ways" (duplici ratione) gives the two causes of ignition: the wind's own swift motion (mobilitate) and its contact with fire already in the cloud. Epicurean physics treats the heating of fast-moving bodies as a mechanical result of motion, not as a separate fire-substance.
-
-[DRAFT] (6.298) "Our native name" (patrio nomine) means the Latin word fulmen, set against the Greek keraunos, a point of pride in Latin's capacity to name things. Lucretius elsewhere laments the poverty of Latin (patrii sermonis egestas, 1.832).
-
-[DRAFT] (6.306) "Lead bullet" (plumbea glans) is the sling-bullet used by Roman auxiliaries. The ancient claim that such missiles melt or glow in flight is a stock illustration of heating by friction in air; the comparison explains the wind's acquiring fire on a long path.
-
-[DRAFT] (6.314) The sparking of iron on flint (lapidem ferro cum caedimus, evolat ignis) is a standard Lucretian proof that fire lies hidden in apparently cold bodies, as the "seeds of hot brightness" (semina calidi fulgoris) come together at the blow. The comparison recurs in the poem's accounts of fire's origins.
-
-[DRAFT] (6.335) "All weights strive downward" (pondera deorsum omnia nituntur) is the Epicurean doctrine that atoms move downward by weight, which the swerve later complicates (2.217-293). Here it explains why the thunderbolt falling from above gains speed, since its own downward tendency is added to the force of the blow.
-
-[DRAFT] (6.349) "Liquid fire" (liquidus ignis) is fire made of such fine, smooth bodies that it passes through the pores (foraminibus) of dense things without disturbing their structure. This is the doctrine behind the lightning that melts a sword and leaves the sheath whole, a standard illustration, which Lucretius develops in the lines that follow.
-
-[DRAFT] (6.352) "Elements" (elementa) in 354 is the register's single word for the smallest constituent bodies, and it is the same word Lucretius uses for the letters of the alphabet in his analogy of atoms and words (1.197). "Smooth" (leves) reflects the doctrine that smooth atoms are fine and penetrate easily, as at 2.381-477.
-
-[DRAFT] (6.357) Autumn and spring are the stormy seasons because they are the meeting-points of cold and heat. This opens the argument that the strait of the year (fretus anni, 364) mixes opposites, and the same figure is named outright at 6.374.
-
-[DRAFT] (6.364) "Strait" (fretus) is the narrows where two seas meet and churn. Lucretius uses it as a figure for the turning seasons, and the English keeps the nautical image so that "straits of the year" (freta anni, 374) can be read as its explanation. The same word freta later means "waters" or "sea" (427), where the English follows it.
-
-[DRAFT] (6.367) The air "heaves like a sea" (fluctuet aer) takes up the strait image and carries it on, so the storm is pictured as a sea of air. The English keeps the verb "heaves" to hold the nautical figure.
-
-[DRAFT] (6.381) The "Tyrrhenian chants" (Tyrrhena carmina) are the Etruscan books of thunder-lore. The haruspices used them to read lightning, by its quarter, direction and effect, as signs from the gods, and lines 383-386 list exactly those questions. Lucretius sets natural explanation against this practice and has no objection to the questions as such, only to the divine reading.
-
-[DRAFT] (6.387) The argument from here to 6.422 is a series of rhetorical questions on the premise "if Jupiter and the other gods hurl the bolt" (si Iuppiter...iaciunt ignem). Each question points to a result the premise cannot explain. Lucretius makes the same case against Jupiter's thunder in Book 2, and the argument is the Epicurean one that the gods, being blessed and untroubled, do not direct such events.
-
-[DRAFT] (6.397) "Exercising their arms" (bracchia consuescunt) is ironic. If the gods hurl bolts at empty places, Lucretius says, they must be practising like athletes or soldiers.
-
-[DRAFT] (6.417) The "holy shrines" (sancta delubra) and the images in them are struck, which would be sacrilege if Jupiter were the thrower. This is the most pointed of the questions, since it makes the god strike his own temples.
-
-[DRAFT] (6.419) "Images" (simulacra) here means ordinary statues of the gods. It is not the technical sense of the films that peel from objects in Book 4, which the register renders "images" as well. The reader should not import the Book 4 doctrine.
-
-[DRAFT] (6.424) "Presters" (presteras) is Greek prester, "burner" or "blower", used of a fiery whirlwind or waterspout. Lucretius says "the Greeks named" them (Graii nominitarunt) because he is borrowing a technical term, and the English keeps the Greek word in its Latin form.
-
-[DRAFT] (6.451) The account of cloud formation (nubila concrescunt) starts again here with a new topic, after the waterspout passage. The "bodies" (corpora) that "come together" are the first bodies in the atomist sense, rougher and hooked ones that cling in "slight ways" (modis exiguis). This is the plain "bodies" of the register and not "particles".
-
-[DRAFT] (6.481) The "sign-bearing ether" (signifer aether) is the upper heaven that carries the zodiac, as at 1.2 ("the gliding signs of heaven"). Its heat, pressing down from above, is the second cause of cloud-formation here, after the vapors rising from sea, rivers, and earth.
-
-[DRAFT] (6.485-488) Lucretius refers back to his proofs of infinite space and the speed of atoms (the infinity of the sum, the "profundum," is argued in Book 1; atomic speed in Book 2). The point is that bodies from outside our sky can pour in quickly, so sudden storms need not surprise.
-
-[DRAFT] (6.494) "Elementis" here are the first bodies passing through the "pores" (caulas, spiracula) of the heavens, which he pictures as a porous boundary, not a solid shell. This is the "elementa" of the register; the letter-pun is not in play here.
-
-[DRAFT] (6.497) "Semina aquai" (seeds of water) is the register's "seeds of things" used for the particular bodies that make up water. Lucretius holds that seeds of water rise together with those of the clouds from all things, which is why he compares the clouds' growth to the body growing along with blood and sweat.
-
-[DRAFT] (6.526) The rainbow (arqui) is explained as sunlight shining against the opposing spray of the rain-clouds, producing a color in the dark cloud. Lucretius gives only this brief account here, without the optics later writers developed.
-
-[DRAFT] (6.532-534) "Elementis reddita" (what is assigned or rendered to the elements) points back to the properties and powers of the first bodies set out in Books 1-2. Lucretius's claim is that once these are understood, snow, hail, ice and the rest need no separate explanation.
-
-[DRAFT] (6.538) The Latin has "lucunas" (for lacunas), "pools" or hollows; the same word recurs at 6.552. It is a variant spelling, not a textual problem.
-
-[DRAFT] (6.555) The text is doubtful at "inter aquas non quit constare, nisi umor": the translation follows the transmitted reading, "a vessel cannot stand steady among waters unless the liquid inside has ceased to be tossed." The conjecture "interdum" would instead give "sometimes cannot stand steady", which some editors prefer for sense.
-
-[DRAFT] (6.565-567) The ignorant "men" (the ones who think heaven and earth incorruptible) are the target here and again at 6.601-607. Lucretius is turning a physical phenomenon into a lesson against fear of the world's end, though he himself holds that the world (mundus) is mortal (cf. Book 5), so their fear is mistaken in cause but not wholly in object.
-
-[DRAFT] (6.576) "Perhilum" (very little, hardly at all) is a rare word, here marking the diminishing sway of the building from top to bottom. The line's tricolon (summa... media... ima) is a rhetorical flourish, not a doctrinal point.
-
-[DRAFT] (6.578) "Anima" here (and at 586, 591) is air or breath, a blast of wind, not the vital "spirit" of Book 3. Where the register renders anima as "spirit," this passage deliberately departs and says "air" or "force of air"; the translator may wish to flag the shift at first occurrence.
-
-[DRAFT] (6.582) The Latin text prints "versabundaQUE" with capital letters, a sign of a corrupt or doubtful reading in the source. The translation treats it as "versabunda... portatur" ("carried whirling round") and does not resolve the corruption.
-
-[DRAFT] (6.585-587) The earthquakes at Sidon and Aegium are historical examples. Aegium in Achaea was struck in 373 BC, when nearby Helice sank into the sea; the Sidon event is less well attested. Note that "quas urbes" (which cities) is the grammatical object, with "exitus animai" and "terrae motus" as subjects.
-
-[DRAFT] (6.601-607) The closing movement picks up the theme of fear that frames the whole book: even those who believe heaven and earth are secure feel at times the "goad" of terror that the earth may be pulled from beneath them. The final line ends the segment on "mundi confusa ruina," which echoes the "ruina" language of the book's other cosmic-collapse passages (cf. 5.95-109).
-
-[DRAFT] (6.627) Lucretius refers to his own earlier account of clouds drawing up sea-water (docui, "I have shown"), which is in this same book at 6.470-482. The English keeps the first-person backreference as stated.
-
-[DRAFT] (6.635) The translation renders "virus" as "brine", the bitter salt of sea-water, which the earth is imagined to strain out as the water percolates. Latin "virus" here means a pungent liquid, and the word is not the modern "virus". The same filtering argument appears at 2.475-477 and 5.269-272.
-
-[DRAFT] (6.639) "Ratio" is rendered "reasoning" here, as the register fixes it: "by what reasoning" the fires breathe out. Mount Etna in Sicily was the best-known active volcano of the Roman world, and its eruptions were remembered as portents.
-
-[DRAFT] (6.646) "Rerum ... novarum" ("new things") is also the Roman political idiom for revolution or upheaval, and the phrase sits beside "rerum natura". The translation keeps "new things" and "nature", so the echo is audible but not forced.
-
-[DRAFT] (6.649) The sum of things (summam rerum) is the whole infinite universe, in which our heaven (caelum) is a negligible part. This is the Epicurean doctrine of the infinite universe, which Lucretius uses here to make the Etna eruption unremarkable. The universe is "profundam", literally "deep" or "unfathomable".
-
-[DRAFT] (6.660) "Sacer ignis" ("sacred fire") names a spreading, burning skin disease, probably erysipelas or shingles. The Latin "sacer" can also mean "accursed", so the phrase carries both senses.
-
-[DRAFT] (6.662) "Semina rerum" is the register's "seeds of things", Lucretius's usual technical term for the first-beginnings. The argument is that earth and heaven hold enough such seeds to produce disease on a vast scale, just as they produce a body's illnesses. The same comparison of an individual's illness to cosmic upheaval is the logic of the passage.
-
-[DRAFT] (6.684) The source prints "aeeraeër", a corrupted form of Greek-derived "aer" (accusative of "aer", "air"). The translation reads "air" at 684 and 685. The garbled form is an editorial or transmission artefact, not Lucretius's spelling.
-
-[DRAFT] (6.693) "Animai" is the genitive of "anima", but here it means breath or wind, the moving air of the caverns, not the vital principle of Book 3. The register renders "anima" as "spirit" elsewhere. The translation uses "air" here to keep the sense from being misread.
-
-[DRAFT] (6.697) The lacuna after 697 is marked in the source and kept unnumbered, so the sentence breaks off. The sense is that the sea's water or wind passes through the caves, but the lost line is not supplied.
-
-[DRAFT] (6.701) "Crateres" is Greek "krateres", "mixing-bowls", used by the Greeks for volcanic craters. Lucretius says "ipsi nominitant" ("they themselves call"), meaning the Sicilian Greeks, and offers his Latin equivalents "fauces" and "ora".
-
-[DRAFT] (6.703) Here Lucretius introduces the doctrine of multiple explanations, which is characteristic of Epicurean method in his accounts of meteorological phenomena. Several causes may be possible, and only one is true. The corpse analogy illustrates this: we know the death had some cause of this kind without knowing which.
-
-[DRAFT] (6.712) The Nile's summer flood puzzled ancient writers, and Lucretius offers three causes, the Etesian winds, sand-bars at the mouths, and rain or snowmelt in Ethiopia, without choosing. The Etesian winds (etesiae) are the steady northerlies of the Mediterranean summer.
-
-[DRAFT] (6.721) The Nile "comes from the south" (ab austro), among dark-skinned peoples, "their color baked through" (percocto colore), which reflects the ancient climate theory that heat darkens skin. The "region of midday" (media regio diei) is the south, where the sun stands at noon.
-
-[DRAFT] (6.738) Avernus is the Latin Avernus, the lake near Cumae; the plural "Averna loca" (Avernian places) signals that Lucretius treats it as a type of site, with Cumae, Athens and Syria as further instances. Here the wording "places and lakes" (loca … lacusque) already frames the topic as natural geography.
-
-[DRAFT] (6.740) Lucretius derives "Averna" from Greek *aornos*, "birdless" (a-, "without," + *ornis*, "bird"), which he renders in Latin as "contraria cunctis avibus" (hostile to all birds). The translation keeps "Avernian" untranslated and lets the explanation in 741 carry the etymology.
-
-[DRAFT] (6.747) The "mountains" (montis) filled with sulphur and hot springs are the volcanic Phlegraean district around Cumae; the lake itself was held to be the mouth of the underworld, which is the belief Lucretius goes on to dismantle at 762-766.
-
-[DRAFT] (6.749) The Athenian Acropolis: the temple of "Pallas Tritonis" (Palladis … Tritonidis) is Athena, with "Tritonis" an epithet whose origin is disputed (a river or lake of that name in Libya, or a Boeotian stream). The crow story is told at 754.
-
-[DRAFT] (6.754) The "poets of the Greeks" (Graium … poetae) are the mythographers who made the crows' avoidance a punishment from Athena, in the tale of the crow who informed on Cecrops' daughters. The line has an editorial form in the source (the manuscript spelling "poeetae" printed beside "poeëtae"), which does not affect the sense. Lucretius rejects the myth in favour of "natura loci" (755), the principle governing the whole passage.
-
-[DRAFT] (6.756) The Syrian site is not named further; Lucretius gives it on report ("fertur"). The same kind of poisonous exhalation from the earth is what the following lines will classify as natural, as opposed to the beasts being "slaughtered to the divine shades" (759).
-
-[DRAFT] (6.762) "Orci … ianua" (gateway of Orcus) is the popular belief that Avernus opens onto the underworld; "Acheruntis in oras" (763) is the region of the dead. Lucretius's argument is that the cause is physical, so the gate need not be posited. The stags and snakes comparison (765-766) is a parallel instance of a supposed supernatural attraction explained by natural cause.
-
-[DRAFT] (6.769) "quod dixi saepe quoque ante" (as I have often said before) points back to the earlier doctrine that the earth contains seeds of every kind, some life-giving and some harmful, and that different seed-shapes suit different creatures (cf. 2.398-477, 4.633-672). The "primas figuras" (776), the first shapes of the first-beginnings, are the ground of that difference.
-
-[DRAFT] (6.786) Helicon is the Boeotian mountain of the Muses. The deadly flower there is Lucretius's own report; no ancient parallel is securely identified. Placing a poisonous plant on the Muses' mountain is, perhaps, an irony the reader may notice.
-
-[DRAFT] (6.788) "multa modis multis multarum semina rerum" (many seeds of many things, in many ways) states the doctrine that the earth holds mixed seeds of all kinds, and the line echoes the language of the earlier books (cf. 1.814, 2.1058, 5.916-924 for similar phrasing). The seeds of 789 are the "semina rerum", the register's "seeds of things."
-
-[DRAFT] (6.810) The mines of Scaptensula (Thracian Skapte Hyle) were famous for gold, and were worked by Thucydides and, earlier, by Thasians. The metals are "argenti … aurique" (808); the miners' pallor and early death (812-815) are the human cost Lucretius cites as evidence that the earth breathes out harm.
-
-[DRAFT] (6.826) The text of 826-829 is damaged or uncertain, and editors punctuate it differently, in particular around "cum iam cecidere veneni in fontis ipsos" (when they have fallen into the very springs of poison). The translation follows the sense that the exhalation first stirs a turmoil in the bird and then, once it has fallen into the poison's source, forces it to vomit out its life.
-
-[DRAFT] (6.831) The reading "aera" (air) is printed in the source with a doubled variant ("aeera/aeëra"); the sense is that the exhalation drives the air apart, leaving a near-vacuum below the bird. This is Lucretius's second mechanism for Avernus (830-839), which depends on the rarefied air giving the wings nothing to press against, not on poison.
-
-[DRAFT] (6.838) "vacuum … per inane" (through the almost empty void) uses the register's "void" (inane) in a local sense, as a region of rarefied air, not the absolute void of Book 1. A modern reader might hear a reference to a vacuum; the translation keeps "void" as the register requires.
-
-[DRAFT] (6.839) The source prints a lacuna after this line, and the unnumbered [lacuna] is kept as printed. The lost text presumably closed the Avernus section and introduced the new topic, the wells that are cold in summer and warm in winter (840 ff.), which would have been announced there.
-
-[DRAFT] (6.840) The explanation of wells that are cooler in summer rests on the doctrine of "semina" of heat (841) leaving the porous earth, and it is the first of the paired explanations (840-847) for the Hammon spring that follows. The seeds of heat are literal first-beginnings in Lucretius's physics, not a figure.
-
-[DRAFT] (6.848) The "fons … Hammonis" is the Spring of the Sun at the oasis of Siwa, reported by Herodotus (4.181) as cold at midday and hot at midnight. Lucretius gives it on report ("fertur") and then disputes the popular explanation that the sun heats it from below at night (850-853).
-
-[DRAFT] (6.871) "primordia ignis" (first-beginnings of fire) is the first occurrence in this segment of the register's "first-beginnings." The register's "primordia" corresponds to what a reader may know as atoms. Here it is the seeds of fire (semina ignis, 863, 867) that return to their old seats, so the two words are used interchangeably for the same thing.
-
-[DRAFT] (6.879) The segment opens mid-argument: Lucretius is still explaining why some springs are cold yet can ignite tow and torches. The explanation (seeds of fire rising through the water, too few to heat it) continues the Book 6 treatment of springs from the preceding lines.
-
-[DRAFT] (6.883) "No wonder" renders (ni mirum), the poet's stock formula for turning a marvel into a consequence of first principles. The reasoning is that fire-bodies (ignis corpora) rise from the earth through the water in numbers too small to warm it but enough to kindle tow.
-
-[DRAFT] (6.890) Aradus was an island city off the Phoenician coast, and the sea-bed freshwater spring there (Aradi fons) was a well-known marvel. Sailors drew from it, as 892-894 say. The translator's placeholder is accurate. I would keep the gloss short and add that Lucretius uses the spring as a parallel (quod genus) for seeds rising through a body of water of a different kind.
-
-[DRAFT] (6.906) "Covenant of nature" renders (foedere naturae), the register's fixed rendering. The magnet is Lucretius's showpiece for the whole second half of the book. The explanation is withheld until 1002 ff., and 917-920 say outright that long preliminaries are needed.
-
-[DRAFT] (6.908) The name is derived from the Magnetes (Magnetum ... in finibus), the people of Magnesia, which the poet treats as the stone's homeland. Ancient sources place it in Thessaly or in Lydian Magnesia, and Lucretius does not say which. Keep the placeholder's point but note that he does not specify.
-
-[DRAFT] (6.921) These lines (921-935) closely repeat 4.217-229, the doctrine of continual effluences from things. Where the Latin repeats, the register requires the English to match the Book 4 translation word for word. The present English needs to be checked against it, since "bodies to strike the eyes" and the smell, sound and taste examples should agree.
-
-[DRAFT] (6.937) The "first song" (primo carmine) is Book 1, where the porousness of solids is argued with the examples of water seeping through caves, food passing into bodies and cold passing through bronze (see 1.346-357). It is cited here because the void is what allows things to pass through other things.
-
-[DRAFT] (6.941) "Body mixed with void" (corpus inani) condenses the doctrine that everything perceptible is made of first bodies and void. The void (inani) is what the effluences travel through, and so the whole list of examples at 942-958 depends on it.
-
-[DRAFT] (6.953) The Latin line has a textual variant at the end (sueevit / sueëvit, an editorial matter of orthography and scansion). The translation follows the sense "is used to" without comment on the spelling, and a note is probably not needed beyond the placeholder at 954.
-
-[DRAFT] (6.954) "Breastplate of the sky" (caeli lorica) is the outer shell of the world, the flaming walls (flammantia moenia mundi) in other terms. The line is difficult in context and the syntax of 953-955 is strained, and editors have suspected disturbance here. The English leaves the construction loose, as the Latin is, and the translator should decide whether to flag it.
-
-[DRAFT] (6.956) The sense of 956-957 is disputed: the storms "withdraw" (facessunt) to where they came from, which is read as the sky and earth giving them passage. Editors have worried over remotae and iure, and Bailey's text is followed. The English "as is right" for (iure) is a reasonable rendering of the sense but could be flagged as uncertain.
-
-[DRAFT] (6.958) This line (nihil est nisi raro corpore nexum) gives the conclusion drawn from the list of examples, and it is Lucretius's word for porousness in line 936 (raro corpore). It is the doctrine of Book 1 restated: nothing visible is solid throughout.
-
-[DRAFT] (6.970) The goats and the wild olive (oleaster), and the pig's relation to marjoram (amaracinum) and mud, are the first of several examples that what is food to one species is poison to another. The point is that the same effluences do not fit all bodies (959-961), which is the principle needed for the magnet. The same type of argument appears at 4.633-641 and at 3.741-743 in a different form.
-
-[DRAFT] (6.993) "Appearances" renders (species), which the register would otherwise translate as "face" or "likeness". Here it is the visible image passing through glass, and the translator's placeholder is right. The sense is close to the simulacra of Book 4, though Lucretius does not use that word here.
-
-[DRAFT] (6.995) These lines (995-996) repeat 988-989 verbatim (scilicet id fieri cogit natura viarum / multimodis varians, ut paulo ostendimus ante), and the English repeats it word for word. This is a refrain-like closing of an argument, and the third line (997) is added to it.
-
-[DRAFT] (6.1000) "For the rest" renders (quod super est), the register's transitional formula. The pronoun and verb at the end of 1001 (pelliciat) set up the image of the magnet as luring iron, which anticipates the explanation that follows.
-
-[DRAFT] (6.1003) The translator's placeholder is answered as follows: *aestus* ("current") is the stream of seeds the stone is said to emit. The word is the same one used for the sea's surge or for heat, and the translation keeps "current" throughout the magnet passage so that the repeated word shows it is one agent doing the work. The line also gives the alternatives "seeds" or "current" (*semina sive aestum*), and the Latin text printed here has a corrupted form for "air" (*aeeraeër*) that reads as *aëra* or *aër*.
-
-[DRAFT] (6.1005) The "void" and "place" here (*inanitur spatium… locus*) are the register's *inane* and *locus ac spatium*. The argument is the Epicurean one that an emptied gap draws neighbouring bodies in, because bodies cannot move except by blow or by falling into empty space. The next lines apply it to the first-beginnings of iron (*primordia ferri*).
-
-[DRAFT] (6.1009) *Primoribus ex elementis* ("from its own first elements") is a compressed reference to the doctrine that iron's atoms are especially tightly hooked together. The "cold, rough thing" is *frigidus horror*, the chill, bristling quality of iron.
-
-[DRAFT] (6.1012) The line (*quo minus est mirum, quod dicitur esse alienum*) is textually uncertain in the manuscripts and the sense is hard. The translation takes *alienum* as "strange" and reads the clause as "though it is called strange". This follows the placeholder's note, but it is a choice among readings and the translator should check it against the apparatus before committing.
-
-[DRAFT] (6.1044) *Samothracia ferrea* ("Samothracian iron rings") refers to iron rings from Samothrace, the island of the mystery cult of the Cabiri, whose initiates wore iron rings. Lucretius says he saw rings leap and filings "rage" in bronze bowls (*ahenis in scaphiis*) when a magnet was held beneath, the one first-person eyewitness claim in the passage.
-
-[DRAFT] (6.1058) *Pondere… fretae* ("relying on their weight, such as gold") gives the first of two reasons why the stream does not move other things: heavy bodies resist it, and very porous ones let it pass untouched (*raro… corpore*, 1059). Wood is his example of the porous kind.
-
-[DRAFT] (6.1068) Here Lucretius begins a list of things that join by fitting together (lime, bull-glue, wine and water, purple dye on wool, solder), to show that the magnet's linking of iron is not unique. He closes it at 6.1084-1089 with the doctrine that bodies join best where hollows fit solids, or where hooks and rings catch.
-
-[DRAFT] (6.1074) *Conchyli* ("the shellfish") is the murex, source of Tyrian purple, which dyed wool permanently. "Neptune's flood" (*Neptuni fluctu*) is a poetic name for sea water, not a reference to the god in person.
-
-[DRAFT] (6.1078) The translator's placeholder says the gold-solder was called chrysocolla. The Latin has only "one thing" (*res… una*) joining gold to gold, and the translator should consider whether the note is needed or whether "chrysocolla" is the translator's gloss from outside the text.
-
-[DRAFT] (6.1079) *Plumbo albo* ("white lead") is tin, which the Romans called *plumbum album*, used as solder for bronze. The placeholder is right.
-
-[DRAFT] (6.1090) *Nunc ratio quae sit morbis* ("Now what the principle of diseases is") opens the plague section and begins the transition from magnetism to disease. Here *ratio* is "principle" in the sense of cause, a use the register allows (*qua ratione*). The "seeds of many things" that give life or bring disease (*semina… vitalia… morbo mortique*, 1093-1096) refer back to the discussion at 6.769-780 and earlier.
-
-[DRAFT] (6.1106) The "Britons" (*Brittannis*), Egypt, Pontus (the Black Sea region) and Gades (Cadiz) mark the extremes of north, south, east and west. They are Lucretius's four regions of the world, which he refers to at 1110-1111 as the "four winds and quarters of the sky".
-
-[DRAFT] (6.1107) *Qua mundi claudicat axis* ("where the axis of the world limps") rests on the ancient picture of the celestial axis tilting toward the south, so that in Egypt the pole seems to sink. The translator's placeholder is right.
-
-[DRAFT] (6.1114) *Elephas morbus* ("the elephant disease") is elephantiasis, probably a form of leprosy. Lucretius says it occurs in Egypt "and nowhere else" (*neque praeterea usquam*). This is a claim about disease being tied to place.
-
-[DRAFT] (6.1116) *Atthide… Achaeis* ("In Attica… the Achaean lands"): *Atthide* is Attic Greek for "in Attica", and Lucretius is saying that foot disease afflicts Attica and eye disease the Achaean lands (Greece). The line has a transmission problem in the Latin text, since *Atthide temptantur gressus* is an unusual construction, and the translator should check the apparatus.
-
-[DRAFT] (6.1138) "Haec ratio" (ratio) is the manner or pattern of the disease, here "kind, sort", not the poet's technical "reasoning". The register's rendering of ratio as "reasoning" would mislead, so the translation says "pattern".
-
-[DRAFT] (6.1138) This is the opening of Lucretius's account of the plague at Athens, which ends the poem. It follows Thucydides 2.47-54 closely, and its structure matches the poem's last words on the death-fear (cf. the proem of Book 6 on Athens as the home of Epicurus's birth).
-
-[DRAFT] (6.1139) "Cecropis" (finibus in Cecropis): Cecrops was the legendary first king of Athens, so "the borders of Cecrops" means Attica. The plague is that of 430 BC, in the second year of the Peloponnesian War.
-
-[DRAFT] (6.1142) The line is corrupt in the manuscripts: the text printed here, "aeeraaeëra", is a garbled form of aëra ("air"), and the editors' conjecture is that the poet wrote *aëra permensus multum*. The translation follows the sense "having measured out much air", with "swimming plains" (campos natantis) for the sea.
-
-[DRAFT] (6.1143) "Pandionis" (populo Pandionis): Pandion was a legendary king of Athens, so "the people of Pandion" are the Athenians, as "Cecropis" was Attica in 1139.
-
-[DRAFT] (6.1149) "Animi interpres" (the mind's interpreter): the tongue is called the interpreter of the mind. In the register animus is "mind", the rational part of the spirit, seated in the chest, which is why the plague's descent to the heart at 1151-1153 matters.
-
-[DRAFT] (6.1152) "Cor" (the heart) is the seat of the animus in Epicurean doctrine, so the disease reaching the heart means it reaches the mind and the vital barriers (vitai claustra, 1153). The translation keeps "heart" as the Latin does.
-
-[DRAFT] (6.1156) "Animi... vires totius" is the strength of the whole mind, with "animi" here taken as the mind in the technical sense. The line is syntactically awkward in the Latin and some editors suspect a corruption; the translation follows the transmitted text.
-
-[DRAFT] (6.1167) "Sacer ignis" (sacred fire) is a disease of burning skin, probably erysipelas, but ancient usage is loose. The translation keeps the literal phrase.
-
-[DRAFT] (6.1174) "Nymphis putealibus" (the nymphs of the wells): the nymphs stand for the water by metonymy, and the translation keeps the personification.
-
-[DRAFT] (6.1199) "Funera leti" (the funeral of death): funera here is death itself rather than a burial, as at 1225 and 1238. The translation keeps "funeral" in all three, though the sense shifts between death and its rites.
-
-[DRAFT] (6.1213) "Oblivia rerum cunctarum" (forgetfulness of all things): Thucydides 2.49 also records that some lost their memory entirely and did not know themselves or their friends. Lucretius's version stays close to his source.
-
-[DRAFT] (6.1222) "Animam" (spirit) is the vital principle, rendered "spirit" per the register and never "soul". Here it is said of dogs, which fits the Epicurean view that animals have anima too.
-
-[DRAFT] (6.1237) "Lanigeras... pecudes et bucera saecla" (woolly flocks and horned cattle): the comparison of the dying to infected livestock is Lucretius's own, as Thucydides compares only the mortality among the attendants. The same simile appears at 3.472 in a different context, but here it is applied to contagion.
-
-[DRAFT] (6.1267) "Delubra" (shrines) and "templa" (1269, precincts) are distinct: delubra are the sacred buildings, templa the consecrated regions. The register fixes "precincts" for templa and the translation keeps them apart.
-
-[DRAFT] (6.1271) "Religio divom" (the religion of the gods) uses the register's plain "religion", the word on which the proem's force depends (1.63). Its collapse here, as the plague overwhelms it, is the poem's last word on religion.
-
-[DRAFT] (6.1286) The poem ends here, and the text is probably incomplete. Whether Lucretius meant to close on the plague without a consoling Epicurean turn, or died before finishing, is disputed.
+Notes
+
+[1] (6.1-4) Athens is credited with the gift of grain, the gift of Demeter
+    (Ceres) at Eleusis in Attic legend, and with the first laws, before her
+    greatest gift, Epicurus. The praise of the city stands where Books 3 and
+    5 praise the man.
+
+[2] (6.5-8) Epicurus, unnamed as at 1.66 and 5.8 (named only at 3.1042). He
+    was an Athenian citizen, born on Samos in 341 BC, taught in his garden
+    at Athens from 306 and died there in 270; "though he is extinguished"
+    (7) places the poem after his death, and "carried up to heaven" (8) is
+    the deification of 5.8.
+
+[3] (6.17-23) The leaking vessel is the jar of the Danaids, the figure for
+    the mind that cannot hold its good, developed at 3.936-938 and
+    3.1003-1010 (see the notes there). The fault is in the vessel, and so no
+    amount poured in can fill it.
+
+[4] (6.30-31) The Latin is doubtful (naturali is suspect and the
+    construction loose), and the English renders the printed words: the ills
+    that come about "by natural chance or force" are the ones nature herself
+    has arranged.
+
+[5] (6.35-41) The children in the dark are 2.55-61 and 3.87-93, and the last
+    three lines are the refrain of 1.146-148, "the face and reasoning of
+    nature" (see the notes there); the English repeats its earlier lines
+    word for word. This is the refrain's last appearance.
+
+[6] (6.43) Mundi mortalia templa, the regions of the world, which Book 5
+    showed to be born and mortal; templa is "precincts", as at 1.120, here
+    and at 1269, "the precincts of the heavenly ones".
+
+[7] (6.47-53) The source marks three gaps here, after 47, 51 and 52, and the
+    proem's close is in ruins: the sentence that begins with the chariot has
+    no verb for "you" at 48, and 52-53 are two fragments of a list of the
+    book's subjects, the rising and the stilling of winds. The English
+    prints the pieces as they stand and supplies nothing.
+
+[8] (6.49) Callida musa Calliope: the epithet plays on the Muse's name,
+    which means "beautiful voice", and callida, "cunning", answers it with a
+    near echo; the English cannot keep the sound. The chariot, the white
+    line and the crown (47-51) are the racecourse, the course of the poem
+    being nearly run.
+
+[9] (6.50) Hominum divomque voluptas: the poem's first line called Venus
+    "pleasure of men and gods", and the same words are now given to Calliope
+    as the last book begins.
+
+[10] (6.60-61) These two lines are 1.153-154, and they recur at 94-95, where
+     they do not follow from the sentence before and most editors think them
+     misplaced; the English repeats them in all three places.
+
+[11] (6.62-70) The nine lines are 5.82-90 (see the note there), and 69-70
+     within them are 1.76-77, the summary of what Epicurus brought back from
+     beyond the walls of the world. The English repeats its earlier lines
+     exactly.
+
+[12] (6.80) The images (simulacra) that come from the gods' holy bodies to
+     the minds of men are the thin films of Book 4; by them the gods are
+     known, and men who think unworthily of the gods cannot receive them in
+     peace (76-79).
+
+[13] (6.87) The source prints caeliQUE ignisque, the capitals marking a
+     doubtful reading, and the English renders it, "the order of heaven and
+     of fire". Most editors read caeli speciesque, "the order and the face
+     of heaven", the pair of 1.148. The capitals at 582 (versabundaQUE) mark
+     the same kind of doubt; there the English follows the printed sense,
+     "carried whirling round".
+
+[14] (6.90) The Etruscan diviners divided the sky into regions, and read the
+     meaning of a thunderbolt from the quarter it came from and the quarter
+     it went to; the "Tyrrhenian chants" of 381 are their books.
+
+[15] (6.109) The awnings of canvas stretched over Roman theaters to shade
+     the audience, which crack and flap in the wind; the same awnings color
+     the crowd at 4.75-83.
+
+[16] (6.129) Perterricrepus, a word found nowhere else in Latin and probably
+     Lucretius's own, stacking "terror" on "crackling"; "terrifying
+     crackling" keeps it as one phrase.
+
+[17] (6.130) Anima here is breath or air, the wind that bursts a bladder,
+     and so at 578, 586, 591 and 693, where it is the air shut in the earth
+     that shakes it or feeds Etna. The same word is "spirit", the life, at
+     839 and 1223, as in Book 3.
+
+[18] (6.135) Caurus, the northwest wind; the English gives the direction and
+     not the name.
+
+[19] (6.154) Laurel crackles loudly in a fire, and the laurel was Apollo's
+     tree at Delphi, burned at his shrine; the god's own plant has no
+     exemption. The Pythia and her laurel were used for a different
+     comparison at 1.739 and 5.112.
+
+[20] (6.164-172) Thunder reaches the ear after the eye has seen the flash
+     because sound travels more slowly than light, as the woodcutter's axe
+     is seen to fall before the blow is heard. A reader will hear in this
+     the measured speeds of sound and light; that is the reader's
+     association, not the poet's claim, which rests on the one observation.
+
+[21] (6.179) The leaden sling-bullet (plumbea glans) that melts in its
+     flight is the stock ancient illustration of heat produced by motion,
+     and Lucretius uses it again at 306-307 for the wind that catches fire
+     on a long course.
+
+[22] (6.187-188) The Latin is difficult (frudi for fraudi, and the
+     construction of 188 is disputed); the sense taken is that from below we
+     see how broad the clouds are, not how high they are piled.
+
+[23] (6.251-252) Acheron, the river of the underworld, stands for its
+     darkness: the storm is so black that the dead seem to have left Acheron
+     and filled the sky. The name is a figure, as at 3.978-1023, where the
+     underworld's terrors are shown to be the terrors of this life.
+
+[24] (6.298) Patrio nomine, "by our native name": the Latin fulmen as
+     against the Greek keraunos, a small boast for a language whose poverty
+     Lucretius elsewhere laments (1.136-139, 1.832).
+
+[25] (6.314) Fire hidden in cold bodies and struck out by a blow is one of
+     Lucretius's recurring proofs, as with the fire in wood at 1.897-903;
+     here it shows how the wind can kindle in the clouds.
+
+[26] (6.335-339) Weight carries all bodies downward, the doctrine of
+     2.184-215 (qualified by the swerve at 2.216-293, with the note there);
+     the thunderbolt falling from above adds its own weight to the force of
+     the blow and so gains speed as it falls.
+
+[27] (6.348-356) The bolt melts bronze and gold inside a vessel and leaves
+     the vessel whole because its fire is made of bodies so small and smooth
+     that they pass through the pores; "elements" (elementa, 354) are those
+     smallest bodies, as at 5.456 and 1.197.
+
+[28] (6.364) Fretus anni, the "strait" where two seas meet and churn, is
+     Lucretius's figure for the turning of the seasons, when cold and heat
+     mingle; he names it outright at 374, "the straits of the year", and the
+     English keeps the sea-image in both places. The same word is plain
+     "waters" at 427.
+
+[29] (6.381) Tyrrhena carmina, the Etruscan books of thunder-lore, which the
+     diviners (haruspices) "unrolled" to read a bolt as a sign: from which
+     quarter it came, where it went, how it entered a closed place, and what
+     it portended (383-386). Lucretius keeps the questions and rejects the
+     reading.
+
+[30] (6.387-422) A series of questions on the supposition that Jupiter and
+     the gods hurl the bolt: why does it strike the innocent, waste itself
+     on deserts (where the gods must be "training their arms", 397), fall in
+     clear weather, into the sea, and on the god's own shrines and statues
+     (417-420)? Book 2 ended on the same questions (2.1101-1104).
+
+[31] (6.419) Simulacra, statues of the gods, as at 5.75 and 5.308; "images"
+     is kept, as there.
+
+[32] (6.424) Prester is Greek for "burner" or "blower", the name for a fiery
+     whirlwind or a waterspout; Lucretius keeps the Greek word, saying "the
+     Greeks named" them, and the English keeps it in his Latin form.
+
+[33] (6.481) Signifer aether, the upper heaven that carries the signs of the
+     zodiac, "the gliding signs of heaven" of 1.2 and "the sign-bearing
+     circle" of 5.691; its heat presses the gathering clouds from above.
+
+[34] (6.485-491) "I have taught": the infinite number of first-beginnings
+     and the infinite sum are argued at 1.951-1051, and their speed at
+     2.142-164. Because the walls of the world are porous, bodies pour in
+     from outside, and a storm can gather in a moment.
+
+[35] (6.524-526) The rainbow, the only time Lucretius mentions it: sunlight
+     striking the spray of the opposite rain-cloud. He gives no more than
+     this.
+
+[36] (6.555) Inter aquas, "in water", is doubtful, and many editors read
+     interdum, "a vessel sometimes cannot stand steady"; the English follows
+     the printed text. The picture is of the earth tottering like a bowl of
+     water whose contents have not settled.
+
+[37] (6.585-587) Two earthquakes known to Lucretius's readers: at Sidon in
+     Phoenicia (here called Syria), and at Aegium in Achaea in 373 BC, when
+     the nearby city of Helice sank into the sea. The Sidon event is less
+     well attested.
+
+[38] (6.601-608) The world is mortal, as Book 5 proved, so the fear that the
+     earth may be pulled from under men is not groundless in its object,
+     only in its cause; the gods have no hand in it. The source marks a gap
+     after 607; the next subject, why the sea does not grow, begins at 608
+     without a transition.
+
+[39] (6.627) At 470-475 and 503-505 of this book, where the clouds take in
+     the sea's moisture as clothes hung on the shore do, or as hanging
+     fleeces of wool.
+
+[40] (6.635) Virus, the sea's pungent salt, strained out as the water seeps
+     through the earth so that fresh water rises at the river heads; the
+     same filtering was described at 2.475-477 and 5.269-272.
+
+[41] (6.639-702) Etna in Sicily, the great volcano of the Roman world; its
+     eruptions were remembered as portents, and the great one of 122 BC,
+     which buried Catania in ash, was still talked of. "By what principle"
+     (qua ratione) asks the manner of the thing, and so "principle", as at
+     1090.
+
+[42] (6.646) Rerum novarum, "new things", is also the Roman idiom for
+     revolution; set beside rerum natura in the same lines it says that
+     nature's upheavals are not upheavals at all in the whole sum of things.
+
+[43] (6.660) Sacer ignis, a spreading inflammation of the skin, probably
+     erysipelas or shingles; sacer is "sacred" and also "accursed", and the
+     disease returns at 1167 among the symptoms of the plague.
+
+[44] (6.697-698) The source marks a gap after 697, and the sentence breaks:
+     the sea's water and wind pass by some lost way into the mountain's
+     caverns, and "the fact compels" us to admit it. Nothing is supplied.
+
+[45] (6.701) Crateres, Greek for "mixing-bowls", the Sicilian Greeks' name
+     for the mouths of the mountain, which Lucretius glosses with his own
+     "jaws" and "mouths" (702); "they themselves" are the Greeks.
+
+[46] (6.703-711) The rule of several causes, stated at 5.526-533 and here
+     given its sharpest image: seeing a corpse at a distance, one must name
+     every cause of death that could fit, though only one is true. The rule
+     governs the Nile, the Avernian places and the magnet that follow.
+
+[47] (6.712-737) The summer flood of the Nile puzzled every ancient writer,
+     and Lucretius gives three causes without choosing: the Etesians (716),
+     the steady north winds of the Mediterranean summer, driving the sea
+     against the mouths; sand heaped at the mouths by the sea; and rain or
+     melting snow at the river's source "in the region of midday" (723), the
+     south, where the sun stands at noon among "the black generations of
+     men, their color baked through".
+
+[48] (6.738-746) Averna, which Lucretius derives from the Greek aornos,
+     "birdless", the places "hostile to all birds". The lake is Avernus near
+     Cumae on the Bay of Naples, in the volcanic district of sulphur and hot
+     springs (747-748), and in legend the mouth of the underworld, the
+     belief he dismantles at 762-766.
+
+[49] (6.749-755) Athena, "Tritonis" from the lake or river Triton, in Libya
+     or Boeotia, where one story placed her birth; her temple is the
+     Parthenon on the summit of the Acropolis, and this is the one place in
+     the poem where templum is a building and rendered "temple". Crows do
+     not fly there, and "the poets of the Greeks" (754) told why: Athena
+     banished them for bringing word that the daughters of Cecrops had
+     opened the chest that hid the infant Erichthonius. Lucretius answers
+     with "the nature of the place" (755).
+
+[50] (6.762-763) Orcus is the underworld and Acheron its river, as at 251;
+     the "gate" is the popular belief about Avernus. The cause is physical,
+     so the gate need not exist.
+
+[51] (6.765-766) Stags were believed to draw snakes out of their holes with
+     the breath of their nostrils (so Pliny, Natural History 8.118);
+     Lucretius uses the belief as a parallel case of an attraction that
+     looks uncanny and is not.
+
+[52] (6.786-787) Helicon, the mountain of the Muses in Boeotia. The tree
+     whose flower kills by its scent is reported only here; a reader may
+     notice the irony of a deadly flower on the Muses' mountain.
+
+[53] (6.793) Epilepsy, the "falling sickness", believed in antiquity to be
+     brought on by the smell of burning sulphur or bitumen.
+
+[54] (6.794) A strong-smelling secretion of the beaver, used in ancient
+     medicine as a drug and a sedative; a woman in her monthly course,
+     Lucretius says, is overcome by its smell.
+
+[55] (6.810) Skapte Hyle, a gold- and silver-mining district in Thrace
+     opposite Thasos, where Thucydides held mining rights; the pallor and
+     early death of the miners (811-815) are the evidence that the earth
+     breathes out harm.
+
+[56] (6.826-829) The text and punctuation are uncertain; the sense taken is
+     that the exhalation first stirs a turmoil in the bird, and then, once
+     it has fallen into the very source of the poison, forces it to vomit
+     out its life.
+
+[57] (6.830-839) The second explanation of Avernus: the exhalation drives
+     the air apart beneath the bird, which falls because its wings have
+     nothing to press against, and lies dying in a place "almost empty" of
+     air. Inane is "void", as always, though here it is a local thinning of
+     the air and not the void of Book 1; a modern reader will think of a
+     vacuum, and the thought is fair. The source marks a gap after 839,
+     where the Avernian places gave way to the springs.
+
+[58] (6.848-878) The spring of the Sun at the oracle of Zeus Ammon in the
+     oasis of Siwa in the Libyan desert, which Herodotus (4.181) reports as
+     cold at midday and hot at midnight. Lucretius gives it on report
+     ("there is said to be") and rejects the popular explanation that the
+     sun heats it from beneath at night.
+
+[59] (6.890-894) Aradus, an island city off the Phoenician coast, where a
+     spring of fresh water rose from the sea-bed and sailors drew from it;
+     the parallel is of seeds rising through a body of a different kind.
+
+[60] (6.906-920) Foedus naturae, "covenant", as throughout (see the note on
+     5.310): the law by which the stone draws iron. The magnet is the book's
+     showpiece, and 917-920 warn that a long approach is needed before the
+     explanation, which begins at 998.
+
+[61] (6.908-909) Lapis Magnes, the Magnesian stone, named from the Magnetes,
+     the people of Magnesia (in Thessaly, or the Lydian Magnesia near Mount
+     Sipylus; Lucretius does not say which). "Magnet" descends from the
+     name, but the verse keeps "the Magnes", "the stone" and "this Magnesian
+     stone" (1046), as the Latin does.
+
+[62] (6.921-935) These lines rework 4.216-229, the doctrine that bodies
+     stream without pause from everything we see; the English repeats its
+     Book 4 lines where the Latin agrees (923-926, 928-935) and differs at
+     921-922 and 927, where the Latin is new.
+
+[63] (6.936-958) "My first song" is Book 1, where water seeps through the
+     rock of caves, food passes through the body and cold through bronze
+     (1.346-357), proving that nothing is solid throughout.
+
+[64] (6.953-957) Caeli lorica, the "breastplate" that encloses the world, is
+     the flaming walls of 1.73 in another figure. The construction of
+     953-957 is strained, editors have suspected disturbance, and "as is
+     right" (iure, 957) is uncertain; the English follows Bailey's text and
+     keeps the looseness.
+
+[65] (6.970-978) What is food to one creature is poison to another, the
+     principle (959-961) on which the magnet's choice of iron will rest; the
+     same observation served a different end at 4.633-641, where the same
+     food tastes differently to different bodies.
+
+[66] (6.988-989) The two lines return at 995-996 to close the next argument,
+     and the English repeats them; "a little before" is 981-987, the pores
+     that differ in size and shape from thing to thing.
+
+[67] (6.993) Species, the visible appearances that pass through glass where
+     heat does not; close to the "images" of Book 4, though Lucretius does
+     not use simulacra here.
+
+[68] (6.998-1041) Aestus, "current": the stream of seeds that pours from the
+     stone and drives the air before it, so that the iron is carried into
+     the emptied space by the air behind it. The word is kept as "current"
+     through the whole explanation (1003, 1049, 1051, 1056, 1059), so that
+     the one agent is seen doing all the work.
+
+[69] (6.1012) The text of the line is uncertain; the sense taken is that the
+     result is "less a wonder", though people call it strange, once the
+     emptied space is understood.
+
+[70] (6.1044-1046) Iron rings associated with the mystery cult of the Cabiri
+     on Samothrace, whose initiates wore them; Lucretius has seen them leap
+     and iron filings "rage" in a bronze bowl when the stone was held
+     beneath, the one eyewitness report in the passage.
+
+[71] (6.1068-1089) A list of things that hold together by fit alone, to show
+     that the stone's grip on iron is not unique: lime and stone, glue and
+     wood, wine and water, the dye of the murex shellfish fixed in wool so
+     that "Neptune's flood", the sea itself, cannot wash it out (1074-1077),
+     gold soldered to gold by "one thing alone" (1078, the gold-solder the
+     ancients called chrysocolla, a name not in the Latin), and bronze to
+     bronze by "white lead" (1079), which is tin.
+
+[72] (6.1090-1137) Ratio morbis, "principle" in the sense of cause and
+     manner. The seeds of disease and death are among the many seeds the
+     earth and air carry, as 769-780 said of the seeds of harm; a plague is
+     the gathering of such seeds in one sky.
+
+[73] (6.1106-1109) The Britons in the north, Egypt in the south, Pontus (the
+     Black Sea) in the east and Gades (Cadiz) in the west mark the four
+     quarters of the world. "Where the axis of the world limps" (1107): in
+     the south the celestial pole stands low in the sky, so the world's axis
+     seems to lean.
+
+[74] (6.1114) Elephas, elephantiasis, probably a form of leprosy, which the
+     ancients held to be peculiar to Egypt.
+
+[75] (6.1116) Gout in Attica and eye disease in Achaea, further instances of
+     disease fixed to place; the Latin construction is unusual and the line
+     has been suspected.
+
+[76] (6.1138-1286) The plague of Athens of 430 BC, in the second year of the
+     Peloponnesian War, told after Thucydides 2.47-54 and following him
+     closely in the order of symptoms. Ratio here is the course or kind of
+     the disease, "pattern", not the poem's "reasoning".
+
+[77] (6.1139-1143) Cecrops and Pandion were legendary kings of Athens, so
+     "the borders of Cecrops" are Attica and "the people of Pandion" the
+     Athenians. The disease came from Egypt through "the swimming plains of
+     the sea".
+
+[78] (6.1149-1153) The tongue is the interpreter of the mind (animus), which
+     sits in the breast, so the descent of the disease into "the grieving
+     heart" (1152) is its arrival at the mind and at "the barriers of life"
+     (1153). Thucydides has the same descent from head to chest.
+
+[79] (6.1174) Nymphis putealibus: the nymphs stand for the water, and the
+     English keeps the figure. Thucydides records the plunging into wells.
+
+[80] (6.1199) Funera leti: funus is the funeral and, by extension, the death
+     itself, and it shifts between the two senses at 1225 and 1238; the
+     English keeps "funeral" in each place.
+
+[81] (6.1213-1214) Thucydides (2.49) likewise records that some who
+     recovered lost their memory and knew neither themselves nor their
+     friends.
+
+[82] (6.1222-1224) The dogs have anima, "spirit", the life that leaves them
+     in the streets; Epicurean doctrine gives spirit to every animal, and
+     the word is here in its Book 3 sense, not the "air" of 130.
+
+[83] (6.1237-1238) The comparison of the dying to infected flocks and herds
+     is Lucretius's own; Thucydides notes only that the disease killed the
+     birds and dogs that fed on the dead.
+
+[84] (6.1267-1269) Delubra, "shrines", are the buildings, and templa (1269,
+     "precincts") the consecrated regions in which they stand; the dead fill
+     both. The distinction is the Latin's, and the English keeps it.
+
+[85] (6.1271-1272) Religio divom, "the gods' religion", the plain word on
+     which the poem opened (1.63, with the note there). That it counted for
+     nothing beside the present grief is the poem's last word on it.
+
+[86] (6.1286) The poem ends here, and the source marks a gap after the line.
+     Whether Lucretius meant to close on the fighting at the funeral pyres,
+     with no return to the consolations of the proem, or died with the work
+     unfinished, is disputed and cannot be settled; the plague stands as the
+     last of the terrors the poem set out to explain, and Book 6 opened with
+     the city that would suffer it.
