@@ -1,27 +1,92 @@
 BOOK 1
 
-[argument: one sentence, to be written]
+Invocation of Venus and the praise of Epicurus; nothing comes from nothing
+and nothing returns to nothing; unseen bodies, and the void; the properties
+and accidents of things; the first-beginnings are solid, eternal and without
+parts; against Heraclitus, Empedocles and Anaxagoras; the universe has no
+end in matter or in space.
 
 TRANSLATOR'S COMMENTARY
 
-[to be written]
+This translation is plain, exact modern English free verse, kept line for
+line with the Latin of the Perseus text, which follows Bailey's Oxford text
+in orthography and numbering, so that any English line can be checked
+against its original. It follows the printed text throughout. Where the text
+prints lines out of numerical order (15 before 14, 156-158 before 155, 1086
+before 1085) the translation keeps the printed order and the printed
+numbers. Where lines are lost it prints an unnumbered gap and supplies
+nothing: the line marked 860a, the eight lines missing after 1093, the torn
+right-hand ends of 1068-1073, and the suspected gap after 1013. Where
+editors delete or emend, the notes say so and the translation keeps the
+printed word (the stray repeat at 769, the "body" of the sea at 271,
+"Aeolia" at 721), with one exception: at 520 it reads vacaret, "stood
+empty", with nearly every editor, since the printed vocaret gives no sense.
+
+Lucretius writes a physics without a technical vocabulary and makes one as
+he goes, complaining twice in this book of "the poverty of the language"
+(139, 832). The translation does the same and keeps the terms rigid.
+Primordia, his commonest name for the ultimate bodies, is "first-beginnings"
+every time, and his shorter principia is "beginnings", so that the two Latin
+words stay apart; the other names he lists at 58-61 are kept distinct too
+(matter, generative bodies, seeds of things, first bodies). The word "atom"
+never appears in the verse, because Lucretius never uses it; the notes say
+it once. Inane is "void", never "vacuum". Concilium, the combination of
+first bodies that makes a thing, is "union"; simplicitas, their being
+without parts, is "singleness"; coniuncta and eventa are "conjoined" and
+"accidents". Ratio, the hardest word in the poem, is "reasoning" where it is
+the doctrine or the method, "by what principle" where it is instrumental,
+and "order" in the "highest order of heaven" at 54. Religio is "religion",
+the plain word; the proem's attack has no force if it is softened to
+"superstition". Animus is "mind", anima "spirit", never "soul"; mens beside
+animus is "thought". Simulacra are "images", the word Book 4 will make
+technical; elementa is "elements" even where it means letters, because the
+analogy between first-beginnings and letters (197, 823-829, 912-914) rests
+on the one word.
+
+Lucretius repeats himself on purpose. Lines 146-148 close the proem and
+return at the head of three later books; 670-671 return three times; 75-77
+come back as 594-596; 926-950 become the proem of Book 4; 738-739 return in
+Book 5. Where the Latin repeats, the English repeats its own earlier lines
+word for word, and the lines fixed in this book are binding on the rest of
+the poem. The same goes for the formulas of transition ("For the rest",
+"Come now", "as I showed you above, a little while before") and for the
+connectives. This is a poem that argues, and its "for", "further", "again",
+"finally" and "therefore" are its skeleton; the English keeps every one,
+which makes it more insistent than modern verse is used to being, and that
+insistence is Lucretius.
+
+The book's shape is this. A hymn to Venus as the generative power of nature
+(1-43), with a prayer for peace in a bad time for Rome, sits beside a
+statement that the gods take no part in our affairs (44-49), and the notes
+record the editors' unease. Epicurus is praised, unnamed (62-79), and the
+charge of impiety is turned back on religion by the sacrifice of Iphianassa
+(80-101). The physics then proceeds in steps, each announced: nothing from
+nothing (146-214), nothing to nothing (215-264), unseen bodies (265-328),
+the void (329-417), body and void as the only two natures and everything
+else as their property or accident (418-482), the solidity, eternity and
+least parts of the first-beginnings (483-634). The polemic against
+Heraclitus, the four-element theorists and Anaxagoras (635-920) is the
+liveliest stretch, and the hardest to follow without its connectives. After
+the digression on the poet's own method (921-950) the book ends with the
+infinity of space and matter (951-1051) and the ridicule of a world with a
+center (1052-1117), broken by the two worst gaps in the text.
 
 ------------------------------------------------------------
 
-    1  Mother of Aeneas' race, pleasure of men and gods,
+    1  Mother of Aeneas' race, pleasure[1] of men and gods,
     2  nourishing Venus, who beneath the gliding signs of heaven
     3  fill with life the ship-bearing sea, the grain-bearing lands,
     4  and throng them, since through you every kind of living thing
     5  is conceived and, risen, looks upon the light of the sun:
     6  you, goddess, you the winds flee, you the clouds of heaven flee,
-    7  you and your coming; for you the artificer earth sends up
+    7  you and your coming; for you the artificer[2] earth sends up
     8  her sweet flowers, for you the levels of the sea laugh,
     9  and the sky, made calm, shines with light poured wide.
    10  For as soon as the face of the spring day stands revealed
    11  and the fertile breath of the west wind, unbarred, grows strong,
    12  first the birds of the air, goddess, announce you and your
    13  coming in, their hearts struck through by your power.
-   15  Then wild beasts and herds go bounding over the glad pastures
+   15  Then wild beasts and herds go bounding over the glad pastures[3]
    14  and swim the rushing rivers: so, captured by your charm,
    16  each follows you eagerly wherever you go on to lead.
    17  Then through seas and mountains and sweeping rivers,
@@ -29,17 +94,17 @@ TRANSLATOR'S COMMENTARY
    19  striking seductive love into the breasts of all,
    20  you make them eagerly propagate their generations, kind by kind.
    21  Since you alone steer the nature of things,
-   22  and without you nothing rises into the shining shores of light,
+   22  and without you nothing rises into the shining shores of light[4],
    23  and nothing comes to be glad, nothing lovely,
    24  I long for you as my partner in writing these verses
    25  which I attempt to set down on the nature of things
-   26  for our son of the Memmii, whom you, goddess, at every season
+   26  for our son of the Memmii[5], whom you, goddess, at every season
    27  have willed to excel, adorned with every gift.
    28  All the more, goddess, give my words a lasting charm.
    29  Bring it about that meanwhile the savage works of war
    30  over all seas and lands be lulled and lie at rest;
    31  for you alone can help mortals with tranquil peace,
-   32  since Mars, mighty in arms, who rules the savage works
+   32  since Mars[6], mighty in arms, who rules the savage works
    33  of war, often throws himself back into your lap,
    34  conquered by the eternal wound of love,
    35  and so, gazing up, his rounded neck laid back,
@@ -51,18 +116,18 @@ TRANSLATOR'S COMMENTARY
    41  for neither can we, in a bad time for our country, do this work
    42  with an untroubled mind, nor can the famous offspring of Memmius
    43  in such a pass be wanting to the common safety.
-   44  For the whole nature of the gods must, of itself, by necessity
+   44  For the whole nature of the gods must, of itself, by necessity[7]
    45  enjoy immortal life in utmost peace,
    46  removed from our affairs and separated far away;
    47  for free from every pain, free from dangers,
    48  strong in its own resources, needing nothing of ours,
    49  it is neither won by services nor touched by anger.
    50  For the rest, lend ears set free, and a keen mind
-   51  withdrawn from cares, to true reasoning,
+   51  withdrawn from cares, to true reasoning[8],
    52  so that my gifts, laid out for you with faithful care,
    53  are not, before they are understood, dismissed and left behind.
    54  For I shall begin to set out for you the highest order
-   55  of heaven and the gods, and unfold the first-beginnings of things,
+   55  of heaven and the gods, and unfold the first-beginnings[9] of things,
    56  from which nature creates all things, makes them grow, and feeds them,
    57  and into which, when they perish, that same nature dissolves them,
    58  which we, in giving our account, are used to calling matter
@@ -70,28 +135,28 @@ TRANSLATOR'S COMMENTARY
    60  seeds of things, and to use for these same things the term
    61  first bodies, because from them, as first, all things are.
    62  When human life lay foully before the eyes,
-   63  crushed on the earth beneath the weight of religion,
+   63  crushed on the earth beneath the weight of religion[10],
    64  which showed its head from the regions of heaven,
    65  looming over mortals with horrible aspect,
-   66  first a man of Greece dared to lift mortal eyes
+   66  first a man of Greece[11] dared to lift mortal eyes
    67  against it, and first to take a stand against it;
    68  him neither the fame of gods nor thunderbolts nor heaven
    69  with its threatening growl held down; rather they goaded
    70  the keen courage of his mind the more, so that he longed
    71  to be first to break the tight-barred gates of nature.
    72  And so the living force of his mind prevailed, and far
-   73  beyond the flaming walls of the world he went out
-   74  and traveled the whole immensity in thought and mind,
+   73  beyond the flaming walls of the world[12] he went out
+   74  and traveled the whole immensity in thought and mind[13],
    75  from where he brings back to us, a victor, what can come to be
    76  and what cannot, and how at last each thing's power is bounded,
-   77  by what principle, and its boundary-stone set deep.
+   77  by what principle, and its boundary-stone set deep[14].
    78  Therefore religion in its turn is thrown beneath our feet
    79  and trampled; the victory lifts us level with heaven.
    80  In these matters I fear this: that you might think
    81  you enter on the impious elements of reasoning and set foot
    82  on the road of crime. Rather, the opposite: more often it is
    83  religion that has borne the criminal and impious deeds.
-   84  As at Aulis, where the altar of the Virgin of the Crossways
+   84  As at Aulis, where the altar of the Virgin of the Crossways[15]
    85  was foully defiled with the blood of Iphianassa
    86  by the chosen leaders of the Danaans, the first of men.
    87  As soon as the ribbon, bound about her maiden hair,
@@ -105,10 +170,10 @@ TRANSLATOR'S COMMENTARY
    95  for lifted by men's hands and trembling she was led
    96  to the altar, not so that, when the solemn rite was done,
    97  she might be escorted by the ringing wedding-hymn,
-   98  but so that, pure, impurely, at the very season of marriage,
+   98  but so that, pure, impurely[16], at the very season of marriage,
    99  she might fall, a grieving victim, slaughtered by her father,
   100  that a happy and favorable departure be granted the fleet.
-  101  So much evil could religion prompt.
+  101  So much evil could religion prompt.[17]
   102  You yourself, at any moment now, overcome by the prophets'
   103  terror-speaking words, will look to desert us.
   104  For indeed how many dreams they can even now invent for you,
@@ -119,18 +184,18 @@ TRANSLATOR'S COMMENTARY
   109  to stand against the religions and the threats of prophets.
   110  As it is, there is no way to stand against them, no power,
   111  since eternal punishments must be feared in death.
-  112  For it is not known what the nature of the spirit is,
+  112  For it is not known what the nature of the spirit[18] is,
   113  whether it is born, or instead works its way into us at birth,
   114  and whether it perishes together with us, torn apart by death,
-  115  or visits the darkness of Orcus and his vast pools,
+  115  or visits the darkness of Orcus[19] and his vast pools,
   116  or by divine ordinance slips itself into other beasts,
-  117  as our Ennius sang, who first brought down
+  117  as our Ennius[20] sang, who first brought down
   118  from lovely Helicon a crown of unfading leaf
   119  to shine in fame through the Italian nations of men;
   120  and yet besides, that the precincts of Acheron exist
   121  Ennius sets forth, declaring it in eternal verses,
   122  where neither our spirits nor our bodies endure,
-  123  but certain images, pale in strange ways;
+  123  but certain images[21], pale in strange ways;
   124  from there, he recalls, the likeness of ever-flourishing Homer
   125  rose up before him and began to shed salt tears
   126  and to unfold in words the nature of things.
@@ -146,7 +211,7 @@ TRANSLATOR'S COMMENTARY
   136  Nor does it escape my mind that the obscure findings of the Greeks
   137  are hard to set in light in Latin verses,
   138  especially since much must be done with new words
-  139  because of the poverty of the language and the newness of the things;
+  139  because of the poverty of the language[22] and the newness of the things;
   140  but still your worth, and the hoped-for pleasure
   141  of sweet friendship, urge me to bear any labor,
   142  and lead me to keep watch through the calm nights,
@@ -154,16 +219,16 @@ TRANSLATOR'S COMMENTARY
   144  I may spread clear lights before your mind
   145  by which you can see deep into hidden things.
 
-  146  This terror of the mind, then, and this darkness {{NOTE: first occurrence of a refrain; 146-148 recur verbatim at 2.59-61, 3.91-93, 6.39-41}}
+  146  This terror of the mind, then, and this darkness[23]
   147  must be scattered not by the sun's rays or the bright shafts of day
   148  but by the face and reasoning of nature.
   149  Its first principle will take its starting-point for us from here:
-  150  that nothing is ever begotten from nothing by divine will.
+  150  that nothing is ever begotten from nothing by divine will[24].
   151  Indeed, fear so holds all mortals in its grip
   152  because they behold many things happening on earth and in the sky
   153  the causes of whose workings they can in no way see,
   154  and they suppose them to be done by divine power.
-  156  For these reasons, when we have seen that nothing can be created {{NOTE: 156-158 printed before 155, an editorial transposition; the source order is kept}}
+  156  For these reasons, when we have seen that nothing can be created[25]
   157  from nothing, then we shall more rightly discern from there
   158  what we are seeking: both from what each thing can be created
   155  and in what manner all things come about without the labor of gods.
@@ -205,7 +270,7 @@ TRANSLATOR'S COMMENTARY
   194  nor again could the nature of living things, kept apart from food,
   195  propagate its kind and preserve its life;
   196  so that you should rather think that many bodies are common
-  197  to many things, as we see elements are to words, {{NOTE: elementa means both the elements of things and the letters of the alphabet; Lucretius's recurring analogy, kept as "elements"}}
+  197  to many things, as we see elements[26] are to words,
   198  than that anything could exist without beginnings.
   199  Again, why could nature not produce men so huge
   200  that they could cross the sea on foot, wading through its shallows,
@@ -231,7 +296,7 @@ TRANSLATOR'S COMMENTARY
   220  division among its parts and undo their bonds.
   221  As it is, since each thing is made of eternal seed,
   222  until a force has met it that can shatter things with a blow
-  223  or pierce within through the voids and dissolve them,
+  223  or pierce within through the voids[27] and dissolve them,
   224  nature does not allow the destruction of anything to be seen.
   225  Further, whatever things time removes through age,
   226  if it destroys them utterly, consuming all their matter,
@@ -258,7 +323,7 @@ TRANSLATOR'S COMMENTARY
   247  meets them found keen enough for the texture of each.
   248  Therefore no thing returns to nothing, but all things
   249  by division return to the bodies of matter.
-  250  Finally, the rains perish when father ether
+  250  Finally, the rains perish when father ether[28]
   251  has flung them headlong into the lap of mother earth;
   252  but shining crops spring up, and branches grow green
   253  on the trees; the trees themselves grow and are weighed down with fruit.
@@ -269,7 +334,7 @@ TRANSLATOR'S COMMENTARY
   258  their bodies, and the white milky liquid
   259  flows from the swollen udders; from this the new offspring
   260  on unsteady limbs frisk through the tender grass
-  261  and play, their young minds made drunk with unmixed milk. {{NOTE: merum is the word for unmixed wine; the young are tipsy on milk}}
+  261  and play, their young minds made drunk with unmixed milk[29].
   262  Therefore none of the things that are seen perish utterly,
   263  since nature remakes one thing from another, and does not allow
   264  anything to be born unless helped by another's death.
@@ -279,11 +344,11 @@ TRANSLATOR'S COMMENTARY
   268  because the first-beginnings of things cannot be seen with the eyes,
   269  hear further of bodies which you yourself must
   270  confess are among things and yet cannot be seen.
-  271  First, the roused force of the wind lashes the body of the sea {{NOTE: the text reads corpus, "body"; many editors emend to pontum, "sea"; taken here as the sea's body}}
+  271  First, the roused force of the wind lashes the body of the sea[30]
   272  and overturns huge ships and scatters the clouds,
   273  at times, running across the plains in a swift whirlwind,
   274  it strews them with great trees, and the mountaintops
-  275  it harries with forest-breaking blasts: so with a fierce
+  275  it harries with forest-breaking[31] blasts: so with a fierce
   276  roar the sea rages, and storms with a threatening growl.
   277  Therefore winds, beyond doubt, are unseen bodies
   278  that sweep the sea, the lands, and finally the clouds of heaven,
@@ -324,7 +389,7 @@ TRANSLATOR'S COMMENTARY
   313  the falling of the drip hollows a stone, the curved iron
   314  plowshare secretly wastes away in the fields,
   315  and the stone pavements of the roads we see already
-  316  worn by the feet of the crowd; then, beside the gates, bronze
+  316  worn by the feet of the crowd; then, beside the gates, bronze[32]
   317  statues show their right hands thinned
   318  by the touch of those who greet them, often, and of those passing by.
   319  These things, then, we see are diminished, since they are worn away.
@@ -339,13 +404,13 @@ TRANSLATOR'S COMMENTARY
   327  could you discern what they lose at each moment.
   328  Therefore nature carries on her work through unseen bodies.
   329  And yet not all things are held packed tight on every side
-  330  by the nature of body; for there is void in things.
+  330  by the nature of body; for there is void[33] in things.
   331  To have learned this will be of use to you in many matters,
   332  and will not let you wander, doubting and always asking
   333  about the sum of things, and distrusting my words.
   334  Therefore there is place, untouchable, void and empty.
   335  For if there were not, by no means could things
-  336  move at all; for what stands out as the office of body,
+  336  move at all; for what stands out as the office[34] of body,
   337  to obstruct and stand in the way, would at every moment be present
   338  in all things; and so nothing could go forward,
   339  since nothing would make a beginning of giving way.
@@ -380,7 +445,7 @@ TRANSLATOR'S COMMENTARY
   368  There is therefore, plainly, that which with keen reasoning
   369  we are seeking, mixed in with things: what we call void.
   370  In these matters, so that it may not lead you from the truth,
-  371  I am compelled to forestall what certain men invent.
+  371  I am compelled to forestall what certain men[35] invent.
   372  They say the waters give way to the scaly creatures as they thrust
   373  and open liquid paths, because the fish leave places behind them
   374  into which the yielding waves can flow together;
@@ -431,8 +496,8 @@ TRANSLATOR'S COMMENTARY
   419  all nature, then, as it is in itself, has been founded
   420  on two things; for there are bodies and there is void,
   421  in which these are set and through which they move this way and that.
-  422  For that body exists by itself is declared by the sense {{NOTE: communis sensus: the sense common to all, not "common sense" in the modern meaning.}}
-  423  common to all; and unless trust in this stands first and firm,
+  422  For that body exists by itself is declared by the sense
+  423  common to all[36]; and unless trust in this stands first and firm,
   424  there will be nothing to appeal to concerning hidden things
   425  by which we could confirm anything by reasoning of the mind.
   426  Then again, place and space, which we call void,
@@ -458,7 +523,7 @@ TRANSLATOR'S COMMENTARY
   446  by itself can be left in the number of things,
   447  neither one that falls at any time under our senses
   448  nor one that anyone can grasp by reasoning of the mind.
-  449  For whatever things have a name, you will find them either conjoined {{NOTE: coniuncta and eventa: permanent properties and accidents (Epicurus' symptomata); "conjoined" and "accidents" are kept throughout.}}
+  449  For whatever things have a name, you will find them either conjoined[37]
   450  to these two things, or you will see that they are their accidents.
   451  A conjoined property is that which can nowhere, without a deadly
   452  division, be disjoined and parted from the thing,
@@ -468,24 +533,24 @@ TRANSLATOR'S COMMENTARY
   456  freedom, war, concord, and the other things at whose
   457  coming and going nature remains unharmed,
   458  these we are used, rightly, to calling accidents.
-  459  Time likewise does not exist by itself, but from things themselves
+  459  Time[38] likewise does not exist by itself, but from things themselves
   460  our sense takes in what has been carried through in time gone by,
   461  then what thing is at hand, and what will follow after;
   462  nor must it be admitted that anyone senses time by itself,
   463  apart from the motion of things and their calm rest.
-  464  Finally, when they say the abduction of Tyndareus' daughter {{NOTE: Helen, whose carrying-off by Paris began the Trojan War.}}
+  464  Finally, when they say the abduction of Tyndareus' daughter[39]
   465  and the conquest of the Trojan-born nations in war "are", we must take care
   466  that they do not force us to admit these things exist by themselves,
   467  since the generations of men whose accidents these were
   468  have been carried off already by an age gone past recall;
-  469  for one thing will be said to be an accident of the lands, another {{NOTE: The lands stand for the matter involved, the regions for the space it occupied.}}
+  469  for one thing will be said to be an accident of the lands[40], another
   470  of the regions themselves, whatever has been done.
   471  Finally, if there had been no matter of things,
   472  and no place and space, in which each thing is carried on,
   473  never would the fire, kindled by love for the beauty of Tyndareus' daughter,
-  474  glowing beneath the Phrygian breast of Alexander, {{NOTE: Alexander is Paris, son of Priam; Phrygian = Trojan.}}
+  474  glowing beneath the Phrygian breast of Alexander,
   475  have lit the famous contests of savage war,
-  476  nor would the wooden horse, unknown to the Trojans, have set Pergamum {{NOTE: Pergama, the citadel of Troy.}}
+  476  nor would the wooden horse, unknown to the Trojans, have set Pergamum
   477  ablaze by its night-time delivery of the sons of the Greeks;
   478  so that you may see clearly that all deeds done, from the ground up,
   479  do not exist or have being by themselves as body does,
@@ -494,7 +559,7 @@ TRANSLATOR'S COMMENTARY
   482  of body and of place, in which each thing is carried on.
 
   483  Further, bodies are partly the first-beginnings of things,
-  484  partly those that are formed from a union of beginnings. {{NOTE: principia, Lucretius's synonym for primordia; "beginnings" keeps the two Latin words apart}}
+  484  partly those that are formed from a union of beginnings[41].
   485  But those that are the first-beginnings of things no force
   486  can quench; for in the end they prevail by solid body.
   487  And yet it seems hard to believe that anything
@@ -503,7 +568,7 @@ TRANSLATOR'S COMMENTARY
   490  as do shouting and voices; iron grows white-hot in fire,
   491  and rocks leap apart in fierce and seething heat;
   492  when the hardness of gold is shaken loose and dissolves in heat,
-  493  then the ice of bronze, conquered by flame, melts away;
+  493  then the ice of bronze[42], conquered by flame, melts away;
   494  heat seeps through silver, and so does penetrating cold,
   495  since, gripping cups in hand as is the custom, we have felt both
   496  when the dew of water was poured in from above.
@@ -530,7 +595,7 @@ TRANSLATOR'S COMMENTARY
   517  of matter, such as could enclose the void in things.
   518  Matter, therefore, which consists of solid body,
   519  can be eternal, while all else is dissolved.
-  520  Then again, if there were nothing that stood empty as void, {{NOTE: the text as printed has vocaret; most editors read vacaret, "was empty", and the translation follows that}}
+  520  Then again, if there were nothing that stood empty[43] as void,
   521  all would be solid; unless, on the other hand, there were definite bodies
   522  to fill up whatever places they occupied,
   523  all the space there is would stand as empty void.
@@ -541,7 +606,7 @@ TRANSLATOR'S COMMENTARY
   528  These can neither be dissolved when struck by blows from outside
   529  nor, again, be unravelled by being pierced to the core,
   530  nor, assailed in any other way, can they be made to give;
-  531  as I showed you above, a little while before.
+  531  as I showed you above, a little while before.[44]
   532  For nothing, it seems, can be crushed without void,
   533  nor broken, nor split in two by cutting,
   534  nor take in moisture, nor likewise seeping cold,
@@ -558,7 +623,7 @@ TRANSLATOR'S COMMENTARY
   545  the first-beginnings must be of immortal body,
   546  into which all things can be dissolved at their last hour,
   547  so that matter may be at hand for the renewal of things.
-  548  The first-beginnings, therefore, are of solid singleness,
+  548  The first-beginnings, therefore, are of solid singleness[45],
   549  nor in any other way could they have been kept through the ages
   550  to renew things, from time already infinite.
   551  Finally, if nature had set no limit
@@ -596,7 +661,7 @@ TRANSLATOR'S COMMENTARY
   583  harried through the ages by numberless blows.
   584  Finally, since a limit is set for things, kind by kind,
   585  to their growing and their holding on to life,
-  586  and since what each can do by nature's covenants, {{NOTE: foedera naturai, first occurrence of the phrase; rendered "nature's covenants" throughout}}
+  586  and since what each can do by nature's covenants[46],
   587  and what, further, each cannot, stands decreed,
   588  nor is anything changed, but all things are so constant
   589  that the varied birds, all of them in their order,
@@ -605,12 +670,12 @@ TRANSLATOR'S COMMENTARY
   592  matter; for if the first-beginnings of things
   593  could be overcome in some way and be changed,
   594  it would then be uncertain, too, what can come to be
-  595  and what cannot, and how at last each thing's power is bounded, {{NOTE: 1.594-596 repeat 1.75-77; the English repeats its own lines}}
+  595  and what cannot, and how at last each thing's power is bounded,[47]
   596  by what principle, and its boundary-stone set deep,
   597  nor could the generations, kind by kind, so often repeat
   598  the nature, the manners, the diet, and the movements of their parents.
 
-  599  Then further, since there is in each case an outermost point
+  599  Then further, since there is in each case an outermost point[48]
   600  of that body which our senses can no longer
   601  make out, that point, beyond doubt, stands without parts
   602  and consists of a least nature, and was never
@@ -640,7 +705,7 @@ TRANSLATOR'S COMMENTARY
   626  and consist of a least nature. And since these exist,
   627  you must admit that they too are solid and eternal.
   628  Finally, if to break all things up into least parts
-  629  had been the custom of the nature of things, the creator,
+  629  had been the custom of the nature of things, the creator[49],
   630  that same nature could restore nothing from them now,
   631  because what is furnished with no parts
   632  cannot have the things that generative matter
@@ -649,8 +714,8 @@ TRANSLATOR'S COMMENTARY
   635  Therefore those who have thought that the matter of things is
   636  fire, and that the sum of things consists of fire alone,
   637  seem to have slipped greatly from true reasoning.
-  638  Their leader, Heraclitus, is the first to enter the battle, {{NOTE: Heraclitus of Ephesus (c. 500 BC), called "the Obscure"}}
-  639  bright in fame for his dark speech, more among the empty-headed {{NOTE: puns: clarus/obscuram, "bright"/"dark"; inanis, "empty-headed", is the word for "void"}}
+  638  Their leader, Heraclitus[50], is the first to enter the battle,
+  639  bright in fame for his dark speech, more among the empty-headed
   640  than among the serious Greeks who seek the truth;
   641  for fools admire and love above all those things
   642  which they see lurking under twisted words,
@@ -681,7 +746,7 @@ TRANSLATOR'S COMMENTARY
   667  if, that is, they will not in any part hold back from doing this,
   668  then beyond doubt the heat will perish utterly into nothing,
   669  all of it, and from nothing will come whatever is created;
-  670  for whatever is changed and passes out of its own bounds, {{NOTE: first occurrence of a refrain (670-671 = 1.792-793, 2.753-754, 3.519-520)}}
+  670  for whatever is changed and passes out of its own bounds,[51]
   671  this at once is the death of what it was before.
   672  Therefore something must survive in them unharmed,
   673  so that all things do not return utterly to nothing for you,
@@ -696,7 +761,7 @@ TRANSLATOR'S COMMENTARY
   682  if all of them still kept the nature of heat;
   683  for whatever they created would in every way be fire.
   684  But in truth, as I think, it is so: there are certain bodies whose
-  685  collisions, motions, order, position, shapes
+  685  collisions[52], motions, order, position, shapes
   686  make fires, and, their order changed, change
   687  their nature, and they are not like fire, nor like any
   688  other thing which could send bodies
@@ -711,14 +776,14 @@ TRANSLATOR'S COMMENTARY
   697  but does not believe the rest, which are no less clear.
   698  And this seems to me as empty as it is mad;
   699  for to what shall we appeal? What can be surer for us
-  700  than the senses themselves, by which to mark true and false?
+  700  than the senses[53] themselves, by which to mark true and false?
   701  Further, why should anyone rather do away with all things
   702  and wish to leave the nature of heat alone,
   703  than deny that fires exist and still leave some other nature?
   704  For it seems equal madness to say either.
-  705  Therefore those who have thought that the matter of things is
+  705  Therefore those who have thought that the matter of things is[54]
   706  fire, and that the sum of things can consist of fire,
-  707  and those who have set up air as the beginning {{NOTE: air: Anaximenes; water: Thales; earth: no single source is certain}}
+  707  and those who have set up air[55] as the beginning
   708  for begetting things, or whoever have thought that water
   709  by itself shapes things, or that earth creates
   710  all things and is turned into the natures of all things,
@@ -726,13 +791,13 @@ TRANSLATOR'S COMMENTARY
   712  Add also those who double the first-beginnings of things,
   713  joining air to fire and earth to liquid,
   714  and those who think that out of four things all things can
-  715  grow forth, out of fire, earth, and breath, and rain. {{NOTE: anima here is "breath", the element air, not the spirit}}
-  716  Of these, first among them is Empedocles of Acragas, {{NOTE: Empedocles (5th c. BC) of Acragas, modern Agrigento, in Sicily}}
+  715  grow forth, out of fire, earth, and breath[56], and rain.
+  716  Of these, first among them is Empedocles[57] of Acragas,
   717  whom the island bore within the three-cornered shores of its lands,
   718  around which, flowing with great windings, the Ionian
   719  sea sprinkles salt spray from its gray-green waves,
   720  and with its narrow strait the rushing sea divides with its waves
-  721  the shores of Aeolia's lands from the island's borders. {{NOTE: Aeolia: so the text; some editors read Italiae, "Italy"; the mainland across the Strait of Messina is meant}}
+  721  the shores of Aeolia's[58] lands from the island's borders.
   722  Here is vast Charybdis, and here the rumblings of Etna
   723  threaten that the angers of its flames are gathering again,
   724  so that its force may once more vomit fires burst from its jaws
@@ -749,8 +814,8 @@ TRANSLATOR'S COMMENTARY
   735  remarkably in many ways and much the lesser,
   736  though they discovered many things well and as if divinely,
   737  and gave answers as from the inner shrine of the heart
-  738  more holy and with far surer reasoning than {{NOTE: 738-739 recur at 5.111-112}}
-  739  the Pythia, who speaks from the tripod and the laurel of Phoebus, {{NOTE: the Pythia, priestess of Phoebus Apollo at Delphi}}
+  738  more holy and with far surer reasoning than
+  739  the Pythia[59], who speaks from the tripod and the laurel of Phoebus,
   740  yet over the beginnings of things they came to ruin,
   741  and there, great as they were, they fell heavily with a great fall.
   742  First, because they set up motions with void taken from things,
@@ -781,7 +846,7 @@ TRANSLATOR'S COMMENTARY
   766  than things, the other way round, be thought to be theirs?
   767  For they are born by turns, and change their color
   768  and their whole nature among themselves from all time.
-  769  we see the thunderbolts scatter, and the rains and winds. {{NOTE: repeats 1.762 word for word; editors usually delete it as a stray repetition, but the source prints it}}
+  769  we see the thunderbolts scatter, and the rains and winds.[60]
   770  But if perhaps you think the body of fire and of earth
   771  come together, and the airy breezes and the moisture of liquid,
   772  so that in their union nothing changes their nature,
@@ -842,7 +907,7 @@ TRANSLATOR'S COMMENTARY
   827  So much can elements do by a change of order alone;
   828  but those that are the first-beginnings of things can bring
   829  more to bear, from which varied things can each be created.
-  830  Now let us also examine the homoeomeria of Anaxagoras, {{NOTE: Greek, roughly "likeness of parts": each substance made of tiny particles of that same substance; left untranslated, as Lucretius leaves it}}
+  830  Now let us also examine the homoeomeria[61] of Anaxagoras,
   831  as the Greeks call it, which to name in our own tongue
   832  the poverty of our native speech does not allow us;
   833  but still the thing itself is easy to set out in words.
@@ -873,7 +938,7 @@ TRANSLATOR'S COMMENTARY
   858  grow out of nothing, I call to witness the things proved before.
   859  Further, since food increases the body and nourishes it,
   860  we may know that veins and blood and bones
- 860a  * * * {{NOTE: lacuna in the manuscripts; the argument against Anaxagoras on nourishment is broken off here}}
+ 860a  * * *[62]
   861  or if they say that all foods are of mixed body
   862  and have in them small bodies of sinews,
   863  and bones, and veins altogether, and parts of gore,
@@ -887,7 +952,7 @@ TRANSLATOR'S COMMENTARY
   871  if flame lies hidden in wood, and smoke and ash,
   872  wood must consist of things of foreign kind;
   873  further, that whatever bodies the earth feeds and increases
-  874  consist of things of foreign kind, which rise out of the wood. {{NOTE: the sense of 873-874 is disputed; editors suspect corruption or a lost line}}
+  874  consist of things of foreign kind, which rise out of the wood.[63]
 
   875  Here there is left a certain slender chance of hiding,
   876  which Anaxagoras takes up for himself, holding that every
@@ -928,19 +993,19 @@ TRANSLATOR'S COMMENTARY
   911  and that these same, a little changed among themselves, create
   912  fires and wood? Just as the words themselves, too,
   913  differ by elements a little changed among themselves,
-  914  when we mark wood and fires with distinct sounds. {{NOTE: the Latin words, ligna and ignes, are made of nearly the same letters; the point of "elements" as letters is lost in English}}
+  914  when we mark wood and fires[64] with distinct sounds.
   915  Finally, if you think that whatever you see in things plain to view
   916  cannot come to be unless you imagine the bodies of matter
   917  endowed with a nature like theirs,
   918  on this reasoning the first-beginnings of things perish for you:
-  919  it will come about that they guffaw, shaken with trembling laughter,
+  919  it will come about that they guffaw, shaken with trembling laughter[65],
   920  and wet their faces and cheeks with salt tears.
   921  Come now, for the rest: learn, and hear more clearly.
   922  Nor does it escape my mind how dark these things are; but with a sharp
-  923  thyrsus the great hope of praise has struck my heart {{NOTE: the thyrsus, the ivy-wreathed wand of Bacchus, whose touch brought on divine frenzy}}
+  923  thyrsus[66] the great hope of praise has struck my heart
   924  and at the same time has driven into my breast sweet love
   925  of the Muses, inspired by which now, with vigorous mind,
-  926  I range through the pathless places of the Pierides, trodden before {{NOTE: lines 1.926-950 recur almost word for word as the proem of Book 4 (4.1-25); the Pierides are the Muses, named from Pieria}}
+  926  I range through the pathless places of the Pierides[67], trodden before
   927  by no one's foot. It is a joy to come to untouched springs
   928  and drink from them, a joy to pluck new flowers
   929  and to seek for my head a crown of distinction from there
@@ -984,7 +1049,7 @@ TRANSLATOR'S COMMENTARY
   967  sides alike one leaves the whole as infinite as before.
   968  Further, if now we should set down as bounded
   969  all the space that exists, if someone should run out to its shores,
-  970  last of all, at the very edge, and hurl a flying spear,
+  970  last of all, at the very edge, and hurl a flying spear[68],
   971  would you rather that, whirled by strong force,
   972  it goes where it was sent and flies far off,
   973  or do you judge that something can stop it and stand in its way?
@@ -1007,7 +1072,7 @@ TRANSLATOR'S COMMENTARY
   990  since all matter would lie heaped up,
   991  settling down from infinite time already past.
   992  But as it is, plainly, no rest is given to the bodies
-  993  of the beginnings, because there is no bottom at all {{NOTE: principia, Lucretius's variant for primordia; rendered "beginnings" to keep the Latin distinct}}
+  993  of the beginnings, because there is no bottom at all
   994  where they might, as it were, flow together and take up their seats.
   995  Always, in ceaseless motion, all things are carried on
   996  in every part, and from beneath are furnished,
@@ -1028,7 +1093,7 @@ TRANSLATOR'S COMMENTARY
  1010  by void, and what is void, in turn, to be bounded by body,
  1011  so that by this alternation she renders the whole infinite;
  1012  or else, too, if the other did not bound it, one of the two
- 1013  would still stretch out without measure in its single nature, {{NOTE: the sense breaks here; many editors posit a lost line or lines after 1.1013}}
+ 1013  would still stretch out without measure in its single nature,[69]
  1014  and neither sea nor earth nor the shining precincts of heaven
  1015  nor the mortal race nor the holy bodies of the gods
  1016  could hold their ground for the brief space of an hour;
@@ -1036,7 +1101,7 @@ TRANSLATOR'S COMMENTARY
  1018  would be carried, set loose, through the great void,
  1019  or rather it would never have come together and created
  1020  anything, since, scattered, it could not have been driven together.
- 1021  For certainly the first-beginnings of things did not by design
+ 1021  For certainly the first-beginnings of things did not by design[70]
  1022  set themselves each in its order with a shrewd mind,
  1023  nor, surely, did they bargain what motions each should give;
  1024  but because, many and changed in many ways, throughout the whole
@@ -1068,7 +1133,7 @@ TRANSLATOR'S COMMENTARY
  1050  and yet, so that even the blows themselves can be in supply,
  1051  there is need of an infinite force of matter on every side.
  1052  In these matters, Memmius, flee far from believing
- 1053  what they say: that all things press toward the middle of the sum,
+ 1053  what they say: that all things press toward the middle[71] of the sum,
  1054  and that for this reason the nature of the world stands without any
  1055  blows from outside, and top and bottom cannot be loosed
  1056  in any direction, because all things have pressed toward the middle
@@ -1083,7 +1148,7 @@ TRANSLATOR'S COMMENTARY
  1065  that when they see the sun, we behold the stars of night,
  1066  and that they share the seasons of heaven turn by turn with us
  1067  and pass nights equal to our days.
- 1068  But an empty . . . these things for fools . . . {{NOTE: 1.1068-1075 are damaged at their right edge in the manuscripts; the gaps are marked . . . and not supplied}}
+ 1068  But an empty . . . these things for fools . . .[72]
  1069  since they hold it embraced . . .
  1070  For there can be no middle . . .
  1071  infinite; nor in any way, even if there were a middle now,
@@ -1100,7 +1165,7 @@ TRANSLATOR'S COMMENTARY
  1082  in union, overcome by desire for the middle.
  1083  Further, since they imagine that not all bodies
  1084  press toward the middle, but only those of earth and liquid,
- 1086  the moisture of the sea and the great waters from the mountains,
+ 1086  the moisture of the sea and the great waters from the mountains,[73]
  1085  and those that are held, as it were, in an earthy body,
  1087  but on the contrary teach that the thin breezes of air
  1088  and hot fires together are carried away from the middle,
@@ -1108,7 +1173,7 @@ TRANSLATOR'S COMMENTARY
  1090  and the flame of the sun is fed through the blue of heaven,
  1091  because heat, fleeing from the middle, gathers all of itself there,
  1092  and that the topmost boughs of trees could not put forth leaves at all
- 1093  unless from the earth, little by little, food for each . . . {{NOTE: eight lines are lost after 1.1093; the argument resumes mid-sentence at 1.1102}}
+ 1093  unless from the earth, little by little, food for each . . .[74]
        [lacuna]
        [lacuna]
        [lacuna]
@@ -1117,7 +1182,7 @@ TRANSLATOR'S COMMENTARY
        [lacuna]
        [lacuna]
        [lacuna]
- 1102  lest, in the manner of winged flames, the walls of the world
+ 1102  lest, in the manner of winged flames, the walls of the world[75]
  1103  should suddenly fly apart, set loose through the great void,
  1104  and lest the rest should follow on a like principle,
  1105  or the thundering precincts of heaven rush down from above,
@@ -1132,268 +1197,444 @@ TRANSLATOR'S COMMENTARY
  1114  These things you will learn thoroughly, led on with a little labor;
  1115  for one thing will grow clear from another, nor will blind
  1116  night snatch away your road before you see through to the farthest
- 1117  reaches of nature: so things will kindle lights for things.
+ 1117  reaches of nature: so things will kindle lights[76] for things.
 
 ------------------------------------------------------------
 
-Notes (DRAFT)
-
-[DRAFT] (1.1) Aeneadum genetrix: Venus is mother of Aeneas, hence ancestress of the Romans; the invocation opens the poem with a Roman patron goddess. The register fixes voluptas as "pleasure" (voluptas), the same word Epicurus's school used for the highest good, so the epithet already carries doctrine and not only charm.
-
-[DRAFT] (1.10) The English lines 15 and 14 stand in the source order, with 15 printed before 14. The editor has transposed the pair so that the beasts "bound over the pastures" (persultant pabula laeta) before they "swim the rushing rivers" and "so, captured" (ita capta) gathers both. The translation follows the source order and keeps the line keys.
-
-[DRAFT] (1.26) Memmiadae nostro: Gaius Memmius, Roman aristocrat and praetor of 58 BC, is the poem's addressee. The poet's relation to him is that of client to patron, and "you" in the translation is always Memmius. The name is given in patronymic form, "son of the Memmii."
-
-[DRAFT] (1.32) Mavors is an old Latin form of Mars (Mavors). The scene of Mars conquered by love in Venus's lap is a well-known image. It lets the poet ask for peace through the one god who can calm the god of war.
-
-[DRAFT] (1.44) Lines 44-49 (omnis enim per se divum natura) state the Epicurean doctrine that the gods live in untroubled peace and take no notice of human affairs. They do not answer prayers or send anger, so this passage sits oddly beside the prayer to Venus just made. The same lines recur in Book 2 (2.646-651). Some editors have judged them out of place here, though the translation prints them.
-
-[DRAFT] (1.55) The first-beginnings (rerum primordia) are the technical name for what a modern reader knows as atoms. The Latin has no single fixed word; the poet supplies a cluster of names in 1.58-61 (materies, genitalia corpora, semina rerum, corpora prima), and the English keeps each distinct. Lucretius says "which we are used to calling" (suemus), which marks these as the school's own coinages and borrowings in Latin.
-
-[DRAFT] (1.63) religio is rendered "religion," the plain word, not "superstition." In Lucretius it names the fear-driven belief in gods who watch and punish, so the Epicurean attack falls on that and not on piety toward a distant divine nature as such.
-
-[DRAFT] (1.66) Graius homo is Epicurus, left unnamed here and named only later in the poem (3.1042). The translation keeps the periphrasis "a man of Greece." The first-person revolt against religion (primum...primusque, "first...and first") sets him as the hero of the poem.
-
-[DRAFT] (1.73) flammantia moenia mundi, "the flaming walls of the world," is the outer boundary of the cosmos in the poet's picture. The Epicurean claim is that the mind can travel past it into infinite space (omne immensum), where there are further worlds. A modern reader may hear a cosmology that outruns the visible sky; that is the reader's association, not the poet's own claim.
-
-[DRAFT] (1.74) mente animoque is rendered "in thought and mind." Mens and animus are merged here because mens is non-technical; the full contrast between animus (mind) and anima (spirit) is taken up in Book 3.
-
-[DRAFT] (1.81) elementa, rendered "elements," is also the Latin word for letters of the alphabet. Lucretius plays on this later when he compares atoms to letters (1.197 and following), so the English keeps one word for both.
-
-[DRAFT] (1.84) Triviai virginis is Diana, called Trivia as goddess of the crossroads and identified with the Greek Artemis; Iphianassa is Iphigenia, daughter of Agamemnon. At Aulis the Greek fleet was held by contrary winds until Agamemnon sacrificed her to obtain a fair voyage. The Danaans (Danaum) are the Greeks.
-
-[DRAFT] (1.98) casta inceste: the oxymoron "pure, impurely" turns on the girl's chastity and the pollution of the act, which was meant to look like a marriage (Hymenaeo, the wedding-hymn) but ended in slaughter. The infula, the ribbon, was worn by both brides and sacrificial victims, which is the double sense the passage plays on.
-
-[DRAFT] (1.101) tantum religio potuit suadere malorum, "so much evil could religion prompt," is the most famous line of the proem and the poem's thesis in short form. It closes the Aulis scene as a refrain-like verdict.
-
-[DRAFT] (1.112) anima is rendered "spirit," the vital principle, and not "soul." The lines 112-116 list the open questions about the nature of the spirit (born or not, perishing or not) that fear of the afterlife exploits, and Lucretius answers them in Book 3.
-
-[DRAFT] (1.115) Orci...lacunas: Orcus is a Roman name for the underworld and its god. Lucretius takes the underworld imagery from the poets and treats it as the material of fear.
-
-[DRAFT] (1.117) Ennius (239-169 BC) is the founding poet of Latin epic, author of the Annales. He claimed in a dream that Homer's spirit had passed into him by transmigration, a Pythagorean idea. Lucretius honors him as the one who first brought a crown from Helicon (the Muses' mountain in Boeotia) to Italy, and uses him as his own predecessor and model.
-
-[DRAFT] (1.120) Acherusia templa, "the precincts of Acheron," renders templa as regions, not "temples." In this passage Ennius's underworld contains neither souls nor bodies but images (simulacra, 1.123), the word the register fixes for the thin films that Book 4 will make a theory of vision.
-
-[DRAFT] (1.136) Nec me animi fallit, "nor does it escape my mind," opens the passage on the poverty of Latin (egestatem linguae) for philosophical terms. Lucretius says this again at 1.832 and 3.260, so the complaint is a recurring one. The translation's fixed terms are partly this coinage-problem in English.
-
-[DRAFT] (1.146) First occurrence in this segment of a refrain Lucretius repeats verbatim at 2.59-61, 3.91-93 and 6.39-41; it closes the proem's attack on religio and introduces each of the poem's major arguments. (terrorem animi tenebrasque ... naturae species ratioque) Here "mind" renders animus, the seat of thought and feeling, in keeping with the register.
-
-[DRAFT] (1.150) This is the first principle of the physics: nothing is born from nothing (nullam rem e nihilo gigni). Lucretius presents it as the remedy for the fear described in 151-154, since gods are invoked only where causes cannot be seen. The "divine will" is divinitus, "by divine agency."
-
-[DRAFT] (1.156) Lines 156-158 are printed before 155 in the source, an editorial transposition. The sense runs better if 155 ("and in what manner all things come about without the labor of gods," opera sine divom) follows 158, since it completes the "both ... and" begun there (et unde ... et quo modo). The translation keeps the printed order and the key numbers.
-
-[DRAFT] (1.159) The first of the arguments from nothing: if things arose from nothing, anything could arise from anything (ex omnibus rebus omne genus). Lucretius supports this with the missing "seed" (semine), the first occurrence of the register term "seeds of things" (semina rerum, 176), here used without the full phrase.
-
-[DRAFT] (1.167) Here "generative bodies" renders genitalia corpora, one of the register's several names for what a modern reader would call atoms. The rendering keeps it distinct from "first-beginnings" (primordia, 182) and "first bodies" (corpora prima, 171).
-
-[DRAFT] (1.170) The refrain "the shining shores of light" (oras in luminis) first appears here. Lucretius repeats it at 1.179 and elsewhere (2.577, 5.224, 5.781), and it fixes the English for the phrase.
-
-[DRAFT] (1.182) First occurrence in this segment of primordia, rendered "first-beginnings." This is the term a modern reader will know as atoms, and the verse offers no such word. The note on 167 and the register explain why the nearby synonyms stay distinct.
-
-[DRAFT] (1.197) The analogy of letters and things (ut verbis elementa videmus) recurs throughout the poem, e.g. 1.823-829 and 2.688-699. As the register notes, elementa means both the letters of the alphabet and the elements of things, a pun Lucretius exploits, and the translation keeps "elements" for both.
-
-[DRAFT] (1.223) Lucretius mentions the void here for the first time in the poem as the means by which things are dissolved: "through the voids" (per inania). The word inania is plural and the register term "void" (inane) is used in the singular; the doctrine itself is argued from 1.329 on, so the verse here states it without proof.
-
-[DRAFT] (1.228) The "artificer earth" (daedala tellus) and Venus (227) both stand for the productive forces of nature. Venus appears here as the generative power of the proem (1.1-28), not as a goddess who acts. "Artificer" is the register's fixed rendering of daedala, which also appears at 1.7 and 5.234.
-
-[DRAFT] (1.250) "Father ether" and "mother earth" (pater aether ... matris terrai) is the poem's image of the rain fertilizing the earth. It rests on an old mythic pairing of Sky and Earth, which Lucretius uses as metaphor within a naturalistic argument, and he returns to it at 2.991-1001.
-
-[DRAFT] (1.261) The young animals are drunk on "unmixed milk" (lacte mero), a witty use of merum, the Latin word for undiluted wine. Romans normally drank wine mixed with water, so the metaphor makes the animals' play a kind of intoxication. The line pairs mentes ... novellas, "young minds," with the animus of the register, though here the word is the looser mens.
-
-[DRAFT] (1.265) The transition "Come now" (nunc age) introduces the second main argument, that unseen bodies exist, after the proof that nothing comes from nothing or returns to nothing. Lucretius anticipates the reader's doubt (diffidere dictis) before giving the evidence of the wind (271-297), odors and heat (298-304), wet clothes (305-310), and the wearing away of rings, stones, and statues (311-318).
-
-[DRAFT] (1.271) The text here reads corpus, "body," as the source prints it, but many editors emend to pontum, "sea." The translation retains corpus and takes it as the sea's body, on the reading that the wind lashes "the body of the sea" because the argument concerns bodies.
-
-[DRAFT] (1.305) The "wave-breaking shore" (fluctifrago litore) is one of Lucretius's compound adjectives in the manner of Ennius, who made such coinings a mark of epic style. Lucretius uses them with restraint and often for natural phenomena, as with silvifragis ("forest-breaking," 275).
-
-[DRAFT] (1.316) The bronze statues (aena signa) at the city gates are an image of Roman custom: those who greet them (salutantum) touch the right hand, so the hands wear thin. This is the climax of the series of worn things and the one that most clearly shows unseen losses accumulating from touch.
-
-[DRAFT] (1.321) The envious nature (invida natura) is a personification that makes the invisibility of atoms a kind of jealousy, and it closes the first argument for unseen bodies. A modern reader may hear in this passage the later idea of erosion and the wearing of matter, but that is the reader's association, not the poet's claim.
-
-[DRAFT] (1.322) The argument opens with the unseen: growth and wasting too gradual for the eye (oculorum acies) show that nature works through "unseen bodies" (corporibus caecis, 1.328), the poem's first firm statement that the first-beginnings are invisible. Compare 1.268-297, where the unseen winds make the same point.
-
-[DRAFT] (1.329) The void is introduced as a premise of motion. "Place … untouchable, void and empty" (locus … intactus inane vacansque, 1.334) and the later "place and space" (locus ac spatium, 1.426) are two names for one thing, and the English keeps "void" for inane throughout. A modern reader may associate this with the vacuum, but Lucretius means only a place that offers no resistance.
-
-[DRAFT] (1.336) "Office" (officium) is the proper function of body: to obstruct and stand in the way (officere atque obstare). Lucretius builds the sound-play into the argument, since a body's job is to get in the way, which is why a world without void could not move.
-
-[DRAFT] (1.346) Here begins the second proof of void: apparently solid things are porous (raro cum corpore). The examples are water seeping through rock, food spreading through plants and animals, voices passing through walls, and cold reaching the bones.
-
-[DRAFT] (1.358) The third proof is the argument from weight. Equal bulk with unequal weight must mean unequal proportions of body (corpus) and void (vacui), because body presses down and void has no weight. The wool and lead are the example.
-
-[DRAFT] (1.370) The "certain men" (quidam) are unnamed. The argument is the fish and the water, which is later called *antiperistasis* (the surrounding medium rushes round to fill the gap). It is usually attributed to Aristotelian and Peripatetic physics, though Lucretius names no one. His reply is that the water cannot yield unless there is already somewhere for it to go.
-
-[DRAFT] (1.384) Two broad bodies (corpora lata) springing apart leave a gap, and the air cannot fill the whole of it at once, so some of the gap is empty for a moment. The next argument, against condensation (condenseat), says that air that "draws itself into itself" would itself need void in which to do it.
-
-[DRAFT] (1.404) The simile of the hounds on the scent is Lucretius's way of promising Memmius that a few tracks (vestigia) are enough for a keen mind (animo sagaci) to find the rest. The hunting image recurs at 1.402-409's close in "drag the truth out" (verum protrahere). The promise to Memmius at 1.411-417 is a conventional protest that he has more to say than a lifetime allows.
-
-[DRAFT] (1.419) Lucretius resumes the main thread (coeptum pertexere) with the basic dichotomy: "bodies … and void" (corpora … et inane). The phrase "all nature" (omnis natura) here means the whole of what exists, not the nature of things in its other senses.
-
-[DRAFT] (1.422) The Latin is *communis sensus*, here taken as the shared sensation of all, and the translator's placeholder is right that it is not "common sense". The point of doctrine is that sensation is the foundation (fides prima) on which all reasoning about hidden things rests. This is Epicurus's canon of truth, which Lucretius defends at length in 4.469-521.
-
-[DRAFT] (1.430) The argument that there is no third nature (tertia natura) is exhaustive. Whatever exists either has touch (tactus), and so is body, or lacks it and so is void (1.437-439). The second form of the argument (1.440-444) adds that a thing must act, be acted upon, or provide room.
-
-[DRAFT] (1.449) The translator's placeholder is correct: coniunctum and eventum correspond to Epicurus's *symptoma* and *symbebekos* (permanent property and accident), though Lucretius uses plain Latin words and no Greek terms. Besides the examples given at 1.453-454, the key test is whether a thing can be separated without destroying it (sine permitiali discidio, "without a deadly division"). Slavery, freedom and the rest (1.455-456) can come and go while the thing remains.
-
-[DRAFT] (1.459) Time is not a thing in itself, being derived from the motion and rest of things (rerum motu placidaque quiete). Lucretius gives it only the status of an accident or relation.
-
-[DRAFT] (1.464) The story of Helen (Tyndaridem, "daughter of Tyndareus") and the Trojan War is Lucretius's example of an event that is an accident of persons and places, not a thing existing by itself. The Trojan horse is called *durateus* (1.476), "wooden", a Homeric word that Lucretius borrows from the Greek (the Latin form of Greek *doureios*). The lines 1.471-477 echo the Helen story at the start of the poem's attack on religion (compare the Iphianassa story at 1.84-101), though that is the reader's association.
-
-[DRAFT] (1.469) The line "one thing will be said to be an accident of the lands, another of the regions" (aliud terris, aliud regionibus) is dense. It means that events of the Trojan War are accidents of the matter (terris) and the space (regionibus) in which they happened.
-
-[DRAFT] (1.484) Principia ("principiorum") is Lucretius's variant for primordia, and the translation keeps the two words apart: "first-beginnings" for primordia, plain "beginnings" for principia. This is the same body of doctrine under a second name, as with semina, corpora prima and materies (1.58-61).
-
-[DRAFT] (1.486) The argument opens with the thesis that the first-beginnings cannot be destroyed because they are solid (solido corpore). "Quench" (stinguere, with the initial e lost in the manuscript spelling) is the verb for putting out a flame or a life, and it is used here of atoms.
-
-[DRAFT] (1.489) The examples of what passes through "solid" things are the thunderbolt (fulmen), sound, heat, and cold. Lucretius uses them to show that apparent solidity (walls, metals) is really porosity, which is the void in things; the argument for true solidity is deferred to 1.498ff.
-
-[DRAFT] (1.493) "The ice of bronze" (glacies aeris) is a bold phrase: bronze is imagined as congealed like ice and so melts by the same logic. The tag stays literal, as the register requires, because the figure is Lucretius's own.
-
-[DRAFT] (1.495) "As custom has it" (rite) refers to the Roman habit of pouring water into cups held in the hand, as at a libation or drinking. It supplies Lucretius with his sensory proof that cold (frigus) passes through silver.
-
-[DRAFT] (1.503) The twofold nature (duplex natura) of body and place (corporis atque loci) is the central dichotomy of Epicurean physics: everything is either body or void, with nothing between. The "place" here is the void (inane), as the next lines (1.507) make plain.
-
-[DRAFT] (1.507) First occurrence in this segment of inane/vacuum ("quod inane vocamus"). The register fixes "void", never "vacuum", although the Latin offers both inane and vacuum as synonyms, as here in 1.509.
-
-[DRAFT] (1.512) Materiem ("matter") here means the solid envelope that must enclose any void, so that every compound body is "matter around void". The argument is that something must contain the void, and that container is nothing but a union (concilium) of solid matter.
-
-[DRAFT] (1.520) Vocaret versus vacaret: the transmitted text reads "vocaret" (would call), but sense and grammar are better served by "vacaret" ("were empty"), a standard emendation. The translation follows vacaret, as the placeholder says.
-
-[DRAFT] (1.522) There is some textual doubt in 1.521-523 (the sequence "nisi contra... complerent... constaret"), but the sense is clear: if there were no void everything would be solid, and if there were no definite bodies everything would be void. The English follows the transmitted text.
-
-[DRAFT] (1.531) "As I showed you already, a little while before" (iam supra tibi paulo ostendimus ante) refers back to the earlier argument about the solid bodies resisting blows and penetration, begun at 1.510ff. Some editors suspect the line is an interpolation or a loose reference because "ostendimus" with a first-person plural appears to look back to arguments not yet fully made, but the translation keeps it.
-
-[DRAFT] (1.535) "By which all things are undone" (quibus omnia conficiuntur) is a compressed statement of the doctrine that heat, cold, moisture and fire are the agents of dissolution, and they can act only where void gives them passage. The solid first bodies lack void and are therefore immune.
-
-[DRAFT] (1.540) The argument from conservation begins here: if matter were not eternal, then given infinite past time everything would already have returned to nothing, and renewal from nothing is excluded by the earlier principle (1.150ff, "nil posse creari de nilo"). A modern reader may hear conservation of matter; that is the reader's association, not the poet's claim.
-
-[DRAFT] (1.548) "Solid singleness" (solida simplicitate) is the first appearance of simplicitas in this argument: the first-beginnings are simple, meaning without parts that could be separated. The translation keeps "singleness" for simplicitas throughout (also 1.574).
-
-[DRAFT] (1.551) The second argument for limits to breaking: if nothing set a limit (finis), the endless breaking of past time would have worn everything down, since dissolution is faster than renewal (1.556-557). The reasoning is a reductio, which Lucretius completes at 1.561 with "at nunc" ("but as it is").
-
-[DRAFT] (1.586) Foedera naturai ("nature's covenants") is the register's fixed rendering, and this is its first occurrence. The legal and political metaphor of a treaty or binding agreement (foedus) between things and nature is characteristic of Lucretius, and it recurs at 1.587 as "sancitum" ("decreed") and in 2.302, 5.310, 5.924 and 5.57.
-
-[DRAFT] (1.589) The "varied birds" (variae volucres) showing species markings (maculas generalis) serves as an example of fixity of kind. It is one of several arguments Lucretius draws from the stability of species to support the unchangeability of the first-beginnings.
-
-[DRAFT] (1.595) Lines 1.594-596 repeat 1.75-77 almost word for word ("finita potestas denique cuique qua nam sit ratione atque alte terminus haerens"). The proem's lines about Epicurus's discovery of what can and cannot come to be are reused here as an argument, and the English repeats its earlier wording verbatim, per the register.
-
-[DRAFT] (1.596) "Boundary-stone set deep" (alte terminus haerens) is a Roman image: the terminus was the boundary marker sunk into the ground, sacred to the god Terminus. It is the same figure as at 1.77 and anchors the theme that each thing has a fixed limit to its power.
-
-[DRAFT] (1.599) The argument runs from the "extremum cacumen" (the outermost point), which the senses can just make out at the edge of a visible body, to an inference about what lies beyond sight. The point has no parts and is "minima natura" (a least nature). It cannot exist alone, so it must cling in fixed order to its neighbours. The same argument returns at 749-752, where it is used against the other schools.
-
-[DRAFT] (1.609) The "primordia" are "first-beginnings" in this register, though a reader may know them as "atoms". "Simplicitate" (singleness) is the claim that they are solid and not composite. Their "minimae partes" (least parts) are conceptual limits of extension, not separable pieces, and so cannot be split off. This is why 611-612 deny that the primordia are put together "ex illorum conventu" (out of a gathering of those parts).
-
-[DRAFT] (1.615) The regress argument is that if there were no least part, a body would divide forever into halves ("dimidiae partis pars"), and a grain would then contain as many parts as the whole sum of things. Lucretius treats this as absurd because it erases the difference between small and large. A modern reader may hear an anticipation of the mathematics of infinite divisibility. That is the reader's association, and Lucretius rejects such division on physical grounds.
-
-[DRAFT] (1.638) Heraclitus of Ephesus (c. 500 BC) held that fire is the primary substance and that all things are exchanges of fire. He was proverbially "the Obscure" (Greek *ho skoteinos*), and "obscuram linguam" (dark speech) alludes to that. "Init proelia primus" (is first to enter the battle) casts the survey of rival schools as a military campaign, with Heraclitus as the first opponent.
-
-[DRAFT] (1.639) The word-play here is untranslatable. "Clarus" (bright in fame) is set against "obscuram" (dark), and "inanis" (empty-headed) is the same word as the noun "inane" (void) that this register renders "the void". The "inanes" are therefore also "the empty ones", though the verse puts "void" in no atomist technical sense.
-
-[DRAFT] (1.670) Lines 670-671 recur at 1.792-793, 2.753-754 and 3.519-520. This is the first appearance of the refrain: any change that carries a thing out of its own "fines" (bounds) is the death of what it was. This is the doctrine that change cannot be annihilation, and it rests on Lucretius's first principle that nothing comes from nothing and nothing returns to it. The English will need to repeat these lines word for word at each recurrence.
-
-[DRAFT] (1.684) At 684-686 the "concursus motus ordo positura figurae" (collisions, motions, order, position, shapes) name the properties by which primordia produce compound things. Lucretius uses the same list elsewhere, and the letters analogy at 1.817-829 develops it: the arrangement of the same elements makes different things. This is the answer to Heraclitus, since fire is itself a compound.
-
-[DRAFT] (1.693) Epicurean epistemology is behind the charge of self-refutation: the senses are the first criterion of truth (700, "qui vera ac falsa notemus"). Heraclitus takes his knowledge of fire from sensation and then discredits the same sensation when it reports other things. Lucretius develops the argument at greater length at 4.469-521.
-
-[DRAFT] (1.705) Lines 705-706 repeat 635-636, with "posse" in place of "videntur" and "consistere" where the first has "putarunt". It is the opening of the second round of the polemic, now extended to those who held other single elements. The English repeats the earlier wording, as the policy requires.
-
-[DRAFT] (1.707) The rivals are Anaximenes (air), Thales (water), and, for earth, an uncertain source, probably Xenophanes or a poet's gloss. The translator's placeholder correctly says that no single source is certain for earth. "Rerum naturas" (the natures of things) shows that each element was said to turn into all the others.
-
-[DRAFT] (1.715) "Anima" appears here with the sense "breath, air" as an element. The register fixes "anima" as "spirit" (the vital principle), but "ex igni terra atque anima... et imbri" lists the four elements. Rendering it "breath" is a deliberate exception for context and not a break in the register. The doctrine concerned is that of Empedocles' four roots.
-
-[DRAFT] (1.716) Empedocles of Acragas (modern Agrigento) in Sicily, fifth century BC, held that four "roots" (fire, air, earth, water) are mixed and separated by Love and Strife. He also wrote in hexameters. Lucretius praises him as a poet and rejects him as a physicist, as he does with Ennius at 1.117-126.
-
-[DRAFT] (1.717) "Triquetris" (three-cornered) is an old name for the triangular shape of Sicily (Trinacria). The digression on the island with its Strait of Messina, Charybdis and Etna (717-725) is a set-piece of local description. It is generally thought to be an imitation of Ennian or Alexandrian ecphrasis, though the text itself does not say so.
-
-[DRAFT] (1.721) The mainland across the strait is meant, and "Aeoliae" is the text as printed. The Aeolian Islands lie north of Sicily and not across the strait, so the manuscript reading is awkward. Editors have proposed "Italiae" (Italy) and other emendations. The translation follows the printed text.
-
-[DRAFT] (1.722) "Vasta Charybdis" (the wasting or devastating Charybdis) is the whirlpool of the strait, known from Homer (*Odyssey* 12). "Aetnaea... murmura" gives the volcano's rumblings, threatening to erupt again. The English "wasting" takes "vasta" in its sense of desolating, and the word could also mean "vast".
-
-[DRAFT] (1.731) "Carmina... divini pectoris" (the songs of his divine breast) refers to Empedocles' two hexameter poems, *On Nature* and *Purifications*. The praise "vix humana videatur stirpe creatus" (he scarcely seems born of human stock) is Lucretius's own tribute, one he gives later to Epicurus (5.8, "deus ille fuit"). The praise is real, but it makes the mistakes at 740-741 look worse.
-
-[DRAFT] (1.738) Lines 738-739 recur at 5.111-112. The Pythia was the priestess of Apollo (Phoebus) at Delphi, who spoke from the tripod and wore the laurel. Lucretius says that these thinkers gave answers "sanctius et multo certa ratione magis" (more holy and with far surer reasoning) than hers. The comparison with oracles is a sharp stroke against the religion he attacks.
-
-[DRAFT] (1.742) The criticism of Empedocles and the others is in four points: they deny the void yet allow motion (742-745), they allow unlimited division (746-752), they make their first-beginnings soft and perishable (753-758), and they make them hostile to one another (759-762). The last point leads into the argument that elements which destroy one another could not endure. "Veneno" (poison) is the picture for it.
-
-[DRAFT] (1.759) The thunderbolts, rains and winds scattering in a storm (761-762) are an image of elements that, on meeting, would either destroy one another or fly apart. The comparison is to storm clouds that gather and then disperse in violence, and the English keeps "diffugere" in both verbs as "scatter".
-
-[DRAFT] (1.763) The refutation of the four-element theory (Empedocles' earth, air, fire, water) continues here; Lucretius's argument is that anything that changes into another thing and back cannot be a first-beginning, since it is no more basic than what it changes into (alternis gignuntur enim). The "first-beginnings" are the register's term for what a modern reader may know as atoms (primordia).
-
-[DRAFT] (1.769) This line repeats 1.762 word for word (fulmina diffugere atque imbris ventosque videmus). The translation keeps the source's text and so keeps the repetition. Most editors bracket or delete it as a stray duplicate; it fits this context less well than the earlier one.
-
-[DRAFT] (1.774) "Not a living thing, not one with a lifeless body" (non animans, non exanimo cum corpore) is Lucretius's way of covering everything that can be created. Trees are put on the lifeless side because they are not animate in the Epicurean sense of having sensation.
-
-[DRAFT] (1.782) The target changes here to Heraclitus, whose cycle of fire into air, water and earth and back again is described (repetunt a caelo atque ignibus eius). Lucretius does not name him in this passage, and the translation likewise leaves the identification to the reader.
-
-[DRAFT] (1.791) "Brought back utterly to nothing" (ad nihilum redigantur funditus) invokes the doctrine, established earlier in Book 1, that nothing is destroyed into nothing. The argument is that if every candidate for first-beginning changes, then change would amount to total destruction (mors, 793), so something must remain unchanged.
-
-[DRAFT] (1.814) The explanation of why different foods nourish different things depends on the claim that the same first-beginnings are shared among many things (multa communia) but combined in different arrangements. The point is that the arrangement and motion of the shared first-beginnings (positura, motus, 818-819) matters as much as which ones are present.
-
-[DRAFT] (1.824) The analogy of letters (elementa) to the first-beginnings is the first of several in the poem; it is repeated in Book 2 (see 2.688-699, 2.1013-1022). The Latin elementa is both "letters" and "elements", and the English keeps "elements" for both, so the pun is visible in the translation; here the sense is plainly letters. Compare 1.196-197.
-
-[DRAFT] (1.830) The homoeomeria (Greek homoiomereia, "likeness of parts") is Anaxagoras's doctrine that each substance (bone, flesh, gold) is made of minute portions of the same substance. Lucretius says that Latin lacks a word for it (patrii sermonis egestas), a complaint he also makes at 1.136-139, and so he transliterates it. The translation leaves it untranslated, as he does.
-
-[DRAFT] (1.843) Anaxagoras is said to deny the void (inane) and the limit of division (neque corporibus finem esse secandis), and Lucretius counts him wrong on both with the earlier thinkers "of whom we spoke above" (supra quos diximus ante, 846), meaning Heraclitus, Empedocles and the others dealt with earlier in this stretch of the book. The void is the register's rendering of inane.
-
-[DRAFT] (1.860a) Here there is a lacuna after 860: the sentence beginning "since food increases the body" (quoniam cibus auget corpus alitque, 859) has lost its conclusion and the transition to the next argument. The translation prints the lacuna unnumbered and supplies nothing. The "or if they say" (sive, 861) picks up an alternative that is no longer visible.
-
-[DRAFT] (1.873) The syntax and sense of 873-874 are uncertain, and the lines are suspected of corruption or loss of a line. The translation follows the manuscript text as it stands, with "that" (ex alienigenis) and "feeds and increases" (alit auget) construed as a clause parallel to 871-872. Treat the rendering as a best reading of difficult Latin.
-
-[DRAFT] (1.875) Anaxagoras of Clazomenae held that every thing contains a portion of every other (homoeomereia, "like parts"), and that a thing looks like what it is because that ingredient predominates; Lucretius is finishing his refutation of this doctrine, begun earlier in the book. The "slender chance of hiding" (latitandi copia tenvis) is the last refuge: if the other ingredients are present but concealed, the failure to see them is no objection.
-
-[DRAFT] (1.897) The objection put in the mouth of an interlocutor ("inquis", "you say") is that forest fires start from rubbed branches, which seems to show fire was hidden in the wood. Lucretius answers that what is hidden is seeds of fire (semina ardoris), which "flow together" (confluxere) only when rubbing brings them into the right arrangement.
-
-[DRAFT] (1.908) Here the first-beginnings (primordia) are named in the register's fixed term, the Lucretian equivalent of what a modern reader may know as atoms. Lucretius returns to the point "said a little before" (paulo quod diximus ante), the letter analogy first made at 1.196-198 and developed at 1.823-829, where the same elements make different words and different things.
-
-[DRAFT] (1.912) The pun on elementa is the Latin word for both the first constituents of things and the letters of the alphabet. In ligna and ignes the same letters (l, i, g, n, e, s, a) are rearranged in nearly the same order, which the English "wood" and "fires" cannot show. Cf. the register's policy of keeping "elements" and noting the pun once. The English cannot reproduce the letter-sharing, so the argument rests on the reader accepting the claim. Consider keeping or expanding the placeholder note along these lines.
-
-[DRAFT] (1.915) The reductio runs: if like must come from like, the constituents of laughing, weeping things would themselves have to laugh and weep (risu tremulo, lacrimis salsis). This reappears against Anaxagorean and other "homoeomeric" views at 1.916-920, and again in Book 2 (2.976-990) where Lucretius argues that sensation need not be present in the atoms of sentient beings, using the same image of laughing and weeping atoms.
-
-[DRAFT] (1.922) The thyrsus (thyrso) is the ivy-wreathed, pine-coned wand of Bacchus and his followers, whose touch brought the frenzy of divine possession. Lucretius uses it of the "hope of praise" that has stricken his heart, so poetic inspiration is figured as Bacchic. The Muses (Musarum) are then named in the next line; cf. Ennius's own claims to inspiration.
-
-[DRAFT] (1.926) Lines 926-950 recur almost verbatim as the opening of Book 4 (4.1-25), so the English here should be matched word for word with the Book 4 rendering, and the repetition recorded. The Pierides (Pieridum) are the Muses, named from Pieria, the region of Macedonia at the foot of Olympus where their cult was said to have begun. The claim to untrodden ground (nullius ante trita solo) is a conventional Hellenistic and Roman claim of poetic novelty.
-
-[DRAFT] (1.936) The wormwood simile (absinthia taetra) is the famous honey-on-the-cup image: physicians coat the rim of the cup with honey so that children drink the bitter medicine unharmed. It stands for the poet's method, with the Epicurean doctrine as the bitter draught and the verse as the honey. Lucretius also repeats it at 4.11-25; the same wording governs both.
-
-[DRAFT] (1.951) The argument returns here from the digression on poetics to the doctrine of the infinity of the universe. "Since I have taught..." (quoniam docui) refers back to the demonstration that the first bodies are solid and indestructible; the question now is whether the sum (summai) of them, and the void in which they move, is bounded or not.
-
-[DRAFT] (1.958) The argument that the all (omne) has no limit begins here and rests on the principle that an edge must be an edge of something against something else: a boundary requires a beyond. Lucretius reaches it by the doctrine that the all is body and void, with nothing outside. (omne quod est = "all that exists", the totality.)
-
-[DRAFT] (1.968) The thrown-spear argument, one of the best known in ancient cosmology, is Lucretius's own presentation (some ascribe it to Archytas of Tarentum, as Simplicius reports; the attribution here is a scholar's, not the poet's). The line-for-line English follows the Latin closely, and the dilemma is that whether the spear flies on or is stopped, something must lie beyond the supposed edge. The phrase "exempta fine" at 1.976 is carried by "exempt from any end".
-
-[DRAFT] (1.984) The second argument from weight supposes that in a finite universe all matter, falling by its own weight (ponderibus solidis) through infinite past time (ex infinito iam tempore), would long since have settled at the bottom and formed a heap, leaving no sky or sun. Epicurean physics has no center to which things fall, only a direction "down" in the infinite; the argument assumes that in a bounded space there would be a bottom.
-
-[DRAFT] (1.992) The principia (principiorum) is a variant of primordia that Lucretius also uses for the first-beginnings. The English "beginnings" in this line keeps it distinct from the fixed "first-beginnings" (primordia), as the register requires, but the placeholder note should record that the two are the same entity under metrical variety.
-
-[DRAFT] (1.998) The last argument, from the observable fact that one thing bounds another (res rem finire), moves from experience to the whole by contrast: everything within the world has a neighbor, but the whole has no outside. This sentence is also what the poet's earlier "nothing outside" (1.963) depends on, so that the argument ends where it began.
-
-[DRAFT] (1.1002) The argument for an unbounded universe, begun before this segment, runs on the void. The "bright thunderbolts" (clara fulmina) are the fastest thing Lucretius can imagine, and the lines say that even they could not shorten the distance by travelling it.
-
-[DRAFT] (1.1008) Lucretius is arguing that the sum of things (rerum summa) cannot be limited from outside, since the only possible limits are body and void. Body can be bounded only by void, and void only by body, so each limit presupposes something beyond it and the series never ends.
-
-[DRAFT] (1.1013) Many editors posit a lost line or lines after 1.1013, because the sentence has no completed main clause. The condition at 1.1012 ("if the other did not bound it") is picked up by the result at 1.1014, so the sense can be followed. The translation prints the line as the manuscripts give it and supplies nothing. The point is that if either void or body were unbounded alone, the other would be swallowed or scattered and no stable world could stand.
-
-[DRAFT] (1.1021) Here the poem rejects any design in the first-beginnings (primordia): they did not place themselves "with a shrewd mind" (sagaci mente) or make agreements (pepigere) about their motions. Order arises because they try "every kind of motion and union" (omne genus motus et coetus) until they land on arrangements that hold. A modern reader may hear natural selection in this, but that is the reader's association, not the poet's claim. Lucretius uses the same trial-and-error logic in his account of the earth's early creatures in Book 5.
-
-[DRAFT] (1.1025) "Ex infinito" modifies the harrying of the atoms, "from infinite time", more naturally than infinite space. Both are meant, and the translation keeps the ambiguity. The same phrase recurs in 1.1036 with matter ("from the infinite") as the source of supply.
-
-[DRAFT] (1.1052) Here begins the attack on the doctrine that everything presses toward the middle (in medium niti) of the universe. Lucretius names no opponents, saying only "they say" (dicunt). The view is Stoic, and perhaps also Aristotelian, since it makes the cosmos a finite sphere with a centre of gravity. Memmius is addressed by name, as the reader to be warned off it.
-
-[DRAFT] (1.1058) The antipodes: if everything presses to the earth's centre, people on the far side stand upside down (suppa). The comparison with images seen in water (simulacra, 1.1060) is the opponents' analogy. The register's "images" for simulacra is the Book 4 term, here used in an everyday sense.
-
-[DRAFT] (1.1068) Lines 1.1068-1075 are damaged at their right edge, and what survives is a set of fragmentary line-openings. The translation prints the gaps and does not fill them. The fragments suggest the poet is saying that the "middle" is an empty notion held only by fools, and that an infinite universe has no centre.
-
-[DRAFT] (1.1074) The argument against a centre rests on the void's indifference: void (inane) yields to heavy bodies everywhere alike, "through the middle and through what is not the middle", so no point can hold anything up. The register keeps "void" for inane, and the explanatory gloss "which we call void" (quod inane vocamus) is Lucretius's own.
-
-[DRAFT] (1.1086) The source prints 1.1086 before 1.1085, following the editorial transposition recorded in the register. The English follows the source order. The sense is that earthy and watery things are the ones the opponents say press toward the middle.
-
-[DRAFT] (1.1089) The opponents' claim is that fire and air flee from the middle. The "signs" (signis) are the constellations or stars, which flicker through the ether because heat gathers at the outer edge. This is a Stoic physics of the cosmos.
-
-[DRAFT] (1.1093) Eight lines are lost here, between 1.1093 and 1.1102. The translation prints the unnumbered [lacuna] lines in the same number and supplies nothing. The sentence begins an argument about trees and food and breaks off, and the text resumes in the middle of a sentence at 1.1102, where the subject is the danger to the world if the Stoic view were correct.
-
-[DRAFT] (1.1102) "Flammantia moenia mundi" is rendered "the walls of the world" without "flaming" because only "flammarum moenia" survives in this clause. The register's whole-phrase rendering, "the flaming walls of the world", was fixed at 1.73, where the phrase first occurs. This is a deliberate echo of the proem's description of Epicurus's journey beyond the world's edge. The collapse imagined here is the same boundary, now falling in.
-
-[DRAFT] (1.1110) "Primordia caeca" is rendered "unseen first-beginnings" for the register's primordia. The adjective caeca means "blind" or "unseen". It is the same word that appears at 1.1115 for blind night (nox caeca), so the poem ends the book's argument on a play between blind atoms and the night that cannot hide the road.
-
-[DRAFT] (1.1111) "Ianua leti", the "door of death", is a metaphor for the single gap through which, if bodies ran short anywhere, the whole mass of matter would rush out. It is the last image of the infinity argument: a finite universe would have one leak, and that leak would be fatal to everything.
-
-[DRAFT] (1.1117) The last line, "ita res accendent lumina rebus", carries the book's image of light and understanding. It echoes the earlier claim, repeated through the poem, that darkness is dispelled by understanding rather than by the sun (compare 1.146-148). The "lights" (lumina) kindle one another in a chain of argument.
+Notes
+
+[1] (1.1) "Mother of Aeneas' race" (Aeneadum genetrix): Venus, mother of
+    Aeneas, is the ancestress of the Romans, so the poem opens on a Roman
+    patron goddess. "Pleasure" (voluptas) is the word Epicurus's school used
+    for the highest good; the epithet carries doctrine as well as charm.
+
+[2] (1.7) "the artificer earth" (daedala tellus): daedala, the word for
+    cunning workmanship, is rendered "artificer" wherever Lucretius applies
+    it to nature (1.228, and "nature, artificer of things" at 5.234).
+
+[3] (1.14-15) The source prints 15 before 14, an editorial transposition
+    that lets the beasts bound over the pastures before they swim the
+    rivers. The translation keeps the printed order and the printed numbers,
+    here and at every transposition in the poem.
+
+[4] (1.22) "the shining shores of light" (dias in luminis oras): Lucretius's
+    phrase for birth into the daylight, repeated through the poem. Where the
+    Latin has luminis oras without the adjective (2.577, 5.224, 5.781,
+    5.1389, 5.1455) the English is "the shores of light".
+
+[5] (1.26) "our son of the Memmii" (Memmiadae nostro): Gaius Memmius, a
+    Roman noble, praetor in 58 BC and the patron of Catullus as well, is the
+    poem's addressee; "you" throughout the poem is Memmius. He is "the
+    famous offspring of Memmius" at 1.42 and is named at 1.411 and 1.1052.
+
+[6] (1.32) "Mars" is Mavors in the Latin, the old form of the god's name;
+    the translation uses the familiar one. The war god lying conquered in
+    Venus's lap lets the poet ask for peace from the one power that can calm
+    him.
+
+[7] (1.44-49) These six lines on the untroubled nature of the gods recur
+    word for word at 2.646-651, where they belong to the argument. Many
+    editors bracket them here as an intrusion from Book 2, since they sit
+    oddly after a prayer to Venus for help; the source prints them, and so
+    does the translation.
+
+[8] (1.51) "true reasoning" (veram ad rationem): ratio standing alone is
+    Epicurus's doctrine and method, and is "reasoning" throughout. Where it
+    governs heaven, as in "the highest order of heaven" (summa caeli
+    ratione, 54), it is the system of the world, "order"; where it is
+    instrumental (qua ratione, 77, 128) it is "by what principle".
+
+[9] (1.55-61) "the first-beginnings of things" (rerum primordia) is
+    Lucretius's commonest name for what the Greek atomists called atoms, a
+    word he never uses and the verse never supplies. He gives his cluster of
+    names at once: "matter" (materies), "the generative bodies of things"
+    (genitalia corpora), "seeds of things" (semina rerum), "first bodies"
+    (corpora prima); "which we are used to calling" (suemus) marks them as
+    the school's own Latin. Each is kept distinct throughout, and his
+    shorter synonym principia is "beginnings" (see 1.484).
+
+[10] (1.63) "religion" (religione): the plain word, not "superstition".
+     Religio in Lucretius is the fear of gods who watch and punish, and the
+     attack that follows falls on that; the proem's force depends on not
+     softening the word.
+
+[11] (1.66) "a man of Greece" (Graius homo) is Epicurus (341-270 BC),
+     unnamed here and named in the whole poem only once, at 3.1042. "First
+     ... and first" (primum ... primusque) makes him the hero of the poem's
+     revolt.
+
+[12] (1.73) "the flaming walls of the world" (flammantia moenia mundi): the
+     fiery outer shell of our world, which in Epicurus's physics is one of
+     countless worlds in an unbounded void. Epicurus's mind passes out
+     through it and ranges "the whole immensity" (omne immensum). The same
+     walls are imagined flying apart at 1.1102.
+
+[13] (1.74) "in thought and mind" (mente animoque): animus is "mind"
+     throughout the poem, and mens, where it stands beside animus as here,
+     is "thought"; anima, the vital principle, is "spirit" (1.112). Book 3
+     sets out the distinction.
+
+[14] (1.77) "its boundary-stone set deep" (alte terminus haerens): the
+     terminus was the stone sunk at the edge of a Roman field, sacred and
+     not to be moved. The line, with 75-76, is repeated at 1.594-596.
+
+[15] (1.84-86) "the Virgin of the Crossways" (Triviai virginis) is Diana,
+     called Trivia as goddess of the three-way crossroads. Iphianassa is
+     Iphigenia; Homer gives Agamemnon a daughter Iphianassa (Iliad 9.145),
+     and Lucretius uses the older name. At Aulis the Greek fleet bound for
+     Troy was held by contrary winds until Agamemnon sacrificed her. "The
+     Danaans" (Danaum) are the Greeks.
+
+[16] (1.98) "pure, impurely" (casta inceste): the girl is chaste and the act
+     is a pollution. The whole scene turns marriage into slaughter: the
+     woolen band (infula, 87) laid on her hair is the band of a sacrificial
+     victim, and the escort she might have had was the wedding hymn
+     (Hymenaeo, 97).
+
+[17] (1.101) "So much evil could religion prompt" (tantum religio potuit
+     suadere malorum): the most famous line of the poem, and its thesis in
+     brief.
+
+[18] (1.112) "the nature of the spirit" (natura animai): anima, the vital
+     principle, is "spirit" throughout, never "soul". Lines 112-116 list the
+     questions about it that fear exploits (is it born, does it die with us,
+     does it go down to the underworld or pass into other creatures), and
+     Book 3 answers them.
+
+[19] (1.115) Orcus is the Roman name of the underworld and of its god; "the
+     precincts of Acheron" (Acherusia templa, 120) is the same place named
+     from its Greek river. Templa are regions, of the sky or of the earth,
+     not temples.
+
+[20] (1.117-126) Ennius (239-169 BC), author of the Annales, is the founder
+     of Latin epic and Lucretius's predecessor in the hexameter; the "crown
+     from Helicon", the Muses' mountain in Boeotia, is Greek poetry brought
+     into Latin. In the proem of the Annales Homer appeared to Ennius in a
+     dream and told him that his spirit had passed into him; so Ennius
+     taught both the passage of spirits into other bodies (116) and the
+     underworld of 120-126, the two beliefs this book sets out to destroy.
+
+[21] (1.123) "images" (simulacra): the word Book 4 will make the name of the
+     thin films thrown off by things, by which we see; here it is the ghosts
+     of Ennius's underworld. The English keeps "images" for simulacra in
+     every sense.
+
+[22] (1.136-139) "the poverty of the language and the newness of the things"
+     (egestatem linguae et rerum novitatem): the complaint that Latin has no
+     words for Greek philosophy; Lucretius makes it again at 1.832 and
+     3.260. His new words are the reason the translation fixes its own (see
+     the translator's commentary).
+
+[23] (1.146-148) The first of Lucretius's refrains: these three lines recur
+     word for word at 2.59-61, 3.91-93 and 6.39-41, and the English repeats
+     its own lines at each place. "The face and reasoning of nature"
+     (naturae species ratioque) is nature's appearance and the account that
+     explains it.
+
+[24] (1.150) "nothing is ever begotten from nothing by divine will" (nullam
+     rem e nihilo gigni divinitus umquam): the first principle of the
+     physics. Divinitus, "by divine agency", carries the point: what is
+     denied is creation from nothing by gods, who are invoked only where
+     causes cannot be seen (151-154).
+
+[25] (1.155-158) The source prints 156-158 before 155, an editorial
+     transposition that makes 155 complete the "both ... and" of 158 (et
+     unde ... et quo modo). The translation keeps the printed order and the
+     numbers.
+
+[26] (1.197) "as we see elements are to words" (ut verbis elementa videmus):
+     elementa is the Latin for both the letters of the alphabet and the
+     elements of things, and Lucretius's recurring analogy between first-
+     beginnings and letters rests on the one word (1.823-829, 1.912-914,
+     2.688-699, 2.1013-1022). The English keeps "elements" for both senses
+     so that the analogy stays visible; at 1.81 the same word is the
+     "elements", the rudiments, of a doctrine.
+
+[27] (1.223) "through the voids" (per inania): the plural is the void inside
+     compound things, the empty room between their first bodies. The void is
+     argued for from 1.329.
+
+[28] (1.250-251) "father ether ... the lap of mother earth" (pater aether
+     ... in gremium matris terrai): the old pairing of Sky and Earth as
+     parents, which Lucretius keeps as a figure inside a naturalistic
+     argument; he develops it at 2.991-1001.
+
+[29] (1.261) "made drunk with unmixed milk" (lacte mero): merum is wine
+     taken without water, as Romans did not normally drink it; the young
+     animals are tipsy on milk.
+
+[30] (1.271) "the body of the sea" (corpus): so the source reads; many
+     editors emend to pontum, "the sea". The translation keeps the printed
+     word and takes it as the sea's body, since the argument is about
+     bodies.
+
+[31] (1.275) "forest-breaking blasts" (silvifragis flabris), like "the wave-
+     breaking shore" (fluctifrago litore, 305), is a compound adjective of
+     the kind Ennius coined for epic; Lucretius makes a few of his own,
+     mostly for the violence of nature, and the English keeps them as
+     compounds.
+
+[32] (1.316-318) The bronze statues beside the city gates have their right
+     hands worn thin by those who greet them: Romans touched or kissed the
+     hand of a statue in passing, a salute to the god or the man it showed.
+
+[33] (1.330) "there is void in things" (est in rebus inane): inane is "void"
+     throughout, never "vacuum", though Lucretius also uses vacuum as its
+     synonym (1.509, 1.523). "Place, untouchable, void and empty" (334) and
+     "place and space" (locus ac spatium, 426) are other names for the same
+     thing; the void is only room that offers no resistance.
+
+[34] (1.336) "the office of body" (officium corporis) is "to obstruct and
+     stand in the way" (officere atque obstare): the play of words makes the
+     point that a body's one proper function is to be in the way, so that in
+     a world without void nothing could begin to move. The "office" of body
+     is to press downward at 1.362.
+
+[35] (1.371) "certain men" (quidam) are not named. The doctrine is that of
+     the Aristotelians and the Stoics, who denied void inside the world and
+     explained motion by mutual replacement: the fish moves into the water
+     that moves into the place the fish has left. Lucretius's answer is that
+     the water has nowhere to go first.
+
+[36] (1.422-423) "the sense common to all" (communis sensus) is the
+     sensation everyone shares, not "common sense" in the modern meaning.
+     That sensation is the first ground of trust (prima fides) is Epicurus's
+     rule of truth: without it nothing about hidden things could be
+     confirmed by reasoning. Lucretius defends the senses at length at
+     4.469-521.
+
+[37] (1.449-450) "conjoined" (coniuncta) and "accidents" (eventa) are
+     Lucretius's Latin for Epicurus's permanent properties (symbebekota) and
+     accidents (symptomata): what a thing cannot lose "without a deadly
+     division" (sine permitiali discidio, 451), and what can come and go
+     while the thing remains. The two English words are kept throughout.
+
+[38] (1.459-463) Time has no existence of its own but is sensed from the
+     motion and rest of things; it is an accident of accidents, as the
+     school put it.
+
+[39] (1.464-477) "Tyndareus' daughter" (Tyndaridem) is Helen; "Alexander"
+     (474) is Paris, son of Priam, and "Phrygian" is Trojan; "Pergamum"
+     (Pergama, 476) is the citadel of Troy. "Wooden" (durateus) is Homer's
+     own word for the horse (Odyssey 8.493), taken into Latin letter for
+     letter. The Trojan War is the example of events that have no being of
+     their own.
+
+[40] (1.469-470) "an accident of the lands ... of the regions themselves"
+     (aliud terris, aliud regionibus ipsis): the deeds were accidents of the
+     matter that took part in them, the lands and the people, and of the
+     space in which they happened; neither the matter nor the place is the
+     deed.
+
+[41] (1.484) "a union of beginnings" (concilio ... principiorum): principia
+     is Lucretius's shorter synonym for primordia, and the English keeps the
+     two Latin words apart as "beginnings" and "first-beginnings" (so also
+     1.740, 1.993, 1.1047); it is the same doctrine under a second name.
+     "Union" (concilium) is the fixed word for the combination of first
+     bodies that makes a thing (also 1.517, 1.1043).
+
+[42] (1.493-496) "the ice of bronze" (glacies aeris) is Lucretius's own
+     figure: bronze as a frozen thing that melts in fire. "As is the custom"
+     (rite, 495) is the Roman way of holding the cup in the hand while the
+     water is poured in from above, so that heat and cold are felt through
+     the silver.
+
+[43] (1.520) "nothing that stood empty as void": the source prints vocaret,
+     "called", which gives no sense; nearly all editors read vacaret, "stood
+     empty", and here the translation follows the emendation rather than the
+     printed word.
+
+[44] (1.531) "as I showed you above, a little while before" (id quod iam
+     supra tibi paulo ostendimus ante) repeats 1.429 word for word; there it
+     looked back to 1.335-345, here to 1.503-527. The English repeats its
+     own line.
+
+[45] (1.548) "of solid singleness" (solida simplicitate): simplicitas is the
+     first-beginnings' being single, without parts that could be separated;
+     "singleness" is kept for it (1.574, 1.609, 1.612).
+
+[46] (1.586) "nature's covenants" (foedera naturai): foedus is a treaty, and
+     the figure of a binding compact that fixes what each thing can do is
+     Lucretius's own; it recurs at 2.302, 5.310 and 5.924, and "stands
+     decreed" (sancitum, 587) is the language of law. The English keeps
+     "covenants" throughout.
+
+[47] (1.594-596) These lines repeat 1.75-77, the proem's account of what
+     Epicurus brought back, now not a discovery but a premise. The English
+     repeats its own lines.
+
+[48] (1.599-608) The least parts: the "outermost point" (extremum cacumen)
+     that the eye can just make out on a visible body has no parts and is "a
+     least nature" (minima natura); by analogy the first-beginnings, too,
+     are made of least parts that exist only as parts and never separately
+     (Epicurus, Letter to Herodotus 56-59). The regress of 615-622, that
+     without a least the smallest thing would have as many parts as the
+     whole, is the argument's other half, and the point returns against
+     Empedocles at 749-752.
+
+[49] (1.629) "the nature of things, the creator" (rerum natura creatrix):
+     nature as maker, a phrase Lucretius uses again at 2.1117 and 5.1362. It
+     is a figure for the workings of first-beginnings and void, not a
+     goddess.
+
+[50] (1.638-639) Heraclitus of Ephesus (about 500 BC), who made fire the
+     stuff of all things, was called "the Obscure" in antiquity for his
+     riddling style, and 639 plays on it: "bright" in fame (clarus) for
+     "dark" speech (obscuram). "The empty-headed" (inanis) is the same word
+     as "the void" (inane), so his admirers are hollow men. "Is the first to
+     enter the battle" (init proelia primus) casts the survey of rival
+     schools as a campaign.
+
+[51] (1.670-671) The refrain of change as death: these two lines recur at
+     1.792-793, 2.753-754 and 3.519-520, verbatim in the English as in the
+     Latin. Whatever changes so as to leave its own bounds (suis finibus)
+     has ceased to be what it was; so the first-beginnings themselves must
+     never change.
+
+[52] (1.684-685) "collisions, motions, order, position, shapes" (concursus
+     motus ordo positura figurae): the things by which the same first bodies
+     make different things. The list, with variations, is one of Lucretius's
+     refrains (1.633-634, 2.726, 2.1021). Here it answers Heraclitus: fire
+     itself is one such arrangement.
+
+[53] (1.693-700) The senses are the first measure of truth, and Heraclitus,
+     "starting from the senses, fights against the senses": he trusts sight
+     when it shows him fire and distrusts it for everything else. This is
+     Epicurus's rule of truth again (1.422-425), argued out at 4.469-521.
+
+[54] (1.705-706) These lines repeat 1.635-636, with "can consist"
+     (consistere posse) for "consists of fire alone" (consistere solo);
+     Lucretius reopens the polemic in his own earlier words so as to extend
+     it to the other single elements.
+
+[55] (1.707-713) Air as the beginning of things is the doctrine of
+     Anaximenes of Miletus, water that of Thales; for earth alone no thinker
+     is known, and Aristotle remarks that no one made earth the sole
+     principle. "Those who double the first-beginnings" (712) are the pairs
+     the ancient handbooks assign to Oenopides of Chios (fire and air) and
+     Xenophanes (earth and water).
+
+[56] (1.715) "breath" (anima): here the element air, in the list of
+     Empedocles' four, not the spirit of 1.112. "Spirit" is kept for the
+     vital principle only, and this non-technical sense is noted wherever it
+     occurs (6.130 and after).
+
+[57] (1.716-725) Empedocles of Acragas (now Agrigento) in Sicily, of the
+     fifth century BC, taught that all things are mixtures of four "roots",
+     fire, air, earth and water, and wrote his physics in hexameters, which
+     is why Lucretius praises him as a poet in 731-733 while refuting him.
+     Sicily is "three-cornered" (triquetris), its old name Trinacria; the
+     strait is the Strait of Messina, with the whirlpool Charybdis of
+     Odyssey 12, and Etna is described between eruptions.
+
+[58] (1.721) "the shores of Aeolia's lands" (Aeoliae terrarum oras): so the
+     source reads, though the Aeolian Islands lie north of Sicily and the
+     mainland across the strait is Italy, which Munro's emendation Italiae
+     names. The translation keeps the printed reading; the mainland is meant
+     either way.
+
+[59] (1.738-739) The Pythia was Apollo's priestess at Delphi, who prophesied
+     seated on the tripod and, as Lucretius has it, from the laurel,
+     Apollo's tree. To rank these thinkers' answers above hers is a stroke
+     against religion in passing. The two lines recur at 5.111-112.
+
+[60] (1.769) This line repeats 1.762 word for word and does not fit here;
+     editors generally delete it as a copyist's stray repetition. The source
+     prints it, and the translation keeps it in place.
+
+[61] (1.830-832) "Homoeomeria" (homoeomerian), Greek for "likeness of
+     parts", is the Aristotelian name for the doctrine of Anaxagoras of
+     Clazomenae (about 500-428 BC) that each kind of stuff is made of tiny
+     portions of the same stuff: bone of little bones, gold of specks of
+     gold. Lucretius leaves the word Greek, blaming "the poverty of our
+     native speech" (patrii sermonis egestas) as at 1.139, and the
+     translation leaves it Greek too.
+
+[62] (1.860a) The source marks a line lost after 860: the sentence that
+     began "since food increases the body and nourishes it" has lost its
+     conclusion. The translation prints the gap and supplies nothing; "or if
+     they say" (sive, 861) answers an alternative that is no longer there.
+
+[63] (1.873-874) The sense of these two lines is disputed, and editors
+     suspect corruption or a lost line: the earth's produce is said to rise
+     "out of the wood" (lignis), where the argument wants the earth. The
+     translation renders the text as printed.
+
+[64] (1.909-914) Lines 909-910 repeat 818-819 word for word. The clinching
+     example turns on Latin letters: ligna, "wood", and ignes, "fires", are
+     made of nearly the same letters in a different order, as fire and wood
+     are made of the same first-beginnings in a different arrangement.
+     English "wood" and "fires" cannot show it; the note has to.
+
+[65] (1.915-920) If like could come only from like, the first-beginnings of
+     a laughing or weeping creature would themselves laugh and weep.
+     Lucretius returns to the joke at 2.976-990, where he argues that
+     sentient things are made of bodies without sense.
+
+[66] (1.922-925) The thyrsus is the ivy-wound wand carried by Bacchus and
+     his followers, whose touch brought on the god's frenzy; the hope of
+     fame strikes the poet with it, so his inspiration is Bacchic before it
+     is the Muses'.
+
+[67] (1.926-950) These lines return almost word for word as the proem of
+     Book 4 (4.1-25), and the English there repeats the English here. "The
+     Pierides" are the Muses, from Pieria below Mount Olympus; the untrodden
+     places and untouched springs are the poet's claim to a new kind of
+     poem. The honey on the rim of the children's cup of wormwood
+     (absinthia, 936-942) is the image of his method: the bitter medicine is
+     the doctrine, the honey is the verse.
+
+[68] (1.968-983) The thrown spear: run to the supposed edge of space and
+     throw; either the spear flies on, and there is space beyond, or
+     something stops it, and that something is beyond. Simplicius attributes
+     the argument to Archytas of Tarentum, the Pythagorean of the fourth
+     century BC, with an outstretched hand in place of the spear; Lucretius
+     gives it its classic form.
+
+[69] (1.1013) The sentence breaks here, and many editors posit a lost line
+     or lines after 1013. The sense can be followed, since the condition of
+     1012 is answered by 1014; the translation prints the text as it stands
+     and supplies nothing.
+
+[70] (1.1021-1028) The first-beginnings did not take their places "by
+     design" (consilio) or "bargain" (pepigere) over their motions: the
+     ordered world is the arrangement that happened to hold, out of every
+     arrangement tried through infinite time. Book 5 (5.837-877) applies the
+     same reasoning to the first living creatures, and a modern reader will
+     hear natural selection in it; that is the reader's association, not the
+     poet's claim.
+
+[71] (1.1052-1067) "That all things press toward the middle of the sum" (in
+     medium summae ... omnia niti) is the doctrine of a finite spherical
+     world held together by the tendency of everything toward its center,
+     Aristotle's and above all the Stoics'; Lucretius names no one. With it
+     goes the belief in the antipodes (1058-1067), people on the far side of
+     the earth standing "upside down" (suppa, an old word) relative to us
+     and seeing the sun when we see the stars. In an infinite universe there
+     is no middle, so both fall together.
+
+[72] (1.1068-1073) The right-hand ends of these six lines are lost: a leaf
+     of the ancestor of our manuscripts was damaged, and only the line
+     openings survive. The translation prints the gaps as ". . ." and
+     supplies nothing; the drift is that the "middle" is an empty notion of
+     fools and that an infinite space has none.
+
+[73] (1.1085-1086) The source prints 1086 before 1085, an editorial
+     transposition; the translation keeps the printed order and the numbers.
+
+[74] (1.1093) Eight lines are lost after 1093 (1094-1101), and the text
+     resumes in mid-sentence at 1102. The translation prints eight
+     unnumbered gaps and supplies nothing. The lost lines finished the
+     opponents' view and began Lucretius's reply: that if their world had a
+     center and no matter beyond it, it would fly apart.
+
+[75] (1.1102) "the walls of the world" (moenia mundi): the walls Epicurus
+     passed through at 1.73, imagined here as flying apart "in the manner of
+     winged flames" (volucri ritu flammarum) if the sum of matter were
+     finite.
+
+[76] (1.1117) "so things will kindle lights for things" (ita res accendent
+     lumina rebus): the book ends on the image with which its argument
+     began, the light of understanding against "blind night" (caeca nox,
+     1115-1116), as at 1.144-148; "unseen" in "unseen first-beginnings"
+     (primordia caeca, 1110) is the same adjective.

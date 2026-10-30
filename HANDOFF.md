@@ -16,7 +16,7 @@ source of truth for what has been done to each segment.
 | annotate (Sonnet) | 58/58 | draft notes, all marked DRAFT |
 | review (translator, Fable) | 58/58 (all six books) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines, Book 3: 89, Book 4: 92, Book 5: 206, Book 6: 206 lines patched |
 | assemble | all six books | `translation/book_0N.txt`, all from review text; `check_segment --all` now exits 0 |
-| notes | none final | 302 `{{NOTE: ...}}` placeholders across the books |
+| notes | Book 1 final (76 notes) | Books 2-6 still carry `{{NOTE: ...}}` placeholders and DRAFT notes |
 | margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
 | audiobook | Books 1-2 built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); Book 2: 26 chunks, 64.9 min, all strict QA passes |
 
@@ -251,14 +251,43 @@ doubled diaeresis forms of aer at 6.250, 6.304, 6.346, 6.367, 6.444, 6.684,
 the diaeresis). The English reads the plain word; the notes at 6.250 and
 6.684 say so and the notes stage can drop them.
 
+## Notes stage (started 2026-10-30)
+
+Book 1 is done: `translation/book_01.txt` now has the argument, the
+translator's commentary, `[n]` markers in the verse and 76 numbered notes in
+the Iliad format (each opening with its (book.line)). Method: the
+`{{NOTE}}` placeholders and Sonnet's DRAFT notes were read against the verse
+and the Latin, merged where they duplicated each other, dropped where they
+only restated the register or paraphrased the argument, and rewritten; a
+spec file (ARGUMENT / COMMENTARY / NOTES with `@key | anchor` heads) was
+applied with the new one-shot `python tools/apply_notes.py N spec.txt`, which
+strips every placeholder, inserts the markers and refuses to run on a book
+whose notes are already final. `python tools/check_narration.py N` (or
+`--all`) strips markers and placeholders the way make_narration.py does and
+diffs the verse against `audiobook-source/book_0N.txt` without writing
+anything; it must report a match after every notes commit while the audio is
+rendering. The verse wording was not touched.
+
+### Lines to fix after the audio builds
+
+Do not change these while Books 3-6 are rendering from the pinned narration
+sources; fix them in the review files, reassemble, regenerate the narration
+source, and re-render the affected chunk afterwards.
+
+- 1.170 and 1.179: the English has "the shining shores of light" where the
+  Latin (oras in luminis exit; in luminis oras) lacks dias. The register's
+  rule, applied in Books 2 and 5 (2.577, 5.224, 5.781, 5.1389, 5.1455), is
+  "the shores of light" without "shining" where dias is absent; note [4] at
+  1.22 states that rule. Proposed fix: drop "shining" in both lines (13 and
+  14 syllables after the change). The user decides; the alternative is to
+  amend the register to treat 1.170 and 1.179 as the full refrain.
+
 ## Next session
 
-The reviews are complete. Pick up at "After the reviews" below; the notes
-stage for Book 1 is the natural start (`translation/book_01.txt`: the
-`{{NOTE}}` placeholders plus the DRAFT notes, into numbered `[1]`, `[2]`
-notes in the Iliad format). Before that, run `git log`,
+Continue the notes stage with Book 2, then Books 3-6, one book per commit,
+the same way (see "Notes stage" above). Before that, run `git log`,
 `python tools/check_segment.py --all` (expect exit 0) and
-`python tools/refrains.py N --earlier` for any book touched.
+`python tools/check_narration.py --all` (expect every book to match).
 
 ## After the reviews
 
