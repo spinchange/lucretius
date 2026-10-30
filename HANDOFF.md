@@ -16,7 +16,7 @@ source of truth for what has been done to each segment.
 | annotate (Sonnet) | 58/58 | draft notes, all marked DRAFT |
 | review (translator, Fable) | 58/58 (all six books) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines, Book 3: 89, Book 4: 92, Book 5: 206, Book 6: 206 lines patched |
 | assemble | all six books | `translation/book_0N.txt`, all from review text; `check_segment --all` now exits 0 |
-| notes | Books 1-2 final (76, 89 notes) | Books 3-6 still carry `{{NOTE: ...}}` placeholders and DRAFT notes |
+| notes | all six books final (76, 89, 70, 55, 89, 86 notes) | no `{{NOTE: ...}}` placeholders or DRAFT notes remain; verse unchanged, `check_narration --all` matches |
 | margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
 | audiobook | all six books built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); every chunk accepted on a strict QA pass except the four noted under "Audiobook" below |
 
@@ -253,9 +253,11 @@ the diaeresis). The English reads the plain word; the notes at 6.250 and
 
 ## Notes stage (started 2026-10-30)
 
-Book 1 is done: `translation/book_01.txt` now has the argument, the
-translator's commentary, `[n]` markers in the verse and 76 numbered notes in
-the Iliad format (each opening with its (book.line)). Method: the
+All six books are done (2026-10-30, one commit per book): each
+`translation/book_0N.txt` now has the argument, the translator's
+commentary, `[n]` markers in the verse and numbered notes in the Iliad
+format (each opening with its (book.line)); 76, 89, 70, 55, 89 and 86 notes
+for Books 1 to 6. Method: the
 `{{NOTE}}` placeholders and Sonnet's DRAFT notes were read against the verse
 and the Latin, merged where they duplicated each other, dropped where they
 only restated the register or paraphrased the argument, and rewritten; a
@@ -287,13 +289,37 @@ source, and re-render the affected chunk afterwards.
   review predates that rule and left it. Proposed fix: "by the small pieces
   before they part into the seeds of things" (13 syllables). Note [69] at
   2.833 is written so that it stays true either way.
+- 4.771-772 "born after / in another posture" against 4.800-801 "born after
+  it / in another posture": the Latin of the two pairs is identical except
+  for the first word, so the English should match (drop or add "it").
+- 4.1034 "parts swollen with much seed" against 4.1047 "places swollen with
+  much seed": loca both times; make the two lines agree.
+- 5.1436 "the watchmen" (vigiles mundi) against 5.1405 and 5.1408 "the
+  wakeful" (vigiles, vigilantibus): Lucretius uses one word for the
+  shepherds and for the sun and moon, and the echo is lost; note [84] at
+  5.1436 points it out. Proposed fix: "But the wakeful of the world,
+  traversing its great revolving precinct" or similar.
+- 5.1401 "to step out of time" against 5.1409 "to keep the measure": numerum
+  both times, a deliberate pair in the Latin; consider "out of measure" at
+  1401.
+- 5.1452-1453 "the experience of the unflagging mind, / taught little by
+  little as men advanced step by step": progredientis agrees with mentis,
+  so it is the mind that advances step by step, not men. Minor.
+- 6.750 "the temple of kindly Pallas Tritonis": templum here is the
+  building on the Acropolis, and "temple" was kept as the one exception
+  to the "precincts" rule; the Book 6 commentary says so. No change
+  proposed; listed so the exception is a decision and not an oversight.
 
 ## Next session
 
-Continue the notes stage with Book 3, then Books 4-6, one book per commit,
-the same way (see "Notes stage" above; Book 2 is done, 89 notes). Before that, run `git log`,
-`python tools/check_segment.py --all` (expect exit 0) and
-`python tools/check_narration.py --all` (expect every book to match).
+The notes stage is complete for all six books. Before anything else, run
+`git log`, `python tools/check_segment.py --all` (expect exit 0) and
+`python tools/check_narration.py --all` (expect every book to match). Then,
+once the Book 3-6 audio renders have finished and been accepted, take up
+"Lines to fix after the audio builds" above with the user (each item is a
+verse change that needs a review-file patch, reassembly, a regenerated
+narration source and a re-rendered chunk). After that: the margin survey
+of Books 1 and 3-6, then the OCT collation (see "After the reviews").
 
 ## Audiobook (built 2026-10-30)
 
@@ -330,9 +356,8 @@ Transcription QA calls can drop on a transient TLS error and leave a take
 
 ## After the reviews
 
-- Notes stage per book: resolve the `{{NOTE}}` placeholders and Sonnet's
-  DRAFT notes into numbered notes `[1]`, `[2]` in the Iliad format; write the
-  argument lines and commentary.
+- Notes stage per book: done for all six books (2026-10-30); see "Notes
+  stage" above.
 - Margin survey of Books 1 and 3-6; decide the published layout (verse with
   Machiavelli's notes keyed to lines, DigiVatLib folio links).
 - OCT collation; then the web build on the Iliad and Odyssey pattern.
