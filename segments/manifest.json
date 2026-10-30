@@ -284,7 +284,16 @@
    "first": "1",
    "last": "141",
    "n": 141,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:52:08+00:00",
+     "seconds": 103,
+     "check": "clean"
+    }
+   }
   },
   {
    "id": "b02s01",
@@ -295,7 +304,16 @@
    "first": "142",
    "last": "293",
    "n": 153,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:51:59+00:00",
+     "seconds": 94,
+     "check": "clean"
+    }
+   }
   },
   {
    "id": "b02s02",
@@ -306,7 +324,16 @@
    "first": "294",
    "last": "468",
    "n": 176,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "error",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:50:41+00:00",
+     "seconds": 16,
+     "error": "empty output"
+    }
+   }
   },
   {
    "id": "b02s03",
@@ -317,7 +344,16 @@
    "first": "469",
    "last": "580",
    "n": 113,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "error",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:50:56+00:00",
+     "seconds": 15,
+     "error": "empty output"
+    }
+   }
   },
   {
    "id": "b02s04",
@@ -328,7 +364,16 @@
    "first": "581",
    "last": "729",
    "n": 149,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:52:32+00:00",
+     "seconds": 96,
+     "check": "clean"
+    }
+   }
   },
   {
    "id": "b02s05",
@@ -339,7 +384,16 @@
    "first": "730",
    "last": "841",
    "n": 112,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "error",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:52:20+00:00",
+     "seconds": 21,
+     "error": "empty output"
+    }
+   }
   },
   {
    "id": "b02s06",
@@ -350,7 +404,16 @@
    "first": "842",
    "last": "972",
    "n": 132,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "error",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:52:25+00:00",
+     "seconds": 17,
+     "error": "empty output"
+    }
+   }
   },
   {
    "id": "b02s07",
@@ -361,7 +424,16 @@
    "first": "973",
    "last": "1104",
    "n": 132,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:53:30+00:00",
+     "seconds": 70,
+     "check": "clean"
+    }
+   }
   },
   {
    "id": "b02s08",
@@ -372,7 +444,16 @@
    "first": "1105",
    "last": "1174",
    "n": 70,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:53:12+00:00",
+     "seconds": 47,
+     "check": "clean"
+    }
+   }
   },
   {
    "id": "b03s00",
@@ -383,7 +464,16 @@
    "first": "1",
    "last": "135",
    "n": 136,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:53:56+00:00",
+     "seconds": 84,
+     "check": "clean"
+    }
+   }
   },
   {
    "id": "b03s01",
@@ -394,7 +484,16 @@
    "first": "136",
    "last": "261",
    "n": 126,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:54:29+00:00",
+     "seconds": 77,
+     "check": "clean"
+    }
+   }
   },
   {
    "id": "b03s02",
@@ -405,7 +504,16 @@
    "first": "262",
    "last": "380",
    "n": 119,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T03:50:23+00:00",
+     "finished": "2026-10-30T03:54:32+00:00",
+     "seconds": 62,
+     "check": "clean"
+    }
+   }
   },
   {
    "id": "b03s03",
@@ -416,7 +524,13 @@
    "first": "381",
    "last": "547",
    "n": 167,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b03s04",
@@ -427,7 +541,13 @@
    "first": "548",
    "last": "669",
    "n": 122,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b03s05",
@@ -438,7 +558,13 @@
    "first": "670",
    "last": "818",
    "n": 149,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b03s06",
@@ -449,7 +575,13 @@
    "first": "819",
    "last": "930",
    "n": 113,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b03s07",
@@ -460,7 +592,13 @@
    "first": "931",
    "last": "1052",
    "n": 122,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b03s08",
@@ -471,7 +609,13 @@
    "first": "1053",
    "last": "1094",
    "n": 42,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b04s00",
@@ -482,7 +626,13 @@
    "first": "1",
    "last": "142",
    "n": 143,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b04s01",
@@ -493,7 +643,13 @@
    "first": "143",
    "last": "268",
    "n": 127,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b04s02",
@@ -504,7 +660,13 @@
    "first": "269",
    "last": "378",
    "n": 111,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b04s03",
@@ -515,7 +677,13 @@
    "first": "379",
    "last": "499",
    "n": 121,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b04s04",
@@ -526,7 +694,13 @@
    "first": "500",
    "last": "614",
    "n": 115,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b04s05",
@@ -537,7 +711,13 @@
    "first": "615",
    "last": "776",
    "n": 162,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b04s06",
@@ -548,7 +728,13 @@
    "first": "777",
    "last": "906",
    "n": 130,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b04s07",
@@ -559,7 +745,13 @@
    "first": "907",
    "last": "1036",
    "n": 130,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b04s08",
@@ -570,7 +762,13 @@
    "first": "1037",
    "last": "1191",
    "n": 155,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b04s09",
@@ -581,7 +779,13 @@
    "first": "1192",
    "last": "1287",
    "n": 96,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s00",
@@ -592,7 +796,13 @@
    "first": "1",
    "last": "145",
    "n": 145,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s01",
@@ -603,7 +813,13 @@
    "first": "146",
    "last": "260",
    "n": 115,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s02",
@@ -614,7 +830,13 @@
    "first": "261",
    "last": "379",
    "n": 119,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s03",
@@ -625,7 +847,13 @@
    "first": "380",
    "last": "494",
    "n": 115,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s04",
@@ -636,7 +864,13 @@
    "first": "495",
    "last": "613",
    "n": 119,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s05",
@@ -647,7 +881,13 @@
    "first": "614",
    "last": "750",
    "n": 137,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s06",
@@ -658,7 +898,13 @@
    "first": "751",
    "last": "877",
    "n": 127,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s07",
@@ -669,7 +915,13 @@
    "first": "878",
    "last": "987",
    "n": 110,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s08",
@@ -680,7 +932,13 @@
    "first": "988",
    "last": "1104",
    "n": 118,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s09",
@@ -691,7 +949,13 @@
    "first": "1105",
    "last": "1240",
    "n": 136,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s10",
@@ -702,7 +966,13 @@
    "first": "1241",
    "last": "1360",
    "n": 120,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b05s11",
@@ -713,7 +983,13 @@
    "first": "1361",
    "last": "1457",
    "n": 97,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b06s00",
@@ -724,7 +1000,13 @@
    "first": "1",
    "last": "120",
    "n": 123,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b06s01",
@@ -735,7 +1017,13 @@
    "first": "121",
    "last": "245",
    "n": 125,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b06s02",
@@ -746,7 +1034,13 @@
    "first": "246",
    "last": "356",
    "n": 111,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b06s03",
@@ -757,7 +1051,13 @@
    "first": "357",
    "last": "469",
    "n": 113,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b06s04",
@@ -768,7 +1068,13 @@
    "first": "470",
    "last": "607",
    "n": 139,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b06s05",
@@ -779,7 +1085,13 @@
    "first": "608",
    "last": "737",
    "n": 131,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b06s06",
@@ -790,7 +1102,13 @@
    "first": "738",
    "last": "878",
    "n": 142,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b06s07",
@@ -801,7 +1119,13 @@
    "first": "879",
    "last": "1001",
    "n": 123,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b06s08",
@@ -812,7 +1136,13 @@
    "first": "1002",
    "last": "1137",
    "n": 136,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   },
   {
    "id": "b06s09",
@@ -823,7 +1153,13 @@
    "first": "1138",
    "last": "1286",
    "n": 149,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:50:24+00:00"
+    }
+   }
   }
  ]
 }
