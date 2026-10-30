@@ -111,7 +111,9 @@ occurrence; run it before each review.
 ## Starting Book 3 (next session)
 
 1. Open the repo, check `git log`, run `python tools/check_segment.py --all`
-   (clean) and `python tools/refrains.py 3 --earlier`.
+   (exit 1 is expected until the reviews reach b03s08 and b06s03, whose Opus
+   drafts fall under the 80% syllable-band floor) and
+   `python tools/refrains.py 3 --earlier`.
 2. Book 3 is segments b03s00 to b03s08 (3.1-1094; bounds 1-135, 136-261,
    262-380, 381-547, 548-669, 670-818, 819-930, 931-1052, 1053-1094). Sonnet
    found no firm FINDINGS in Book 3; eleven secondaries across the book (s00
