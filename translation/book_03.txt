@@ -1,16 +1,63 @@
 BOOK 3
 
-[argument: one sentence, to be written]
+The praise of Epicurus, and the fear of death as the hidden root of avarice,
+ambition and crime; mind and spirit are bodily parts of a man, made of the
+finest seeds, fourfold in nature and bound to the body from birth; a long
+train of proofs that they are born and die with it, and against the
+wandering of spirits from body to body; death is therefore nothing to us,
+nature's own rebuke to those who grieve, the torments of Acheron found in
+this life, and the kings, poets and sages who have died before us.
 
 TRANSLATOR'S COMMENTARY
 
-[to be written]
+The text followed is the printed Perseus text, as in Books 1 and 2. Two gaps
+are marked and left unfilled, after 97 and after 823. At four places the
+English follows the correction that almost every editor makes, since the
+printed word gives no sense: 58 ("what is real remains" for amanare), 433
+(geruntur), 476 (cur for cor) and 1069 (ingratis for ingratius). At the rest
+it renders the printed text, with a note at each: 84, where the construction
+is strained; 474-475, which editors bracket as an intruder and of which 475
+breaks off unfinished; 553 (tali); 763, which repeats 746 and makes no sense
+where it stands; 955 (baratre); 962, where the sentence ends in a word no
+one has explained; and 1056 (tam quam). The transcription behind the printed
+text also doubles a word wherever the original marked a diaeresis, so that
+aer, "air", appears as aeraaëra, aeraër and the like at some twenty places
+(233, 236, 248, 269, 282, 287, 292, 302, 443, 456, 508, 571, 573, 591, 752,
+980), and the same happened at 396, 433, 691 and 694. These are artifacts of
+the copy, not variants, and the English reads the single word each time
+without further notice.
+
+The book is about animus and anima, and the English keeps the two apart as
+Lucretius does: animus is "mind", the ruling part seated in the breast, and
+anima is "spirit", the part spread through the whole body. Where mens stands
+beside animus (94, 139, 142, 398, 402, 615) it is "thought", so that both
+Latin words show in the line; mens alone is "mind". "Soul" is not used,
+since it would blur a distinction the argument needs. Lucretius himself is
+loose with the terms where it suits him and says so (94, 421- 424), and the
+English follows him in each place rather than correcting him. The three
+names for the ultimate bodies are kept as in Books 1 and 2: primordia
+"first-beginnings", principia "beginnings", exordia "origins" (31, 380);
+elementa is "elements" (244, 374) and corpora prima "first bodies" (438).
+Particulae (665, 708) are "small pieces" and "tiny parts". Harmonia is
+"harmony", the Greek word Lucretius mocks the musicians for lending; foedus
+is "covenant"; templa Acherusia is "the precincts of Acheron", as at 1.120.
+
+The children in the dark and the three lines that follow them (87-93) repeat
+2.55-61 verbatim and will recur at 6.35-41; 519-520 repeat 1.670- 671 and
+2.753-754; and 806-818, the three ways a thing can be eternal, reappear at
+5.351-363, where the English is the same word for word. Within the book, 763
+repeats 746 exactly, as the Latin does; "joined and fitted into one" (839,
+846), "the pause of life" (860, 930) and "a vessel full of holes" (936,
+1009) are rendered identically where Lucretius repeats himself. The Latin
+has no quotation marks; those at 356, 894-908, 914-915, 933-949, 955-962 and
+1025-1052 are the translator's, marking the speeches of an objector, of
+mourners, of drinkers, of nature herself and of the reader to himself.
 
 ------------------------------------------------------------
 
     1  Out of such great darkness you who first were able to raise
     2  so clear a light, shining it on the good things of life,
-    3  you I follow, glory of the Greek race, and now in your {{NOTE: Epicurus, unnamed here as at 1.66; the periphrasis is kept}}
+    3  you I follow, glory of the Greek race[1], and now in your
     4  deep-pressed tracks I set down the planted prints of my feet,
     5  not so much from desire to compete as out of love,
     6  because I long to imitate you; for how should a swallow contend
@@ -25,20 +72,20 @@ TRANSLATOR'S COMMENTARY
    15  begins to proclaim aloud the nature of things,
    16  the terrors of the mind scatter and flee, the walls of the world
    17  draw apart; I see things carried on through the whole void.
-   18  The power of the gods appears, and their quiet seats, {{NOTE: 3.18-22 adapt Homer's description of Olympus, Odyssey 6.42-46}}
+   18  The power of the gods appears, and their quiet seats[2],
    19  which neither winds shake nor clouds with rainstorms
    20  sprinkle, nor does snow, congealed by bitter frost,
    21  falling white, do them violence; an ever-cloudless upper air
    22  covers them and laughs with light poured wide:
    23  nature, moreover, supplies them all things, and nothing
    24  at any time diminishes their peace of mind.
-   25  But on the other hand nowhere do the precincts of Acheron appear,
+   25  But on the other hand nowhere do the precincts of Acheron[3] appear,
    26  nor does the earth prevent all things from being seen
    27  that are carried on beneath our feet, below, through the void.
    28  At these things a certain divine pleasure
    29  and a shudder seize me there, that by your power nature
    30  lies so plainly open, laid bare on every side.
-   31  And since I have taught what the origins of all things
+   31  And since I have taught what the origins[4] of all things
    32  are like, and how, differing in their various shapes,
    33  they fly of their own accord, driven by eternal motion,
    34  and in what way each thing can be created from them,
@@ -49,9 +96,9 @@ TRANSLATOR'S COMMENTARY
    39  suffusing all things with the blackness of death, and leaves
    40  no pleasure clear and pure.
    41  For though men often say that diseases are more to be feared,
-   42  and a life of disgrace, than the Tartarus of death,
+   42  and a life of disgrace, than the Tartarus of death[5],
    43  and that they know the nature of the mind is of blood,
-   44  or else of wind, if so their fancy happens to run,
+   44  or else of wind[6], if so their fancy happens to run,
    45  and that they have no need whatever of our reasoning,
    46  from this you may observe that all these things are boasted for the sake
    47  of praise rather than because the thing itself is approved.
@@ -59,13 +106,13 @@ TRANSLATOR'S COMMENTARY
    49  from the sight of men, befouled with some ugly charge,
    50  afflicted, in short, with every hardship, still live on,
    51  and yet wherever they come in their misery they make offerings to the dead,
-   52  and slaughter black cattle, and to the divine shades
+   52  and slaughter black cattle, and to the divine shades[7]
    53  send down funeral gifts, and in bitter circumstances
    54  turn their minds far more keenly to religion.
    55  So it is the more fitting to watch a man in doubtful dangers
    56  and to learn in adversity what he is;
    57  for then at last true words are drawn up from the depth
-   58  of the heart, and the mask is torn away; what is real remains. {{NOTE: the source's "amanare" is corrupt; rendered with the usual correction "manet res"}}
+   58  of the heart, and the mask is torn away; what is real remains[8].
    59  Again, avarice and the blind craving for honors,
    60  which force wretched men to overstep the bounds
    61  of right, and sometimes, as partners and agents of crime,
@@ -77,7 +124,7 @@ TRANSLATOR'S COMMENTARY
    67  and to linger, as it were, already before the gates of death;
    68  and while men, driven by a false terror, wish
    69  to have fled far from these and removed them far, far away,
-   70  they amass a fortune from the blood of citizens, and greedily
+   70  they amass a fortune from the blood of citizens[9], and greedily
    71  double their riches, piling slaughter on slaughter;
    72  cruelly they rejoice at a brother's sad funeral,
    73  and hate and fear the tables of their kin.
@@ -91,24 +138,24 @@ TRANSLATOR'S COMMENTARY
    81  that with grieving hearts they decree their own death,
    82  forgetting that this fear is the fountain of their cares:
    83  that this harasses shame, this bursts the bonds of friendship
-   84  and, in sum, urges them to overturn piety; {{NOTE: text uncertain at 3.83-84; the construction is strained and editors emend; rendered as the source prints it}}
+   84  and, in sum, urges them to overturn piety[10];
    85  for often before now men have their country and dear parents
    86  betrayed, seeking to shun the precincts of Acheron.
-   87  For just as children tremble and fear everything
+   87  For just as children tremble and fear everything[11]
    88  in blind darkness, so we in the light are afraid
    89  at times of things that are no more to be feared than
-   90  what children in the dark shudder at and imagine will come. {{NOTE: 3.87-90 repeat 2.55-58 (and recur at 6.35-38); rendered verbatim}}
+   90  what children in the dark shudder at and imagine will come.
    91  This terror of the mind, then, and this darkness
    92  must be scattered not by the sun's rays or the bright shafts of day
    93  but by the face and reasoning of nature.
-   94  First, I say that the mind, which we often call thought, {{NOTE: first technical contrast of animus and mens; mens rendered "thought" beside animus, per the register}}
+   94  First, I say that the mind, which we often call thought[12],
    95  in which the counsel and governance of life are placed,
    96  is a part of a human being no less than hand and foot
-   97  and eyes stand forth as parts of the whole living creature.
+   97  and eyes stand forth as parts of the whole living creature.[13]
        [lacuna]
    98  that the sense of the mind is not placed in a fixed part,
    99  but is a certain vital condition of the body,
-  100  which the Greeks call harmony, because it makes us {{NOTE: harmonia, the theory that the soul is an attunement of the body, held by Aristoxenus and others}}
+  100  which the Greeks call harmony[14], because it makes us
   101  live with sense, though the mind is in no part;
   102  as when good health is often said to belong
   103  to the body, and yet it is not any part of the healthy man,
@@ -148,12 +195,12 @@ TRANSLATOR'S COMMENTARY
   136  Now I say that mind and spirit are held joined together
   137  with one another and make up from themselves a single nature,
   138  but that the head, so to speak, the lord over the whole body,
-  139  is the counsel which we call the mind and thought. {{NOTE: animum mentemque: first technical pairing of animus and mens in Book 3; per register mens paired with animus = "thought"; both name the same ruling part}}
+  139  is the counsel which we call the mind and thought.
   140  And this is set and fixed in the middle region of the breast.
   141  For here dread and fear leap up, around these places
   142  joys caress us: here, therefore, are thought and mind.
   143  The rest of the spirit, scattered through the whole body,
-  144  obeys, and moves at the nod and impulse of the mind. {{NOTE: numen here in its root sense, "nod", the sign of command, not divinity}}
+  144  obeys, and moves at the nod[15] and impulse of the mind.
   145  This alone, of itself, knows for itself and is glad for itself,
   146  when nothing moves either the spirit or the body along with it.
   147  And just as, when the head or the eye is hurt in us
@@ -171,7 +218,7 @@ TRANSLATOR'S COMMENTARY
   159  that the spirit is joined with the mind, and that, struck by the mind's
   160  force, it at once drives the body forward and strikes it.
   161  This same reasoning teaches that the nature of mind and spirit
-  162  is bodily; for when it is seen to drive the limbs forward,
+  162  is bodily[16]; for when it is seen to drive the limbs forward,
   163  to snatch the body from sleep and change the face,
   164  and to steer and turn the whole man,
   165  none of which we see can happen without touch,
@@ -230,7 +277,7 @@ TRANSLATOR'S COMMENTARY
   218  inasmuch as, when all of it has gone from the whole body,
   219  the outer contour of the limbs still keeps itself
   220  unharmed, and not one jot of weight is lacking.
-  221  It is just as when the flower of Bacchus has died away, or when {{NOTE: "flower of Bacchus": the bouquet of wine}}
+  221  It is just as when the flower of Bacchus[17] has died away, or when
   222  the sweet breath of a perfume has scattered into the air,
   223  or when savor has departed from some body;
   224  still the thing itself seems to the eyes no smaller
@@ -240,9 +287,9 @@ TRANSLATOR'S COMMENTARY
   228  Therefore, again and again, the nature of mind and spirit
   229  you may know is made of exceedingly minute
   230  seeds, since when it flees it takes away no weight.
-  231  Yet we must not think this nature simple.
+  231  Yet we must not think this nature simple[18].
   232  For a certain thin breath leaves the dying,
-  233  mixed with heat, and heat, in turn, draws air with it; {{NOTE: source file prints doubled forms here and at 234, 236, 248 (aeraaëra, aeraër, aerisaëris); read as aera/aër/aeris, "air"; check latin/ transcription}}
+  233  mixed with heat, and heat, in turn, draws air with it;
   234  nor is there any heat that has no air mixed in it;
   235  for since its nature is of loose texture, it must be
   236  that many first-beginnings of air move within it.
@@ -251,7 +298,7 @@ TRANSLATOR'S COMMENTARY
   239  since the mind does not accept that any of these can create
   240  the sense-bearing motions, or what it then turns over in the mind.
   241  Therefore a certain fourth nature must also be
-  242  added to these; it is altogether without a name; {{NOTE: the "nameless" fourth nature, the finest element of the soul, beyond breath, heat, and air}}
+  242  added to these; it is altogether without a name[19];
   243  than which nothing exists more mobile or more thin,
   244  nor made of smaller and smoother elements;
   245  it is first to distribute the sense-bearing motions through the limbs.
@@ -269,10 +316,10 @@ TRANSLATOR'S COMMENTARY
   257  to these motions: and for this reason we are able to hold on to life.
   258  Now in what way these are mingled with one another, and in what
   259  modes arranged they thrive, though I am eager to give an account,
-  260  the poverty of our native speech drags me back against my will; {{NOTE: recalls 1.139 and 1.832, the poverty of the Latin language}}
+  260  the poverty of our native speech[20] drags me back against my will;
   261  but still, as far as I can touch on it in sum, I shall touch it.
 
-  262  For the first-beginnings of the beginnings run among one another {{NOTE: "primordia principiorum": the atoms of the four elements of the spirit (heat, air, wind, the nameless nature); principia here = "beginnings", kept distinct from primordia}}
+  262  For the first-beginnings of the beginnings[21] run among one another
   263  in their motions, so that no single one can be set apart
   264  nor its power be made separate by space,
   265  but they stand out as the many forces of one body.
@@ -285,11 +332,11 @@ TRANSLATOR'S COMMENTARY
   272  from which the sense-bearing motion first arises through the flesh.
   273  For this nature lies hidden deep down and underneath,
   274  and there is nothing further below it in our body,
-  275  and it is in its turn the very spirit of the whole spirit. {{NOTE: "anima animae": the fourth, nameless nature is to the spirit what the spirit is to the body}}
+  275  and it is in its turn the very spirit of the whole spirit.
   276  Just as in our limbs and through the whole body
   277  the force of mind and the power of spirit lie mingled and hidden,
   278  because it is created of bodies small and few,
-  279  so, you see, this force that has no name, made of minute {{NOTE: "nominis expers": the fourth nature of 3.241-245, which Lucretius declines to name}}
+  279  so, you see, this force that has no name, made of minute
   280  bodies, lies hidden, and is, as it were, the very spirit
   281  in its turn of the whole spirit, and rules through the whole body.
   282  On a like principle, wind and air and heat
@@ -298,7 +345,7 @@ TRANSLATOR'S COMMENTARY
   285  so that one thing may be seen to be made from them all,
   286  lest heat and wind apart, and apart the power
   287  of air, should destroy sense and, drawn asunder, dissolve it.
-  288  The mind has also that heat which it takes on in anger,
+  288  The mind has also that heat which it takes on in anger[22],
   289  when it boils up and fire flashes more fiercely from the eyes;
   290  there is also much cold breath, the companion of fear,
   291  which stirs shuddering in the limbs and rouses the frame;
@@ -366,11 +413,11 @@ TRANSLATOR'S COMMENTARY
   353  he fights against even plain and true facts.
   354  For who will ever tell us what it is for the body to feel,
   355  if not what the thing itself has openly shown and taught us?
-  356  "But when the spirit is let go, the body lacks sense in every part."
+  356  "But when the spirit is let go, the body lacks sense in every part."[23]
   357  Yes, for it loses what was not its own in life,
   358  and loses much besides when it is driven out of life.
   359  Further, to say that the eyes can see nothing,
-  360  but that the mind looks out through them as through open doors,
+  360  but that the mind looks out through them as through open doors[24],
   361  is hard, since the sense of the eyes leads us the other way;
   362  for sense drags us and thrusts us to the pupils themselves,
   363  especially since often we cannot see bright things,
@@ -381,7 +428,7 @@ TRANSLATOR'S COMMENTARY
   368  then, it seems, the mind ought to see things better
   369  with the eyes taken out, the very doorposts removed.
   370  In these matters you could by no means accept
-  371  what the holy judgment of the man Democritus lays down, {{NOTE: Democritus of Abdera, the atomist whom Epicurus followed and corrected; "sancta" is respectful, not ironic}}
+  371  what the holy judgment of the man Democritus[25] lays down,
   372  that the first-beginnings of body and of mind, one by one,
   373  set side by side alternately, diversify and knit the limbs.
   374  For not only are the elements of the spirit much smaller
@@ -390,7 +437,7 @@ TRANSLATOR'S COMMENTARY
   377  through the limbs, so that you may promise this much at least:
   378  as small as are the first bodies which, falling on us,
   379  can stir sense-bearing motions in the body, so wide
-  380  are the intervals the first origins of the spirit keep. {{NOTE: "exordia prima": Lucretius's third name for the first-beginnings, "origins" per the register (2.333)}}
+  380  are the intervals the first origins of the spirit keep.
 
   381  For we do not feel at times the clinging of dust
   382  upon the body, nor chalk dashed on our limbs and settling there,
@@ -427,31 +474,31 @@ TRANSLATOR'S COMMENTARY
   413  But if that tiny part in the middle of the eye is eaten away,
   414  at once the light sets and darkness follows,
   415  though the bright orb be otherwise unharmed.
-  416  By this covenant spirit and mind are always bound.
+  416  By this covenant[26] spirit and mind are always bound.
   417  Come now, so you may know that in living creatures the minds
   418  and the light spirits are things born and mortal,
   419  verses long sought out and found with sweet labor
   420  I shall go on to set out, worthy of your life.
-  421  You, see that you yoke both of them under one name,
+  421  You, see that you yoke both of them under one name[27],
   422  and when, for example, I go on to speak of spirit,
   423  teaching that it is mortal, believe that I speak of mind as well,
   424  inasmuch as it is one thing, and a thing joined together.
   425  To begin with, since I have shown that it is fine, and made
   426  of minute bodies, and formed of beginnings much smaller
   427  than the flowing moisture of water
-  428  or mist or smoke; for in mobility it far {{NOTE: the sentence begun at 425 breaks off here (anacoluthon); its thought is taken up again at 434}}
+  428  or mist or smoke; for in mobility it far[28]
   429  excels, and moves when struck by a slighter cause;
   430  indeed it is moved even by images of smoke and mist,
   431  as when, lulled in sleep, we see altars
   432  breathe their steam on high and send up smoke;
-  433  for beyond doubt it is images that are borne to us here. {{NOTE: source prints a doubled, garbled verb ("gerunturaegerunturæ"); read "geruntur", "are borne"}}
+  433  for beyond doubt it is images that are borne to us here.
   434  Now therefore, since, when vessels are shattered on every side,
   435  you see the moisture flow out and the liquid run away,
   436  and since mist and smoke depart into the air,
   437  believe that the spirit too is scattered, and perishes far
   438  more swiftly, and is sooner dissolved into its first bodies,
   439  once it has been taken from a man's limbs and has withdrawn;
-  440  for indeed, since the body, which is as it were its vessel,
+  440  for indeed, since the body, which is as it were its vessel[29],
   441  cannot contain it when shaken apart by some cause
   442  and made rare by the drawing of blood from the veins,
   443  how could you believe it could be contained by any air,
@@ -483,11 +530,11 @@ TRANSLATOR'S COMMENTARY
   469  stand around, wet with tears on face and cheek.
   470  Therefore you must admit the mind too is dissolved,
   471  since the contagions of disease make their way into it;
-  472  for pain and disease are each of them craftsmen of death,
+  472  for pain and disease are each of them craftsmen of death[30],
   473  as we have been thoroughly taught before by the deaths of many.
-  474  And since the mind, like a sick body, is healed {{NOTE: 3.474-475 are corrupt and probably not Lucretius' own; they look like a garbled anticipation of 3.510-511 and are bracketed by editors. Translated as printed, not mended}}
+  474  And since the mind, like a sick body, is healed[31]
   475  and equally the mind is healed, the body with an empty ...
-  476  Finally, why, when the force of wine has pierced a man, {{NOTE: source prints "cor"; read "cur", "why", a question taken up again at 482}}
+  476  Finally, why[32], when the force of wine has pierced a man,
   477  fierce, and its heat has gone out, spread through the veins,
   478  a heaviness of the limbs follows, his legs are hobbled
   479  as he staggers, his tongue grows slow, his mind is sodden,
@@ -499,7 +546,7 @@ TRANSLATOR'S COMMENTARY
   485  show that, if a somewhat harsher cause worked its way in,
   486  they would perish, deprived of future life.
   487  What is more, often, suddenly compelled by the force of disease,
-  488  someone before our eyes, as if by a stroke of lightning,
+  488  someone before our eyes, as if by a stroke of lightning[33],
   489  falls down and foams at the mouth, groans and trembles in his limbs,
   490  loses his wits, stiffens his sinews, writhes, pants
   491  irregularly, and wears out his limbs with tossing,
@@ -531,7 +578,7 @@ TRANSLATOR'S COMMENTARY
   517  But neither will it let parts be shifted in it, nor added,
   518  that which is immortal, nor will it let one jot flow away;
   519  for whatever is changed and passes out of its own bounds,
-  520  this at once is the death of what it was before. {{NOTE: 3.519-520 repeat 1.670-671 (also 1.792-793, 2.753-754); rendered verbatim}}
+  520  this at once is the death of what it was before.[34]
   521  Therefore the mind, whether it sickens, gives out
   522  mortal signs, as I have shown, or whether medicine turns it.
   523  So surely does the true thing seem to meet false reasoning
@@ -565,7 +612,7 @@ TRANSLATOR'S COMMENTARY
   550  and the other senses that steer our life,
   551  and since, just as hand or eye or nostrils, set apart
   552  and severed from us, cannot feel or even be,
-  553  but yet, in such a state, are abandoned in a short time, {{NOTE: "tali" and "lincuntur" as printed; many editors read "tabe", "melt away in decay"}}
+  553  but yet, in such a state, are abandoned[35] in a short time,
   554  so the mind cannot by itself be without the body and the man
   555  himself, which seems to be a kind of vessel for it,
   556  or whatever else you would rather picture as more closely
@@ -583,7 +630,7 @@ TRANSLATOR'S COMMENTARY
   568  and their first-beginnings cannot leap apart freely
   569  across great intervals; therefore, shut in, they move
   570  with the sense-bearing motions which, outside the body,
-  571  cast out into the breezes of air after death, they cannot move,{{NOTE: the source prints "aerisaëris" here and at 3.591 ("aeraër" at 3.573), a doubled spelling of aeris / aëris; read simply as "air"}}
+  571  cast out into the breezes of air after death, they cannot move,
   572  because they are not held in by a like principle;
   573  for air would be a body, a living thing, if the spirit
   574  could hold itself together and shut itself within those motions
@@ -609,7 +656,7 @@ TRANSLATOR'S COMMENTARY
   594  and about to go, and to be loosed whole from the whole body,
   595  and the face seems to grow faint as at the final hour
   596  and all the limbs to drop, slack, from the bloodless body.
-  597  Such is the case when it is said that it has gone ill with the mind,{{NOTE: animo male factum and animam liquisse are everyday Latin for fainting; Lucretius takes the idioms at their word}}
+  597  Such is the case when it is said that it has gone ill with the mind[36],
   598  or that the spirit has failed; when now there is alarm and all
   599  long to catch hold again of the last bond of life;
   600  for then the mind and all the power of the spirit
@@ -654,7 +701,7 @@ TRANSLATOR'S COMMENTARY
   639  and cleft, will be torn asunder together with the body.
   640  But what is cut and parts into any pieces at all
   641  plainly denies that its own nature is eternal.
-  642  They tell how scythe-bearing chariots lop off limbs,
+  642  They tell how scythe-bearing chariots[37] lop off limbs,
   643  often so suddenly, hot with the mingled slaughter,
   644  that there seems to quiver on the ground the part which from the limbs
   645  has fallen, cut away, while yet the mind and the man's force,
@@ -683,7 +730,7 @@ TRANSLATOR'S COMMENTARY
   668  the body; and so both must be thought mortal,
   669  since alike they are cut apart into many pieces.
 
-  670  Further, if the nature of the spirit is immortal
+  670  Further, if the nature of the spirit is immortal[38]
   671  and works its way into the body at our birth,
   672  why can we not remember, besides, the age lived before,
   673  nor keep any traces of the things we have done?
@@ -733,7 +780,7 @@ TRANSLATOR'S COMMENTARY
   717  But if it has fled away, taken off with its parts so intact
   718  that it has left no parts of itself in the body,
   719  from where do corpses, their flesh now going rancid,
-  720  breathe out worms, and from where so great a host of living things,
+  720  breathe out worms[39], and from where so great a host of living things,
   721  boneless and bloodless, surge through the swollen frame?
   722  But if perhaps you believe that spirits work their way in from outside
   723  into worms, and can come one by one into bodies,
@@ -763,7 +810,7 @@ TRANSLATOR'S COMMENTARY
   747  the force of the mind grows equally with every body?
   748  But if it were immortal and used to change
   749  bodies, living things would have mixed characters:
-  750  the dog of Hyrcanian seed would often flee {{NOTE: Hyrcania, by the Caspian, was famous for fierce hunting dogs}}
+  750  the dog of Hyrcanian[40] seed would often flee
   751  the charge of the horned stag, and the hawk would tremble
   752  through the breezes of the air, fleeing at the coming of the dove,
   753  men would lack sense, and the wild generations of wild beasts be wise.
@@ -776,7 +823,7 @@ TRANSLATOR'S COMMENTARY
   760  But if they say that the spirits of men always pass
   761  into human bodies, still I shall ask why from wise
   762  a spirit could turn foolish, and why no boy is prudent,
-  763  if not because, fixed by its own seed and breed, {{NOTE: this line repeats 3.746 and makes no sense here; it is generally thought an intrusion, but the source prints it}}
+  763  if not because, fixed by its own seed and breed,[41]
   764  nor the mare's foal as well trained as the strong horse's force.
   765  No doubt they will take refuge in this: that in a tender body
   766  the mind grows tender. But if this happens, you must confess
@@ -819,42 +866,42 @@ TRANSLATOR'S COMMENTARY
   803  or more disjoined from each other and more discordant
   804  than that what is mortal, joined to the immortal
   805  and everlasting in union, should bear savage storms?
-  806  Further, whatever things endure eternal must, of necessity, {{NOTE: 3.806-818 recur almost word for word at 5.351-363}}
+  806  Further, whatever things endure eternal[42] must, of necessity,
   807  either, because they are of solid body, repel blows
   808  and suffer nothing to enter them that could tear apart
   809  their close-knit parts within, as the bodies of matter
-  810  are, whose nature we have shown before; {{NOTE: the solid first-beginnings, argued in 1.483-634}}
+  810  are, whose nature we have shown before;
   811  or be able to last through all time for this reason,
   812  that they are exempt from blows, as the void is,
   813  which stays untouched and is not affected one whit by a stroke;
   814  or else because there is no supply of place around them
   815  into which things could, as it were, part and be dissolved,
-  816  as the sum of sums is eternal, nor is there outside it {{NOTE: the sum of sums is the whole universe}}
+  816  as the sum of sums is eternal, nor is there outside it
   817  any place into which they might scatter, nor are there bodies that
   818  could fall upon them and dissolve them with a strong blow.
 
-  819  But if perhaps it should rather be held immortal for this reason,
+  819  But if perhaps it should rather be held immortal[43] for this reason,
   820  that it is kept fortified against things hostile to life,
   821  either because things foreign to its safety do not come at all,
   822  or because those that do come are by some means driven back
   823  and retreat before we can feel what harm they do,
        [lacuna]
-  824  for besides that it sickens along with the body's diseases, {{NOTE: text lost before 824; the reply to the hypothesis of 819-823 begins mid-thought}}
+  824  for besides that it sickens along with the body's diseases,
   825  there comes that which often torments it about things to come,
   826  keeps it wretched in fear, and wears it out with cares,
   827  and for misdeeds in the past its sins gnaw it with remorse.
   828  Add the madness proper to the mind, and its forgetfulness of things;
   829  add that it is plunged into the black waves of lethargy.
-  830  Death, therefore, is nothing to us, and concerns us not a whit, {{NOTE: Epicurus, Principal Doctrines 2, "death is nothing to us"; the thesis the rest of Book 3 draws out}}
+  830  Death, therefore, is nothing to us[44], and concerns us not a whit,
   831  since the nature of the mind is held to be mortal.
   832  And just as in time gone by we felt no distress
-  833  when the Carthaginians were coming from every side to the clash, {{NOTE: the Punic Wars with Carthage, above all Hannibal's invasion of Italy}}
+  833  when the Carthaginians[45] were coming from every side to the clash,
   834  when all things, shaken by the trembling tumult of war,
   835  shuddered and quaked beneath the high breezes of the upper air,
   836  and it stood in doubt under which side's rule all men
   837  must fall, all that is human, by land and by sea,
   838  so, when we shall not be, when the parting of body and spirit
-  839  has come about, from which we are joined and fitted into one,
+  839  has come about, from which we are joined and fitted into one[46],
   840  surely nothing at all, to us who then shall not be,
   841  will be able to happen or to move our sense,
   842  not if earth should be mingled with sea, and sea with sky.
@@ -866,13 +913,13 @@ TRANSLATOR'S COMMENTARY
   848  after death and bring it back again as it is now placed,
   849  and the lights of life should once more be given us,
   850  would even that event concern us in any way at all,
-  851  once the recollection of ourselves has been broken off. {{NOTE: repetentia, a rare word: the taking-up-again of oneself in memory, the continuity of the self}}
+  851  once the recollection of ourselves[47] has been broken off.
   852  And as it is, nothing touches us of ourselves, we who before
   853  existed, nor does anguish over those selves affect us now.
   854  For when you look back over the whole of measureless time,
   855  its past expanse, and then how manifold
   856  the motions of matter are, you could easily believe this,
-  857  that seeds have often been set in the same order as now,
+  857  that seeds have often been set in the same order[48] as now,
   858  these very seeds of which we now consist, in times before.
   859  And yet we cannot recapture this with remembering mind;
   860  for a pause of life has been thrown between, and all the motions
@@ -906,7 +953,7 @@ TRANSLATOR'S COMMENTARY
   888  For if it is an evil in death to be mauled by the jaws and bite
   889  of wild beasts, I do not find how it is not bitter
   890  to be laid on the fire and scorched in hot flames,
-  891  or to be placed in honey and stifled, and to stiffen {{NOTE: embalming in honey, a practice known in the ancient world}}
+  891  or to be placed in honey[49] and stifled, and to stiffen
   892  with cold, lying on the top surface of an icy slab,
   893  or to be pressed from above, buried under the weight of earth.
   894  'Now, now no glad home will receive you, nor your excellent
@@ -928,7 +975,7 @@ TRANSLATOR'S COMMENTARY
   910  in it, if things return to sleep and rest,
   911  that anyone should waste away in eternal grief.
   912  This too men often do, when they recline at table and hold
-  913  their cups, and shade their faces with garlands:
+  913  their cups, and shade their faces with garlands[50]:
   914  they say from the heart: 'Brief is this fruit for poor little men;
   915  soon it will have been, and never after can it be called back.'
   916  As if in death this were chief among their evils,
@@ -945,9 +992,9 @@ TRANSLATOR'S COMMENTARY
   927  if there can be less than what we see to be nothing;
   928  for a greater scattering of the throng of matter
   929  follows on death, and no one wakes and stands up again
-  930  whom once the cold pause of life has followed.
+  930  whom once the cold pause of life[51] has followed.
 
-  931  Finally, if the nature of things should suddenly find a voice {{NOTE: nature herself speaks (prosopopoeia), 3.933-949 and 3.955-962}}
+  931  Finally, if the nature of things should suddenly find a voice[52]
   932  and should herself rebuke one of us in this way:
   933  'What ails you so, mortal, that you give yourself up too far
   934  to sick grieving? Why do you groan at death and weep?
@@ -971,14 +1018,14 @@ TRANSLATOR'S COMMENTARY
   952  But if now someone older, well on in years, should complain
   953  and lament his death, poor wretch, more than is right,
   954  would she not rightly cry out louder and rebuke in a sharp voice:
-  955  'Away with your tears, you bottomless pit, and check your complaints. {{NOTE: baratre: the text is uncertain; taken as a vocative of barathrum, "pit", i.e. a glutton never filled; compare 3.966}}
+  955  'Away with your tears, you bottomless pit[53], and check your complaints.
   956  You have had all the prizes of life, and now you wither;
   957  but since you always crave what is absent and scorn what is here,
   958  your life has slipped away from you unfinished and unenjoyed,
   959  and death, unlooked for, has taken its stand at your head
   960  before you can depart full and sated with things.
   961  As it is, let go of all things that do not suit your age,
-  962  and with an even mind, come, yield to greater ones: you must.' {{NOTE: textual crux; the source reads "magnis concede necessis"; editors differ (magnis, gnatis, dignis; necessest)}}
+  962  and with an even mind, come, yield to greater ones: you must.'[54]
   963  Rightly, I think, she would plead, rightly rebuke and reproach;
   964  for the old, thrust out by the newness of things, gives way
   965  always, and one thing must be restored out of others.
@@ -987,7 +1034,7 @@ TRANSLATOR'S COMMENTARY
   968  and yet they all, their life lived through, will follow you;
   969  and so, no less than you, these have fallen before and will fall.
   970  So one thing will never cease to rise from another,
-  971  and life is given to none to own, to all to use. {{NOTE: mancipium and usus are terms of Roman property law: full ownership versus the right of use}}
+  971  and life is given to none to own, to all to use[55].
   972  Look back, again, how the age gone by of eternal time
   973  before we are born was nothing to us.
   974  This, then, is the mirror nature holds up to us of the time
@@ -995,12 +1042,12 @@ TRANSLATOR'S COMMENTARY
   976  Does anything horrible appear there, does anything seem
   977  grim? Is it not more untroubled than any sleep?
   978  And indeed whatever things are told to exist
-  979  in deep Acheron, they are all here, in our life.
-  980  No wretched Tantalus fears the great rock hanging in the air,
+  979  in deep Acheron[56], they are all here, in our life.
+  980  No wretched Tantalus[57] fears the great rock hanging in the air,
   981  as the story goes, numb with empty dread;
   982  rather, in life an empty fear of the gods oppresses
   983  mortals, and they fear the fall that chance may bring to each.
-  984  Nor do birds enter Tityos as he lies in Acheron,
+  984  Nor do birds enter Tityos[58] as he lies in Acheron,
   985  nor can they truly find anything to search for
   986  beneath his great breast through all eternity.
   987  However vast the sprawl of his body as it lies there,
@@ -1011,8 +1058,8 @@ TRANSLATOR'S COMMENTARY
   992  But Tityos is here among us: the one lying in love,
   993  whom birds tear, whom anxious anguish eats away,
   994  or cares rend through with some other craving.
-  995  Sisyphus too is here in life before our eyes,
-  996  the man who seeks from the people the rods and the savage axes, {{NOTE: the fasces and axes, insignia of Roman high office, won by election}}
+  995  Sisyphus[59] too is here in life before our eyes,
+  996  the man who seeks from the people the rods and the savage axes,
   997  thirsting for them, and always withdraws beaten and grim.
   998  For to seek power, which is empty and is never given,
   999  and always to endure hard labor for it,
@@ -1024,7 +1071,7 @@ TRANSLATOR'S COMMENTARY
  1005  as the seasons of the year do for us when they come
  1006  round again and bring their offspring and their varied charms,
  1007  and yet we are never filled with the fruits of life,
- 1008  this, I think, is what they mean by the girls in the flower of age {{NOTE: the Danaids, punished in the underworld by carrying water in leaking vessels}}
+ 1008  this, I think, is what they mean by the girls in the flower of age[60]
  1009  who, they tell, pour water into a vessel full of holes,
  1010  which yet can by no means be filled.
  1011  Cerberus, too, and the Furies, and the lack of light,
@@ -1032,7 +1079,7 @@ TRANSLATOR'S COMMENTARY
  1013  These are nowhere, and indeed cannot be;
  1014  but in life there is fear of punishment for evil deeds,
  1015  notable as the deeds are notable, and atonement for crime:
- 1016  prison, and the horrible hurling down from the rock, {{NOTE: the Tarpeian Rock in Rome, from which criminals were thrown}}
+ 1016  prison, and the horrible hurling down from the rock[61],
  1017  scourges, executioners, the dungeon, pitch, hot plates, torches;
  1018  and even if these are absent, the mind, conscious of its deeds,
  1019  fearing beforehand, applies goads and scorches itself with whips,
@@ -1041,24 +1088,24 @@ TRANSLATOR'S COMMENTARY
  1022  and fears that these same things may grow heavier in death.
  1023  Here, in the end, the life of fools becomes an Acheron.
  1024  This too you might at times say to yourself:
- 1025  'Even good Ancus has left the light with his eyes, {{NOTE: Ancus Marcius, fourth king of Rome; the line adapts Ennius}}
+ 1025  'Even good Ancus[62] has left the light with his eyes,
  1026  who was better than you, you shameless one, in many things.
  1027  Since then many other kings and lords of things
  1028  have perished, who ruled over great nations.
- 1029  He too, the very one who once laid a road across the great sea {{NOTE: Xerxes, who bridged the Hellespont in 480 BC}}
+ 1029  He too, the very one who once laid a road across the great sea[63]
  1030  and gave his legions a way to go over the deep
  1031  and taught them to cross the salt lagoons on foot
  1032  and, trampling with his horses, scorned the roar of the sea,
  1033  robbed of the light, poured out his spirit from a dying body.
- 1034  The son of the Scipios, thunderbolt of war, terror of Carthage, {{NOTE: Scipio Africanus, conqueror of Hannibal (or possibly Aemilianus, who destroyed Carthage)}}
+ 1034  The son of the Scipios[64], thunderbolt of war, terror of Carthage,
  1035  gave his bones to the earth as if he were the lowest servant.
  1036  Add the discoverers of learning and of graces,
- 1037  add the companions of the Heliconian Muses; among them Homer,
+ 1037  add the companions of the Heliconian Muses; among them Homer[65],
  1038  who alone held the scepter, sleeps in the same rest as the others.
  1039  Finally Democritus, after ripe old age
  1040  warned him that the remembering motions of his mind were slackening,
  1041  went of his own will to meet death and offered up his head.
- 1042  Epicurus himself died, the light of his life run through, {{NOTE: the only place in the poem where Epicurus is named}}
+ 1042  Epicurus[66] himself died, the light of his life run through,
  1043  he who surpassed the human race in genius and put out
  1044  all the stars, as the sun does, risen in the upper air.
  1045  And will you hesitate, and resent it, to die?
@@ -1073,20 +1120,20 @@ TRANSLATOR'S COMMENTARY
  1053  If men could, just as they plainly feel
  1054  a weight lies in the mind, wearing them out with its heaviness,
  1055  also come to know from what causes it arises, and from where
- 1056  so great a mass, as it were, of evil stands in the breast, {{NOTE: text uncertain; "tam quam" printed for Bailey's "tamquam", "as it were"}}
+ 1056  so great a mass, as it were[67], of evil stands in the breast,
  1057  they would not live their lives as now we mostly see them,
  1058  each not knowing what he wants for himself, and always seeking
  1059  to change his place, as if he could set his burden down.
  1060  Often he goes out of doors from his great house,
  1061  who is weary to death of home, and suddenly comes back,
  1062  since indeed he feels himself no better off outside.
- 1063  He races to his villa, driving his ponies headlong, {{NOTE: "mannos", small Gallic ponies, a fashionable luxury of the rich}}
+ 1063  He races to his villa, driving his ponies[68] headlong,
  1064  as if pressing on to bring help to a house on fire;
  1065  he yawns at once, the moment he has touched the villa's threshold,
  1066  or goes off heavily into sleep and looks for forgetfulness,
  1067  or even hurries back to make for the city and see it again.
  1068  So each man flees himself, yet that self, as happens, of course,
- 1069  he cannot escape; it clings against his will, and he hates it, {{NOTE: "ingratius" as printed; rendered as Bailey's "ingratis", "against his will"}}
+ 1069  he cannot escape; it clings against his will[69], and he hates it,
  1070  because, sick as he is, he does not grasp the cause of his disease;
  1071  if he saw it clearly, each man would leave his affairs behind
  1072  and study first of all to know the nature of things,
@@ -1098,7 +1145,7 @@ TRANSLATOR'S COMMENTARY
  1078  Surely a fixed end of life stands waiting for mortals,
  1079  and death cannot be avoided: we must go to meet it.
  1080  Further, we turn about in the same place and stay there always,
- 1081  and no new pleasure is hammered out by living;
+ 1081  and no new pleasure is hammered out[70] by living;
  1082  but while what we long for is absent, it seems to surpass
  1083  the rest; then, when that has come, we long for something else,
  1084  and an equal thirst for life holds us, always gaping.
@@ -1115,312 +1162,421 @@ TRANSLATOR'S COMMENTARY
 
 ------------------------------------------------------------
 
-Notes (DRAFT)
-
-[DRAFT] (3.3) Epicurus is unnamed here as at 1.66; the praise is addressed to "Graiae gentis decus" and the English keeps the periphrasis, "glory of the Greek race". The same opening (3.1-30) is a hymn to him and echoes the proem of Book 1 (1.62-79), where he is likewise "a man of Greece".
-
-[DRAFT] (3.9) "Pater" and "patria... praecepta" (3.9-10) make Epicurus a father in two senses: discoverer of things and giver of a father's teachings. "Rerum inventor" is the one who found out the nature of things, not an inventor in the modern sense.
-
-[DRAFT] (3.11-13) The bee simile (floriferis ut apes in saltibus) and the "aurea dicta" are a Lucretian image for his debt to Epicurus's writings (chartis). It is closely paralleled by 1.926-950 and by Ennian and Callimachean literary imagery. The reader should hear "golden" as the highest praise, not as ornament.
-
-[DRAFT] (3.16-17) "Moenia mundi" is "the walls of the world", the same phrase as "flammantia moenia mundi" at 1.73 and again at 5.454. In the proem Epicurus's mind breaks through them; here the walls "draw apart" before his reasoning. "Inane" is "void", per the register, and "totum... per inane" states the infinite void of Epicurean doctrine. A modern reader may hear an echo of an infinite universe, but that is the reader's association, not a claim the verse makes.
-
-[DRAFT] (3.18-22) These lines adapt Homer's picture of Olympus (Odyssey 6.42-46), where the gods' seat is neither shaken by wind nor wetted by rain nor covered with snow. The Epicurean point is the gods' undisturbed peace (divum numen sedesque quietae), which the verse takes over from the Homeric image. The same lines turn up in a similar form at 2.646-651 only in sense, not verbatim, so no verbatim echo is required.
-
-[DRAFT] (3.25) "Acherusia templa" is "the precincts of Acheron", as at 1.120; "templa" means regions, never "temples". It reappears at 3.86 in the same sense, where the fear of it drives men to betrayal.
-
-[DRAFT] (3.28-29) "Divina voluptas" and "horror" are Lucretius's own response to the vision of nature laid bare: a godlike pleasure joined with a shudder. "Voluptas" is "pleasure" as always in this register.
-
-[DRAFT] (3.31-36) "Exordia rerum" is another name for the first-beginnings (primordia), and "animi natura atque animae" announces the topic of the book. The register keeps "animus" as "mind" and "anima" as "spirit"; a reader who knows these as "soul" should not expect that word here. The sentence also signals the second task of the book, driving out the fear of Acheron (metus... Acheruntis).
-
-[DRAFT] (3.37) "Acheruntis" is Acheron, a river of the underworld, used here for the whole realm of the dead. The fear of it is the book's main target.
-
-[DRAFT] (3.42) "Tartara leti" is "the Tartarus of death", the deepest place of punishment in the underworld, used for the supposed terrors that follow death. The phrase belongs to the poet's account of popular fear and not to Epicurean doctrine.
-
-[DRAFT] (3.43-44) The two opinions that the mind is blood (sanguinis) or wind (venti) are those of rival philosophers, which Lucretius brushes aside as a boast. The "si fert ita forte voluntas" shows his scorn for the way such opinions are held.
-
-[DRAFT] (3.52) "Manibus divis" are the "divine shades", the spirits of the dead, honored with black cattle and "inferias", funeral gifts. This is a Roman custom of offerings to the dead that the exiles keep up even in misery.
-
-[DRAFT] (3.54) "Religionem" is rendered "religion", never "superstition", per the register; the plain word carries the force of the argument, as in the proem (1.63). Here it is what men turn to under pressure, which is Lucretius's point.
-
-[DRAFT] (3.58) The transmitted "amanare" is corrupt, and the translation follows the usual correction "manet res" ("what is real remains"). The sense is that under stress the mask (persona) is torn off and the real man remains. The note on the placeholder is right and may stay as the translator wrote it.
-
-[DRAFT] (3.59-64) "Avarities" and "honorum caeca cupido" are the two drivers Lucretius names, wealth and political ambition; the passage argues that both grow from the fear of death. A Roman reader would think of the civil strife of the late Republic, which the following lines (3.70-73) bring out ("sanguine civili").
-
-[DRAFT] (3.84) The text is uncertain here and the construction strained; the translation follows the source as printed. The sense is that fear of death overturns shame, friendship and "pietas", the Roman duty to family and country.
-
-[DRAFT] (3.87-90) These lines repeat 2.55-58 and recur at 6.35-38; the English must match the Book 2 rendering verbatim. The children's fear of the dark is Lucretius's own image of irrational fear, taken up again in the refrain at 3.91-93.
-
-[DRAFT] (3.91-93) This is the refrain first given at 1.146-148 and repeated at 2.59-61 and 6.39-41, with the English fixed at first occurrence. "Naturae species ratioque" is "the face and reasoning of nature", per the register.
-
-[DRAFT] (3.94) This is the first technical contrast of "animus" and "mens" in the book. "Animus" is rendered "mind" and "mens" "thought" beside it, per the register; Lucretius says he uses the two words for one and the same thing.
-
-[DRAFT] (3.97) The lacuna after this line is marked in the source; the surviving lines 98-105 give an opponent's view, so the lost line probably introduced it. The translation prints the lacuna unnumbered and supplies nothing.
-
-[DRAFT] (3.100) "Harmoniam" is the theory, held by Aristoxenus and others, that the soul is an attunement of the body, as music is of a lyre's strings. The Greeks (Grai) named it; Lucretius refutes it at 3.98-135.
-
-[DRAFT] (3.117) "Animam" is "spirit", here the vital principle spread through the limbs. The register distinguishes it from "animus" (mind), which Lucretius locates in the chest at 3.136 ff.
-
-[DRAFT] (3.121-127) "Corpora... caloris" and "venti... calidique vaporis semina" give the Epicurean doctrine that the spirit consists of fine bodies of heat and wind. The English keeps "bodies" and "seeds" as the register fixes them.
-
-[DRAFT] (3.132) "Heliconi" is Mount Helicon in Boeotia, seat of the Muses; the point is that the musicians took the word "harmony" from there, or from somewhere else. The phrase mocks the theory's pedigree.
-
-[DRAFT] (3.136) The poem here moves from the promise of the proem to the first doctrinal claim: *animus* (mind) and *anima* (spirit) are two names for parts of one composite nature, the same pairing Lucretius announced as his topic in 3.94ff. The register keeps them distinct throughout: mind is the ruling part, spirit the part spread through the body.
-
-[DRAFT] (3.139) *animum mentemque*: Lucretius treats *animus* and *mens* as names for the same ruling part, so the "and" does not add a second faculty. The translation renders *mens* as "thought" when it is paired with *animus*, as the register provides, and "mind" elsewhere. Readers who know the Latin will see both words in the line, but the doctrine has one seat, not two.
-
-[DRAFT] (3.142) *hic ergo mens animusquest*: the "therefore" is an argument from location. The seat of fear and joy is the breast, so that is where the governing part must be. The Epicurean view differs from the Platonic view that places reason in the head; the "head" of 3.138 is only a figure (*quasi*).
-
-[DRAFT] (3.144) *ad numen mentis momenque*: *numen* here is the root sense of a nod, the sign by which a command is given, not divinity. It sits beside *momen*, "impulse," in a pairing with a faintly military or monarchic tone that suits the "lord" of 3.138.
-
-[DRAFT] (3.145) *sibi solum per se sapit*: the mind can feel on its own account when the spirit and body are undisturbed. This is a compressed doctrine of the partial independence of the mind. The same mind will still be shown to depend on the body in the arguments that follow.
-
-[DRAFT] (3.161) *corpoream*: this begins the first argument that mind and spirit are bodily. For the Epicureans only body can touch and be touched (*tactus*), and only what touches can act on another thing. The argument runs from action on the body, through touch, to body. The reader who knows the void (*inane*) should also note that void cannot act or be acted on, so whatever moves the limbs must be body.
-
-[DRAFT] (3.170) *vitam*: the wound passage argues from the effects of a blow that stops short of killing. The faintness, the sinking to the earth and the uncertain wish to rise show the mind undergoing the same changes as the body. Lucretius takes them as signs that the mind itself is struck.
-
-[DRAFT] (3.186) *rutundis ... seminibus*: here the register's "seeds" (*semina*) names the atoms of the mind, and their roundness is the explanation of their mobility. The analogy that follows is of water and honey, then poppy seed against stones and ears of grain. The reader may know that Lucretius uses the same images elsewhere in the poem for the same purpose, the relation between texture and mobility.
-
-[DRAFT] (3.208) *loco se contineat parvo*: the argument from weight starts here. A man's body weighs the same just after death as just before, so what has departed has no measurable weight. The ancient claim is an observation, not an experiment, and the translation keeps it as the verse states it.
-
-[DRAFT] (3.221) *Bacchi ... flos*: "the flower of Bacchus" is the bouquet of wine, and the placeholder note on this line can be kept as it stands, with the fuller form: the wine, the perfume (*unguenti*) and the savour (*sucus*) all lose something to the senses without losing weight, which is the analogy for the departing spirit. The word *flos* was used for the bloom or best part of a thing, and the figure is Lucretius's own.
-
-[DRAFT] (3.233) *aera* ... *aër* ... *aeris*: the source file prints doubled forms (*aeraaëra*, *aeraër*, *aerisaëris*) at 233, 234, 236 and 248. These look like transcription artefacts, two spellings of one Greek loanword set side by side. The translation reads them as *aera*, *aër* and *aeris*, "air," and the Latin transcription in `latin/` should be checked before the notes are finalised.
-
-[DRAFT] (3.237) *triplex ... natura*: the three components so far are breath (*aura*), heat (*vapor*) and air (*aër*). Lucretius names a fourth in the next lines, so the count here is the first of two stages and the "threefold" is deliberately incomplete.
-
-[DRAFT] (3.242) *east omnino nominis expers*: the fourth nature is "without a name." Lucretius cannot name it because no word exists for it, and this limit anticipates the complaint about the poverty of Latin at 3.258-261. It is the finest part of the soul, the first to be moved and the one that passes motion on to heat, wind and air in turn.
-
-[DRAFT] (3.244) *elementis*: *elementa* here means the first bodies, not letters. The register keeps "elements" for both senses, and the pun on letters (1.197 and elsewhere) is not at work in this line.
-
-[DRAFT] (3.260) *patrii sermonis egestas*: the poverty of the native tongue, that is Latin as compared with Greek, is a topos Lucretius uses at 1.136-139 and 1.832. Here it explains why he cannot describe how the four natures are mingled, and he promises only a summary (*summatim*).
-
-[DRAFT] (3.262) The phrase "primordia principiorum" (primordia principiorum) is the "first-beginnings of the beginnings." Here it means the atoms that make up each of the four natures of the spirit (heat, air, wind, and the nameless fourth). Lucretius piles up two near-synonyms, and the English keeps "first-beginnings" for primordia and plain "beginnings" for principia.
-
-[DRAFT] (3.266) The comparison to smell, color, and savor in one piece of flesh (odor et quidam color et sapor) shows how several distinct qualities can belong to one body without being separable from it. The point is that the four natures of the spirit are likewise inseparable parts of a single whole.
-
-[DRAFT] (3.269) "Heat and air and the unseen power of wind" (calor atque aeraër et venti caeca potestas), together with the "mobile force," are the four natures introduced at 3.231-245. The fourth is the nameless one that supplies the first motion of sense.
-
-[DRAFT] (3.275) "Anima animae" (animae … totius ipsa proporro) means that the nameless fourth nature is to the spirit as the spirit is to the whole body. It is the innermost level of a nested hierarchy, and the same idea returns at 3.280-281. The Latin text of 3.275 is awkward and is sometimes emended, but the sense is not in doubt.
-
-[DRAFT] (3.279) The "force that has no name" (nominis expers) is the fourth nature of 3.241-245. Lucretius says elsewhere that Greek and Latin have no word for it, so he declines to name it. The translation follows him and leaves it as "this force that has no name."
-
-[DRAFT] (3.280-281) These lines repeat 3.275 in different words ("quasi totius ipsa proporrost anima"). The doctrine is stated twice, first as a claim and then as an explanation by analogy to the mind and spirit within the body.
-
-[DRAFT] (3.288) The next lines tie each of the three named natures to an emotion: heat to anger (calor … in ira), cold breath to fear (frigida … aura), and calm air to tranquillity (pacati … aeris). The same three-way scheme runs through the animal comparisons that follow. This is the poem's physiological account of temperament, and it is not a separate theory of the emotions.
-
-[DRAFT] (3.296) The lions, deer, and oxen (leonum, cervorum, boum) are the standard emotional types in this scheme. Lions are hot and quick to anger, deer are cold and timid, and oxen are placid and balanced. Lucretius uses them as exemplars for the human types that follow at 3.307-313.
-
-[DRAFT] (3.307) "Doctrina" (doctrina) is the training or philosophical education that can polish a man's character. Lucretius holds that it leaves behind the "first traces" (vestigia prima) of each one's natural makeup. This is the Epicurean middle position: education improves a person but does not remove innate temperament, and the traces are too small to prevent a life "worthy of gods" (3.322).
-
-[DRAFT] (3.317) "Nomina quot sunt figurarum" (figurarum tot nomina quot sunt principiis) says that he lacks as many names as there are shapes among the first-beginnings. The atoms differ in shape, and the shapes would account for the differences in temperament. Lucretius admits he cannot give the full explanation, which is a modest limit on what the theory can show.
-
-[DRAFT] (3.327) The comparison to frankincense (thuris glaebis) shows that a property such as smell cannot be drawn out of a thing without destroying the thing. A reader should see that the analogy is about inseparability, as at 3.266-268. Mind and spirit are bound to the body in the same way.
-
-[DRAFT] (3.337) From here to 3.349, Lucretius argues from the body's own dependence on the spirit. The body "by itself" (per se) is never born, never grows, and does not outlast death, so the two share one fate. The water comparison (umor aquae, 3.339) is an example of the opposite case, a thing that can lose heat and survive.
-
-[DRAFT] (3.350) "Quod super est" (quod super est) is the register's formula "for the rest," here introducing a new opponent. The people he answers deny that the body feels and say that the spirit alone feels. The view is that the body is a passive tool and the spirit does the sensing, and the lines that follow answer it.
-
-[DRAFT] (3.356) The line in quotation marks (at dimissa anima …) is an objection voiced by the opponent, and Lucretius answers it in the next two lines (3.357-358). It is a rare instance where the dialogue form is made explicit. The translation marks it with quotation marks.
-
-[DRAFT] (3.359) The "doors" image (foribus … reclusis, 3.360) is the target. It pictures the eyes as openings through which the mind looks out. Lucretius answers with two arguments, from dazzle (3.363-364) and from removal of the eyes (3.367-369), and he treats the idea as a mistake about how sight works.
-
-[DRAFT] (3.371) Democritus is named here with the epithet "sancta" (sancta viri sententia), which is respectful. Lucretius corrects the doctrine, not the man. The view reported is that atoms of body and of mind alternate one by one through the limbs (3.372-373), and the lines that follow argue that this cannot hold because the spirit's atoms are fewer and smaller (3.374-380).
-
-[DRAFT] (3.374) "Elementa" (elementa) here means the first-beginnings of the spirit, and the translation keeps "elements" as the register requires. Lucretius also uses it for the letters of the alphabet, and the double sense is noted at its first appearance, not here.
-
-[DRAFT] (3.380) "Exordia prima" (exordia prima) is another term for the first-beginnings, and the translation gives it a distinct rendering as "first starting-points." The point of the argument is that the intervals between the spirit's atoms are as wide as the smallest body that can stir a sense-bearing motion, so they are spread thin through the body.
-
-[DRAFT] (3.381-390) The list of things we fail to feel (dust, chalk, mist, cobweb, down, creeping insects) is an argument from the fineness of the spirit's atoms: a touch must disturb many of them before sensation arises. The sequence is in the Latin as a catalogue of ever smaller contacts, ending in the footprints of gnats (culices).
-
-[DRAFT] (3.392) The first occurrence in this segment of the register's "first-beginnings" (primordia) and of "spirit" (animai, genitive of anima), the vital principle that spreads through the limbs. Its seeds (semina) are mixed through the body, and sensation needs them to be shaken and move together (concursare coire et dissultare) across the gaps between them.
-
-[DRAFT] (3.396-398) Here the translation keeps "mind" for animus and "thought and mind" for mens animusque (398, 402), as in 1.74. The register asks for a note at the first technical contrast of mens and animus in Book 3. Lucretius treats them as one thing, the seat of thought in the chest, and opposes it to anima, the spirit spread through the body. Anima depends on it: it cannot stay in the limbs without the animus, while the animus can remain without most of the anima.
-
-[DRAFT] (3.408-415) The eye is an analogy for the animus within the body. The pupil (pupula) is the small central part on which sight depends, as the mind is the small central part on which life depends, and the surrounding "orb" (orbis) can be injured while sight remains. "Tantula pars" is the pupil as a fragment so small that its loss ends sight.
-
-[DRAFT] (3.416) "Foedere" is rendered "covenant" in keeping with the register's foedera naturae. The word is Lucretius's regular term for a binding law of nature, and here the bond is that of anima and animus.
-
-[DRAFT] (3.421-424) Lucretius asks Memmius to treat anima and animus as one thing in the argument that follows, so that proofs of the mortality of one count for the other. He says he will use either word for both, "inasmuch as" (qua tenus) they are one thing joined together.
-
-[DRAFT] (3.428) The sentence begun at 425 ("since I have shown...") breaks off at the parenthesis "nam longe mobilitate praestat", and its main clause does not arrive until "crede" at 437. The translation keeps the break (the dash) and does not repair the syntax. The Latin text is unsettled in the passage; the translation follows the source as printed.
-
-[DRAFT] (3.430-433) The "images of smoke and mist" (imaginibus fumi nebulaeque) are the simulacra, the thin films Lucretius treats at length in Book 4. They are rendered "images" per the register, and the claim is that the mind is so mobile that even such a faint stimulus moves it in dreams. The source prints a garbled verb at 433; the translation reads "geruntur".
-
-[DRAFT] (3.434-444) The vessel (vas) is the body, and the argument is by analogy: if a shattered jar lets its liquid run out, a body made rare by loss of blood cannot hold the spirit, and the air, being still rarer, can hold it even less. "Vas" echoes Greek "skēnos" (tent, body) used of the body in Epicurean and Platonic talk, and Lucretius will use the vessel image again at 3.555 and 3.792.
-
-[DRAFT] (3.445-458) The four ages (child, adult, old man) are the first of the arguments from the parallel growth and decay of body and mind. The translation keeps "mind" for mens (446, 453), though the register notes mens as non-technical here. The phrase "ut docui" (458) looks back to the argument for the mortality of the whole spirit already given.
-
-[DRAFT] (3.463-473) The disease arguments begin here, with delirium, lethargy, and the dying around whom friends stand weeping (469). "Contagia" (471) means touch or contact, not infection in the modern sense, and "leti fabricator" (472), "craftsman of death", makes disease and pain agents of death. The line 473 refers to the deaths Lucretius expects Memmius and the reader to have witnessed.
-
-[DRAFT] (3.474-475) Editors bracket 474-475 as an intrusion, and the second line is incomplete in the manuscripts ("inani" does not complete the sense). They look like a garbled anticipation of 510-511, which says the same thing in whole form.
-
-[DRAFT] (3.476-486) The drunkenness argument is by analogy, running by the principle that what can be confused can be destroyed. Lucretius reads the symptoms (heavy limbs, slow tongue, swimming eyes) as the spirit being thrown into confusion within the body by the wine. The inference at 484-486 is that anything that can be disturbed would perish if the cause were stronger.
-
-[DRAFT] (3.487-505) The fit is in the Latin a description of what is most likely epilepsy, the "sacred disease" of Greek medical writing, though Lucretius does not name it, and the simile of a lightning stroke (fulminis ictu) belongs to the popular idea that the sufferer is struck by a god. The "seeds of voice" (semina vocis, 496) are atoms of sound, understood as corporeal like everything else in the system. The waves under winds (493-494) are the simile for the spirit driven by the disease.
-
-[DRAFT] (3.510-512) These lines say again, in a whole form, what 474-475 attempt: the mind is healed like a sick body, and can be turned by medicine. The translation repeats the English of 474 where the Latin repeats it, and the phrase "mortalem vivere mentem" (512) is rendered "lives a mortal life".
-
-[DRAFT] (3.513-520) The argument: a change in what is immortal would be a change of its parts, and Lucretius holds that anything which leaves its own boundaries (suis finibus) is at once the death of what it was. The principle is repeated at 1.670-671 and 2.753-754 ("quod cumque suis mutatum finibus exit, continuo hoc mors est illius quod fuit ante"), and the translation must give the same English in each place. "Hilum" (514, 518) is a jot or whit, the smallest conceivable amount.
-
-[DRAFT] (3.523-525) Lucretius turns here to the opposing view: true reasoning meets false reasoning like an opponent in argument and cuts off its way of escape. "Ancipiti refutatu" is a two-edged refutation, one that cuts both ways.
-
-[DRAFT] (3.526-547) The dying man whose toes and nails grow livid first (528) is the last argument of this passage, and has the creeping death (gelidi vestigia leti, 530) advancing through the body. The reply at 533-539 anticipates the objection that the spirit retreats inward, and replies that the place where it gathered should then have greater sense, which no one sees. "Ut diximus ante" (538) points back to earlier argument. Line 540 onward grants the objection for the sake of argument and shows the result is the same.
-
-[DRAFT] (3.553) The Latin prints "tali" ("in parvo lincuntur tempore tali"), which the translation keeps, giving "in such a case"; several editors emend to "tabe" (decay), which would make the severed hand or eye "melt away in decay" within a short time. The sense, that a part cut off from the whole soon perishes, is the same either way.
-
-[DRAFT] (3.554) Here "animus" is "mind", and in 3.558-565 it is paired with "anima", "spirit". Lucretius treats the two as one mortal compound in the body (3.579, "coniunctast causa duobus"), so the English keeps both terms to show the pairing. His vessel image (illius quasi quod vas esse videtur) reappears at 3.440, where Epicurean doubt about body as container is stated, and is hedged here by "or whatever else you would rather picture".
-
-[DRAFT] (3.568) "First-beginnings" translates "primordia", the register's term for what a modern reader would call atoms. Here the primordia are those of the spirit, which are too closely held within the body to "leap apart" (dissultare) and so keep their sense-bearing motions.
-
-[DRAFT] (3.571) The source prints a doubled spelling ("aerisaëris", also "aeraër" at 3.573 and "aerisaëris" at 3.591); this is a spelling variant of the Latin for air (aer, genitive aeris), read simply as "air" in the English.
-
-[DRAFT] (3.573) The sense is that, if the spirit could hold together and keep its motions outside the body, the air would itself become a body and a living thing (corpus enim atque animans erit aer). Since it plainly does not, the spirit cannot keep its motions once released, because the air does not hold it in the way the body does.
-
-[DRAFT] (3.597) The idioms "animo male factum" and "animam liquisse" are ordinary Latin for fainting. Lucretius takes them at their word as evidence that the spirit can be loosened and begin to leave without a full death.
-
-[DRAFT] (3.614) The snake that sloughs its skin (vestem relinquere, ut anguis) is a familiar image of renewal. Lucretius uses it ironically: if the mind were immortal, dying would feel like shedding a garment, and the dying report no such thing.
-
-[DRAFT] (3.622) The compressed claim "usque adeo sequitur res rem" means that each kind of thing is bound to its own fitting place and conditions, as flame is not born in rivers nor cold in fire. The argument is that the mind's fixed seat (3.615-617) shows it is generated, and lives, only in this body. This is the same principle of fixed places that Lucretius uses for birth and growth elsewhere in the poem.
-
-[DRAFT] (3.628) "Acherunte" is Acheron, one of the rivers of the underworld and a name for the underworld itself, here the traditional realm where the shades wander. Lucretius argues that the shades of myth, painted and described as having eyes, ears and the rest (3.629-630), imply a body for the spirit that his doctrine denies.
-
-[DRAFT] (3.642) The "falciferos currus" are scythed chariots, war chariots with blades fixed to the axles, used by eastern armies (Seleucid and Pontic in Roman memory) rather than by Greeks or Romans. Lucretius says "memorant" (they tell), so he reports the account rather than claiming to have seen it.
-
-[DRAFT] (3.657) The sequence of the severed snake (3.657-663) is an observational argument that the spirit divides with the body. At 3.664-666 he turns it into a reductio: if each piece held a whole spirit, one living creature would have had many spirits, which is absurd, so the spirit was one and has been divided (3.667).
-
-[DRAFT] (3.670) The Latin opens the series of arguments against reincarnation (metempsychosis), which Lucretius treats here as the doctrine of Pythagoras and Ennius. He argues from lost memory, from the spirit's growth with the body, and from the species-specific character of animals. Here "spirit" renders anima, the vital principle, and "mind" renders animus; the opening phrase (natura animai) is the first use of anima in the segment.
-
-[DRAFT] (3.676) "Wanders now not far from death" (id ab leto iam longius errat): a total loss of memory is, for Lucretius, already a kind of death, since the former self no longer survives. The same point appears in 3.843-846, where continuity of memory is the criterion of identity.
-
-[DRAFT] (3.684) "As in a cage" (in cavea): the image is of a bird or animal confined. Lucretius says that if the spirit entered a finished body it would live apart from it, as a captive does, yet the body feels everywhere, so the spirit cannot be an outside tenant.
-
-[DRAFT] (3.691) The source prints a garbled word at the start of the line (aenamque/ænamque, apparently for "eaque" or "ita"). The English reads the sense as "the spirit is so knit through...". Line 694 also shows a variant spelling (asperae/asperæ) in the source, a transmission artifact with no effect on the sense.
-
-[DRAFT] (3.713) "Seeds of the spirit" (semina animai) are the atomic components of the anima in Epicurean doctrine. Lucretius argues that if some remain in the corpse the spirit was not immortal, and if none remain the worms in the corpse cannot be explained.
-
-[DRAFT] (3.719) The generation of worms in rotting corpses was ordinary ancient belief (spontaneous generation). Lucretius uses it as evidence that the dead body still contains spirit-seeds, which then make the worms; it is an argument from the science of his day, not an observation by his own method.
-
-[DRAFT] (3.722) In this passage the Latin has a clause that breaks off and a question mark (insinuari?), where one expects a verb of belief; the English supplies "believe" from the next line's credis. The phrase "one by one" renders privas, and the apparent grammatical break is generally taken to be loose syntax rather than a lost line.
-
-[DRAFT] (3.741) The inherited-character argument: each species has a fixed temperament (lion's violence, fox's cunning, deer's flight) that grows with the body from birth. Lucretius infers that the mind-force is born together with the body and shares its seed, which a migrating spirit could not explain.
-
-[DRAFT] (3.746) This refrain (certa suo quia semine seminioque / vis animi pariter crescit cum corpore quoque) recurs at 3.763, where it is generally thought to be an intrusion from here; see the note at 3.763.
-
-[DRAFT] (3.750) Hyrcania lay southeast of the Caspian Sea (Hyrcano de semine). Its dogs were proverbial for ferocity, and the point is that even a dog of the fiercest stock would, if spirits migrated, sometimes flee a stag. The English lines 750-753 follow the source's spellings (aerisaëris is a diaeresis variant and does not affect the sense).
-
-[DRAFT] (3.757) "Transposed and shift from their order" (traiciuntur... atque ordine migrant): the Epicurean point is that any change in the arrangement of the parts of a compound is a dissolution of it. A spirit that changes its body thus is no longer the same thing, and so has perished. Lines 756 repeats the formula of 3.701 (quod mutatur enim, dissolvitur, interit ergo), echoing the earlier "what seeps through is dissolved."
-
-[DRAFT] (3.763) This line repeats 3.746 and does not fit its context: the sentence has already used "if not because" (si non) and the next line (764) has no verb for it. Editors commonly treat 763 as an interpolation from 746; the translation prints it because the source does, and the translator may wish to bracket it.
-
-[DRAFT] (3.765) "Take refuge" (confugient) shows Lucretius anticipating the believer's reply: the spirit grows tender in a tender body. He answers at once (766-768) that this admits change in the spirit and so its mortality.
-
-[DRAFT] (3.781) "Covenants" (foedera) here is used ironically of an agreement among the spirits; elsewhere foedera naturae are nature's fixed laws, rendered "nature's covenants" in the register. The joke is that the spirits would need a treaty to avoid brawling.
-
-[DRAFT] (3.784) The argument from fixed place: each thing has its proper habitat (tree in earth, fish in water), and so the mind has its proper place in the body. The lines 784-787 are the first of several "natural place" arguments; "the nature of the mind" (animi natura, 788) is used for the combined anima and animus, a looseness Lucretius allows in the polemic.
-
-[DRAFT] (3.806) Lines 806-818 recur almost word for word at 5.351-363, where they argue that the world is mortal; the English should therefore repeat verbatim at Book 5 where the Latin repeats. The passage lists the three ways something can be eternal (solidity, void, absence of outside), and the soul has none of them.
-
-[DRAFT] (3.809) "Bodies of matter" (materiai corpora) are the first-beginnings in the register's sense; the cross-reference "we have shown before" points to Book 1, where the solidity of the primordia (1.483-634) was argued.
-
-[DRAFT] (3.812) "As the void is" (inanest): the void is eternal because it cannot be struck or acted upon, being nothing. Here inane is "void" in the register; the reader may know it as "vacuum."
-
-[DRAFT] (3.816) "The sum of sums" (summarum summa) is the whole universe, which is eternal because nothing lies outside it to attack it or into which it could scatter. It is a Lucretian phrase for the totality, and the register's "sum of things" (summa rerum) is the same idea.
-
-[DRAFT] (3.819-823) Lines 819-823 voice an Epicurean-style objection that the mind might be immortal because it is shielded from harm. The Latin has no explicit speaker here and the translation takes it as a hypothetical rival view ("Quod si forte… habendast"), answered from 824 on.
-
-[DRAFT] (3.824) The source prints an unnumbered lacuna after 823 (Bailey and others mark a lost line or lines), so the reply begins mid-thought at "praeter enim quam quod". The translation prints the lacuna unnumbered and does not supply the lost text; the "for" (enim) is rendered as a connective to a clause we no longer have.
-
-[DRAFT] (3.828) Here "animi" and "animai/animae" are kept apart as the register requires: "the mind" (animus) is the rational seat, "spirit" (anima) the vital principle spread through the body. This is the first place in the segment where the two appear together, at 838 and 844 in particular ("corporis atque animai", "animi natura animaeque potestas").
-
-[DRAFT] (3.830) This is the thesis of the whole second half of Book 3: "Nil igitur mors est ad nos". It echoes Epicurus's Principal Doctrine 2 and the Letter to Menoeceus, and Lucretius draws the same conclusion again at 3.926 and in the refrain at 3.972.
-
-[DRAFT] (3.832-842) Lucretius's argument from symmetry: our non-existence after death is like our non-existence during the Punic Wars, and we felt no distress then. "Poenis" (833) are the Carthaginians, and the allusion is to the Second Punic War (Hannibal in Italy, 218-201 BC), the nearest great upheaval to his own time. The echo of 3.1 ff. on the "turmoil of war" is probably intended to make the point vivid for a Roman reader, not as a topical allusion.
-
-[DRAFT] (3.839) "Uniter apti" repeats at 846 ("uniter apti"): the same phrase for the body-spirit union frames the argument at 838-846. The repetition is deliberate, and the translation renders both occurrences identically ("joined and fitted into one").
-
-[DRAFT] (3.851) The unusual "repetentia" (the taking-up-again of oneself in memory) carries the argument: even if our atoms were reassembled, a break in the continuity of memory ("interrupta semel") means the later being would not be us. This is the Epicurean criterion of identity; a modern reader may hear Locke or Parfit in it, but that is the reader's association, not the poet's.
-
-[DRAFT] (3.857) "Semina" here is the register's "seeds", the same atoms as "primordia" at 924; the translation keeps the two terms distinct ("seeds" at 857, "first-beginnings" at 924). Note that Lucretius allows that the same atoms may have been arranged as we are in the infinite past ("inmensi temporis"), which follows from the infinity of time and the finite variety of atomic shapes, not from any doctrine of recurrence.
-
-[DRAFT] (3.870) With "Proinde" Lucretius turns from argument to diagnosis, a move that continues the diatribe-style address to the fearful man. The target is the person who professes that death is annihilation yet is still distressed at the thought of his corpse's fate (rotting, burning, savaged by beasts), a contradiction Lucretius exploits at 3.876-878.
-
-[DRAFT] (3.871-872) The three fates listed here (rotting, cremation, beasts) are all burial customs or exposures of the dead, and the argument at 888-893 extends the list to embalming in honey and entombment in earth. Roman funerary practice was by cremation or inhumation; exposure to beasts was a dishonour, which is what makes it vivid.
-
-[DRAFT] (3.891) Honey was used to preserve the dead (the body of Alexander the Great was said to have been so preserved), and the placing of "in melle" completes the list of ways a corpse may be treated. The cold slab in 892 ("gelidi saxi") describes laying out the body, not a particular rite.
-
-[DRAFT] (3.894-899) The 'Iam iam non domus…' lament is a stock Roman consolatory topos (compare the funeral dirge), put in the mouths of mourners. Lucretius's reply (900-901) is that they omit the key fact: the dead man feels no longing ("desiderium") for what he has lost, which is the Epicurean claim that deprivation requires a subject to be deprived.
-
-[DRAFT] (3.912-915) The drinking-party scene is a Roman convivial commonplace (garlands at the symposium, "carpe diem" sentiment). Lucretius cites it to show that men already treat the brevity of pleasure as a grievance, whereas in death even the craving for it is absent: the "thirst" image at 917 turns the toast against itself.
-
-[DRAFT] (3.924) "Primordia" appears here in the segment for the first time. The register's "first-beginnings" is kept, and a reader who knows the term as "atoms" should see that the Latin word is the same family as "principia", "semina", and "corpora prima", all of which the register keeps distinct (here the primordia are shown to remain in the sleeping body, available to rouse it).
-
-[DRAFT] (3.930) "Frigida… vitai pausa" repeats the phrase "vitai pausa" from 860 ("inter enim iectast vitai pausa"): the "pause of life" which breaks memory in the past returns here to close the passage. The repetition ties the symmetry argument (before birth) to the argument from sleep (after death).
-
-[DRAFT] (3.931) Nature personified speaks (rerum natura ... ipsa), a rhetorical prosopopoeia that turns the argument of Book 3 into a speech of reproach, 933-949 and again 955-962. The English keeps "the nature of things" for the title phrase, so the speaker is the poem's own subject.
-
-[DRAFT] (3.936) The vessel full of holes (pertusum ... in vas) is the leaking jar of ingratitude: pleasures poured in run through unenjoyed. The image returns at 1008-1010, where Lucretius ties it to the Danaids.
-
-[DRAFT] (3.939) "With an even mind" renders aequo animo, the idiom for calm acceptance. Here animus is "mind", the thinking and feeling part, as against anima ("spirit") at 1033.
-
-[DRAFT] (3.955) The manuscripts give baratre, which editors take as a vocative of barathrum ("pit", "abyss"), an abusive term for a glutton who is never filled. The translation follows that reading. The word then plays against barathrum at 966, where the Pit is the underworld pit that no one is actually sent down to.
-
-[DRAFT] (3.962) The text is corrupt at magnis concede necessis. The English reads it as magnis concede, necessest ("yield to greater ones, it is necessary"). A popular conjecture, gnatis, would give "yield to your children", and others read dignis. The translation keeps the general sense of making room for those who come after, which 964-965 spell out.
-
-[DRAFT] (3.971) The line plays on Roman property law: mancipium is full ownership acquired by formal transfer, usus the mere right to use. Life is lent, not owned (vita mancipio nulli datur, omnibus usu). The English keeps "own" against "use" to carry the legal contrast.
-
-[DRAFT] (3.972) Nature's "mirror" (speculum) is the symmetry argument: the endless time before our birth was nothing to us, so the endless time after death will be too. Compare the Punic Wars example earlier in Book 3 (around 832-842).
-
-[DRAFT] (3.978) From here to 1023 Lucretius allegorizes the underworld torments (Acherunte profundo) as conditions of life above ground. The English keeps Acheron as a name for the whole realm of the dead, as with "the precincts of Acheron" (Acherusia templa, 1.120). The point is picked up at 1023.
-
-[DRAFT] (3.980) Tantalus is the figure in the underworld who fears a great rock hanging over him. Lucretius reads him as the living person oppressed by empty fear of the gods (divom metus inanis). The source prints a garbled aereaëre; the translation takes it as ablative aere, "in the air".
-
-[DRAFT] (3.984) Tityos was the giant whose liver, in the Odyssey and later poets, was torn by vultures as he lay stretched over nine "acres" (novem iugera). Lucretius makes the myth physically impossible (987-991) and then reapplies it to the lover, eaten by anxious anguish (992-994). The birds become the cares themselves.
-
-[DRAFT] (3.995) Sisyphus, who rolls a rock uphill only to have it roll down again, is read at 995-1002 as the political aspirant. The rock is the empty office he strives for (imperium, quod inanest), which never stays won.
-
-[DRAFT] (3.996) The fasces (rods) and secures (axes) were carried by lictors before Roman magistrates as signs of imperium. They were won by popular election, hence petere a populo. The English renders the two terms literally and leaves the reader to supply the office.
-
-[DRAFT] (3.1008) The "girls" (puellas) are the Danaids, the daughters of Danaus punished in the underworld by pouring water into a jar full of holes. They are not named in the verse. Lucretius reads them as the insatiable mind that is never satisfied, taking up the leaking vessel of 936-937 almost word for word (pertusum ... in vas).
-
-[DRAFT] (3.1016) The "hurling down from the rock" (de saxo iactus deorsum) refers to the Tarpeian Rock on the Capitoline, from which traitors and other criminals were thrown. The list that follows (carcer, verbera, carnifices, robur, pix, lammina, taedae) gives the real punishments of Rome in place of the mythical ones.
-
-[DRAFT] (3.1023) The closing line, hic Acherusia fit stultorum denique vita, answers the opening of the allegory at 978-979: the Acheron of the fools is their own life. Acherusia is the adjective used at 1.120, and the English does not use "temples" here either.
-
-[DRAFT] (3.1025) The line adapts Ennius, whose Annales have the same wording about good King Ancus (Ancus Marcius, the fourth king of Rome, remembered as a pious ruler). The sequence of examples that follows is the old consolation topos that even the best men die. Lucretius turns it into a self-address by the reader (tibi tute ... dicere).
-
-[DRAFT] (3.1029) Lucretius does not name this king, saying only ille quoque ipse; the reference is to Xerxes bridging the Hellespont in 480 BC (the road across the sea, stravit iter). The English keeps "He" unnamed, as in the Latin.
-
-[DRAFT] (3.1033) "Spirit" renders anima, the vital breath that is poured out (fudit) at death, not the animus or "mind" of 939, 1003 and 1052. Lucretius's whole argument that death is nothing depends on the anima dissolving with the body.
-
-[DRAFT] (3.1034) Scipiadas is a Greek-style patronymic for a member of the Scipio family. The singular ossa dedit points to one man, probably Africanus (conqueror of Hannibal), though Aemilianus, who destroyed Carthage in 146 BC, is a possible target of Carthaginis horror. Belli fulmen, "thunderbolt of war", is echoed by Virgil in Aeneid 6.842, as a reader's association only.
-
-[DRAFT] (3.1037) The Heliconiades are the Muses, named for Mount Helicon, their haunt in Boeotia. Homer's "sceptre" makes him the king of poets. He is the same Homer whose ghost appears to Ennius in the proem (1.124 ff.), so the figure of the great dead poet recurs.
-
-[DRAFT] (3.1039) Democritus, the earlier atomist, is said by tradition to have met his death by choice in old age. Lucretius's sponte sua leto caput obvius optulit ipse follows that tradition, in which Democritus starved himself or ended his life. The English keeps the Latin's formal, almost sacrificial wording (caput ... optulit).
-
-[DRAFT] (3.1042) Epicurus is named here, and the praise that follows (surpassing mankind in genius, putting out the stars like the risen sun) is the only extended apotheosis of him in this book. Check the placeholder's claim that this is "the only place in the poem" he is named. I recall other naming elsewhere, and the proem's "man of Greece" (1.66) is the periphrasis he is usually given.
-
-[DRAFT] (3.1053) The sentence runs 1053-1059 as a single long conditional, and the opening is the Lucretian diagnosis: men feel the weight (pondus … animo) but do not know its cause. "Mind" here is animus, in the register's fixed rendering, so the burden belongs to the governing part of the mind, not to the spirit (anima).
-
-[DRAFT] (3.1056) The Latin text is uncertain here: the manuscripts give "tam quam", and Bailey prints "tamquam" ("as it were"). The translation follows Bailey's sense, so the "mass of evil" is figurative, and keeps the two-word spelling only in the apparatus, not in the verse.
-
-[DRAFT] (3.1060) The figure from here to 1070 is a satire on restless Roman wealth: the great town house (magnis ex aedibus) and the country villa were the two settings of an aristocrat's life. Lucretius's point is that changing place (commutare locum, 1059) cannot cure a trouble the man carries within him.
-
-[DRAFT] (3.1063) "Mannos" were small, swift Gallic ponies, a fashionable luxury for the rich to drive. The detail makes the man's headlong haste (praecipitanter) look more absurd, since he is rushing to a place where he will only yawn.
-
-[DRAFT] (3.1068) The self from which the man flees (quisque se fugit) is the same one he cannot escape. This is the clearest statement of the passage's thesis: the distress comes from within and so travels with him, and its cause (morbi causam, 1070) is ignorance of the nature of things, which the next lines name. A reader may think of later talk of "restlessness" or "neurosis", but that is the reader's association, not the poet's claim.
-
-[DRAFT] (3.1069) The manuscripts read "ingratius haeret", "it clings the more unwelcomely". The translation follows Bailey's emendation "ingratis" (a standard Lucretian adverbial use, "against one's will"), which makes "ingratis haeret et odit" a plain pair of verbs; the Latin phrase is a minor crux that does not change the sense.
-
-[DRAFT] (3.1072) "Naturam … rerum" is the title phrase, here "the nature of things", rendered as the register fixes it. The passage turns on the claim that the cure for the sick man's restlessness is to study it (cognoscere), and 1073-1075 give the reason: the stakes are all of eternal time after death, not a single hour.
-
-[DRAFT] (3.1076) With "Denique" the poem passes from the restless individual to the general craving for life (vitai tanta cupido). The argument is the Epicurean one that fear of death makes men cling to life, even though life offers nothing new.
-
-[DRAFT] (3.1081) "Nec nova vivendo procuditur ulla voluptas": the verb procuditur ("is hammered out", as at a forge) pictures pleasure as something fabricated. The doctrine behind it is that prolonging life adds no new kind of pleasure, because pleasure (voluptas) is complete once pain is removed, so longer life only repeats the same round (versamur ibidem).
-
-[DRAFT] (3.1084) "Sitis … vitai semper hiantis" ("thirst for life … always gaping") joins the thirst image to the open-mouthed one. The thirst that is never filled recalls the Danaids and the other figures of insatiable desire that Lucretius takes up in the lines just before this passage.
-
-[DRAFT] (3.1087) The passage ends on the "symmetry" argument: the time of death (tempore de mortis) is eternal and cannot be shortened by living longer. The same claim is put at 3.1090-1094 with the person who died today and the one who died long ago, and is the poem's final word that every length of life ends in the same duration of nothing.
-
-[DRAFT] (3.1090) "Condere saecla" ("to complete generations") is a deliberate extreme: even if you lived out as many generations as you like, "mors aeterna" waits just the same. Here Lucretius presses the point that duration of life is irrelevant to the length of death, a claim he states earlier in the book at 3.1087-1089.
+Notes
+
+[1] (3.1-30) The proem is a hymn to Epicurus, unnamed here as at 1.66 (where
+    he is "a man of Greece"); his name appears once only in the whole poem,
+    at 1042. The lines answer the proem of Book 1 (1.62-79): there his mind
+    broke through the flaming walls of the world, here his reasoning makes
+    the walls draw apart (16-17). "Discoverer of things" (9) is rerum
+    inventor, the man who found out the nature of things, not an inventor in
+    the modern sense; the "father's precepts" (10) make him a father in
+    doctrine as well as in praise.
+
+[2] (3.18-22) The gods' seats, untouched by wind, rain and snow under a
+    cloudless sky, adapt Homer's description of Olympus (Odyssey 6.42-46).
+    The Epicurean point is their undisturbed peace (24): the gods exist but
+    take no part in the world and are not to be feared.
+
+[3] (3.25) Acherusia templa, as at 1.120; templa are regions, never temples.
+    Acheron, properly a river of the underworld, stands throughout this book
+    for the whole realm of the dead (37, 86, 628, 978, 984, 1023), and the
+    fear of it is the book's second target after the nature of the mind
+    (35-40).
+
+[4] (3.31) Exordia rerum, "the origins of things", is the third of
+    Lucretius's names for the ultimate bodies, first used at 2.333; "first
+    origins" at 380 is exordia prima. "Beginnings" at 318, 331 and 426 is
+    principia, and "first-beginnings" everywhere is primordia. A reader who
+    knows all of these as "atoms" should see that the Latin varies the word
+    where the English does.
+
+[5] (3.42) Tartarus is the deepest place of punishment in the underworld,
+    here and at 966 and 1012 a name for the terrors popularly supposed to
+    follow death. It belongs to the fears Lucretius describes, not to his
+    doctrine.
+
+[6] (3.43-44) That the mind is blood was the teaching of Empedocles, that it
+    is wind or breath went back to Anaximenes and others. Lucretius's "if so
+    their fancy happens to run" treats both as opinions worn for show, which
+    is the point of the whole passage (41-47).
+
+[7] (3.51-53) Parentare is to make the yearly offerings to dead kin, the
+    Manes or "divine shades"; black victims were slaughtered to the powers
+    below, and inferiae are gifts poured or burned at the grave. The exiles
+    keep up the Roman rites to the dead in the very misery they claimed not
+    to fear.
+
+[8] (3.58) The printed amanare is no word. The English follows the
+    correction manet res that most editors print: under stress the actor's
+    mask (persona) is torn off and the real man remains.
+
+[9] (3.59-73) Avarice and the craving for office are traced to the fear of
+    death, since poverty and contempt look like death's gate (65-67). The
+    fortunes made "from the blood of citizens" and the fear of a brother's
+    table are the civil wars and proscriptions of Lucretius's own lifetime;
+    a Roman reader would have supplied the names.
+
+[10] (3.83-84) The construction is strained and editors emend in several
+     ways; the English gives the printed text its most natural sense, that
+     the fear of death harasses shame, bursts friendship and in the end
+     counsels the overthrow of piety, pietas being the Roman duty to parents
+     and country that 85-86 then show betrayed.
+
+[11] (3.87-93) These seven lines repeat 2.55-61 verbatim (see the note
+     there) and recur a third time at 6.35-41; the last three are the
+     refrain first heard at 1.146-148. The children's fear of the dark is
+     Lucretius's own image for the fear of what cannot harm us.
+
+[12] (3.94) Animum dico, mentem quem saepe vocamus: the book's first
+     technical pairing of animus and mens. The English renders animus as
+     "mind" and mens, when it stands beside it, as "thought" (also 139, 142,
+     398, 402, 615), so that the reader sees both words; Lucretius says
+     plainly that they name one thing, the seat of counsel and governance,
+     which he will place in the breast (140). Anima, the vital part spread
+     through the limbs, is "spirit" throughout (117, 143, 398 and passim);
+     "soul" is never used.
+
+[13] (3.97) A line or more is lost after 97. What survives from 98 to 105
+     states an opponent's view in indirect speech, so the lost words
+     introduced it, something like "others hold". The English prints the gap
+     and supplies nothing.
+
+[14] (3.98-135) Harmonia, the view that the soul is no part of the body but
+     an attunement of it, as music is of a lyre's strings, is put in Plato's
+     Phaedo by Simmias and was held by Aristoxenus, Aristotle's pupil and a
+     writer on music; hence Lucretius's jibe that the word came down to the
+     musicians from Helicon (132), the mountain of the Muses. The refutation
+     runs to 135.
+
+[15] (3.144) Numen in its root sense, the nod by which a command is given,
+     not divinity; it stands beside momen, "impulse", and suits the mind as
+     "lord over the whole body" (138).
+
+[16] (3.161-176) The first proof that mind and spirit are bodily rests on
+     touch: only body can touch or be touched, and whatever moves the limbs
+     or is hurt by a weapon must therefore be body. The void, the only other
+     thing there is, can neither act nor be acted on.
+
+[17] (3.221-227) The "flower of Bacchus" is the bouquet of wine, flos being
+     the bloom or best part of a thing. Wine, perfume and savor can all go
+     out of a body without making it smaller or lighter, which is the
+     analogy for the departing spirit: nothing is lost to sight or scale
+     (213-215), so the spirit must be made of exceedingly small seeds.
+
+[18] (3.231-257) The spirit is not "simple" (simplex) but fourfold: a breath
+     or wind (aura, ventus), heat (vapor, calor), air (aer), and a fourth
+     nature that has no name. "Threefold" at 237 is a stage of the count,
+     not the whole of it. The three named natures are the ones that show in
+     anger, fear and calm (288-306); the fourth is the first to be stirred
+     and passes the motion on to the others in order (245-251).
+
+[19] (3.241-245) The fourth nature is nominis expers, "without a name", and
+     Lucretius keeps it so (279): it is finer and more mobile than anything
+     else and the first seat of sense. He calls it "the very spirit of the
+     whole spirit" (275, 280-281), that is, it stands to the spirit as the
+     spirit stands to the body, the innermost of a nested series. The want
+     of a word for it is one reason for the complaint at 260.
+
+[20] (3.260) Patrii sermonis egestas, the poverty of Latin beside Greek, is
+     the same excuse Lucretius makes at 1.139 and 1.832. He promises only a
+     summary (261) of how the four natures are mingled, and the summary
+     follows.
+
+[21] (3.262) Primordia principiorum: the first-beginnings that make up each
+     of the four natures of the spirit, which are themselves its
+     "beginnings". The English keeps both of Lucretius's words apart, as the
+     register does throughout, rather than smoothing the doubling away.
+
+[22] (3.288-322) Each of the three named natures is tied to a passion, heat
+     to anger, cold breath to fear, calm air to a tranquil mind, and then to
+     a beast: the lion, the deer, the ox (294-306). Men differ in the same
+     way, and training (doctrina, 307) polishes but does not uproot the
+     native mix. The traces it leaves are too small to keep a man from "a
+     life worthy of gods" (322), the Epicurean ideal of living like a god
+     among men (Letter to Menoeceus 135).
+
+[23] (3.356) The line is an objector's reply, which Lucretius answers in the
+     two lines that follow. The Latin has no quotation marks; the English
+     adds them here and at the other speeches in the book (894-908, 914-915,
+     933-949, 955-962, 1025-1052).
+
+[24] (3.359-369) The view that the eyes are doors or windows through which
+     the mind itself looks out was common, and Epicurus denied it.
+     Lucretius's two answers are that bright light dazzles the eyes, which
+     doors would not feel, and that if the eyes were doors the mind would
+     see better with them taken out.
+
+[25] (3.370-380) Democritus of Abdera, the atomist Epicurus followed and
+     corrected, is given the respectful "holy" (sancta), and it is the
+     doctrine that is refuted, not the man: he had the first-beginnings of
+     body and spirit alternate one for one through the limbs, and Lucretius
+     answers that those of the spirit are far fewer and smaller, so that
+     wide gaps lie between them. Democritus returns at 1039 as an example of
+     a good death.
+
+[26] (3.416) Foedus, the word for the binding laws of nature ("nature's
+     covenants" of 1.586), is used here for the bond of spirit and mind. At
+     781 it is used in jest for a treaty the spirits would have to make
+     among themselves to avoid brawling at the door of a body.
+
+[27] (3.417-424) Lucretius addresses Memmius ("worthy of your life", 420)
+     and asks that spirit and mind be yoked under one name for what follows:
+     a proof that one is mortal is to count for both. The English
+     accordingly keeps "spirit" wherever he writes anima in the proofs, even
+     where "mind" would read more naturally.
+
+[28] (3.425-433) The sentence that begins "since I have shown" (425) breaks
+     off after "smoke" and is never completed; Lucretius plunges into the
+     reason for the mind's mobility, and the thought is taken up afresh at
+     434 with "Now therefore". The English keeps the break without mending
+     it. The verb at 433 is garbled in the printed text and is read as
+     geruntur, "are borne".
+
+[29] (3.440) The body as the vessel (vas) of the spirit returns at 555 and
+     793; at 556 Lucretius himself hedges the figure, "or whatever else you
+     would rather picture as more closely joined to it". The argument from
+     the shattered jar (434-444) is that air, rarer than the body, could
+     hold the spirit even less well.
+
+[30] (3.470-473) Leti fabricator, "craftsman of death", makes pain and
+     disease agents that build death. "Contagions" (471) is contagia,
+     contact or touch, not infection in the modern sense: the diseases of
+     the body reach the mind by touching it, which again shows the mind to
+     be bodily.
+
+[31] (3.474-475) These two lines are almost certainly not Lucretius's own.
+     Editors bracket them as a garbled anticipation of 510-511, which say
+     the same thing whole, and 475 breaks off unfinished (inani, "with an
+     empty", completes nothing). The English renders them as printed and
+     marks the break.
+
+[32] (3.476-486) The printed cor, "heart", is the manuscripts' slip for cur,
+     "why", the question that 482 then repeats. The argument from
+     drunkenness runs on the principle stated at 484-486: whatever can be
+     thrown into confusion would be destroyed by a somewhat stronger cause.
+
+[33] (3.487-509) The seizure described is epilepsy, which Roman usage called
+     the comitial disease because an attack dissolved the assembly; "as if
+     by a stroke of lightning" is the popular idea that the sufferer is
+     struck from heaven, which Lucretius keeps as a figure while giving a
+     bodily cause. The "seeds of voice" (496) are the bodies of sound, as
+     everything in the system is body; Book 4 treats them at length.
+
+[34] (3.519-520) These two lines repeat 1.670-671 (see the note there),
+     1.792- 793 and 2.753-754, Lucretius's formula that change is death:
+     whatever passes out of its own bounds is no longer what it was. The
+     English is the same in all four places.
+
+[35] (3.553) The printed tali, "in such a state", is kept; many editors read
+     tabe, so that the severed hand or eye "melts away in decay" within a
+     short time. The sense, that a part cut from the whole soon perishes, is
+     the same either way.
+
+[36] (3.597-598) Animo male factum, "it has gone ill with the mind", and
+     animam liquisse, "the spirit has failed", are everyday Latin for
+     fainting. Lucretius takes the idioms at their word: if the spirit can
+     be loosened and begin to go while a man still lives, a slightly heavier
+     cause would end it.
+
+[37] (3.642-656) Chariots with blades fixed to the axles were an eastern
+     weapon, used by the Persians and by the Seleucid and Pontic kings
+     against Rome in the generations before Lucretius; "they tell"
+     (memorant) shows he reports soldiers' stories rather than what he saw.
+     The severed limbs that go on quivering and the head whose eyes stay
+     open are the proof that the spirit is divided with the body (667-669).
+
+[38] (3.670-783) From here to 783 Lucretius argues against the passage of
+     spirits from one body to another, the doctrine of Pythagoras and of
+     Ennius, whose dream of Homer he had cited at 1.117-126. The proofs are
+     from lost memory (670-678), from the spirit's growth with the body
+     (679-712), from worms in corpses (713-740), from the fixed characters
+     of animals (741- 775) and from the absurdity of spirits queueing at
+     conception (776-783).
+
+[39] (3.713-740) That worms are born in rotting flesh was the belief of
+     ancient natural science, and Lucretius accepts it (as at 2.871-873). He
+     turns it against the believers in immortality: if the spirit left no
+     seeds behind, where do the worms come from, and if spirits enter the
+     worms from outside, why should thousands gather where one departed?
+
+[40] (3.750) Hyrcania, on the south-east shore of the Caspian, bred hunting
+     dogs proverbial for ferocity. Even such a dog, if spirits changed
+     bodies, might now and then flee a stag.
+
+[41] (3.763) This line repeats 746 exactly, and makes no sense where it
+     stands: the sentence has already been given its "if not because", and
+     764 has no verb for it. Editors generally hold that a copyist's eye
+     strayed back to 746; the English prints the repeated line because the
+     printed text does.
+
+[42] (3.806-818) The three ways a thing can be eternal: by solidity, like
+     the first-beginnings, "whose nature we have shown before" (1.483-634);
+     by being exempt from blows, like the void, which nothing can strike; or
+     by having nowhere outside itself to scatter into, like "the sum of
+     sums", the universe. The spirit has none of the three. The thirteen
+     lines recur word for word at 5.351-363, there to prove the world
+     mortal, and the English is the same in both places.
+
+[43] (3.819-829) A last hypothesis, that the spirit might be immortal
+     because nothing hostile ever reaches it, is stated at 819-823 and
+     answered from 824, but the printed text marks a gap after 823 and the
+     answer begins in the middle of its first sentence ("for besides that").
+     The English prints the gap and does not supply the lost words.
+
+[44] (3.830) Nil igitur mors est ad nos: the second of Epicurus's Principal
+     Doctrines, "death is nothing to us", expanded in the Letter to
+     Menoeceus 124-125. It is the thesis of the rest of the book, drawn out
+     through the symmetry of past and future time (832-842, 972-977), the
+     speech of nature (931-962) and the catalogue of the dead (1024-1052).
+
+[45] (3.832-837) Poeni are the Carthaginians, and the war that made all men
+     doubt under whose rule the world would fall is the Second Punic War,
+     when Hannibal was in Italy (218-201 BC), the nearest thing to the end
+     of the world a Roman could remember. We felt nothing of it, not having
+     existed; so after death.
+
+[46] (3.839) Uniter apti, Lucretius's phrase for the single thing that body
+     and spirit make together, recurs at 846 and is rendered identically.
+
+[47] (3.847-861) Repetentia, a word found only here, is the taking-up-again
+     of oneself in memory. Even if time reassembled our matter in the same
+     order, the new man would not be us, since the chain of memory was
+     broken; a total loss of memory was already called a kind of death at
+     674-678. A modern reader may hear later debates about personal identity
+     in this; that is the reader's association, not the poet's claim.
+
+[48] (3.854-861) Given endless past time and endlessly moving matter, the
+     same seeds have probably stood in this same order before; the thought
+     follows from the infinity of time and the finite number of shapes
+     (2.478-521), not from any doctrine of recurrence, and Lucretius draws
+     from it only that such former selves are nothing to us.
+
+[49] (3.888-893) Honey was used to preserve the dead; the body of Alexander
+     was said to have been laid in it. The cold slab (892) is the laying-out
+     of a corpse. Rotting, burning, exposure to beasts, embalming and burial
+     are set side by side so that the man who dreads one and chooses another
+     may see that he is imagining himself still there to feel.
+
+[50] (3.912-918) Garlands and cups are the furniture of the Roman dinner-
+     party, and "brief is this fruit" its usual sigh. Lucretius turns the
+     toast against itself: the drinkers treat the shortness of pleasure as
+     if thirst or longing would outlast them, when in death there is no one
+     left to thirst (919-922).
+
+[51] (3.930) Vitai pausa, "the pause of life", repeats 860, where it names
+     the break in memory between any former self and this one; here it is
+     death itself, and the English keeps the phrase.
+
+[52] (3.931-962) Nature herself speaks, first to anyone who grieves
+     (933-949), then more sharply to an old man who has had his fill
+     (955-962). The device is Lucretius's own addition to the Epicurean
+     consolation; the guest who leaves the table sated (938) is its best-
+     known image.
+
+[53] (3.955) The printed baratre has not been satisfactorily explained; it
+     is taken, as most editors take it, as a vocative of barathrum, "pit",
+     abuse for a glutton who can never be filled. The word is then played
+     against barathrum at 966, the Pit of the underworld into which no one
+     is in fact sent down.
+
+[54] (3.962) Magnis concede necessis: the last word is unexplained and the
+     line is a crux. The English reads it as "yield to greater ones, you
+     must", with necessis for necesse est; others emend magnis to gnatis
+     ("to your children") or dignis ("to the worthier"). Lines 964-965 give
+     the sense in any case: the old must make room for the new.
+
+[55] (3.971) Mancipium and usus are terms of Roman property law, outright
+     ownership acquired by formal transfer and the mere right to use
+     another's thing. Life is lent, not owned, and the English keeps the
+     contrast of "own" and "use".
+
+[56] (3.978-1023) The torments of the underworld are now read as the
+     passions of living men: Tantalus is fear of the gods, Tityos love,
+     Sisyphus ambition, the Danaids insatiable desire, and the dungeons of
+     Tartarus the Roman prison and scourge. The method, taking the myths as
+     misplaced pictures of this life, closes at 1023: "the life of fools
+     becomes an Acheron."
+
+[57] (3.980-983) In the version Lucretius uses, Tantalus sits under a great
+     rock that threatens always to fall (so Pindar); Homer has him parched
+     beside water he cannot drink. The hanging rock becomes the empty fear
+     of the gods and of what chance may bring.
+
+[58] (3.984-994) Tityos, who assaulted Leto, lies stretched over nine iugera
+     (roughly six acres, "nine acres" in the English) while vultures tear at
+     his liver (Odyssey 11.576-581). Lucretius first shows the punishment
+     impossible, since no body could feed the birds for ever, and then finds
+     the real Tityos in the lover eaten by anguish.
+
+[59] (3.995-1002) Sisyphus, who rolls his stone up the hill only to see it
+     roll back (Odyssey 11.593-600), is the candidate for office. The "rods
+     and savage axes" (996) are the fasces and axes carried before Roman
+     magistrates as the signs of their power, won by canvassing the people;
+     the stone is power itself, "which is empty and is never given" (998).
+
+[60] (3.1003-1010) The unnamed girls who pour water into a leaking jar are
+     the Danaids, the daughters of Danaus, so punished in the underworld.
+     Lucretius makes them the mind that is fed every season and never
+     filled, and the "vessel full of holes" repeats nature's own words at
+     936.
+
+[61] (3.1014-1017) The real punishments of Rome, set against the fabled
+     ones: prison, the hurling of criminals from the Tarpeian Rock on the
+     Capitol, the scourge, the executioners, the robur (the deep cell of the
+     state prison), pitch, red-hot plates and torches, the last three
+     instruments of torture. A guilty man's fear of these, and of worse
+     after death, is the only hell there is (1018-1023).
+
+[62] (3.1024-1052) The catalogue of the great dead is an old form of
+     consolation; here the reader is told to recite it to himself. The first
+     line adapts Ennius, whose Annals had "good Ancus" leave the light with
+     his eyes: Ancus Marcius was the fourth king of Rome, remembered as a
+     just and pious ruler.
+
+[63] (3.1029-1033) Xerxes, unnamed as in the Latin, bridged the Hellespont
+     with boats in 480 BC to carry his army into Greece. "Scorned the roar
+     of the sea" recalls the story that he had the strait whipped when a
+     storm broke his first bridge.
+
+[64] (3.1034-1035) Scipiadas, a Greek-style patronymic, is a Scipio, most
+     likely Africanus, who defeated Hannibal at Zama in 202 BC; some take it
+     of Aemilianus, who destroyed Carthage in 146. "Thunderbolt of war" was
+     taken over by Virgil, who calls the two Scipios "twin thunderbolts of
+     war" (Aeneid 6.842-843). Famul for famulus, "servant", is an old form
+     Lucretius preserves.
+
+[65] (3.1036-1041) The Muses are called Heliconian from Mount Helicon in
+     Boeotia. Homer, who "alone held the scepter" among poets, is the same
+     Homer whose ghost appeared to Ennius (1.124-126). Democritus, by the
+     tradition Lucretius follows, starved himself to death at a great age
+     when he felt his memory failing; "offered up his head" keeps the
+     Latin's almost sacrificial wording.
+
+[66] (3.1042-1044) The one place in the whole poem where Epicurus is named;
+     elsewhere he is "a man of Greece" (1.66), "glory of the Greek race"
+     (3.3), "the man" or "he". The sun that rises and puts out the stars is
+     Lucretius's highest figure for him, and it closes the catalogue of the
+     dead with the death that matters most.
+
+[67] (3.1056) The printed tam quam is read as tamquam, "as it were", with
+     Bailey, so that the "mass of evil" is a figure for the weight men feel
+     in the mind without knowing its cause.
+
+[68] (3.1060-1067) The man who cannot rest shuttles between his great town
+     house and his country villa, driving manni, the small swift Gallic
+     ponies that were a fashionable luxury. The haste of a man racing to put
+     out a fire, only to yawn on arrival, is the satire's point: the trouble
+     travels with him.
+
+[69] (3.1069) The printed ingratius, "the more unwelcomely", is read as
+     ingratis, "against his will", with Bailey; the man clings to the self
+     he hates because he does not know the cause of his sickness, which the
+     next lines name as ignorance of the nature of things.
+
+[70] (3.1080-1084) Procuditur, "is hammered out" as at a forge, pictures a
+     new pleasure as something that would have to be made; none is. Behind
+     the line is Epicurus's teaching that pleasure is complete once pain is
+     removed and cannot be increased, only varied (Principal Doctrines 3 and
+     18), so that a longer life repeats the same round, and the thirst for
+     it is never satisfied.
