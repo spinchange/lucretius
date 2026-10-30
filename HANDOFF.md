@@ -2,7 +2,7 @@
 
 Written 2026-10-30 at the end of the session that drafted Books 2-6 and
 reviewed Book 1; updated the same day after the Book 2 review, the Book 1
-audiobook build, and the Book 3 review. Read this, `README.md` and `translation/CONVENTIONS.md`
+audiobook build, the Book 3 review, and the Book 4 review. Read this, `README.md` and `translation/CONVENTIONS.md`
 before touching anything. The manifest (`segments/manifest.json`) is the
 source of truth for what has been done to each segment.
 
@@ -13,8 +13,8 @@ source of truth for what has been done to each segment.
 | translate (Opus) | 58/58 | every segment passes `check_segment` |
 | fidelity (Sonnet) | 58/58 | findings tables in `segments/bNN/sKK.fidelity.txt` |
 | annotate (Sonnet) | 58/58 | draft notes, all marked DRAFT |
-| review (translator, Fable) | Books 1-3 (26/26) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines, Book 3: 89 lines patched |
-| assemble | all six books | `translation/book_0N.txt`; Books 1-3 from review text |
+| review (translator, Fable) | Books 1-4 (36/36) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines, Book 3: 89, Book 4: 92 lines patched |
+| assemble | all six books | `translation/book_0N.txt`; Books 1-4 from review text |
 | notes | none final | 302 `{{NOTE: ...}}` placeholders across the books |
 | margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
 | audiobook | Book 1 built | `audiobook-build-book01/books/book-01-full.wav` and `-review.m4a` (untracked) |
@@ -133,25 +133,65 @@ the Perseus text prints doubled forms where the TEI marks a diaeresis
 "coercenscoërcens", 3.433 "gerunturaegeruntur"). The English reads the
 plain word in each case; the Latin files have not been touched.
 
-## Starting Book 4 (next session)
+## Book 4 review (done 2026-10-30)
+
+Book 4 is ten segments, b04s00 to b04s09 (4.1-1287), not twelve as an
+earlier version of this file said. 92 lines patched; reasons are `#`
+comments in the patch files. Sonnet's five findings all accepted (4.127-128
+cassa sensu = void of sense; 4.579 the hills repeated the sayings as they
+returned; 4.1190 animus = mind; 4.1266 the seeds take their places; and the
+4.35 register point). Secondaries: 4.219 (aestus = surge), 4.471 (the case,
+not "my case") and 4.1088 (totum adverbial) accepted; 4.412 (many thousands
+of lands, with Bailey, Munro and Rouse) and 4.591 (loca is the object of
+tenere, the neighbors the subject of putentur) rejected. Errors found on the
+full read: 4.1215-1216, where mutuus ardor is the subject and semina the
+object of conflixit (Opus had the seeds dashing); 4.511 omnis with copia;
+4.879 insuerit. Register: principia = beginnings enforced at 4.667, 4.699,
+4.943; exordia = origins at 4.26 and 4.114; particulae = small part / tiny
+parts at 4.261 and 4.776 ("particles" barred); nervi = sinews at 4.1043 and
+4.1115; pari ratione = on a like principle at 4.395. Refrains: 4.1-23 taken
+verbatim from the Book 1 review text, 4.26-28 from Book 3, 4.207 from Book
+2; the eight repeats inside Book 4 are verbatim (list in CONVENTIONS under
+"Refrains fixed in Book 4"). The two 20-syllable outliers (4.535, 4.1246)
+and about thirty 17-19-syllable lines were brought into the band; every
+Book 4 segment is now at 90% or better. Only b06s03 still fails the check.
+The obscene passage (4.1030-1287) was read in full; the Opus draft already
+kept the plain register and nothing there needed more than the fixes above.
+
+Source-text artifacts seen in `latin/` for Book 4, for the OCT collation:
+doubled diaeresis forms at 4.136, 4.187, 4.198, 4.247, 4.251, 4.274-275,
+4.277, 4.281, 4.286, 4.291, 4.303, 4.327, 4.338, 4.340, 4.342, 4.345,
+4.349, 4.358, 4.359, 4.366, 4.369, 4.558, 4.619, 4.647, 4.657, 4.693, 4.736,
+4.846, 4.892, 4.933, 4.937, 4.954; "corum" for eorum at 4.116; "ainesse"
+at 4.823 (the vehementer inesse crux). The English reads the plain word.
+
+## Starting Book 5 (next session)
 
 1. Open the repo, check `git log`, run `python tools/check_segment.py --all`
    (exit 1 is expected until the review reaches b06s03) and
-   `python tools/refrains.py 4 --earlier`.
-2. Book 4 is segments b04s00 to b04s11 (4.1-1287). Read the fidelity files
-   first; weigh every finding and secondary.
-3. Refrains: 4.1-25 = 1.926-950 (take the Book 1 review text verbatim);
-   4.26 exordia = origins; 4.207 = 2.163. Run the refrains tool for the rest.
-4. Register points in Book 4: simulacra = images throughout (never "idols",
-   "films" only in a note); the obscenity policy in CONVENTIONS for
-   4.1030-1287 (plain, neither coy nor coarse beyond the Latin). Sweep
-   principia = beginnings and exordia = origins with a script as before.
-5. Patch, `python tools/review.py b04sKK segments/b04/sKK.patch.tsv`,
-   `python tools/assemble.py 4`, commit with the usual identity (user.name
+   `python tools/refrains.py 5 --earlier`.
+2. Book 5 is twelve segments, b05s00 to b05s11 (5.1-1457). Read the fidelity
+   files first; weigh every finding and secondary.
+3. Refrains to take from earlier review text: 5.196-197 = 2.178-179;
+   5.224 and 5.781 "the shining shores of light"; 5.234 natura daedala rerum
+   = "nature, artificer of things"; 5.351-363 = 3.806-818 (take the Book 3
+   text where identical); 5.430-431 = 2.1062-1063; 5.441 = 2.726; 5.882 =
+   4.53; 5.1385 = 4.585. Run the refrains tool for the rest.
+4. Register points in Book 5: no scientific anachronism in the cosmogony
+   and the history of civilization (no "evolution", no "atoms"); mundus =
+   world; sweep principia = beginnings and exordia = origins (5.430) with the
+   script as before; check "particles", "nerves", "soul", "superstition".
+5. Patch, `python tools/review.py b05sKK segments/b05/sKK.patch.tsv`,
+   `python tools/assemble.py 5`, commit with the usual identity (user.name
    spinchange, user.email spinchange@users.noreply.github.com,
    core.safecrlf=false), message ending with the Claude co-author line.
 6. Update `translation/CONVENTIONS.md` with any new fixed terms and the table
    at the top of this file.
+
+Uncommitted at the end of the Book 4 session, from the audiobook thread and
+not part of the review: `audiobook/production-onyx.json`,
+`tools/build_audiobook.py` (modified) and `audiobook-source/book_02.txt`
+(new). Left for the user to commit with the Book 2 audiobook build.
 
 ## After the reviews
 

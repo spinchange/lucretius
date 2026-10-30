@@ -106,6 +106,11 @@ every book unless explicitly revisited. Modelled on the Iliad project's
 | particulae | tiny parts, small pieces | 3.665 | 3.708; "particles" is barred along with corpora |
 | sensifer | sense-bearing | 3.245 | sensiferos motus, 3.272, 3.570, 3.924 |
 | memores motus (mentis) | the remembering motions | 3.1040 | memory as motion; not "mindful" |
+| membranae | films | 4.32 | the skins the images are likened to (4.40, 4.59, 4.95); "films" is kept for this word only, never for simulacra |
+| effigiae | effigies | 4.51 | 4.85, 4.105; a fourth name for the images, kept distinct |
+| nervi | sinews | 4.536 | 4.1043, 4.1115; never "nerves" |
+| pari / consimili ratione | on a like principle | 4.191, 4.395 | consimili causa (4.233) = "by a like cause"; adsimili ratione (4.425) "in the same way" |
+| quod superest | for the rest | 4.195 | also where it opens a clause mid-argument (4.595, 4.768, 4.1283) |
 
 ## Policy
 
@@ -162,6 +167,22 @@ every book unless explicitly revisited. Modelled on the Iliad project's
     Latin's breaks; 3.428 and 3.481 were changed).
   - mens beside animus = "thought" (3.94, 3.139, 3.142, 3.398, 3.402, 3.615);
     mens alone, including instrumental mente, = "mind" (3.240).
+- **Refrains fixed in Book 4** (review of 2026-10-30):
+  - 4.1-23 = 1.926-948 verbatim (4.11 "for just as physicians" for nam; 4.24-25
+    differ in the Latin and keep their own English); 4.26-28 = 3.31-33 ("But
+    since" for Sed quoniam); 4.207 = 2.163 verbatim, 4.208 parallel to 2.164
+    ("the sun's lights" for lumina, where 2.164 has fulgura).
+  - Inside Book 4: 4.30-31 = 4.36-37; 4.65 = 4.102; 4.165 = 4.725; 4.180-182 =
+    4.909-911; 4.772 = 4.801; 4.774 = 4.799; 4.804 = 4.808; 4.992-995 =
+    4.1000-1003. All verbatim.
+  - For Books 5 and 6: 4.53 recurs at 5.882, 4.171 at 6.252, 4.217-229 at
+    6.923-935, 4.585 at 5.1385. Take the Book 4 review text where the Latin
+    is identical.
+  - principia = beginnings enforced at 4.667, 4.699, 4.943; exordia = origins
+    at 4.26 and 4.114; "ordia prima" (4.35, tmesis) = first-beginnings.
+  - particulae (4.261, 4.776) = small part, tiny parts; "particles" barred.
+  - The lovers' Greek pet names (4.1160-1169) are rendered in English inside
+    quotation marks, with one note.
 - **Scientific anachronism**: never import a modern term the Latin does not
   have (no "atom" for primordia, no "molecule", no "evolution"). The notes
   may say where a modern reader will hear an anticipation; the verse may
