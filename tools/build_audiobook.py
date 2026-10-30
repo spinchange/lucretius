@@ -146,7 +146,8 @@ def parse_translation(path: Path) -> list[Unit]:
             units.append(Unit(tuple(current), paragraph=len(units)))
             current = []
 
-    for raw in path.read_text(encoding="utf-8").splitlines():
+    raw_lines = path.read_text(encoding="utf-8").splitlines()
+    for index, raw in enumerate(raw_lines):
         match = VERSE_RE.match(raw)
         if not match:
             if current and not raw.strip():
@@ -156,7 +157,22 @@ def parse_translation(path: Path) -> list[Unit]:
         number = int(match.group(1))
         text = NOTE_MARK_RE.sub("", match.group(2)).strip()
         text = re.sub(r"\s+", " ", text)
-        if previous_number is not None and not (previous_number - 4 <= number <= previous_number + 4):
+        in_band = previous_number is None or (
+            previous_number - 4 <= number <= previous_number + 4
+        )
+        if not in_band:
+            # A single transposed line (Bailey prints 2.680 after 2.659) is
+            # kept in sequence when the numbering resumes right after it;
+            # only a real gap in the text starts a new section.
+            following = next(
+                (VERSE_RE.match(r) for r in raw_lines[index + 1:] if VERSE_RE.match(r)),
+                None,
+            )
+            if following is not None and previous_number is not None:
+                next_number = int(following.group(1))
+                if previous_number - 4 <= next_number <= previous_number + 4:
+                    current.append(Verse(number, text, section))
+                    continue
             flush()
             section += 1
         current.append(Verse(number, text, section))
