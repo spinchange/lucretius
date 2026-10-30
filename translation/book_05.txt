@@ -1,10 +1,68 @@
 BOOK 5
 
-[argument: one sentence, to be written]
+Epicurus, a god for what he found, set above Ceres, Liber and Hercules; the
+world was born and will die, since earth, sea, air and the fires of heaven
+are all spent and renewed, and no song reaches back beyond Thebes and Troy;
+how the world gathered itself out of the storm of first-beginnings; the
+motions of the stars, the size of the sun and moon, the sun's turnings, the
+moon's light and the eclipses, each with several causes left open; the young
+earth bearing plants, then animals and men, the monsters that failed and the
+kinds that lasted, and why Centaurs never were; the hard life of the first
+men; huts, fire, marriage and the first compacts; the natural origin of
+speech; kings, gold, law and the fear of punishment; religion born of dreams
+and of the sky; metals, war and its beasts, weaving, farming, song, and the
+arts drawn out little by little to the shores of light.
 
 TRANSLATOR'S COMMENTARY
 
-[to be written]
+The text followed is the printed Perseus text, as in Books 1 to 4. One gap
+is marked and left unfilled, after 1012, so that "were known" at 1013 has
+lost its subject. Three lines are corrupt beyond repair and are rendered for
+their probable sense, 312, 679 and 839. At 53 the English follows the
+printed words rather than the correction most editors make, and the note
+gives the alternative; at 521 it follows the reading that connects the
+phrase with the god Summanus; at 1319 it follows the correction every editor
+makes. Three lines are stray repetitions, 574 of 571, 596 of 584 and 771 of
+764, 1327 and 1328 are two drafts of one line, and 1341-1349 are suspected
+of being a later addition; all are rendered as printed, so that the files
+stay aligned line for line, with a note at each. As in Books 3 and 4 the
+transcription doubles a word wherever the original marked a diaeresis, so
+that "air" appears as aeraaëra, aeraër and aerisaëris at some thirty places,
+and suesse (912), tuta (859, printed tutaTA), coegit (1354) and poetae
+(1444) are doubled or garbled in the same way; these are artifacts of the
+copy, read as the single word without notice.
+
+The register is that of the earlier books. Primordia are "first-beginnings"
+and principia "beginnings" (184, 440); elementa is "elements" both for the
+finer bodies of 456 and 599 and for the letters of the alphabet at 1445;
+templa are "precincts", of the mind at 103, of heaven at 521 and 1204, of
+the nymphs at 948 and of the whole turning sky at 1436; foedera are
+"covenants", nature's at 310 and 924 and the first men's own at 1025 and
+1155. Simulacra at 75 and 308 are statues of the gods, and "images" is kept
+so that the word stays one word across the poem. Venus is left as a name for
+the goddess and for desire alike (897, 962, 1017). Ratio is "reasoning"
+where it means thought or doctrine and "principle" where it means the manner
+in which a thing comes about; at 1006 alone, where it means the skill of
+seafaring, it is "craft". Daedala, "artificer" when Lucretius applies it to
+nature (234, as at 1.7), is "artful" at 1451, where it describes the statues
+and not their maker. Luminis oras at 224, 781, 1389 and 1455 is "the shores
+of light" without "shining", since the Latin lacks dias; the full refrain is
+reserved for the lines that have it. Animus and anima are "mind" and
+"spirit", as in Book 3.
+
+Lucretius repeats himself more in this book than in any other, and the
+English repeats itself wherever the Latin does. Lines 82-90 recur at
+6.62-70, and 88-90 are 1.75-77 (and 1.594-596); 128-141 rework 3.784-797;
+351-363 are 3.806-818; 419-421 are 1.1021-1023; 187-194 recur at 422-431;
+1388-1389 return at 1454-1455 with one verb changed; and 1392-1396 rework
+2.29-33, shifting from the present and "we" to the past and "they". Where
+the Latin varies a word, the English varies with it, and the notes say
+where. The book also shows most fully the Epicurean method of several
+causes, under which any explanation consistent with what is seen is kept
+open for what cannot be seen at first hand; the sections on the stars, the
+sun's turnings, the moon's light, the eclipses, the first fire and the
+discovery of metals each set out alternatives without choosing, and 526-533
+state the rule.
 
 ------------------------------------------------------------
 
@@ -15,13 +73,13 @@ TRANSLATOR'S COMMENTARY
     5  brought forth and sought out by his own heart?
     6  No one, I think, who is made of a mortal body.
     7  For if we must speak as the known majesty of things
-    8  itself demands, he was a god, a god, renowned Memmius, {{NOTE: Epicurus, again unnamed (cf. 1.66); the deification is deliberate and is defended at 5.49-54}}
+    8  itself demands, he was a god, a god[1], renowned Memmius,
     9  who first discovered that reasoning of life which
    10  is now called wisdom, and who by his art
    11  took life out of such great waves and such great darkness
    12  and set it in so calm a place and in so clear a light.
    13  For compare the godlike discoveries of others long ago.
-   14  For Ceres is said to have established grain, and Liber
+   14  For Ceres is said to have established grain, and Liber[2]
    15  for mortals the liquid of the vine-born juice;
    16  and yet life could go on without these things,
    17  as report says some nations live even now.
@@ -29,11 +87,11 @@ TRANSLATOR'S COMMENTARY
    19  so with all the more right this man seems to us a god,
    20  from whom even now, spread abroad through great nations,
    21  the sweet consolations of life soothe our minds.
-   22  But if you think the deeds of Hercules stand above his,
+   22  But if you think the deeds of Hercules[3] stand above his,
    23  you will be carried much farther from true reasoning.
    24  For what harm to us now would that great gaping mouth
    25  of the Nemean lion do, or the bristling Arcadian boar?
-   26  And how much could they hinder us, the birds that haunt Stymphalus? {{NOTE: the Labors of Hercules follow: the Nemean lion, the Erymanthian boar, the Stymphalian birds, the Cretan bull, the Lernaean hydra, Geryon, the mares of Diomedes, the serpent of the Hesperides}}
+   26  And how much could they hinder us, the birds that haunt Stymphalus?
    27  Finally, what could the bull of Crete do, or the plague of Lerna,
    28  the hydra, palisaded round with venomous snakes?
    29  Or what the triple-breasted strength of three-bodied Geryon,
@@ -60,7 +118,7 @@ TRANSLATOR'S COMMENTARY
    50  driven them out with words, not arms, will it not be fitting
    51  that this man be deemed worthy of a place among the gods?
    52  Especially since he was used to give, well and divinely,
-   53  many sayings from the gods to mortals themselves {{NOTE: the source prints "iam mortalibus e divis"; other editors read "immortalibu' de divis", "about the immortal gods themselves"}}
+   53  many sayings from the gods to mortals themselves[4]
    54  and to lay open in his words the whole nature of things.
    55  Treading in his footsteps, while I follow out his reasonings
    56  and teach in my words by what covenant all things
@@ -82,14 +140,14 @@ TRANSLATOR'S COMMENTARY
    72  began to make use, among themselves, of the names of things;
    73  and in what ways that fear of the gods worked its way into
    74  our hearts, which over the round of the earth keeps holy
-   75  shrines, lakes, groves, altars, and images of the gods. {{NOTE: simulacra here are statues of the gods; "images" kept per the register, with a play on the Book 4 sense}}
+   75  shrines, lakes, groves, altars, and images of the gods[5].
    76  Further, the courses of the sun and the wanderings of the moon,
    77  I shall explain by what force steering nature bends them,
    78  so that we may not think these, between heaven and earth,
    79  run their everlasting courses freely, of their own accord,
    80  obliging the growth of crops and of living things,
    81  nor suppose they are rolled round by some reasoning of the gods.
-   82  For those who have learned well that the gods lead a life without care, {{NOTE: 5.82-90 recur verbatim at 6.58-66; 5.88-90 repeat 1.75-77 and the English repeats those lines}}
+   82  For those who have learned well that the gods lead a life without care[6],
    83  if yet meanwhile they wonder by what principle
    84  each thing can be carried on, above all in those things
    85  that are seen overhead in the shores of the ether,
@@ -100,7 +158,7 @@ TRANSLATOR'S COMMENTARY
    90  by what principle, and its boundary-stone set deep.
    91  For the rest, not to keep you longer with promises,
    92  first of all look on the seas and lands and sky;
-   93  their threefold nature, their three bodies, Memmius,
+   93  their threefold nature[7], their three bodies, Memmius,
    94  three appearances so unlike, three such weavings,
    95  one day will give to destruction, and, upheld through many years,
    96  the mass and machinery of the world will fall.
@@ -110,21 +168,21 @@ TRANSLATOR'S COMMENTARY
   100  as happens when you bring to the ears a thing unheard of before
   101  yet cannot put it under the sight of the eyes
   102  nor lay it in the hands, by which the paved road of belief
-  103  leads nearest to the human heart and the precincts of the mind.
+  103  leads nearest to the human heart and the precincts of the mind[8].
   104  But still I will speak out. Perhaps the fact itself will give belief
   105  to my words, and you will see, when violent earthquakes arise,
   106  all things shaken to pieces in a little time.
-  107  May steering fortune turn this far away from us,
+  107  May steering fortune[9] turn this far away from us,
   108  and may reasoning rather than the event itself persuade
   109  that all things can be overcome and fall with a dreadful crash.
   110  Before I approach this subject, to pour out pronouncements
   111  more holy and with far surer reasoning than
-  112  the Pythia, who speaks from the tripod and the laurel of Phoebus, {{NOTE: the priestess of Apollo's oracle at Delphi; repeats 1.739}}
+  112  the Pythia[10], who speaks from the tripod and the laurel of Phoebus,
   113  I shall set out for you many consolations in learned words,
   114  so that, reined in by religion, you may not think
   115  that the lands and sun and sky, sea, stars, moon,
   116  must remain eternal, being of divine body,
-  117  and so suppose it right that, like the Giants, {{NOTE: the Giants who made war on the Olympian gods and were punished}}
+  117  and so suppose it right that, like the Giants[11],
   118  all those should pay the penalty for monstrous crime
   119  who by their reasoning shake the walls of the world
   120  and would put out the glorious sun of heaven,
@@ -135,7 +193,7 @@ TRANSLATOR'S COMMENTARY
   125  of what is removed from vital motion and sense.
   126  For indeed it cannot be that with any body whatever
   127  the nature of the mind and judgment be thought able to exist.
-  128  Just as there can be no tree in the upper air, no clouds {{NOTE: 5.128-141 closely repeat 3.784-797; the English repeats its Book 3 lines where the Latin agrees}}
+  128  Just as there can be no tree in the upper air, no clouds[12]
   129  in the deep sea, nor can fish live in the fields,
   130  nor blood be in wood, nor sap in stones;
   131  it is fixed and ordered where each thing grows and is:
@@ -147,7 +205,7 @@ TRANSLATOR'S COMMENTARY
   137  and still remain in the same man and the same vessel.
   138  And since even in our body it is evidently fixed
   139  and ordered, it seems, where each can be and grow,
-  140  spirit and mind, each apart, all the more must we deny
+  140  spirit and mind[13], each apart, all the more must we deny
   141  that, wholly outside the body and the living form,
   142  they could endure in crumbling clods of earth or the sun's fire
   143  or in water or the high shores of the ether.
@@ -155,7 +213,7 @@ TRANSLATOR'S COMMENTARY
   145  since they cannot be alive and quickened with the breath of life.
 
   146  Again, you cannot possibly believe that the holy
-  147  dwellings of the gods exist in any parts of the world.
+  147  dwellings of the gods exist in any parts of the world[14].
   148  For the nature of the gods is thin, and far removed
   149  from our senses, and is scarcely seen by the thought of the mind;
   150  and since it slips away from the touch and stroke of hands,
@@ -163,7 +221,7 @@ TRANSLATOR'S COMMENTARY
   152  for what may not itself be touched cannot touch.
   153  Therefore their dwellings too must also be unlike
   154  our dwellings, thin, in keeping with their bodies;
-  155  and this I shall prove to you later in ample discourse. {{NOTE: the promised account of the gods' dwellings never appears in the poem as we have it}}
+  155  and this I shall prove to you later in ample discourse.[15]
   156  Further, to say that for the sake of men they willed to prepare
   157  the glorious nature of the world, and that therefore
   158  it is fitting to praise the praiseworthy work of the gods,
@@ -173,7 +231,7 @@ TRANSLATOR'S COMMENTARY
   162  ever to be shaken by any force from its seat,
   163  or harried with words and overturned from top to bottom,
   164  and to invent and add other things of this kind, Memmius,
-  165  is folly. For what profit could our gratitude
+  165  is folly[16]. For what profit could our gratitude
   166  bestow upon immortal and blessed beings,
   167  that for our sake they should set about doing anything?
   168  Or what new thing could, so long after, lure beings at peace before
@@ -183,19 +241,19 @@ TRANSLATOR'S COMMENTARY
   172  in the time gone by, while he spent his life in beauty,
   173  what could kindle in such a one a love of novelty?
   174  Or what harm would it have been to us never to have been created?
-  175  Did life, I suppose, lie in darkness and sorrow
+  175  Did life, I suppose[17], lie in darkness and sorrow
   176  until the generative origin of things dawned?
   177  For whoever has been born must want to remain
   178  in life, so long as soft pleasure holds him;
   179  but for one who never tasted the love of life
   180  and was never counted, what harm is it not to have been created?
   181  Further, the pattern for creating things, and the very
-  182  notion of men, from where was it first planted in the gods, {{NOTE: notities: the Epicurean "preconception" (prolepsis); the gods could not have known what men were before men existed}}
+  182  notion[18] of men, from where was it first planted in the gods,
   183  so that they knew and saw in their mind what they wished to make,
-  184  or in what way was the power of the beginnings ever known,
+  184  or in what way was the power of the beginnings[19] ever known,
   185  and what they could do with their order changed among themselves,
   186  if nature herself did not give a likeness of creation?
-  187  For so many first-beginnings of things, in so many ways,
+  187  For so many first-beginnings of things, in so many ways[20],
   188  driven by blows from infinite time till now,
   189  and roused by their own weights, have been used to move
   190  and to meet in every way and to try out all things
@@ -232,7 +290,7 @@ TRANSLATOR'S COMMENTARY
   221  diseases? Why does untimely death go wandering?
   222  Then again the child, like a sailor cast up by savage waves,
   223  lies naked on the ground, speechless, in want of every
-  224  help for life, as soon as into the shores of light
+  224  help for life, as soon as into the shores of light[21]
   225  nature has poured him out with throes from his mother's womb,
   226  and he fills the place with mournful wailing, as is right
   227  for one who has so much of evil left to pass through in life.
@@ -242,7 +300,7 @@ TRANSLATOR'S COMMENTARY
   231  nor do they look for changing clothes to suit the weather;
   232  finally, they need no arms, no high walls,
   233  to guard their own, since for all of them all things abundantly
-  234  the earth herself brings forth, and nature, artificer of things.
+  234  the earth herself brings forth, and nature, artificer of things[22].
   235  First, since the body of the earth, and moisture,
   236  and the light breaths of air, and the hot vapors,
   237  of which this sum of things is seen to consist,
@@ -256,18 +314,18 @@ TRANSLATOR'S COMMENTARY
   245  we may know that heaven too, and likewise earth, have had
   246  some time of beginning, and will have their destruction.
   247  In these matters, do not think that I have taken too much
-  248  for granted, in assuming earth and fire to be mortal,
+  248  for granted[23], in assuming earth and fire to be mortal,
   249  and in not doubting that moisture and the airs perish,
   250  and in saying that the same are born and grow again.
   251  First, no small part of the earth, scorched through
   252  by constant suns, beaten by the force of many feet,
   253  breathes out a haze of dust and flying clouds,
-  254  which strong winds scatter through all the air. {{NOTE: the source prints "aereaëre", evidently a corruption of aere, "air"}}
+  254  which strong winds scatter through all the air.
   255  Part of the clods too is called back to flood
   256  by rains, and rivers graze and gnaw their banks.
   257  Further, whatever feeds and increases another, in its share
   258  is given back; and since beyond doubt it is seen
-  259  that the mother of all is also the common tomb of things,
+  259  that the mother of all is also the common tomb[24] of things,
   260  therefore the earth, you see, is drawn upon and, increased, grows back.
 
   261  For the rest, that the sea, the rivers, the springs always brim
@@ -319,9 +377,9 @@ TRANSLATOR'S COMMENTARY
   307  that high towers fall and rocks crumble,
   308  that the gods' shrines and images grow weary and crack,
   309  and the holy divinity cannot push forward the bounds
-  310  of fate, nor struggle against nature's covenants?
+  310  of fate, nor struggle against nature's covenants[25]?
   311  Again, do we not see the monuments of men fall in ruin,
-  312  asking, in their turn, whether you believe that they too grow old, {{NOTE: text corrupt; Bailey obelizes the line; the rendering gives only the probable sense}}
+  312  asking, in their turn, whether you believe that they too grow old,[26]
   313  and flints torn from the high mountains rushing down,
   314  unable to bear and endure the strong forces of an age
   315  that is finite? For they would not fall, torn suddenly away,
@@ -335,7 +393,7 @@ TRANSLATOR'S COMMENTARY
   323  must be diminished, and renewed when it takes things back.
   324  Further, if there was no generative beginning
   325  of earth and heaven, and they have always been eternal,
-  326  why, beyond the Theban war and the deaths of Troy,
+  326  why, beyond the Theban war[27] and the deaths of Troy,
   327  have not other poets also sung of other things?
   328  Where have so many deeds of men so often fallen, and nowhere
   329  flower, grafted on the eternal monuments of fame?
@@ -345,7 +403,7 @@ TRANSLATOR'S COMMENTARY
   333  even now are growing; now much has been added
   334  to ships; lately players have given birth to melodious sounds;
   335  finally, this nature of things and its reasoning were found
-  336  only lately, and I myself am now found the very first
+  336  only lately, and I myself am now found the very first[28]
   337  who can turn it into the speech of my fathers.
   338  But if perhaps you believe that all these same things were before,
   339  but that the generations of men perished in burning heat,
@@ -360,7 +418,7 @@ TRANSLATOR'S COMMENTARY
   348  Nor in any other way do we seem to be mortal,
   349  among ourselves, save that we sicken with the same diseases
   350  as those whom nature has removed from life.
-  351  Further, whatever things endure eternal must, of necessity, {{NOTE: 5.351-363 repeat 3.806-818 nearly verbatim; the English repeats its Book 3 lines}}
+  351  Further, whatever things endure eternal must, of necessity,[29]
   352  either, because they are of solid body, repel blows
   353  and suffer nothing to enter them that could tear apart
   354  their close-knit parts within, as the bodies of matter
@@ -391,7 +449,7 @@ TRANSLATOR'S COMMENTARY
   379  have scorned the strong forces of immeasurable age.
 
   380  Finally, since the greatest members of the world
-  381  fight so among themselves, stirred by a war in no way holy, {{NOTE: pium bellum is the Roman term for a war duly declared with the proper rites; this war among the elements is anything but that}}
+  381  fight so among themselves, stirred by a war in no way holy[30],
   382  do you not see that some end of their long contest
   383  can be granted them, either when the sun and all heat
   384  have drunk up all the moisture and prevailed?
@@ -405,9 +463,9 @@ TRANSLATOR'S COMMENTARY
   392  Breathing such war in an equal contest,
   393  they strive to settle great matters between them,
   394  though once, meanwhile, fire has been the stronger,
-  395  and once, as the story goes, water reigned over the fields. {{NOTE: the flood of Deucalion, which matches the burning under Phaethon that follows}}
+  395  and once, as the story goes[31], water reigned over the fields.
   396  For fire prevailed and, ranging around, burned up much,
-  397  when the ravening force of the sun's horses swept Phaethon {{NOTE: Phaethon, son of the Sun, who drove his father's chariot and lost control of it; Jupiter struck him down}}
+  397  when the ravening force of the sun's horses swept Phaethon[32]
   398  off the road through the whole ether and over all the lands.
   399  But the father almighty, roused then with bitter anger,
   400  with a sudden stroke of the thunderbolt dashed great-hearted
@@ -429,7 +487,7 @@ TRANSLATOR'S COMMENTARY
   416  But by what means that gathering of matter
   417  founded the earth and the sky and the depths of the sea,
   418  the courses of the sun and the moon, I shall set out in order.
-  419  For certainly the first-beginnings of things did not by design {{NOTE: 5.419-421 repeat 1.1021-1023 and the English repeats its Book 1 lines; 5.422-431 vary the Latin of 1.1024-1028}}
+  419  For certainly the first-beginnings of things did not by design[33]
   420  set themselves each in its order with a shrewd mind,
   421  nor, surely, did they bargain what motions each should give;
   422  but because many first-beginnings of things in many ways,
@@ -450,7 +508,7 @@ TRANSLATOR'S COMMENTARY
   437  Then parts began to fly apart from one another, and like things
   438  to join with like, and to mark off the world,
   439  and to divide its members and arrange its great parts
-  440  out of beginnings of every kind, whose discord confounded {{NOTE: principia, Lucretius's other name for the first-beginnings}}
+  440  out of beginnings of every kind, whose discord confounded
   441  intervals, paths, connections, weights, blows,
   442  collisions, motions, stirring up battles among them
   443  because of their unlike forms and varied shapes,
@@ -466,7 +524,7 @@ TRANSLATOR'S COMMENTARY
   453  the more they squeezed out those which would make the sea, the stars, the sun
   454  and the moon and the walls of the great world;
   455  for all these are made more of smooth and round
-  456  seeds and of much smaller elements
+  456  seeds and of much smaller elements[34]
   457  than the earth is. And so through the open pores of the earth,
   458  breaking out in parts, the ether first lifted itself up,
   459  fire-bearing, and being light carried off many fires with it,
@@ -518,7 +576,7 @@ TRANSLATOR'S COMMENTARY
   504  whirlwinds, lets them riot in fitful storms,
   505  while it glides, bearing its own fires with a steady drive.
   506  For that the ether can flow evenly, with a single effort,
-  507  the Pontus shows, a sea that flows with a steady current, {{NOTE: the Black Sea, whose constant one-way outflow through the Bosporus was proverbial}}
+  507  the Pontus[35] shows, a sea that flows with a steady current,
   508  keeping always one unvarying course in its gliding.
   509  Now let us sing what is the cause of the motions of the stars.
   510  First, if the great sphere of heaven turns round,
@@ -532,12 +590,12 @@ TRANSLATOR'S COMMENTARY
   518  at rest, while yet the shining signs are carried on,
   519  either because swift tides of ether are shut within
   520  and, seeking a way out, turn round and round, and roll the fires
-  521  everywhere through the nightly precincts of heaven, {{NOTE: summania: belonging to Summanus, god of thunder by night; hence "nightly", though some take it as "highest"}}
+  521  everywhere through the nightly precincts[36] of heaven,
   522  or because air flowing from somewhere else, from outside,
   523  turns and drives the fires, or they can creep of themselves
   524  wherever each one's food calls them and invites them on,
   525  feeding their flaming bodies everywhere through the sky.
-  526  For which of these it is in this world is hard to lay down
+  526  For which of these it is in this world is hard to lay down[37]
   527  for certain; but what can happen and does happen through the whole
   528  in various worlds created on various principles,
   529  that I teach, and go on to set out several causes
@@ -585,8 +643,8 @@ TRANSLATOR'S COMMENTARY
   571  reach our senses and make places shine,
   572  the form and size of the sun too must appear from here as they are,
   573  so that you could truly make it neither more nor less.
-  574  reach our senses and make places shine, {{NOTE: this line repeats 571 in the source; a stray repetition that editors bracket}}
-  575  And the moon, whether it moves lighting places with bastard light, {{NOTE: notho lumine: "bastard", i.e. borrowed, light, reflected from the sun}}
+  574  reach our senses and make places shine,[38]
+  575  And the moon, whether it moves lighting places with bastard light[39],
   576  or casts its own light from its own body,
   577  whatever it is, it moves with a shape no larger
   578  than it seems to be, as we perceive it with our eyes.
@@ -607,7 +665,7 @@ TRANSLATOR'S COMMENTARY
   593  so small a sun can send out so much light
   594  as to fill the seas and all the lands and heaven, watering them,
   595  and drench all things through with its warm heat.
-  596  must look from here, on high, just as large as it is. {{NOTE: this line repeats 584 in the source; a stray repetition, not part of the argument}}
+  596  must look from here, on high, just as large as it is.
   597  For it may be that from here one fountain of the whole world,
   598  opened wide, gushes in abundance and bursts out in light,
   599  because from all the world the elements of heat
@@ -627,14 +685,14 @@ TRANSLATOR'S COMMENTARY
   613  so that, heat-bearing, it may swell so great a stroke of rays.
 
   614  Nor does the order of the sun lie open, simple and straight:
-  615  how, from its summer regions, it comes to Capricorn's {{NOTE: aegocerotis, "the goat-horned"; Capricorn and Cancer (617) mark the winter and summer tropics}}
+  615  how, from its summer regions, it comes to Capricorn[40]'s
   616  winter turnings, and how, turning back from there,
   617  it bends toward the solstice goal-posts of Cancer,
   618  and how the moon is seen to pass in a month through that space
   619  in which the sun spends the time of a year in its course.
   620  Not one simple cause, I say, is given for these things.
   621  For it seems that this, above all, can come about,
-  622  what the holy judgment of the man Democritus lays down:
+  622  what the holy judgment of the man Democritus[41] lays down:
   623  that the nearer to the earth each of the stars is,
   624  the less it can be carried with the whirl of heaven;
   625  for the swift and fierce forces of that whirl fade away
@@ -668,14 +726,14 @@ TRANSLATOR'S COMMENTARY
   653  shaken by the journey and weakened by much air,
   654  or because the same force compels it to turn its course beneath
   655  the earth, the force that carried its orb above the lands.
-  656  Likewise at a fixed time Matuta spreads rosy dawn {{NOTE: Matuta, the old Italian goddess of the dawn}}
+  656  Likewise at a fixed time Matuta[42] spreads rosy dawn
   657  through the regions of the ether and opens wide the light,
   658  either because the same sun, returning beneath the earth,
   659  seizes the sky beforehand, trying to kindle it with its rays,
   660  or because fires come together and many seeds
   661  of heat have been accustomed to flow together at a fixed time,
   662  which cause the sun's light to be born always new;
-  663  just as, the story goes, from the high mountains of Ida {{NOTE: Mount Ida near Troy, where scattered fires were said to be seen gathering into the sun at daybreak}}
+  663  just as, the story goes, from the high mountains of Ida[43]
   664  scattered fires are seen at the rising of the light,
   665  and then gather as if into a single ball and make an orb.
   666  Nor yet should this be a thing to wonder at
@@ -691,7 +749,7 @@ TRANSLATOR'S COMMENTARY
   676  come about at seasons of the year not too uncertain.
   677  For since the first starting-points of causes were thus,
   678  and things fell out so from the first origin of the world,
-  679  in sequence they come back now, too, in a fixed order. {{NOTE: the source's "conseque" is corrupt; the sense "in sequence" follows the usual correction (consequiae)}}
+  679  in sequence[44] they come back now, too, in a fixed order.
   680  Likewise the days may lengthen and the nights waste away,
   681  and the daylight lessen, when the nights take increase,
   682  either because the same sun, running beneath the earth and above
@@ -699,11 +757,11 @@ TRANSLATOR'S COMMENTARY
   684  and divides its orbit into parts that are not equal,
   685  and what it has taken from the one side it restores,
   686  carried round so much the more, to the opposite side,
-  687  until it reaches that sign of heaven where the node
+  687  until it reaches that sign of heaven where the node[45]
   688  of the year makes the shades of night equal with the light;
   689  for midway in its course between the blasts of north wind and south
   690  heaven holds its turning-posts apart at an equal distance
-  691  because of the position of the whole sign-bearing circle, {{NOTE: the zodiac, set slantwise to the celestial equator}}
+  691  because of the position of the whole sign-bearing circle,
   692  in which the sun, creeping, encloses its yearly times,
   693  lighting earth and heaven with slanting light,
   694  as the reasoning of those declares who have marked out
@@ -716,7 +774,7 @@ TRANSLATOR'S COMMENTARY
   701  Or else, because in this way, in alternate parts of the year,
   702  the fires have been wont to flow together slower and quicker,
   703  the fires which make the sun rise from a fixed quarter,
-  704  therefore it comes about that they seem to speak the truth. {{NOTE: "they": those who hold that the sun is formed new each day from gathering fires (660-665)}}
+  704  therefore it comes about that they seem to speak the truth[46].
   705  The moon may shine because it is struck by the sun's rays,
   706  and turn that light day by day more toward us
   707  into view, the farther it withdraws from the sun's orb,
@@ -739,7 +797,7 @@ TRANSLATOR'S COMMENTARY
   724  into our view and toward our open eyes;
   725  then little by little it twists back and takes away
   726  the light-bearing part of the globed mass, the ball;
-  727  as the Babylonian doctrine of the Chaldaeans, refuting {{NOTE: the Chaldaeans, Babylonian astronomers who held the moon half-luminous; the "astronomers" of 728 are the Greeks who held it lit by the sun}}
+  727  as the Babylonian doctrine of the Chaldaeans[47], refuting
   728  the art of the astronomers, strives to prove the contrary,
   729  just as if what each side fights for could not come about,
   730  or there were less reason why you should dare embrace this than that.
@@ -749,15 +807,15 @@ TRANSLATOR'S COMMENTARY
   734  and another be restored in its part and place,
   735  is hard to teach by reasoning and to prove with words,
   736  since you see so many things created in so fixed an order.
-  737  Spring goes on her way, and Venus, and Venus's winged herald {{NOTE: Cupid}}
+  737  Spring goes on her way, and Venus, and Venus's winged herald[48]
   738  steps on before them; and close upon Zephyr's footprints
   739  mother Flora, strewing all the way before them,
   740  fills everything with surpassing colors and scents.
   741  Next in their place follows parching Heat, and with it as companion
-  742  dusty Ceres and the etesian blasts of the north winds. {{NOTE: etesian, the "annual" north winds of the Mediterranean summer}}
-  743  Then Autumn comes on, and with it steps Euhius Euan. {{NOTE: Bacchus, under two names from the ritual cry of his worshippers}}
+  742  dusty Ceres and the etesian blasts of the north winds.
+  743  Then Autumn comes on, and with it steps Euhius Euan.
   744  Then other seasons and winds follow,
-  745  high-thundering Volturnus and the South Wind strong with lightning. {{NOTE: Volturnus, the south-east wind}}
+  745  high-thundering Volturnus and the South Wind strong with lightning.
   746  At last Midwinter brings snows and gives back numbing
   747  stiffness. Winter follows her, teeth chattering with cold.
   748  So it is less to be wondered at if at a fixed time the moon
@@ -777,14 +835,14 @@ TRANSLATOR'S COMMENTARY
   761  which cause its fires to be quenched and to perish?
   762  And why should the earth be able in its turn to rob the moon
   763  of light, and itself, above, keep the sun pressed down,
-  764  while monthly the moon glides through the cone's rigid shadows, {{NOTE: the cone is the earth's shadow, tapering away from the sun}}
+  764  while monthly the moon glides through the cone[49]'s rigid shadows,
   765  and yet at that same time some other body be unable
   766  to run beneath the moon or to glide above the orb of the sun,
   767  breaking off its rays and the light poured out?
   768  And yet, if the moon shines with her own brightness,
   769  why could she not grow faint in a fixed part of the world
   770  while she passes through places hostile to her own light?
-  771  while monthly the moon glides through the cone's rigid shadows. {{NOTE: repeats 764 verbatim; editors take it as a misplaced line}}
+  771  while monthly the moon glides through the cone's rigid shadows.[50]
   772  For the rest, since I have unfolded, through the blue of the great world,
   773  by what principle each thing could come about,
   774  so that of the sun's varied courses and the journeys of the moon
@@ -794,7 +852,7 @@ TRANSLATOR'S COMMENTARY
   778  when they close their eyes, as it were, and with light opened again
   779  look over all places, clear in shining light,
   780  now I return to the world's youth and the soft fields
-  781  of earth, what with new offspring they first resolved to lift {{NOTE: crerint is a contracted form of decreverint, "decided"}}
+  781  of earth, what with new offspring they first resolved[51] to lift
   782  into the shores of light and entrust to the uncertain winds.
   783  First the earth gave forth the race of grasses and their green brightness
   784  around the hills and over all the plains;
@@ -838,10 +896,10 @@ TRANSLATOR'S COMMENTARY
   822  the earth keeps deservedly, since she herself created the human
   823  race, and at almost a fixed time poured forth every animal
   824  that runs wild here and there across the great mountains,
-  825  and with them the birds of the air in their varied forms. {{NOTE: the source text is garbled here, printing two spellings of aerias run together; the sense is not in doubt}}
+  825  and with them the birds of the air in their varied forms.
   826  But since she must have some end to her bearing,
   827  she ceased, like a woman worn out by long age.
-  828  For age changes the nature of the whole world,
+  828  For age changes the nature of the whole world,[52]
   829  and one state after another must take over all things,
   830  nor does anything stay like itself: all things move on,
   831  nature alters all things and compels them to turn.
@@ -852,14 +910,14 @@ TRANSLATOR'S COMMENTARY
   836  so it cannot bear what it could, and can what it did not before.
   837  And many monsters, too, the earth then tried
   838  to create, arising with wondrous faces and limbs:
-  839  the androgyne, between the two and neither, far from either, {{NOTE: the Latin of this line is corrupt; the sense, a creature of both sexes and of neither, is clear}}
+  839  the androgyne[53], between the two and neither, far from either,
   840  some bereft of feet, others in turn widowed of hands,
   841  some found dumb, without a mouth, some blind, without a face,
   842  some bound fast by the clinging of their limbs all through the body,
   843  so that they could neither do anything nor go anywhere
   844  nor avoid harm nor take what their need would require.
   845  Other monsters and portents of this kind she created,
-  846  in vain, since nature frightened off their growth,
+  846  in vain, since nature frightened off their growth[54],
   847  and they could not reach the longed-for flower of age
   848  nor find food nor be joined through the works of Venus.
   849  For we see that many things must come together for living things
@@ -872,7 +930,7 @@ TRANSLATOR'S COMMENTARY
   856  and been unable by breeding to hammer out their offspring.
   857  For whatever you see feeding on the breath of life,
   858  either cunning or courage or else mobility
-  859  has kept that race safe from the beginning of its life. {{NOTE: the source misprints tuta as "tutaTA"}}
+  859  has kept that race safe from the beginning of its life.
   860  And many, commended to us by their own usefulness,
   861  remain, handed over to our protection.
   862  First, the fierce race of lions and the savage generations
@@ -892,7 +950,7 @@ TRANSLATOR'S COMMENTARY
   876  all of them hampered by their own fated chains,
   877  until nature brought that race down to destruction.
 
-  878  But neither were there ever Centaurs, nor at any time
+  878  But neither were there ever Centaurs[55], nor at any time
   879  can there be creatures of double nature and twofold body
   880  made up of limbs from alien stocks, whose powers
   881  on this side and on that could be matched closely enough.
@@ -911,7 +969,7 @@ TRANSLATOR'S COMMENTARY
   894  whose limbs we see to be at odds with one another;
   895  for these neither come to flower together nor take on strength
   896  in their bodies nor throw it off in old age,
-  897  nor burn with a like Venus, nor agree in one manner {{NOTE: Venus here stands for sexual desire, as often in Lucretius; the name is kept}}
+  897  nor burn with a like Venus[56], nor agree in one manner
   898  of life, nor are the same things pleasant through their frames.
   899  For indeed you may see bearded flocks often grow fat
   900  on hemlock, which to a man is a bitter poison.
@@ -919,14 +977,14 @@ TRANSLATOR'S COMMENTARY
   902  the tawny bodies of lions just as much as every kind
   903  of flesh and blood that exists anywhere on earth,
   904  how could it come about that, one in a triple body,
-  905  lion in front, snake behind, herself the middle, the Chimaera {{NOTE: "herself": chimaera is also the Greek for a she-goat, so the middle is goat; the pun is lost in English}}
+  905  lion in front, snake behind, herself the middle[57], the Chimaera
   906  breathed out from her body through her mouth a bitter flame?
   907  Therefore whoever imagines that, the earth new and the sky
   908  fresh, such living creatures could have been begotten,
   909  leaning on this one empty name of newness,
   910  may babble out many things by a like principle:
   911  let him say that then rivers of gold flowed
-  912  everywhere through the lands, and trees used to flower with jewels, {{NOTE: the source prints "suessesuësse", a doubled corruption of suesse, "used to"}}
+  912  everywhere through the lands, and trees used to flower with jewels,
   913  or that a man was born with such a sweep of limbs
   914  that he could plant his steps across the deep seas
   915  and with his hands turn the whole heaven round about him.
@@ -955,7 +1013,7 @@ TRANSLATOR'S COMMENTARY
   938  of her own accord, that gift was enough to content their hearts.
   939  Among the acorn-bearing oaks they tended their bodies
   940  for the most part; and those which now in winter time you see,
-  941  the arbute berries, ripening to a scarlet color, {{NOTE: arbita, the fruit of the strawberry tree (Arbutus unedo)}}
+  941  the arbute[58] berries, ripening to a scarlet color,
   942  the earth then bore in great plenty, and larger still.
   943  And besides, the flowering newness of the world then
   944  bore many coarse foods, ample for wretched mortals.
@@ -964,7 +1022,7 @@ TRANSLATOR'S COMMENTARY
   947  summons far and wide, loud and clear, the thirsting races of wild beasts.
   948  Finally, as they wandered they dwelt in the woodland precincts
   949  of the nymphs, known to them, from which they knew that running streams
-  950  of water washed with ample flood the wet rocks,
+  950  of water washed with ample flood the wet rocks[59],
   951  the wet rocks, dripping down over the green moss,
   952  and in part welled up and burst out over the level plain.
   953  Nor yet did they know how to work things with fire, nor to use
@@ -1012,7 +1070,7 @@ TRANSLATOR'S COMMENTARY
   994  But those whom flight had saved, with body half-eaten,
   995  afterward, holding trembling palms over foul sores,
   996  called on Orcus with horrifying cries,
-  997  until savage gripings had robbed them of life, {{NOTE: vermina, wrenching pains of the bowels; some take it as "worms".}}
+  997  until savage gripings[60] had robbed them of life,
   998  without help, not knowing what their wounds required.
   999  But many thousands of men led beneath the standards
  1000  a single day did not give to destruction, nor did the stormy
@@ -1021,7 +1079,7 @@ TRANSLATOR'S COMMENTARY
  1003  would rage, and lightly lay aside its empty threats,
  1004  nor could the allure of the calm sea, sly as it is,
  1005  lure anyone into ruin with its laughing waves.
- 1006  Then the wicked craft of sailing lay unseen in darkness. {{NOTE: ratio here is the technique of navigation, not "reasoning" in the register's sense.}}
+ 1006  Then the wicked craft[61] of sailing lay unseen in darkness.
  1007  Then, again, lack of food gave their failing limbs
  1008  to death; now, on the contrary, abundance drowns them.
  1009  They in their ignorance often poured out poison
@@ -1029,7 +1087,7 @@ TRANSLATOR'S COMMENTARY
  1011  Then, after they had got huts and skins and fire,
  1012  and woman, joined to man, withdrew into one home,
        [lacuna]
- 1013  were known, and they saw offspring created from themselves,
+ 1013  were known[62], and they saw offspring created from themselves,
  1014  then first the human race began to soften.
  1015  For fire saw to it that their shivering bodies
  1016  could not so well now bear the cold beneath the cover of heaven,
@@ -1041,7 +1099,7 @@ TRANSLATOR'S COMMENTARY
  1022  when with cries and gestures they signified, stammering,
  1023  that it is right for all to have pity on the weak.
  1024  And yet concord could not be brought about in every way,
- 1025  but a good and great part kept their covenants faithfully;
+ 1025  but a good and great part kept their covenants faithfully[63];
  1026  or else the human race would even then have been wholly destroyed,
  1027  nor could its offspring have carried the generations on to now.
  1028  But the various sounds of the tongue nature drove men
@@ -1057,13 +1115,13 @@ TRANSLATOR'S COMMENTARY
  1038  when their teeth and claws are scarcely yet formed.
  1039  Again, we see the whole race of birds trust
  1040  their wings, and seek a trembling help from their feathers.
- 1041  Therefore to think that someone then distributed names
+ 1041  Therefore to think that someone then distributed names[64]
  1042  to things, and that from him men learned their first words,
  1043  is folly. For why could this one man mark all things
  1044  with words and utter the various sounds of the tongue,
  1045  and others at the same time be thought unable to do it?
  1046  Further, if others too had not used words
- 1047  among themselves, from where was the notion of their use {{NOTE: notities, the Epicurean "preconception" (prolepsis), a concept formed from experience.}}
+ 1047  among themselves, from where was the notion of their use
  1048  implanted, and from where was this man first given the power
  1049  to know and see in his mind what he wished to do?
  1050  Likewise one man could not compel many, conquer and tame them,
@@ -1079,7 +1137,7 @@ TRANSLATOR'S COMMENTARY
  1060  are used to calling out unlike and various sounds
  1061  when there is fear or pain, and when their joys are swelling?
  1062  For indeed this can be learned from plain facts.
- 1063  When first the great soft jowls of Molossian hounds {{NOTE: Molossian, a large hunting and guard dog from Epirus.}}
+ 1063  When first the great soft jowls of Molossian[65] hounds
  1064  growl, provoked, as they lay bare their hard teeth,
  1065  their rage, drawn back, threatens with a sound far different
  1066  from when they bark outright and fill everything with their voices;
@@ -1126,7 +1184,7 @@ TRANSLATOR'S COMMENTARY
  1106  their former food and life for new things and for fire,
  1107  those who excelled in talent and were vigorous in heart.
  1108  Kings began to found cities and to set up a citadel
- 1109  as a defense and a refuge for themselves,
+ 1109  as a defense and a refuge[66] for themselves,
  1110  and they divided flocks and fields and gave them out
  1111  according to each man's looks and strength and talent;
  1112  for looks counted for much, and strength was strong.
@@ -1135,7 +1193,7 @@ TRANSLATOR'S COMMENTARY
  1115  for, as a rule, men follow in the train of the richer,
  1116  however strong they may be, however fair of body.
  1117  But if one were to steer his life by true reasoning,
- 1118  it is great riches for a man to live sparingly
+ 1118  it is great riches for a man to live sparingly[67]
  1119  with a level mind; for of a little there is never want.
  1120  But men wanted themselves famous and powerful,
  1121  so that their fortune might rest on a firm foundation
@@ -1153,7 +1211,7 @@ TRANSLATOR'S COMMENTARY
  1133  since they are wise from another's mouth, and seek
  1134  things from what they hear rather than from their own senses,
  1135  and this is no more so now, nor will be soon, than it was before.
- 1136  Therefore, the kings slain, there lay overthrown
+ 1136  Therefore, the kings slain[68], there lay overthrown
  1137  the ancient majesty of thrones and the proud scepters,
  1138  and the glorious emblem of the highest head, bloodied,
  1139  beneath the feet of the mob mourned its great honor;
@@ -1178,7 +1236,7 @@ TRANSLATOR'S COMMENTARY
  1158  since indeed many, speaking often in their dreams
  1159  or raving in sickness, are said to have betrayed themselves
  1160  and brought hidden misdeeds and sins into the open.
- 1161  Now, what cause spread the powers of the gods through great nations
+ 1161  Now, what cause spread the powers of the gods[69] through great nations
  1162  and filled up the cities with altars
  1163  and saw to the undertaking of solemn rites,
  1164  rites which now flourish in great affairs and places,
@@ -1207,15 +1265,15 @@ TRANSLATOR'S COMMENTARY
  1187  to the gods, and to make all things bend at their nod.
  1188  And in heaven they placed the seats and precincts of the gods,
  1189  because through heaven night and the moon are seen to roll,
- 1190  the moon, day and night, and night's austere signs,
+ 1190  the moon, day and night, and night's austere signs,[70]
  1191  and the night-wandering torches of heaven, and the flying flames,
  1192  clouds, sun, rains, snow, winds, thunderbolts, hail,
  1193  and the swift roarings and the great murmurs of threat.
- 1194  O unhappy human race, when it ascribed such deeds
+ 1194  O unhappy human race[71], when it ascribed such deeds
  1195  to the gods and joined to them bitter angers!
  1196  What groans they brought forth then for themselves, what wounds
  1197  for us, what tears for those who come after us!
- 1198  Nor is it any piety to be seen often, with veiled head, {{NOTE: the Roman worshipper covered the head at sacrifice}}
+ 1198  Nor is it any piety to be seen often, with veiled head[72],
  1199  turning toward a stone and drawing near to every altar,
  1200  nor to lie prostrate on the ground and spread the palms
  1201  before the shrines of the gods, nor to sprinkle the altars
@@ -1228,7 +1286,7 @@ TRANSLATOR'S COMMENTARY
  1208  too begins to raise its head, roused awake:
  1209  lest there perhaps be some immeasurable power of the gods
  1210  over us, to turn the shining stars in their varied motion;
- 1211  for poverty of reasoning assails the doubting mind,
+ 1211  for poverty of reasoning[73] assails the doubting mind,
  1212  whether the world ever had any generative origin,
  1213  and also whether there is some end, how long the walls of the world
  1214  and their silent motion can bear this labor,
@@ -1243,7 +1301,7 @@ TRANSLATOR'S COMMENTARY
  1223  shrink in their limbs, struck by fear of the gods,
  1224  lest for some foul deed or proudly spoken word
  1225  the heavy time of paying the penalty has come to its full?
- 1226  Again, when the utmost force of a violent wind over the sea
+ 1226  Again, when the utmost force of a violent wind over the sea[74]
  1227  sweeps the commander of a fleet across the waters
  1228  together with his mighty legions and his elephants,
  1229  does he not court the peace of the gods with vows, and in prayer beg,
@@ -1251,7 +1309,7 @@ TRANSLATOR'S COMMENTARY
  1231  In vain, since often, caught up in a violent whirlwind,
  1232  he is carried none the less to the shoals of death.
  1233  So utterly does some hidden force
- 1234  crush human affairs, and the fair rods and the cruel axes {{NOTE: the fasces and axes carried before Roman magistrates, emblems of their power}}
+ 1234  crush human affairs, and the fair rods[75] and the cruel axes
  1235  it seems to trample underfoot and hold in mockery.
  1236  Finally, when the whole earth sways beneath our feet,
  1237  and cities fall, shaken, or threaten, unsteady, to fall,
@@ -1259,7 +1317,7 @@ TRANSLATOR'S COMMENTARY
  1239  and consign great and marvelous powers
  1240  to the strengths of the gods in the world, to steer all things?
 
- 1241  For the rest, bronze and gold and iron were discovered,
+ 1241  For the rest, bronze[76] and gold and iron were discovered,
  1242  and with them the weight of silver and the power of lead,
  1243  when fire with its heat had burned down huge forests
  1244  on great mountains, whether a thunderbolt was sent from heaven,
@@ -1304,7 +1362,7 @@ TRANSLATOR'S COMMENTARY
  1283  The ancient weapons were hands, nails, and teeth,
  1284  and stones, and also branches broken from the forests,
  1285  and flame and fires, once these first came to be known.
- 1286  Later the force of iron and of bronze was discovered.
+ 1286  Later the force of iron and of bronze[77] was discovered.
  1287  And the use of bronze was known before that of iron,
  1288  since its nature is easier to work and its supply greater.
  1289  With bronze they worked the soil of the earth, with bronze
@@ -1320,7 +1378,7 @@ TRANSLATOR'S COMMENTARY
  1299  than to try the dangers of war in a two-horse chariot.
  1300  And the two-horse chariot came before yoking two pairs,
  1301  and before mounting, armed, the scythe-bearing chariots.
- 1302  Then the Lucanian oxen, tower-bodied, grim, {{NOTE: "Lucanian oxen" are elephants, first met by Romans in Lucania in Pyrrhus' army (280 BC)}}
+ 1302  Then the Lucanian oxen[78], tower-bodied, grim,
  1303  snake-handed, the Carthaginians taught to bear the wounds
  1304  of war, and throw the great troops of Mars into confusion.
  1305  So grim discord bore one thing after another
@@ -1337,7 +1395,7 @@ TRANSLATOR'S COMMENTARY
  1316  nor could the horsemen soothe the hearts of their horses,
  1317  frightened by the roaring, and turn them with reins on the enemy.
  1318  The lionesses, maddened, flung their bodies in a leap
- 1319  on every side, and made for the faces of those who came on, {{NOTE: source prints "patebant"; read "petebant", "made for"}}
+ 1319  on every side, and made for[79] the faces of those who came on,
  1320  and dragged down from behind those not expecting it,
  1321  and, clasping them, brought them to the ground, overcome by wounds,
  1322  fastened on them with strong bites and hooked claws.
@@ -1346,7 +1404,7 @@ TRANSLATOR'S COMMENTARY
  1325  with their horns, and tore up the earth with threatening mind.
  1326  And the boars slashed their allies with strong tusks,
  1327  savage, dyeing with their own blood the weapons broken in them,
- 1328  dyeing with their own blood the weapons broken against them, {{NOTE: 1327 and 1328 are alternative versions of one line; editors keep one}}
+ 1328  dyeing with their own blood the weapons broken against them,[80]
  1329  and made a mingled ruin of horsemen and foot.
  1330  For the horses shied sideways to escape the tusk's fierce thrust,
  1331  or rear up and paw at the winds with their feet,
@@ -1359,7 +1417,7 @@ TRANSLATOR'S COMMENTARY
  1338  for every various kind of wild beast scattered,
  1339  as now the Lucanian oxen, badly wounded by the steel,
  1340  often scatter, after doing many savage things to their own side.
- 1341  But they wished to do this not so much in hope of winning {{NOTE: many editors suspect 1341-1349 of being a later addition or an alternative draft}}
+ 1341  But they wished to do this not so much in hope of winning[81]
  1342  as to give the enemy cause to groan, even dying themselves,
  1343  those who distrusted their numbers and lacked arms,
  1344  if they did it at all. But I am hardly persuaded that they
@@ -1372,7 +1430,7 @@ TRANSLATOR'S COMMENTARY
  1351  Woven came after iron, since with iron the loom is made,
  1352  nor by any other means can things so smooth be made,
  1353  treadles and spindles, shuttles and ringing loom-rods.
- 1354  And nature compelled men to work wool before {{NOTE: source prints "coegitcoëgit", a doubled word; read "coegit", "compelled"}}
+ 1354  And nature compelled men to work wool before
  1355  the race of women; for the male sex far excels in skill,
  1356  and the whole race of men is much more clever;
  1357  until the stern farmers made a reproach of it,
@@ -1381,7 +1439,7 @@ TRANSLATOR'S COMMENTARY
  1360  and in hard work to harden their limbs and hands.
 
  1361  But the model for sowing and the first origin of grafting
- 1362  was at first the nature of things herself, the creator,
+ 1362  was at first the nature of things herself, the creator[82],
  1363  since berries and acorns, falling from the trees,
  1364  put forth in their season swarms of young shoots beneath them;
  1365  from this they chose also to set slips into branches
@@ -1406,12 +1464,12 @@ TRANSLATOR'S COMMENTARY
  1384  Then little by little they learned the sweet laments
  1385  that the pipe pours out when struck by the players' fingers,
  1386  found out through pathless groves and woods and glades,
- 1387  through the shepherds' lonely haunts and their leisure under the sky. {{NOTE: otia dia; dia may mean "divine" or "open-air"; Bailey takes it as leisure under the open sky}}
+ 1387  through the shepherds' lonely haunts and their leisure under the sky[83].
  1388  So, little by little, time draws out each several thing
- 1389  into the open, and reasoning digs it up to the shores of light. {{NOTE: refrain, repeated at 5.1454-1455 (eruit here, erigit there); luminis oras without dias, so not the full refrain "the shining shores of light"}}
+ 1389  into the open, and reasoning digs it up[84] to the shores of light.
  1390  These things soothed their minds and gave them delight
  1391  when they were full of food; for then all things are dear to the heart.
- 1392  And so, often, lying together on the soft grass {{NOTE: 5.1392-1396 nearly repeat 2.29-33; align verbatim with the Book 2 rendering}}
+ 1392  And so, often, lying together on the soft grass[85]
  1393  beside a stream of water under the boughs of a tall tree,
  1394  with no great wealth they tended their bodies pleasantly,
  1395  above all when the weather smiled and the seasons
@@ -1448,14 +1506,14 @@ TRANSLATOR'S COMMENTARY
  1426  For the cold tormented the naked, without their skins,
  1427  the earth-born; but it does us no harm to go without a robe
  1428  of purple, fitted out with gold and great embroidered figures,
- 1429  so long as there is still a common one that can protect us.
+ 1429  so long as there is still a common one[86] that can protect us.
  1430  Therefore the race of men labors to no purpose, in vain,
  1431  forever, and spends its life in empty cares,
  1432  doubtless because it has not learned what the limit is
  1433  of having, and how far at all true pleasure can grow;
  1434  and this, little by little, has carried life out into the deep
  1435  and stirred up from the bottom the great tides of war.
- 1436  But the watchmen, traversing the world's great revolving precinct, {{NOTE: templum = region or precinct of the sky, as with Acherusia templa (1.120); never "temple"}}
+ 1436  But the watchmen, traversing the world's great revolving precinct[87],
  1437  the sun and moon, encircling it with their light,
  1438  taught men thoroughly that the seasons of the years turn round
  1439  and that things go by a sure principle and in a sure order.
@@ -1464,13 +1522,13 @@ TRANSLATOR'S COMMENTARY
  1442  then the sea was in flower with sail-winged ships,
  1443  already they had auxiliaries and allies by treaties struck,
  1444  when poets began in their songs to hand down
- 1445  the deeds done; and not long before that were the elements found. {{NOTE: elementa here are the letters of the alphabet, i.e. writing; "elements" kept per the register}}
+ 1445  the deeds done; and not long before that were the elements found[88].
  1446  Therefore what was done before, our age
  1447  cannot look back on, except where reasoning shows the traces.
  1448  Ships and the tilling of fields, walls, laws,
  1449  arms, roads, clothes, and all the rest of this kind,
  1450  rewards, and all the luxuries of life without exception,
- 1451  songs, pictures, and artful polished statues, {{NOTE: daedala signa; daedala here describes the crafted work, not the maker, so not "artificer"}}
+ 1451  songs, pictures, and artful[89] polished statues,
  1452  practice, together with the experience of the unflagging mind,
  1453  taught little by little as men advanced step by step.
  1454  So, little by little, time draws out each several thing
@@ -1480,370 +1538,503 @@ TRANSLATOR'S COMMENTARY
 
 ------------------------------------------------------------
 
-Notes (DRAFT)
-
-[DRAFT] (5.8) "Graius homo" is again left unnamed: the god is Epicurus (cf. 1.66), and Lucretius says "deus ille fuit, deus" outright. The deification is meant seriously within the poem's terms and is defended at 5.49-54, where the benefactor who frees men from passion "with words, not arms" is held worthy of the gods. The translation keeps the doubled "a god, a god."
-
-[DRAFT] (5.14) Ceres (fruges) and Liber (liquoris vitigeni laticem) are the Roman grain-goddess and the wine-god, identified with Bacchus. They stand for the "divine" inventions of agriculture and viticulture that the poem ranks below Epicurus's discovery of how to live. The English "Liber" keeps the Latin cult-name.
-
-[DRAFT] (5.22) Hercules, the great benefactor-hero of Greek and Roman tradition, is here measured against Epicurus. The twelve Labors that follow (5.24-36) are listed as monsters cleared from the earth, and the argument is that they are trivial next to the inner "monsters" of desire and fear (5.43-48).
-
-[DRAFT] (5.26) The Labors run from the Nemean lion and the Erymanthian boar ("Arcadius sus") to the Stymphalian birds (Stymphala colentes), the Cretan bull, the Lernaean hydra, Geryon, the mares of Diomedes of Thrace, and the serpent guarding the Hesperides' golden apples. The list is not in the canonical order, and the Latin "Stymphala colentes" is more exactly "those dwelling at Stymphalus", which the English takes as the birds.
-
-[DRAFT] (5.35) "Atlanteum litus" is the far western shore beyond the Pillars of Hercules, where the Hesperides' garden was located. "Noster … nec barbarus" means neither Roman nor foreigner ventures there, i.e. nobody at all.
-
-[DRAFT] (5.53) The Perseus text reads "iam mortalibus e divis", which is nonsensical against "e divis" and is probably a reading of "immortalibus" (or a corruption close to it), so the sense is "about the immortal gods." The translation follows that sense and reads "ipsis immortalibus" as what Epicurus used to say "divinely" about the gods. Editors differ on the exact reading, so the translator should check against the apparatus.
-
-[DRAFT] (5.55) "Cuius ... vestigia" picks up the unnamed Epicurus again (cf. 5.8 and 1.66), and "ingressus vestigia" echoes the proem's "ingredior ... vestigia" at 3.3-4, where Lucretius follows the Greek master's footsteps. The "reasonings" (rationes) are the Epicurean arguments of Books 1-3 that Lucretius now summarizes before turning to cosmology.
-
-[DRAFT] (5.59) "Animi natura" is rendered "the nature of the mind", the subject of Book 3 (the mortality of animus and anima). The back-reference sums up Book 3's doctrine, and "simulacra ... in somnis" (5.62) refers to the Book 4 theory of dream-images, here kept as "images" per the register.
-
-[DRAFT] (5.74) "Terrarum ... orbi" and the catalogue of shrines, lakes, groves, altars, and images (fana lacus lucos aras simulacraque) name the physical objects of Roman cult. The poet gives the origin of the fear of the gods (divom metus) as one of the topics of this book, which is taken up at 5.1161-1240.
-
-[DRAFT] (5.82) These lines (5.82-90) recur at 6.58-66, and 5.88-90 repeat 1.75-77. The English repeats the earlier lines word for word, and "deos securum agere aevom" states the Epicurean doctrine that the gods live untroubled and do not govern the world, which is the point against "antiquas religiones".
-
-[DRAFT] (5.86) "Religiones" here is the plural of the register term "religion", and the sense is the old cult-fears and observances that return when men cannot explain heavenly phenomena. The English keeps "religions" rather than "superstitions", as the register requires.
-
-[DRAFT] (5.93) "Naturam triplicem, tria corpora" names sea, land, and sky, which the Epicureans (and Lucretius) treat as aggregates formed in time and so dissolvable. The "machina mundi" is the poem's image of the cosmos as a built structure, and "una dies" is the single day of its dissolution, which sets up the prediction of collapse in 5.95-96. A reader may hear in this a hint of modern cosmic mortality, but that is the reader's association, not the poet's claim.
-
-[DRAFT] (5.102) "Via ... munita fidei" is the "paved road of belief": sight and touch are the most direct routes to conviction, and since the destruction of the world cannot be shown to either, Lucretius must rely on argument (dictis). The "templa mentis" are the regions or precincts of the mind (templa as in "Acherusia templa", never "temples").
-
-[DRAFT] (5.107) "Fortuna gubernans" is "steering fortune", a parallel to "natura gubernans" at 5.77. This is a conventional prayer that the catastrophe not occur in the speaker's lifetime, and its note of piety sits oddly with the poem's denial of divine providence.
-
-[DRAFT] (5.112) The Pythia is the priestess of Apollo (Phoebus) at Delphi who spoke from the tripod, with the laurel as the god's plant. The comparison is borrowed from Lucretius's own critique at 1.738-739 of Empedocles, whose verses he says are worthy of the oracle, but here the claim is that his own pronouncements are "more holy and more certain."
-
-[DRAFT] (5.117) The Giants (Gigantum) were the earth-born sons of Gaia who attacked Olympus and were punished by Jupiter. The Latin "ritu par esse Gigantum" is the claim that men who deny the divinity of the heavenly bodies would be seen as being like the Giants, and this is probably a thrust at Stoic or traditional piety that treated sun and moon as gods.
-
-[DRAFT] (5.121) "Inmortalia mortali sermone notantes" is the accusation that Epicureans label immortal things with a mortal tongue, which is the charge Lucretius sets up to refute. In his view, sun, moon, sea, and earth are not divine at all, so the charge fails.
-
-[DRAFT] (5.128) These lines (5.128-141) closely repeat 3.784-797, the Book 3 argument that the mind cannot exist outside the body, and the English matches its Book 3 lines where the Latin agrees. The point is the Epicurean doctrine that each thing has its fixed place (certum ac dispositum), so mind (animi natura) needs the sinews and blood of a body.
-
-[DRAFT] (5.140) "Anima atque animus" is rendered "the spirit and the mind", following the register: anima is the vital principle ("spirit") and animus the ruling mind. In Book 3 Lucretius treats them as two parts of one nature, and the line is a compressed reminder of that.
-
-[DRAFT] (5.146-147) Epicurean doctrine compressed: the gods live in the intermundia, the spaces between worlds, not in any part of our world (in mundi partibus ullis). The point opposes the Stoic and popular view of a divinely inhabited cosmos; the argument runs from the gods' thin nature to the unlikeness of their dwellings (146-155).
-
-[DRAFT] (5.148-149) "Thin" renders tenvis, "the thought of the mind" is animi mente, the register's merge of mens with animus in a non-technical phrase. On Epicurean doctrine the gods are perceived only by the mind, through very fine images, not by the senses.
-
-[DRAFT] (5.155) The promise (quae tibi posterius largo sermone probabo) is not fulfilled in the poem as transmitted. The gods' dwellings are touched on at 3.18-24 but not proved at length. Whether this reflects the poem's unfinished state or a lost passage is disputed; the translation keeps the future tense as written.
-
-[DRAFT] (5.156-164) One long sentence whose subject is the infinitive clause "to say that..." and whose predicate is "desiperest" (is folly) at 165. The target is the teleological view (Stoic in particular) that the world was made for men, and that it is impious to question its eternity. "Memmi" is the dedicatee, Gaius Memmius, addressed again here.
-
-[DRAFT] (5.160) "Ratione vetusta" is rendered "ancient reasoning", with ratio in the sense of design or plan, a deliberate fit with the register's "reasoning". The line is difficult in construction: "quod... fundatum" is the object of the infinitives "sollicitare... vexare... evertere" in 162-163.
-
-[DRAFT] (5.165-167) The argument from the gods' self-sufficiency, a core Epicurean tenet: beings blessed and immortal need nothing from men and cannot be put in their debt. Compare the denial of divine anger or favour at 2.646-651 (= 1.44-49), a passage whose authenticity is contested in the proem.
-
-[DRAFT] (5.175-176) "Credo" is ironic ("I suppose"), mocking the supposition that life before creation lay in darkness. The Epicurean point is that non-existence involves no deprivation (cf. 3.830-869); the reader may also note "genitalis origo" (generative origin), echoing the "genitalia corpora" of the register.
-
-[DRAFT] (5.181-182) "Notities" is the Epicurean preconception (Greek prolepsis), the mental pattern of a thing; Lucretius argues the gods could have had no such pattern of men before men existed. The translation gives "notion" for lack of an English technical term.
-
-[DRAFT] (5.184) "Principiorum" is rendered "beginnings", a different word from "first-beginnings" (primordia), since the Latin differs. The term is a synonym for the same entities, here with "vis" (power) of the atoms, a point the register should record as a deliberate distinction.
-
-[DRAFT] (5.186) The sense of the question that opens at 181 closes here: "if nature herself did not give a likeness of creating" (speciem creandi). Here "species" is rendered "likeness", in the register's sense of pattern or model.
-
-[DRAFT] (5.187-194) The first-beginnings, by infinite chance combinations over infinite time, must have fallen on the arrangements that form this world. This is the same argument as 1.1021-1028 and 2.1067-1076 with the same wording of a random, trial-and-error process; a modern reader may hear a distant echo of selection, but that is the reader's association, not the poet's claim.
-
-[DRAFT] (5.195-199) The poet claims he could refute design from the visible faults of heaven alone, even if the primordia were unknown. "Tanta stat praedita culpa" opens a catalogue of the world's defects (200-234), a standard Epicurean argument against providence.
-
-[DRAFT] (5.204) "Duas partis" (two parts) is meant loosely: of the habitable earth remaining after mountains, seas and marshes, nearly two parts in three are lost to heat and frost, which is the poet's rhetorical estimate rather than a measurement.
-
-[DRAFT] (5.206-212) The syntax is difficult and 207-212 are punctuated differently in editions. The translation follows the Perseus text: the sequence of potential clauses (would choke with brambles, could not come out) depends on 207 "ni vis humana resistat" and 210-212 as the further conditional "if we did not turn..." Note "ad ortus" at 211 as "to birth", the clods called forth to growth.
-
-[DRAFT] (5.222-227) The child as a shipwrecked sailor is a famous passage of pessimism; the baby is cast up (proiectus) as if from the waves. "Luminis oras" (224) is the refrain "shining shores of light", first at 1.22 and here recalled in a bitter context. Lucretius is arguing from the evidence of a natural world not designed for human good.
-
-[DRAFT] (5.235-239) The argument that the world is mortal begins: the four constituents (earth, moisture, air, fire) are each mortal, so the whole is. "Principio" opens a new section after the transition from 234. Note that "omnia nativo ac mortali corpore constant" rests on the doctrine that composite bodies are born and perish, only the first-beginnings being immortal.
-
-[DRAFT] (5.240-246) The inference from the parts to the whole: what is composed of mortal, born parts is itself mortal. "Principiale aliquod tempus" is "some time of beginning", the world having a first moment and a final destruction, as argued at length in the rest of Book 5. The word "caeli" (heaven) names the sky or upper part of the world.
-
-[DRAFT] (5.247-250) The poet anticipates an objection that he is begging the question in treating earth, fire, water and air as mortal. Here Lucretius is, without naming, contradicting Empedocles and other thinkers for whom the four elements were eternal roots; the "I said" (dixi) refers back to earlier discussion in Books 1 and 2.
-
-[DRAFT] (5.254) The reading "aereaëre" is evidently corrupt in this printed text; the translation gives "air" (aere). Editors differ on the repair, and the printed form should not be taken as a manuscript reading.
-
-[DRAFT] (5.259) "Omniparens... commune sepulcrum" (mother of all and common tomb) is the same formulation as 5.259 echoing 1.250-251 and the 2.998-1000 passage on the earth as the mother of creatures and their burial. The earth is both womb and grave.
-
-[DRAFT] (5.261) Lucretius opens his argument against the sea's, the sky's, and the sun's permanence with the water cycle. The sea does not overflow because wind and sun draw it off (verrentes... deminuunt) and the earth filters the brine (percolatur... virus) so that fresh water rises at the river heads. The "unweaving" (retexens) is the translator's literal rendering of the sun's loosening of moisture.
-
-[DRAFT] (5.269) "Matter of moisture" renders materies umoris, using the register's "matter" for what the physics treats as the water's stuff. A reader should not hear "matter" here as the technical first-bodies. It is the water itself, filtered clean and returning.
-
-[DRAFT] (5.273) The text prints Aëra with a diaeresis (Greek accusative aēra). "Air" here is Lucretius's name for the surrounding fluid medium, the "great sea of air" (aeris in magnum... mare) into which things flow and from which they are renewed. This is the flux argument of Book 2 applied to the cosmos: every body sheds and receives, so none is fixed.
-
-[DRAFT] (5.281) The sun is called a "fountain of liquid light" (liquidi fons luminis), the same image of light as a flowing stream that Lucretius uses in the Book 2 passage on the sun's rays. The point is that the sun is not a static body but a continual source, its light spent and replaced at once. The comparison to lamps and torches (5.294-301) argues that this replacement is what permanence looks like.
-
-[DRAFT] (5.302) This is the conclusion for the heavenly bodies (solem lunam stellasque): sun, moon, and stars lose their fires continuously and so cannot be "inviolable" (inviolabilia). The denial that the heavens are immortal and divine is the central target of the book's opening sections. Epicurus is not named, but the argument is his.
-
-[DRAFT] (5.308) "Images" here translates simulacra in the plain sense of statues of the gods, not the Book 4 films that drift from surfaces. A reader who knows the technical term should not read it back into this line. The point is that even the cult's own objects decay, and the "holy divinity" (sanctum numen) cannot extend fate's limits (fati... finis) or resist nature's covenants (naturae foedera).
-
-[DRAFT] (5.312) The line is corrupt, and Bailey obelizes it (the Latin quaerere proporro, sibi cumque senescere credas, does not construe). The translation gives only the probable sense: that the monuments, as if questioning in turn, seem to ask whether they too age. This is a reconstruction of meaning, not a rendering of a secure text.
-
-[DRAFT] (5.326) Lucretius's argument from the lack of earlier poetry is that if the world had always existed, the Theban war and Troy (bellum Thebanum et funera Troiae) would not be the oldest themes. The Theban cycle and the Trojan war are the two great epic subjects. He argues that the absence of earlier songs shows the world to be recent.
-
-[DRAFT] (5.336) Lucretius claims to be the first to turn the Epicurean doctrine into Latin (in patrias... voces, "the speech of my fathers"). The claim is not strictly true, but it is a boast of priority within Latin verse. Note "reasoning" for ratio, as in the register: the doctrine's method as well as its content.
-
-[DRAFT] (5.339) Here Lucretius sets out the Stoic and Empedoclean catastrophes: conflagration (torrenti... vapore, associated with Phaethon's myth and with Heraclitus and Stoic ekpyrosis) and flood. He turns them against themselves: if the world has survived such disasters, they show how fragile it is, and a worse one would end it.
-
-[DRAFT] (5.351) These lines repeat 3.806-818 nearly verbatim, where they were used to show that the soul is mortal. Here the same classification of what can be eternal (solid body, void, or the infinite sum with nothing outside) is applied to the world. The English should conform to the Book 3 rendering; this is the trichotomy: solidity, the void, or having no external place for dissolution.
-
-[DRAFT] (5.361) "Sum of sums" renders summarum summa, the whole of all that exists, the infinite universe. It is eternal because there is no outside from which it could be struck or into which it could fly apart.
-
-[DRAFT] (5.373) The "door of death" (leti... ianua) is Lucretius's image for the openness of the world to destruction. The reader may feel the grim humor in the sky and sun and sea having no closed door against death; the gape (hiatu) is vast. This is the poem's usual way of making the argument felt and not merely stated.
-
-[DRAFT] (5.381) The Romans called a war duly declared, with the fetial priests' rites observed, a *bellum pium* (pio ... bello); Lucretius turns the phrase around, so that "in no way holy" (nequaquam pio) says the elemental war is without any rite or sanction. The sense is "impious" as well as "undeclared."
-
-[DRAFT] (5.395) The flood is not named here. The reader will probably think of Deucalion's flood, which the Greeks paired with Phaethon's conflagration as the two great catastrophes (umor ... regnarit in arvis). Lucretius gives it only the hedge "as the story goes" (ut fama est). The same phrase returns at 5.412, so the hedge is a refrain.
-
-[DRAFT] (5.397) Phaethon, son of the Sun, borrowed his father's chariot and lost control of it, scorching the earth until Jupiter struck him down with a thunderbolt (Phaethonta ... rapax vis solis equorum). Lucretius tells the myth in full only to reject it at 5.406 as "driven very far away from true reasoning" (a vera ... ratione). He keeps the poets' version of the event but replaces its cause with a shift in the balance of matter.
-
-[DRAFT] (5.419) Lines 419-431 closely repeat 1.1021-1028. That passage says the first-beginnings did not arrange themselves by design but, after trying every combination through endless time, fell into the patterns that make the world. The translation should therefore match its Book 1 rendering word for word wherever the Latin is the same (primordia rerum, ex infinito, plagis ponderibusque). Here "first-beginnings" is the fixed rendering of primordia.
-
-[DRAFT] (5.421) "Nor did they bargain what motions each would give" (pepigere) uses the language of contract. The image is of the first-beginnings as parties to an agreement, which the poet denies. This is a negative counterpart to the later "covenants" of nature (foedera naturae).
-
-[DRAFT] (5.440) Here the first-beginnings are called *principia* (omnigenis e principiis), a variant of primordia. The register's rule of distinct Latin for distinct English suggests keeping the variation visible. A rendering such as "beginnings of every kind," as the translation has it, can do that, with the Latin noted.
-
-[DRAFT] (5.456) The pun on *elementa* ("elements") is the register's: the same word names the letters of the alphabet in Lucretius's analogy between atoms and letters (1.197, 2.688ff.). Here it means the smallest constituent bodies, "much smaller elements" than those of earth (multoque minoribus ... elementis). The doctrine is that the lighter, finer bodies are the ones that rise.
-
-[DRAFT] (5.457) The earth's "open pores" (rara foramina) express the doctrine that even apparently solid things contain void, which is what lets the lighter bodies escape. The reader may associate this with Lucretius's earlier arguments for the inane (1.329ff.), though the verse does not repeat them.
-
-[DRAFT] (5.478) The comparison of the heavenly bodies, which neither sink nor rise but turn in the middle region, to limbs that stay still while others move (in nobis quaedam ... membra) is Lucretius's own analogy. It sustains his picture of the world as a body with "members" (membra, 5.381, 5.439), and links the cosmic and the human.
-
-[DRAFT] (5.495-497) The earth's settling is the last stage of the cosmogony: heavy matter sinks "like dregs" (ut faex) and the lighter elements are sorted out above it. The lines continue the sequence begun in 5.449 ff., where earth, sea, air and fire separate out by weight.
-
-[DRAFT] (5.498-505) The ether (aether ignifer) is the outermost, finest layer of the cosmos. The poet pictures it as steady and untroubled, carrying the stars' fires, while the air below it is stormy (turbantibus, procellis).
-
-[DRAFT] (5.507) The Pontus (Pontos) is the Black Sea. Its steady outflow through the Bosporus was a commonplace in ancient writing, and Lucretius uses it as a visible analogy for the ether's even flow (certo aestu, unum tenorem).
-
-[DRAFT] (5.509) Nunc quae sit causa canamus (the cause of the motions of the stars) opens the astronomical section. Lucretius gives a list of possible causes, not one.
-
-[DRAFT] (5.510-516) The first model is a rotating celestial sphere (magnus orbis) held at its poles by air, driven by a current above or below (alium supra… alium supter). The comparison is to a water-wheel (fluvios versare rotas), which turns when the current strikes its paddles.
-
-[DRAFT] (5.521) The Latin summania templa is a textual puzzle. It may refer to Summanus, the Roman god of nocturnal thunder, so that the phrase means "nightly precincts of heaven," or it may be a corrupt or variant reading for "highest." The translation takes "nightly," following the Summanus reading.
-
-[DRAFT] (5.526-533) This is the Epicurean doctrine of multiple explanations (plurisque… causas, plures causae). For celestial phenomena, which cannot be observed directly, any cause consistent with the appearances is admissible. Lucretius claims only that one of these causes must hold in our world (una… necessest), and that the surviving options are those that occur "in various worlds" (in variis mundis), a reference to the infinity of worlds.
-
-[DRAFT] (5.534-538) The earth stays at rest because the air below it is "joined from the beginning" (ex ineunte aevo coniunctam) to its parts, so the earth is not a load placed on air. A modern reader may hear a distant echo of the idea that weight is relative to position, but that is the reader's association, not the poet's claim.
-
-[DRAFT] (5.556-563) The comparison to the anima (vis animai) and the animus (animi vis) works as a proof by analogy: the body's weight does not burden the limbs, just as the air does not burden the earth. The register terms are anima = "spirit" and animus = "mind," and here the two are used almost interchangeably for the vital force.
-
-[DRAFT] (5.564-573) The point about the size of the sun is Epicurean: the senses do not lie about the size of distant bodies (nostris sensibus esse videtur). The sun is as large as it appears, or very nearly so, and the argument is that fire loses almost nothing in apparent size over distance.
-
-[DRAFT] (5.574) This line (perveniunt nostros ad sensus et loca fulgent) repeats 571 in the source and does not belong to the argument at this point. The translation keeps it, as the source prints it, so the files stay aligned line for line.
-
-[DRAFT] (5.575) The notho lumine ("bastard light") is borrowed light, reflected from the sun. Lucretius leaves open whether the moon shines by reflected or by its own light, as part of the same multiple-explanations method.
-
-[DRAFT] (5.596) This line repeats 584 in the source and does not fit its context, so editors treat it as a stray intrusion. The translation keeps it for alignment.
-
-[DRAFT] (5.599) The elementa vaporis ("elements of heat") are the first-beginnings of fire. As in the register, elementa recalls the letters of the alphabet, which Lucretius elsewhere compares to atoms.
-
-[DRAFT] (5.614-617) Lucretius gives two or more explanations for the sun's turning between the tropics, as his method requires where the evidence cannot decide. Capricorn (aegocerotis, "goat-horned") marks the winter turning-point and Cancer (canceris … metas) the summer one, the "goal-posts" being the turning-posts of a racecourse.
-
-[DRAFT] (5.622) The "holy judgment" (sancta … sententia) is Democritus's, the atomist predecessor of Epicurus, whom Lucretius honors here even while borrowing his explanation only as one possibility. The theory is that bodies nearer the earth are less swept along by the heavenly whirl (turbine), so the sun lags behind the fixed stars and seems to move backward through the signs. The translation follows the Latin and does not clarify the mechanics.
-
-[DRAFT] (5.637-645) The second explanation proposes alternating currents of air (aeraër, a doubled-vowel manuscript spelling of aër) that push the sun between the summer and winter signs. Lucretius supports it with the analogy of clouds moving in different directions at different heights (646-649). Neither this nor the Democritean theory is asserted over the other.
-
-[DRAFT] (5.656) Matuta is the old Italian goddess of dawn, identified with the Greek Leucothea. Her name stands here for the dawn itself, in the same figurative way as Ceres and Bacchus later (742-743); Lucretius elsewhere permits such names provided one does not take them for gods (2.655-660).
-
-[DRAFT] (5.663-665) "The story goes" (fama est) marks this as report, not observation: the legend that fires seen scattered on Mount Ida at daybreak gather into a single orb. It supports the claim that the sun's fire may be assembled anew each dawn from scattered seeds (semina … ardoris, "seeds of heat").
-
-[DRAFT] (5.679) The Latin text prints "conseque" and the translation does not follow it letter for letter. The usual correction is consequiae ("consequences, sequels"), which gives the sense "in sequence" here; the reading is a conjecture because the manuscripts are corrupt.
-
-[DRAFT] (5.687-688) "Node of the year" (anni nodus) is the equinox, the point where the ecliptic crosses the celestial equator and day and night are equal. The argument is that the sun's oblique path (obliquo … lumine, 693) through the zodiac (signiferi … orbis, 691) divides the sky into unequal arcs except at that point.
-
-[DRAFT] (5.701-704) "They seem to speak the truth" (videantur dicere verum) most plausibly refers back to those who hold the sun is renewed daily from gathering fires (660-665); the pronoun is not stated in the Latin. The point is that the varying speed of gathering would account for the seasonal change in the sun's rising-point, so the doctrine would be borne out.
-
-[DRAFT] (5.705-714) This begins the section on the moon's phases, again offered as a set of alternatives. First, the moon shines by reflected sunlight (solis radiis percussa), as those hold who picture it as a ball (pilai) moving beneath the sun. The reader may hear in this the correct modern explanation; the poem presents it only as one possibility among several, with no preference given.
-
-[DRAFT] (5.727-730) The "Babylonian doctrine of the Chaldaeans" (Babylonica Chaldaeum doctrina) held that the moon is itself half-luminous and turns, as in the second ball theory (720-726), while the Greek astronomers (astrologorum artem) held that it is lit by the sun. Lucretius's point is that each side denies the other without a decisive reason, so both remain open; the Latin of 729-730 is compressed and the translation keeps it close.
-
-[DRAFT] (5.731-736) The third alternative is that a new moon is created each month, in a fixed order, and destroyed. Lucretius defends it by the regularity of other recurring things, which prepares the procession of the seasons that follows.
-
-[DRAFT] (5.737-747) The procession of the seasons is a personified set-piece in the manner of a Roman triumphal or religious procession. Venus and Cupid ("winged herald", Veneris praenuntius … pennatus), Zephyr, Flora, Heat, Ceres, the etesian winds, Bacchus (Euhius Euan, from the ritual cry euhoe), Autumn, Volturnus, Auster, Bruma and Hiemps appear in turn. The names are poetic ornament for natural events, not divine agents, as Lucretius insists elsewhere; Bruma and Hiemps are the winter solstice and winter, and Volturnus is a south-east wind. The passage concludes by returning to the moon (748-750) with the argument from regularity.
-
-[DRAFT] (5.764) The cone is the earth's shadow, which narrows away from the sun (coni... umbras); in a lunar eclipse the moon passes through it. The "rigid" shadows are the dense, sharply bounded dark of the cone's core.
-
-[DRAFT] (5.771) This line repeats 764 verbatim (menstrua dum rigidas coni perlabitur umbras). Editors treat it as a misplaced duplicate. It follows 770, where it breaks the syntax of the question, and the translation prints it anyway to keep the source order and numbering.
-
-[DRAFT] (5.751) Lucretius gives several possible causes for eclipses and does not choose among them (pluribus e causis). This is the Epicurean method of multiple explanations: for phenomena that cannot be observed directly, every cause consistent with the appearances is allowed to stand. The lunar eclipse he offers is the earth's shadow, but he also allows an unseen dark body, the sun's own fading, or the moon's own light failing.
-
-[DRAFT] (5.772) The long sentence recalls the astronomical account just given and announces the return to the youth of the world (mundi novitatem, 780). The "closing of eyes" (conivent) in 778 pictures the sun and moon as eyes that shut and open. It adds to the rhetorical conceit of the personified heavens without being a doctrinal claim.
-
-[DRAFT] (5.781) Crerint is the contracted form of decreverint, "had decided," so the earth is shown choosing what to bear first and what to risk to the winds (incertis... ventis). The translation keeps the sense of decision. "The shining shores of light" (in luminis oras) is the register's fixed phrase for birth into daylight, and it recurs at 1.22, 1.170 and 1.179.
-
-[DRAFT] (5.791) The "mortal generations" (mortalia saecla) are the animal species, human beings included. The earth bears plants first, then animals, as the body first grows hair and feathers (788-790). Lucretius's idea of a spontaneous earthly origin of living things belongs to the Epicurean tradition and is not his own invention.
-
-[DRAFT] (5.795) "Mother" (maternum nomen) is a deliberate argument, not an ornament. The earth deserves the name because everything came from her (e terra... creata). Lucretius rejects the claim that animals fell from the sky or rose from the sea (793-794), and he returns to the title at 821-822.
-
-[DRAFT] (5.808) The "wombs" (uteri) are rooted growths in the soil that held the first infants, and the earth then nursed them with a milk-like juice (sucum... consimilem lactis). The picture is a literal analogy to human birth and lactation (813-815). A modern reader may hear a faint resemblance to later ideas of spontaneous generation, but that is the reader's association and not the poet's.
-
-[DRAFT] (5.825) The source prints two spellings of aerias run together (aeriasqueaëriasque). The sense, "and with them the birds of the air," is not in doubt, and the translation follows it.
-
-[DRAFT] (5.828) Lines 828-836 are Lucretius's argument that the world ages and changes (mutat... mundi naturam totius aetas). The earth ceased to bear as a woman past childbearing does (827). The idea that the world itself grows old and weaker is distinctly Lucretian here: the whole cosmos has a life cycle, and the earth's present inability to produce what it once did (quod potuit nequeat) follows from that. Elsewhere, at 2.1150-1174, he says the same of the world's decline.
-
-[DRAFT] (5.839) The Latin of this line is corrupt in the manuscripts (androgynem, interutras necutrumque utrimque remotum). The sense, a hermaphrodite creature of both sexes and of neither, is clear, and the translation follows the reading that gives it. The androgyne belongs with the other monsters (portenta) that the earth tried to make and could not sustain.
-
-[DRAFT] (5.846) The failed monsters (monstra ac portenta) are the poem's account of why only some kinds survive. They die because they cannot feed, grow up, or breed (847-848), since nature "frightened off their growth" (natura absterruit auctum). A modern reader may hear natural selection in this, and in 855-877 where only protected kinds survive. That is the reader's association, since Lucretius is not describing change in species over time.
-
-[DRAFT] (5.859) The source misprints tuta as "tutaTA." The line says that cunning, courage, or speed has kept each surviving kind safe from the start of its life (ex ineunte aevo). The translation reads tuta.
-
-[DRAFT] (5.867) Lucretius addresses Memmius directly here (Memmi) and again in the second person. Memmius, the dedicatee, was a Roman aristocrat and politician, and the poem is addressed to him throughout. The creatures "handed over to our protection" (tutelae tradita) are the animals that survive by their usefulness to humans (dogs, horses, sheep, cattle).
-
-[DRAFT] (5.878) The passage argues from growth rates and constitution: composite beasts cannot exist because their parts would mature, age, eat and desire differently. Centaurs (Centauri) are half man, half horse; "alienigenis membris" ("limbs from alien stocks") names the mismatch of origins on which the whole argument turns.
-
-[DRAFT] (5.884) The horse is "in flower" (floret) at three while the boy still seeks the breast (ubera mammarum in somnis lactantia quaeret), so the two halves of a Centaur could not keep pace with each other. The verb "flower" is used of both horse and boy, and returns for the human at 888 (florenta iuventas).
-
-[DRAFT] (5.890) "Veterino semine equorum" ("seed of draft horses") uses the technical "seed" for animal generation, not the atomic "seeds of things" (semina rerum). It is the same word on a different level, and the context makes clear that it is the biological sense here.
-
-[DRAFT] (5.892) Scylla is the sea monster of the Odyssey, with a woman's upper body and a girdle of dogs. "Semimarinis" ("half of the sea") describes her lower half, and she is the second of Lucretius's examples of composite creatures.
-
-[DRAFT] (5.897) The translator's query about Venus is answered by the register, which keeps the name "Venus" for sexual desire throughout (nec simili Venere ardescunt). The metonymy is common in Latin, and the same use recurs at 962. The English does not gloss it as "desire", so the divine name stays visible.
-
-[DRAFT] (5.905) The Chimaera is the Homeric fire-breather: lion in front, serpent behind, and in the middle a she-goat (Greek *chimaira*). Lucretius says only "media ipsa, Chimaera" ("in the middle herself, the Chimaera"), and the pun on the goat is not carried by the English "herself". The point of the argument is that a lion's flesh would burn in its own fire like all other flesh (flamma ... torrere atque urere).
-
-[DRAFT] (5.907) "Tellure nova caeloque recenti" ("when the earth was new and the sky fresh") refers to the newness of the world, which was the usual ground for the claim that early earth could produce monsters. Lucretius answers that "newness" is only a name (novitatis nomine inani), and then adds the fantasy of golden rivers and jewelled trees as absurd instances. The reading "suesse" at 912 is the correct form of the corrupted printing noted by the translator.
-
-[DRAFT] (5.916) "Semina rerum" ("seeds of things") is the register's fixed term for the first-beginnings, here used in the argument that, even with many seeds present in the new earth, nothing shows that mixed creatures could arise. The proof is by analogy: plants today, which the same earth bears, cannot be intertwined with one another (non ... inter se possunt complexa creari).
-
-[DRAFT] (5.924) "Foedere naturae certo" ("by nature's fixed covenant") is the first appearance in this segment of the register term "covenant" (foedus), the legal word for a treaty. It names the lawlike limits within which each kind arises, and the phrase recurs in the poem's accounts of what can and cannot be (cf. 1.584 on fixed limits for every thing).
-
-[DRAFT] (5.925) Here begins the account of early humans, the "primitive" or "hard" race that the verse sets against the softness of later life. It is a Lucretian anthropology, not a golden age: the humans are tougher because the earth that bore them was "dura" ("hard"), and the tone of the whole passage is of toil and fear (miseris mortalibus, 944).
-
-[DRAFT] (5.932) "Volgivago ... more ferarum" ("in the roaming manner of wild beasts") begins a sequence of negations (nec ... nec ... neque) that describes what early humans lacked: ploughing, planting, pruning, fire, clothes, common good, laws. The reader is meant to feel the accumulation of absence.
-
-[DRAFT] (5.941) "Arbita" are the fruit of the strawberry tree (Arbutus unedo), which ripens red in late autumn and winter, as the line says. Lucretius treats it as the food of early humans, and it returns at 965 as a payment for sex.
-
-[DRAFT] (5.948) The "templa nympharum" ("woodland precincts of the nymphs") are sacred places only in the loose sense of haunts; the register's rule that *templa* means regions or precincts, not "temples", applies. The nymphs are the spirits of springs and woods in Roman belief, and the passage is the first mention of anything like religion in the human story.
-
-[DRAFT] (5.950) The repetition "umida saxa, umida saxa" ("the wet rocks, the wet rocks") is Lucretius's own, a deliberate echo that makes the line pick up the previous one and slow the rhythm, as water drips. The English keeps the doubling.
-
-[DRAFT] (5.958) "Commune bonum" ("a common good") and "legibus" ("laws") mark what is missing before the origin of society, which Lucretius takes up later in the book (from 1011). The reader will meet again the contrast between the state of nature and the social contract; the verse does not use the later vocabulary, and any such association is the reader's own.
-
-[DRAFT] (5.962) The three modes of union (mutual desire, violence, price) are laid out with *vel ... vel ... vel* ("either ... or ... or"). The cost of acorns, arbute berries and pears recalls the earlier line on the foods (939-942).
-
-[DRAFT] (5.970) "Saetigeris ... subus" ("bristly boars") is a simile of sleeping like beasts: the people lie naked on the ground and cover themselves with leaves (foliis ac frondibus). It sits with 984-987, where wild beasts drive them from their beds.
-
-[DRAFT] (5.973) The passage on night and day (973-981) answers the fear that the sun might not return. Lucretius says early humans did not wonder at it because they had seen the alternation since childhood (a parvis ... consuerant); the argument is from habit, and it anticipates his later account of how wonder at the heavens gave rise to fear of the gods.
-
-[DRAFT] (5.976) "Rosea face sol" ("the sun with rosy torch") is a poetic image of the dawn sun, borrowed from epic and tragedy, where the sun or Dawn carries a torch. It is one of the few places in the passage where the diction rises toward epic.
-
-[DRAFT] (5.997) The placeholder asks what "vermina" are. The word is rare: it seems to mean sharp internal pains, griping of the bowels (from vermen, a twisting), and the translation takes it so ("gripings"). Some editors and readers take it as "worms" infesting the wounds, which would fit the foul sores (ulcera tetra, 995) but not the "savage" (saeva) pains.
-
-[DRAFT] (5.1006) The placeholder asks about ratio. Here "improba navigii ratio" means the technique or art of seafaring, not Epicurean "reasoning" as in the register's usual rendering. The translation uses "craft", a deliberate departure from the fixed term, since the sense is practical skill.
-
-[DRAFT] (5.1011) The lacuna after 1012 is marked in the text. The transmitted "cognita sunt" (1013) has lost its subject, and the sense probably concerned the bonds of marriage or the first knowledge of family ties. The translation prints the lacuna unnumbered and supplies nothing. The sentence is therefore broken at that point, and "were known" has no subject in the English.
-
-[DRAFT] (5.1017) "Venus inminuit viris" is the goddess standing for sexual love, which Lucretius says sapped the primitive strength (viris). Here Venus is a force in the human story rather than the divine patron of the proem. In the translation the name is kept and the sense left to the context.
-
-[DRAFT] (5.1025) "Foedera" (covenants) is the register's term for nature's covenants, but here it means the human compacts of mutual non-aggression made among neighbours (1019-1020). This is the beginning of Epicurean social contract. Lucretius says it did not hold universally, only for "a good and great part" (bona magnaque pars), and the translation keeps "covenants" so the vocabulary connects to the later political account (5.1136 ff.).
-
-[DRAFT] (5.1028) This opens the argument on the origin of language, which is directed against the view that one man gave things their names. "Natura" and "utilitas" (need) together cause speech: nature supplies the capacity for varied sounds, need shapes the names. The parallel with children pointing (1030-1032) is offered as evidence of how it happens, not as an analogy for its own sake.
-
-[DRAFT] (5.1041) The "someone" who "distributed names" (nomina distribuisse) is a Greek-philosophical target, probably the doctrine, found in Plato's Cratylus and in Stoic thought, of a name-giver (nomothetes). The attack is Epicurean: language arose naturally from the earliest humans' feelings and needs, not from the invention of a single wise man. Lucretius does not name the opponent.
-
-[DRAFT] (5.1047) The placeholder asks about notities. In Epicurean terms it is the "preconception" (Greek prolepsis), a general concept stored in the mind from repeated experience of things. Lucretius's argument is that the supposed first name-giver could not have had any notion of the usefulness of speech unless others had already been using it, since such a notion is formed by experience.
-
-[DRAFT] (5.1063) The placeholder concerns the Molossian dog. It was a large breed from Molossia in Epirus, prized in antiquity as a guard and hunting dog, and a stock example of fierce, powerful dogs. The translation keeps the ethnic adjective as Lucretius has it.
-
-[DRAFT] (5.1075) "Pinnigeri Amoris" is the winged Cupid (Love) personified as the source of the stallion's desire. The "spurs" (calcaribus) are the goad of passion, an image drawn from riding. The Latin uses the mythological figure for an animal drive, and the translation keeps the personification.
-
-[DRAFT] (5.1091) This line turns from language to fire, answering an objection Memmius (the addressee) might silently raise: how did humans get fire? The sentence that follows gives lightning (fulmen) and friction of branches as the two possible sources (1101, "quorum utrumque"), without deciding between them, which is typical of Lucretius's method of multiple explanations. The same fire is then said to have been put to use in cooking, taught by the sun (1102-1104).
-
-[DRAFT] (5.1105) The subject of this passage is the same as the preceding one: the kings and talented men who lead the change from the primitive way of life to cities and property. "Fire" (igni) points back to the discovery of fire and cooking earlier in the book's history of civilization.
-
-[DRAFT] (5.1108) The account of early kingship (reges) is a hypothetical sociology, not a record: Lucretius gives kings a citadel as "defense and refuge" (praesidium perfugiumque), a pair of terms he will reuse for the fearful human mind at 5.1186, where the same word (perfugium) names the refuge of handing everything to the gods.
-
-[DRAFT] (5.1113) The invention of gold (aurum repertum) reverses the old standard of "looks and strength" (facies, vires) with wealth. Here the Epicurean doctrine that natural needs are small begins to surface, and it is stated outright at 1117-1119 ("to live sparingly with a level mind," vivere parce aequo animo), which echoes Epicurus' teaching that natural wealth is limited and easily obtained.
-
-[DRAFT] (5.1117) "True reasoning" (vera ratione) is the register's fixed rendering of ratio as the Epicurean method; the line states the school's ethical doctrine that frugality is itself riches, in a compressed form that a reader might take for a proverb.
-
-[DRAFT] (5.1125) The thunderbolt simile (quasi fulmen) is an image of envy (invidia) striking down the powerful, and it prepares the poem's later treatment of the thunderbolt as a natural event misread as divine punishment (5.1218-1221). The Latin syntax is loose here, with the subject (invidia) held back to the next line, and the English keeps that delay. "Tartarus" (Tartara) is the lowest region of the underworld, used here as a figure for ruin and not as a place Lucretius believes in.
-
-[DRAFT] (5.1135) The line (nec magis id nunc est neque erit mox quam fuit ante) is a remark on how little the habit of "wisdom from another's mouth" has changed, and it closes the digression on ambition. Some editors suspect the line is out of place, but the translation follows the transmitted text without comment on the point.
-
-[DRAFT] (5.1136) With "the kings slain" (regibus occisis) Lucretius turns to the fall of monarchy and the rise of magistrates and law. This is a historical sketch in the manner of contemporary social-contract thought, with no named event; Roman readers might hear in it the expulsion of the Tarquins, but the poet does not say so.
-
-[DRAFT] (5.1155) "Common covenants of peace" (communia foedera pacis) belongs to the register's family of foedera, the Epicurean idea that justice is a compact made for mutual advantage and not a thing existing in nature. Epicurus' maxims on justice as a pact not to harm or be harmed lie behind it.
-
-[DRAFT] (5.1161) Here begins the account of the origin of religion. Lucretius's explanation (causa) is psychological and anthropological: early men experienced dreams and waking visions of the gods and drew false conclusions, which accords with Epicurean doctrine that the gods exist as images but have no concern for the world. The "images" (simulacra) are not named in this passage, but the "forms" (facies) seen in sleep and waking are the same phenomenon treated in Book 4.
-
-[DRAFT] (5.1175) The reasoning that early men "gave them eternal life" (aeternamque dabant vitam) because the visions kept returning corresponds to the Epicurean account of the gods as supplied by a ceaseless stream of images (subpeditabatur). The reader should note that Lucretius accepts the gods' blessed immortality as true elsewhere, and what he faults is the inference from it to divine governance of the world.
-
-[DRAFT] (5.1183) Lucretius gives a second source of belief: ignorance of causes (nec poterant ... cognoscere causis) for the regularity of the heavens. This is the standard Epicurean diagnosis, and the poem argues throughout that the heavens work by natural causes, which Book 5 goes on to explain (5.509 ff.).
-
-[DRAFT] (5.1190) Line 1190 is textually troubled in the manuscripts, and editors have tried to repair or bracket parts of the catalogue of heavenly phenomena in 1189-1193. The translation follows the Latin as printed in the source, repeating "the moon" and "night" as the Latin does.
-
-[DRAFT] (5.1194) The apostrophe "O unhappy human race" (O genus infelix humanum) is the poet's own cry against the consequences of the error. It may be set beside the denunciation of religion at 1.101 ("tantum religio potuit suadere malorum"), where the same charge is made.
-
-[DRAFT] (5.1198) The note on veiled head: the Roman rite required the worshipper to cover the head with a fold of the toga (velatum caput) when sacrificing, as opposed to the Greek practice of sacrificing bareheaded. Lucretius sets "piety" (pietas) against this show and defines the true kind as a mind at peace (pacata mente) in the line that follows.
-
-[DRAFT] (5.1204) The description of fear arising on looking at the heavens (cum suspicimus ... caelestia ... templa) begins a passage that makes the sky the occasion of religious dread. "Walls of the world" (moenia mundi, 1213) is the register's fixed rendering, as at 1.73, where they are "flaming"; here the question is whether they can last, and the Epicurean answer, given at length elsewhere in Book 5, is that every world is born and will perish. A reader may hear in the worry about the world's end an anticipation of later cosmology, but that is the reader's association and not the poet's.
-
-[DRAFT] (5.1211) "Poverty of reasoning" (rationis egestas) names the cause of fear: the mind has no explanation to hand. The line carries the poem's central claim that terror follows from ignorance, and the same idea underlies the refrain at 1.146-148, where the "face and reasoning of nature" (naturae species ratioque) is what scatters it.
-
-[DRAFT] (5.1226) The storm-at-sea example with the "commander of a fleet" (induperatorem classis) uses an archaic form of imperator, as in Ennius, and probably suggests a Roman general with legions (legionibus) and war elephants (elephantis), such as those of Pyrrhus or Hannibal. The point is that even the mighty pray in vain (nequiquam) and drown anyway.
-
-[DRAFT] (5.1234) The note on fasces: the fasces (fascis) were bundles of rods with an axe (securis) carried by lictors before Roman magistrates as emblems of their authority to flog and execute. Lucretius shows the "hidden force" (vis abdita) crushing even these signs of power, which recalls the fall of kings and thrones at 1136-1140.
-
-[DRAFT] (5.1236) The earthquake (tellus ... vacillat) is the last of the three illustrations of terror, after thunder and storm. Lucretius's explanation of earthquakes is given in Book 6; here the phenomenon serves only as a reason for the mortal habit of assigning command (gubernent) to gods.
-
-[DRAFT] (5.1241) The metals' discovery by forest fire is Lucretius's own rationalist account; the sequence (copper and bronze, gold, silver, lead, then iron) follows the order of use in the Epicurean history of culture, which assumes that human skills arise from chance and necessity and not from divine gift. "Potestas" for lead and silver is the sense of their "power" or effective property, and the translation keeps "weight" and "power" literally.
-
-[DRAFT] (5.1250) The hunting aside is compressed: Lucretius says that trapping with a pit and fire (fovea atque igni) is an older method than the organized hunt with nets and dogs, which supports fire as a possible origin of the forest blaze. It is offered as one of several alternative causes, in the Epicurean manner of "multiple explanations" (seu… sive… sive).
-
-[DRAFT] (5.1252) "Quicquid id est, qua cumque e causa" closes the list of possible causes without choosing among them, a regular Epicurean method for phenomena that cannot be settled by observation. The doctrine, not the particular cause, carries the argument.
-
-[DRAFT] (5.1257) The English renders "concreta" as "hardened" and keeps "bronze" for "aes", since the Latin word covers both copper and bronze. Reading "aeris" as "of bronze" follows the register, though a reader should know that Lucretius does not distinguish the two metals.
-
-[DRAFT] (5.1261) "Lacunarum… vestigia": the "lacunae" here are the hollows or pits in the ground, an ordinary Latin sense, and have nothing to do with a gap in the text. The metal took the shape of the cavity it had run into, and this suggested casting.
-
-[DRAFT] (5.1275) The reversal of esteem between bronze and gold is a Roman observation of the poet's own day, and "nunc" marks it as contemporary. It leads to the general lesson of 1276-1280 on how the value of things shifts with time.
-
-[DRAFT] (5.1282) Memmius is addressed here by name for the first time in this segment; the second-person address and the claim that the reader can work it out "per te" reflect the poet's habit of drawing the dedicatee into the argument.
-
-[DRAFT] (5.1283) The list of "ancient weapons" (hands, nails, teeth, stones, branches, fire) belongs to the Epicurean primitive stage of humanity before metal. The order bronze before iron in 1286-1288 matches the Three Age pattern known to Hesiod and later to modern archaeology, though a modern reader should take that as the reader's association and not the poet's claim.
-
-[DRAFT] (5.1302) The "Lucanian oxen" (boves Lucas) are elephants, so called because Romans first met them in Lucania in the army of Pyrrhus (280 BC). "Poeni" are the Carthaginians, who used elephants against Rome in the Punic Wars, and "anguimanus" (snake-handed) describes the trunk. The English keeps "Lucanian oxen" as Lucretius's own coinage and does not substitute "elephants".
-
-[DRAFT] (5.1308) The catalogue of animals in war (bulls, boars, lions) is Lucretius's argument that such inventions are doomed because the beasts turn on their own side. The pattern of "ne quiquam" (in vain) recurs at 1271, 1313, and 1332, which marks each failed experiment.
-
-[DRAFT] (5.1319) The manuscripts give "patebant" (lay open), which does not suit the sense; most editors read "petebant", "made for", as in the English. The reading is an emendation, and the translation follows it.
-
-[DRAFT] (5.1327) Lines 1327 and 1328 are two forms of one line, one with "suo… sanguine" and the other with "in se fracta", and both appear in the manuscripts. Editors keep one and bracket or delete the other; the translation prints both, as the source does, so the files stay aligned.
-
-[DRAFT] (5.1341) Lines 1341-1349 are often suspected as a later addition or unrevised alternative draft, since the poet's doubt that men foresaw the harm sits awkwardly with the preceding account. The translation prints them as given.
-
-[DRAFT] (5.1348) "In variis mundis varia ratione creatis" invokes the Epicurean doctrine of an infinite number of worlds (mundi), here used to say that such a war might have happened on some other world as well. A modern reader may hear an anticipation of later plurality-of-worlds thinking, but that is the reader's association, not Lucretius's claim. The register renders "mundus" as "world".
-
-[DRAFT] (5.1354) The manuscripts have a doubled word, "coegit coëgit", a scribal doubling of a single form; the translation reads "coegit". The sentence says that wool-working was first a man's task by nature's compulsion, before it passed to women.
-
-[DRAFT] (5.1357) "Agricolae… severi" refers to the stern farmers who reproached the men for the work and so assigned wool to women while taking on the hard labor themselves; the passage is Lucretius's own aetiology of the division of labor and is not found in other Epicurean sources.
-
-[DRAFT] (5.1362) The Latin order is *rerum ... natura creatrix*, with *primum* between them, so *rerum* can go with *natura* (the title formula, which the register fixes as "the nature of things") or with *creatrix* ("creator of things"). The English takes the second reading and drops the formula. Check the renderings at the lines you cite (1.629, 2.1117), which I have not seen, and decide whether this is a deliberate exception, or whether "the nature of things herself, the creator" would keep the formula.
-
-[DRAFT] (5.1387) *Dius* can mean "divine, godlike" and also "bright, of the open air", as in *sub divo*, "under the open sky". The English takes the open-air sense; "godlike leisure" would hint at the Epicurean picture of the gods' ease, which is not obviously in play here.
-
-[DRAFT] (5.1388-1389) This is the first appearance of a refrain that returns at 5.1454-1455, with *eruit* ("draws out, digs out") here and *erigit* ("raises") there. The English matches at 1388 and 1454, and varies only the verb, as the Latin does. The phrase is *luminis oras* without *dias*, so it is not the full refrain "the shining shores of light" (1.22 and elsewhere); keep "the shores of light" without "shining".
-
-[DRAFT] (5.1392-1396) These lines reuse 2.29-33, with changes: *saepe itaque* for *cum tamen*, *corpora habebant* for *corpus habemus*, *ridebat* for *adridet*, and *pingebant* for *conspergunt*; the person and tense shift from "we" to "they". Only the unchanged Latin (*inter se prostrati in gramine molli / propter aquae rivom sub ramis arboris altae*, and *anni tempora ... viridantis floribus herbas*) should match the Book 2 English word for word. I have not seen the Book 2 English, so check it. The reuse makes the first men's simple pleasure the same as ours, which is the point of 1409-1411.
-
-[DRAFT] (5.1408) *Vigiles* are those who stay awake (cf. *vigilantibus*, 1405). "Watchmen" suggests an office, so "the wakeful" may be safer here. The same word is used of the sun and moon at 1436 (*vigiles mundi*), and the English should either keep that echo in both places or drop it in both.
-
-[DRAFT] (5.1409) *Genus* looks like the subject of *didicere*: "and the race (of men now) has learned to keep the measure", set against the *silvestre genus* of 1411 and *hominum genus* at 1430. "In its kinds" in the English seems to take it otherwise; please recheck. Also, *extra numerum* (1401, "out of time") and *numerum servare* (1409, "keep the measure") are a deliberate pair, so the English should use the same word for *numerum* in both.
-
-[DRAFT] (5.1411) *Terrigenae* (also 1427), "the earth-born", are the first humans, whom Book 5 earlier describes as brought forth by the earth. The word is not in the register; consider adding "earth-born" for *terrigenae* so that 1411 and 1427 stay identical.
-
-[DRAFT] (5.1419-1422) *Quam reor* marks the story of the first wearer of a pelt, killed by ambush while the pelt was torn apart in the fight, as Lucretius's own inference rather than a received myth. The English keeps the conjecture visible with "I believe".
-
-[DRAFT] (5.1429) *Plebeia* ("common", the cloth of the plebs) sets purple and gold against plain cloth. The same contrast appears in 2.34-36, just after the lines reused at 1392-1396, where purple coverlets (*ostro rubenti*) are weighed against a *plebeia vestis* as cures for fever. "Common" here and in Book 2 should be rendered alike.
-
-[DRAFT] (5.1432-1433) The compressed doctrine is that natural pleasure has a limit (*quae sit habendi finis ... quoad crescat vera voluptas*). Beyond that limit, more possessions add only empty cares (*curis inanibus*, 1431), not more pleasure.
-
-[DRAFT] (5.1436) *Templum* is a marked-off region of the sky, originally the augur's space for observation, so "precinct", as for *Acherusia templa* (1.120), is right. The sun and moon are *vigiles* here, echoing the human *vigiles* of 1408; see the note there.
-
-[DRAFT] (5.1444) The Latin as supplied prints "poetaepoëtae", two spellings run together, apparently a source artifact for *poetae*. The English is unaffected, but check the line against `latin/`.
-
-[DRAFT] (5.1445) *Elementa* here are the letters of the alphabet, so the line says that writing was invented not long before the poets began to record deeds. "Elements" is kept per the register, which also uses the word for atoms (compare the letter analogy at 1.197), and the double sense is the point.
-
-[DRAFT] (5.1446-1447) The claim that earlier times lie beyond our view (*respicere aetas nostra nequit*) matches the argument at 5.324-327 that no poets sing of anything before the Theban War and the fall of Troy. *Nisi qua ratio vestigia monstrat* names the method of the whole account: inference from traces by reasoning.
-
-[DRAFT] (5.1451) *Daedala* here qualifies the finished work (*signa polita*), not a maker, so it cannot be "artificer" as at 1.7 (*daedala tellus*) and 5.234. The register should record it as a second sense, "artful" or "skilfully wrought", with the same root, Daedalus the craftsman. The English currently has "artful", which fits.
-
-[DRAFT] (5.1452-1453) *Progredientis* is genitive and agrees with *mentis*, so the mind itself is "advancing step by step". The English "as men advanced" shifts the subject slightly. The Latin verb is singular (*docuit*), with *usus* and *experientia* as its subjects.
-
-[DRAFT] (5.1454-1455) These lines repeat 5.1388-1389 (see the note there), with *erigit* for *eruit*. The English at 1454 should stay identical to 1388, with "raises" rendering the changed verb.
+Notes
+
+[1] (5.8) Epicurus, as at 1.66, is not named; he is named once in the poem,
+    at 3.1042. "He was a god, a god" (deus ille fuit, deus) is meant within
+    the poem's own terms, and is defended at 49-54: the man who freed life
+    from fear with words, not arms, deserves the title more than any of the
+    gods of the legends.
+
+[2] (5.14) Ceres is the Roman goddess of grain and Liber the Roman wine god,
+    identified with Bacchus. Lucretius uses the names in the way he allows
+    at 2.655-660, for the things and not for gods, and ranks the gifts of
+    grain and wine below the gift of a life well lived.
+
+[3] (5.22-36) The Labors of Hercules, the great benefactor of legend, in no
+    canonical order: the Nemean lion, the Erymanthian boar ("the Arcadian
+    boar"), the Stymphalian birds, the Cretan bull, the hydra of Lerna, the
+    three-bodied Geryon, the man-eating mares of Diomedes of Thrace, and the
+    serpent that guarded the golden apples of the Hesperides on the Atlantic
+    shore at the far west of the world. The argument (43-48) is that these
+    monsters were far away and the real monsters, desire and fear, live in
+    the heart.
+
+[4] (5.53) The printed text has iam mortalibus e divis, "from the gods to
+    mortals themselves", and the English renders it. Most editors correct to
+    immortalibu' de divis, "about the immortal gods themselves", which gives
+    the expected sense: Epicurus spoke with divine authority about the
+    nature of the gods. The reader should take the line with that in mind.
+
+[5] (5.75) Simulacra here are statues of the gods, the cult images that
+    stand with the shrines, lakes, groves and altars of Roman worship; so
+    again at 308, where the statues crack with age. "Images" is kept so that
+    the word remains one word across the poem, though the sense is not that
+    of the thin films of Book 4.
+
+[6] (5.82-90) These nine lines recur word for word at 6.62-70, and 88-90 are
+    1.75-77, the summary of what Epicurus brought back from beyond the walls
+    of the world (also at 1.594-596). The English repeats its earlier lines
+    exactly. The doctrine that the gods "lead a life without care" (securum
+    agere aevom) is the Epicurean one: the gods exist, but neither make nor
+    govern the world, and those who know this still fall back into "the old
+    religions" if they cannot explain the sky.
+
+[7] (5.93-96) Sea, land and sky are the "three bodies" of the world. "The
+    mass and machinery of the world" (moles et machina mundi) pictures the
+    cosmos as a built structure that a single day will bring down. The
+    prediction is the book's first great theme, argued from 235 to 415.
+
+[8] (5.103) Templa mentis, the regions of the mind, as "the precincts of
+    Acheron" at 1.120; templa is "precincts" wherever it occurs, of heaven
+    at 521 and 1204, of the nymphs' woodlands at 948, and of the whole
+    revolving sky at 1436, never "temples". "The paved road of belief" (via
+    munita fidei) is sight and touch: since the end of the world can be
+    shown to neither, Lucretius must rely on argument.
+
+[9] (5.107) Fortuna gubernans, matching "steering nature" (natura gubernans)
+    at 77. The wish that the catastrophe not come in the speaker's lifetime
+    is a conventional turn of piety, and the next lines (110-112) at once
+    claim that reasoning gives surer pronouncements than any oracle.
+
+[10] (5.112) The priestess of Apollo (Phoebus) at Delphi, who spoke from the
+     tripod with the god's laurel. The line repeats 1.739, where Lucretius
+     said the same of Empedocles' verses; here he claims it for his own.
+
+[11] (5.117) The earth-born Giants who made war on the gods of Olympus and
+     were struck down. The charge that those who deny the divinity of sun,
+     moon and sea are like the Giants is aimed at the Stoics and at
+     traditional piety, which treated the heavenly bodies as gods; Lucretius
+     answers that they are not divine at all (122-125).
+
+[12] (5.128-141) These lines rework 3.784-797, the argument that the mind
+     cannot live apart from the body because every thing has its fixed
+     place. The English repeats its Book 3 lines where the Latin agrees and
+     varies at 128 and 141, where the Latin varies. Here the argument serves
+     a new end: the earth, sea, sun and stars have no sentient part and so
+     cannot be gods.
+
+[13] (5.140) Anima and animus, "spirit" and "mind", the two parts of one
+     nature distinguished in Book 3; the pair returns at 556-563, where the
+     way the body carries its own weight without strain illustrates how the
+     air carries the earth.
+
+[14] (5.146-154) The Epicurean gods live not in our world but in the spaces
+     between worlds, in bodies so fine that they are perceived only by the
+     mind (148-149, "the thought of the mind" for animi mente). Their
+     dwellings were described at 3.18-24 as untouched by wind, rain and
+     snow.
+
+[15] (5.155) The promise of a full account of the gods' dwellings is never
+     kept in the poem as we have it. Whether a passage was lost or never
+     written is not known; the translation keeps the future tense as
+     written.
+
+[16] (5.165-167) The gods are blessed and immortal and need nothing from
+     men, so they could not have been moved to make the world by any hope of
+     gratitude. This is the doctrine of 1.44-49 (repeated at 2.646-651),
+     that the gods are touched by no favor and no anger.
+
+[17] (5.175) "I suppose" (credo) is ironic. The Epicurean answer is that
+     what has never been born is deprived of nothing, the argument used of
+     the dead at 3.830-869.
+
+[18] (5.182) Notities is the Epicurean "preconception" (Greek prolepsis),
+     the general picture of a thing that the mind forms from repeated
+     experience. The gods could not have had such a picture of men before
+     any men existed; the same word and the same argument return at 1047,
+     against the man who is supposed to have invented speech. "Notion" is
+     the nearest English.
+
+[19] (5.184) Principia, Lucretius's other name for the first-beginnings, is
+     "beginnings" wherever it occurs, so that the two Latin words stay two
+     in English; so again "beginnings of every kind" at 440.
+
+[20] (5.187-194) The first-beginnings, struck and driven through infinite
+     time, tried every combination until they fell into the arrangements
+     that make this world; the argument of 1.1021-1028, and these lines
+     recur at 422-431. A reader may hear in the trial of every combination
+     an anticipation of later accounts of order arising without design; that
+     is the reader's association, not the poet's claim, which is only that
+     no god was needed.
+
+[21] (5.222-227) The child cast up on the shore like a shipwrecked sailor is
+     the book's bleakest answer to the claim that the world was made for
+     men. "The shores of light" (luminis oras) lacks dias here, so the
+     English lacks "shining"; the same at 781, 1389 and 1455, while the full
+     refrain "the shining shores of light" is kept for the lines that have
+     it (1.22 and elsewhere).
+
+[22] (5.234) Natura daedala rerum, as "the artificer earth" at 1.7 and
+     1.228: nature as a cunning workman, a figure for the working of the
+     first-beginnings and not a maker standing outside them.
+
+[23] (5.247-250) Earth, fire, water and air were shown to be born and
+     perishing in Book 1 (705-829), against Empedocles and the others who
+     made them eternal roots of things; Lucretius is defending himself
+     against the charge of assuming what he set out to prove.
+
+[24] (5.259) The earth as mother of all and tomb of all, the pairing of
+     1.250-251 (mother earth receiving the rain of father ether) and
+     2.998-1000, where what came from the earth goes back into it. The name
+     of mother is argued for again at 795-796 and 821-822.
+
+[25] (5.310) Foedera naturae, as at 1.586 (see the note there): foedus is a
+     treaty, and the covenants of nature are the fixed terms on which each
+     kind of thing exists, which even the gods' statues cannot outlast. The
+     same word fixes the limits of the kinds at 924, "nature's fixed
+     covenant", and is used of the compacts the first men made among
+     themselves at 1025 and 1155; the English keeps "covenant" for both,
+     since Lucretius uses one word.
+
+[26] (5.312) The line is corrupt and Bailey marks it as beyond repair. The
+     English gives only the probable sense, that the crumbling monuments
+     seem to ask in their turn whether they too grow old.
+
+[27] (5.326) The war of the Seven against Thebes and the fall of Troy, the
+     two oldest subjects of Greek epic. The argument from the silence of the
+     poets is taken up again at 1446-1447: our age cannot see further back
+     than what has been written down.
+
+[28] (5.336) The claim to be the first to turn the doctrine into Latin ("the
+     speech of my fathers", patrias in voces) is a boast of priority in
+     verse, not strictly true of Epicurean teaching in Latin. It belongs
+     with the untrodden path of 1.926-930 and the complaint about the
+     poverty of the language at 1.136-139.
+
+[29] (5.351-363) These lines repeat 3.806-818, where they proved the spirit
+     mortal; the three ways a thing can be eternal (solidity, the void's
+     immunity to blows, and having nothing outside it, like "the sum of
+     sums" at 361) are now applied to the world, which has none of them. The
+     English repeats its Book 3 lines.
+
+[30] (5.381) Pium bellum was the Roman term for a war duly declared with the
+     rites of the fetial priests; Lucretius turns the phrase on itself
+     (nequaquam pio bello), so that the war of the elements is undeclared
+     and unsanctioned, a war with no rite and no end.
+
+[31] (5.395) The flood is Deucalion's, though Lucretius does not name it;
+     the Greeks paired it with the burning of the earth under Phaethon as
+     the two great catastrophes. "As the story goes" (ut fama est) and "as
+     report says" (ut fama est again, 412) hold the legends at arm's length
+     while using them as evidence that the elements can get the upper hand.
+
+[32] (5.397-406) Phaethon, son of the Sun, took his father's chariot and
+     lost control of it; the earth caught fire until Jupiter struck him down
+     with a thunderbolt and the Sun gathered the horses and set the world in
+     order. Lucretius tells the myth at length only to dismiss it at 406 as
+     "far away from true reasoning", and gives instead the overbalancing of
+     fire in the world's body.
+
+[33] (5.419-431) Lines 419-421 are 1.1021-1023 and the English repeats them;
+     422-431 vary the Latin of 1.1024-1028 and repeat 187-194 of this book
+     (where the English is the same). "Nor did they bargain" (pepigere, 421)
+     uses the language of contract, which the first-beginnings cannot have
+     made; set against it, nature's "covenants" (310) are the terms that
+     resulted, not an agreement that preceded.
+
+[34] (5.456) Elementa, the finer bodies that rise to form the ether, so
+     again "elements of heat" at 599; the same word is the letters of the
+     alphabet at 1445, the double sense Lucretius plays on at 1.197 and
+     2.688-699.
+
+[35] (5.507) The Black Sea, whose steady outflow through the Bosporus into
+     the Mediterranean was proverbial; it is the visible instance of a body
+     of water that flows always one way, as the ether is supposed to do.
+
+[36] (5.521) Summania templa: if the word belongs to Summanus, the Roman god
+     of thunder by night, the phrase is "the nightly precincts of heaven",
+     and so it is rendered; others take it as "the highest". Templa is
+     "precincts" as always.
+
+[37] (5.526-533) The rule of several causes, stated here for the whole book:
+     for what cannot be observed at first hand, every cause consistent with
+     the appearances is admitted, and since there are countless worlds
+     "created on various principles" (528, again at 1348), each of the
+     causes holds in some world, while which holds in ours "is not for one
+     who advances step by step" to say. The method governs the sections on
+     the sun's turnings (614-649), the moon's light (705-750), the eclipses
+     (751-770), the first fire (1091-1101) and the discovery of metals
+     (1241-1257).
+
+[38] (5.574) The line repeats 571 and does not belong at this point; editors
+     bracket it. In the same way 596 repeats 584 and 771 repeats 764. All
+     three are rendered as printed, so that the files stay aligned line for
+     line.
+
+[39] (5.575) Notho lumine, borrowed light reflected from the sun. Lucretius
+     leaves open whether the moon shines by reflected or by its own light,
+     and returns to the question at 705-750.
+
+[40] (5.615-617) Aegoceros, "the goat-horned", is Capricorn, the sign of the
+     winter solstice, and Cancer that of the summer; "the solstice goal-
+     posts" (metas) are the turning-posts of a racecourse, round which the
+     sun swings back.
+
+[41] (5.622) Democritus of Abdera, the atomist predecessor of Epicurus,
+     honored here with a "holy judgment" (sancta sententia) though his
+     theory is offered only as one possibility: the whirl of the heavens
+     carries bodies nearer the earth less swiftly, so the sun and moon fall
+     behind the stars and seem to move backward through the signs.
+
+[42] (5.656) Mater Matuta, the old Italian goddess of the dawn; her name
+     stands for the dawn itself, as Ceres and Bacchus stand for grain and
+     wine (2.655-660 and 742-743 below).
+
+[43] (5.663-665) Mount Ida above Troy, where, as the story went, scattered
+     fires were seen at daybreak gathering into the single ball of the sun.
+     The report supports the possibility that the sun is made anew each
+     morning from "seeds of heat"; "the story goes" again marks it as
+     hearsay.
+
+[44] (5.679) The printed conseque does not construe; the usual correction
+     gives the sense "in sequence", that the seasons and the sun's risings
+     return in a fixed order like everything else.
+
+[45] (5.687-693) "The node of the year" (anni nodus) is the equinox, where
+     the sun's slanting path crosses the celestial equator and night and day
+     are equal. "The sign-bearing circle" (signifer orbis, 691) is the
+     zodiac, set slantwise to the equator, so that the sun's course divides
+     the sky into unequal arcs except at the two nodes.
+
+[46] (5.704) "They" are those who hold that the sun is made new each day
+     from gathering fires (660-665): if the fires gather at a varying pace,
+     the sun's rising-point would shift with the seasons, as it does.
+
+[47] (5.727-730) The Babylonian astronomers (Chaldaei) held that the moon is
+     half-luminous and shines by turning its bright side toward us
+     (720-726); "the astronomers" (astrologi, 728) are the Greeks, who held
+     that it is lit by the sun (705-714). Lucretius sets the two schools
+     against each other and gives neither the victory; the modern reader who
+     knows which is right should note that the poem does not choose.
+
+[48] (5.737-747) The procession of the seasons, in the manner of a Roman
+     pageant. Venus's "winged herald" is Cupid; Zephyr is the west wind and
+     Flora the goddess of flowers; "the etesian blasts" (742) are the yearly
+     north winds of the Mediterranean summer; Euhius Euan (743) is Bacchus,
+     named from the ritual cry of his worshippers; Volturnus (745) is the
+     south-east wind and Auster the south. The names are ornament for
+     natural events, as Lucretius allows at 2.655-660, and the whole set-
+     piece is evidence for the regularity of recurring things, so that a
+     moon made anew each month would not be strange.
+
+[49] (5.764) The cone is the earth's shadow, tapering away from the sun; the
+     moon passes through its "rigid", sharply bounded dark in an eclipse.
+     This is one of several causes offered (751-770), beside an unseen body
+     and the failing of the moon's own light.
+
+[50] (5.771) The line repeats 764 and breaks the syntax of the question
+     around it; editors treat it as a misplaced duplicate. It is rendered as
+     printed.
+
+[51] (5.781) Crerint is a contracted form of decreverint, "had decided": the
+     earth is pictured deciding what to raise first. "The shores of light"
+     is without "shining" here as at 224 (see the note there).
+
+[52] (5.828-836) The world itself grows old, and the earth, "like a woman
+     worn out by long age" (827), can no longer bear what she once bore. The
+     same figure, "the worn-out earth", closes Book 2 (2.1150-1152, with the
+     note there).
+
+[53] (5.839) The Latin of the line is corrupt; the sense, a creature of both
+     sexes and so of neither, cut off from either, is clear and the English
+     renders it. The androgyne heads the earth's failed experiments, the
+     monsters that could neither feed nor breed.
+
+[54] (5.846-877) Why only some kinds survive: those that could not feed,
+     grow or breed died out, and of the rest, cunning, courage, speed or
+     usefulness to men "kept that race safe" (859). A reader will hear
+     natural selection in this. That is the reader's association, not the
+     poet's claim: Lucretius is explaining why the monsters are gone, not
+     how one kind becomes another, and his kinds are fixed by "nature's
+     fixed covenant" (924).
+
+[55] (5.878-924) Against composite creatures: a horse is in its prime at
+     three while a boy still seeks the breast, so the two halves of a
+     Centaur could never keep pace in growth, food or desire. Scylla (892)
+     is the sea monster of the Odyssey, a woman above the waist with a
+     girdle of raging dogs. The Chimaera follows at 905.
+
+[56] (5.897) Venus for sexual desire, as often; the name is kept wherever
+     Lucretius uses it, for the goddess, for desire and for the act, as at
+     962 ("Venus joined the bodies of lovers") and 1017 ("Venus lessened
+     their strength").
+
+[57] (5.905) Chimaera is also the Greek word for a she-goat, so "herself the
+     middle" (media ipsa) means that the middle of the monster is goat: lion
+     in front, snake behind, goat between. The pun cannot be carried in
+     English. The argument is that a goat's flesh in a lion's mouth would
+     burn in its own flame like any other.
+
+[58] (5.941) Arbita, the fruit of the strawberry tree (Arbutus unedo), which
+     ripens red in late autumn; food of the first men, and at 965 one of the
+     prices paid for love.
+
+[59] (5.950-951) "The wet rocks, the wet rocks" (umida saxa, umida saxa) is
+     Lucretius's own doubling, the second line picking up the end of the
+     first as water drips and the stream runs on; the English keeps it.
+
+[60] (5.997) Vermina, a rare word for wrenching pains of the bowels (from
+     the root of vermis, a twisting); some take it as worms in the wounds,
+     which suits the "foul ulcers" of 995 but not "savage". The English
+     follows the first sense.
+
+[61] (5.1006) Improba navigii ratio, "the wicked craft of sailing": ratio
+     here is the skill of seafaring, and "craft" is the one place in the
+     book where it is neither "reasoning" nor "principle".
+
+[62] (5.1012-1013) The gap after 1012 is in the source and is left unfilled;
+     the lost line or lines carried the subject of "were known", probably
+     the bonds of marriage (coniugium is the usual supplement). The English
+     prints the break as it stands.
+
+[63] (5.1019-1027) The first compacts (foedera) of neighbors not to harm or
+     be harmed, the beginning of justice in Epicurean teaching, where
+     justice is an agreement for mutual advantage and not a thing existing
+     by nature. "A good and great part" kept them, so the race survived. The
+     word returns as "the common covenants of peace" at 1155; see the note
+     on 310 for its use of nature.
+
+[64] (5.1041-1055) The target is the doctrine of a single name-giver who
+     assigned words to things, found in Plato's Cratylus and in Stoic
+     speculation about the origin of language; Lucretius names no opponent.
+     Speech arose from nature, which gave the tongue its sounds, and from
+     need, which shaped them, as children point before they can speak
+     (1030-1032).
+
+[65] (5.1063) The Molossian hound of Epirus, a large breed kept for guarding
+     and hunting, the stock example of a fierce dog; its growl, bark, whine
+     and whimper are the first proof that one animal has many voices.
+
+[66] (5.1108-1109) Praesidium perfugiumque. The second word returns at 1186,
+     where fearful men make it their "refuge" to hand everything over to the
+     gods; the kings' citadel and the gods' government are the two refuges
+     of the book.
+
+[67] (5.1117-1119) Epicurus's teaching that natural wealth is small and
+     easily had, while the wealth of opinion runs on without limit; "to live
+     sparingly with a level mind" (vivere parce aequo animo) compresses it
+     into a line that reads like a proverb. The thought returns at
+     1430-1433, on the limit of possession and of true pleasure.
+
+[68] (5.1136-1160) The fall of monarchy and the rise of magistrates and law
+     is a sketch with no named event; a Roman reader might think of the
+     expulsion of the Tarquins, but the poet does not say so. The order of
+     the sketch, from kings through anarchy to law and the fear of
+     punishment, is the Epicurean history of society, not Roman history.
+
+[69] (5.1161-1193) The origin of religion, from two sources: waking and
+     sleeping visions of great and beautiful shapes (the images of Book 4,
+     though simulacra is not used here), which men took to be living and
+     immortal because the visions kept returning; and the regular motions of
+     the heavens, whose causes they could not know (1183-1193). Lucretius
+     accepts that the gods exist and are blessed and immortal; what he
+     faults is the step from this to their rule over the world and the
+     weather.
+
+[70] (5.1190) The catalogue repeats "the moon" and "night" from the line
+     before, and editors have suspected the line or tried to mend it. The
+     English renders it as printed.
+
+[71] (5.1194) The poet's own cry, set beside "So much evil could religion
+     prompt" at 1.101: the error of the first men is the root of the
+     sacrifice of Iphigenia and of all the "bitter anger" men have ascribed
+     to the gods.
+
+[72] (5.1198) The Roman worshipper covered the head with a fold of the toga
+     at sacrifice, where a Greek sacrificed bareheaded. The outward forms
+     listed (turning to a stone, approaching every altar, prostration, open
+     palms, vows) are the piety Lucretius rejects for the piety of "a mind
+     at peace" (1203).
+
+[73] (5.1211-1213) Rationis egestas: fear comes from having no explanation
+     at hand, the claim behind the refrain "the face and reasoning of
+     nature" (1.146-148). "The walls of the world" (moenia mundi, 1213) are
+     the fiery outer shell of 1.73; whether they can last is answered in the
+     first part of this book, and the answer is no.
+
+[74] (5.1226-1230) The commander (induperator, an old form of imperator, as
+     in Ennius) at sea with his legions and elephants recalls the generals
+     of the Punic wars, Carthaginian or Roman; even he, courting the gods
+     "with vows", is driven to death. The elephants return as "Lucanian
+     oxen" at 1302.
+
+[75] (5.1234) The fasces, bundles of rods with an axe, carried by the
+     lictors before Roman magistrates as the emblem of their power to flog
+     and to behead. The "hidden force" that tramples them is the poet's name
+     for fortune, which men mistake for the gods.
+
+[76] (5.1241-1257) Aes is copper and bronze alike, and "bronze" is used
+     throughout. The metals are found in the ashes of a forest fire, which
+     itself has several possible causes (lightning, war, hunting, clearing
+     for tillage, 1245-1252), and their order of discovery follows the order
+     in which men came to use them, bronze before iron (1286-1288).
+
+[77] (5.1286-1288) Bronze before iron, as in Hesiod's ages and in the modern
+     sequence of Bronze and Iron Ages; the agreement with the later
+     archaeological record is the reader's association, not a claim of the
+     poem, which argues only from the ease of working the two metals.
+
+[78] (5.1302) Boves Lucae, elephants, so called because the Romans first met
+     them in Lucania in the army of Pyrrhus (280 BC); "snake-handed"
+     (anguimanus, 1303) is the trunk. "The Carthaginians" (Poeni) used them
+     against Rome in the Punic wars. The coinage is kept rather than
+     replaced by the plain word.
+
+[79] (5.1319) The source prints patebant, "lay open", which does not suit
+     the sense; the English follows petebant, "made for", the correction
+     every editor makes.
+
+[80] (5.1327-1328) Two drafts of one line, one with "broken in them", the
+     other with "broken against them", both transmitted; editors keep one.
+     The translation prints both, as the source does.
+
+[81] (5.1341-1349) The afterthought, that men armed beasts for war not in
+     hope of winning but to make the enemy suffer, and that this may have
+     happened in some other world rather than ours (1348, "various worlds
+     created on various principles", the phrase of 528), is suspected by
+     many editors of being a later addition or an unrevised draft. It is
+     rendered as printed.
+
+[82] (5.1362) Rerum natura creatrix, "the nature of things herself, the
+     creator", the phrase of 1.629 and 2.1117 (with the notes there): nature
+     as maker, a figure for the working of first-beginnings and void.
+
+[83] (5.1387) Otia dia: dius is "divine" but also "of the open air" (as in
+     sub divo, "under the open sky"), and the English takes the second sense
+     for the shepherds' leisure; "godlike leisure" would import the ease of
+     the gods into a passage about men.
+
+[84] (5.1388-1389) The two lines return at 1454-1455 to close the book, with
+     one verb changed: eruit, "digs it up", becomes erigit, "raises it". The
+     English repeats 1388 exactly at 1454 and changes only the verb. "The
+     shores of light" is without "shining" in both places, as the Latin is
+     without dias.
+
+[85] (5.1392-1396) These lines rework 2.29-33, where the simple pleasures
+     were ours ("when still, lying together on the soft grass"); here they
+     are the first men's, and the Latin shifts from present to past and from
+     "we" to "they", with "painted" (pingebant) for "sprinkle"
+     (conspergunt). The English repeats the Book 2 lines where the Latin
+     agrees and changes where it changes. The point (1409-1411) is that
+     their pleasure was the same as ours and no less.
+
+[86] (5.1429) Plebeia vestis, the cloth of the common people, set against
+     purple and gold as at 2.34-36, where "a common man's coverlet" cures a
+     fever as well as blushing purple; the two passages are the same lesson
+     in the same words.
+
+[87] (5.1436) Magnum versatile templum, the great turning region of the sky,
+     "precinct" as always for templum (see the note on 103). The sun and
+     moon are vigiles, the sleepless watchers of the world, the word used of
+     the "wakeful" shepherds at 1405 and 1408.
+
+[88] (5.1445) Elementa here are the letters of the alphabet: writing was
+     found not long before the poets began to set down the deeds of men,
+     which is why nothing earlier than Thebes and Troy is remembered
+     (324-327). "Elements" is kept because Lucretius uses the one word for
+     the letters and for the bodies they stand for (456, 1.197).
+
+[89] (5.1451) Daedala signa polita: daedala here describes the finished
+     statues and not their maker, so it is "artful" and not "artificer" as
+     at 234 and 1.7. The root is the same, Daedalus the craftsman.
