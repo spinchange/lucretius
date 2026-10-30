@@ -92,6 +92,12 @@ every book unless explicitly revisited. Modelled on the Iliad project's
 | mundus | world | | the cosmos; "worlds" in plural |
 | aevum | life, age | 1.45 | immortali aevo = "immortal life" |
 | Acherusia templa | the precincts of Acheron | 1.120 | templa = regions/precincts, never "temples" |
+| principia | beginnings | 1.484 | Lucretius's shorter synonym for primordia; "beginnings" keeps the two Latin words apart (also 1.740, 1.993, 1.1047) |
+| simplicitas (solida / aeterna) | singleness | 1.548 | "of solid singleness", "strong in eternal singleness" (1.574, 1.609, 1.612) |
+| concilium / conciliatus | union | 1.484 | the atomic combination; coetus = "meeting", "union" where it is the same idea |
+| coniuncta / eventa | conjoined properties / accidents | 1.449 | Epicurus's symptomata; "conjoined" and "accidents" throughout |
+| vera ratio | true reasoning | 1.498 | |
+| vis | force | | validae vires = "sturdy strength" (1.576) |
 
 ## Policy
 
@@ -100,6 +106,16 @@ every book unless explicitly revisited. Modelled on the Iliad project's
   bright shafts of day / but by the face and reasoning of nature") are
   fixed at first occurrence and recur verbatim. Add each to the table
   above when first fixed.
+- **Refrains fixed in Book 1** (recur verbatim wherever the Latin repeats):
+  - 1.670-671 = 1.792-793 (= 2.753-754, 3.519-520): "for whatever is changed and
+    passes out of its own bounds, / this at once is the death of what it was before."
+  - 1.673 = 1.797: "so that all things do not return utterly to nothing for you,"
+    and 1.674 = 1.757: "and the store of things, reborn from nothing, grow strong."
+  - 1.429 = 1.531: "as I showed you above, a little while before."
+  - 1.818-819 = 1.909-910: "with what and in what position they are held
+    together, / and what motions they give and receive among themselves,"
+  - 1.75-77 = 1.594-596 (second and third lines verbatim).
+  - 1.926-950 = 4.1-25: Book 4 takes the Book 1 review text verbatim.
 - **Scientific anachronism**: never import a modern term the Latin does not
   have (no "atom" for primordia, no "molecule", no "evolution"). The notes
   may say where a modern reader will hear an anticipation; the verse may

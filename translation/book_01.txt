@@ -331,7 +331,7 @@ TRANSLATOR'S COMMENTARY
   320  But what bodies depart from them at any given time
   321  envious nature has shut off from the power of sight.
 
-322  Lastly, whatever the passing days and nature add to things
+  322  Lastly, whatever the passing days and nature add to things
   323  little by little, compelling them to grow in due measure,
   324  no sharpness of the eyes, however it strains, can observe;
   325  nor again, in whatever grows old with age and wasting,
@@ -427,12 +427,12 @@ TRANSLATOR'S COMMENTARY
   415  our limbs and loosen in us the barriers of life
   416  before, in verses, on any single matter, the whole store
   417  of arguments has been sent through your ears.
-  418  But now, to go back to weaving on in words the work begun:
+  418  But now, to resume and weave to its end in words the work begun:
   419  all nature, then, as it is in itself, has been founded
   420  on two things; for there are bodies and there is void,
   421  in which these are set and through which they move this way and that.
-  422  For that body exists by itself the sensation shared {{NOTE: communis sensus: the senses common to all, not "common sense" in the modern meaning.}}
-  423  by all declares; and unless belief in it, founded first, holds strong,
+  422  For that body exists by itself is declared by the sense {{NOTE: communis sensus: the sense common to all, not "common sense" in the modern meaning.}}
+  423  common to all; and unless trust in this stands first and firm,
   424  there will be nothing to appeal to concerning hidden things
   425  by which we could confirm anything by reasoning of the mind.
   426  Then again, place and space, which we call void,
@@ -440,7 +440,7 @@ TRANSLATOR'S COMMENTARY
   428  at all, nor move in any direction this way and that;
   429  as I showed you above, a little while before.
   430  Further, there is nothing that you could say is, from all
-  431  body disjoined, and set apart from void,
+  431  body disjoined, and set apart from the void,
   432  to be found as a third nature, as it were, in the count.
   433  For whatever will exist must itself be something,
   434  of bulk large or small, so long as it exists;
@@ -473,9 +473,9 @@ TRANSLATOR'S COMMENTARY
   461  then what thing is at hand, and what will follow after;
   462  nor must it be admitted that anyone senses time by itself,
   463  apart from the motion of things and their calm rest.
-  464  Finally, when they say that the abducted daughter of Tyndareus {{NOTE: Helen, whose carrying-off by Paris began the Trojan War.}}
-  465  and the nations of Trojan birth, subdued in war, exist, we must take care
-  466  that they do not perhaps compel us to confess these things exist by themselves,
+  464  Finally, when they say the abduction of Tyndareus' daughter {{NOTE: Helen, whose carrying-off by Paris began the Trojan War.}}
+  465  and the conquest of the Trojan-born nations in war "are", we must take care
+  466  that they do not force us to admit these things exist by themselves,
   467  since the generations of men whose accidents these were
   468  have been carried off already by an age gone past recall;
   469  for one thing will be said to be an accident of the lands, another {{NOTE: The lands stand for the matter involved, the regions for the space it occupied.}}
@@ -486,14 +486,14 @@ TRANSLATOR'S COMMENTARY
   474  glowing beneath the Phrygian breast of Alexander, {{NOTE: Alexander is Paris, son of Priam; Phrygian = Trojan.}}
   475  have lit the famous contests of savage war,
   476  nor would the wooden horse, unknown to the Trojans, have set Pergamum {{NOTE: Pergama, the citadel of Troy.}}
-  477  aflame by its birth in the night of sons of the Greeks;
+  477  ablaze by its night-time delivery of the sons of the Greeks;
   478  so that you may see clearly that all deeds done, from the ground up,
   479  do not exist or have being by themselves as body does,
   480  nor are spoken of on the same principle as void,
   481  but rather that you may justly call them accidents
   482  of body and of place, in which each thing is carried on.
 
-483  Further, bodies are partly the first-beginnings of things,
+  483  Further, bodies are partly the first-beginnings of things,
   484  partly those that are formed from a union of beginnings. {{NOTE: principia, Lucretius's synonym for primordia; "beginnings" keeps the two Latin words apart}}
   485  But those that are the first-beginnings of things no force
   486  can quench; for in the end they prevail by solid body.
@@ -505,7 +505,7 @@ TRANSLATOR'S COMMENTARY
   492  when the hardness of gold is shaken loose and dissolves in heat,
   493  then the ice of bronze, conquered by flame, melts away;
   494  heat seeps through silver, and so does penetrating cold,
-  495  since, holding cups in our hands as custom has it, we have felt both
+  495  since, gripping cups in hand as is the custom, we have felt both
   496  when the dew of water was poured in from above.
   497  To such a degree there seems to be nothing solid in things.
   498  But since true reasoning and the nature of things nonetheless
@@ -515,7 +515,7 @@ TRANSLATOR'S COMMENTARY
   502  from which the whole sum of things now stands created.
   503  To begin with, since the twofold nature of two things,
   504  far unlike each other, has been found to exist,
-  505  of body and of place, in which each thing takes place,
+  505  of body and of place, in which each thing is carried on,
   506  each of necessity must exist by itself and pure.
   507  For wherever there is empty space, which we call void,
   508  there body is not; and further, wherever body
@@ -541,7 +541,7 @@ TRANSLATOR'S COMMENTARY
   528  These can neither be dissolved when struck by blows from outside
   529  nor, again, be unravelled by being pierced to the core,
   530  nor, assailed in any other way, can they be made to give;
-  531  as I showed you already, a little while before.
+  531  as I showed you above, a little while before.
   532  For nothing, it seems, can be crushed without void,
   533  nor broken, nor split in two by cutting,
   534  nor take in moisture, nor likewise seeping cold,
@@ -610,7 +610,7 @@ TRANSLATOR'S COMMENTARY
   597  nor could the generations, kind by kind, so often repeat
   598  the nature, the manners, the diet, and the movements of their parents.
 
-599  Then further, since there is in each case an outermost point
+  599  Then further, since there is in each case an outermost point
   600  of that body which our senses can no longer
   601  make out, that point, beyond doubt, stands without parts
   602  and consists of a least nature, and was never
@@ -619,7 +619,7 @@ TRANSLATOR'S COMMENTARY
   605  then other parts and others, alike, in their order,
   606  in close-packed column fill out the nature of the body;
   607  and since these cannot stand by themselves, they must
-  608  cling where they can by no principle be torn away.
+  608  cling where they can by no means be torn away.
   609  The first-beginnings, therefore, are of solid singleness,
   610  and they cohere tightly, packed with least parts,
   611  not combined out of a gathering of those parts,
@@ -678,7 +678,7 @@ TRANSLATOR'S COMMENTARY
   664  so that you may see it is not made of close-packed parts.
   665  But if perhaps they believe that by some other principle
   666  fires can be quenched in combining and change their body,
-  667  if, that is, they will hold back from doing this in no part,
+  667  if, that is, they will not in any part hold back from doing this,
   668  then beyond doubt the heat will perish utterly into nothing,
   669  all of it, and from nothing will come whatever is created;
   670  for whatever is changed and passes out of its own bounds, {{NOTE: first occurrence of a refrain (670-671 = 1.792-793, 2.753-754, 3.519-520)}}
@@ -733,7 +733,7 @@ TRANSLATOR'S COMMENTARY
   719  sea sprinkles salt spray from its gray-green waves,
   720  and with its narrow strait the rushing sea divides with its waves
   721  the shores of Aeolia's lands from the island's borders. {{NOTE: Aeolia: so the text; some editors read Italiae, "Italy"; the mainland across the Strait of Messina is meant}}
-  722  Here is wasting Charybdis, and here the rumblings of Etna
+  722  Here is vast Charybdis, and here the rumblings of Etna
   723  threaten that the angers of its flames are gathering again,
   724  so that its force may once more vomit fires burst from its jaws
   725  and carry again to the sky the lightning-flashes of its flame.
@@ -775,10 +775,10 @@ TRANSLATOR'S COMMENTARY
   761  or they will so scatter as, when a storm is gathered,
   762  we see thunderbolts scatter, and rains and winds.
 
-763  Finally, if all things are created out of four things,
+  763  Finally, if all things are created out of four things,
   764  and all things are dissolved back again into those things,
   765  why can those any more be called the first-beginnings of things
-  766  than things, the other way round, be thought theirs, in reverse?
+  766  than things, the other way round, be thought to be theirs?
   767  For they are born by turns, and change their color
   768  and their whole nature among themselves from all time.
   769  we see the thunderbolts scatter, and the rains and winds. {{NOTE: repeats 1.762 word for word; editors usually delete it as a stray repetition, but the source prints it}}
@@ -804,12 +804,12 @@ TRANSLATOR'S COMMENTARY
   789  This the first-beginnings must by no means do.
   790  For something unchangeable must survive,
   791  so that things are not all brought back utterly to nothing;
-  792  for whatever is changed and goes out beyond its own boundaries,
-  793  that is at once the death of what it was before.
+  792  for whatever is changed and passes out of its own bounds,
+  793  this at once is the death of what it was before.
   794  Therefore, since the things we spoke of a little before
   795  come into change, they must consist
   796  of others, which can nowhere be converted,
-  797  so that things do not return for you utterly to nothing;
+  797  so that all things do not return utterly to nothing for you;
   798  why not rather posit certain bodies endowed with such
   799  a nature that, if perhaps they have created fire,
   800  the same, with a few taken away and a few added,
@@ -829,8 +829,8 @@ TRANSLATOR'S COMMENTARY
   814  No wonder: because many first-beginnings, common in many ways
   815  to many things, are mixed together in things,
   816  for that reason varied things are nourished by varied things.
-  817  And it often matters greatly with what the same first-beginnings
-  818  are held together, and in what position,
+  817  And it often matters greatly, for the same first-beginnings,
+  818  with what and in what position they are held together,
   819  and what motions they give and receive among themselves;
   820  for the same make up heaven, sea, lands, rivers, sun,
   821  the same make crops, trees, living things,
@@ -889,15 +889,15 @@ TRANSLATOR'S COMMENTARY
   873  further, that whatever bodies the earth feeds and increases
   874  consist of things of foreign kind, which rise out of the wood. {{NOTE: the sense of 873-874 is disputed; editors suspect corruption or a lost line}}
 
-875  Here there is left a certain slender chance of hiding,
+  875  Here there is left a certain slender chance of hiding,
   876  which Anaxagoras takes up for himself, holding that every
   877  thing lies hidden, mixed in among all things, but that one thing
   878  appears, the one of which the most parts are mixed in
   879  and lie more ready to hand and set in the forefront.
   880  But this is driven far away from true reasoning;
-  881  for it should then follow that grain too would often, when by the menacing
-  882  strength of a stone it is crushed, send out some sign
-  883  of blood, or of something else of the things fed in our body.
+  881  for it would then follow that grain too, when by the menacing
+  882  strength of the stone it is crushed, would often send out some sign
+  883  of blood, or of some other thing that is nourished in our body.
   884  When we grind them stone upon stone, it would be fitting for gore
   885  by a like principle to ooze from grasses too, and often,
   886  and for them to send out juices, sweet drops of a savor like
@@ -1001,7 +1001,7 @@ TRANSLATOR'S COMMENTARY
   984  Further, if all the space of the whole sum
   985  were shut in on every side and stood within fixed shores
   986  and were bounded, by now the store of matter
-  987  would have flowed together from all sides, by its solid weights, to the bottom,
+  987  would, by its solid weights, have flowed from all sides to the bottom,
   988  nor could anything be carried on beneath the canopy of the sky,
   989  nor would there be a sky at all, nor the light of the sun,
   990  since all matter would lie heaped up,
@@ -1048,8 +1048,8 @@ TRANSLATOR'S COMMENTARY
  1030  once it has been cast into fitting motions,
  1031  it brings about that the rivers replenish the greedy sea
  1032  with the large waves of their stream, and that the earth, warmed
- 1033  by the sun's heat, renews its young, and the race of living things, sent up,
- 1034  flourishes, and the fires of the gliding ether live.
+ 1033  by the sun's heat, renews her young, and the race of living things,
+ 1034  sent up, flourishes, and the fires of the gliding ether live.
  1035  This they could by no means do unless a store of matter
  1036  could rise up from the infinite,
  1037  from which they are used to making good, in time, each thing lost.
@@ -1076,7 +1076,7 @@ TRANSLATOR'S COMMENTARY
  1058  and that the heavy things beneath the earth all press
  1059  upward and rest against the earth, set there upside down,
  1060  like the images of things we now see through water;
- 1061  and by a like principle they contend that living things wander upside down
+ 1061  and contend by like reasoning that creatures wander upside down
  1062  and cannot fall back out of the earth into the regions of the sky
  1063  below, any more than our bodies could
  1064  of their own accord fly up into the precincts of heaven;
@@ -1104,7 +1104,7 @@ TRANSLATOR'S COMMENTARY
  1085  and those that are held, as it were, in an earthy body,
  1087  but on the contrary teach that the thin breezes of air
  1088  and hot fires together are carried away from the middle,
- 1089  and that for this reason the whole ether round about flickers with signs
+ 1089  and that for this reason the whole ether flickers with stars all round
  1090  and the flame of the sun is fed through the blue of heaven,
  1091  because heat, fleeing from the middle, gathers all of itself there,
  1092  and that the topmost boughs of trees could not put forth leaves at all
@@ -1121,7 +1121,7 @@ TRANSLATOR'S COMMENTARY
  1103  should suddenly fly apart, set loose through the great void,
  1104  and lest the rest should follow on a like principle,
  1105  or the thundering precincts of heaven rush down from above,
- 1106  and the earth swiftly withdraw itself from under our feet, and all of it,
+ 1106  and the earth swiftly slip from under our feet, and all of it,
  1107  amid the mingled ruins of things and of heaven,
  1108  loosing its bodies, pass away through the deep void,
  1109  so that in a moment of time nothing would be left of the remnants

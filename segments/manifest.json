@@ -68,6 +68,12 @@
      "started": "2026-10-30T03:09:58+00:00",
      "finished": "2026-10-30T03:10:22+00:00",
      "seconds": 24
+    },
+    "review": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-29T00:00:00+00:00",
+     "note": "reviewed in conversation before the patch tool existed; fixes at 200, 257-258"
     }
    }
   },
@@ -102,6 +108,22 @@
      "started": "2026-10-30T03:09:58+00:00",
      "finished": "2026-10-30T03:10:21+00:00",
      "seconds": 23
+    },
+    "review": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-30T05:13:47+00:00",
+     "patched": [
+      "418",
+      "422",
+      "423",
+      "431",
+      "464",
+      "465",
+      "466",
+      "477"
+     ],
+     "n_patched": 8
     }
    }
   },
@@ -136,6 +158,17 @@
      "started": "2026-10-30T03:09:58+00:00",
      "finished": "2026-10-30T03:10:44+00:00",
      "seconds": 22
+    },
+    "review": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-30T05:14:33+00:00",
+     "patched": [
+      "495",
+      "505",
+      "531"
+     ],
+     "n_patched": 3
     }
    }
   },
@@ -170,6 +203,17 @@
      "started": "2026-10-30T03:09:58+00:00",
      "finished": "2026-10-30T03:10:27+00:00",
      "seconds": 29
+    },
+    "review": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-30T05:14:34+00:00",
+     "patched": [
+      "608",
+      "667",
+      "722"
+     ],
+     "n_patched": 3
     }
    }
   },
@@ -204,6 +248,20 @@
      "started": "2026-10-30T03:09:58+00:00",
      "finished": "2026-10-30T03:10:51+00:00",
      "seconds": 24
+    },
+    "review": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-30T05:15:12+00:00",
+     "patched": [
+      "766",
+      "792",
+      "793",
+      "797",
+      "817",
+      "818"
+     ],
+     "n_patched": 6
     }
    }
   },
@@ -238,6 +296,18 @@
      "started": "2026-10-30T03:09:58+00:00",
      "finished": "2026-10-30T03:10:47+00:00",
      "seconds": 20
+    },
+    "review": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-30T05:15:13+00:00",
+     "patched": [
+      "881",
+      "882",
+      "883",
+      "987"
+     ],
+     "n_patched": 4
     }
    }
   },
@@ -272,6 +342,19 @@
      "started": "2026-10-30T03:09:58+00:00",
      "finished": "2026-10-30T03:11:06+00:00",
      "seconds": 24
+    },
+    "review": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-30T05:15:52+00:00",
+     "patched": [
+      "1033",
+      "1034",
+      "1061",
+      "1089",
+      "1106"
+     ],
+     "n_patched": 5
     }
    }
   },
