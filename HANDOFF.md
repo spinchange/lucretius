@@ -18,7 +18,7 @@ source of truth for what has been done to each segment.
 | assemble | all six books | `translation/book_0N.txt`, all from review text; `check_segment --all` now exits 0 |
 | notes | Books 1-2 final (76, 89 notes) | Books 3-6 still carry `{{NOTE: ...}}` placeholders and DRAFT notes |
 | margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
-| audiobook | Books 1-2 built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); Book 2: 26 chunks, 64.9 min, all strict QA passes |
+| audiobook | all six books built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); every chunk accepted on a strict QA pass except the four noted under "Audiobook" below |
 
 Local repo only, no remote.
 
@@ -294,6 +294,39 @@ Continue the notes stage with Book 3, then Books 4-6, one book per commit,
 the same way (see "Notes stage" above; Book 2 is done, 89 notes). Before that, run `git log`,
 `python tools/check_segment.py --all` (expect exit 0) and
 `python tools/check_narration.py --all` (expect every book to match).
+
+## Audiobook (built 2026-10-30)
+
+All six books rendered with `audiobook/production-onyx.json` (gpt-4o-mini-tts,
+onyx, 0.95) through the gated pipeline: prepare, synthesize, qa, accept,
+concat, review. Narration sources are `audiobook-source/book_0N.txt` from
+`python tools/make_narration.py N`. Build output is untracked under
+`audiobook-build-book0N/`; the manifest there records every take, its
+transcript metrics and the acceptance reason.
+
+| Book | Chunks | Length | Retaken chunks | Accepted without a strict pass |
+|---|---|---|---|---|
+| 1 | 25 | 60.7 min | 3, 12, 19, 21 | 012 (`take in` heard as taken) |
+| 2 | 26 | 64.9 min | 10, 12, 16, 21, 22, 23 | none |
+| 3 | 24 | 62.0 min | 5, 8, 17, 18, 19, 20 | 020 (`laid asleep` heard as lay to sleep) |
+| 4 | 29 | 72.5 min | 4, 6, 10, 11, 12, 15, 16 | 012 (`already` heard as all ready) |
+| 5 | 32 | 82.1 min | 3, 25 | none |
+| 6 | 29 | 73.4 min | 1, 10, 11, 15, 26, 27 | none |
+
+Flagged for listening on the review masters: 1.534 and 1.117-124 (Book 1,
+see its manifest); 3.876-918 (`laid asleep`); 4.507-552 (`already`,
+Daulian); 6.1131-1177 (`bleating flocks`, Cecrops: all five takes transcribe
+them as bleeding and sea crops, which looks like the transcriber primed by
+the plague context; the accepted take is a strict pass). Book 6 chunk 001
+ends at the lacuna after 6.47; the first take invented nine words to finish
+the broken sentence, the accepted retake stops at "the glorious chariot".
+
+Pipeline notes: `parse_translation` keeps a single transposed line in
+sequence (2.680 after 2.659) instead of cutting it into its own chunk.
+Pronunciation notes for Books 2-6 names are in the config; `verify` on the
+Book 1-2 builds now reports a config-hash change for that reason alone.
+Transcription QA calls can drop on a transient TLS error and leave a take
+`unreviewed`; rerun `qa --chunks NNN`.
 
 ## After the reviews
 
