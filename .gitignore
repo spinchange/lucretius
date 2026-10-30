@@ -2,4 +2,5 @@ runs/
 *.log
 __pycache__/
 margin/images/
+segments/manifest.*.tmp
 segments/manifest.tmp

@@ -20,6 +20,13 @@
     "review": {
      "status": "done",
      "note": "translator's own sample; the register was set from it"
+    },
+    "fidelity": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:04:39+00:00",
+     "finished": "2026-10-30T03:05:20+00:00",
+     "seconds": 41
     }
    }
   },
@@ -32,7 +39,23 @@
    "first": "146",
    "last": "321",
    "n": 176,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T03:02:07+00:00",
+     "finished": "2026-10-30T03:03:36+00:00",
+     "seconds": 89,
+     "check": "clean"
+    },
+    "fidelity": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:04:39+00:00",
+     "finished": "2026-10-30T03:05:09+00:00",
+     "seconds": 30
+    }
+   }
   },
   {
    "id": "b01s02",
@@ -43,7 +66,13 @@
    "first": "322",
    "last": "482",
    "n": 161,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:05:08+00:00"
+    }
+   }
   },
   {
    "id": "b01s03",
@@ -54,7 +83,16 @@
    "first": "483",
    "last": "598",
    "n": 116,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T03:05:08+00:00",
+     "finished": "2026-10-30T03:06:15+00:00",
+     "seconds": 67,
+     "check": "clean"
+    }
+   }
   },
   {
    "id": "b01s04",
@@ -65,7 +103,13 @@
    "first": "599",
    "last": "762",
    "n": 164,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:05:08+00:00"
+    }
+   }
   },
   {
    "id": "b01s05",
@@ -76,7 +120,13 @@
    "first": "763",
    "last": "874",
    "n": 113,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:05:08+00:00"
+    }
+   }
   },
   {
    "id": "b01s06",
@@ -87,7 +137,13 @@
    "first": "875",
    "last": "1001",
    "n": 127,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:05:08+00:00"
+    }
+   }
   },
   {
    "id": "b01s07",
@@ -98,7 +154,13 @@
    "first": "1002",
    "last": "1117",
    "n": 116,
-   "stages": {}
+   "stages": {
+    "translate": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-30T03:05:08+00:00"
+    }
+   }
   },
   {
    "id": "b02s00",

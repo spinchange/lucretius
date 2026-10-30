@@ -72,11 +72,11 @@ every book unless explicitly revisited. Modelled on the Iliad project's
 | locus ac spatium | place and space | | |
 | corpus / corpora | body / bodies | | the physical sense; never "particles" |
 | clinamen (2.292) / declinare | swerve | | noun and verb both "swerve" |
-| ratio | reasoning | 1.51 | the doctrine or method (vera ratio = "true reasoning"); "by what principle" (qua ratione) where instrumental |
+| ratio | reasoning | 1.51 | the doctrine or method (vera ratio = "true reasoning"); "by what principle" (qua ratione) where instrumental; "order" in summa caeli ratio (1.54), the system of heaven |
 | religio | religion | 1.63 | never "superstition"; the proem's force depends on the plain word |
 | animus | mind | 1.74 | |
 | anima | spirit | 1.112 | the vital principle; never "soul" |
-| mens | mind | 1.144 | merged with animus only where mens is non-technical; note at first technical contrast in Book 3 |
+| mens | mind; "thought" when paired with animus | 1.144; 1.74 | merged with animus only where mens is non-technical ("mente animoque" 1.74 = "in thought and mind"); note at first technical contrast in Book 3 |
 | simulacra | images | 1.123 | the Book 4 films; never "idols" |
 | voluptas | pleasure | 1.1 | |
 | foedera naturae | nature's covenants | | |

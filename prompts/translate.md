@@ -7,7 +7,7 @@ RULES
 4. Voice: plain, exact, dignified modern English free verse, a loose five-to-six-beat line of 9 to 16 syllables, median about 13. No rhyme, no meter, no archaism. Keep the argument's connectives visible ("for", "indeed", "further", "again", "therefore", "as it is"). Match the manner of the translator's SAMPLE.
 5. Each English line should carry the content of its own Latin line as far as English syntax allows; where a clause must cross a line boundary, keep the crossing where the Latin has it.
 6. Where a line needs a note (a textual crux, a term choice a reader should know about, a reference a reader will not catch, the first occurrence of a refrain), append {{{{NOTE: short reason}}}} at the end of that line. Be sparing: most lines need none.
-7. No commentary, no headings, no Latin, nothing before or after the lines.
+7. No commentary, no headings, no Latin, no code fences or Markdown, nothing before or after the lines.
 
 REGISTER (translation/CONVENTIONS.md)
 {conventions}

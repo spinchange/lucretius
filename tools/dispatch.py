@@ -20,7 +20,7 @@ Usage:
 import argparse, os, shutil, subprocess, sys, time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
-from common import ROOT, PROMPTS, load_manifest, save_manifest, read_book, fmt_line, seg_path
+from common import ROOT, PROMPTS, load_manifest, update_stage, read_book, fmt_line, seg_path, strip_fences
 import check_segment
 
 DEFAULT_MODEL = {"translate": "opus", "fidelity": "sonnet", "annotate": "sonnet"}
@@ -109,7 +109,7 @@ def main():
     by_id = {e["id"]: e for e in m["segments"]}
     for e in todo:
         e["stages"][a.stage] = {"status": "running", "model": model, "started": now()}
-    save_manifest(m)
+        update_stage(e["id"], a.stage, e["stages"][a.stage])
     with ThreadPoolExecutor(max_workers=a.max) as ex:
         futs = {ex.submit(run_one, e, a.stage, model, a.billing, a.timeout): e for e in todo}
         for f in as_completed(futs):
@@ -124,7 +124,7 @@ def main():
             if ok and a.stage == "translate":
                 probs = check_segment.check(by_id[e["id"]], quiet=True)
                 rec["check"] = "clean" if not probs else probs
-            save_manifest(m)
+            update_stage(e["id"], a.stage, rec)
             msg = f"{e['id']}: {'ok' if ok else 'ERROR'} in {secs:.0f}s"
             if not ok: msg += f" :: {rec['error']}"
             elif a.stage == "translate": msg += " :: " + ("check clean" if rec["check"] == "clean" else "; ".join(rec["check"]))

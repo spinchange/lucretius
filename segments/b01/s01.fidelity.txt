@@ -1,0 +1,5 @@
+FINDINGS
+200	LEXICAL	MINOR	0.70	"per vada" means through shallows or fords, but the English has "wading through its depths", which reverses the sense; "wading through its shallows".
+257	GRAMMAR	MINOR	0.72	"pinguis" agrees with "pabula" (rich pastures), but the English moves it onto the bodies as "fat bodies"; "through the rich glad pastures lay down their weary bodies".
+SECONDARY
+NONE

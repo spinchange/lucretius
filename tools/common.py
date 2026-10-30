@@ -55,3 +55,36 @@ def seg_dir(entry):
 
 def seg_path(entry, stage):
     return seg_dir(entry) / f"s{entry['seg']:02d}.{stage}.txt"
+
+
+def update_stage(seg_id, stage, record):
+    """Re-read the manifest, set one stage record, write atomically. Safe for
+    several dispatcher processes running at once."""
+    with _lock:
+        for attempt in range(5):
+            try:
+                m = load_manifest(); break
+            except json.JSONDecodeError:
+                import time; time.sleep(0.2)
+        for e in m["segments"]:
+            if e["id"] == seg_id:
+                e["stages"][stage] = record
+        import os, time
+        tmp = MANIFEST.with_name(f"manifest.{os.getpid()}.tmp")
+        tmp.write_text(json.dumps(m, indent=1, ensure_ascii=False), encoding="utf-8")
+        for attempt in range(20):  # another process (or Drive sync) may hold the file briefly
+            try:
+                tmp.replace(MANIFEST); break
+            except PermissionError:
+                time.sleep(0.3)
+        else:
+            raise
+        return m
+
+
+def strip_fences(text):
+    """Remove a leading/trailing Markdown code fence if a model added one."""
+    lines = text.strip("\n").split("\n")
+    if lines and lines[0].strip().startswith("```"): lines = lines[1:]
+    if lines and lines[-1].strip().startswith("```"): lines = lines[:-1]
+    return "\n".join(lines).strip("\n") + "\n"

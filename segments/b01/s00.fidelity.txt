@@ -1,0 +1,7 @@
+FINDINGS
+74	REGISTER	MODERATE	0.82	"mente animoque" renders animus as "spirit", but the register fixes animus as "mind" and reserves "spirit" for anima; suggested fix: "and traveled the whole immensity in thought and mind"
+SECONDARY
+54	REGISTER	MINOR	0.58	"summa caeli ratione" renders ratio as "order", but the register fixes ratio as "reasoning", and the phrase means the highest account or principles of heaven; suggested fix: "For I shall begin to set out for you the highest reasoning of heaven and the gods"
+44	OMISSION	MINOR	0.52	"per se" (the divine nature enjoys peace of itself, independently) is dropped; suggested fix: "For the whole nature of the gods must of necessity, of itself,"
+81	GRAMMAR	MINOR	0.50	"impia ... rationis inire elementa" has impia modifying elementa, but the English moves "impious" onto "reasoning"; suggested fix: "you enter on the impious elements of reasoning"
+17	REGISTER	MINOR	0.50	"denique" is rendered "Then", but the register lists denique as "finally" or "in short", and "Then" already renders "inde" at 15; suggested fix: "Finally, through seas and mountains and sweeping rivers,"
