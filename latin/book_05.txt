@@ -1,0 +1,1458 @@
+    1  Quis potis est dignum pollenti pectore carmen
+    2  condere pro rerum maiestate hisque repertis?
+    3  quisve valet verbis tantum, qui fingere laudes
+    4  pro meritis eius possit, qui talia nobis
+    5  pectore parta suo quaesitaque praemia liquit?
+    6  nemo, ut opinor, erit mortali corpore cretus.
+    7  nam si, ut ipsa petit maiestas cognita rerum,
+    8  dicendum est, deus ille fuit, deus, inclyte Memmi,
+    9  qui princeps vitae rationem invenit eam quae
+   10  nunc appellatur sapientia, quique per artem
+   11  fluctibus et tantis vitam tantisque tenebris
+   12  in tam tranquillo et tam clara luce locavit.
+   13  confer enim divina aliorum antiqua reperta.
+   14  namque Ceres fertur fruges Liberque liquoris
+   15  vitigeni laticem mortalibus instituisse;
+   16  cum tamen his posset sine rebus vita manere,
+   17  ut fama est aliquas etiam nunc vivere gentis.
+   18  at bene non poterat sine puro pectore vivi;
+   19  quo magis hic merito nobis deus esse videtur,
+   20  ex quo nunc etiam per magnas didita gentis
+   21  dulcia permulcent animos solacia vitae.
+   22  Herculis antistare autem si facta putabis,
+   23  longius a vera multo ratione ferere.
+   24  quid Nemeaeus enim nobis nunc magnus hiatus
+   25  ille leonis obesset et horrens Arcadius sus,
+   26  tanto opere officerent nobis Stymphala colentes?
+   27  denique quid Cretae taurus Lernaeaque pestis
+   28  hydra venenatis posset vallata colubris?
+   29  quidve tripectora tergemini vis Geryonai
+   30  et Diomedis equi spirantes naribus ignem
+   31  Thracia Bistoniasque plagas atque Ismara propter
+   32  aureaque Hesperidum servans fulgentia mala,
+   33  asper, acerba tuens, immani corpore serpens
+   34  arboris amplexus stirpes? quid denique obesset
+   35  propter Atlanteum litus pelagique severa,
+   36  quo neque noster adit quisquam nec barbarus audet?
+   37  cetera de genere hoc quae sunt portenta perempta,
+   38  si non victa forent, quid tandem viva nocerent?
+   39  nil, ut opinor: ita ad satiatem terra ferarum
+   40  nunc etiam scatit et trepido terrore repleta est
+   41  per nemora ac montes magnos silvasque profundas;
+   42  quae loca vitandi plerumque est nostra potestas.
+   43  at nisi purgatumst pectus, quae proelia nobis
+   44  atque pericula tumst ingratis insinuandum!
+   45  quantae tum scindunt hominem cuppedinis acres
+   46  sollicitum curae quantique perinde timores!
+   47  quidve superbia spurcitia ac petulantia? quantas
+   48  efficiunt clades! quid luxus desidiaeque?
+   49  haec igitur qui cuncta subegerit ex animoque
+   50  expulerit dictis, non armis, nonne decebit
+   51  hunc hominem numero divom dignarier esse?
+   52  cum bene praesertim multa ac divinitus ipsis
+   53  iam mortalibus e divis dare dicta suerit
+   54  atque omnem rerum naturam pandere dictis.
+   55  Cuius ego ingressus vestigia dum rationes
+   56  persequor ac doceo dictis, quo quaeque creata
+   57  foedere sint, in eo quam sit durare necessum
+   58  nec validas valeant aevi rescindere leges,
+   59  quo genere in primis animi natura reperta est
+   60  nativo primum consistere corpore creta,
+   61  nec posse incolumem magnum durare per aevum,
+   62  sed simulacra solere in somnis fallere mentem,
+   63  cernere cum videamur eum quem vita reliquit,
+   64  quod super est, nunc huc rationis detulit ordo,
+   65  ut mihi mortali consistere corpore mundum
+   66  nativomque simul ratio reddunda sit esse;
+   67  et quibus ille modis congressus materiai
+   68  fundarit terram caelum mare sidera solem
+   69  lunaique globum; tum quae tellure animantes
+   70  extiterint, et quae nullo sint tempore natae;
+   71  quove modo genus humanum variante loquella
+   72  coeperit inter se vesci per nomina rerum;
+   73  et quibus ille modis divom metus insinuarit
+   74  pectora, terrarum qui in orbi sancta tuetur
+   75  fana lacus lucos aras simulacraque divom.
+   76  praeterea solis cursus lunaeque meatus
+   77  expediam qua vi flectat natura gubernans;
+   78  ne forte haec inter caelum terramque reamur
+   79  libera sponte sua cursus lustrare perennis,
+   80  morigera ad fruges augendas atque animantis,
+   81  neve aliqua divom volvi ratione putemus.
+   82  nam bene qui didicere deos securum agere aevom,
+   83  si tamen interea mirantur qua ratione
+   84  quaeque geri possint, praesertim rebus in illis
+   85  quae supera caput aetheriis cernuntur in oris,
+   86  rursus in antiquas referuntur religiones
+   87  et dominos acris adsciscunt, omnia posse
+   88  quos miseri credunt, ignari quid queat esse,
+   89  quid nequeat, finita potestas denique cuique
+   90  qua nam sit ratione atque alte terminus haerens.
+   91  Quod super est, ne te in promissis plura moremur,
+   92  principio maria ac terras caelumque tuere;
+   93  quorum naturam triplicem, tria corpora, Memmi,
+   94  tris species tam dissimilis, tria talia texta,
+   95  una dies dabit exitio, multosque per annos
+   96  sustentata ruet moles et machina mundi.
+   97  nec me animi fallit quam res nova miraque menti
+   98  accidat exitium caeli terraeque futurum,
+   99  et quam difficile id mihi sit pervincere dictis;
+  100  ut fit ubi insolitam rem adportes auribus ante
+  101  nec tamen hanc possis oculorum subdere visu
+  102  nec iacere indu manus, via qua munita fidei
+  103  proxima fert humanum in pectus templaque mentis.
+  104  sed tamen effabor. dictis dabit ipsa fidem res
+  105  forsitan et graviter terrarum motibus ortis
+  106  omnia conquassari in parvo tempore cernes.
+  107  quod procul a nobis flectat fortuna gubernans,
+  108  et ratio potius quam res persuadeat ipsa
+  109  succidere horrisono posse omnia victa fragore.
+  110  Qua prius adgrediar quam de re fundere fata
+  111  sanctius et multo certa ratione magis quam
+  112  Pythia quae tripode a Phoebi lauroque profatur,
+  113  multa tibi expediam doctis solacia dictis;
+  114  religione refrenatus ne forte rearis
+  115  terras et solem et caelum, mare sidera lunam,
+  116  corpore divino debere aeterna manere,
+  117  proptereaque putes ritu par esse Gigantum
+  118  pendere eos poenas inmani pro scelere omnis,
+  119  qui ratione sua disturbent moenia mundi
+  120  praeclarumque velint caeli restinguere solem
+  121  inmortalia mortali sermone notantes;
+  122  quae procul usque adeo divino a numine distent
+  123  inque deum numero quae sint indigna videri,
+  124  notitiam potius praebere ut posse putentur
+  125  quid sit vitali motu sensuque remotum.
+  126  quippe etenim non est, cum quovis corpore ut esse
+  127  posse animi natura putetur consiliumque.
+  128  sicut in aethere non arbor, non aequore salso
+  129  nubes esse queunt neque pisces vivere in arvis
+  130  nec cruor in lignis neque saxis sucus inesse,
+  131  certum ac dispositumst ubi quicquid crescat et insit,
+  132  sic animi natura nequit sine corpore oriri
+  133  sola neque a nervis et sanguine longius esse.
+  134  quod si posset enim, multo prius ipsa animi vis
+  135  in capite aut umeris aut imis calcibus esse
+  136  posset et innasci quavis in parte soleret,
+  137  tandem in eodem homine atque in eodem vase manere.
+  138  quod quoniam nostro quoque constat corpore certum
+  139  dispositumque videtur ubi esse et crescere possit
+  140  seorsum anima atque animus, tanto magis infitiandum
+  141  totum posse extra corpus formamque animalem
+  142  putribus in glebis terrarum aut solis in igni
+  143  aut in aqua durare aut altis aetheris oris.
+  144  haud igitur constant divino praedita sensu,
+  145  quandoquidem nequeunt vitaliter esse animata.
+  146  Illud item non est ut possis credere, sedes
+  147  esse deum sanctas in mundi partibus ullis.
+  148  tenvis enim natura deum longeque remota
+  149  sensibus ab nostris animi vix mente videtur;
+  150  quae quoniam manuum tactum suffugit et ictum,
+  151  tactile nil nobis quod sit contingere debet;
+  152  tangere enim non quit quod tangi non licet ipsum.
+  153  quare etiam sedes quoque nostris sedibus esse
+  154  dissimiles debent, tenues de corpore eorum;
+  155  quae tibi posterius largo sermone probabo.
+  156  Dicere porro hominum causa voluisse parare
+  157  praeclaram mundi naturam proptereaque
+  158  adlaudabile opus divom laudare decere
+  159  aeternumque putare atque inmortale futurum,
+  160  nec fas esse, deum quod sit ratione vetusta
+  161  gentibus humanis fundatum perpetuo aevo,
+  162  sollicitare suis ulla vi ex sedibus umquam
+  163  nec verbis vexare et ab imo evertere summa,
+  164  cetera de genere hoc adfingere et addere, Memmi,
+  165  desiperest. quid enim inmortalibus atque beatis
+  166  gratia nostra queat largirier emolumenti,
+  167  ut nostra quicquam causa gerere adgrediantur?
+  168  quidve novi potuit tanto post ante quietos
+  169  inlicere ut cuperent vitam mutare priorem?
+  170  nam gaudere novis rebus debere videtur
+  171  cui veteres obsunt; sed cui nihil accidit aegri
+  172  tempore in ante acto, cum pulchre degeret aevom,
+  173  quid potuit novitatis amorem accendere tali?
+  174  quidve mali fuerat nobis non esse creatis?
+  175  an, credo, in tenebris vita ac maerore iacebat,
+  176  donec diluxit rerum genitalis origo?
+  177  natus enim debet qui cumque est velle manere
+  178  in vita, donec retinebit blanda voluptas;
+  179  qui numquam vero vitae gustavit amorem
+  180  nec fuit in numero, quid obest non esse creatum?
+  181  exemplum porro gignundis rebus et ipsa
+  182  notities hominum divis unde insita primum est,
+  183  quid vellent facere ut scirent animoque viderent,
+  184  quove modost umquam vis cognita principiorum
+  185  quidque inter sese permutato ordine possent.
+  186  si non ipsa dedit speciem natura creandi?
+  187  namque ita multa modis multis primordia rerum
+  188  ex infinito iam tempore percita plagis
+  189  ponderibusque suis consuerunt concita ferri
+  190  omnimodisque coire atque omnia pertemptare,
+  191  quae cumque inter se possint congressa creare,
+  192  ut non sit mirum, si in talis disposituras
+  193  deciderunt quoque et in talis venere meatus,
+  194  qualibus haec rerum geritur nunc summa novando.
+  195  Quod si iam rerum ignorem primordia quae sint,
+  196  hoc tamen ex ipsis caeli rationibus ausim
+  197  confirmare aliisque ex rebus reddere multis,
+  198  nequaquam nobis divinitus esse paratam
+  199  naturam rerum: tanta stat praedita culpa.
+  200  principio quantum caeli tegit impetus ingens,
+  201  inde avidam partem montes silvaeque ferarum
+  202  possedere, tenent rupes vastaeque paludes
+  203  et mare, quod late terrarum distinet oras.
+  204  inde duas porro prope partis fervidus ardor
+  205  adsiduusque geli casus mortalibus aufert.
+  206  quod super est arvi, tamen id natura sua vi
+  207  sentibus obducat, ni vis humana resistat
+  208  vitai causa valido consueta bidenti
+  209  ingemere et terram pressis proscindere aratris.
+  210  si non fecundas vertentes vomere glebas
+  211  terraique solum subigentes cimus ad ortus.
+  212  sponte sua nequeant liquidas existere in auras.
+  213  et tamen inter dum magno quaesita labore
+  214  cum iam per terras frondent atque omnia florent,
+  215  aut nimiis torret fervoribus aetherius sol
+  216  aut subiti peremunt imbris gelidaeque pruinae
+  217  flabraque ventorum violento turbine vexant.
+  218  praeterea genus horriferum natura ferarum
+  219  humanae genti infestum terraque marique
+  220  cur alit atque auget? cur anni tempora morbos
+  221  adportant? quare mors inmatura vagatur?
+  222  tum porro puer, ut saevis proiectus ab undis
+  223  navita, nudus humi iacet infans indigus omni
+  224  vitali auxilio, cum primum in luminis oras
+  225  nixibus ex alvo matris natura profudit,
+  226  vagituque locum lugubri complet, ut aequumst
+  227  cui tantum in vita restet transire malorum.
+  228  at variae crescunt pecudes armenta feraeque
+  229  nec crepitacillis opus est nec cuiquam adhibendast
+  230  almae nutricis blanda atque infracta loquella
+  231  nec varias quaerunt vestes pro tempore caeli,
+  232  denique non armis opus est, non moenibus altis,
+  233  qui sua tutentur, quando omnibus omnia large
+  234  tellus ipsa parit naturaque daedala rerum.
+  235  Principio quoniam terrai corpus et umor
+  236  aurarumque leves animae calidique vapores,
+  237  e quibus haec rerum consistere summa videtur,
+  238  omnia nativo ac mortali corpore constant,
+  239  debet eodem omnis mundi natura putari.
+  240  quippe etenim, quorum partis et membra videmus
+  241  corpore nativo mortalibus esse figuris,
+  242  haec eadem ferme mortalia cernimus esse
+  243  et nativa simul. qua propter maxima mundi
+  244  cum videam membra ac partis consumpta regigni,
+  245  scire licet caeli quoque item terraeque fuisse
+  246  principiale aliquod tempus clademque futuram.
+  247  Illud in his rebus ne corripuisse rearis
+  248  me mihi, quod terram atque ignem mortalia sumpsi
+  249  esse neque umorem dubitavi aurasque perire
+  250  atque eadem gigni rursusque augescere dixi.
+  251  principio pars terrai non nulla, perusta
+  252  solibus adsiduis, multa pulsata pedum vi,
+  253  pulveris exhalat nebulam nubesque volantis,
+  254  quas validi toto dispergunt aereaëre venti.
+  255  pars etiam glebarum ad diluviem revocatur
+  256  imbribus et ripas radentia flumina rodunt.
+  257  praeterea pro parte sua, quod cumque alit auget,
+  258  redditur; et quoniam dubio procul esse videtur
+  259  omniparens eadem rerum commune sepulcrum.
+  260  ergo terra tibi libatur et aucta recrescit.
+  261  Quod super est, umore novo mare flumina fontes
+  262  semper abundare et latices manare perennis
+  263  nil opus est verbis: magnus decursus aquarum
+  264  undique declarat. sed primum quicquid aquai
+  265  tollitur in summaque fit ut nihil umor abundet,
+  266  partim quod validi verrentes aequora venti
+  267  deminuunt radiisque retexens aetherius sol,
+  268  partim quod supter per terras diditur omnis;
+  269  percolatur enim virus retroque remanat
+  270  materies umoris et ad caput amnibus omnis
+  271  convenit, inde super terras fluit agmine dulci
+  272  qua via secta semel liquido pede detulit undas.
+  273  AeraAëra nunc igitur dicam, qui corpore toto
+  274  innumerabiliter privas mutatur in horas.
+  275  semper enim, quod cumque fluit de rebus, id omne
+  276  aerisaëris in magnum fertur mare; qui nisi contra
+  277  corpora retribuat rebus recreetque fluentis,
+  278  omnia iam resoluta forent et in aeraaëra versa.
+  279  haut igitur cessat gigni de rebus et in res
+  280  reccidere, adsidue quoniam fluere omnia constat.
+  281  Largus item liquidi fons luminis, aetherius sol,
+  282  inrigat adsidue caelum candore recenti
+  283  suppeditatque novo confestim lumine lumen.
+  284  nam primum quicquid fulgoris disperit ei,
+  285  quo cumque accidit. id licet hinc cognoscere possis,
+  286  quod simul ac primum nubes succedere soli
+  287  coepere et radios inter quasi rumpere lucis,
+  288  extemplo inferior pars horum disperit omnis
+  289  terraque inumbratur qua nimbi cumque feruntur;
+  290  ut noscas splendore novo res semper egere
+  291  et primum iactum fulgoris quemque perire
+  292  nec ratione alia res posse in sole videri,
+  293  perpetuo ni suppeditet lucis caput ipsum.
+  294  quin etiam nocturna tibi, terrestria quae sunt,
+  295  lumina, pendentes lychni claraeque coruscis
+  296  fulguribus pingues multa caligine taedae
+  297  consimili properant ratione, ardore ministro,
+  298  suppeditare novom lumen, tremere ignibus instant,
+  299  instant, nec loca lux inter quasi rupta relinquit:
+  300  usque adeo properanter ab omnibus ignibus ei
+  301  exitium celeri celeratur origine flammae.
+  302  sic igitur solem lunam stellasque putandum
+  303  ex alio atque alio lucem iactare subortu
+  304  et primum quicquid flammarum perdere semper,
+  305  inviolabilia haec ne credas forte vigere.
+  306  Denique non lapides quoque vinci cernis ab aevo,
+  307  non altas turris ruere et putrescere saxa,
+  308  non delubra deum simulacraque fessa fatisci
+  309  nec sanctum numen fati protollere finis
+  310  posse neque adversus naturae foedera niti?
+  311  denique non monimenta virum dilapsa videmus,
+  312  quaerere proporro, sibi cumque senescere credas,
+  313  non ruere avolsos silices a montibus altis
+  314  nec validas aevi vires perferre patique
+  315  finiti? neque enim caderent avolsa repente,
+  316  ex infinito quae tempore pertolerassent
+  317  omnia tormenta aetatis, privata fragore.
+  318  Denique iam tuere hoc, circum supraque quod omne
+  319  continet amplexu terram: si procreat ex se
+  320  omnia, quod quidam memorant, recipitque perempta,
+  321  totum nativum mortali corpore constat.
+  322  nam quod cumque alias ex se res auget alitque,
+  323  deminui debet, recreari, cum recipit res.
+  324  Praeterea si nulla fuit genitalis origo
+  325  terrarum et caeli semperque aeterna fuere,
+  326  cur supera bellum Thebanum et funera Troiae
+  327  non alias alii quoque res cecinere poetaepoëtae?
+  328  quo tot facta virum totiens cecidere neque usquam
+  329  aeternis famae monimentis insita florent?
+  330  verum, ut opinor, habet novitatem summa recensque
+  331  naturast mundi neque pridem exordia cepit.
+  332  quare etiam quaedam nunc artes expoliuntur,
+  333  nunc etiam augescunt; nunc addita navigiis sunt
+  334  multa, modo organici melicos peperere sonores,
+  335  denique natura haec rerum ratioque repertast
+  336  nuper, et hanc primus cum primis ipse repertus
+  337  nunc ego sum in patrias qui possim vertere voces.
+  338  Quod si forte fuisse ante hac eadem omnia credis,
+  339  sed periise hominum torrenti saecla vapore,
+  340  aut cecidisse urbis magno vexamine mundi,
+  341  aut ex imbribus adsiduis exisse rapaces
+  342  per terras amnes atque oppida coperuisse.
+  343  tanto quique magis victus fateare necessest
+  344  exitium quoque terrarum caelique futurum;
+  345  nam cum res tantis morbis tantisque periclis
+  346  temptarentur, ibi si tristior incubuisset
+  347  causa, darent late cladem magnasque ruinas.
+  348  nec ratione alia mortales esse videmur,
+  349  inter nos nisi quod morbis aegrescimus isdem
+  350  atque illi quos a vita natura removit.
+  351  Praeterea quae cumque manent aeterna necessust
+  352  aut, quia sunt solido cum corpore, respuere ictus
+  353  nec penetrare pati sibi quicquam quod queat artas
+  354  dissociare intus partis, ut materiai
+  355  corpora sunt, quorum naturam ostendimus ante,
+  356  aut ideo durare aetatem posse per omnem,
+  357  plagarum quia sunt expertia, sicut inane est,
+  358  quod manet intactum neque ab ictu fungitur hilum,
+  359  aut etiam quia nulla loci sit copia circum,
+  360  quo quasi res possint discedere dissoluique,
+  361  sicut summarum summa est aeterna, neque extra
+  362  qui locus est quo dissiliant neque corpora sunt quae
+  363  possint incidere et valida dissolvere plaga.
+  364  at neque, uti docui, solido cum corpore mundi
+  365  naturast, quoniam admixtumst in rebus inane,
+  366  nec tamen est ut inane, neque autem corpora desunt,
+  367  ex infinito quae possint forte coorta
+  368  corruere hanc rerum violento turbine summam
+  369  aut aliam quamvis cladem inportare pericli,
+  370  nec porro natura loci spatiumque profundi
+  371  deficit, exspargi quo possint moenia mundi,
+  372  aut alia quavis possunt vi pulsa perire.
+  373  haut igitur leti praeclusa est ianua caelo
+  374  nec soli terraeque neque altis aequoris undis,
+  375  sed patet immani et vasto respectat hiatu.
+  376  quare etiam nativa necessumst confiteare
+  377  haec eadem; neque enim, mortali corpore quae sunt,
+  378  ex infinito iam tempore adhuc potuissent
+  379  inmensi validas aevi contemnere vires.
+  380  Denique tantopere inter se cum maxima mundi
+  381  pugnent membra, pio nequaquam concita bello,
+  382  nonne vides aliquam longi certaminis ollis
+  383  posse dari finem, vel cum sol et vapor omnis
+  384  omnibus epotis umoribus exsuperarint?
+  385  quod facere intendunt, neque adhuc conata patrantur;
+  386  tantum suppeditant amnes ultraque minantur
+  387  omnia diluviare ex alto gurgite ponti:
+  388  ne quiquam, quoniam verrentes aequora venti
+  389  deminuunt radiisque retexens aetherius sol,
+  390  et siccare prius confidunt omnia posse
+  391  quam liquor incepti possit contingere finem.
+  392  tantum spirantes aequo certamine bellum
+  393  magnis inter se de rebus cernere certant,
+  394  cum semel interea fuerit superantior ignis
+  395  et semel, ut fama est, umor regnarit in arvis.
+  396  ignis enim superavit et ambiens multa perussit,
+  397  avia cum Phaethonta rapax vis solis equorum
+  398  aethere raptavit toto terrasque per omnis.
+  399  at pater omnipotens ira tum percitus acri
+  400  magnanimum Phaethonta repenti fulminis ictu
+  401  deturbavit equis in terram, Solque cadenti
+  402  obvius aeternam succepit lampada mundi
+  403  disiectosque redegit equos iunxitque trementis,
+  404  inde suum per iter recreavit cuncta gubernans,
+  405  scilicet ut veteres Graium cecinere poetaepoëtae.
+  406  quod procul a vera nimis est ratione repulsum.
+  407  ignis enim superare potest ubi materiai
+  408  ex infinito sunt corpora plura coorta;
+  409  inde cadunt vires aliqua ratione revictae,
+  410  aut pereunt res exustae torrentibus auris.
+  411  umor item quondam coepit superare coortus,
+  412  ut fama est, hominum vitas quando obruit undis;
+  413  inde ubi vis aliqua ratione aversa recessit,
+  414  ex infinito fuerat quae cumque coorta,
+  415  constiterunt imbres et flumina vim minuerunt.
+  416  Sed quibus ille modis coniectus materiai
+  417  fundarit terram et caelum pontique profunda,
+  418  solis lunai cursus, ex ordine ponam.
+  419  nam certe neque consilio primordia rerum
+  420  ordine se suo quaeque sagaci mente locarunt
+  421  nec quos quaeque darent motus pepigere profecto;
+  422  sed quia multa modis multis primordia rerum
+  423  ex infinito iam tempore percita plagis
+  424  ponderibusque suis consuerunt concita ferri
+  425  omnimodisque coire atque omnia pertemptare,
+  426  quae cumque inter se possent congressa creare,
+  427  propterea fit uti magnum volgata per aevom
+  428  omnigenus coetus et motus experiundo
+  429  tandem conveniant ea quae coniecta repente
+  430  magnarum rerum fiunt exordia saepe,
+  431  terrai maris et caeli generisque animantum.
+  432  Hic neque tum solis rota cerni lumine largo
+  433  altivolans poterat nec magni sidera mundi
+  434  nec mare nec caelum nec denique terra neque aeraër
+  435  nec similis nostris rebus res ulla videri,
+  436  sed nova tempestas quaedam molesque coorta.
+  437  diffugere inde loci partes coepere paresque
+  438  cum paribus iungi res et discludere mundum
+  439  membraque dividere et magnas disponere partes
+  440  omnigenis e principiis, discordia quorum
+  441  intervalla vias conexus pondera plagas
+  442  concursus motus turbabat proelia miscens
+  443  propter dissimilis formas variasque figuras,
+  444  quod non omnia sic poterant coniuncta manere
+  445  nec motus inter sese dare convenientis,
+  446  hoc est, a terris altum secernere caelum,
+  447  et sorsum mare, uti secreto umore pateret,
+  448  seorsus item puri secretique aetheris ignes.
+  449  Quippe etenim primum terrai corpora quaeque,
+  450  propterea quod erant gravia et perplexa, coibant
+  451  in medio atque imas capiebant omnia sedes;
+  452  quae quanto magis inter se perplexa coibant,
+  453  tam magis expressere ea quae mare sidera solem
+  454  lunamque efficerent et magni moenia mundi;
+  455  omnia enim magis haec e levibus atque rutundis
+  456  seminibus multoque minoribus sunt elementis
+  457  quam tellus. ideo per rara foramina terrae
+  458  partibus erumpens primus se sustulit aether
+  459  ignifer et multos secum levis abstulit ignis,
+  460  non alia longe ratione ac saepe videmus,
+  461  aurea cum primum gemmantis rore per herbas
+  462  matutina rubent radiati lumina solis
+  463  exhalantque lacus nebulam fluviique perennes
+  464  ipsaque ut inter dum tellus fumare videtur;
+  465  omnia quae sursum cum conciliantur, in alto
+  466  corpore concreto subtexunt nubila caelum.
+  467  sic igitur tum se levis ac diffusilis aether
+  468  corpore concreto circum datus undique saepsit
+  469  et late diffusus in omnis undique partis
+  470  omnia sic avido complexu cetera saepsit.
+  471  hunc exordia sunt solis lunaeque secuta,
+  472  interutrasque globi quorum vertuntur in auris;
+  473  quae neque terra sibi adscivit nec maximus aether,
+  474  quod neque tam fuerunt gravia ut depressa sederent,
+  475  nec levia ut possent per summas labier oras,
+  476  et tamen interutrasque ita sunt, ut corpora viva
+  477  versent et partes ut mundi totius extent;
+  478  quod genus in nobis quaedam licet in statione
+  479  membra manere, tamen cum sint ea quae moveantur.
+  480  his igitur rebus retractis terra repente,
+  481  maxuma qua nunc se ponti plaga caerula tendit,
+  482  succidit et salso suffudit gurgite fossas.
+  483  inque dies quanto circum magis aetheris aestus
+  484  et radii solis cogebant undique terram
+  485  verberibus crebris extrema ad limina fartam
+  486  in medio ut propulsa suo condensa coiret,
+  487  tam magis expressus salsus de corpore sudor
+  488  augebat mare manando camposque natantis,
+  489  et tanto magis illa foras elapsa volabant
+  490  corpora multa vaporis et aerisaëris altaque caeli
+  491  densabant procul a terris fulgentia templa.
+  492  sidebant campi, crescebant montibus altis
+  493  ascensus; neque enim poterant subsidere saxa
+  494  nec pariter tantundem omnes succumbere partis.
+  495  Sic igitur terrae concreto corpore pondus
+  496  constitit atque omnis mundi quasi limus in imum
+  497  confluxit gravis et subsedit funditus ut faex;
+  498  inde mare, inde aeraër, inde aether ignifer ipse
+  499  corporibus liquidis sunt omnia pura relicta
+  500  et leviora aliis alia, et liquidissimus aether
+  501  atque levissimus aeriasaërias super influit auras
+  502  nec liquidum corpus turbantibus aerisaëris auris
+  503  commiscet; sinit haec violentis omnia verti
+  504  turbinibus, sinit incertis turbare procellis,
+  505  ipse suos ignis certo fert impete labens.
+  506  nam modice fluere atque uno posse aethera nisu
+  507  significat Pontos, mare certo quod fluit aestu
+  508  unum labendi conservans usque tenorem.
+  509  Motibus astrorum nunc quae sit causa canamus.
+  510  principio magnus caeli si vortitur orbis,
+  511  ex utraque polum parti premere aeraaëra nobis
+  512  dicendum est extraque tenere et claudere utrimque;
+  513  inde alium supra fluere atque intendere eodem
+  514  quo volvenda micant aeterni sidera mundi;
+  515  aut alium supter, contra qui subvehat orbem,
+  516  ut fluvios versare rotas atque austra videmus.
+  517  est etiam quoque uti possit caelum omne manere
+  518  in statione, tamen cum lucida signa ferantur,
+  519  sive quod inclusi rapidi sunt aetheris aestus
+  520  quaerentesque viam circum versantur et ignes
+  521  passim per caeli volvunt summania templa,
+  522  sive aliunde fluens alicunde extrinsecus aeraër
+  523  versat agens ignis, sive ipsi serpere possunt,
+  524  quo cuiusque cibus vocat atque invitat euntis,
+  525  flammea per caelum pascentis corpora passim.
+  526  nam quid in hoc mundo sit eorum ponere certum
+  527  difficilest; sed quid possit fiatque per omne
+  528  in variis mundis varia ratione creatis,
+  529  id doceo plurisque sequor disponere causas,
+  530  motibus astrorum quae possint esse per omne;
+  531  e quibus una tamen sit et haec quoque causa necessest,
+  532  quae vegeat motum signis; sed quae sit earum
+  533  praecipere haud quaquamst pedetemptim progredientis.
+  534  Terraque ut in media mundi regione quiescat,
+  535  evanescere paulatim et decrescere pondus
+  536  convenit atque aliam naturam supter habere
+  537  ex ineunte aevo coniunctam atque uniter aptam
+  538  partibus aeriisaëriis mundi, quibus insita vivit.
+  539  propterea non est oneri neque deprimit auras,
+  540  ut sua cuique homini nullo sunt pondere membra
+  541  nec caput est oneri collo nec denique totum
+  542  corporis in pedibus pondus sentimus inesse;
+  543  at quae cumque foris veniunt inpostaque nobis
+  544  pondera sunt laedunt, permulto saepe minora.
+  545  usque adeo magni refert quid quaeque queat res.
+  546  sic igitur tellus non est aliena repente
+  547  allata atque auris aliunde obiecta alienis,
+  548  sed pariter prima concepta ab origine mundi
+  549  certaque pars eius, quasi nobis membra videntur.
+  550  Praeterea grandi tonitru concussa repente
+  551  terra supra quae se sunt concutit omnia motu;
+  552  quod facere haut ulla posset ratione, nisi esset
+  553  partibus aeriisaëriis mundi caeloque revincta;
+  554  nam communibus inter se radicibus haerent
+  555  ex ineunte aevo coniuncta atque uniter aucta.
+  556  Nonne vides etiam quam magno pondere nobis
+  557  sustineat corpus tenuissima vis animai,
+  558  propterea quia tam coniuncta atque uniter apta est?
+  559  Denique iam saltu pernici tollere corpus
+  560  quid potis est nisi vis animae, quae membra gubernat?
+  561  iamne vides quantum tenuis natura valere
+  562  possit, ubi est coniuncta gravi cum corpore, ut aeraër
+  563  coniunctus terris et nobis est animi vis?
+  564  Nec nimio solis maior rota nec minor ardor
+  565  esse potest, nostris quam sensibus esse videtur.
+  566  nam quibus e spatiis cumque ignes lumina possunt
+  567  adiicere et calidum membris adflare vaporem,
+  568  nil magnis intervallis de corpore libant
+  569  flammarum, nihil ad speciem est contractior ignis.
+  570  proinde, calor quoniam solis lumenque profusum
+  571  perveniunt nostros ad sensus et loca fulgent,
+  572  forma quoque hinc solis debet filumque videri,
+  573  nil adeo ut possis plus aut minus addere vere.
+  574  perveniunt nostros ad sensus et loca fulgent
+  575  lunaque sive notho fertur loca lumine lustrans,
+  576  sive suam proprio iactat de corpore lucem,
+  577  quidquid id est, nihilo fertur maiore figura
+  578  quam, nostris oculis qua cernimus, esse videtur.
+  579  nam prius omnia, quae longe semota tuemur
+  580  aeraaëra per multum, specie confusa videntur
+  581  quam minui filum. quapropter luna necesse est,
+  582  quandoquidem claram speciem certamque figuram
+  583  praebet, ut est oris extremis cumque notata,
+  584  quanta quoquest, tanta hinc nobis videatur in alto.
+  585  postremo quos cumque vides hinc aetheris ignes,
+  586  scire licet perquam pauxillo posse minores
+  587  esse vel exigua maioris parte brevique.
+  588  quandoquidem quos cumque in terris cernimus ignes,
+  589  dum tremor et clarus dum cernitur ardor eorum,
+  590  perparvom quiddam inter dum mutare videntur
+  591  alteram utram in partem filum, quo longius absunt.
+  592  Illud item non est mirandum, qua ratione
+  593  tantulus ille queat tantum sol mittere lumen,
+  594  quod maria ac terras omnis caelumque rigando
+  595  compleat et calido perfundat cuncta vapore.
+  596  quanta quoquest tanta hinc nobis videatur in alto
+  597  nam licet hinc mundi patefactum totius unum
+  598  largifluum fontem scatere atque erumpere lumen,
+  599  ex omni mundo quia sic elementa vaporis
+  600  undique conveniunt et sic coniectus eorum
+  601  confluit, ex uno capite hic ut profluat ardor.
+  602  nonne vides etiam quam late parvus aquai
+  603  prata riget fons inter dum campisque redundet?
+  604  est etiam quoque uti non magno solis ab igni
+  605  aeraaëra percipiat calidis fervoribus ardor,
+  606  opportunus ita est si forte et idoneus aeraër,
+  607  ut queat accendi parvis ardoribus ictus;
+  608  quod genus inter dum segetes stipulamque videmus
+  609  accidere ex una scintilla incendia passim.
+  610  forsitan et rosea sol alte lampade lucens
+  611  possideat multum caecis fervoribus ignem
+  612  circum se, nullo qui sit fulgore notatus,
+  613  aestifer ut tantum radiorum exaugeat ictum.
+  614  Nec ratio solis simplex et recta patescit,
+  615  quo pacto aestivis e partibus aegocerotis
+  616  brumalis adeat flexus atque inde revertens
+  617  canceris ut vertat metas ad solstitialis,
+  618  lunaque mensibus id spatium videatur obire,
+  619  annua sol in quo consumit tempora cursu.
+  620  non, inquam, simplex his rebus reddita causast.
+  621  nam fieri vel cum primis id posse videtur,
+  622  Democriti quod sancta viri sententia ponit,
+  623  quanto quaeque magis sint terram sidera propter,
+  624  tanto posse minus cum caeli turbine ferri;
+  625  evanescere enim rapidas illius et acris
+  626  imminui supter viris, ideoque relinqui
+  627  paulatim solem cum posterioribus signis,
+  628  inferior multo quod sit quam fervida signa.
+  629  et magis hoc lunam: quanto demissior eius
+  630  cursus abest procul a caelo terrisque propinquat,
+  631  tanto posse minus cum signis tendere cursum.
+  632  flaccidiore etiam quanto iam turbine fertur
+  633  inferior quam sol, tanto magis omnia signa
+  634  hanc adipiscuntur circum praeterque feruntur.
+  635  propterea fit ut haec ad signum quodque reverti
+  636  mobilius videatur, ad hanc quia signa revisunt.
+  637  fit quoque ut e mundi transversis partibus aeraër
+  638  alternis certo fluere alter tempore possit,
+  639  qui queat aestivis solem detrudere signis
+  640  brumalis usque ad flexus gelidumque rigorem,
+  641  et qui reiciat gelidis a frigoris umbris
+  642  aestiferas usque in partis et fervida signa.
+  643  et ratione pari lunam stellasque putandumst,
+  644  quae volvunt magnos in magnis orbibus annos,
+  645  aeribusaëribus posse alternis e partibus ire.
+  646  nonne vides etiam diversis nubila ventis
+  647  diversas ire in partis inferna supernis?
+  648  qui minus illa queant per magnos aetheris orbis
+  649  aestibus inter se diversis sidera ferri?
+  650  At nox obruit ingenti caligine terras,
+  651  aut ubi de longo cursu sol ultima caeli
+  652  impulit atque suos efflavit languidus ignis
+  653  concussos itere et labefactos aereaëre multo,
+  654  aut quia sub terras cursum convortere cogit
+  655  vis eadem, supra quae terras pertulit orbem.
+  656  Tempore item certo roseam Matuta per oras
+  657  aetheris auroram differt et lumina pandit,
+  658  aut quia sol idem, sub terras ille revertens,
+  659  anticipat caelum radiis accendere temptans,
+  660  aut quia conveniunt ignes et semina multa
+  661  confluere ardoris consuerunt tempore certo,
+  662  quae faciunt solis nova semper lumina gigni;
+  663  quod genus Idaeis fama est e montibus altis
+  664  dispersos ignis orienti lumine cerni,
+  665  inde coire globum quasi in unum et conficere orbem.
+  666  nec tamen illud in his rebus mirabile debet
+  667  esse, quod haec ignis tam certo tempore possint
+  668  semina confluere et solis reparare nitorem.
+  669  multa videmus enim, certo quae tempore fiunt
+  670  omnibus in rebus. florescunt tempore certo
+  671  arbusta et certo dimittunt tempore florem.
+  672  nec minus in certo dentes cadere imperat aetas
+  673  tempore et inpubem molli pubescere veste
+  674  et pariter mollem malis demittere barbam.
+  675  fulmina postremo nix imbres nubila venti
+  676  non nimis incertis fiunt in partibus anni.
+  677  namque ubi sic fuerunt causarum exordia prima
+  678  atque ita res mundi cecidere ab origine prima,
+  679  conseque quoque iam redeunt ex ordine certo.
+  680  Crescere itemque dies licet et tabescere noctes,
+  681  et minui luces, cum sumant augmina noctis,
+  682  aut quia sol idem sub terras atque superne
+  683  imparibus currens amfractibus aetheris oras
+  684  partit et in partis non aequas dividit orbem,
+  685  et quod ab alterutra detraxit parte, reponit
+  686  eius in adversa tanto plus parte relatus,
+  687  donec ad id signum caeli pervenit, ubi anni
+  688  nodus nocturnas exaequat lucibus umbras;
+  689  nam medio cursu flatus aquilonis et austri
+  690  distinet aequato caelum discrimine metas
+  691  propter signiferi posituram totius orbis,
+  692  annua sol in quo concludit tempora serpens,
+  693  obliquo terras et caelum lumine lustrans,
+  694  ut ratio declarat eorum qui loca caeli
+  695  omnia dispositis signis ornata notarunt.
+  696  aut quia crassior est certis in partibus aeraër,
+  697  sub terris ideo tremulum iubar haesitat ignis
+  698  nec penetrare potest facile atque emergere ad ortus;
+  699  propterea noctes hiberno tempore longae
+  700  cessant, dum veniat radiatum insigne diei.
+  701  aut etiam, quia sic alternis partibus anni
+  702  tardius et citius consuerunt confluere ignes,
+  703  qui faciunt solem certa de surgere parte,
+  704  propterea fit uti videantur dicere verum.
+  705  Luna potest solis radiis percussa nitere
+  706  inque dies magis id lumen convertere nobis
+  707  ad speciem, quantum solis secedit ab orbi,
+  708  donique eum contra pleno bene lumine fulsit
+  709  atque oriens obitus eius super edita vidit;
+  710  inde minutatim retro quasi condere lumen
+  711  debet item, quanto propius iam solis ad ignem
+  712  labitur ex alia signorum parte per orbem;
+  713  ut faciunt, lunam qui fingunt esse pilai
+  714  consimilem cursusque viam sub sole tenere.
+  715  est etiam quare proprio cum lumine possit
+  716  volvier et varias splendoris reddere formas;
+  717  corpus enim licet esse aliud, quod fertur et una
+  718  labitur omnimodis occursans officiensque,
+  719  nec potis est cerni, quia cassum lumine fertur.
+  720  versarique potest, globus ut, si forte, pilai
+  721  dimidia ex parti candenti lumine tinctus,
+  722  versandoque globum variantis edere formas,
+  723  donique eam partem, quae cumque est ignibus aucta,
+  724  ad speciem vertit nobis oculosque patentis;
+  725  inde minutatim retro contorquet et aufert
+  726  luciferam partem glomeraminis atque pilai;
+  727  ut Babylonica Chaldaeum doctrina refutans
+  728  astrologorum artem contra convincere tendit,
+  729  proinde quasi id fieri nequeat quod pugnat uterque
+  730  aut minus hoc illo sit cur amplectier ausis.
+  731  denique cur nequeat semper nova luna creari
+  732  ordine formarum certo certisque figuris
+  733  inque dies privos aborisci quaeque creata
+  734  atque alia illius reparari in parte locoque,
+  735  difficilest ratione docere et vincere verbis,
+  736  ordine cum videas tam certo multa creari.
+  737  it Ver et Venus et Veneris praenuntius ante
+  738  pennatus graditur, Zephyri vestigia propter
+  739  Flora quibus mater praespargens ante viai
+  740  cuncta coloribus egregiis et odoribus opplet.
+  741  inde loci sequitur Calor aridus et comes una
+  742  pulverulenta Ceres et etesia flabra aquilonum.
+  743  inde Autumnus adit, graditur simul Euhius Euan.
+  744  inde aliae tempestates ventique secuntur,
+  745  altitonans Volturnus et Auster fulmine pollens.
+  746  tandem Bruma nives adfert pigrumque rigorem
+  747  reddit. Hiemps sequitur crepitans hanc dentibus algu.
+  748  quo minus est mirum, si certo tempore luna
+  749  gignitur et certo deletur tempore rusus,
+  750  cum fieri possint tam certo tempore multa.
+  751  Solis item quoque defectus lunaeque latebras
+  752  pluribus e causis fieri tibi posse putandumst.
+  753  nam cur luna queat terram secludere solis
+  754  lumine et a terris altum caput obstruere ei,
+  755  obiciens caecum radiis ardentibus orbem,
+  756  tempore eodem aliut facere id non posse putetur
+  757  corpus, quod cassum labatur lumine semper?
+  758  solque suos etiam dimittere languidus ignis
+  759  tempore cur certo nequeat recreareque lumen,
+  760  cum loca praeteriit flammis infesta per auras,
+  761  quae faciunt ignis interstingui atque perire?
+  762  et cur terra queat lunam spoliare vicissim
+  763  lumine et oppressum solem super ipsa tenere,
+  764  menstrua dum rigidas coni perlabitur umbras,
+  765  tempore eodem aliud nequeat succurrere lunae
+  766  corpus vel supra solis perlabier orbem,
+  767  quod radios inter rumpat lumenque profusum?
+  768  et tamen ipsa suo si fulget luna nitore,
+  769  cur nequeat certa mundi languescere parte,
+  770  dum loca luminibus propriis inimica per exit?
+  771  menstrua dum rigidas coni perlabitur umbras.
+  772  Quod superest, quoniam magni per caerula mundi
+  773  qua fieri quicquid posset ratione resolvi,
+  774  solis uti varios cursus lunaeque meatus
+  775  noscere possemus quae vis et causa cieret,
+  776  quove modo possent offecto lumine obire
+  777  et neque opinantis tenebris obducere terras,
+  778  cum quasi conivent et aperto lumine rursum
+  779  omnia convisunt clara loca candida luce,
+  780  nunc redeo ad mundi novitatem et mollia terrae
+  781  arva, novo fetu quid primum in luminis oras
+  782  tollere et incertis crerint committere ventis.
+  783  Principio genus herbarum viridemque nitorem
+  784  terra dedit circum collis camposque per omnis,
+  785  florida fulserunt viridanti prata colore,
+  786  arboribusque datumst variis exinde per auras
+  787  crescendi magnum inmissis certamen habenis.
+  788  ut pluma atque pili primum saetaeque creantur
+  789  quadripedum membris et corpore pennipotentum,
+  790  sic nova tum tellus herbas virgultaque primum
+  791  sustulit, inde loci mortalia saecla creavit
+  792  multa modis multis varia ratione coorta.
+  793  nam neque de caelo cecidisse animalia possunt,
+  794  nec terrestria de salsis exisse lacunis.
+  795  linquitur ut merito maternum nomen adepta
+  796  terra sit, e terra quoniam sunt cuncta creata.
+  797  multaque nunc etiam existunt animalia terris
+  798  imbribus et calido solis concreta vapore;
+  799  quo minus est mirum, si tum sunt plura coorta
+  800  et maiora, nova tellure atque aethere adulta.
+  801  principio genus alituum variaeque volucres
+  802  ova relinquebant exclusae tempore verno,
+  803  folliculos ut nunc teretis aestate cicadae
+  804  lincunt sponte sua victum vitamque petentes.
+  805  tum tibi terra dedit primum mortalia saecla.
+  806  multus enim calor atque umor superabat in arvis.
+  807  hoc ubi quaeque loci regio opportuna dabatur,
+  808  crescebant uteri terram radicibus apti;
+  809  quos ubi tempore maturo pate fecerat aetas
+  810  infantum, fugiens umorem aurasque petessens,
+  811  convertebat ibi natura foramina terrae
+  812  et sucum venis cogebat fundere apertis
+  813  consimilem lactis, sicut nunc femina quaeque
+  814  cum peperit, dulci repletur lacte, quod omnis
+  815  impetus in mammas convertitur ille alimenti.
+  816  terra cibum pueris, vestem vapor, herba cubile
+  817  praebebat multa et molli lanugine abundans.
+  818  at novitas mundi nec frigora dura ciebat
+  819  nec nimios aestus nec magnis viribus auras.
+  820  omnia enim pariter crescunt et robora sumunt.
+  821  Quare etiam atque etiam maternum nomen adepta
+  822  terra tenet merito, quoniam genus ipsa creavit
+  823  humanum atque animal prope certo tempore fudit
+  824  omne quod in magnis bacchatur montibus passim,
+  825  aeriasqueaëriasque simul volucres variantibus formis.
+  826  sed quia finem aliquam pariendi debet habere,
+  827  destitit, ut mulier spatio defessa vetusto.
+  828  mutat enim mundi naturam totius aetas
+  829  ex alioque alius status excipere omnia debet
+  830  nec manet ulla sui similis res: omnia migrant,
+  831  omnia commutat natura et vertere cogit.
+  832  namque aliud putrescit et aevo debile languet,
+  833  porro aliud succrescit et e contemptibus exit.
+  834  sic igitur mundi naturam totius aetas
+  835  mutat, et ex alio terram status excipit alter,
+  836  quod potuit nequeat, possit quod non tulit ante.
+  837  Multaque tum tellus etiam portenta creare
+  838  conatast mira facie membrisque coorta,
+  839  androgynem, interutras necutrumque utrimque remotum,
+  840  orba pedum partim, manuum viduata vicissim,
+  841  muta sine ore etiam, sine voltu caeca reperta,
+  842  vinctaque membrorum per totum corpus adhaesu,
+  843  nec facere ut possent quicquam nec cedere quoquam
+  844  nec vitare malum nec sumere quod volet usus.
+  845  cetera de genere hoc monstra ac portenta creabat,
+  846  ne quiquam, quoniam natura absterruit auctum
+  847  nec potuere cupitum aetatis tangere florem
+  848  nec reperire cibum nec iungi per Veneris res.
+  849  multa videmus enim rebus concurrere debere,
+  850  ut propagando possint procudere saecla;
+  851  pabula primum ut sint, genitalia deinde per artus
+  852  semina qua possint membris manare remissis,
+  853  feminaque ut maribus coniungi possit, habere,
+  854  mutua qui mutent inter se gaudia uterque.
+  855  Multaque tum interiisse animantum saecla necessest
+  856  nec potuisse propagando procudere prolem.
+  857  nam quae cumque vides vesci vitalibus auris,
+  858  aut dolus aut virtus aut denique mobilitas est
+  859  ex ineunte aevo genus id tutaTA reservans.
+  860  multaque sunt, nobis ex utilitate sua quae
+  861  commendata manent, tutelae tradita nostrae.
+  862  principio genus acre leonum saevaque saecla
+  863  tutatast virtus, volpes dolus et fuga cervos.
+  864  at levisomna canum fido cum pectore corda,
+  865  et genus omne quod est veterino semine partum
+  866  lanigeraeque simul pecudes et bucera saecla
+  867  omnia sunt hominum tutelae tradita, Memmi;
+  868  nam cupide fugere feras pacemque secuta
+  869  sunt et larga suo sine pabula parta labore,
+  870  quae damus utilitatis eorum praemia causa.
+  871  at quis nil horum tribuit natura, nec ipsa
+  872  sponte sua possent ut vivere nec dare nobis
+  873  utilitatem aliquam, quare pateremur eorum
+  874  praesidio nostro pasci genus esseque tutum,
+  875  scilicet haec aliis praedae lucroque iacebant
+  876  indupedita suis fatalibus omnia vinclis,
+  877  donec ad interitum genus id natura redegit.
+  878  Sed neque Centauri fuerunt nec tempore in ullo
+  879  esse queunt duplici natura et corpore bino
+  880  ex alienigenis membris compacta, potestas
+  881  hinc illinc partis ut sat par esse potissit.
+  882  id licet hinc quamvis hebeti cognoscere corde.
+  883  principio circum tribus actis impiger annis
+  884  floret equus, puer haut quaquam; nam saepe etiam nunc
+  885  ubera mammarum in somnis lactantia quaeret.
+  886  post ubi equum validae vires aetate senecta
+  887  membraque deficiunt fugienti languida vita,
+  888  tum demum puerili aevo florenta iuventas
+  889  officit et molli vestit lanugine malas;
+  890  ne forte ex homine et veterino semine equorum
+  891  confieri credas Centauros posse neque esse,
+  892  aut rapidis canibus succinctas semimarinis
+  893  corporibus Scyllas et cetera de genere horum,
+  894  inter se quorum discordia membra videmus;
+  895  quae neque florescunt pariter nec robora sumunt
+  896  corporibus neque proiciunt aetate senecta
+  897  nec simili Venere ardescunt nec moribus unis
+  898  conveniunt neque sunt eadem iucunda per artus.
+  899  quippe videre licet pinguescere saepe cicuta
+  900  barbigeras pecudes, homini quae est acre venenum.
+  901  flamma quidem vero cum corpora fulva leonum
+  902  tam soleat torrere atque urere quam genus omne
+  903  visceris in terris quod cumque et sanguinis extet,
+  904  qui fieri potuit, triplici cum corpore ut una,
+  905  prima leo, postrema draco, media ipsa, Chimaera
+  906  ore foras acrem flaret de corpore flammam?
+  907  quare etiam tellure nova caeloque recenti
+  908  talia qui fingit potuisse animalia gigni,
+  909  nixus in hoc uno novitatis nomine inani,
+  910  multa licet simili ratione effutiat ore,
+  911  aurea tum dicat per terras flumina vulgo
+  912  fluxisse et gemmis florere arbusta suessesuësse
+  913  aut hominem tanto membrorum esse impete natum,
+  914  trans maria alta pedum nisus ut ponere posset
+  915  et manibus totum circum se vertere caelum.
+  916  nam quod multa fuere in terris semina rerum,
+  917  tempore quo primum tellus animalia fudit,
+  918  nil tamen est signi mixtas potuisse creari
+  919  inter se pecudes compactaque membra animantum,
+  920  propterea quia quae de terris nunc quoque abundant
+  921  herbarum genera ac fruges arbustaque laeta
+  922  non tamen inter se possunt complexa creari,
+  923  sed res quaeque suo ritu procedit et omnes
+  924  foedere naturae certo discrimina servant.
+  925  Et genus humanum multo fuit illud in arvis
+  926  durius, ut decuit, tellus quod dura creasset,
+  927  et maioribus et solidis magis ossibus intus
+  928  fundatum, validis aptum per viscera nervis,
+  929  nec facile ex aestu nec frigore quod caperetur
+  930  nec novitate cibi nec labi corporis ulla.
+  931  multaque per caelum solis volventia lustra
+  932  volgivago vitam tractabant more ferarum.
+  933  nec robustus erat curvi moderator aratri
+  934  quisquam, nec scibat ferro molirier arva
+  935  nec nova defodere in terram virgulta neque altis
+  936  arboribus veteres decidere falcibus ramos.
+  937  quod sol atque imbres dederant, quod terra crearat
+  938  sponte sua, satis id placabat pectora donum.
+  939  glandiferas inter curabant corpora quercus
+  940  plerumque; et quae nunc hiberno tempore cernis
+  941  arbita puniceo fieri matura colore,
+  942  plurima tum tellus etiam maiora ferebat.
+  943  multaque praeterea novitas tum florida mundi
+  944  pabula dura tulit, miseris mortalibus ampla.
+  945  at sedare sitim fluvii fontesque vocabant,
+  946  ut nunc montibus e magnis decursus aquai
+  947  claricitat late sitientia saecla ferarum.
+  948  denique nota vagis silvestria templa tenebant
+  949  nympharum, quibus e scibant umore fluenta
+  950  lubrica proluvie larga lavere umida saxa,
+  951  umida saxa, super viridi stillantia musco,
+  952  et partim plano scatere atque erumpere campo.
+  953  necdum res igni scibant tractare neque uti
+  954  pellibus et spoliis corpus vestire ferarum,
+  955  sed nemora atque cavos montis silvasque colebant
+  956  et frutices inter condebant squalida membra
+  957  verbera ventorum vitare imbrisque coacti.
+  958  nec commune bonum poterant spectare neque ullis
+  959  moribus inter se scibant nec legibus uti.
+  960  quod cuique obtulerat praedae fortuna, ferebat
+  961  sponte sua sibi quisque valere et vivere doctus.
+  962  et Venus in silvis iungebat corpora amantum;
+  963  conciliabat enim vel mutua quamque cupido
+  964  vel violenta viri vis atque inpensa libido
+  965  vel pretium, glandes atque arbita vel pira lecta.
+  966  et manuum mira freti virtute pedumque
+  967  consectabantur silvestria saecla ferarum
+  968  missilibus saxis et magno pondere clavae.
+  969  multaque vincebant, vitabant pauca latebris;
+  970  saetigerisque pares subus silvestria membra
+  971  nuda dabant terrae nocturno tempore capti,
+  972  circum se foliis ac frondibus involventes.
+  973  nec plangore diem magno solemque per agros
+  974  quaerebant pavidi palantes noctis in umbris,
+  975  sed taciti respectabant somnoque sepulti,
+  976  dum rosea face sol inferret lumina caelo.
+  977  a parvis quod enim consuerant cernere semper
+  978  alterno tenebras et lucem tempore gigni,
+  979  non erat ut fieri posset mirarier umquam
+  980  nec diffidere, ne terras aeterna teneret
+  981  nox in perpetuum detracto lumine solis.
+  982  sed magis illud erat curae, quod saecla ferarum
+  983  infestam miseris faciebant saepe quietem.
+  984  eiectique domo fugiebant saxea tecta
+  985  spumigeri suis adventu validique leonis
+  986  atque intempesta cedebant nocte paventes
+  987  hospitibus saevis instrata cubilia fronde.
+  988  Nec nimio tum plus quam nunc mortalia saecla
+  989  dulcia linquebant lamentis lumina vitae.
+  990  unus enim tum quisque magis deprensus eorum
+  991  pabula viva feris praebebat, dentibus haustus,
+  992  et nemora ac montis gemitu silvasque replebat
+  993  viva videns vivo sepeliri viscera busto.
+  994  at quos effugium servarat corpore adeso,
+  995  posterius tremulas super ulcera tetra tenentes
+  996  palmas horriferis accibant vocibus Orcum,
+  997  donique eos vita privarant vermina saeva
+  998  expertis opis, ignaros quid volnera vellent.
+  999  at non multa virum sub signis milia ducta
+ 1000  una dies dabat exitio nec turbida ponti
+ 1001  aequora lidebant navis ad saxa virosque.
+ 1002  nam temere in cassum frustra mare saepe coortum
+ 1003  saevibat leviterque minas ponebat inanis,
+ 1004  nec poterat quemquam placidi pellacia ponti
+ 1005  subdola pellicere in fraudem ridentibus undis.
+ 1006  improba navigii ratio tum caeca iacebat.
+ 1007  tum penuria deinde cibi languentia leto
+ 1008  membra dabat, contra nunc rerum copia mersat.
+ 1009  illi inprudentes ipsi sibi saepe venenum
+ 1010  vergebant, nunc dant aliis sollertius ipsi.
+ 1011  Inde casas postquam ac pellis ignemque pararunt
+ 1012  et mulier coniuncta viro concessit in unum
+       [lacuna]
+ 1013  cognita sunt, prolemque ex se videre creatam,
+ 1014  tum genus humanum primum mollescere coepit.
+ 1015  ignis enim curavit, ut alsia corpora frigus
+ 1016  non ita iam possent caeli sub tegmine ferre,
+ 1017  et Venus inminuit viris puerique parentum
+ 1018  blanditiis facile ingenium fregere superbum.
+ 1019  tunc et amicitiem coeperunt iungere aventes
+ 1020  finitimi inter se nec laedere nec violari,
+ 1021  et pueros commendarunt muliebreque saeclum,
+ 1022  vocibus et gestu cum balbe significarent
+ 1023  imbecillorum esse aequum misererier omnis.
+ 1024  nec tamen omnimodis poterat concordia gigni,
+ 1025  sed bona magnaque pars servabat foedera caste;
+ 1026  aut genus humanum iam tum foret omne peremptum
+ 1027  nec potuisset adhuc perducere saecla propago.
+ 1028  At varios linguae sonitus natura subegit
+ 1029  mittere et utilitas expressit nomina rerum,
+ 1030  non alia longe ratione atque ipsa videtur
+ 1031  protrahere ad gestum pueros infantia linguae,
+ 1032  cum facit ut digito quae sint praesentia monstrent.
+ 1033  sentit enim vim quisque suam quod possit abuti.
+ 1034  cornua nata prius vitulo quam frontibus extent,
+ 1035  illis iratus petit atque infestus inurget.
+ 1036  at catuli pantherarum scymnique leonum
+ 1037  unguibus ac pedibus iam tum morsuque repugnant,
+ 1038  vix etiam cum sunt dentes unguesque creati.
+ 1039  alituum porro genus alis omne videmus
+ 1040  fidere et a pennis tremulum petere auxiliatum.
+ 1041  proinde putare aliquem tum nomina distribuisse
+ 1042  rebus et inde homines didicisse vocabula prima,
+ 1043  desiperest. nam cur hic posset cuncta notare
+ 1044  vocibus et varios sonitus emittere linguae,
+ 1045  tempore eodem alii facere id non quisse putentur?
+ 1046  praeterea si non alii quoque vocibus usi
+ 1047  inter se fuerant, unde insita notities est
+ 1048  utilitatis et unde data est huic prima potestas,
+ 1049  quid vellet facere ut sciret animoque videret?
+ 1050  cogere item pluris unus victosque domare
+ 1051  non poterat, rerum ut perdiscere nomina vellent.
+ 1052  nec ratione docere ulla suadereque surdis,
+ 1053  quid sit opus facto, facilest; neque enim paterentur
+ 1054  nec ratione ulla sibi ferrent amplius auris
+ 1055  vocis inauditos sonitus obtundere frustra.
+ 1056  postremo quid in hac mirabile tantoperest re,
+ 1057  si genus humanum, cui vox et lingua vigeret,
+ 1058  pro vario sensu varia res voce notaret?
+ 1059  cum pecudes mutae, cum denique saecla ferarum
+ 1060  dissimilis soleant voces variasque ciere,
+ 1061  cum metus aut dolor est et cum iam gaudia gliscunt.
+ 1062  quippe etenim licet id rebus cognoscere apertis.
+ 1063  inritata canum cum primum magna Molossum
+ 1064  mollia ricta fremunt duros nudantia dentes,
+ 1065  longe alio sonitu rabies restricta minatur,
+ 1066  et cum iam latrant et vocibus omnia complent;
+ 1067  at catulos blande cum lingua lambere temptant
+ 1068  aut ubi eos lactant, pedibus morsuque potentes
+ 1069  suspensis teneros imitantur dentibus haustus,
+ 1070  longe alio pacto gannitu vocis adulant,
+ 1071  et cum deserti baubantur in aedibus, aut cum
+ 1072  plorantis fugiunt summisso corpore plagas.
+ 1073  denique non hinnitus item differre videtur,
+ 1074  inter equas ubi equus florenti aetate iuvencus
+ 1075  pinnigeri saevit calcaribus ictus Amoris
+ 1076  et fremitum patulis sub naribus edit ad arma,
+ 1077  et cum sic alias concussis artibus hinnit?
+ 1078  postremo genus alituum variaeque volucres,
+ 1079  accipitres atque ossifragae mergique marinis
+ 1080  fluctibus in salso victum vitamque petentes,
+ 1081  longe alias alio iaciunt in tempore voces,
+ 1082  et quom de victu certant praedaque repugnant.
+ 1083  et partim mutant cum tempestatibus una
+ 1084  raucisonos cantus, cornicum ut saecla vetusta
+ 1085  corvorumque gregis ubi aquam dicuntur et imbris
+ 1086  poscere et inter dum ventos aurasque vocare.
+ 1087  ergo si varii sensus animalia cogunt,
+ 1088  muta tamen cum sint, varias emittere voces,
+ 1089  quanto mortalis magis aequumst tum potuisse
+ 1090  dissimilis alia atque alia res voce notare!
+ 1091  Illud in his rebus tacitus ne forte requiras,
+ 1092  fulmen detulit in terram mortalibus ignem
+ 1093  primitus, inde omnis flammarum diditur ardor;
+ 1094  multa videmus enim caelestibus insita flammis
+ 1095  fulgere, cum caeli donavit plaga vaporis.
+ 1096  et ramosa tamen cum ventis pulsa vacillans
+ 1097  aestuat in ramos incumbens arboris arbor,
+ 1098  exprimitur validis extritus viribus ignis,
+ 1099  emicat inter dum flammai fervidus ardor,
+ 1100  mutua dum inter se rami stirpesque teruntur.
+ 1101  quorum utrumque dedisse potest mortalibus ignem.
+ 1102  inde cibum quoquere ac flammae mollire vapore
+ 1103  sol docuit, quoniam mitescere multa videbant
+ 1104  verberibus radiorum atque aestu victa per agros.
+ 1105  Inque dies magis hi victum vitamque priorem
+ 1106  commutare novis monstrabant rebus et igni,
+ 1107  ingenio qui praestabant et corde vigebant.
+ 1108  condere coeperunt urbis arcemque locare
+ 1109  praesidium reges ipsi sibi perfugiumque,
+ 1110  et pecudes et agros divisere atque dedere
+ 1111  pro facie cuiusque et viribus ingenioque;
+ 1112  nam facies multum valuit viresque vigebant.
+ 1113  posterius res inventast aurumque repertum,
+ 1114  quod facile et validis et pulchris dempsit honorem;
+ 1115  divitioris enim sectam plerumque secuntur
+ 1116  quam lubet et fortes et pulchro corpore creti.
+ 1117  quod siquis vera vitam ratione gubernet,
+ 1118  divitiae grandes homini sunt vivere parce
+ 1119  aequo animo; neque enim est umquam penuria parvi.
+ 1120  at claros homines voluerunt se atque potentes,
+ 1121  ut fundamento stabili fortuna maneret
+ 1122  et placidam possent opulenti degere vitam,
+ 1123  ne quiquam, quoniam ad summum succedere honorem
+ 1124  certantes iter infestum fecere viai,
+ 1125  et tamen e summo, quasi fulmen, deicit ictos
+ 1126  invidia inter dum contemptim in Tartara taetra;
+ 1127  invidia quoniam ceu fulmine summa vaporant
+ 1128  plerumque et quae sunt aliis magis edita cumque;
+ 1129  ut satius multo iam sit parere quietum
+ 1130  quam regere imperio res velle et regna tenere.
+ 1131  proinde sine in cassum defessi sanguine sudent,
+ 1132  angustum per iter luctantes ambitionis;
+ 1133  quandoquidem sapiunt alieno ex ore petuntque
+ 1134  res ex auditis potius quam sensibus ipsis,
+ 1135  nec magis id nunc est neque erit mox quam fuit ante.
+ 1136  Ergo regibus occisis subversa iacebat
+ 1137  pristina maiestas soliorum et sceptra superba,
+ 1138  et capitis summi praeclarum insigne cruentum
+ 1139  sub pedibus vulgi magnum lugebat honorem;
+ 1140  nam cupide conculcatur nimis ante metutum.
+ 1141  res itaque ad summam faecem turbasque redibat,
+ 1142  imperium sibi cum ac summatum quisque petebat.
+ 1143  inde magistratum partim docuere creare
+ 1144  iuraque constituere, ut vellent legibus uti.
+ 1145  nam genus humanum, defessum vi colere aevom,
+ 1146  ex inimicitiis languebat; quo magis ipsum
+ 1147  sponte sua cecidit sub leges artaque iura.
+ 1148  acrius ex ira quod enim se quisque parabat
+ 1149  ulcisci quam nunc concessumst legibus aequis,
+ 1150  hanc ob rem est homines pertaesum vi colere aevom.
+ 1151  inde metus maculat poenarum praemia vitae.
+ 1152  circumretit enim vis atque iniuria quemque
+ 1153  atque unde exortast, ad eum plerumque revertit,
+ 1154  nec facilest placidam ac pacatam degere vitam
+ 1155  qui violat factis communia foedera pacis.
+ 1156  etsi fallit enim divom genus humanumque,
+ 1157  perpetuo tamen id fore clam diffidere debet;
+ 1158  quippe ubi se multi per somnia saepe loquentes
+ 1159  aut morbo delirantes protraxe ferantur
+ 1160  et celata mala in medium et peccata dedisse.
+ 1161  Nunc quae causa deum per magnas numina gentis
+ 1162  pervulgarit et ararum compleverit urbis
+ 1163  suscipiendaque curarit sollemnia sacra,
+ 1164  quae nunc in magnis florent sacra rebus locisque,
+ 1165  unde etiam nunc est mortalibus insitus horror,
+ 1166  qui delubra deum nova toto suscitat orbi
+ 1167  terrarum et festis cogit celebrare diebus,
+ 1168  non ita difficilest rationem reddere verbis.
+ 1169  quippe etenim iam tum divom mortalia saecla
+ 1170  egregias animo facies vigilante videbant
+ 1171  et magis in somnis mirando corporis auctu.
+ 1172  his igitur sensum tribuebant propterea quod
+ 1173  membra movere videbantur vocesque superbas
+ 1174  mittere pro facie praeclara et viribus amplis.
+ 1175  aeternamque dabant vitam, quia semper eorum
+ 1176  subpeditabatur facies et forma manebat,
+ 1177  et tamen omnino quod tantis viribus auctos
+ 1178  non temere ulla vi convinci posse putabant.
+ 1179  fortunisque ideo longe praestare putabant,
+ 1180  quod mortis timor haut quemquam vexaret eorum,
+ 1181  et simul in somnis quia multa et mira videbant
+ 1182  efficere et nullum capere ipsos inde laborem.
+ 1183  praeterea caeli rationes ordine certo
+ 1184  et varia annorum cernebant tempora verti
+ 1185  nec poterant quibus id fieret cognoscere causis.
+ 1186  ergo perfugium sibi habebant omnia divis
+ 1187  tradere et illorum nutu facere omnia flecti.
+ 1188  in caeloque deum sedes et templa locarunt,
+ 1189  per caelum volvi quia nox et luna videtur,
+ 1190  luna dies et nox et noctis signa severa
+ 1191  noctivagaeque faces caeli flammaeque volantes,
+ 1192  nubila sol imbres nix venti fulmina grando
+ 1193  et rapidi fremitus et murmura magna minarum.
+ 1194  O genus infelix humanum, talia divis
+ 1195  cum tribuit facta atque iras adiunxit acerbas!
+ 1196  quantos tum gemitus ipsi sibi, quantaque nobis
+ 1197  volnera, quas lacrimas peperere minoribus nostris!
+ 1198  nec pietas ullast velatum saepe videri
+ 1199  vertier ad lapidem atque omnis accedere ad aras
+ 1200  nec procumbere humi prostratum et pandere palmas
+ 1201  ante deum delubra nec aras sanguine multo
+ 1202  spargere quadrupedum nec votis nectere vota,
+ 1203  sed mage pacata posse omnia mente tueri.
+ 1204  nam cum suspicimus magni caelestia mundi
+ 1205  templa super stellisque micantibus aethera fixum,
+ 1206  et venit in mentem solis lunaeque viarum,
+ 1207  tunc aliis oppressa malis in pectora cura
+ 1208  illa quoque expergefactum caput erigere infit,
+ 1209  ne quae forte deum nobis inmensa potestas
+ 1210  sit, vario motu quae candida sidera verset;
+ 1211  temptat enim dubiam mentem rationis egestas,
+ 1212  ecquae nam fuerit mundi genitalis origo,
+ 1213  et simul ecquae sit finis, quoad moenia mundi
+ 1214  et taciti motus hunc possint ferre laborem,
+ 1215  an divinitus aeterna donata salute
+ 1216  perpetuo possint aevi labentia tractu
+ 1217  inmensi validas aevi contemnere viris.
+ 1218  praeterea cui non animus formidine divum
+ 1219  contrahitur, cui non correpunt membra pavore,
+ 1220  fulminis horribili cum plaga torrida tellus
+ 1221  contremit et magnum percurrunt murmura caelum?
+ 1222  non populi gentesque tremunt, regesque superbi
+ 1223  corripiunt divum percussi membra timore,
+ 1224  ne quod ob admissum foede dictumve superbe
+ 1225  poenarum grave sit solvendi tempus adauctum?
+ 1226  summa etiam cum vis violenti per mare venti
+ 1227  induperatorem classis super aequora verrit
+ 1228  cum validis pariter legionibus atque elephantis,
+ 1229  non divom pacem votis adit ac prece quaesit
+ 1230  ventorum pavidus paces animasque secundas?
+ 1231  ne quiquam, quoniam violento turbine saepe
+ 1232  correptus nihilo fertur minus ad vada leti.
+ 1233  usque adeo res humanas vis abdita quaedam
+ 1234  opterit et pulchros fascis saevasque secures
+ 1235  proculcare ac ludibrio sibi habere videtur.
+ 1236  denique sub pedibus tellus cum tota vacillat
+ 1237  concussaeque cadunt urbes dubiaeque minantur,
+ 1238  quid mirum si se temnunt mortalia saecla
+ 1239  atque potestatis magnas mirasque relinquunt
+ 1240  in rebus viris divum, quae cuncta gubernent?
+ 1241  Quod super est, aes atque aurum ferrumque repertumst
+ 1242  et simul argenti pondus plumbique potestas,
+ 1243  ignis ubi ingentis silvas ardore cremarat
+ 1244  montibus in magnis, seu caelo fulmine misso,
+ 1245  sive quod inter se bellum silvestre gerentes
+ 1246  hostibus intulerant ignem formidinis ergo,
+ 1247  sive quod inducti terrae bonitate volebant
+ 1248  pandere agros pinguis et pascua reddere rura,
+ 1249  sive feras interficere et ditescere praeda;
+ 1250  nam fovea atque igni prius est venarier ortum
+ 1251  quam saepire plagis saltum canibusque ciere.
+ 1252  quicquid id est, qua cumque e causa flammeus ardor
+ 1253  horribili sonitu silvas exederat altis
+ 1254  a radicibus et terram percoxerat igni,
+ 1255  manabat venis ferventibus in loca terrae
+ 1256  concava conveniens argenti rivus et auri,
+ 1257  aeris item et plumbi. quae cum concreta videbant
+ 1258  posterius claro in terra splendere colore,
+ 1259  tollebant nitido capti levique lepore,
+ 1260  et simili formata videbant esse figura
+ 1261  atque lacunarum fuerant vestigia cuique.
+ 1262  tum penetrabat eos posse haec liquefacta calore
+ 1263  quamlibet in formam et faciem decurrere rerum,
+ 1264  et prorsum quamvis in acuta ac tenvia posse
+ 1265  mucronum duci fastigia procudendo,
+ 1266  ut sibi tela parent silvasque ut caedere possint
+ 1267  materiemque dolare et levia radere tigna
+ 1268  et terebrare etiam ac pertundere perque forare.
+ 1269  nec minus argento facere haec auroque parabant
+ 1270  quam validi primum violentis viribus aeris,
+ 1271  ne quiquam, quoniam cedebat victa potestas
+ 1272  nec poterant pariter durum sufferre laborem.
+ 1273  nam fuit in pretio magis aes aurumque iacebat
+ 1274  propter inutilitatem hebeti mucrone retusum;
+ 1275  nunc iacet aes, aurum in summum successit honorem.
+ 1276  sic volvenda aetas commutat tempora rerum.
+ 1277  quod fuit in pretio, fit nullo denique honore;
+ 1278  porro aliud succedit et e contemptibus exit
+ 1279  inque dies magis adpetitur floretque repertum
+ 1280  laudibus et miro est mortalis inter honore.
+ 1281  Nunc tibi quo pacto ferri natura reperta
+ 1282  sit facilest ipsi per te cognoscere, Memmi.
+ 1283  arma antiqua manus ungues dentesque fuerunt
+ 1284  et lapides et item silvarum fragmina rami
+ 1285  et flamma atque ignes, post quam sunt cognita primum.
+ 1286  posterius ferri vis est aerisque reperta.
+ 1287  et prior aeris erat quam ferri cognitus usus,
+ 1288  quo facilis magis est natura et copia maior.
+ 1289  aere solum terrae tractabant, aereque belli
+ 1290  miscebant fluctus et vulnera vasta serebant
+ 1291  et pecus atque agros adimebant; nam facile ollis
+ 1292  omnia cedebant armatis nuda et inerma.
+ 1293  inde minutatim processit ferreus ensis
+ 1294  versaque in obprobrium species est falcis ahenae,
+ 1295  et ferro coepere solum proscindere terrae
+ 1296  exaequataque sunt creperi certamina belli.
+ 1297  et prius est armatum in equi conscendere costas
+ 1298  et moderarier hunc frenis dextraque vigere
+ 1299  quam biiugo curru belli temptare pericla.
+ 1300  et biiugo prius est quam bis coniungere binos
+ 1301  et quam falciferos armatum escendere currus.
+ 1302  inde boves Lucas turrito corpore, tetras,
+ 1303  anguimanus, belli docuerunt volnera Poeni
+ 1304  sufferre et magnas Martis turbare catervas.
+ 1305  sic alid ex alio peperit discordia tristis,
+ 1306  horribile humanis quod gentibus esset in armis,
+ 1307  inque dies belli terroribus addidit augmen.
+ 1308  Temptarunt etiam tauros in moenere belli
+ 1309  expertique sues saevos sunt mittere in hostis.
+ 1310  et validos partim prae se misere leones
+ 1311  cum doctoribus armatis saevisque magistris,
+ 1312  qui moderarier his possent vinclisque tenere,
+ 1313  ne quiquam, quoniam permixta caede calentes
+ 1314  turbabant saevi nullo discrimine turmas,
+ 1315  terrificas capitum quatientis undique cristas,
+ 1316  nec poterant equites fremitu perterrita equorum
+ 1317  pectora mulcere et frenis convertere in hostis.
+ 1318  inritata leae iaciebant corpora saltu
+ 1319  undique et adversum venientibus ora patebant
+ 1320  et nec opinantis a tergo deripiebant
+ 1321  deplexaeque dabant in terram volnere victos,
+ 1322  morsibus adfixae validis atque unguibus uncis.
+ 1323  iactabantque suos tauri pedibusque terebant
+ 1324  et latera ac ventres hauribant supter equorum
+ 1325  cornibus et terram minitanti mente ruebant.
+ 1326  et validis socios caedebant dentibus apri
+ 1327  tela infracta suo tinguentes sanguine saevi
+ 1328  in se fracta suo tinguentes sanguine tela,
+ 1329  permixtasque dabant equitum peditumque ruinas.
+ 1330  nam transversa feros exibant dentis adactus
+ 1331  iumenta aut pedibus ventos erecta petebant,
+ 1332  ne quiquam, quoniam ab nervis succisa videres
+ 1333  concidere atque gravi terram consternere casu.
+ 1334  si quos ante domi domitos satis esse putabant,
+ 1335  effervescere cernebant in rebus agundis
+ 1336  volneribus clamore fuga terrore tumultu,
+ 1337  nec poterant ullam partem redducere eorum;
+ 1338  diffugiebat enim varium genus omne ferarum,
+ 1339  ut nunc saepe boves Lucae ferro male mactae
+ 1340  diffugiunt, fera facta suis cum multa dedere.
+ 1341  Sed facere id non tam vincendi spe voluerunt;
+ 1342  quam dare quod gemerent hostes, ipsique perire,
+ 1343  qui numero diffidebant armisque vacabant,
+ 1344  si fuit ut facerent. sed vix adducor ut ante
+ 1345  non quierint animo praesentire atque videre,
+ 1346  quam commune malum fieret foedumque, futurum.
+ 1347  et magis id possis factum contendere in omni
+ 1348  in variis mundis varia ratione creatis,
+ 1349  quam certo atque uno terrarum quolibet orbi.
+ 1350  Nexilis ante fuit vestis quam textile tegmen.
+ 1351  textile post ferrumst, quia ferro tela paratur,
+ 1352  nec ratione alia possunt tam levia gigni
+ 1353  insilia ac fusi, radii, scapique sonantes.
+ 1354  et facere ante viros lanam natura coegitcoëgit
+ 1355  quam muliebre genus; nam longe praestat in arte
+ 1356  et sollertius est multo genus omne virile;
+ 1357  agricolae donec vitio vertere severi,
+ 1358  ut muliebribus id manibus concedere vellent
+ 1359  atque ipsi pariter durum sufferre laborem
+ 1360  atque opere in duro durarent membra manusque.
+ 1361  At specimen sationis et insitionis origo
+ 1362  ipsa fuit rerum primum natura creatrix,
+ 1363  arboribus quoniam bacae glandesque caducae
+ 1364  tempestiva dabant pullorum examina supter;
+ 1365  unde etiam libitumst stirpis committere ramis
+ 1366  et nova defodere in terram virgulta per agros.
+ 1367  inde aliam atque aliam culturam dulcis agelli
+ 1368  temptabant fructusque feros mansuescere terra
+ 1369  cernebant indulgendo blandeque colendo.
+ 1370  inque dies magis in montem succedere silvas
+ 1371  cogebant infraque locum concedere cultis,
+ 1372  prata lacus rivos segetes vinetaque laeta
+ 1373  collibus et campis ut haberent, atque olearum
+ 1374  caerula distinguens inter plaga currere posset
+ 1375  per tumulos et convallis camposque profusa;
+ 1376  ut nunc esse vides vario distincta lepore
+ 1377  omnia, quae pomis intersita dulcibus ornant
+ 1378  arbustisque tenent felicibus opsita circum.
+ 1379  At liquidas avium voces imitarier ore
+ 1380  ante fuit multo quam levia carmina cantu
+ 1381  concelebrare homines possent aurisque iuvare.
+ 1382  et zephyri cava per calamorum sibila primum
+ 1383  agrestis docuere cavas inflare cicutas.
+ 1384  inde minutatim dulcis didicere querellas,
+ 1385  tibia quas fundit digitis pulsata canentum,
+ 1386  avia per nemora ac silvas saltusque reperta,
+ 1387  per loca pastorum deserta atque otia dia.
+ 1388  sic unum quicquid paulatim protrahit aetas
+ 1389  in medium ratioque in luminis eruit oras.
+ 1390  haec animos ollis mulcebant atque iuvabant
+ 1391  cum satiate cibi; nam tum sunt omnia cordi.
+ 1392  saepe itaque inter se prostrati in gramine molli
+ 1393  propter aquae rivom sub ramis arboris altae.
+ 1394  non magnis opibus iucunde corpora habebant,
+ 1395  praesertim cum tempestas ridebat et anni
+ 1396  tempora pingebant viridantis floribus herbas.
+ 1397  tum ioca, tum sermo, tum dulces esse cachinni
+ 1398  consuerant; agrestis enim tum musa vigebat.
+ 1399  tum caput atque umeros plexis redimire coronis
+ 1400  floribus et foliis lascivia laeta movebat,
+ 1401  atque extra numerum procedere membra moventes
+ 1402  duriter et duro terram pede pellere matrem;
+ 1403  unde oriebantur risus dulcesque cachinni,
+ 1404  omnia quod nova tum magis haec et mira vigebant.
+ 1405  et vigilantibus hinc aderant solacia somno
+ 1406  ducere multimodis voces et flectere cantus
+ 1407  et supera calamos unco percurrere labro;
+ 1408  unde etiam vigiles nunc haec accepta tuentur.
+ 1409  et numerum servare genus didicere, neque hilo
+ 1410  maiore interea capiunt dulcedine fructum
+ 1411  quam silvestre genus capiebat terrigenarum.
+ 1412  nam quod adest praesto, nisi quid cognovimus ante
+ 1413  suavius, in primis placet et pollere videtur,
+ 1414  posteriorque fere melior res illa reperta
+ 1415  perdit et immutat sensus ad pristina quaeque.
+ 1416  sic odium coepit glandis, sic illa relicta
+ 1417  strata cubilia sunt herbis et frondibus aucta.
+ 1418  pellis item cecidit vestis contempta ferina;
+ 1419  quam reor invidia tali tunc esse repertam,
+ 1420  ut letum insidiis qui gessit primus obiret,
+ 1421  et tamen inter eos distractam sanguine multo
+ 1422  disperiise neque in fructum convertere quisse.
+ 1423  tunc igitur pelles, nunc aurum et purpura curis
+ 1424  exercent hominum vitam belloque fatigant;
+ 1425  quo magis in nobis, ut opinor, culpa resedit.
+ 1426  frigus enim nudos sine pellibus excruciabat
+ 1427  terrigenas; at nos nil laedit veste carere
+ 1428  purpurea atque auro signisque ingentibus apta,
+ 1429  dum plebeia tamen sit, quae defendere possit.
+ 1430  Ergo hominum genus in cassum frustraque laborat
+ 1431  semper et in curis consumit inanibus aevom,
+ 1432  ni mirum quia non cognovit quae sit habendi
+ 1433  finis et omnino quoad crescat vera voluptas;
+ 1434  idque minutatim vitam provexit in altum
+ 1435  et belli magnos commovit funditus aestus.
+ 1436  at vigiles mundi magnum versatile templum
+ 1437  sol et luna suo lustrantes lumine circum
+ 1438  perdocuere homines annorum tempora verti
+ 1439  et certa ratione geri rem atque ordine certo.
+ 1440  Iam validis saepti degebant turribus aevom,
+ 1441  et divisa colebatur discretaque tellus,
+ 1442  tum mare velivolis florebat navibus ponti,
+ 1443  auxilia ac socios iam pacto foedere habebant,
+ 1444  carminibus cum res gestas coepere poetaepoëtae
+ 1445  tradere; nec multo prius sunt elementa reperta.
+ 1446  propterea quid sit prius actum respicere aetas
+ 1447  nostra nequit, nisi qua ratio vestigia monstrat.
+ 1448  Navigia atque agri culturas moenia leges
+ 1449  arma vias vestes et cetera de genere horum,
+ 1450  praemia, delicias quoque vitae funditus omnis,
+ 1451  carmina, picturas et daedala signa polita
+ 1452  usus et impigrae simul experientia mentis
+ 1453  paulatim docuit pedetemptim progredientis.
+ 1454  sic unum quicquid paulatim protrahit aetas
+ 1455  in medium ratioque in luminis erigit oras;
+ 1456  namque alid ex alio clarescere corde videbant,
+ 1457  artibus ad summum donec venere cacumen.
