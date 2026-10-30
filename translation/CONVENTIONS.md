@@ -83,7 +83,7 @@ every book unless explicitly revisited. Modelled on the Iliad project's
 | leges naturae | nature's laws | | |
 | species | face, appearance, likeness | 1.10 (face of the day), 1.125 (likeness) | context decides; "species ratioque" (1.148) = "the face and reasoning of nature" |
 | daedala | artificer | 1.7 | daedala tellus = "the artificer earth"; natura daedala rerum (5.234) = "nature, artificer of things" |
-| dias in luminis oras | the shining shores of light | 1.22 | whole-phrase refrain (1.170, 1.179, 2.577, 5.224, 5.781 etc.) |
+| dias in luminis oras | the shining shores of light | 1.22 | whole-phrase refrain (1.170, 1.179 etc.); where the Latin has luminis oras without dias (2.577, 5.224, 5.781, 5.1389, 5.1455) the English is "the shores of light" |
 | flammantia moenia mundi | the flaming walls of the world | 1.73 | |
 | fera moenera militiai / belli | the savage works of war | 1.29, 1.32 | |
 | quod superest | for the rest | 1.50 | transitional formula |
@@ -111,6 +111,11 @@ every book unless explicitly revisited. Modelled on the Iliad project's
 | nervi | sinews | 4.536 | 4.1043, 4.1115; never "nerves" |
 | pari / consimili ratione | on a like principle | 4.191, 4.395 | consimili causa (4.233) = "by a like cause"; adsimili ratione (4.425) "in the same way" |
 | quod superest | for the rest | 4.195 | also where it opens a clause mid-argument (4.595, 4.768, 4.1283) |
+| aetherius sol | the sun in the ether | 5.215 | 5.267, 5.281, 5.389; never "the sun of the upper air" |
+| caeli rationes | the order of heaven | 2.178 | 5.196, 5.1183; ratio solis (5.614) = the order of the sun, the system of its motion |
+| pari / simili ratione | on (by) a like principle | 5.643 | 5.910; ratione ulla in the non-technical 5.1052, 5.1054 = in any way |
+| natura daedala rerum | nature, artificer of things | 5.234 | daedala signa (5.1451) = artful statues, the crafted work |
+| rerum natura creatrix | the nature of things, the creator | 1.629 | 2.1117 "the creating nature of things"; 5.1362 "the nature of things herself, the creator" |
 
 ## Policy
 
@@ -183,6 +188,32 @@ every book unless explicitly revisited. Modelled on the Iliad project's
   - particulae (4.261, 4.776) = small part, tiny parts; "particles" barred.
   - The lovers' Greek pet names (4.1160-1169) are rendered in English inside
     quotation marks, with one note.
+- **Refrains fixed in Book 5** (review of 2026-10-30):
+  - Taken verbatim from earlier review text where the Latin is identical:
+    5.111-112 = 1.738-739; 5.128-140 = 3.784-796 ("Just as" for sicut, and
+    the sentence runs on with semicolon and colon); 5.196 = 2.178; 5.198-199
+    parallel to 2.180-181 (paratam = prepared, rerum = things); 5.210-212
+    parallel to 1.211-212 ("rouse them to birth"); 5.351-363 = 3.806-818;
+    5.419-421 = 1.1021-1023; 5.431 = 2.1063; 5.441 = 2.726 (the verb
+    turbabat moves up to 5.440 so the list stands verbatim); 5.622 = 3.371;
+    5.882 = 4.53; 5.1216 keeps the words of 1.1004 ("an everlasting tract of
+    age"); 5.1385 = 4.585; 5.1393 = 2.30, and 5.1394-1396 parallel 2.31-33 in
+    the past tense.
+  - Inside Book 5: 5.188-191 = 5.423-426; 5.267 = 5.389; 5.528 = 5.1348;
+    5.571 = 5.574 and 5.584 = 5.596 (the repeated lines editors bracket);
+    5.764 = 5.771 ("while monthly the moon glides through the cone's rigid
+    shadows"); 5.1217 = 5.379 ("the strong forces of immeasurable age");
+    5.1388-1389 and 5.1454-1455 differ only in the verb (digs up / raises).
+  - For Book 6: 5.82-90 recur at 6.58-66 (5.88-90 already = 1.75-77);
+    5.269-272 at 6.635-638. Take the Book 5 review text where the Latin is
+    identical.
+  - 5.224, 5.781, 5.1389, 5.1455 "the shores of light": the Latin has no
+    dias, as at 2.577.
+  - principia = beginnings was already right throughout Book 5 (5.184,
+    5.440); exordia = origins at 5.430 and 5.471; the non-technical exordia
+    cepit (5.331) = "took its beginnings" and causarum exordia prima (5.677)
+    = "the first starting-points of causes". mobilitas = mobility enforced
+    at 5.858.
 - **Scientific anachronism**: never import a modern term the Latin does not
   have (no "atom" for primordia, no "molecule", no "evolution"). The notes
   may say where a modern reader will hear an anticipation; the verse may

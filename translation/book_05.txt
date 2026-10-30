@@ -21,8 +21,8 @@ TRANSLATOR'S COMMENTARY
    11  took life out of such great waves and such great darkness
    12  and set it in so calm a place and in so clear a light.
    13  For compare the godlike discoveries of others long ago.
-   14  For Ceres is said to have established grain for mortals, and Liber
-   15  the liquor of the vine-born drink;
+   14  For Ceres is said to have established grain, and Liber
+   15  for mortals the liquid of the vine-born juice;
    16  and yet life could go on without these things,
    17  as report says some nations live even now.
    18  But a good life was not possible without a pure heart;
@@ -38,7 +38,7 @@ TRANSLATOR'S COMMENTARY
    28  the hydra, palisaded round with venomous snakes?
    29  Or what the triple-breasted strength of three-bodied Geryon,
    30  and the horses of Diomedes, breathing fire from their nostrils
-   31  near Thrace and the Bistonian lands and Ismarus,
+   31  in Thrace, near the Bistonian lands and Ismarus,
    32  and, guarding the gleaming golden apples of the Hesperides,
    33  fierce, with savage glare, the serpent of enormous body
    34  coiled round the tree's trunk? What harm, finally, would it do
@@ -59,8 +59,8 @@ TRANSLATOR'S COMMENTARY
    49  Therefore the man who has subdued all these and from the mind
    50  driven them out with words, not arms, will it not be fitting
    51  that this man be deemed worthy of a place among the gods?
-   52  Especially since he was used to speak, well and divinely,
-   53  many sayings about the immortal gods themselves {{NOTE: the source prints "iam mortalibus"; read as immortalibus, "about the immortal gods"}}
+   52  Especially since he was used to give, well and divinely,
+   53  many sayings from the gods to mortals themselves {{NOTE: the source prints "iam mortalibus e divis"; other editors read "immortalibu' de divis", "about the immortal gods themselves"}}
    54  and to lay open in his words the whole nature of things.
    55  Treading in his footsteps, while I follow out his reasonings
    56  and teach in my words by what covenant all things
@@ -71,15 +71,15 @@ TRANSLATOR'S COMMENTARY
    61  and not able to endure unharmed through long ages,
    62  but that images are used to deceive the mind in sleep
    63  when we seem to see one whom life has left;
-   64  for the rest, the order of my reasoning has brought me now to this,
+   64  for the rest, the order of reasoning has now brought me to this,
    65  that I must give an account of how the world consists
    66  of a mortal body and at the same time had a birth;
    67  and in what ways that coming-together of matter
-   68  founded earth, sky, sea, stars, sun,
+   68  founded the earth, the sky, the sea, the stars, the sun,
    69  and the globe of the moon; then what living things
    70  arose from the earth, and which were at no time born;
    71  and in what way the human race, with varied speech,
-   72  began to deal with one another through the names of things;
+   72  began to make use, among themselves, of the names of things;
    73  and in what ways that fear of the gods worked its way into
    74  our hearts, which over the round of the earth keeps holy
    75  shrines, lakes, groves, altars, and images of the gods. {{NOTE: simulacra here are statues of the gods; "images" kept per the register, with a play on the Book 4 sense}}
@@ -102,24 +102,24 @@ TRANSLATOR'S COMMENTARY
    92  first of all look on the seas and lands and sky;
    93  their threefold nature, their three bodies, Memmius,
    94  three appearances so unlike, three such weavings,
-   95  a single day will give to destruction, and, upheld through many years,
+   95  one day will give to destruction, and, upheld through many years,
    96  the mass and machinery of the world will fall.
    97  Nor does it escape my mind how new and strange a thing
-   98  it strikes the mind as, the coming destruction of heaven and earth,
+   98  befalls the mind, the coming destruction of heaven and earth,
    99  and how hard it is for me to prove it in words;
   100  as happens when you bring to the ears a thing unheard of before
   101  yet cannot put it under the sight of the eyes
   102  nor lay it in the hands, by which the paved road of belief
-  103  leads nearest into the human heart and the precincts of the mind.
+  103  leads nearest to the human heart and the precincts of the mind.
   104  But still I will speak out. Perhaps the fact itself will give belief
   105  to my words, and you will see, when violent earthquakes arise,
   106  all things shaken to pieces in a little time.
   107  May steering fortune turn this far away from us,
   108  and may reasoning rather than the event itself persuade
-  109  that all things can be overcome and collapse with a horrible-sounding crash.
+  109  that all things can be overcome and fall with a dreadful crash.
   110  Before I approach this subject, to pour out pronouncements
-  111  more holy and with far more certain reasoning than
-  112  the Pythia, who speaks from the tripod and laurel of Phoebus, {{NOTE: the priestess of Apollo's oracle at Delphi; repeats 1.739}}
+  111  more holy and with far surer reasoning than
+  112  the Pythia, who speaks from the tripod and the laurel of Phoebus, {{NOTE: the priestess of Apollo's oracle at Delphi; repeats 1.739}}
   113  I shall set out for you many consolations in learned words,
   114  so that, reined in by religion, you may not think
   115  that the lands and sun and sky, sea, stars, moon,
@@ -133,28 +133,28 @@ TRANSLATOR'S COMMENTARY
   123  and so unworthy to be counted among the gods
   124  that they may rather be thought to give us a notion
   125  of what is removed from vital motion and sense.
-  126  For indeed it is not possible to think that with any body whatever
-  127  the nature of the mind and judgment can exist.
-  128  Just as a tree cannot be in the ether, nor clouds in the salt sea, {{NOTE: 5.128-141 closely repeat 3.784-797; the English should match its Book 3 lines where the Latin agrees}}
-  129  nor can fish live in the fields,
-  130  nor blood be in wood nor sap in stones,
-  131  it is fixed and appointed where each thing may grow and be,
-  132  so the nature of the mind cannot arise without a body
-  133  alone, nor exist far from sinews and blood.
-  134  For if it could, much sooner could the power of the mind itself
-  135  be in the head or shoulders or the bottoms of the heels,
-  136  and be used to be born in any part whatever,
+  126  For indeed it cannot be that with any body whatever
+  127  the nature of the mind and judgment be thought able to exist.
+  128  Just as there can be no tree in the upper air, no clouds {{NOTE: 5.128-141 closely repeat 3.784-797; the English repeats its Book 3 lines where the Latin agrees}}
+  129  in the deep sea, nor can fish live in the fields,
+  130  nor blood be in wood, nor sap in stones;
+  131  it is fixed and ordered where each thing grows and is:
+  132  so the nature of the mind cannot arise without the body,
+  133  alone, nor exist far off from sinews and blood.
+  134  For if it could, the force of the mind itself, much sooner,
+  135  could be in the head or shoulders or the lowest heels,
+  136  and would be wont to be born in any part you please,
   137  and still remain in the same man and the same vessel.
-  138  But since even in our body it is fixed
-  139  and seen appointed where the spirit and the mind
-  140  can be and grow apart, so much the more must we deny
+  138  And since even in our body it is evidently fixed
+  139  and ordered, it seems, where each can be and grow,
+  140  spirit and mind, each apart, all the more must we deny
   141  that, wholly outside the body and the living form,
-  142  they could endure in the crumbling clods of earth or in the sun's fire
+  142  they could endure in crumbling clods of earth or the sun's fire
   143  or in water or the high shores of the ether.
   144  Therefore these things do not exist endowed with divine sense,
   145  since they cannot be alive and quickened with the breath of life.
 
-  146  Again, it is not possible for you to believe that the holy
+  146  Again, you cannot possibly believe that the holy
   147  dwellings of the gods exist in any parts of the world.
   148  For the nature of the gods is thin, and far removed
   149  from our senses, and is scarcely seen by the thought of the mind;
@@ -168,8 +168,8 @@ TRANSLATOR'S COMMENTARY
   157  the glorious nature of the world, and that therefore
   158  it is fitting to praise the praiseworthy work of the gods,
   159  and to think that it will be eternal and immortal,
-  160  and that it is unlawful for what by the gods' ancient reasoning
-  161  was founded for the races of men to last through endless age
+  160  and that it is sin that what, by the gods' ancient reasoning,
+  161  was founded for the races of men to last through endless age,
   162  ever to be shaken by any force from its seat,
   163  or harried with words and overturned from top to bottom,
   164  and to invent and add other things of this kind, Memmius,
@@ -188,26 +188,26 @@ TRANSLATOR'S COMMENTARY
   177  For whoever has been born must want to remain
   178  in life, so long as soft pleasure holds him;
   179  but for one who never tasted the love of life
-  180  and was never in the count, what harm is it not to have been created?
+  180  and was never counted, what harm is it not to have been created?
   181  Further, the pattern for creating things, and the very
   182  notion of men, from where was it first planted in the gods, {{NOTE: notities: the Epicurean "preconception" (prolepsis); the gods could not have known what men were before men existed}}
   183  so that they knew and saw in their mind what they wished to make,
-  184  or in what way was the power of the beginnings ever known, {{NOTE: principia, distinct from primordia; rendered "beginnings" here pending a register entry}}
+  184  or in what way was the power of the beginnings ever known,
   185  and what they could do with their order changed among themselves,
-  186  if nature herself did not give a likeness of creating?
+  186  if nature herself did not give a likeness of creation?
   187  For so many first-beginnings of things, in so many ways,
   188  driven by blows from infinite time till now,
   189  and roused by their own weights, have been used to move
-  190  and to come together in every way and to try out everything
+  190  and to meet in every way and to try out all things
   191  that they could create by meeting with one another,
-  192  that it is no wonder if they have also fallen into such arrangements
-  193  and come into such courses
-  194  as those by which this sum of things is now carried on, renewing itself.
+  192  so it is no wonder if they fell into such arrangements
+  193  and come, as well, into such courses
+  194  as those by which this sum of things is now carried on by renewal.
   195  But even if I did not know what the first-beginnings of things are,
-  196  this I would dare, from the very order of heaven,
+  196  this, still, from the very order of heaven I would dare
   197  to affirm, and to show from many other things,
-  198  that in no way has the nature of things been prepared
-  199  for us by divine power: so great is the fault with which it stands endowed.
+  198  that by no means for us, by divine power, was prepared
+  199  the nature of things: so great the flaws it stands endowed with.
   200  First, of all that the vast sweep of heaven covers,
   201  a greedy portion the mountains and the forests of wild beasts
   202  have taken; rocks hold it, and vast marshes,
@@ -218,28 +218,28 @@ TRANSLATOR'S COMMENTARY
   207  would choke with brambles, did human force not resist,
   208  used for life's sake to groan over the strong mattock
   209  and to cut through the earth with the plow pressed down.
-  210  If we did not turn the fertile clods with the plowshare,
-  211  and work the soil of the earth, and call them forth to birth,
+  210  If we did not, turning the fertile clods with the plowshare
+  211  and working the soil of the earth, rouse them to birth,
   212  of their own accord they could not come out into the clear air.
   213  And even so, at times, when things won with great labor
   214  are now in leaf throughout the lands and all in flower,
-  215  either the sun in the upper air scorches them with excessive heat,
+  215  either the sun in the ether scorches them with too much heat,
   216  or sudden rains destroy them, and chill frosts,
   217  and blasts of wind harry them with violent whirlwind.
   218  Further, the race of wild beasts, bristling with horror,
   219  hostile to the human kind on land and sea,
   220  why does nature feed and increase it? Why do the seasons bring
   221  diseases? Why does untimely death go wandering?
-  222  Then again the child, like a sailor cast up by the savage waves,
+  222  Then again the child, like a sailor cast up by savage waves,
   223  lies naked on the ground, speechless, in want of every
-  224  help for life, as soon as into the shining shores of light
+  224  help for life, as soon as into the shores of light
   225  nature has poured him out with throes from his mother's womb,
   226  and he fills the place with mournful wailing, as is right
   227  for one who has so much of evil left to pass through in life.
   228  But the various flocks grow up, and herds, and wild beasts,
-  229  and they have no need of rattles, nor must any of them be given
+  229  and they need no rattles, nor must any of them be given
   230  the coaxing, broken baby-talk of a kindly nurse,
-  231  nor do they look for different clothes to suit the season of the sky;
+  231  nor do they look for changing clothes to suit the weather;
   232  finally, they need no arms, no high walls,
   233  to guard their own, since for all of them all things abundantly
   234  the earth herself brings forth, and nature, artificer of things.
@@ -270,18 +270,18 @@ TRANSLATOR'S COMMENTARY
   259  that the mother of all is also the common tomb of things,
   260  therefore the earth, you see, is drawn upon and, increased, grows back.
 
-261  For the rest, that the sea, the rivers, the springs always brim
+  261  For the rest, that the sea, the rivers, the springs always brim
   262  with new moisture, and that the waters flow without end,
   263  there is no need of words: the great downrush of waters
-  264  declares it on every side. But whatever water comes first
-  265  is taken off, and so on the whole the moisture never overflows,
+  264  declares it everywhere. But all the water that comes first
+  265  is taken off, and so in all the moisture never overflows,
   266  partly because the strong winds sweeping the levels of the sea
-  267  diminish it, and the sun of the upper air, unweaving it with his rays,
+  267  diminish it, and the sun in the ether, unweaving with rays,
   268  partly because it is spread out beneath, through all the lands;
   269  for the brine is strained out, and the matter of moisture
   270  oozes back, and all of it gathers at the heads of the rivers,
   271  and from there flows over the lands in a column of sweet water
-  272  where once a channel was cut and carried the waves down with liquid foot.
+  272  where the way, once cut, has carried the waves down with liquid foot.
   273  Now therefore I shall speak of air, which in its whole body
   274  is changed in numberless ways with every single hour.
   275  For always whatever flows off from things, all of it
@@ -290,7 +290,7 @@ TRANSLATOR'S COMMENTARY
   278  all things would by now have been dissolved and turned to air.
   279  Air therefore never ceases to be born from things and to fall
   280  back into things, since it is certain that all things constantly flow.
-  281  Likewise the generous fountain of liquid light, the sun of the upper air,
+  281  So too the bounteous fount of liquid light, the sun in the ether,
   282  floods the sky constantly with fresh brightness
   283  and at once supplies light with new light.
   284  For whatever brightness comes first is lost to it,
@@ -317,11 +317,11 @@ TRANSLATOR'S COMMENTARY
   305  so that you may not perhaps believe these thrive inviolable.
   306  Again, do you not see that even stones are conquered by age,
   307  that high towers fall and rocks crumble,
-  308  that the shrines of the gods and their images grow weary and crack,
-  309  and that the holy divinity cannot stretch out the boundaries
+  308  that the gods' shrines and images grow weary and crack,
+  309  and the holy divinity cannot push forward the bounds
   310  of fate, nor struggle against nature's covenants?
   311  Again, do we not see the monuments of men fall in ruin,
-  312  demanding in turn, you would think, whether they too grow old, {{NOTE: text corrupt; Bailey obelizes the line; the rendering gives only the probable sense}}
+  312  asking, in their turn, whether you believe that they too grow old, {{NOTE: text corrupt; Bailey obelizes the line; the rendering gives only the probable sense}}
   313  and flints torn from the high mountains rushing down,
   314  unable to bear and endure the strong forces of an age
   315  that is finite? For they would not fall, torn suddenly away,
@@ -337,8 +337,8 @@ TRANSLATOR'S COMMENTARY
   325  of earth and heaven, and they have always been eternal,
   326  why, beyond the Theban war and the deaths of Troy,
   327  have not other poets also sung of other things?
-  328  Where have so many deeds of men so often fallen, and why nowhere
-  329  do they flower, grafted on eternal monuments of fame?
+  328  Where have so many deeds of men so often fallen, and nowhere
+  329  flower, grafted on the eternal monuments of fame?
   330  But, as I think, the whole is new, and the nature
   331  of the world is recent, and not long ago took its beginnings.
   332  And so even now some arts are being polished,
@@ -358,21 +358,21 @@ TRANSLATOR'S COMMENTARY
   346  dangers, then, if a grimmer cause had pressed upon them,
   347  they would have spread disaster and great ruin far and wide.
   348  Nor in any other way do we seem to be mortal,
-  349  except that we sicken, one with another, with the same diseases
+  349  among ourselves, save that we sicken with the same diseases
   350  as those whom nature has removed from life.
-  351  Further, whatever things endure eternal must of necessity {{NOTE: 5.351-363 repeat 3.806-818 nearly verbatim; conform to the Book 3 English}}
+  351  Further, whatever things endure eternal must, of necessity, {{NOTE: 5.351-363 repeat 3.806-818 nearly verbatim; the English repeats its Book 3 lines}}
   352  either, because they are of solid body, repel blows
-  353  and suffer nothing to pierce them that could break apart
-  354  the close-packed parts within, as are the bodies
-  355  of matter, whose nature we have shown before,
-  356  or be able to last through all time because
-  357  they are free of blows, as the void is,
-  358  which stays untouched and suffers not a whit from a blow,
-  359  or else because there is no supply of place around
-  360  into which things might, as it were, part and be dissolved,
-  361  as the sum of sums is eternal, and outside it
-  362  there is no place into which things might leap apart, nor bodies
-  363  that might fall upon it and dissolve it with a strong blow.
+  353  and suffer nothing to enter them that could tear apart
+  354  their close-knit parts within, as the bodies of matter
+  355  are, whose nature we have shown before;
+  356  or be able to last through all time for this reason,
+  357  that they are exempt from blows, as the void is,
+  358  which stays untouched and is not affected one whit by a stroke;
+  359  or else because there is no supply of place around them
+  360  into which things could, as it were, part and be dissolved,
+  361  as the sum of sums is eternal, nor is there outside it
+  362  any place into which they might scatter, nor are there bodies that
+  363  could fall upon them and dissolve them with a strong blow.
   364  But neither, as I have taught, is the nature of the world
   365  of solid body, since void is mixed in things,
   366  nor yet is it like the void; nor indeed are bodies lacking
@@ -381,7 +381,7 @@ TRANSLATOR'S COMMENTARY
   369  or bring upon it some other disaster of danger,
   370  nor further is the nature of place and the space of the deep
   371  lacking, into which the walls of the world could be scattered,
-  372  or they can be struck by any other force and perish.
+  372  or, driven by any other force, perish.
   373  The door of death, therefore, is not shut to the sky,
   374  nor to sun and earth, nor to the deep waters of the sea,
   375  but stands open and looks toward them with its vast and monstrous gape.
@@ -391,7 +391,7 @@ TRANSLATOR'S COMMENTARY
   379  have scorned the strong forces of immeasurable age.
 
   380  Finally, since the greatest members of the world
-  381  fight so fiercely among themselves, stirred by a war in no way holy, {{NOTE: pium bellum is the Roman term for a war duly declared with the proper rites; this war among the elements is anything but that}}
+  381  fight so among themselves, stirred by a war in no way holy, {{NOTE: pium bellum is the Roman term for a war duly declared with the proper rites; this war among the elements is anything but that}}
   382  do you not see that some end of their long contest
   383  can be granted them, either when the sun and all heat
   384  have drunk up all the moisture and prevailed?
@@ -399,7 +399,7 @@ TRANSLATOR'S COMMENTARY
   386  so much do the rivers supply, and they threaten besides
   387  to flood all things from the deep gulf of the sea:
   388  in vain, since the winds that sweep the levels of the sea
-  389  diminish it, and so does the sun in the ether, unweaving it with its rays,
+  389  diminish it, and the sun in the ether, unweaving with rays,
   390  and they trust that they can dry all things up
   391  before the water can reach the end of its undertaking.
   392  Breathing such war in an equal contest,
@@ -422,21 +422,21 @@ TRANSLATOR'S COMMENTARY
   409  then its forces fall, overcome by some principle,
   410  or else things perish, burned up by the scorching air.
   411  Water likewise once rose up and began to prevail,
-  412  as the story goes, when it overwhelmed the lives of men with its waves;
+  412  as report says, when it drowned the lives of men in its waves;
   413  then, when that force was turned aside by some principle and withdrew,
   414  whatever of it had risen up out of the infinite,
   415  the rains stopped and the rivers lessened their force.
   416  But by what means that gathering of matter
   417  founded the earth and the sky and the depths of the sea,
   418  the courses of the sun and the moon, I shall set out in order.
-  419  For certainly not by design did the first-beginnings of things {{NOTE: 5.419-431 largely repeat 1.1021-1028; reconcile verbatim with the Book 1 rendering}}
-  420  place themselves each in its order by keen intelligence,
-  421  nor indeed did they bargain what motions each would give;
+  419  For certainly the first-beginnings of things did not by design {{NOTE: 5.419-421 repeat 1.1021-1023 and the English repeats its Book 1 lines; 5.422-431 vary the Latin of 1.1024-1028}}
+  420  set themselves each in its order with a shrewd mind,
+  421  nor, surely, did they bargain what motions each should give;
   422  but because many first-beginnings of things in many ways,
-  423  struck by blows from infinite time till now,
-  424  and driven by their own weights, have been used to travel
-  425  and to come together in every way and try out everything
-  426  that they could create by meeting with each other,
+  423  driven by blows from infinite time till now,
+  424  and roused by their own weights, have been used to move
+  425  and to meet in every way and to try out all things
+  426  that they could create by meeting with one another,
   427  therefore it comes about that, spread abroad through a great age,
   428  by trying every kind of union and motion
   429  at last those come together which, suddenly thrown together,
@@ -450,15 +450,15 @@ TRANSLATOR'S COMMENTARY
   437  Then parts began to fly apart from one another, and like things
   438  to join with like, and to mark off the world,
   439  and to divide its members and arrange its great parts
-  440  out of beginnings of every kind, whose discord {{NOTE: principia, Lucretius's other name for the first-beginnings}}
-  441  threw into confusion their intervals, paths, connections, weights, blows,
+  440  out of beginnings of every kind, whose discord confounded {{NOTE: principia, Lucretius's other name for the first-beginnings}}
+  441  intervals, paths, connections, weights, blows,
   442  collisions, motions, stirring up battles among them
   443  because of their unlike forms and varied shapes,
   444  since not all, joined thus, could stay together
   445  nor give one another fitting motions:
   446  that is, to separate the high sky from the earth,
-  447  and the sea apart, so that it might spread with its water set apart,
-  448  and apart likewise the fires of the pure and separate ether.
+  447  and the sea apart, to spread with its moisture set apart,
+  448  and apart too the fires of the pure and separate ether.
   449  For indeed, first, all the bodies of earth,
   450  because they were heavy and entangled, came together
   451  in the middle and all took the lowest seats;
@@ -478,7 +478,7 @@ TRANSLATOR'S COMMENTARY
   465  and when all these are gathered together above, on high,
   466  their body thickened, they weave clouds beneath the sky.
   467  So then at that time the light and spreading ether,
-  468  its body thickened, set around on every side, fenced itself in,
+  468  its body thickened, set round on every side, fenced itself in,
   469  and spread out wide into all parts on every side,
   470  so fenced in all other things in its greedy embrace.
   471  After it followed the origins of the sun and moon,
@@ -507,7 +507,7 @@ TRANSLATOR'S COMMENTARY
   494  nor all parts sink down equally to the same degree.
 
   495  So therefore the weight of earth, its body packed close,
-  496  settled, and all of it, heavy, like the slime of the world, into the depths
+  496  settled, and heavy, like the slime of the whole world, to the depths
   497  flowed together, and sank down to the bottom like dregs;
   498  then the sea, then the air, then the fire-bearing ether itself
   499  were all left pure, with their clear-flowing bodies,
@@ -516,17 +516,17 @@ TRANSLATOR'S COMMENTARY
   502  and does not mingle its clear-flowing body with the troubled breezes
   503  of the air; it lets all these below be turned by violent
   504  whirlwinds, lets them riot in fitful storms,
-  505  while it, gliding, carries its own fires on with a steady drive.
-  506  For that the ether can flow evenly and with a single effort
+  505  while it glides, bearing its own fires with a steady drive.
+  506  For that the ether can flow evenly, with a single effort,
   507  the Pontus shows, a sea that flows with a steady current, {{NOTE: the Black Sea, whose constant one-way outflow through the Bosporus was proverbial}}
   508  keeping always one unvarying course in its gliding.
   509  Now let us sing what is the cause of the motions of the stars.
   510  First, if the great sphere of heaven turns round,
   511  we must say that air presses on the pole at either end
   512  and holds it from outside and closes it in on both sides;
-  513  then that another air flows above and strains in the same direction
+  513  then that another air flows above and strains the same way
   514  in which the stars of the eternal world glitter as they roll;
-  515  or that another flows beneath, to drive the sphere up the other way,
+  515  or that another beneath carries the sphere up the other way,
   516  as we see rivers turn wheels and their water-buckets.
   517  It is also possible that the whole of heaven stays
   518  at rest, while yet the shining signs are carried on,
@@ -534,7 +534,7 @@ TRANSLATOR'S COMMENTARY
   520  and, seeking a way out, turn round and round, and roll the fires
   521  everywhere through the nightly precincts of heaven, {{NOTE: summania: belonging to Summanus, god of thunder by night; hence "nightly", though some take it as "highest"}}
   522  or because air flowing from somewhere else, from outside,
-  523  turns and drives the fires, or because they can creep of themselves
+  523  turns and drives the fires, or they can creep of themselves
   524  wherever each one's food calls them and invites them on,
   525  feeding their flaming bodies everywhere through the sky.
   526  For which of these it is in this world is hard to lay down
@@ -543,34 +543,34 @@ TRANSLATOR'S COMMENTARY
   529  that I teach, and go on to set out several causes
   530  which can account, through the whole, for the motions of the stars;
   531  and yet one of these must be the cause here too
-  532  that gives life to the motion of the signs; but which of them it is
+  532  that quickens the motion of the signs; but which of them it is
   533  to lay down is not at all for one who advances step by step.
   534  And for the earth to rest in the middle region of the world,
   535  its weight must gradually thin out and grow less,
   536  and it must have another nature beneath it,
-  537  joined to it from the beginning of its life and fitted into one
+  537  joined to it from the start of its life and fitted into one
   538  with the airy parts of the world, set in which it lives.
-  539  For this reason it is no burden and does not press the breezes down,
+  539  Therefore it is no burden and does not press the breezes down,
   540  just as to each man his own limbs have no weight,
-  541  nor is the head a burden to the neck, nor, finally, do we feel
+  541  nor the head a burden to the neck, nor, finally, do we feel
   542  the whole weight of the body resting on the feet;
   543  but whatever weights come from outside and are laid
   544  upon us harm us, though often they are far smaller.
   545  So much it matters what power each thing has.
   546  So therefore the earth is not something foreign, suddenly
   547  brought in and set from elsewhere in foreign air,
-  548  but conceived together with it from the first origin of the world,
+  548  but conceived with it from the first origin of the world,
   549  and a fixed part of it, as our limbs are seen to be of us.
   550  Further, the earth, shaken suddenly by a great thunderclap,
   551  shakes with its motion all things that are above it;
   552  which it could by no means do unless it were
   553  bound fast to the airy parts of the world and to heaven;
   554  for they cling to each other by common roots,
-  555  joined from the beginning of their life and grown into one.
+  555  joined from the start of their life and grown into one.
   556  Do you not see too how great a weight of body
   557  the thinnest force of the spirit sustains for us,
   558  because it is so joined and fitted into one with it?
-  559  Finally, what has power to lift the body in a nimble leap
+  559  Finally, what can lift the body in a nimble leap
   560  except the force of the spirit, which steers the limbs?
   561  Now do you see how much a thin nature can avail
   562  when it is joined with a heavy body, as the air
@@ -586,7 +586,7 @@ TRANSLATOR'S COMMENTARY
   572  the form and size of the sun too must appear from here as they are,
   573  so that you could truly make it neither more nor less.
   574  reach our senses and make places shine, {{NOTE: this line repeats 571 in the source; a stray repetition that editors bracket}}
-  575  And the moon, whether it moves lighting places with a bastard light, {{NOTE: notho lumine: "bastard", i.e. borrowed, light, reflected from the sun}}
+  575  And the moon, whether it moves lighting places with bastard light, {{NOTE: notho lumine: "bastard", i.e. borrowed, light, reflected from the sun}}
   576  or casts its own light from its own body,
   577  whatever it is, it moves with a shape no larger
   578  than it seems to be, as we perceive it with our eyes.
@@ -606,9 +606,9 @@ TRANSLATOR'S COMMENTARY
   592  Again this is not to be wondered at, by what principle
   593  so small a sun can send out so much light
   594  as to fill the seas and all the lands and heaven, watering them,
-  595  and drench all things with warm heat.
+  595  and drench all things through with its warm heat.
   596  must look from here, on high, just as large as it is. {{NOTE: this line repeats 584 in the source; a stray repetition, not part of the argument}}
-  597  For it is possible that from here a single fountain of the whole world,
+  597  For it may be that from here one fountain of the whole world,
   598  opened wide, gushes in abundance and bursts out in light,
   599  because from all the world the elements of heat
   600  gather from every side, and their throng so
@@ -622,11 +622,11 @@ TRANSLATOR'S COMMENTARY
   608  just as we sometimes see crops and stubble
   609  catch fire everywhere from a single spark.
   610  Perhaps too the sun, shining on high with its rosy lamp,
-  611  holds much fire with hidden heats
+  611  may possess much fire, in hidden heats,
   612  around itself, a fire marked by no brightness at all,
   613  so that, heat-bearing, it may swell so great a stroke of rays.
 
-  614  Nor is the reasoning of the sun laid open, simple and straight:
+  614  Nor does the order of the sun lie open, simple and straight:
   615  how, from its summer regions, it comes to Capricorn's {{NOTE: aegocerotis, "the goat-horned"; Capricorn and Cancer (617) mark the winter and summer tropics}}
   616  winter turnings, and how, turning back from there,
   617  it bends toward the solstice goal-posts of Cancer,
@@ -634,7 +634,7 @@ TRANSLATOR'S COMMENTARY
   619  in which the sun spends the time of a year in its course.
   620  Not one simple cause, I say, is given for these things.
   621  For it seems that this, above all, can come about,
-  622  which the holy judgment of the man Democritus lays down:
+  622  what the holy judgment of the man Democritus lays down:
   623  that the nearer to the earth each of the stars is,
   624  the less it can be carried with the whirl of heaven;
   625  for the swift and fierce forces of that whirl fade away
@@ -642,12 +642,12 @@ TRANSLATOR'S COMMENTARY
   627  is little by little left behind with the hinder signs,
   628  because it is far lower than the burning signs.
   629  And the moon still more: the lower its course,
-  630  the farther it lies from the sky and the nearer it comes to the earth,
+  630  the farther it is from the sky and the nearer to the earth,
   631  the less it can keep its course level with the signs.
   632  Further, the more sluggish the whirl that carries it,
   633  being lower than the sun, the more do all the signs
   634  overtake it all around and are carried past it.
-  635  Therefore it comes about that it seems to return to each sign
+  635  So it comes about that it seems to return to each sign
   636  more quickly, because the signs come back to it.
   637  It may also be that from the cross regions of the world an air
   638  can flow at a fixed time, by turns, now one, now the other,
@@ -655,19 +655,19 @@ TRANSLATOR'S COMMENTARY
   640  as far as the winter turnings and their freezing stiffness,
   641  and one to fling it back from the freezing shades of cold
   642  as far as the heat-bearing parts and the burning signs.
-  643  And by like reasoning we must suppose that the moon and the stars,
+  643  And on a like principle we must suppose that the moon and stars,
   644  which roll great years round in great orbits,
   645  can travel by airs from alternate parts.
   646  Do you not see that the clouds, too, under contrary winds,
   647  go in contrary directions, the lower against the upper?
-  648  Why should those stars be less able, through the great orbits of the ether,
+  648  Why should those stars be less able, through the great orbits of ether,
   649  to be carried on currents contrary to one another?
   650  But night buries the lands in huge darkness,
   651  either when the sun, after its long course, has struck the farthest
   652  parts of heaven and, grown faint, has breathed out its fires,
   653  shaken by the journey and weakened by much air,
-  654  or because the same force compels it to turn its course beneath the earth
-  655  that carried its orb above the lands.
+  654  or because the same force compels it to turn its course beneath
+  655  the earth, the force that carried its orb above the lands.
   656  Likewise at a fixed time Matuta spreads rosy dawn {{NOTE: Matuta, the old Italian goddess of the dawn}}
   657  through the regions of the ether and opens wide the light,
   658  either because the same sun, returning beneath the earth,
@@ -701,7 +701,7 @@ TRANSLATOR'S COMMENTARY
   686  carried round so much the more, to the opposite side,
   687  until it reaches that sign of heaven where the node
   688  of the year makes the shades of night equal with the light;
-  689  for midway in its course between the blast of the north wind and the south
+  689  for midway in its course between the blasts of north wind and south
   690  heaven holds its turning-posts apart at an equal distance
   691  because of the position of the whole sign-bearing circle, {{NOTE: the zodiac, set slantwise to the celestial equator}}
   692  in which the sun, creeping, encloses its yearly times,
@@ -709,31 +709,31 @@ TRANSLATOR'S COMMENTARY
   694  as the reasoning of those declares who have marked out
   695  all the regions of heaven, adorned with their signs set in order.
   696  Or because the air is thicker in certain parts,
-  697  and so beneath the earth the trembling radiance of fire hesitates
+  697  and so beneath the earth the trembling beam of fire hesitates
   698  and cannot easily pass through and come up to its rising;
   699  therefore in wintertime the nights, being long,
   700  linger, until the rayed badge of day arrives.
   701  Or else, because in this way, in alternate parts of the year,
-  702  the fires have been accustomed to flow together more slowly and more quickly,
+  702  the fires have been wont to flow together slower and quicker,
   703  the fires which make the sun rise from a fixed quarter,
   704  therefore it comes about that they seem to speak the truth. {{NOTE: "they": those who hold that the sun is formed new each day from gathering fires (660-665)}}
   705  The moon may shine because it is struck by the sun's rays,
   706  and turn that light day by day more toward us
   707  into view, the farther it withdraws from the sun's orb,
   708  until, opposite the sun, it has shone with full light
-  709  and, rising high, has looked down upon its setting;
+  709  and, rising, has looked down on the sun's setting from the heights;
   710  then little by little, backward, as it were, it must hide
-  711  its light likewise, the closer it now glides toward the sun's fire
+  711  its light in turn, the closer it now glides to the sun's fire
   712  from the other side of the signs, through its orbit;
   713  so hold those who picture the moon to be like
   714  a ball, and to keep the path of its course beneath the sun.
   715  There is reason, too, why it could roll on with its own light
   716  and still give back varied forms of brightness;
   717  for there may be another body, carried along and gliding
-  718  together with it, in every way meeting and obstructing it,
+  718  with it, in every way meeting and obstructing it,
   719  yet unable to be seen, since it moves bare of light.
   720  Or it may turn, like, perhaps, the globe of a ball
-  721  dyed on one half with shining light,
+  721  dyed on one half of it with shining light,
   722  and, by turning the globe, give out changing forms,
   723  until it turns that part, whichever is endowed with fires,
   724  into our view and toward our open eyes;
@@ -767,25 +767,25 @@ TRANSLATOR'S COMMENTARY
   751  So too the eclipses of the sun and the hidings of the moon
   752  you must suppose can come about from many causes.
   753  For why should the moon be able to shut the earth off from the sun's
-  754  light, and set itself against its high head from the side of the earth,
+  754  light, and block off the sun's high head from the lands,
   755  throwing its blind orb in the way of the burning rays,
   756  and yet it be thought that at that same time some other body
   757  cannot do this, one that glides on forever void of light?
-  758  And why should the sun not be able, growing faint, to let its fires
-  759  go at a fixed time, and then renew its light,
-  760  when it has passed through regions of the air hostile to its flames,
+  758  And why could the sun not, growing faint, let go its fires
+  759  at a fixed time, and then renew its light,
+  760  when it has passed through regions of air hostile to its flames,
   761  which cause its fires to be quenched and to perish?
   762  And why should the earth be able in its turn to rob the moon
   763  of light, and itself, above, keep the sun pressed down,
-  764  while month by month the moon glides through the cone's rigid shadows, {{NOTE: the cone is the earth's shadow, tapering away from the sun}}
-  765  and yet at that same time some other body be unable to run beneath the moon
-  766  or to glide above the orb of the sun,
+  764  while monthly the moon glides through the cone's rigid shadows, {{NOTE: the cone is the earth's shadow, tapering away from the sun}}
+  765  and yet at that same time some other body be unable
+  766  to run beneath the moon or to glide above the orb of the sun,
   767  breaking off its rays and the light poured out?
   768  And yet, if the moon shines with her own brightness,
   769  why could she not grow faint in a fixed part of the world
   770  while she passes through places hostile to her own light?
-  771  while month by month the moon glides through the cone's rigid shadows. {{NOTE: repeats 764 verbatim; editors take it as a misplaced line}}
-  772  For the rest, since I have unfolded through the blue reaches of the great world
+  771  while monthly the moon glides through the cone's rigid shadows. {{NOTE: repeats 764 verbatim; editors take it as a misplaced line}}
+  772  For the rest, since I have unfolded, through the blue of the great world,
   773  by what principle each thing could come about,
   774  so that of the sun's varied courses and the journeys of the moon
   775  we might be able to know what force and cause set them moving,
@@ -794,12 +794,12 @@ TRANSLATOR'S COMMENTARY
   778  when they close their eyes, as it were, and with light opened again
   779  look over all places, clear in shining light,
   780  now I return to the world's youth and the soft fields
-  781  of earth, what in their new bearing they first chose to lift into the shining shores of light {{NOTE: crerint is a contracted form of decreverint, "decided"}}
-  782  and to entrust to the uncertain winds.
-  783  To begin with, the earth gave forth the race of grasses and their green brightness
+  781  of earth, what with new offspring they first resolved to lift {{NOTE: crerint is a contracted form of decreverint, "decided"}}
+  782  into the shores of light and entrust to the uncertain winds.
+  783  First the earth gave forth the race of grasses and their green brightness
   784  around the hills and over all the plains;
   785  the flowering meadows shone with greening color,
-  786  and to the trees of every kind was then given, up through the air,
+  786  and to the trees of every kind was then given, through the air,
   787  a great contest of growing, with the reins let loose.
   788  As feathers and hairs and bristles are first produced
   789  on the limbs of four-footed beasts and the bodies of the strong-winged,
@@ -829,8 +829,8 @@ TRANSLATOR'S COMMENTARY
   813  like milk, just as now every woman,
   814  when she has given birth, is filled with sweet milk, because all
   815  that onrush of nourishment is turned into the breasts.
-  816  To the children the earth furnished food, the warmth clothing, the grass a bed
-  817  abounding in thick, soft down.
+  816  To the children the earth gave food, the warmth clothing, the grass a bed
+  817  that abounded in down, thick and soft.
   818  But the youth of the world stirred up neither hard cold
   819  nor excessive heat nor winds of great strength.
   820  For all things grow and gain their strength together.
@@ -849,7 +849,7 @@ TRANSLATOR'S COMMENTARY
   833  then another grows up and comes out from being held in scorn.
   834  So therefore age changes the nature of the whole world,
   835  and one state succeeds another and takes the earth over,
-  836  so that it cannot bear what it could, and can what it did not before.
+  836  so it cannot bear what it could, and can what it did not before.
   837  And many monsters, too, the earth then tried
   838  to create, arising with wondrous faces and limbs:
   839  the androgyne, between the two and neither, far from either, {{NOTE: the Latin of this line is corrupt; the sense, a creature of both sexes and of neither, is clear}}
@@ -871,11 +871,11 @@ TRANSLATOR'S COMMENTARY
   855  And many generations of living things must then have perished
   856  and been unable by breeding to hammer out their offspring.
   857  For whatever you see feeding on the breath of life,
-  858  either cunning or courage or else swiftness
+  858  either cunning or courage or else mobility
   859  has kept that race safe from the beginning of its life. {{NOTE: the source misprints tuta as "tutaTA"}}
-  860  And there are many which, commended to us by their own usefulness,
+  860  And many, commended to us by their own usefulness,
   861  remain, handed over to our protection.
-  862  To begin with, the fierce race of lions and the savage generations
+  862  First, the fierce race of lions and the savage generations
   863  courage has protected, the fox its cunning, and flight the deer.
   864  But the light-sleeping hearts of dogs, with their loyal breast,
   865  and every kind that is born of the seed of beasts of burden,
@@ -896,9 +896,9 @@ TRANSLATOR'S COMMENTARY
   879  can there be creatures of double nature and twofold body
   880  made up of limbs from alien stocks, whose powers
   881  on this side and on that could be matched closely enough.
-  882  This you may learn from what follows, however dull your heart.
+  882  which one may come to know from this, however dull one's heart.
   883  To begin with, when three years have come round, the horse
-  884  is in its vigorous flower, the boy by no means; for often even then
+  884  flowers in vigor, the boy not at all; for often even then
   885  he will seek in his sleep the milk-giving teats of the breast.
   886  Later, when in old age the horse's strong powers
   887  and limbs fail, grown languid as life flees from them,
@@ -919,12 +919,12 @@ TRANSLATOR'S COMMENTARY
   902  the tawny bodies of lions just as much as every kind
   903  of flesh and blood that exists anywhere on earth,
   904  how could it come about that, one in a triple body,
-  905  lion in front, serpent behind, in the middle herself, the Chimaera {{NOTE: "herself": chimaera is also the Greek for a she-goat, so the middle is goat; the pun is lost in English}}
+  905  lion in front, snake behind, herself the middle, the Chimaera {{NOTE: "herself": chimaera is also the Greek for a she-goat, so the middle is goat; the pun is lost in English}}
   906  breathed out from her body through her mouth a bitter flame?
-  907  Therefore whoever imagines that, when the earth was new and the sky
+  907  Therefore whoever imagines that, the earth new and the sky
   908  fresh, such living creatures could have been begotten,
   909  leaning on this one empty name of newness,
-  910  may babble out many things by a like reasoning:
+  910  may babble out many things by a like principle:
   911  let him say that then rivers of gold flowed
   912  everywhere through the lands, and trees used to flower with jewels, {{NOTE: the source prints "suessesuësse", a doubled corruption of suesse, "used to"}}
   913  or that a man was born with such a sweep of limbs
@@ -983,7 +983,7 @@ TRANSLATOR'S COMMENTARY
   966  And trusting in the wondrous power of their hands and feet
   967  they hunted down the woodland races of wild beasts
   968  with stones for missiles and the great weight of the club;
-  969  many they overcame, a few they avoided in hiding places;
+  969  many they overcame, a few they shunned in hiding places;
   970  and like bristly boars they gave their woodland limbs
   971  naked to the earth when overtaken by the night,
   972  rolling themselves round in leaves and foliage.
@@ -1032,7 +1032,7 @@ TRANSLATOR'S COMMENTARY
  1013  were known, and they saw offspring created from themselves,
  1014  then first the human race began to soften.
  1015  For fire saw to it that their shivering bodies
- 1016  could no longer so well bear the cold beneath the canopy of heaven,
+ 1016  could not so well now bear the cold beneath the cover of heaven,
  1017  and Venus lessened their strength, and children, with their coaxing,
  1018  easily broke the proud temper of their parents.
  1019  Then too, eager, they began to join in friendship,
@@ -1047,9 +1047,9 @@ TRANSLATOR'S COMMENTARY
  1028  But the various sounds of the tongue nature drove men
  1029  to utter, and need pressed out the names of things,
  1030  by a principle not far other than that by which
- 1031  the very speechlessness of the tongue seems to draw children on to gesture,
- 1032  when it makes them point with a finger at the things that are present.
- 1033  For every creature feels its own power, what it can use it for.
+ 1031  the tongue's own infancy seems to draw children on to gesture,
+ 1032  when it makes them point with a finger at things that are present.
+ 1033  For each creature feels its own power, what it can use.
  1034  The calf, before its horns are born and stand out from its brow,
  1035  butts with them when angry and presses on in hostility.
  1036  But the cubs of panthers and the whelps of lions
@@ -1066,11 +1066,11 @@ TRANSLATOR'S COMMENTARY
  1047  among themselves, from where was the notion of their use {{NOTE: notities, the Epicurean "preconception" (prolepsis), a concept formed from experience.}}
  1048  implanted, and from where was this man first given the power
  1049  to know and see in his mind what he wished to do?
- 1050  Likewise one man could not compel many, and conquer and tame them,
+ 1050  Likewise one man could not compel many, conquer and tame them,
  1051  so that they would wish to learn the names of things thoroughly.
- 1052  Nor is it easy by any reasoning to teach and persuade the deaf
+ 1052  Nor is it easy in any way to teach and persuade the deaf
  1053  what needs to be done; for they would not suffer it,
- 1054  nor by any reasoning would they bear for long
+ 1054  nor in any way would they bear for long
  1055  unheard sounds of voice to batter their ears in vain.
  1056  Finally, what is there so very wonderful in this matter,
  1057  if the human race, with voice and tongue in vigor,
@@ -1079,8 +1079,8 @@ TRANSLATOR'S COMMENTARY
  1060  are used to calling out unlike and various sounds
  1061  when there is fear or pain, and when their joys are swelling?
  1062  For indeed this can be learned from plain facts.
- 1063  When the great soft jowls of Molossian hounds, first angered, {{NOTE: Molossian, a large hunting and guard dog from Epirus.}}
- 1064  growl and bare their hard teeth,
+ 1063  When first the great soft jowls of Molossian hounds {{NOTE: Molossian, a large hunting and guard dog from Epirus.}}
+ 1064  growl, provoked, as they lay bare their hard teeth,
  1065  their rage, drawn back, threatens with a sound far different
  1066  from when they bark outright and fill everything with their voices;
  1067  but when they try to lick their pups fondly with the tongue,
@@ -1111,7 +1111,7 @@ TRANSLATOR'S COMMENTARY
  1092  it was the lightning that first brought fire down to earth
  1093  for mortals; from there all the heat of flames is spread;
  1094  for we see many things, implanted with heavenly flames,
- 1095  blaze, when a stroke from heaven has endowed them with its heat.
+ 1095  blaze, when a quarter of the sky has granted its heat.
  1096  And yet when a branching tree, beaten by winds, sways
  1097  and heaves, pressing on the branches of another tree,
  1098  fire is pressed out, struck forth by the strong force,
@@ -1136,13 +1136,13 @@ TRANSLATOR'S COMMENTARY
  1116  however strong they may be, however fair of body.
  1117  But if one were to steer his life by true reasoning,
  1118  it is great riches for a man to live sparingly
- 1119  with a level mind; for there is never any want of a little.
+ 1119  with a level mind; for of a little there is never want.
  1120  But men wanted themselves famous and powerful,
  1121  so that their fortune might rest on a firm foundation
  1122  and they, being wealthy, might pass a calm life:
  1123  in vain, since, struggling to climb to the highest honor,
  1124  they made the road they traveled full of danger,
- 1125  and even so, from the summit, like a thunderbolt, it strikes and hurls them,
+ 1125  and yet from the summit, like a thunderbolt, it hurls them, struck,
  1126  envy does, at times, contemptuously, into foul Tartarus;
  1127  since by envy, as by the thunderbolt, the summits are scorched
  1128  as a rule, and whatever stands raised above the rest;
@@ -1152,7 +1152,7 @@ TRANSLATOR'S COMMENTARY
  1132  struggling along the narrow road of ambition;
  1133  since they are wise from another's mouth, and seek
  1134  things from what they hear rather than from their own senses,
- 1135  and this is no more so now, nor will it be soon, than it was before.
+ 1135  and this is no more so now, nor will be soon, than it was before.
  1136  Therefore, the kings slain, there lay overthrown
  1137  the ancient majesty of thrones and the proud scepters,
  1138  and the glorious emblem of the highest head, bloodied,
@@ -1165,21 +1165,21 @@ TRANSLATOR'S COMMENTARY
  1145  For the human race, worn out with living its life by force,
  1146  was languishing from its feuds; all the more readily
  1147  it fell of its own accord beneath laws and tight bonds of right.
- 1148  For since each man in his anger was preparing to avenge himself
+ 1148  For since each man in anger was preparing to avenge himself
  1149  more fiercely than is now allowed by equal laws,
  1150  for this cause men grew sick of living their life by force.
  1151  From then on, fear of punishment taints the prizes of life.
  1152  For violence and wrong catch each man in their net
  1153  and mostly turn back upon the one from whom they arose,
  1154  nor is it easy to pass a calm and peaceful life
- 1155  for one who by his deeds violates the common covenants of peace.
- 1156  For even if he escapes the notice of the race of gods and men,
+ 1155  for one whose deeds violate the common covenants of peace.
+ 1156  For even if he eludes the race of gods and men,
  1157  still he must doubt that it will stay hidden forever;
  1158  since indeed many, speaking often in their dreams
  1159  or raving in sickness, are said to have betrayed themselves
  1160  and brought hidden misdeeds and sins into the open.
  1161  Now, what cause spread the powers of the gods through great nations
- 1162  and filled the cities with altars
+ 1162  and filled up the cities with altars
  1163  and saw to the undertaking of solemn rites,
  1164  rites which now flourish in great affairs and places,
  1165  from which even now a shuddering is planted in mortals
@@ -1199,8 +1199,8 @@ TRANSLATOR'S COMMENTARY
  1179  And so they thought them far beyond others in happiness,
  1180  because the fear of death never troubled any of them,
  1181  and at the same time because in sleep they saw them do
- 1182  many marvelous things and yet take no labor from it themselves.
- 1183  Further, they saw the systems of heaven in fixed order
+ 1182  many marvelous things and take no labor from it themselves.
+ 1183  Further, they saw the order of heaven in its fixed sequence
  1184  and the various seasons of the years come round,
  1185  and could not learn by what causes this came about.
  1186  And so they made it their refuge to hand everything over
@@ -1220,23 +1220,23 @@ TRANSLATOR'S COMMENTARY
  1200  nor to lie prostrate on the ground and spread the palms
  1201  before the shrines of the gods, nor to sprinkle the altars
  1202  with much blood of four-footed beasts, nor to link vows to vows,
- 1203  but rather to be able to look on all things with a mind at peace.
+ 1203  but rather to be able to view all things with a mind at peace.
  1204  For when we look up at the heavenly precincts of the great
  1205  world, and the ether fixed above with glittering stars,
  1206  and the thought of the ways of sun and moon comes into the mind,
  1207  then into hearts weighed down with other evils that care
  1208  too begins to raise its head, roused awake:
- 1209  whether there may perhaps be some immeasurable power of the gods
+ 1209  lest there perhaps be some immeasurable power of the gods
  1210  over us, to turn the shining stars in their varied motion;
  1211  for poverty of reasoning assails the doubting mind,
- 1212  whether there was ever any generative origin of the world,
+ 1212  whether the world ever had any generative origin,
  1213  and also whether there is some end, how long the walls of the world
  1214  and their silent motion can bear this labor,
  1215  or whether, gifted by the gods with everlasting safety,
- 1216  they can glide on through the endless stretch of age
- 1217  and scorn the mighty strength of immeasurable age.
+ 1216  they can, gliding on through an everlasting tract of age,
+ 1217  scorn the strong forces of immeasurable age.
  1218  Further, whose mind does not shrink with fear of the gods,
- 1219  whose limbs do not creep with terror,
+ 1219  whose limbs do not shrink and creep with terror,
  1220  when beneath the horrible stroke of the thunderbolt the scorched earth
  1221  quakes, and murmurs run across the great sky?
  1222  Do not peoples and nations tremble, and proud kings
@@ -1256,8 +1256,8 @@ TRANSLATOR'S COMMENTARY
  1236  Finally, when the whole earth sways beneath our feet,
  1237  and cities fall, shaken, or threaten, unsteady, to fall,
  1238  what wonder if mortal generations despise themselves
- 1239  and leave room for great and marvelous powers,
- 1240  strengths of the gods in the world, to steer all things?
+ 1239  and consign great and marvelous powers
+ 1240  to the strengths of the gods in the world, to steer all things?
 
  1241  For the rest, bronze and gold and iron were discovered,
  1242  and with them the weight of silver and the power of lead,
@@ -1284,8 +1284,8 @@ TRANSLATOR'S COMMENTARY
  1263  could run into any form and face of things,
  1264  and further, could be drawn out by hammering
  1265  into points of blades as sharp and fine as one might wish,
- 1266  so they could make themselves weapons, and be able to cut forests,
- 1267  and hew timber, and plane beams smooth,
+ 1266  so they might make weapons and be able to cut down forests,
+ 1267  and hew the timber, and plane the beams smooth,
  1268  and bore too, and punch, and pierce holes through.
  1269  And they set about doing these things with silver and gold
  1270  no less than at first with the violent strength of tough bronze,
@@ -1293,7 +1293,7 @@ TRANSLATOR'S COMMENTARY
  1272  and could not equally endure the hard labor.
  1273  For bronze was then in higher esteem, and gold lay neglected
  1274  for its uselessness, blunted, with a dull edge;
- 1275  now bronze lies neglected, and gold has risen to the highest honor.
+ 1275  now bronze lies neglected, gold has risen to the highest honor.
  1276  So rolling time changes the seasons of things.
  1277  What was in esteem becomes at last of no honor;
  1278  then another thing succeeds and comes out of contempt,
@@ -1320,9 +1320,9 @@ TRANSLATOR'S COMMENTARY
  1299  than to try the dangers of war in a two-horse chariot.
  1300  And the two-horse chariot came before yoking two pairs,
  1301  and before mounting, armed, the scythe-bearing chariots.
- 1302  Then the Carthaginians taught the Lucanian oxen, tower-bodied, grim, {{NOTE: "Lucanian oxen" are elephants, first met by Romans in Lucania in Pyrrhus' army (280 BC)}}
- 1303  snake-handed, to endure the wounds of war
- 1304  and throw the great troops of Mars into confusion.
+ 1302  Then the Lucanian oxen, tower-bodied, grim, {{NOTE: "Lucanian oxen" are elephants, first met by Romans in Lucania in Pyrrhus' army (280 BC)}}
+ 1303  snake-handed, the Carthaginians taught to bear the wounds
+ 1304  of war, and throw the great troops of Mars into confusion.
  1305  So grim discord bore one thing after another
  1306  to be a horror to the races of men in arms,
  1307  and day by day added increase to the terrors of war.
@@ -1332,12 +1332,12 @@ TRANSLATOR'S COMMENTARY
  1311  with armed trainers and savage masters
  1312  who could control them and hold them in chains,
  1313  in vain, since, hot with the mingled slaughter,
- 1314  savage, they threw the squadrons into confusion without distinction,
+ 1314  savage, with no distinction, they threw the squadrons into rout,
  1315  shaking everywhere the terrifying crests of their heads,
  1316  nor could the horsemen soothe the hearts of their horses,
- 1317  terrified by the roaring, and turn them with the reins against the enemy.
+ 1317  frightened by the roaring, and turn them with reins on the enemy.
  1318  The lionesses, maddened, flung their bodies in a leap
- 1319  everywhere, and made for the faces of those coming against them, {{NOTE: source prints "patebant"; read "petebant", "made for"}}
+ 1319  on every side, and made for the faces of those who came on, {{NOTE: source prints "patebant"; read "petebant", "made for"}}
  1320  and dragged down from behind those not expecting it,
  1321  and, clasping them, brought them to the ground, overcome by wounds,
  1322  fastened on them with strong bites and hooked claws.
@@ -1348,7 +1348,7 @@ TRANSLATOR'S COMMENTARY
  1327  savage, dyeing with their own blood the weapons broken in them,
  1328  dyeing with their own blood the weapons broken against them, {{NOTE: 1327 and 1328 are alternative versions of one line; editors keep one}}
  1329  and made a mingled ruin of horsemen and foot.
- 1330  For the horses would shy sideways to escape the fierce thrust of the tusk,
+ 1330  For the horses shied sideways to escape the tusk's fierce thrust,
  1331  or rear up and paw at the winds with their feet,
  1332  in vain, since you would see them, hamstrung,
  1333  collapse and strew the earth with a heavy fall.
@@ -1362,11 +1362,11 @@ TRANSLATOR'S COMMENTARY
  1341  But they wished to do this not so much in hope of winning {{NOTE: many editors suspect 1341-1349 of being a later addition or an alternative draft}}
  1342  as to give the enemy cause to groan, even dying themselves,
  1343  those who distrusted their numbers and lacked arms,
- 1344  if indeed they did it. But I am hardly persuaded that beforehand
- 1345  they could not sense in their minds and see,
- 1346  before it happened, that it would be an evil, common and foul.
- 1347  And you could more readily maintain that this was done in the whole universe,
- 1348  in various worlds created in various ways,
+ 1344  if they did it at all. But I am hardly persuaded that they
+ 1345  could not have sensed in their minds beforehand and seen,
+ 1346  before it happened, how common and foul an evil it would be.
+ 1347  And you could more readily maintain this was done in the whole,
+ 1348  in various worlds created on various principles,
  1349  than on any one fixed globe of lands.
  1350  Knotted clothing came before woven covering.
  1351  Woven came after iron, since with iron the loom is made,
@@ -1381,7 +1381,7 @@ TRANSLATOR'S COMMENTARY
  1360  and in hard work to harden their limbs and hands.
 
  1361  But the model for sowing and the first origin of grafting
- 1362  was nature herself, the creator of things, {{NOTE: rerum natura creatrix; rerum goes with creatrix ("creator of things"), not the title phrase "the nature of things"; check against earlier occurrences (1.629, 2.1117)}}
+ 1362  was at first the nature of things herself, the creator,
  1363  since berries and acorns, falling from the trees,
  1364  put forth in their season swarms of young shoots beneath them;
  1365  from this they chose also to set slips into branches
@@ -1392,7 +1392,7 @@ TRANSLATOR'S COMMENTARY
  1370  And day by day they made the woods retreat farther up the mountain
  1371  and give up the ground below to tilled land,
  1372  meadows, ponds, streams, crops, and glad vineyards,
- 1373  so that they might have them on hills and plains, and a strip of olives,
+ 1373  so they might have them on hills and plains, and a strip of olives,
  1374  grey-blue, marking boundaries between, might run
  1375  over mounds and valleys and plains, spread wide;
  1376  as now you see it all marked out with varied charm,
@@ -1404,17 +1404,17 @@ TRANSLATOR'S COMMENTARY
  1382  And the whistling of the west wind through hollow reeds first
  1383  taught country people to blow into hollow hemlock stalks.
  1384  Then little by little they learned the sweet laments
- 1385  the pipe pours out when stopped by the players' fingers,
- 1386  the pipe found out through pathless groves and woods and glades,
- 1387  through the lonely haunts of shepherds and their leisure under the sky. {{NOTE: otia dia; dia may mean "divine" or "open-air"; Bailey takes it as leisure under the open sky}}
+ 1385  that the pipe pours out when struck by the players' fingers,
+ 1386  found out through pathless groves and woods and glades,
+ 1387  through the shepherds' lonely haunts and their leisure under the sky. {{NOTE: otia dia; dia may mean "divine" or "open-air"; Bailey takes it as leisure under the open sky}}
  1388  So, little by little, time draws out each several thing
- 1389  into the open, and reasoning brings it up into the shores of light. {{NOTE: refrain, repeated at 5.1454-1455 (eruit here, erigit there); luminis oras without dias, so not the full refrain "the shining shores of light"}}
+ 1389  into the open, and reasoning digs it up to the shores of light. {{NOTE: refrain, repeated at 5.1454-1455 (eruit here, erigit there); luminis oras without dias, so not the full refrain "the shining shores of light"}}
  1390  These things soothed their minds and gave them delight
  1391  when they were full of food; for then all things are dear to the heart.
  1392  And so, often, lying together on the soft grass {{NOTE: 5.1392-1396 nearly repeat 2.29-33; align verbatim with the Book 2 rendering}}
- 1393  beside a stream of water, under the branches of a tall tree,
- 1394  at no great cost they pleasantly refreshed their bodies,
- 1395  especially when the weather smiled and the seasons
+ 1393  beside a stream of water under the boughs of a tall tree,
+ 1394  with no great wealth they tended their bodies pleasantly,
+ 1395  above all when the weather smiled and the seasons
  1396  of the year painted the greening grass with flowers.
  1397  Then jokes, then talk, then sweet peals of laughter
  1398  were their custom; for then the country Muse was in her strength.
@@ -1423,18 +1423,18 @@ TRANSLATOR'S COMMENTARY
  1401  and to step out of time, moving their limbs
  1402  stiffly, and to strike mother earth with a stiff foot;
  1403  from which arose laughing and sweet peals of laughter,
- 1404  since all these things, new then, flourished more and seemed more wonderful.
+ 1404  since all these things then flourished the more, new and wonderful.
  1405  And from this the wakeful found a solace for lost sleep:
  1406  to draw out the voice in many ways and bend the tune,
  1407  and to run over the tops of the reeds with a curving lip;
- 1408  from which even now the watchmen keep these customs handed down,
- 1409  and they have learned to keep the measure in its kinds; and yet not a whit
+ 1408  from which even now the wakeful keep these customs handed down,
+ 1409  and the race has learned to keep the measure, and yet not a whit
  1410  greater is the fruit of sweetness they take from it meanwhile
  1411  than the woodland race of the earth-born used to take.
  1412  For what is at hand, unless we have known something before
  1413  sweeter, pleases above all and seems to prevail,
  1414  and as a rule the better thing found later
- 1415  destroys it and changes our feelings toward everything of old.
+ 1415  destroys it and changes our feelings toward all things of old.
  1416  So began disgust for the acorn, so those beds were abandoned,
  1417  strewn and heaped up with grass and leaves.
  1418  So too the clothing of wild beasts' skin fell into contempt;
@@ -1458,7 +1458,7 @@ TRANSLATOR'S COMMENTARY
  1436  But the watchmen, traversing the world's great revolving precinct, {{NOTE: templum = region or precinct of the sky, as with Acherusia templa (1.120); never "temple"}}
  1437  the sun and moon, encircling it with their light,
  1438  taught men thoroughly that the seasons of the years turn round
- 1439  and that the thing is carried on by a sure principle and in sure order.
+ 1439  and that things go by a sure principle and in a sure order.
  1440  Already they lived their lives fenced by strong towers,
  1441  and the earth was divided, parceled out, and tilled;
  1442  then the sea was in flower with sail-winged ships,
@@ -1474,7 +1474,7 @@ TRANSLATOR'S COMMENTARY
  1452  practice, together with the experience of the unflagging mind,
  1453  taught little by little as men advanced step by step.
  1454  So, little by little, time draws out each several thing
- 1455  into the open, and reasoning raises it into the shores of light;
+ 1455  into the open, and reasoning raises it to the shores of light;
  1456  for they saw one thing after another grow clear in their hearts,
  1457  until by their arts they came to the highest peak.
 

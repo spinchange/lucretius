@@ -2,7 +2,8 @@
 
 Written 2026-10-30 at the end of the session that drafted Books 2-6 and
 reviewed Book 1; updated the same day after the Book 2 review, the Book 1
-audiobook build, the Book 3 review, and the Book 4 review. Read this, `README.md` and `translation/CONVENTIONS.md`
+audiobook build, the Book 3 review, the Book 4 review, and the Book 5
+review. Read this, `README.md` and `translation/CONVENTIONS.md`
 before touching anything. The manifest (`segments/manifest.json`) is the
 source of truth for what has been done to each segment.
 
@@ -13,8 +14,8 @@ source of truth for what has been done to each segment.
 | translate (Opus) | 58/58 | every segment passes `check_segment` |
 | fidelity (Sonnet) | 58/58 | findings tables in `segments/bNN/sKK.fidelity.txt` |
 | annotate (Sonnet) | 58/58 | draft notes, all marked DRAFT |
-| review (translator, Fable) | Books 1-4 (36/36) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines, Book 3: 89, Book 4: 92 lines patched |
-| assemble | all six books | `translation/book_0N.txt`; Books 1-4 from review text |
+| review (translator, Fable) | Books 1-5 (48/48) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines, Book 3: 89, Book 4: 92, Book 5: 206 lines patched |
+| assemble | all six books | `translation/book_0N.txt`; Books 1-5 from review text |
 | notes | none final | 302 `{{NOTE: ...}}` placeholders across the books |
 | margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
 | audiobook | Book 1 built | `audiobook-build-book01/books/book-01-full.wav` and `-review.m4a` (untracked) |
@@ -165,27 +166,68 @@ doubled diaeresis forms at 4.136, 4.187, 4.198, 4.247, 4.251, 4.274-275,
 4.846, 4.892, 4.933, 4.937, 4.954; "corum" for eorum at 4.116; "ainesse"
 at 4.823 (the vehementer inesse crux). The English reads the plain word.
 
-## Starting Book 5 (next session)
+## Book 5 review (done 2026-10-30)
+
+Book 5 is twelve segments, b05s00 to b05s11 (5.1-1457). 206 lines patched;
+reasons are `#` comments in the patch files. About two thirds of the patches
+are band work: the Opus draft of Book 5 ran long (roughly ninety lines of
+17-22 syllables, and a few of 6-8), and every segment is now at 97% or
+better. Sonnet's two findings both accepted: 5.53, where the draft had
+translated an emendation (immortalibus) instead of the printed "iam
+mortalibus e divis" (the English now follows the printed text, with a note
+on the other reading); 5.1409, genus is the subject of didicere. Secondaries:
+5.72 (vesci = make use of), 5.349 (inter nos = among ourselves), 5.372
+(parallel to exspargi), 5.709 and 5.754 (eius, ei = the sun, named), 5.1095
+(caeli plaga = a quarter of the sky), 5.1209 (fear clause), 5.1239
+(relinquunt = consign), 5.1386 (reperta passive), 5.1408 (vigiles = the
+wakeful) accepted; 5.58 rejected (aevum has no single fixed rendering and
+"time" is the sense of aevi leges). Found on the full read: 5.31 Thracia
+locative; 5.186 species creandi = a likeness of creation; 5.1031 infantia
+linguae = the tongue's own infancy; 5.1302-1304 rebalanced so Poeni stays in
+its line; 5.1344-1346 recast (ante ... quam = before it happened). Register:
+aetherius sol = the sun in the ether (5.215, 5.267, 5.281, 5.389); caeli
+rationes = the order of heaven (5.196, 5.1183) and ratio solis = the order of
+the sun (5.614); pari / simili ratione = on a like principle (5.643, 5.910);
+mobilitas = mobility (5.858); "the shores of light" where the Latin lacks
+dias (5.224, 5.781, 5.1389, 5.1455). No scientific anachronism was found in
+the cosmogony or the history of civilization; no "particles", "nerves",
+"soul", "superstition" or dashes. Refrains: the full list is in
+`translation/CONVENTIONS.md` under "Refrains fixed in Book 5"; the main
+borrowings are 5.111-112 from Book 1, 5.128-140 and 5.351-363 from Book 3,
+5.196-199 from Book 2, 5.419-421 from Book 1, 5.882 and 5.1385 from Book 4.
+Only b06s03 still fails the syllable-band check.
+
+Source-text artifacts seen in `latin/` for Book 5, for the OCT collation:
+doubled diaeresis forms at 5.254, 5.273, 5.276, 5.278, 5.434, 5.490, 5.498,
+5.501-502, 5.511, 5.522, 5.538, 5.553, 5.562, 5.580, 5.605-606, 5.637,
+5.645, 5.653, 5.696, 5.825; "poetaepoëtae" at 5.327, 5.405, 5.1444;
+"suessesuësse" at 5.912; "coegitcoëgit" at 5.1354; "tutaTA" at 5.859;
+"patebant" for petebant at 5.1319. The English reads the plain word.
+
+## Starting Book 6 (next session)
 
 1. Open the repo, check `git log`, run `python tools/check_segment.py --all`
    (exit 1 is expected until the review reaches b06s03) and
-   `python tools/refrains.py 5 --earlier`.
-2. Book 5 is twelve segments, b05s00 to b05s11 (5.1-1457). Read the fidelity
+   `python tools/refrains.py 6 --earlier`.
+2. Book 6 is ten segments, b06s00 to b06s09 (6.1-1286). Read the fidelity
    files first; weigh every finding and secondary.
-3. Refrains to take from earlier review text: 5.196-197 = 2.178-179;
-   5.224 and 5.781 "the shining shores of light"; 5.234 natura daedala rerum
-   = "nature, artificer of things"; 5.351-363 = 3.806-818 (take the Book 3
-   text where identical); 5.430-431 = 2.1062-1063; 5.441 = 2.726; 5.882 =
-   4.53; 5.1385 = 4.585. Run the refrains tool for the rest.
-4. Register points in Book 5: no scientific anachronism in the cosmogony
-   and the history of civilization (no "evolution", no "atoms"); mundus =
-   world; sweep principia = beginnings and exordia = origins (5.430) with the
-   script as before; check "particles", "nerves", "soul", "superstition".
-5. Patch, `python tools/review.py b05sKK segments/b05/sKK.patch.tsv`,
-   `python tools/assemble.py 5`, commit with the usual identity (user.name
+3. Refrains to take from earlier review text: 6.35-41 = 2.55-61 (and
+   1.146-148); 6.58-66 = 5.82-90 (take the Book 5 review text; 6.69-70 =
+   1.76-77); 6.94-95 (check the tool's match); 6.252 = 4.171; 6.635-638 =
+   5.269-272; 6.923-935 = 4.217-229. Run the refrains tool for the rest.
+4. Register points in Book 6: no scientific anachronism in the meteorology
+   and the plague (no "electricity", no "magnetism" as a force name, no
+   "bacteria" or "infection" where the Latin has none); the magnet passage
+   (6.906-1089) keeps lapis Magnes as the Latin names it; sweep principia =
+   beginnings and exordia = origins with the script as before; check
+   "particles", "nerves", "soul", "superstition", dashes.
+5. b06s03 (6.357-469) is at 80% in the band with three 20-21-syllable
+   outliers; b06s06 at 84%. Expect more band work than usual.
+6. Patch, `python tools/review.py b06sKK segments/b06/sKK.patch.tsv`,
+   `python tools/assemble.py 6`, commit with the usual identity (user.name
    spinchange, user.email spinchange@users.noreply.github.com,
    core.safecrlf=false), message ending with the Claude co-author line.
-6. Update `translation/CONVENTIONS.md` with any new fixed terms and the table
+7. Update `translation/CONVENTIONS.md` with any new fixed terms and the table
    at the top of this file.
 
 ## After the reviews
