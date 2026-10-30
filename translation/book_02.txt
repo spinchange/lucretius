@@ -1,18 +1,74 @@
 BOOK 2
 
-[argument: one sentence, to be written]
+The serene heights of philosophy; the motions of the first-beginnings in the
+void, their speed, their fall, and the swerve; the variety and finite range
+of their shapes; everything is made of mingled seed, and the Great Mother's
+procession is explained away; the first-beginnings have no color, no other
+quality and no sense; there are other worlds than ours; and this world, like
+everything made, grows, decays and will die.
 
 TRANSLATOR'S COMMENTARY
 
-[to be written]
+The text followed is the printed Perseus text, as in Book 1. It prints 6
+before 5, and 680 after 659, and the translation keeps the printed order and
+numbers in both places. Four gaps are marked and left unfilled: after 164,
+after 465, after 528 and after 903. Line 636 is a copyist's garbling of 635
+and 637 that editors delete; it is printed, and the translation renders it
+as it stands. Lines 43, 105-106, 533, 719 and 911 are uncertain in text or
+sense, and the English gives the printed text its most natural reading, with
+a note at each. At 289 ("the thing itself") and 1169 ("the drift of time")
+the translation keeps the printed word where many editors emend. It leaves
+the printed word twice: at 829 it reads ostrum, "purple cloth", for the
+meaningless austrum, and at 1061 coaluerunt, "grew together", for coluerunt,
+"tilled", with most editors; the notes say so.
+
+Three names for the ultimate bodies appear in this book, and the English
+keeps them apart as Lucretius does: primordia is "first-beginnings",
+principia "beginnings", and exordia, which first appears at 333, "origins".
+Concilium and conciliatus, the combination that makes a thing, are "union";
+mobilitas, the book's first subject, is "mobility", never "speed", because
+Lucretius means a power of moving and not a rate. Declinare and clinamen are
+both "swerve". Simulacra are "images" wherever the word occurs, including
+the everyday senses it has here (statues at 24, mock battles at 41 and 324,
+a picture at 112), so that the technical use in Book 4 is seen to grow out
+of the ordinary one. Animi iniectus at 740 and animi iactus at 1047, the
+mind's reaching out to what the senses cannot touch, are "casting" and
+"cast" of the mind. Religiones in the plural (44) stays "religions", the
+plain word strained as the Latin strains it.
+
+The book's refrains are listed in the register. The children in the dark
+(55-58) and the three lines that follow them (59-61, from 1.146-148) open
+the argument here and open Books 3 and 6; 646-651 repeat 1.44-49; 753-754
+and 756 repeat 1.670-671 and 1.673; 336-337 return at 723-724 and 694;
+478-479 at 522-523; the list of 726-727 at 1020-1021. Where the Latin
+repeats, the English repeats its own earlier line word for word, and the
+lines first fixed here are taken over verbatim where Books 3, 5 and 6 borrow
+them (3.87-90, 5.196-197, 5.431, 5.441, 6.35-38).
+
+The book begins with the most famous of the poem's openings, the watcher on
+the shore, and sets out the few things nature needs (1-61). Then come the
+motions of the first-beginnings: that they never rest (62-141), their speed
+(142-166), the aside against a world made for man (167-183), the proof that
+nothing rises by its own force (184-215), and the swerve (216-293), which
+Lucretius makes the ground of the will. The sum of things is unchanging and
+seems at rest (294-332). The shapes of the first-beginnings are many and
+account for what pleases and hurts the senses (333-477), finite in range
+(478-521), and infinite in number within each shape (522-580). Everything is
+made of mingled seed (581-729), and in this stretch comes the long
+description of the Great Mother's procession, set out with care and then
+dismissed in two lines. The first-beginnings have no color (730-841), no
+other quality (842-864) and no sense (865-1022). The book ends by widening
+the view: other worlds beyond this one (1023-1104), and the growth, old age
+and coming death of this one (1105-1174), with the old farmer who blames the
+times and does not see that everything is wearing out together.
 
 ------------------------------------------------------------
 
-    1  Sweet it is, when on the great sea the winds are churning the waters,
+    1  Sweet it is[1], when on the great sea the winds are churning the waters,
     2  to watch from land the great toil of another;
     3  not because anyone's distress is a delightful pleasure,
     4  but because it is sweet to see what evils you yourself are free of.
-    6  Sweet, too, to look upon the great contests of war {{NOTE: 2.6 printed before 2.5 in the source (editorial transposition); order kept}}
+    6  Sweet, too, to look upon the great contests of war[2]
     5  drawn up across the plains, with no share of your own in the danger;
     7  but nothing is sweeter than to hold, well fortified,
     8  by the teaching of the wise, the serene precincts set on high,
@@ -24,18 +80,18 @@ TRANSLATOR'S COMMENTARY
    14  O miserable minds of men, O blind hearts!
    15  In what darkness of life and in how great dangers
    16  this span of life, whatever it is, is passed! Do you not see
-   17  that nature barks for nothing else for herself than this, that {{NOTE: "barks" (latrare): Lucretius's own blunt word for nature's demand}}
+   17  that nature barks[3] for nothing else for herself than this, that
    18  pain be parted from the body and be absent, and the mind enjoy
    19  a pleasant sense of things, set apart from care and fear?
    20  Therefore we see that for the body's nature few things
    21  are needed at all: such things as take away pain,
    22  and such that they can also spread out many delights for us,
    23  more welcome now and then; nor does nature herself require,
-   24  if there are no golden images of youths about the halls
+   24  if there are no golden images of youths[4] about the halls
    25  holding fire-bearing lamps in their right hands
    26  so that light may be supplied for feasts by night,
    27  nor the house gleam with silver and shine with gold,
-   28  nor lyres echo through paneled and gilded rafters, {{NOTE: templa here = the roof-beams or coffered ceiling of a hall, not temples}}
+   28  nor lyres echo through paneled and gilded rafters[5],
    29  when still, lying together on the soft grass
    30  beside a stream of water under the boughs of a tall tree,
    31  with no great wealth they tend their bodies pleasantly,
@@ -47,11 +103,11 @@ TRANSLATOR'S COMMENTARY
    37  Therefore, since in our body treasures are of no profit,
    38  nor nobility, nor the glory of a kingdom,
    39  for the rest, we must think they do the mind no good either;
-   40  unless perhaps, when you see your legions across the Campus {{NOTE: the Campus Martius at Rome, where troops drilled}}
-   41  seething as they stir up the images of war, {{NOTE: belli simulacra: mock battles, field exercises; simulacra kept as "images"}}
+   40  unless perhaps, when you see your legions across the Campus[6]
+   41  seething as they stir up the images of war,
    42  made firm with great reserves and a force of wealth,
-   43  your ships fitted out with arms, all alike full of spirit, {{NOTE: stlattas (a broad-built ship) is the printed text of a corrupt line; readings and sense here are disputed}}
-   44  then, before these things, the religions in their terror
+   43  your ships fitted out with arms, all alike full of spirit,
+   44  then, before these things, the religions[7] in their terror
    45  flee panic-stricken from your mind, and the fears of death
    46  then leave your heart empty and loosed from care.
    47  But if we see that these things are laughable and a mockery,
@@ -62,17 +118,17 @@ TRANSLATOR'S COMMENTARY
    52  nor the bright splendor of a purple robe,
    53  why do you doubt that this power belongs wholly to reasoning,
    54  especially when all life labors in darkness?
-   55  For just as children tremble and fear everything
+   55  For just as children tremble and fear everything[8]
    56  in blind darkness, so we in the light are afraid
    57  at times of things that are no more to be feared than
    58  what children in the dark shudder at and imagine will come.
-   59  This terror of the mind, then, and this darkness {{NOTE: 2.59-61 repeat 1.146-148 verbatim; the English repeats its own lines}}
+   59  This terror of the mind, then, and this darkness
    60  must be scattered not by the sun's rays or the bright shafts of day
    61  but by the face and reasoning of nature.
    62  Come now, by what motion the generative bodies of matter
    63  beget the various things and dissolve them once begotten,
    64  and by what force they are compelled to do it, and what
-   65  mobility is given them for travelling through the great void,
+   65  mobility[9] is given them for travelling through the great void,
    66  I shall explain; you, remember to give yourself to my words.
    67  For certainly matter does not cling together, packed close
    68  in a mass, since we see each thing diminish,
@@ -86,7 +142,7 @@ TRANSLATOR'S COMMENTARY
    76  renewed, and mortals live by exchange among themselves.
    77  Some races increase, others are diminished,
    78  and in a brief space the generations of living things are changed
-   79  and like runners pass on the torch of life. {{NOTE: the relay torch race, in which runners handed a lit torch from one to the next}}
+   79  and like runners pass on the torch of life[10].
    80  If you think the first-beginnings of things can stand still
    81  and by standing still beget new motions of things,
    82  you wander far astray from true reasoning.
@@ -101,18 +157,18 @@ TRANSLATOR'S COMMENTARY
    91  has no bottom in the sum, and the first bodies have no place
    92  to come to rest, since space is without end or limit,
    93  and spreads immeasurable in all directions everywhere
-   94  I have shown in many words and proved by sure reasoning. {{NOTE: referring back to 1.951-1051}}
+   94  I have shown in many words and proved by sure reasoning.[11]
    95  And since this is settled, surely no rest
    96  is given to the first bodies through the deep void,
    97  but rather, driven by unceasing and varied motion,
    98  some, when they have collided, leap back over great intervals,
    99  and some are harried by the blow within short spaces.
-  100  And all those that, in a denser union,
+  100  And all those that, in a denser union[12],
   101  brought together, rebound across small intervals,
   102  entangled by their own interlocking shapes,
   103  these form the strong roots of rock and the savage bodies
   104  of iron, and the other things of this kind.
-  105  Those few others that wander on through the great void {{NOTE: the text of 2.105-106 is uncertain; rendered as printed}}
+  105  Those few others that wander on through the great void[13]
   106  leap far apart and run far back again
   107  across great intervals; these furnish us the thin air
   108  and the shining light of the sun.
@@ -123,7 +179,7 @@ TRANSLATOR'S COMMENTARY
   113  is always turning before our eyes and pressing on us.
   114  For look closely, whenever the sun's light is poured
   115  by rays let in through the darkened places of houses:
-  116  you will see many minute bodies in many ways, through the void,
+  116  you will see many minute bodies[14] in many ways, through the void,
   117  mingling in the very light of the rays,
   118  and as though in everlasting conflict waging wars and battles,
   119  fighting troop by troop, and giving no pause,
@@ -139,7 +195,7 @@ TRANSLATOR'S COMMENTARY
   129  For you will see many there, struck by blind blows,
   130  change their course and, driven back, return,
   131  now this way, now that, in all directions everywhere.
-  132  This wandering, you may be sure, all comes from the beginnings. {{NOTE: error = "wandering", the literal sense; principia rendered "beginnings", distinct from primordia "first-beginnings"}}
+  132  This wandering, you may be sure, all comes from the beginnings[15].
   133  For first the first-beginnings of things move of themselves;
   134  then those bodies that are formed of a small union
   135  and are, as it were, nearest to the strength of the beginnings
@@ -159,7 +215,7 @@ TRANSLATOR'S COMMENTARY
   148  to clothe all things, flooding them with his light,
   149  we see to be ready to hand and plain for all.
   150  But that heat which the sun sends out, and its calm light,
-  151  does not travel through empty void; and so it is forced {{NOTE: inane vacuum, "empty void": Lucretius doubles the term for emphasis; "void" stays fixed}}
+  151  does not travel through empty void[16]; and so it is forced
   152  to go more slowly, as it beats its way, as it were, through waves of air;
   153  nor do the little bodies of heat travel one by one,
   154  but tangled with one another and massed together;
@@ -173,10 +229,10 @@ TRANSLATOR'S COMMENTARY
   162  and be carried far more swiftly than the light of the sun,
   163  and run through many times the extent of space in the same
   164  time in which the sun's flashes spread through heaven.
- 164a  * * * {{NOTE: the source marks lost text here; the sense picks up mid-sentence, apparently about people who do not follow out the motions of the atoms}}
+ 164a  * * *[17]
   165  nor to follow out each single first-beginning,
   166  to see by what principle each thing comes about.
-  167  But some, against this, ignorant of matter,
+  167  But some, against this[18], ignorant of matter,
   168  hold that nature cannot, without the power of the gods,
   169  so closely fitted, in such measure, to human needs,
   170  change the seasons of the years and create the crops
@@ -190,7 +246,7 @@ TRANSLATOR'S COMMENTARY
   178  this, still, from the very order of heaven I would dare
   179  to affirm, and to show from many other things,
   180  that by no means for us, by divine power, was created
-  181  the nature of the world: so great the flaws it stands endowed with. {{NOTE: the argument is given at 5.195-234}}
+  181  the nature of the world: so great the flaws it stands endowed with.
   182  These things, Memmius, I will make plain to you later;
   183  now I will set out what remains concerning motions.
   184  Now is the place, I think, in these matters to prove this too
@@ -215,7 +271,7 @@ TRANSLATOR'S COMMENTARY
   203  So in the same way flames too must be able, through the breezes
   204  of air, squeezed out, to climb upward, although
   205  their weights, as far as in them lies, fight to draw them down.
-  206  And the night torches of heaven, flying aloft, {{NOTE: meteors}}
+  206  And the night torches of heaven[19], flying aloft,
   207  do you not see them draw long trails of flame
   208  toward whatever quarter nature has given them passage?
   209  Do you not see stars and constellations falling to the earth?
@@ -230,10 +286,10 @@ TRANSLATOR'S COMMENTARY
   218  by their own weights, at quite uncertain times
   219  and uncertain places they push off a little from their course,
   220  just so much that you could call it a change of motion.
-  221  For if they were not used to swerve, all things would fall {{NOTE: declinare, "swerve": first statement of the swerve; the noun clinamen comes at 2.292}}
+  221  For if they were not used to swerve[20], all things would fall
   222  downward like drops of rain through the deep void,
   223  and no collision would arise, no blow be created
-  224  for the beginnings; so nature would never have created anything. {{NOTE: principia, "beginnings": Lucretius's synonym for primordia, kept distinct from "first-beginnings"}}
+  224  for the beginnings; so nature would never have created anything.
   225  But if perhaps someone believes that heavier bodies,
   226  because they are carried more swiftly straight through the void,
   227  can fall from above upon the lighter, and so beget
@@ -248,7 +304,7 @@ TRANSLATOR'S COMMENTARY
   236  time, hold up anything at all,
   237  but must go on giving way, as its nature seeks;
   238  therefore all things must, through the calm void,
-  239  be carried at equal speed, though driven by unequal weights.
+  239  be carried at equal speed[21], though driven by unequal weights.
   240  Therefore heavier things will never be able to fall
   241  from above upon lighter ones, nor of themselves beget the blows
   242  that vary the motions by which nature carries on things.
@@ -263,7 +319,7 @@ TRANSLATOR'S COMMENTARY
   251  Finally, if every motion is always linked,
   252  and the new always arises from the old in a fixed order,
   253  and the first-beginnings do not by swerving make
-  254  some beginning of motion to break the covenants of fate, {{NOTE: fati foedera, "the covenants of fate": set against nature's covenants (foedera naturae)}}
+  254  some beginning of motion to break the covenants of fate[22],
   255  so that cause should not follow cause from infinity,
   256  from where does it arise, free, for living things throughout the earth,
   257  from where, I ask, is this will wrested away from the fates,
@@ -272,13 +328,13 @@ TRANSLATOR'S COMMENTARY
   260  and at no fixed place, but where the mind itself has carried us?
   261  For beyond doubt in these things each one's own will
   262  gives the beginning, and from it motions flow out through the limbs.
-  263  Do you not see too that, when in an instant of time the starting-gates
+  263  Do you not see too that, when in an instant of time the starting-gates[23]
   264  are thrown open, the eager strength of the horses still cannot
   265  burst forth as suddenly as their mind itself longs to?
   266  For all the matter throughout the whole body, its whole
   267  store, must be roused, so that, roused through all the limbs,
   268  it may strain together and follow the mind's desire;
-  269  so you may see that the start of motion is created by the heart,
+  269  so you may see that the start of motion is created by the heart[24],
   270  and that it goes forth first from the will of the mind,
   271  and is then passed on through the whole body and limbs.
   272  Nor is it the same as when we go forward pushed by a blow,
@@ -298,16 +354,16 @@ TRANSLATOR'S COMMENTARY
   286  of motions, from which this power is born in us,
   287  since we see that nothing can come to be from nothing.
   288  For weight prevents all things from coming about by blows,
-  289  as by a force from outside; but that the thing itself should not {{NOTE: res ipsa, "the thing itself", as in the source; many editors read mens ipsa, "the mind itself"}}
+  289  as by a force from outside; but that the thing itself[25] should not
   290  hold an inward necessity in doing all things,
   291  and be compelled, as if conquered, to bear and suffer,
-  292  this is brought about by the tiny swerve of the beginnings {{NOTE: clinamen, "swerve": the poem's only use of the noun}}
+  292  this is brought about by the tiny swerve[26] of the beginnings
   293  at no fixed place and at no fixed time.
 
   294  Nor was the store of matter ever more tightly packed
   295  than now, nor again spread apart by greater intervals;
-  296  for nothing is added to it, and nothing perishes from it.
-  297  Therefore the motion in which the bodies of the beginnings {{NOTE: principia, "beginnings", Lucretius's alternative term for the first-beginnings (primordia)}}
+  296  for nothing is added to it, and nothing perishes from it.[27]
+  297  Therefore the motion in which the bodies of the beginnings
   298  are now is the same motion they were in through ages gone by,
   299  and hereafter they will always be carried in like manner,
   300  and what has been wont to be born will be born under the same
@@ -320,21 +376,21 @@ TRANSLATOR'S COMMENTARY
   307  nature of things and turn its motions aside.
   308  In these matters it is no wonder why,
   309  although all the first-beginnings of things are in motion,
-  310  the sum nonetheless seems to stand in utmost rest, {{NOTE: summa ... summa: Lucretius plays "the sum" against "utmost"}}
+  310  the sum nonetheless seems to stand in utmost rest[28],
   311  except where some thing makes motions with its own body.
   312  For the whole nature of the first bodies lies far below
   313  our senses, out of reach; therefore, since you cannot see
   314  the bodies themselves, their motions too must steal away from sight;
   315  the more so since even things that we can see still often hide
   316  their motions when withdrawn from us by a distance of place.
-  317  For often on a hill, cropping the glad pastures,
+  317  For often on a hill, cropping the glad pastures,[29]
   318  the woolly flocks creep on wherever, calling each one,
   319  the grasses invite them, jeweled with fresh dew,
   320  and the lambs, filled full, play and gently butt their heads;
   321  yet all these, seen from far off, seem to us blurred together,
   322  like a whiteness standing still on a green hill.
   323  Again, when great legions fill the spaces of the plains
-  324  with their running, stirring up the images of war, {{NOTE: simulacra belli, mock battle or maneuvers; "images" kept as the fixed rendering of simulacra}}
+  324  with their running, stirring up the images of war,
   325  when the glitter lifts itself to the sky and all the earth around
   326  shines back with bronze, and beneath, from the force of men,
   327  a sound is roused by their feet, and the mountains, struck
@@ -343,10 +399,10 @@ TRANSLATOR'S COMMENTARY
   330  the middle of the plains, shaking them with their strong charge;
   331  and yet there is some place on the high mountains from which
   332  they seem to stand still, a glitter resting on the plains.
-  333  Come now, next learn of what sort the origins
+  333  Come now, next learn of what sort the origins[30]
   334  of all things are, and how far they differ in their forms,
   335  how varied they are, in shapes of many kinds;
-  336  not that few are endowed with a like form,
+  336  not that few are endowed with a like form,[31]
   337  but because, as a rule, not all are alike to all.
   338  Nor is it a wonder; for since their store is so great
   339  that there is neither end, as I have taught, nor any sum to it,
@@ -363,7 +419,7 @@ TRANSLATOR'S COMMENTARY
   350  nor mother offspring; yet we see that they can,
   351  and that they are known to one another no less than men are.
   352  For often before the fair shrines of the gods a calf
-  353  falls slaughtered beside the incense-burning altars,
+  353  falls slaughtered beside the incense-burning altars[32],
   354  breathing out a warm river of blood from its breast;
   355  but the bereaved mother, wandering through the green glades,
   356  knows the prints pressed into the ground by cloven hooves,
@@ -411,7 +467,7 @@ TRANSLATOR'S COMMENTARY
   398  Add to this that the liquids of honey and of milk
   399  are handled in the mouth with a pleasant feeling on the tongue;
   400  but on the other hand the loathsome nature of wormwood and of wild
-  401  centaury twists the mouth with its foul taste;
+  401  centaury[33] twists the mouth with its foul taste;
   402  so that you can easily recognize that of smooth and round bodies
   403  are made the things that can touch the senses pleasantly,
   404  but on the other hand whatever seems bitter and harsh,
@@ -422,12 +478,12 @@ TRANSLATOR'S COMMENTARY
   409  are at war with one another, made of unlike shape;
   410  lest you should perhaps think that the harsh shudder
   411  of the screeching saw consists of elements as smooth
-  412  as the Muses' melodies, which musicians, along the strings,
+  412  as the Muses' melodies[34], which musicians, along the strings,
   413  wake with nimble fingers and give form to;
   414  nor should you think that first-beginnings of like form pierce
   415  into men's nostrils when foul corpses are burning
-  416  and when the stage is freshly sprinkled with Cilician saffron
-  417  and the altar nearby breathes out the perfumes of Panchaea; {{NOTE: Panchaea, a fabled land of incense in the far east, off Arabia}}
+  416  and when the stage is freshly sprinkled with Cilician saffron[35]
+  417  and the altar nearby breathes out the perfumes of Panchaea;
   418  nor suppose the pleasant colors of things are made of like
   419  seed, the colors that can feast the eyes,
   420  and those that prick the sight and force it to weep,
@@ -440,11 +496,11 @@ TRANSLATOR'S COMMENTARY
   427  nor altogether hooked with bent points,
   428  but rather made with little angles jutting out a little, such as
   429  can tickle the senses rather than hurt them;
-  430  of which kind are wine-lees and the flavors of elecampane.
+  430  of which kind are wine-lees and the flavors of elecampane[36].
   431  Finally, that hot fires and icy frost
   432  are toothed in unlike ways and so prick the senses
   433  of the body, the touch of each gives us proof.
-  434  For touch, touch, by the holy powers of the gods,
+  434  For touch, touch[37], by the holy powers of the gods,
   435  is the sense of the body, whether when a thing from outside
   436  works its way in, or when a thing born in the body hurts it,
   437  or gives delight going out through the generative acts of Venus,
@@ -457,7 +513,7 @@ TRANSLATOR'S COMMENTARY
   444  Finally, the things that seem to us hardened and dense,
   445  these must consist of elements more hooked together
   446  and be held fast, compacted deep, as if by branches.
-  447  In this class, first of all, stand rocks of adamant
+  447  In this class, first of all, stand rocks of adamant[38]
   448  in the front line, used to scorning blows,
   449  and strong flints, and the strength of hard iron,
   450  and bronze that shrieks as it holds out against the bolts.
@@ -476,7 +532,7 @@ TRANSLATOR'S COMMENTARY
   463  is made not of tangled but of sharp elements.
   464  But that you see the same things bitter that are fluid,
   465  as the sweat of the sea is, ought to be no wonder at all
- 465a  * * * {{NOTE: a line is lost here; the text is not supplied}}
+ 465a  * * *[39]
   466  For because it is fluid, it is made of smooth and round bodies,
   467  but mixed in with the smooth are hooked
   468  bodies of pain. Yet these hooked ones need not be held fast:
@@ -484,20 +540,20 @@ TRANSLATOR'S COMMENTARY
   469  clearly they are round nonetheless, rough though they are,
   470  so that they can roll forward together and yet hurt the senses.
   471  And that you may believe the more that rough are mixed with smooth
-  472  beginnings, of which the bitter body of Neptune consists, {{NOTE: Neptune's body: the sea}}
+  472  beginnings, of which the bitter body of Neptune[40] consists,
   473  there is a way of separating them and seeing them apart:
   474  the moisture grows sweet when, through the earth, the same moisture
   475  is filtered through many times, to flow into a pit and grow mild;
   476  for it leaves behind, above, the first-beginnings of the foul brine,
   477  since, being rough, they can cling the more within the earth.
-  478  Since I have taught this, I will go on to join to it a fact {{NOTE: 478-479 recur verbatim at 522-523}}
+  478  Since I have taught this, I will go on to join to it a fact[41]
   479  which, fitted to this, draws its credit: that the first-beginnings of things
   480  vary within a finite range of shapes.
   481  For if it were not so, then again certain seeds
   482  will have to be infinite in the growth of their bodies.
   483  For within the one same smallness of any given
   484  body, the shapes cannot vary much from one another;
-  485  they cannot. For suppose that of least parts, three of them,
+  485  they cannot. For suppose that of least parts[42], three of them,
   486  the first bodies are made, or add a few more to these;
   487  surely, when all those parts of a single body
   488  you have set at top and bottom, and changed the right for the left,
@@ -512,12 +568,12 @@ TRANSLATOR'S COMMENTARY
   497  that seeds exist distinguished by infinite forms,
   498  lest you force certain of them to be of monstrous greatness,
   499  which I have already shown above cannot be proved.
-  500  Then barbarian robes and the gleaming Meliboean purple, {{NOTE: Meliboea, a town in Thessaly famed for purple dye from shellfish}}
+  500  Then barbarian robes and the gleaming Meliboean purple[43],
   501  dipped in the Thessalian color of the shells,
   502  the golden race of peacocks, steeped in laughing charm,
   503  would lie outdone by some new color in things,
   504  and the smell of myrrh would be scorned, and the savors of honey,
-  505  and the swan's notes and the intricate strains of Phoebus' strings {{NOTE: daedala, elsewhere "artificer"; here an adjective of the songs}}
+  505  and the swan's notes and the intricate strains of Phoebus' strings
   506  would fall silent, overpowered in like manner;
   507  for one thing would always rise more excellent than another.
   508  So too all things could fall back toward the worse,
@@ -541,16 +597,16 @@ TRANSLATOR'S COMMENTARY
   526  of forms is finite, it must be that those that are alike
   527  are infinite, or else that the sum of matter
   528  is finite, which I have proved is not so.
- 528a  * * * {{NOTE: the source marks lost text here; nothing supplied}}
+ 528a  * * *[44]
   529  I will show in verses that the little bodies of matter
   530  from infinity keep the sum of things going
-  531  on every side, by an unbroken relay of blows.
+  531  on every side, by an unbroken relay of blows[45].
   532  For as to your seeing certain animals to be rarer,
-  533  and discerning in those others a nature more fruitful, {{NOTE: crux: "in illis" taken of the commoner kinds; some editors read minus, "less", for magis}}
+  533  and discerning in those others a nature more fruitful,[46]
   534  yet in another region and place, in far-off lands,
   535  there may be many of that kind, and the number made up;
   536  as among four-footed beasts we see, first of all,
-  537  the kind of snake-handed elephants, by whose many thousands
+  537  the kind of snake-handed[47] elephants, by whose many thousands
   538  India is fortified with a rampart of ivory,
   539  so that it cannot be entered deep: so great is the force
   540  of these beasts, of which we see very few examples.
@@ -572,7 +628,7 @@ TRANSLATOR'S COMMENTARY
   556  are seen, and give mortals a warning
   557  to shun the snares of the faithless sea, its strength and guile,
   558  and never at any time to trust it,
-  559  when the sly enticement of the calm sea laughs,
+  559  when the sly enticement of the calm sea laughs[48],
   560  so, if once you establish certain first-beginnings as finite,
   561  they will have to be scattered through all time
   562  and tossed apart by the conflicting tides of matter,
@@ -586,11 +642,11 @@ TRANSLATOR'S COMMENTARY
   570  forever, nor bury safety for eternity,
   571  nor again can the motions that beget and increase things
   572  keep forever what they have created.
-  573  So in an equal struggle of the beginnings is waged
+  573  So in an equal struggle[49] of the beginnings is waged
   574  a war entered on from infinite time.
   575  Now here, now there the life-giving powers of things conquer
   576  and are conquered in turn. With the funeral is mixed the wail
-  577  that infants raise as they look on the shores of light; {{NOTE: register lists 2.577 under "the shining shores of light", but the Latin here lacks dias; "shining" omitted}}
+  577  that infants raise as they look on the shores of light;
   578  and no night has followed day, no dawn the night,
   579  that has not heard, mixed with the sick wailing of infants,
   580  the lamentations that attend on death and the black funeral.
@@ -599,7 +655,7 @@ TRANSLATOR'S COMMENTARY
   582  and to hold, entrusted to a mind that remembers:
   583  that there is nothing whose nature is seen plainly before us
   584  that consists of one kind of beginnings alone,
-  585  nothing that is not made of mingled seed.
+  585  nothing that is not made of mingled seed[50].
   586  And whatever possesses more forces in itself
   587  and more powers, the more it shows that it holds the most kinds
   588  of beginnings in itself, and the most varied shapes.
@@ -613,9 +669,9 @@ TRANSLATOR'S COMMENTARY
   596  and the means to offer rivers, leaves, and glad pastures
   597  to the mountain-roaming race of wild beasts.
   598  Therefore the great mother of the gods, and mother of wild beasts,
-  599  and begetter of our body, she alone has been called. {{NOTE: the Great Mother (Magna Mater), Cybele; the long description of her cult that follows is set out in order to be rejected (2.644-645)}}
+  599  and begetter of our body, she alone has been called[51].
   600  Of her the learned poets of the Greeks of old have sung
-  601  that, seated in a chariot, she drives a yoke of lions,
+  601  that, seated in a chariot, she drives a yoke of lions[52],
   602  teaching by this that the great earth hangs in the space
   603  of air, and that earth cannot rest upon earth.
   604  They yoked wild beasts to her because offspring, however wild,
@@ -625,14 +681,14 @@ TRANSLATOR'S COMMENTARY
   608  Adorned now with this emblem, through the great lands
   609  the image of the divine mother is carried, inspiring dread.
   610  Her the various peoples, by the ancient custom of their rites,
-  611  call the Idaean Mother, and give her bands of Phrygians {{NOTE: from Mount Ida in Phrygia, the center of her cult}}
+  611  call the Idaean Mother, and give her bands of Phrygians
   612  as her companions, because from those regions first, they say,
   613  crops began to be created through the circles of the earth.
-  614  They assign her Galli, because, of those who have outraged {{NOTE: the Galli, her eunuch priests}}
+  614  They assign her Galli[53], because, of those who have outraged
   615  the Mother's power and been found ungrateful to their parents,
   616  they wish to signify that they must be thought unworthy
   617  to bring forth living offspring into the shores of light.
-  618  Taut drums thunder under their palms, and the hollow cymbals
+  618  Taut drums[54] thunder under their palms, and the hollow cymbals
   619  all around, and horns threaten with harsh-sounding song,
   620  and the hollow pipe goads their minds with Phrygian measure,
   621  and they carry weapons before them, signs of violent frenzy,
@@ -644,13 +700,13 @@ TRANSLATOR'S COMMENTARY
   627  enriching it with bountiful alms, and snow down rose
   628  blossoms, shading the mother and the band of her companions.
   629  Here an armed troop, whom the Greeks speak of by the name
-  630  of Curetes, when they happen to sport among the Phrygian bands {{NOTE: the Curetes, armed dancers of Cretan myth}}
+  630  of Curetes[55], when they happen to sport among the Phrygian bands
   631  and leap in measure, glad of blood,
   632  shaking the terrifying crests on their heads with their nodding,
-  633  recall the Dictaean Curetes, who are said once to have hidden {{NOTE: Dictaean: of Mount Dicte in Crete, where the infant Jupiter was hidden from his father Saturn}}
+  633  recall the Dictaean Curetes, who are said once to have hidden
   634  that famous wailing of Jupiter in Crete,
   635  when, boys around the boy, in their nimble dance,
-  636  armed and in measure in their nimble dance {{NOTE: a garbled line in the source, mixing 635 and 637, probably to be deleted; rendered as printed}}
+  636  armed and in measure in their nimble dance[56]
   637  armed, in measure, they beat bronze upon bronze,
   638  so that Saturn might not catch him and give him to his jaws
   639  and deal the Mother an eternal wound beneath her breast.
@@ -660,7 +716,7 @@ TRANSLATOR'S COMMENTARY
   643  and make ready to be a protection and an honor to their parents.
   644  These things, however well and excellently they are set out,
   645  are nonetheless driven far from true reasoning.
-  646  For the whole nature of the gods must, of itself, by necessity {{NOTE: 2.646-651 repeat 1.44-49 verbatim}}
+  646  For the whole nature of the gods must, of itself, by necessity[57]
   647  enjoy immortal life in utmost peace,
   648  removed from our affairs and separated far away;
   649  for free from every pain, free from dangers,
@@ -669,12 +725,12 @@ TRANSLATOR'S COMMENTARY
   652  The earth, indeed, is at all times without sense,
   653  and because it possesses the first-beginnings of many things,
   654  it brings forth many in many ways into the light of the sun.
-  655  Here, if anyone resolves to call the sea Neptune, and to call
+  655  Here, if anyone resolves to call the sea Neptune[58], and to call
   656  the crops Ceres, and would rather misuse the name of Bacchus
   657  than speak the proper word for that liquor,
   658  let us grant that he may keep declaring the round of the earth
   659  to be the mother of the gods, if only in truth he himself
-  680  refrains from tainting his mind with foul religion. {{NOTE: line 680 printed after 659 by editorial transposition, following the source}}
+  680  refrains from tainting his mind with foul religion.
   660  Thus often, cropping grass from a single field,
   661  wool-bearing flocks and the warlike offspring of horses
   662  and horned herds, beneath the same covering of sky,
@@ -703,7 +759,7 @@ TRANSLATOR'S COMMENTARY
   686  Therefore unlike forms come together into one mass,
   687  and things are made up out of mingled seed.
   688  Indeed, everywhere in these very verses of ours
-  689  you see many elements common to many words,
+  689  you see many elements[59] common to many words,
   690  though you must still admit that verses and words
   691  are made, one and another, from different elements;
   692  not because few letters run in common among them,
@@ -719,7 +775,7 @@ TRANSLATOR'S COMMENTARY
   702  forms half beast, half man spring up, and tall
   703  branches at times put forth from a living body,
   704  and many limbs of land creatures joined to those of the sea,
-  705  and then Chimaeras, breathing flame from their foul mouths,
+  705  and then Chimaeras[60], breathing flame from their foul mouths,
   706  and nature feeding them across the all-mothering lands.
   707  It is plain that none of this happens, since all things
   708  created from fixed seeds and by a fixed mother,
@@ -733,14 +789,14 @@ TRANSLATOR'S COMMENTARY
   716  which could neither be joined anywhere nor, within,
   717  feel with the vital motions and imitate them.
   718  But lest you think that only living things are held
-  719  by these laws, a certain principle bounds all things.
+  719  by these laws, a certain principle bounds all things.[61]
   720  For just as things begotten are unlike one another
   721  in their whole nature, each of them, so each must
   722  be made of unlike shapes of beginnings;
   723  not that few are endowed with a like form,
   724  but because, as a rule, not all are alike to all.
   725  Further, since the seeds differ, there must be differences in
-  726  intervals, paths, connections, weights, blows,
+  726  intervals[62], paths, connections, weights, blows,
   727  collisions, motions; which not only divide living bodies
   728  from one another, but keep the lands and the whole sea
   729  apart, and hold back the whole heaven from the lands.
@@ -754,8 +810,8 @@ TRANSLATOR'S COMMENTARY
   736  are dyed with a color just like its own;
   737  for the bodies of matter have no color
   738  at all, neither like things nor, finally, unlike them.
-  739  And if it seems to you perhaps that upon these bodies no casting
-  740  of the mind can be made, you wander far out of the way. {{NOTE: animi iniectus, the mind's casting of itself upon its object, renders Epicurus' epibole tes dianoias; keep "casting of the mind" if it recurs}}
+  739  And if it seems to you perhaps that upon these bodies no casting[63]
+  740  of the mind can be made, you wander far out of the way.
   741  For since the blind from birth, who have never looked upon
   742  the light of the sun, still come to know bodies by touch
   743  that from the beginning of life were joined with no color,
@@ -768,8 +824,8 @@ TRANSLATOR'S COMMENTARY
   750  this the first-beginnings must by no means do;
   751  for something unchangeable must survive,
   752  so that things are not all brought back utterly to nothing;
-  753  for whatever is changed and passes out of its own bounds,
-  754  this at once is the death of what it was before. {{NOTE: 753-754 repeat 1.670-671 and 1.792-793; must match Book 1's English verbatim}}
+  753  for whatever is changed and passes out of its own bounds,[64]
+  754  this at once is the death of what it was before.
   755  Therefore take care not to touch the seeds of things with color,
   756  so that all things do not return utterly to nothing for you.
   757  Further, if no nature of color has been given
@@ -782,7 +838,7 @@ TRANSLATOR'S COMMENTARY
   764  why things that were of a black color a little before
   765  can suddenly become of a marble whiteness,
   766  as the sea, when great winds have stirred its levels,
-  767  is turned into white waves of shining marble;
+  767  is turned into white waves of shining marble[65];
   768  for you could say that what we often see as black,
   769  when its matter has been mixed through, and the order
   770  of the beginnings changed, and certain things added and taken away,
@@ -818,7 +874,7 @@ TRANSLATOR'S COMMENTARY
   800  it shines back, struck by a straight or a slanting light;
   801  as the plumage of doves is seen in the sun,
   802  the plumage set about the nape that crowns the neck;
-  803  for at times it comes to be red with bright fire-bronze, {{NOTE: pyropus, a red-gold alloy of copper and gold, not a gemstone here}}
+  803  for at times it comes to be red with bright fire-bronze[66],
   804  at times, to a certain way of seeing, it comes to seem
   805  to mingle green emeralds with the blue.
   806  And the peacock's tail, when it is filled with plentiful light,
@@ -844,11 +900,11 @@ TRANSLATOR'S COMMENTARY
   826  Moreover, the more each thing is pulled apart into tiny parts,
   827  the more it is that you can see
   828  the color fade little by little and be quenched;
-  829  as happens when purple cloth is torn into small parts: {{NOTE: austrum is the text's spelling of ostrum, purple dye; some editors read aurum, gold}}
+  829  as happens when purple cloth[67] is torn into small parts:
   830  the purple, and the scarlet, much the brightest of colors,
   831  when pulled apart thread by thread, is wholly lost;
   832  so that from this you may learn that all their color is breathed out
-  833  by the particles before they part into the seeds of things.
+  833  by the particles before they part into the seeds of things.[68]
   834  Lastly, since you grant that not all bodies send out
   835  a voice, nor a smell, it comes about, therefore,
   836  that you do not assign sounds and smells to all:
@@ -863,7 +919,7 @@ TRANSLATOR'S COMMENTARY
   844  and from cold entirely, and from burning heat;
   845  they go barren of sound and starved of flavor,
   846  and give off from their body no odor of their own.
-  847  Just as, for the soothing liquor of marjoram and of myrrh {{NOTE: amaracinum and stacte, perfumed oils of marjoram and of myrrh}}
+  847  Just as, for the soothing liquor of marjoram[69] and of myrrh
   848  and the flower of nard, which breathes nectar to the nostrils,
   849  when you set about making them, it is right first to seek,
   850  as far as you may and can find it, an odorless olive oil,
@@ -877,7 +933,7 @@ TRANSLATOR'S COMMENTARY
   858  nor cold, nor likewise hot and tepid heat,
   859  and all the rest: things which are still such as to be mortal,
   860  pliant with soft, brittle with crumbling, hollow with porous body,
-  861  all these must be kept apart from the beginnings, {{NOTE: principia, Lucretius's other name for the primordia; rendered "beginnings"}}
+  861  all these must be kept apart from the beginnings,
   862  if we wish to set beneath things foundations immortal,
   863  on which the whole of their safety may rest;
   864  so that all things do not return utterly to nothing for you.
@@ -887,7 +943,7 @@ TRANSLATOR'S COMMENTARY
   868  or fight against it, the things known and ready to hand;
   869  rather they themselves lead us by the hand and compel belief
   870  that, as I say, living creatures are born from senseless things.
-  871  Indeed, you can see living worms come forth
+  871  Indeed, you can see living worms[70] come forth
   872  out of foul dung, when a rottenness has come over
   873  the sodden earth from untimely rains.
   874  Further, all things in like manner turn themselves into others.
@@ -920,7 +976,7 @@ TRANSLATOR'S COMMENTARY
   901  are united as they must be for living things to be born.
   902  Next, those who would have it that from sentient things the sentient
   903  can be created, and these in turn from others used to sensing,
- 903a  * * * {{NOTE: one or more lines lost here; the sense of the gap is uncertain}}
+ 903a  * * *[71]
   904  when they make them soft; for all sense is bound up
   905  with flesh, sinews, veins, all of which we see
   906  are soft, fashioned of mortal body.
@@ -928,7 +984,7 @@ TRANSLATOR'S COMMENTARY
   908  surely, even so, they must either have the sense of a part
   909  or be thought to be like whole living creatures.
   910  But it must be that parts cannot have sense by themselves;
-  911  for the mind rejects all the senses of the limbs, {{NOTE: text uncertain; the point is that a limb's sense belongs to the whole creature}}
+  911  for the mind rejects all the senses of the limbs,[72]
   912  nor can a hand cut off from us, nor any
   913  part of the body at all, hold sense alone.
   914  It remains that they be likened to whole living creatures,
@@ -967,7 +1023,7 @@ TRANSLATOR'S COMMENTARY
   947  For the positions of the beginnings are dissolved,
   948  and the vital motions are hindered deep within,
   949  until the matter, shaken through all the limbs,
-  950  loosens the knots of the vital spirit from the body
+  950  loosens the knots of the vital spirit[73] from the body
   951  and casts it out, scattered abroad, through all the passages;
   952  for what else should we think a blow can do,
   953  when it is dealt, but shatter and dissolve each thing?
@@ -983,7 +1039,7 @@ TRANSLATOR'S COMMENTARY
   963  Further, since pain exists when bodies of matter,
   964  by some force, through the living flesh, through the limbs,
   965  are troubled and tremble within, in their own seats,
-  966  and when they move back into place a soothing pleasure comes,
+  966  and when they move back into place a soothing pleasure[74] comes,
   967  we may know that the first-beginnings can be assailed
   968  by no pain, and take no pleasure from themselves;
   969  since they are not made out of any bodies of beginnings,
@@ -994,7 +1050,7 @@ TRANSLATOR'S COMMENTARY
   973  Finally, so that each kind of living creature can feel,
   974  if sense must now be granted to their beginnings,
   975  what of those from which the human race is properly made?
-  976  No doubt they too must shake with trembling laughter and guffaw,
+  976  No doubt they too must shake with trembling laughter and guffaw[75],
   977  and sprinkle their faces and cheeks with dewy tears,
   978  and be skilled at saying much about the mixture of things,
   979  and go on to ask what their own first-beginnings are;
@@ -1009,7 +1065,7 @@ TRANSLATOR'S COMMENTARY
   988  though not made of seeds that are wise and eloquent,
   989  why should the things we see have sense be any less able
   990  to be of seeds mixed together that lack sense in every part?
-  991  Finally, we are all sprung from heavenly seed;{{NOTE: sky as father, earth as mother; Lucretius takes over the old pairing, then at 998 explains the name naturally}}
+  991  Finally, we are all sprung from heavenly seed[76];
   992  all have that same father, from whom the nourishing mother,
   993  earth, when she has received the liquid drops of moisture,
   994  teems and bears the shining grain and the glad trees
@@ -1039,7 +1095,7 @@ TRANSLATOR'S COMMENTARY
  1018  are alike; but by their position the things differ.
  1019  So too in things themselves, when of matter
  1020  the intervals, paths, connections, weights, blows,
- 1021  collisions, motions, order, position, shapes
+ 1021  collisions[77], motions, order, position, shapes
  1022  are changed, the things too must be changed.
  1023  Now apply your mind, for me, to true reasoning.
  1024  For a thing strikingly new is struggling to reach
@@ -1063,9 +1119,9 @@ TRANSLATOR'S COMMENTARY
  1042  judgment weigh it, and if it seems true to you,
  1043  give in; or, if it is false, gird yourself against it.
  1044  For the mind seeks reasoning, since the sum of place
- 1045  is infinite outside, beyond these walls of the world,
+ 1045  is infinite outside, beyond these walls of the world[78],
  1046  of what is there further, where thought longs to look ever onward
- 1047  and where the free cast of the mind itself flies through.{{NOTE: animi iactus, the mind's "cast" or projection, Lucretius's version of Epicurus' term for the mind reaching out to grasp what the senses cannot}}
+ 1047  and where the free cast of the mind itself flies through.
  1048  First of all, for us in every direction all around,
  1049  on either side, above and below, through the whole,
  1050  there is no limit; as I have taught, and the thing itself
@@ -1074,12 +1130,12 @@ TRANSLATOR'S COMMENTARY
  1053  since space lies empty, infinite, in every direction,
  1054  and seeds in numberless number in the deep sum
  1055  fly about in many ways, driven by eternal motion,
- 1056  that this one orb of lands and this sky alone were created,
+ 1056  that this one orb of lands and this sky alone were created,[79]
  1057  and those so many bodies of matter outside do nothing;
  1058  especially since this world was made by nature, and the seeds
  1059  of things themselves, of their own accord, colliding by chance,
  1060  driven together in many ways, at random, vainly, to no purpose,
- 1061  at last grew together into those which, suddenly thrown together,{{NOTE: reading coluerunt as "grew together" (= coaluerunt, as many editors print)}}
+ 1061  at last grew together[80] into those which, suddenly thrown together,
  1062  might become forever the origins of great things,
  1063  of earth and sea and sky and the race of living things.
  1064  Therefore again and again you must confess
@@ -1100,18 +1156,18 @@ TRANSLATOR'S COMMENTARY
  1079  but is of some generation, and very many are of the same
  1080  kind. First, among living creatures, with your mind as guide,
  1081  you will find it so with the mountain-roaming race of wild beasts,
- 1082  so with the twin offspring of men, so finally with the mute
+ 1082  so with the twin offspring of men[81], so finally with the mute
  1083  herds of the scaly ones and all the bodies of flying things.
  1084  Therefore you must confess, on the same principle, that sky
  1085  and earth and sun, moon, sea, and all else that is,
  1086  are not unique, but rather of number beyond numbering;
- 1087  since the boundary-stone of life, set deep,{{NOTE: echoes 1.77, "its boundary-stone set deep"}}
+ 1087  since the boundary-stone[82] of life, set deep,
  1088  awaits these as surely, and they are of a body as born
  1089  as every kind that abounds here, kind by kind, in such things.
  1090  If you know these things well and hold them, nature is seen
  1091  to be free at once, stripped of proud masters,
  1092  doing all things of herself, by her own accord, without the gods.
- 1093  For by the holy hearts of the gods, which in tranquil peace{{NOTE: an oath, "I appeal to the gods' own calm"; the gods are invoked to witness that they could not do these things}}
+ 1093  For by the holy hearts of the gods[83], which in tranquil peace
  1094  pass a placid age and a serene life,
  1095  who can rule the sum of the immeasurable, who hold in hand
  1096  the strong reins of the deep and guide them,
@@ -1136,7 +1192,7 @@ TRANSLATOR'S COMMENTARY
  1114  moisture to moisture; earth grows from earthy body,
  1115  and fires forge fire, and ether forges ether,
  1116  until to the farthest limit of growth, bringing all to completion,
- 1117  the creating nature of things has led all things on;
+ 1117  the creating nature of things[84] has led all things on;
  1118  as happens when nothing more is now given within
  1119  the vital veins than flows away and withdraws.
  1120  Here the age of all things must come to a stand,
@@ -1163,17 +1219,17 @@ TRANSLATOR'S COMMENTARY
  1141  since in great age food at last runs short,
  1142  and the bodies battering from outside never cease
  1143  to wear a thing down and subdue it with hostile blows.
- 1144  So therefore the walls of the great world round about
+ 1144  So therefore the walls of the great world[85] round about
  1145  will also be stormed, and give way to decay and crumbling ruin;
  1146  for food must make all things whole by renewing them,
  1147  food must prop them up, food must sustain all things,
  1148  in vain, since neither do the veins endure to take in
  1149  what is enough, nor does nature supply as much as is needed.
- 1150  And indeed even now the age is broken, and the worn-out earth
+ 1150  And indeed even now the age is broken, and the worn-out earth[86]
  1151  scarcely creates small animals, she who created all
  1152  kinds, and gave birth to the huge bodies of wild beasts.
  1153  For it was not, I think, that the mortal kinds from on high
- 1154  a golden rope let down from heaven into the fields, {{NOTE: the golden chain of Zeus, Homer, Iliad 8.19; perhaps also a Stoic image of the linked order of creation}}
+ 1154  a golden rope[87] let down from heaven into the fields,
  1155  nor did the sea and the waves beating on the rocks create them,
  1156  but the earth bore them, the same that now feeds them from herself.
  1157  Further, the shining crops and the glad vineyards
@@ -1188,317 +1244,447 @@ TRANSLATOR'S COMMENTARY
  1166  and when he compares the present times with times
  1167  gone by, he often praises his father's fortunes.
  1168  Gloomily too the planter of the old and shriveled vine
- 1169  blames the drift of time and wearies the age with complaint, {{NOTE: "momen" (movement, trend) is the reading followed; some editors read "nomen", "the name of the times"}}
+ 1169  blames the drift of time[88] and wearies the age with complaint,
  1170  and grumbles how the race of old, filled with piety,
  1171  bore life very easily within narrow bounds,
  1172  though the measure of land for each man was far smaller before;
  1173  nor does he grasp that all things waste away by degrees and go
- 1174  to the bier, worn out by the ancient span of age.
+ 1174  to the bier[89], worn out by the ancient span of age.
 
 ------------------------------------------------------------
 
-Notes (DRAFT)
-
-[DRAFT] (2.1-4) The opening image (suave, mari magno) is the poem's most famous prologue; Lucretius is not praising cruelty but the security of the observer, who sees what evils he is free of (quibus ipse malis careas). The sea-and-shore picture sets up the contrast between the philosopher's detached vantage and the struggle of ordinary life that runs through the whole proem.
-
-[DRAFT] (2.5-6) The source prints 2.6 before 2.5 (editorial transposition, so that "suave etiam belli certamina magna tueri" reads directly after 2.4); the translation follows the source order and keeps both line keys, so the English "drawn up across the plains" completes the sense of 2.6.
-
-[DRAFT] (2.7-8) The "serene precincts" (templa serena) are Epicurean philosophy imagined as a fortified high sanctuary, built by "the teaching of the wise" (doctrina sapientum), meaning Epicurus and his followers, whom Lucretius does not name here. Templa means a consecrated or marked-off region, not a building, in keeping with the register's rendering of Acherusia templa as "precincts."
-
-[DRAFT] (2.14-19) The "blind hearts" and the barking of nature (latrare) introduce Epicurus's doctrine that nature demands only the absence of bodily pain and a mind free of care and fear. The verb is deliberately blunt, as if nature were a dog insisting on its few needs.
-
-[DRAFT] (2.20-22) "The body's nature" (corpoream naturam) and the few things it needs state compressedly the Epicurean division of desires into natural and necessary, natural but unnecessary, and empty. The verse treats luxuries (delicias) as permissible additions, not necessities.
-
-[DRAFT] (2.24) The golden youths holding lamps (aurea iuvenum simulacra) are statues of the kind that lit rich Roman dinner halls. Here simulacra means "statues" in an ordinary sense, kept as "images" in the translation, and is not the Book 4 technical term for the films shed by things.
-
-[DRAFT] (2.28) Templa laqueata aurataque are the coffered, gilded ceilings of a rich hall (the English "rafters" follows this sense), a non-sacred use of templa; the word's sense of a defined space of roof or sky is why the same word is used of the "serene precincts" at 2.8.
-
-[DRAFT] (2.40-43) The reading and sense of 2.43 are disputed: the transmitted text has stlattas (a broad merchant ship, with the odd spelling stlatta), and the line is often considered corrupt or the sense uncertain. The translation takes the line as describing fleets "fitted out with arms," following the transmitted text, with the whole movement being a mock review of land and naval forces meant to show that such displays do not calm the mind.
-
-[DRAFT] (2.44) Religiones is rendered "religions," as the register requires, even though the plural strains English; the sense is the terrors and scruples that religio imposes, which Lucretius treats as the real enemy throughout the poem (compare 1.63 and the proem of Book 1).
-
-[DRAFT] (2.55-58) The comparison of adult fears to children's fear of the dark is an image Lucretius uses in all his refrain passages. It anticipates the refrain at 2.59-61 by supplying its ground: terror of the mind (animi terrorem) is darkness of imagination, not a real danger.
-
-[DRAFT] (2.59-61) These three lines repeat 1.146-148 word for word (and recur at 3.91-93 and 6.39-41); the English repeats its own earlier rendering. This is the first appearance of the refrain in Book 2, and "the face and reasoning of nature" (naturae species ratioque) renders species as "face" per the register.
-
-[DRAFT] (2.62-66) The "generative bodies of matter" (genitalia materiai corpora) are the first-beginnings, i.e. what a modern reader would call atoms, and the passage announces the topic of the book: the motion of atoms in the void. The "mobility" (mobilitas) given to them is the source of everything that follows, down to the swerve at 2.216ff.
-
-[DRAFT] (2.79) The runners passing on the torch (cursores vitai lampada tradunt) refer to the Greek lampadedromia, a relay in which a lit torch was handed on. The image of life as handed from generation to generation was widely quoted afterward.
-
-[DRAFT] (2.83-88) The sentence compresses the Epicurean claim that atoms move either by their own weight (gravitate sua) or by blows from other atoms. Nothing in the void stops them (neque quicquam a tergibus obstet), so collisions send them rebounding at once. A reader who knows the swerve may see a gap here, since the third cause, the swerve, is not yet introduced.
-
-[DRAFT] (2.92-94) The infinity of space (spatium sine fine modoquest) and the claim that the whole has no bottom, no "lowest point" (imum), are proved in 1.951-1051, as the English note flags. The point matters because it means there is no floor on which atoms could come to rest.
-
-[DRAFT] (2.105-106) The text and sense of these lines is uncertain, and the translation renders what is printed without resolving the difficulty: the few atoms which wander in loose freedom are set against the dense mass that makes rock and iron. The modern reader may recall a contrast between solids and gases, which is the reader's association, not Lucretius's claim.
-
-[DRAFT] (2.112-113) Simulacrum et imago ("an image and picture") here means an analogy or likeness for the eye, and not the technical simulacra of Book 4. The register keeps "images" for simulacra, and the word is used here in a non-technical sense, so a reader who knows the later doctrine should not read it back into this line.
-
-[DRAFT] (2.114-124) The dust motes dancing in a sunbeam are Lucretius's famous visible analogue for atomic motion; he says the little bodies in the sunbeam merely give a sample (exemplare) of what he cannot show, not that they are atoms. A modern reader may hear Brownian motion here, but that is the reader's association, not the poet's claim.
-
-[DRAFT] (2.132) Error is rendered "wandering," its literal sense, and principia is "beginnings," kept distinct from primordia ("first-beginnings") as the register requires. The line says that the motes' wandering derives from the invisible motion of the atoms themselves.
-
-[DRAFT] (2.133-141) The passage explains the chain by which motion passes upward in scale: atoms move of themselves, then the smallest compounds (nearest to them in strength) are set moving, then larger bodies, until the motion reaches the visible motes. Lucretius is giving a causal ladder from the invisible to the seen, with the final sentence admitting that the blows that move the visible motes are not themselves plain to see.
-
-[DRAFT] (2.142) The doctrine here is the atoms' speed (mobilitas), which the poem proves by contrast with the slower travel of sunlight through air. The "bodies of matter" (materiai corporibus) are the first bodies of the register, here named by their physical side.
-
-[DRAFT] (2.151) Lucretius says "inane vacuum" together (non per inane meat vacuum). In Epicurean terms, light and heat are compound and meet resistance from the air, whereas a single first-beginning moving through pure void meets none. The translation keeps "void" and renders the doubled term as "empty void", as at 2.158.
-
-[DRAFT] (2.164a) Editors mark a lacuna here, so the sentence that governs "nor to follow out" (nec persectari) is lost. The translation prints the gap unnumbered and supplies nothing. The infinitive in 165 depends on a lost main verb. The people at issue are probably those who will not trace the motions of individual atoms.
-
-[DRAFT] (2.167) "Some, against this" (quidam contra) are never named. They hold the teleological view of nature, which the Epicureans attacked. In Roman terms the target is the Stoic doctrine of providence, though Lucretius does not name the school. The "guide of life, divine pleasure" (dux vitae dia voluptas) is Lucretius's own recasting, with the Venus of the proem hidden behind the sexual drive.
-
-[DRAFT] (2.181) The faults of the world (tanta stat praedita culpa) are what Lucretius argues from, not the world's goodness. He answers his own promise (posterius, 182) at 5.195-234, where he lists the uninhabitable regions, the toil of farming, and the dangers of infancy and disease.
-
-[DRAFT] (2.184) The topic is "upward" motion (sursum ferri). Flame, smoke and growing plants seem to defy weight. Lucretius argues that they rise only because something pushes them. The doctrine behind it is that every body has weight and by itself tends only downward (pondera, quantum in se est). This sets up the swerve argument at 216ff.
-
-[DRAFT] (2.206) The "night torches of heaven" (nocturnas faces caeli) are meteors or shooting stars, which Lucretius treats as fire falling toward earth. Stars and sunlight (209-212) are offered as further instances of downward tendency. The "constellations" (sidera) are plural.
-
-[DRAFT] (2.213) The slanting thunderbolts (transversos fulmina) are the lightning of 6.160ff, where Lucretius gives the full account. Here they serve as one more fire moving down, and across, under a force from outside.
-
-[DRAFT] (2.216) The swerve is announced here (216-220). A reader will hear a precursor of modern indeterminacy, which is the reader's association, not the poet's claim. The Latin keeps the sense of "uncertain time and place" (incerto tempore ... incertisque locis), and the same phrase returns in the refrain at 292-293 (nec regione loci certa nec tempore certo).
-
-[DRAFT] (2.221) The verb declinare is first used here, with its noun clinamen at 292. The register fixes both as "swerve". "Rain-drops falling through the deep void" (imbris uti guttae ... per inane profundum) pictures Epicurus's parallel fall, with no collisions and so no world.
-
-[DRAFT] (2.224) The "beginnings" (principiis) are a variant name for the primordia, the first-beginnings. The register keeps the two English words apart for the two Latin words. The line's last clause, "nature would never have created anything", states the argument's stake.
-
-[DRAFT] (2.225) The objection, which says heavier bodies falling faster would strike lighter ones, is answered at 230-239. Epicurus held that atoms in void move at equal speed whatever their weight (aeque ponderibus non aequis, 239). The modern reader may hear Galileo's falling bodies, which is the reader's association only.
-
-[DRAFT] (2.254) "The covenants of fate" (fati foedera) is a Stoic idea of an unbroken chain of causes. The phrase echoes the poem's "nature's covenants" (foedera naturae) but reverses their force. Cause follows cause "from infinity" (ex infinito) in a chain the swerve would break.
-
-[DRAFT] (2.256) "Free will" is Lucretius's argument from experience. "This will wrested from the fates" (fatis avolsa voluntas) is the first claim in the poem that living things possess a will that is more than mechanical. The line reads "libera ... voluntas" across 256-257, with "will" (voluntas) as the noun. The same argument is picked up at 2.261.
-
-[DRAFT] (2.263) The starting-gates (carceribus) are the stalls of the Roman circus, thrown open at the start of a chariot race. The horses' bodies hold back for an instant behind the mind's wish, which is the proof that the will begins the motion and the body follows.
-
-[DRAFT] (2.269) "Heart" (corde) is where Lucretius locates the mind in the breast. Compare "in pectore nostro" at 279. The word is plain and anatomical here, and the register keeps animus as "mind" in the next line (animi voluntate).
-
-[DRAFT] (2.289) The manuscripts read "res ipsa", which makes "the thing itself" a general subject, while many editors since the early editions print "mens ipsa" ("the mind itself"), tying the swerve to the will of 260. The translation follows the source, the manuscript reading. The sense is fully available either way.
-
-[DRAFT] (2.292) "Swerve" is the register's rendering of clinamen, the poem's only use of the noun. Compare declinare at 221, 253, 259. It is "tiny" (exiguum) because the swerve must not be seen as a slant (244-245), so the translation should keep the diminutive force.
-
-[DRAFT] (2.297) Lucretius here says *principiorum* ("beginnings") rather than *primordia*; it is one of his interchangeable names for the first-beginnings, and the English keeps it distinct from "first-beginnings" (the register's rule that distinct Latin gets distinct English). The sense is the same bodies.
-
-[DRAFT] (2.300) The lines 2.294-302 state the conservation of matter: the total stock never grows or shrinks (*nam neque adaugescit quicquam neque deperit inde*), so the pattern of birth and growth stays fixed by *foedera naturai*. A modern reader may hear an anticipation of conservation laws; that is the reader's association, not the poet's claim.
-
-[DRAFT] (2.310) *summa tamen summa* repeats the word in two senses: the first is "the sum" (the whole of things, as at 2.303), the second is the adjective "utmost" (*summa quiete*, "in highest rest"). The translation keeps the pun by using "the sum" and "utmost" in the same line.
-
-[DRAFT] (2.317) The sheep on the hill (317-322) and the legions on the plain (323-332) are the first of the poem's illustrations that motion can be present but unseen at a distance. The same sheep image is reused in the Book 2 argument about invisible motion; the legions are a second example of the same point, seen from a high place (*altis montibus*).
-
-[DRAFT] (2.324) *belli simulacra* are mock-battles or military exercises, not images in the Epicurean technical sense (the films of Book 4). The translation keeps "images" so the register's fixed term for *simulacra* is not varied, but the sense here is "the semblance of war."
-
-[DRAFT] (2.333) *exordia rerum* ("starting-points") is a further synonym for the first-beginnings, here introducing the doctrine of the variety of atomic shapes. The register leaves *exordia* unfixed; "starting-points" keeps it distinct from "first-beginnings" and "beginnings."
-
-[DRAFT] (2.339) *uti docui* refers back to the proof of the infinity of the all and of the number of bodies in Book 1 (the argument at 1.951 ff.). The infinity of the supply of first-beginnings is what makes it necessary that not all have the same shape (340-341).
-
-[DRAFT] (2.353) *delubra* and *turicremas aras*: a Roman or Italic sacrificial scene, with a calf slaughtered at an incense-burning altar before the shrines. The calf-and-mother passage (352-366) is a famous set-piece; Lucretius uses the grief of the cow to prove that offspring recognise their own by individual shape, and the grief is not used here as a comment on religion.
-
-[DRAFT] (2.362) The reading *summis ... ripis* ("level with their banks") means the river flows full to the top of the banks, as in spate; it is not the sense "from the top of the banks." The translation takes the first sense.
-
-[DRAFT] (2.381) *animi ratione* ("by the mind's reasoning"): *ratio* here is the act of reasoning, not the doctrine, and the register's "reasoning" is kept. The passage 381-397 begins the series of explanations by shape: lightning through small pores, light through horn, wine through a strainer, oil held back.
-
-[DRAFT] (2.401) *ferique centauri*: "wild centaury," the plant (*centaurion*), named in myth after the centaur Chiron, who was said to have used it as a cure; the Latin adjective *feri* ("wild") gives the pun with "centaur," and the translation takes it as the plant.
-
-[DRAFT] (2.412) *musaea mele*: the melodies of the Muses, that is, music in general. The contrast of the screech of the saw (*serrae stridentis*) with musical sound is an argument from sense experience: sounds that please come from smooth bodies, harsh ones from rough.
-
-[DRAFT] (2.416) *croco Cilici*: saffron from Cilicia, used to scent and colour the Roman stage, where perfumed water or saffron was sprinkled; the *scena* here is the theatre, set against the funeral pyre (*cadavera torrent*) as a foul smell and the incense on the altar as a pleasant one. The line on Panchaea (417) is marked in the draft already.
-
-[DRAFT] (2.430) *fecula ... inulaeque sapores*: wine-lees and elecampane (*inula*), given as examples of tastes that are neither smooth nor hooked but have "little angles jutting out a little" (*angellis*), tickling rather than wounding. The translation follows the manuscripts' *inulae*.
-
-[DRAFT] (2.434) *tactus enim, tactus, pro divum numina sancta*: an emphatic repetition with an oath ("by the holy powers of the gods"), unusual in Lucretius, who stresses that touch is the sense underlying all the others. The doctrine is that all sensation is finally a kind of touch by bodies, which is why shape matters.
-
-[DRAFT] (2.437) *genitalis per Veneris res*: "the acts of Venus," that is, sexual pleasure, as one of the ways touch can delight when something goes out of the body. The Venus here is the goddess as a figure for sex, not a divine agent, as in the proem (1.1).
-
-[DRAFT] (2.447) *adamantina saxa*: "rocks of adamant," a legendary hardest substance, not the modern diamond; the translation keeps "adamant." *prima acie* is a military phrase ("in the front line"), continuing the image of hardness as resistance.
-
-[DRAFT] (2.453) *papaveris haustus*: a scoop or draught of poppy-seed, which pours like water because its little globes do not cling together (*glomeramina*). The Latin is difficult here, and the translation follows the reading *haustus itemst facilis quod aquarum*.
-
-[DRAFT] (2.465a) The sentence begun at 464-465 ("that you see the same things bitter that are fluid ... ought to be no wonder") has no verb or conclusion in the text as printed, because a line has been lost after 465; 466 then begins *nam* with the explanation. The translation prints the lacuna as unnumbered `* * *`, supplies nothing, and leaves the sentence broken as in the Latin.
-
-[DRAFT] (2.472) Neptune's body (Neptuni corpus) is the sea, a metonymy like Ceres for grain and Bacchus for wine, which Lucretius takes up at 2.655ff. The proof is the filtering (percolatur, 475). Sea water turns sweet when it passes through earth, which shows that rough and smooth first-beginnings can be separated, the rough ones catching in the soil.
-
-[DRAFT] (2.476) Primordia, "first-beginnings", is the register's name for what a modern reader will know as atoms. The translation keeps it distinct from principia (472, 573) "beginnings", semina (481) "seeds" and corpora prima (486) "first bodies", though all name the same entities.
-
-[DRAFT] (2.478) The two-line formula (Quod quoniam docui, pergam conectere rem) recurs verbatim at 522-523, and the English repeats itself word for word. It marks the two stages of the argument: first-beginnings vary within a finite range of shapes (478-521), and those of any one shape are infinite in number (522ff).
-
-[DRAFT] (2.485) The "least parts" (minimis e partibus) are the Epicurean minimal parts, the indivisible units of which a first body is composed (argued at 1.599ff). A body of fixed small size has few of them and so admits few arrangements (ordo). More shapes would therefore need more parts and larger bodies, which is the absurdity named at 498-499.
-
-[DRAFT] (2.500) Meliboea was a Thessalian coastal town known for purple dye made from shellfish (concharum), so "Thessalico ... colore" names the same dye. The luxuries listed (robes, peacocks, myrrh, swan-song, lyre music) stand for the best the senses know. If shapes were infinite, something better would always supersede them (507).
-
-[DRAFT] (2.505) Here daedala is an adjective of the carmina, whereas the register fixes it as "artificer" for daedala tellus (1.7) and natura daedala rerum (5.234). "Intricate" is a departure from the register, which the translator may keep, change, or note in the register. Phoebus is Apollo, god of the lyre, and cycnea mele alludes to the swan's proverbial song.
-
-[DRAFT] (2.528a) The source marks lost text after 528, and the translation prints the same marker with its lettered key and supplies nothing. The jump from the conclusion at 528 to the new promise at 529 (versibus ostendam) is abrupt, but what the missing line said is not known.
-
-[DRAFT] (2.531) Protelum (protelo plagarum continuato) comes from a word for a team pulling in succession, and "relay" renders it. The plagae are the collisions of first bodies. The doctrinal point is that only an infinite supply of matter can keep the blows coming without a break.
-
-[DRAFT] (2.533) Crux: the transmitted magis in "fecundamque magis naturam cernis in illis" sits uneasily with rara animalia, since rarer kinds would be expected to be less fruitful. The translation keeps magis and takes in illis of the other, commoner kinds, which strains the Latin. Some editors read minus, which makes in illis the rare animals themselves and fits 534-535, where the same kind is numerous elsewhere.
-
-[DRAFT] (2.537) "Snake-handed" (anguimanus) is a Latin compound for the elephant's trunk, and the animal was familiar to Romans from the wars with Pyrrhus and Hannibal. India stands for the far-off land where a kind that seems rare is abundant, and the ivory rampart (vallo ... eburno) is hyperbole for their numbers.
-
-[DRAFT] (2.552) The shipwreck simile (naufragiis ... aplustra) illustrates 547-551. A few finite bodies of one kind, scattered in a vast sea of unlike matter, would drift apart like wreckage and never reassemble into a ship. The "laughing" calm sea (ridet ... ponti, 559) recalls the proem's rident aequora ponti (1.8), where the sea smiles at the goddess's coming and here smiles in treachery. That echo is the reader's association, not something Lucretius points out.
-
-[DRAFT] (2.569) The "motions" of destruction and of generation (exitiales, genitales) are the movements of first-beginnings that break compounds up or build them. Their equal contest (aequo certamine) is the Epicurean balance that keeps the sum of things from ending either in total ruin or in unchecked growth.
-
-[DRAFT] (2.577) The register lists 2.577 under the refrain "dias in luminis oras", but the Latin here is visentis luminis oras, with visentis agreeing with pueri ("as they come to look on"), and it has no dias. The translation rightly omits "shining". This is a variant of the refrain rather than an instance, so the register's list should probably be corrected.
-
-[DRAFT] (2.581-585) The sealed-up principle (obsignatum) is the premise of the whole passage: no visible thing consists of one kind of first-beginning, and everything is "of mingled seed" (permixto semine). Everything from here to 2.729 argues that premise from the earth, from living bodies, from fruit, and from the letters of the alphabet.
-
-[DRAFT] (2.589-593) "First bodies" (corpora prima) is the register's rendering of what Lucretius also calls primordia; he uses the two terms interchangeably. The earth is shown to hold the first bodies of water (springs feeding the sea), of fire (burning ground, Etna), and of food, which is why it is rich in kinds.
-
-[DRAFT] (2.598-599) The Great Mother (Magna Mater, Cybele) is introduced here because the earth, as source of everything, has been called "mother of the gods" (deum mater) and "mother of wild beasts" (materque ferarum). The long description of her Phrygian cult that follows (600-643) is given in order to be set aside at 644-645, and the English line should carry this explanation. In 599 "she alone" (una) means that this one earth is given all three titles. The line also plays on mater and materies, "matter", which the English cannot reproduce.
-
-[DRAFT] (2.600-609) The "learned poets of the Greeks" (Graium docti poetae) read the image allegorically: the lions are the wild offspring tamed by parental kindness, the mural crown is the earth bearing cities, and the chariot in the air shows the earth hung in space. "Earth cannot rest upon earth" (neque posse in terra sistere terram) is the argument that the earth needs no support beneath it. It is a rare Lucretian use of a mythic image to carry doctrine, and he treats it as picture, not as truth.
-
-[DRAFT] (2.611) Mount Ida in Phrygia is the Idaean Mother's home, as the note on the English line says. The "bands of Phrygians" (Phrygias catervas) are her escort in procession, and Lucretius reports the Phrygian origin of grain as one of the ancient explanations (quia primum ex illis finibus).
-
-[DRAFT] (2.614-617) The Galli (Gallos) were her eunuch priests. The allegory is that those who wronged the Mother or their parents are shown as unfit to "bring forth living offspring" (vivam progeniem edant), since they are themselves unable to. The phrase "into the shores of light" (in oras luminis) is the register's refrain, first at 1.22.
-
-[DRAFT] (2.618-623) The instruments (tympana, cymbala, cornua, tibia) and the weapons (tela) of the procession are meant to terrify the "ungrateful minds" (ingratos animos) of the crowd. Lucretius is describing the effect as a deliberate religious device. The sixfold ingratos / impia anticipates his later charge that fear of the gods is a tool of religio.
-
-[DRAFT] (2.624-628) During the procession (the Megalensia at Rome) the image of the goddess is carried silently through cities, and people strew the road with coins and roses. "Wordless blessing" (muta salute) is the goddess's gift of prosperity, mute because the image does not speak.
-
-[DRAFT] (2.629-633) The "armed troop" (armata manus) imitates the Curetes, the attendants of the infant Jupiter in Crete. Lucretius gives the Greek name (Curetas nomine Grai) and glosses it with the Cretan myth: they danced in armor, clashing bronze, to drown the infant's cries (vagitum) so that Saturn would not find him. "Dictaean" belongs to Mount Dicte in Crete. The ritual dancers in Phrygian processions are identified with them by the Romans.
-
-[DRAFT] (2.635-637) The Latin text of 635-636 is corrupt in the source: 636 repeats the end of 635 (pernice chorea / armat et in numerum) and is generally deleted by editors. The English prints both as given in the source, so the repetition in 635 and 636 reflects the damage and not Lucretius's own emphasis.
-
-[DRAFT] (2.640-643) The second explanation (aut quia) is that the armed attendants signify the goddess's command to defend one's country and be a protection and honor to one's parents. The first reading (638-639) was mythical; this one is moral, and both are said to be "well and excellently set out" (bene et eximie disposta) before being rejected.
-
-[DRAFT] (2.644-651) After the rejection (longe a vera ratione repulsa) comes the doctrine that the gods live in peace, untouched by human affairs. Lines 646-651 repeat 1.44-49 verbatim, and the English repeats the earlier rendering. In the Latin the repetition is probably the poet's own insertion, and some editors have suspected it here as a misplaced duplicate (the passage reads on without it, from 645 to 652), but the source text keeps it and so does the translation. It is the Epicurean doctrine that the gods need nothing from us and are neither pleased nor angered, so that cult is pointless.
-
-[DRAFT] (2.652-654) The earth, though called a goddess, is "without sense" (caret sensu), since it has the first-beginnings of many things but is not itself alive. This is the point of the passage: calling the earth "mother" is a harmless name if it is understood as a metaphor for this multiplicity of seeds.
-
-[DRAFT] (2.655-659, 680) "Neptune" for the sea, "Ceres" for crops and "Bacchus" for wine are metonymy (the god's name for his domain), and Lucretius allows it (concedamus) so long as no one is stained by "foul religion" (religione turpi). Line 680 is printed after 659 in the source because editors moved it here from its transmitted place. The sense is carried by 659 + 680 together, with the clause "provided he refrains" (dum ... parcat) breaking across them. Here "religion" is the register's plain word, with no softening to "superstition".
-
-[DRAFT] (2.660-667) The flocks and herds eat the same grass and drink the same water yet remain unlike and keep their parents' nature (retinentque parentum naturam), which is evidence that the grass and water themselves contain many kinds of first-beginnings. The "order of matter" (herbae materiai dissimilis ratio) renders ratio here as arrangement, not "reasoning".
-
-[DRAFT] (2.668-671) Bones, blood, veins, heat, moisture, flesh, and sinews (ossa cruor venae calor umor viscera nervi) are the parts that make up an animal and differ from one another, so their first-beginnings must differ in shape. The grammar is compressed; the sentence has its main verb only in constituunt, with "formed of unlike shapes" (dissimili perfecta figura) as a loose addition.
-
-[DRAFT] (2.672-675) Things that burn must contain the seeds of fire, sparks, and ash (ignem ... lumen ... scintillas ... favillam). This repeats the argument at 2.589-593 on a small scale: even a log holds the bodies of fire.
-
-[DRAFT] (2.679-685) The argument from the senses: color, taste and smell reach the senses by different paths (nidor enim penetrat qua fucus non it), so the bodies that give them differ in shape. This is the Epicurean doctrine that perceived qualities depend on atomic shape, compressed into a single syllogism.
-
-[DRAFT] (2.688-694) The alphabet analogy: "elements" (elementa) is both the Latin for letters and the register's word for the elements of the physical world, so "elements common to many words" is the pun the register says to note once. Lucretius uses the same analogy at 1.196-198 and 1.823-829, and returns to it at 2.1013-1022. The point is that shared letters make different words, as shared first-beginnings make different things.
-
-[DRAFT] (2.700-706) Monsters such as the Chimaera (Chimaeras, flame-breathing, a lion-goat-serpent of Greek myth) and the half-human beasts are what we would see if any seeds could combine freely. Since we do not see them, the combination of seeds must be limited. The reader may hear in this an argument that anticipates the later account of failed hybrids at 5.878-924, where the same impossibility is argued again; that is a reader's association, not part of this passage.
-
-[DRAFT] (2.707-710) "A fixed mother" (certa genetrice) and "fixed seeds" (seminibus certis) state the principle of fixed kinds: each thing comes from its own seed and keeps its kind. "Fixed principle" (certa ratione) is the register's "principle" for ratio.
-
-[DRAFT] (2.711-717) The argument from nutrition: only the food bodies that fit the animal's motions are taken up, and the rest are expelled (reicere). "Unseen bodies" (caecis corporibus) are first-beginnings too small to see, driven out by blows (plagis). "Vital motions" (vitalis motus) is the register's way of saying the motions that make a living body what it is.
-
-[DRAFT] (2.718-719) In the source the second half of 719 appears to lack its sense: "the same principle bounds all things" (quaedam ratio res terminat omnis) is the English for an obscure line. Some editors mark 718-719 as corrupt; the translation follows the source as printed.
-
-[DRAFT] (2.723-724) Line 724 repeats 694 verbatim (sed quia non volgo paria omnibus omnia constant), and the English repeats its earlier rendering. The first instance of 723 differs slightly from 692; the English follows the Latin.
-
-[DRAFT] (2.725-729) The list "intervals, paths, connections, weights, blows, meetings, motions" (intervalla vias conexus pondera plagas concursus motus) is a compressed summary of the properties of atoms in motion and combination that Lucretius has worked out since 2.62. The sentence closes on the largest division, the separation of land, sea, and sky.
-
-[DRAFT] (2.730) The argument that the first-beginnings have no color begins here and runs to 841. "Matter" (materiai) in 735 and 737 is the same thing as the first-beginnings; the English keeps both words for the Latin's two.
-
-[DRAFT] (2.740) "Casting of the mind" (animi iniectus) renders the Epicurean epibole tes dianoias, the mind's direct application to an object that the senses cannot reach. The English keeps the phrase fixed so that it can recur wherever Lucretius uses it again.
-
-[DRAFT] (2.745) The blind from birth (caecigeni) are Lucretius's test case: touch gives knowledge of bodies without any color, so knowledge of the colorless is possible. The step from touch to the mind's grasp of the atomic is the argument's real claim.
-
-[DRAFT] (2.748) "Quod quoniam vinco fieri, nunc esse docebo" says that having proved colorless knowledge possible (vinco fieri), he will now show it actual (esse). The English keeps the two verbs distinct.
-
-[DRAFT] (2.753–754) These lines repeat 1.670–671 and 1.792–793, where the same argument is made against Heraclitus and the monists: if a thing changes it leaves its own bounds, and that is the death of what it was. The English must match Book 1 word for word.
-
-[DRAFT] (2.755) "Seeds of things" (semina rerum) is a register term for the same entities called "first-beginnings" (principiis) a few lines before; the two are used interchangeably in this passage, so the shift of word does not mark a shift of subject.
-
-[DRAFT] (2.766–767) The simile of the dark sea turning to white foam under wind (canos... fluctus, candenti marmore) is used as an example of color change without any change in the underlying seeds; "marble" carries "shining" more than "hard".
-
-[DRAFT] (2.778–779) The analogy of the square built from unlike forms is a mosaic image: the whole shows one shape (quadratum) though its parts differ. Lucretius uses it to argue that if colored seeds composed a uniformly colored sea, the varied colors would show through, as varied shapes would show within a square.
-
-[DRAFT] (2.801–805) The dove's neck and the peacock's tail (806–807) are Lucretius's examples of structural or iridescent color, which changes with the angle of light and so cannot belong to the thing itself. A modern reader may hear an anticipation of the wave theory of light; that is the reader's association, not the poet's claim.
-
-[DRAFT] (2.803) Pyropus (pyropo) is a red-gold bronze alloy, not a gemstone, here. The English "fire-bronze" follows the Greek roots, "fire-eyed".
-
-[DRAFT] (2.805) "Zmaragdos" (smaragdos) is the Greek-derived Latin for emerald, or green gemstones generally, so "emeralds" is approximate.
-
-[DRAFT] (2.810) "Blow" (plagae) is the Epicurean term for impacts of atoms; the pupil receives different "blows" from different atomic configurations. The English "blow" is kept here and "stroke" (ictu) in 808 for the different Latin word.
-
-[DRAFT] (2.829) The Latin text prints "austrum" (not ostrum, "purple dye"), but the sense requires the dye or purple cloth, since filatim in 831 means "thread by thread". The translation follows the sense of ostrum; "gold" (aurum) is a less likely conjecture.
-
-[DRAFT] (2.830) "Poeniceus" (poeniceus color) means Phoenician-red, a scarlet or crimson that is a dye color. The English "scarlet" renders it, but it is the same family as "purple" (purpura), so the pair is almost a doublet.
-
-[DRAFT] (2.833) "Particulas" (particles, "particulas") is here a non-technical word for the small parts of a composite, distinct from the semina rerum. The English "particles" is acceptable for this ordinary sense but should not be used for primordia (register: never "particles" for corpora).
-
-[DRAFT] (2.842) The argument that first-beginnings lack all secondary qualities continues from the preceding lines on color (the "solo colore" of 842 means color is only the first item in a longer list). Here Lucretius adds warmth, sound, flavor, and odor (teporis, sonitu, suco, odorem).
-
-[DRAFT] (2.847) The perfumer's analogy: amaracinum (oil of marjoram) and stacte (oil of myrrh) were costly scented unguents, and nard was an imported aromatic. The base for such compounds had to be odorless olive oil (inolentis olivi) so that it would not taint the added scents. The analogy supports the claim that the first-beginnings must contribute no quality of their own to the things they compose.
-
-[DRAFT] (2.861) The Latin has principiis here, a second name for the primordia (854, "primordia rerum"). The translation renders both as "first-beginnings" in keeping with the register's deliberate merge of the cluster.
-
-[DRAFT] (2.862) Immortal foundations (inmortalia... fundamenta) are what keep things from returning "ad nihilum funditus" (864). This is the Epicurean principle that nothing is wholly destroyed, and Lucretius argues that if the first-beginnings were mortal, everything would dissolve into nothing.
-
-[DRAFT] (2.865) The new argument starts here, against the objection that sentient things cannot come from senseless first-beginnings. Lucretius's thesis is that sense arises from the arrangement of senseless first-beginnings (ex insensilibus... principiis), not from sense already present in them. The rival view is that of the earlier philosophers (the Ionian physicists, and Anaxagoras in particular) who gave the elements the properties of the things made from them.
-
-[DRAFT] (2.871) Worms from dung (vivos... vermes / stercore de taetro) is the spontaneous generation Lucretius uses as evidence for life from the lifeless, a common ancient belief. The same example recurs at 898-901 and 926-930, and Lucretius himself calls the later one a repetition ("quod fudimus ante", 926).
-
-[DRAFT] (2.874) The chain river-leaf-cattle-human-beast-bird (875-878) is an argument from nutrition: food becomes living flesh. The fire comparison at 881-882 supports the same point, that different things arise from the same material by new arrangement. Lucretius uses it as the proof of 883-885 that "order" and motions matter (referre in quali sint ordine).
-
-[DRAFT] (2.881) The comparison of logs turning to flame (arida ligna / explicat in flammas) is another case of the same stuff becoming something of a different kind through rearrangement. It recalls the letters analogy (elementa) used in Book 1 and again at 2.688-699, where order, position, and motion of the same elements produce different results.
-
-[DRAFT] (2.903) The line numbered 903a marks a lacuna after 903. The sentence starting "Deinde ex sensilibus..." (902) breaks off without its main verb or its refutation, and 904 picks up in the middle of a thought ("mollia cum faciunt"). The translation prints the gap unnumbered and supplies nothing.
-
-[DRAFT] (2.904) The opponents' claim, as the argument can be reconstructed, is that the supposed sentient first-beginnings are made of soft things (mollia), since sense is found in flesh, sinews, and veins. Lucretius's reply (906) is that these are mortal and "creta", fashioned of a mortal body, so they cannot be the eternal first-beginnings.
-
-[DRAFT] (2.911) The text is disputed here ("namque animus sensus membrorum respuit omnis"). The translation takes it that the mind rejects the idea of senses belonging to the limbs alone, so that sense belongs to the whole creature. Here animus is rendered "mind" in accord with the register.
-
-[DRAFT] (2.919) The refutation turns on the point that, even if the first-beginnings were living creatures, their union (coetu concilioque) would yield only a crowd of living things (volgum turbamque animantum), as humans and animals mating do not create anything new in kind. The regress is Lucretius's reductio against giving the first-beginnings sense.
-
-[DRAFT] (2.944) Lucretius now argues from the effects of blows. A blow too great for the creature's nature (grandior ictus) dissolves the positions of the first-beginnings (positurae) and the "knots of the vital spirit" (vitalis animae nodos), and so drives the spirit out through "caulas" (passages). Here anima is rendered "spirit", the vital principle, and the nodi are the bonds that hold it in the body, a doctrine developed at length in Book 3.
-
-[DRAFT] (2.963) The last argument is from pain and pleasure. Pain is the disturbance of bodies from their seats (sollicitata suis... sedibus) and pleasure their return (remigrant). First-beginnings, which are not compounded of smaller bodies, have no such parts to disturb, so they feel neither. This is the Epicurean definition of pleasure and pain as motion and settling, and "voluptas" is rendered "pleasure" in the register.
-
-[DRAFT] (2.973-990) This is the last stretch of the argument that the first-beginnings cannot themselves have sense (the "laughing atoms" argument). Lucretius reasons that if sense is granted to the beginnings, they must laugh, weep, and reason, and so be made of further beginnings that do the same, without end (nusquam consistere ut ausis). Since that is absurd, sensing things must come from seeds that lack sense (seminibus carentibus undique sensu). The translation renders *principia* (974) as "beginnings", and *elementa* (981) as "elements" and *semina* (988, 990) as "seeds", following the register. Here the three words name the same things.
-
-[DRAFT] (2.991) Sky (caelesti semine) is father and earth is mother, an old pairing that Lucretius takes over here. He then gives it a physical sense: rain is the father's seed that the earth receives, and the earth's feeding of her creatures earns her the name of mother (maternum nomen, 998). Greek and Roman myth and cult both knew the pairing, and the poet uses it in a purely natural sense.
-
-[DRAFT] (2.1000-1001) The ether (aetheris oris) and "the precincts of heaven" (caeli templa) are given the same meaning. Lucretius is following the doctrine that the finer parts of the human body (the spirit and the seeds from the sky) return to the upper air at death, as the grosser parts return to earth. *Templa* is rendered "precincts" in the register, not "temples". The passage is often compared with an epitaph preserved from the Athenian dead at Potidaea in 432 BC, which says much the same.
-
-[DRAFT] (2.1002-1006) Death does not annihilate things (nec... interemit) but scatters their union (coetum dissupat). The matter is rejoined (aliis aliud coniungit) so that things take on new shapes, colors, and sense (capiant sensus). This is the Epicurean doctrine that nothing comes from nothing and nothing returns to nothing, stated compressedly. A modern reader may hear conservation of matter in it; that is the reader's association, not the poet's claim.
-
-[DRAFT] (2.1013-1018) The alphabet analogy, with its pun on *elementa* ("elements" and "letters"), recurs through the poem (first at 1.196-198, and again at 2.688-699). The same letters (eadem) spell out sky, sea, lands, and so on, so a difference of position (positura) makes different words and different things. Here the argument is put to the particular use of showing that the first-beginnings can differ only in arrangement and still produce things that differ in kind.
-
-[DRAFT] (2.1019-1022) The list of nine terms (intervalla vias conexus pondera plagas concursus motus ordo positura figurae) is Lucretius's catalogue of the ways atoms can differ in relation. It is an asyndetic run, and the translation keeps that. *Plagae* is "blows"; *figurae* "shapes".
-
-[DRAFT] (2.1023) The line opens a new section on the plurality of worlds (nunc animum nobis adhibe veram ad rationem). *Ratio* is "reasoning" in the register, and "true reasoning" is the translation of *veram rationem*. The address to Memmius is by the second person only, as elsewhere.
-
-[DRAFT] (2.1030-1039) The argument from habituation: the sky would astonish us if we saw it for the first time, but we have grown weary of looking (fessus satiate videndi). Lucretius uses it to prepare Memmius to accept the new doctrine of many worlds, and the same thought recurs at 5.1204-1217 in a different setting. *Templa* again is "precincts".
-
-[DRAFT] (2.1044-1047) *Moenia mundi* ("walls of the world") echoes the proem's *flammantia moenia mundi* (1.73), the edge of the world that Epicurus crossed in thought. Here the reader is asked to do the same. In the translation, "free cast of the mind" renders *animi iactus liber*, the mind's unobstructed projection (see the translator's note at 1047). *Mens* and *animus* both occur in 1046-1047 and are both "mind" or "thought" per the register.
-
-[DRAFT] (2.1048-1051) The argument for the infinity of the universe, which Lucretius says he has already taught (uti docui, 1050), refers back to 1.958-1051 in Book 1. *Profundum* is the "deep", the unbounded extent. The line "the thing itself cries aloud" (res ipsaque per se vociferatur) is the poet's appeal to evidence over argument.
-
-[DRAFT] (2.1052-1066) The inference from infinite space and matter to many worlds is the center of the argument. Nature made this world by chance collisions (forte offensando, temere), with no plan, so the same must be happening elsewhere (alios alibi congressus). A modern reader may hear the plurality of worlds of later cosmology; that is the reader's association, not the poet's claim.
-
-[DRAFT] (2.1061) The text is disputed: the manuscripts have *coluerunt*, which means "cultivated" or "inhabited" and does not give sense. Many editors emend to *coaluerunt* ("grew together"), as the translation does; the translator's note at this line should say so.
-
-[DRAFT] (2.1067-1076) A second argument for many worlds: where matter, place, and the absence of any obstacle all exist, things must come to be. *Materies* is "matter", *semina rerum* "seeds of things", and the argument supposes that the same nature (eadem natura) that threw the seeds together here can do so elsewhere.
-
-[DRAFT] (2.1077-1089) The argument from uniqueness: nothing in the sum is unique, since every kind has many members (in summa res nulla sit una). Lucretius then applies the principle to heaven, earth, sun, moon, and sea (1084-1086), which are likewise not unique but numberless. The conclusion rests on analogy with living species, and the reader should note that it depends on the premise that worlds, like animals, are born and die (1087-1089).
-
-[DRAFT] (2.1087) The phrase *vitae depactus terminus alte* ("the boundary-stone of life, set deep") echoes the proem's *alte terminus haerens* (1.77, also 1.596, 5.89), the boundary-stone of each thing's power. Here the boundary is mortality, applied to worlds as well as to creatures.
-
-[DRAFT] (2.1090-1092) The conclusion of the section, the freedom of nature from the gods (dominis privata superbis), prepares the attack on divine governance. This is the doctrine of the poem in miniature: nature acts by herself (ipsa sua per se sponte) without the gods (dis... expers). It also sets up the argument of 1093-1104.
-
-[DRAFT] (2.1093-1104) Lucretius's question runs through a series of infinitives (regere, habere, convertere, suffire, esse praesto, faciat, concutiat, mittat, disturbet, saeviat). It is an argument from the gods' own nature: beings at peace (tranquilla pectora, placidum aevom) cannot also run the cosmos or throw thunderbolts. *Aevom* is "age", the register's rendering. The thunderbolt that strikes the guilty and the innocent alike (nocentes... indignos) is a standard Epicurean argument against divine justice, and it recurs at 6.387-422 and in Book 1.
-
-[DRAFT] (2.1105) Lucretius's argument is that the world's growth came from bodies added "from outside" (extrinsecus) and gathered by the whole's own hurling (iaculando). The same intake from outside later reverses into loss, and that sets up the decay of the world at 1144–1145. "The great whole" renders omne, i.e. the sum of things.
-
-[DRAFT] (2.1112) The principle is that like bodies are sorted to like by blows (plagis): moisture to moisture, earth to earth, fire to fire, and ether to ether. These are the four masses of the world (sea, land, fire, air or ether). "Kinds" renders saecla, and in this passage it means the categories of stuff each body belongs to.
-
-[DRAFT] (2.1115) The play on procudunt ("forge") and the repeated nouns (ignem ignes, aetheraque aether) are in the Latin. The English keeps "forge" for both fire and ether, so the repetition shows.
-
-[DRAFT] (2.1117) "The creating nature of things" renders rerum natura creatrix, a variant of the poem's title phrase. It appears here with a feminine agent noun, which makes nature a maker.
-
-[DRAFT] (2.1121) Nature "reins in" growth (refrenat) at a fixed point. This is the doctrine of 2.1105–1174 that every composite thing has a limit set by its own balance of intake and loss. Lucretius states it here before applying it to living things and then to the world.
-
-[DRAFT] (2.1144) The argument turns from living things to the world as a whole. The "walls of the great world" (moenia mundi) echo the "flaming walls of the world" of 1.73, here "stormed" (expugnata) like a besieged city. The conclusion that this world will decay is the reading of the passage as the poet states it, and it belongs with 2.1150's claim that the earth is already exhausted.
-
-[DRAFT] (2.1148) The clause ne quiquam ("in vain") hangs awkwardly after the "must" of 1146–1147. It means that this supply of food is bound to fail, since the veins cannot take in enough and nature does not provide enough. The English keeps the loose attachment, as the Latin has it.
-
-[DRAFT] (2.1150) The "worn-out earth" (effeta tellus) is a mother past childbearing, in the image Lucretius uses for the earth. The claim is that the earth once produced all the kinds of animals and now produces only small ones. Its fuller form, the earth as mother of living things, comes in Book 5.
-
-[DRAFT] (2.1154) Homer's golden chain (Iliad 8.19) is the rope Zeus claims he could let down from heaven to haul up gods and men. Lucretius uses it, with *funis* ("rope") where Homer has seira, to deny that heaven sent mortals down. Some readers add the Stoic image of a linked chain of causes, but the sentence itself does not say so.
-
-[DRAFT] (2.1169) The reading followed is momen ("drift", "movement", from movimen), which gives "blames the drift of time". Some editors read nomen, giving "the name of the times", which is easier to explain but a less natural object for incusat. The translation takes the harder reading, and the note on it should keep that choice open.
-
-[DRAFT] (2.1174) The word capulum ("bier", "coffin", cf. "go to the tomb") belongs to the language of burial, and so the plowman's father and the old vinedresser's own world are figured as dead and going to their funeral. The line is the poem's last in this stretch and brings the world's old age back to the single man who grumbles about it. This is the end of the book's argument: the old man who praises the past does not see that all things, himself and the earth included, are wearing out together.
+Notes
+
+[1] (2.1-4) "Sweet it is" (suave): the most famous of the poem's openings.
+    The pleasure is not in another's distress but in seeing what one is free
+    of; the watcher on the shore is the Epicurean outside the storm, and the
+    "serene precincts set on high" (templa serena, 8) are the school's
+    teaching as a fortress. Templa are marked-off regions, as at 1.120.
+
+[2] (2.5-6) The source prints 6 before 5, an editorial transposition; the
+    translation keeps the printed order and the printed numbers.
+
+[3] (2.17) "barks" (latrare): Lucretius's own blunt word. Nature is a dog
+    that demands only this, that the body be free of pain and the mind of
+    fear.
+
+[4] (2.24-26) The golden youths holding torches come from Homer's palace of
+    Alcinous (Odyssey 7.100-102); Lucretius sets the Homeric luxury in a
+    Roman dining hall. "Images" (simulacra) here are statues, the everyday
+    sense; the word is "images" wherever it occurs, also for the mock
+    battles of 41 and 324 and the "image and picture" of 112, so that the
+    technical use of Book 4 grows out of the ordinary one.
+
+[5] (2.28) "paneled and gilded rafters" (laqueata aurataque templa): the
+    coffered ceiling of a rich hall. Templa is the same word as the
+    "precincts" of 8, a framed space, roof or sky; it never means temples in
+    this poem.
+
+[6] (2.40-43) "the Campus" is the Campus Martius at Rome, where troops
+    drilled; "the images of war" (belli simulacra) are the exercises. In 43
+    stlattas, a rare word for a broad-built ship, is the printed text of a
+    line that editors suspect; the translation renders it as printed.
+
+[7] (2.44) "the religions" (religiones): the plural is the Latin's, the many
+    terrors religion imposes, and the plain word is kept, as at 1.63 and in
+    "foul religion" at 680.
+
+[8] (2.55-61) The children who fear everything in the dark are Lucretius's
+    figure for adult fear; the four lines recur at 3.87-90 and 6.35-38, and
+    59-61 repeat 1.146-148 (again at 3.91-93 and 6.39-41). The English
+    repeats its own lines at each place.
+
+[9] (2.65) "mobility" (mobilitas), never "speed": the power of moving given
+    to the first-beginnings, one of the book's announced subjects (142-166).
+
+[10] (2.79) "like runners pass on the torch of life" (quasi cursores vitai
+     lampada tradunt): the Greek torch race, in which a lit torch was handed
+     on from runner to runner. The image was quoted ever after.
+
+[11] (2.89-94) "I have shown in many words": the infinity of space and the
+     absence of any bottom were argued at 1.951-1051, and "as I have taught"
+     at 339 looks back to the same place.
+
+[12] (2.100) "union" (conciliatus; concilium at 110, "the unions of things")
+     is the fixed word for the combination of first bodies that makes a
+     thing, as at 1.484; "a uniting" (conciliatu, 936) is the same word.
+
+[13] (2.105-106) The text and sense of these two lines are uncertain; the
+     translation renders them as printed: the few first-beginnings that
+     wander free make the thin air and sunlight, as the tangled ones make
+     rock and iron.
+
+[14] (2.112-124) The motes in a sunbeam are Lucretius's visible likeness of
+     what cannot be seen, "a pattern of great things" (exemplare); he says
+     only that they show what motion in the void is like, not that they are
+     first-beginnings, and 125-141 explains that they move because of unseen
+     blows passed up from the first-beginnings through ever larger bodies.
+     "An image and picture" (simulacrum et imago, 112) is the everyday
+     sense.
+
+[15] (2.132) "all comes from the beginnings" (a principiis): principia is
+     "beginnings", as at 1.484, kept apart from "first-beginnings"
+     (primordia, 133); they are the same bodies under Lucretius's second
+     name, here and at 138, 224, 297, 861 and throughout the book.
+     "Wandering" is the literal sense of error.
+
+[16] (2.151) "empty void" (inane vacuum): Lucretius doubles his two words
+     for the void, and the English doubles with him (also 158, 202, 236).
+
+[17] (2.164a) The source marks a line lost after 164. "Nor to follow out"
+     (165) hangs from a main clause that is gone, apparently about men who
+     will not trace the motions of single first-beginnings; the translation
+     prints the gap and supplies nothing.
+
+[18] (2.167-183) "some, against this" (quidam contra) are unnamed: the view
+     that nature works for man's benefit, which the Stoics above all held.
+     "Divine pleasure, the guide of life" (dux vitae dia voluptas) is the
+     Venus of the proem seen as the drive to live and breed. The proof of
+     the world's faults promised at 182 is given at 5.195-234.
+
+[19] (2.206-209) "the night torches of heaven" are meteors, and the stars
+     that fall to earth shooting stars; they are brought in as fire going
+     down, as fire does when nothing pushes it up.
+
+[20] (2.216-224) The swerve: "swerve" renders the verb declinare here and
+     the noun clinamen at 292. It is Epicurus's addition to the older
+     atomism, and Lucretius is its fullest surviving witness: falling
+     straight through the void at equal speed, the first-beginnings would
+     never meet, so at no fixed time or place they shift "just so much that
+     you could call it a change of motion". A modern reader may hear a
+     forerunner of indeterminacy in physics; that is the reader's
+     association, not the poet's claim.
+
+[21] (2.225-239) In the void all bodies fall at equal speed whatever their
+     weight, because the void yields alike to all (Epicurus, Letter to
+     Herodotus 61); so the heavier cannot overtake the lighter and strike
+     it, and the blows that make a world need another cause.
+
+[22] (2.251-262) "the covenants of fate" (fati foedera) are the unbroken
+     chain of causes, the Stoic doctrine, set against "nature's covenants"
+     (302 and 1.586). The swerve is made the ground of "this will wrested
+     away from the fates" (fatis avolsa voluntas): the one place where
+     Lucretius connects the physics to the freedom of living things, and he
+     argues it from experience, not from the first-beginnings.
+
+[23] (2.263-265) "the starting-gates" (carceribus) are the stalls of the
+     Roman circus, thrown open at the start of a race; the horses' bodies
+     lag an instant behind their wish, which shows the will starting the
+     motion.
+
+[24] (2.269-271) "the heart" (corde): Lucretius places the mind in the
+     breast, as Book 3 will argue (3.140); the motion begins there, "from
+     the will of the mind" (animi voluntate), and spreads through the limbs.
+
+[25] (2.289) "the thing itself" (res ipsa) is the printed reading; many
+     editors read mens ipsa, "the mind itself", tying the sentence to the
+     will of 261. The translation keeps the printed words, which give a
+     general sense.
+
+[26] (2.292-293) "the tiny swerve of the beginnings" (exiguum clinamen
+     principiorum): the poem's only use of the noun. "Tiny" matters, since
+     the swerve is "no more than the least" (244), not a slant that the eye
+     could catch.
+
+[27] (2.294-307) Nothing is added to the store of matter and nothing is lost
+     from it, so the motions of the first-beginnings have always been and
+     will always be the same, and no force can change the sum of things. A
+     modern reader will hear the conservation of matter; that is the
+     reader's association, not the poet's claim.
+
+[28] (2.310) "the sum ... in utmost rest" (summa ... summa quiete):
+     Lucretius sets the noun "sum" against the adjective "utmost", and the
+     English keeps both words in the line.
+
+[29] (2.317-332) The sheep on the hill and the legions on the plain: motion
+     that is real but blurs to stillness at a distance. "Stirring up the
+     images of war" (belli simulacra cientes, 324) is the mock battle of 41.
+
+[30] (2.333) "the origins of all things" (exordia rerum): Lucretius's third
+     name for the first-beginnings, after primordia and principia, and
+     "origins" is kept for it wherever it is technical (1062, 3.31, 4.26,
+     4.114, 5.430).
+
+[31] (2.336-337) These two lines recur at 723-724, and the second at 694:
+     "not that few are endowed with a like form" takes multa parum as "few",
+     with Bailey and Munro; the Latin could also mean "not that many lack a
+     like form". The English repeats its own lines at each place.
+
+[32] (2.352-366) The calf slaughtered at the altar and the mother searching
+     for it: a Roman sacrifice, and the poem's most famous passage of
+     pathos. The argument it serves is only that each creature is known by
+     its own shape; the grief is Lucretius's gift to the argument, and
+     religion is not the target here.
+
+[33] (2.400-401) Wormwood and "wild centaury" (feri centauri) are bitter
+     medicinal herbs; centaury was named for Chiron the centaur, who was
+     said to have used it.
+
+[34] (2.410-413) "the Muses' melodies" (musaea mele) is music; the shriek of
+     the saw against the lyre is the test case for sound. "Musicians"
+     (organici) are players of the strings.
+
+[35] (2.415-417) Three smells: the funeral pyre, the stage sprinkled with
+     saffron water (the best saffron came from Corycus in Cilicia), and the
+     altar's incense. Panchaea is a fabled incense-bearing land off Arabia,
+     in the far east of the poets.
+
+[36] (2.430) "wine-lees and the flavors of elecampane" (fecula ... inulaeque
+     sapores): the sharp sediment of wine and a bitter root, tastes that
+     tickle rather than wound.
+
+[37] (2.434-441) "touch, touch, by the holy powers of the gods": the
+     repetition and the oath are unusual in Lucretius, and mark the doctrine
+     that every sense is finally a form of touch by bodies, which is why
+     shape explains sensation. "The generative acts of Venus" (genitalis per
+     Veneris res) is sexual pleasure, named plainly.
+
+[38] (2.447-450) "Adamant" is the hardest substance of legend, not the
+     diamond; "in the front line" (prima acie) is a soldier's phrase, and
+     the bronze that shrieks is the bronze of door-bars resisting force.
+
+[39] (2.465a) The source marks a line lost after 465, and the sentence begun
+     at 464 has lost its end; 466 begins the explanation. The translation
+     prints the gap and supplies nothing.
+
+[40] (2.472-477) "the bitter body of Neptune" is the sea, the metonymy
+     Lucretius allows at 655-659. That sea water filtered through earth
+     becomes sweet was the common ancient belief; here it separates the
+     rough first-beginnings of brine from the smooth ones of water.
+
+[41] (2.478-479) These two lines recur word for word at 522-523, and the
+     English repeats them; they mark the two steps of the argument, that the
+     shapes are finite in range and that each shape is infinite in number.
+
+[42] (2.483-499) The least parts of 1.599-634: a first body made of few of
+     them admits few arrangements, so more shapes would need more parts and
+     larger bodies, until some were of "monstrous greatness", which Book 1
+     showed to be impossible.
+
+[43] (2.500-506) Meliboea, on the Thessalian coast, was known for its purple
+     dye; the peacock, myrrh, honey, the swan's song and the lyre stand for
+     the best the senses know. "Intricate" renders daedala, the word for
+     cunning workmanship, here an adjective of Apollo's songs; it is
+     "artificer" where Lucretius applies it to the earth or to nature (1.7,
+     5.234).
+
+[44] (2.528a) The source marks a line lost after 528, and the promise of
+     529, "I will show in verses", begins abruptly; the translation prints
+     the gap and supplies nothing.
+
+[45] (2.529-531) "an unbroken relay of blows" (protelo plagarum continuato):
+     protelum is a team of oxen pulling in a line, Lucretius's word for
+     supply that never breaks.
+
+[46] (2.532-535) A crux: the printed magis, "more fruitful", sits oddly with
+     "rarer", and some editors read minus, "less". The translation keeps the
+     printed word and takes "those others" of the commoner kinds, which
+     534-535 then balances: a kind rare here is many elsewhere.
+
+[47] (2.536-540) "snake-handed" (anguimanus) is Lucretius's compound for the
+     elephant's trunk (again at 5.1303). Rome had known elephants since the
+     wars with Pyrrhus and Hannibal; India's wall of ivory is hyperbole for
+     their numbers.
+
+[48] (2.552-559) Finite first-beginnings of one kind would drift apart like
+     wreckage in a great sea and never reassemble. "The sly enticement of
+     the calm sea laughs" turns the proem's "the levels of the sea laugh"
+     for Venus (1.8) into treachery.
+
+[49] (2.569-580) The war between the motions that build things and the
+     motions that destroy them, waged from infinite time and never won: the
+     book's most quoted close, the funeral wail mixed with the newborn's
+     cry. "The shores of light" (577) has no "shining" because the Latin
+     here lacks dias (see 1.22).
+
+[50] (2.581-588) The principle for everything down to 729: nothing we see is
+     made of one kind of first-beginning, and the richer a thing's powers,
+     the more kinds it holds.
+
+[51] (2.598-599) "the great mother of the gods, and mother of wild beasts,
+     and begetter of our body": the earth, under the titles of the Great
+     Mother, Cybele, whose cult came to Rome from Phrygia in 204 BC. The
+     long account of her procession that follows (600-643) is set out with
+     care in order to be dismissed in two lines (644-645). The Latin plays
+     on mater, "mother", and materies, "matter", which the English cannot
+     keep.
+
+[52] (2.600-613) "the learned poets of the Greeks" read the cult as
+     allegory, and Lucretius reports their readings: the chariot in the air
+     is the earth hung in space, the lions are wild offspring tamed by their
+     parents' kindness, the crown of walls is the earth bearing cities. The
+     image carried through the cities is the Roman procession of the
+     Megalensia in April; "the Idaean Mother" (611) is named from Mount Ida
+     in Phrygia, the home of the cult, and the claim that grain began there
+     was one of the old explanations of her Phrygian escort.
+
+[53] (2.614-617) The Galli were her eunuch priests. The allegory makes them
+     a warning: those who have outraged the Mother's power, or their
+     parents, are unworthy to beget. "The shores of light" (in oras luminis)
+     has no "shining", as the Latin has no dias.
+
+[54] (2.618-623) The drums, cymbals, horns and the Phrygian pipe are the
+     instruments of the cult, and the weapons carried before the goddess are
+     "signs of violent frenzy"; Lucretius describes the terror as a device,
+     meant to frighten the ungrateful.
+
+[55] (2.629-639) The Curetes of Crete danced in armor around the infant
+     Jupiter on Mount Dicte ("Dictaean"), clashing bronze to drown his
+     cries, so that his father Saturn, who swallowed his children, would not
+     find him; "the Mother" of 639 is Jupiter's mother. Lucretius identifies
+     the armed dancers of the Phrygian procession with them, as the Romans
+     did.
+
+[56] (2.636) This line is a copyist's garbling of the end of 635 and the
+     start of 637, and editors delete it; the source prints it, and the
+     translation renders it as printed, so the repetition is the damage and
+     not the poet's emphasis.
+
+[57] (2.646-651) These six lines repeat 1.44-49; here they are in place, the
+     doctrine of the gods' untroubled peace set against the cult just
+     described. The English repeats its own lines.
+
+[58] (2.655-659, 680) To call the sea Neptune, grain Ceres and wine Bacchus
+     is allowed as a way of speaking, so long as "foul religion" (religione
+     turpi) does not come in with the names. The source prints 680 after
+     659, where editors have moved it from its transmitted place; the
+     translation keeps the printed order and the numbers.
+
+[59] (2.688-699) The letters of the alphabet again (1.197, 1.823-829):
+     elementa is "elements" for both letters and the elements of things, and
+     the argument needs the one word. Line 694 is the refrain of 337 and
+     724.
+
+[60] (2.700-706) The Chimaera was the fire-breathing monster of Greek myth,
+     part lion, part goat, part serpent. If seeds could join in any way,
+     such things would be common; Book 5 (5.878-924) makes the same argument
+     against centaurs and Scyllas.
+
+[61] (2.718-719) "a certain principle bounds all things" (quaedam ratio res
+     terminat omnis): an obscure line, which some editors think corrupt. The
+     translation renders the printed text; the sense wanted is that the law
+     of fixed kinds holds for everything, not only for living things.
+
+[62] (2.725-727) "intervals, paths, connections, weights, blows, collisions,
+     motions": the list of the ways first-beginnings differ in relation,
+     which recurs at 1020-1021 with the five words of 1.685 added, and at
+     5.441.
+
+[63] (2.739-740) "casting of the mind" (animi iniectus) is Epicurus's phrase
+     for the mind's direct grasp of what the senses cannot reach, the
+     epibole tes dianoias; "the free cast of the mind" (animi iactus, 1047)
+     is the same act. The English keeps "casting" and "cast" for the two.
+
+[64] (2.753-754) These two lines repeat 1.670-671 and 1.792-793, and 756
+     repeats 1.673; the English repeats its own lines.
+
+[65] (2.766-767) "white waves of shining marble" (candenti marmore): marmor
+     is the Latin poets' word for the glittering surface of the sea as well
+     as for the stone, so the simile and the figure are one.
+
+[66] (2.801-809) The dove's neck and the peacock's tail change color with
+     the angle of the light, so the color is not in the thing. "Fire-bronze"
+     (pyropus) is a red alloy of bronze and gold, not a gem; "emeralds"
+     (zmaragdos) is any bright green stone.
+
+[67] (2.829-831) The source prints austrum, which is no word; the
+     translation reads ostrum, "purple cloth", with most editors, as "thread
+     by thread" (filatim) requires, rather than the conjecture aurum,
+     "gold". "Scarlet" (poeniceus) is the Phoenician red, a cousin of the
+     purple.
+
+[68] (2.833) particulae are the small pieces of a compound, which still show
+     color before they come apart into the colorless "seeds of things"; the
+     word is not one of Lucretius's names for the first-beginnings.
+
+[69] (2.847-853) The perfumer's rule: marjoram oil (amaracinum), myrrh oil
+     (stacte) and nard were costly scents, and their base had to be an olive
+     oil with no smell of its own, so as not to taint them. Marjoram oil
+     returns at 6.973.
+
+[70] (2.871-873) Worms born from dung and rotting earth: the ancient
+     commonplace of life arising from the lifeless, which Lucretius takes as
+     plain fact; the example returns at 898-901 and 926-930.
+
+[71] (2.903a) The source marks a line or lines lost after 903. The sentence
+     of 902-903 has lost its verb, and 904 resumes in the middle of a
+     thought; the translation prints the gap and supplies nothing.
+
+[72] (2.911) The text is disputed; the translation renders it as printed,
+     with the sense that the mind refuses to grant the limbs senses of their
+     own, since a hand cut off feels nothing.
+
+[73] (2.944-951) "the knots of the vital spirit" (vitalis animae nodos):
+     anima is "spirit", and the knots are the bonds that hold it in the
+     body, which Book 3 explains; a blow too great for the creature loosens
+     them and drives the spirit out through the body's passages (caulas).
+
+[74] (2.963-972) Pain is the disturbance of bodies from their seats and
+     pleasure their return: the Epicurean definition. The first-beginnings,
+     having no smaller parts to be disturbed, can feel neither.
+
+[75] (2.973-990) The laughing and weeping first-beginnings of 1.915-920
+     again, now pressed to the regress: if what laughs must be made of
+     laughing things, those too must be, without end.
+
+[76] (2.991-1001) Sky as father and earth as mother (1.250-251), given a
+     physical sense: rain is the seed, and the earth earns her name by
+     feeding what she bears. That what came from the ether returns to the
+     ether, and earth to earth, was a commonplace of Greek epitaphs; "the
+     precincts of heaven" (caeli templa) are its regions.
+
+[77] (2.1013-1022) The letters of the verse once more: the same letters
+     spell sky, sea, lands, rivers, sun. The nine-word list of 1020-1021
+     joins the seven of 726-727 to the five of 1.685, and 5.440-441 repeats
+     it.
+
+[78] (2.1044-1047) "these walls of the world" (moenia mundi) are the walls
+     of 1.73, and the reader is asked to pass them as Epicurus did; "the
+     free cast of the mind" (animi iactus) is the act noted at 740.
+
+[79] (2.1052-1066) Other worlds: since space and matter are infinite, and
+     this world was made by chance collisions with no design, the same must
+     have happened elsewhere, and Lucretius concludes to "other gatherings
+     of matter" like ours. A modern reader may hear the plurality of worlds
+     of later cosmology; that is the reader's association, not the poet's
+     claim.
+
+[80] (2.1061) The source prints coluerunt, "tilled", which gives no sense;
+     the translation reads coaluerunt, "grew together", with most editors.
+
+[81] (2.1082) "the twin offspring of men" (hominum geminam prolem): the
+     human race in its two sexes.
+
+[82] (2.1087-1089) "the boundary-stone of life, set deep" (vitae depactus
+     terminus alte) is the figure of 1.77 and 1.596, the fixed limit of each
+     thing's power; here it is mortality, and it binds worlds as it binds
+     the creatures in them.
+
+[83] (2.1093-1104) Lucretius swears "by the holy hearts of the gods" and
+     their calm, and the oath is the argument: beings in untroubled peace
+     cannot be running the heavens, warming the earth and hurling
+     thunderbolts. The bolt that passes the guilty and kills the innocent is
+     the stock Epicurean case against divine justice, argued at length at
+     6.387-422.
+
+[84] (2.1117) "the creating nature of things" (rerum natura creatrix): the
+     phrase of 1.629 and 5.1362, nature as maker.
+
+[85] (2.1144-1145) The world's walls (1.73) will be stormed like a city's:
+     the mortality of the world, which Book 5 argues at length (5.91-415).
+
+[86] (2.1150-1152) "the worn-out earth" (effeta tellus) is a mother past
+     childbearing; she once bore every kind, including the great beasts, and
+     now bears only small ones. Book 5 tells how she bore the first living
+     things (5.780-836).
+
+[87] (2.1153-1154) Homer's golden chain (Iliad 8.19), which Zeus boasts he
+     could let down from heaven; Lucretius denies that mortals came down it.
+
+[88] (2.1168-1169) "the drift of time" (temporis momen) is the printed
+     reading, momen being movement or tendency; some editors read nomen,
+     "the name of the times". The translation keeps the harder printed word.
+
+[89] (2.1173-1174) "the bier" (capulum) is the language of burial: the book
+     ends with the old man who praises his father's times and does not see
+     that he, his vines and the earth itself are going to one funeral.

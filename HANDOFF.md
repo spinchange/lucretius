@@ -16,7 +16,7 @@ source of truth for what has been done to each segment.
 | annotate (Sonnet) | 58/58 | draft notes, all marked DRAFT |
 | review (translator, Fable) | 58/58 (all six books) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines, Book 3: 89, Book 4: 92, Book 5: 206, Book 6: 206 lines patched |
 | assemble | all six books | `translation/book_0N.txt`, all from review text; `check_segment --all` now exits 0 |
-| notes | Book 1 final (76 notes) | Books 2-6 still carry `{{NOTE: ...}}` placeholders and DRAFT notes |
+| notes | Books 1-2 final (76, 89 notes) | Books 3-6 still carry `{{NOTE: ...}}` placeholders and DRAFT notes |
 | margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
 | audiobook | Books 1-2 built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); Book 2: 26 chunks, 64.9 min, all strict QA passes |
 
@@ -281,11 +281,17 @@ source, and re-render the affected chunk afterwards.
   1.22 states that rule. Proposed fix: drop "shining" in both lines (13 and
   14 syllables after the change). The user decides; the alternative is to
   amend the register to treat 1.170 and 1.179 as the full refrain.
+- 2.833 "by the particles before they part into the seeds of things":
+  "particles" was barred by the register in the Book 3 review (particulae =
+  tiny parts, small pieces; 3.665, 3.708, 4.261, 4.776), but the Book 2
+  review predates that rule and left it. Proposed fix: "by the small pieces
+  before they part into the seeds of things" (13 syllables). Note [69] at
+  2.833 is written so that it stays true either way.
 
 ## Next session
 
-Continue the notes stage with Book 2, then Books 3-6, one book per commit,
-the same way (see "Notes stage" above). Before that, run `git log`,
+Continue the notes stage with Book 3, then Books 4-6, one book per commit,
+the same way (see "Notes stage" above; Book 2 is done, 89 notes). Before that, run `git log`,
 `python tools/check_segment.py --all` (expect exit 0) and
 `python tools/check_narration.py --all` (expect every book to match).
 
