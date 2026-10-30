@@ -227,9 +227,8 @@ every book unless explicitly revisited. Modelled on the Iliad project's
     5.82-90 (6.70 keeps the Latin's semicolon); 6.252 = 4.171; 6.635-638 =
     5.269-272 (6.637 "returns" for redit, where 5.271 has fluit); 6.924-926
     and 6.928-935 = 4.218-220 and 4.222-229 (6.927 differs in the Latin:
-    varii sonitus manare; 6.923 is the Latin of 4.217 but reads "bodies
-    that strike the eyes and provoke the sight", because the Book 4 line
-    carries "are sent out" from 4.216 and Book 6 has mitti at 6.922).
+    varii sonitus manare; 6.923 = 4.217 verbatim, 6.922 recast so that
+    mitti falls in 6.923 as it does in the Book 4 English).
   - Inside Book 6: 6.91-93 = 6.383-385 ("from what quarter the flying fire
     has come, or into which half / it has turned from here, in what way
     through walled-in places / it has slipped in, and how, having held
