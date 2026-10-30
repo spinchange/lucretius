@@ -1,0 +1,31 @@
+[DRAFT] (1.1002) The argument for an unbounded universe, begun before this segment, runs on the void. The "bright thunderbolts" (clara fulmina) are the fastest thing Lucretius can imagine, and the lines say that even they could not shorten the distance by travelling it.
+
+[DRAFT] (1.1008) Lucretius is arguing that the sum of things (rerum summa) cannot be limited from outside, since the only possible limits are body and void. Body can be bounded only by void, and void only by body, so each limit presupposes something beyond it and the series never ends.
+
+[DRAFT] (1.1013) Many editors posit a lost line or lines after 1.1013, because the sentence has no completed main clause. The condition at 1.1012 ("if the other did not bound it") is picked up by the result at 1.1014, so the sense can be followed. The translation prints the line as the manuscripts give it and supplies nothing. The point is that if either void or body were unbounded alone, the other would be swallowed or scattered and no stable world could stand.
+
+[DRAFT] (1.1021) Here the poem rejects any design in the first-beginnings (primordia): they did not place themselves "with a shrewd mind" (sagaci mente) or make agreements (pepigere) about their motions. Order arises because they try "every kind of motion and union" (omne genus motus et coetus) until they land on arrangements that hold. A modern reader may hear natural selection in this, but that is the reader's association, not the poet's claim. Lucretius uses the same trial-and-error logic in his account of the earth's early creatures in Book 5.
+
+[DRAFT] (1.1025) "Ex infinito" modifies the harrying of the atoms, "from infinite time", more naturally than infinite space. Both are meant, and the translation keeps the ambiguity. The same phrase recurs in 1.1036 with matter ("from the infinite") as the source of supply.
+
+[DRAFT] (1.1052) Here begins the attack on the doctrine that everything presses toward the middle (in medium niti) of the universe. Lucretius names no opponents, saying only "they say" (dicunt). The view is Stoic, and perhaps also Aristotelian, since it makes the cosmos a finite sphere with a centre of gravity. Memmius is addressed by name, as the reader to be warned off it.
+
+[DRAFT] (1.1058) The antipodes: if everything presses to the earth's centre, people on the far side stand upside down (suppa). The comparison with images seen in water (simulacra, 1.1060) is the opponents' analogy. The register's "images" for simulacra is the Book 4 term, here used in an everyday sense.
+
+[DRAFT] (1.1068) Lines 1.1068-1075 are damaged at their right edge, and what survives is a set of fragmentary line-openings. The translation prints the gaps and does not fill them. The fragments suggest the poet is saying that the "middle" is an empty notion held only by fools, and that an infinite universe has no centre.
+
+[DRAFT] (1.1074) The argument against a centre rests on the void's indifference: void (inane) yields to heavy bodies everywhere alike, "through the middle and through what is not the middle", so no point can hold anything up. The register keeps "void" for inane, and the explanatory gloss "which we call void" (quod inane vocamus) is Lucretius's own.
+
+[DRAFT] (1.1086) The source prints 1.1086 before 1.1085, following the editorial transposition recorded in the register. The English follows the source order. The sense is that earthy and watery things are the ones the opponents say press toward the middle.
+
+[DRAFT] (1.1089) The opponents' claim is that fire and air flee from the middle. The "signs" (signis) are the constellations or stars, which flicker through the ether because heat gathers at the outer edge. This is a Stoic physics of the cosmos.
+
+[DRAFT] (1.1093) Eight lines are lost here, between 1.1093 and 1.1102. The translation prints the unnumbered [lacuna] lines in the same number and supplies nothing. The sentence begins an argument about trees and food and breaks off, and the text resumes in the middle of a sentence at 1.1102, where the subject is the danger to the world if the Stoic view were correct.
+
+[DRAFT] (1.1102) "Flammantia moenia mundi" is rendered "the walls of the world" without "flaming" because only "flammarum moenia" survives in this clause. The register's whole-phrase rendering, "the flaming walls of the world", was fixed at 1.73, where the phrase first occurs. This is a deliberate echo of the proem's description of Epicurus's journey beyond the world's edge. The collapse imagined here is the same boundary, now falling in.
+
+[DRAFT] (1.1110) "Primordia caeca" is rendered "unseen first-beginnings" for the register's primordia. The adjective caeca means "blind" or "unseen". It is the same word that appears at 1.1115 for blind night (nox caeca), so the poem ends the book's argument on a play between blind atoms and the night that cannot hide the road.
+
+[DRAFT] (1.1111) "Ianua leti", the "door of death", is a metaphor for the single gap through which, if bodies ran short anywhere, the whole mass of matter would rush out. It is the last image of the infinity argument: a finite universe would have one leak, and that leak would be fatal to everything.
+
+[DRAFT] (1.1117) The last line, "ita res accendent lumina rebus", carries the book's image of light and understanding. It echoes the earlier claim, repeated through the poem, that darkness is dispelled by understanding rather than by the sun (compare 1.146-148). The "lights" (lumina) kindle one another in a chain of argument.

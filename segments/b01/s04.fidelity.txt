@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+722	LEXICAL	MINOR	0.50	"vasta Charybdis" has vasta as "vast" or "desolate", but "wasting Charybdis" reads as if Charybdis wastes things, which displaces the sense; "Here is vast Charybdis, and here..."

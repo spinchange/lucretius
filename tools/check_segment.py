@@ -19,7 +19,7 @@ def check(entry, quiet=False):
     lat = parse_lines(seg_path(entry, "latin").read_text(encoding="utf-8"))
     p = seg_path(entry, "review") if seg_path(entry, "review").exists() else seg_path(entry, "translate")
     if not p.exists():
-        return [f"{entry['id']}: no translation file"]
+        return [] if quiet else [f"{entry['id']}: no translation file"]
     eng = parse_lines(p.read_text(encoding="utf-8"))
     lk = [k for k, _ in lat]; ek = [k for k, _ in eng]
     if lk != ek:
@@ -55,6 +55,8 @@ def main():
     todo = [e for e in m["segments"] if "--all" in ids or e["id"] in ids]
     bad = 0
     for e in todo:
+        if "--all" in ids and not seg_path(e, "translate").exists():
+            continue
         probs = check(e)
         for p in probs: print(p)
         bad += bool(probs)

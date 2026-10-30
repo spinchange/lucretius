@@ -1,0 +1,37 @@
+[DRAFT] (1.484) Principia ("principiorum") is Lucretius's variant for primordia, and the translation keeps the two words apart: "first-beginnings" for primordia, plain "beginnings" for principia. This is the same body of doctrine under a second name, as with semina, corpora prima and materies (1.58-61).
+
+[DRAFT] (1.486) The argument opens with the thesis that the first-beginnings cannot be destroyed because they are solid (solido corpore). "Quench" (stinguere, with the initial e lost in the manuscript spelling) is the verb for putting out a flame or a life, and it is used here of atoms.
+
+[DRAFT] (1.489) The examples of what passes through "solid" things are the thunderbolt (fulmen), sound, heat, and cold. Lucretius uses them to show that apparent solidity (walls, metals) is really porosity, which is the void in things; the argument for true solidity is deferred to 1.498ff.
+
+[DRAFT] (1.493) "The ice of bronze" (glacies aeris) is a bold phrase: bronze is imagined as congealed like ice and so melts by the same logic. The tag stays literal, as the register requires, because the figure is Lucretius's own.
+
+[DRAFT] (1.495) "As custom has it" (rite) refers to the Roman habit of pouring water into cups held in the hand, as at a libation or drinking. It supplies Lucretius with his sensory proof that cold (frigus) passes through silver.
+
+[DRAFT] (1.503) The twofold nature (duplex natura) of body and place (corporis atque loci) is the central dichotomy of Epicurean physics: everything is either body or void, with nothing between. The "place" here is the void (inane), as the next lines (1.507) make plain.
+
+[DRAFT] (1.507) First occurrence in this segment of inane/vacuum ("quod inane vocamus"). The register fixes "void", never "vacuum", although the Latin offers both inane and vacuum as synonyms, as here in 1.509.
+
+[DRAFT] (1.512) Materiem ("matter") here means the solid envelope that must enclose any void, so that every compound body is "matter around void". The argument is that something must contain the void, and that container is nothing but a union (concilium) of solid matter.
+
+[DRAFT] (1.520) Vocaret versus vacaret: the transmitted text reads "vocaret" (would call), but sense and grammar are better served by "vacaret" ("were empty"), a standard emendation. The translation follows vacaret, as the placeholder says.
+
+[DRAFT] (1.522) There is some textual doubt in 1.521-523 (the sequence "nisi contra... complerent... constaret"), but the sense is clear: if there were no void everything would be solid, and if there were no definite bodies everything would be void. The English follows the transmitted text.
+
+[DRAFT] (1.531) "As I showed you already, a little while before" (iam supra tibi paulo ostendimus ante) refers back to the earlier argument about the solid bodies resisting blows and penetration, begun at 1.510ff. Some editors suspect the line is an interpolation or a loose reference because "ostendimus" with a first-person plural appears to look back to arguments not yet fully made, but the translation keeps it.
+
+[DRAFT] (1.535) "By which all things are undone" (quibus omnia conficiuntur) is a compressed statement of the doctrine that heat, cold, moisture and fire are the agents of dissolution, and they can act only where void gives them passage. The solid first bodies lack void and are therefore immune.
+
+[DRAFT] (1.540) The argument from conservation begins here: if matter were not eternal, then given infinite past time everything would already have returned to nothing, and renewal from nothing is excluded by the earlier principle (1.150ff, "nil posse creari de nilo"). A modern reader may hear conservation of matter; that is the reader's association, not the poet's claim.
+
+[DRAFT] (1.548) "Solid singleness" (solida simplicitate) is the first appearance of simplicitas in this argument: the first-beginnings are simple, meaning without parts that could be separated. The translation keeps "singleness" for simplicitas throughout (also 1.574).
+
+[DRAFT] (1.551) The second argument for limits to breaking: if nothing set a limit (finis), the endless breaking of past time would have worn everything down, since dissolution is faster than renewal (1.556-557). The reasoning is a reductio, which Lucretius completes at 1.561 with "at nunc" ("but as it is").
+
+[DRAFT] (1.586) Foedera naturai ("nature's covenants") is the register's fixed rendering, and this is its first occurrence. The legal and political metaphor of a treaty or binding agreement (foedus) between things and nature is characteristic of Lucretius, and it recurs at 1.587 as "sancitum" ("decreed") and in 2.302, 5.310, 5.924 and 5.57.
+
+[DRAFT] (1.589) The "varied birds" (variae volucres) showing species markings (maculas generalis) serves as an example of fixity of kind. It is one of several arguments Lucretius draws from the stability of species to support the unchangeability of the first-beginnings.
+
+[DRAFT] (1.595) Lines 1.594-596 repeat 1.75-77 almost word for word ("finita potestas denique cuique qua nam sit ratione atque alte terminus haerens"). The proem's lines about Epicurus's discovery of what can and cannot come to be are reused here as an argument, and the English repeats its earlier wording verbatim, per the register.
+
+[DRAFT] (1.596) "Boundary-stone set deep" (alte terminus haerens) is a Roman image: the terminus was the boundary marker sunk into the ground, sacred to the god Terminus. It is the same figure as at 1.77 and anchors the theme that each thing has a fixed limit to its power.

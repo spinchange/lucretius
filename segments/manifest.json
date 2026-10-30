@@ -27,6 +27,13 @@
      "started": "2026-10-30T03:04:39+00:00",
      "finished": "2026-10-30T03:05:20+00:00",
      "seconds": 41
+    },
+    "annotate": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:24+00:00",
+     "seconds": 26
     }
    }
   },
@@ -54,6 +61,13 @@
      "started": "2026-10-30T03:04:39+00:00",
      "finished": "2026-10-30T03:05:09+00:00",
      "seconds": 30
+    },
+    "annotate": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:22+00:00",
+     "seconds": 24
     }
    }
   },
@@ -68,9 +82,26 @@
    "n": 161,
    "stages": {
     "translate": {
-     "status": "running",
+     "status": "done",
      "model": "opus",
-     "started": "2026-10-30T03:05:08+00:00"
+     "started": "2026-10-30T03:05:08+00:00",
+     "finished": "2026-10-30T03:06:58+00:00",
+     "seconds": 110,
+     "check": "clean"
+    },
+    "fidelity": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:41+00:00",
+     "seconds": 43
+    },
+    "annotate": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:21+00:00",
+     "seconds": 23
     }
    }
   },
@@ -91,6 +122,20 @@
      "finished": "2026-10-30T03:06:15+00:00",
      "seconds": 67,
      "check": "clean"
+    },
+    "fidelity": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:27+00:00",
+     "seconds": 29
+    },
+    "annotate": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:44+00:00",
+     "seconds": 22
     }
    }
   },
@@ -105,9 +150,26 @@
    "n": 164,
    "stages": {
     "translate": {
-     "status": "running",
+     "status": "done",
      "model": "opus",
-     "started": "2026-10-30T03:05:08+00:00"
+     "started": "2026-10-30T03:05:08+00:00",
+     "finished": "2026-10-30T03:07:08+00:00",
+     "seconds": 120,
+     "check": "clean"
+    },
+    "annotate": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:50+00:00",
+     "seconds": 27
+    },
+    "fidelity": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:27+00:00",
+     "seconds": 29
     }
    }
   },
@@ -122,9 +184,26 @@
    "n": 113,
    "stages": {
     "translate": {
-     "status": "running",
+     "status": "done",
      "model": "opus",
-     "started": "2026-10-30T03:05:08+00:00"
+     "started": "2026-10-30T03:05:08+00:00",
+     "finished": "2026-10-30T03:07:23+00:00",
+     "seconds": 68,
+     "check": "clean"
+    },
+    "annotate": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:41+00:00",
+     "seconds": 17
+    },
+    "fidelity": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:51+00:00",
+     "seconds": 24
     }
    }
   },
@@ -139,9 +218,26 @@
    "n": 127,
    "stages": {
     "translate": {
-     "status": "running",
+     "status": "done",
      "model": "opus",
-     "started": "2026-10-30T03:05:08+00:00"
+     "started": "2026-10-30T03:05:08+00:00",
+     "finished": "2026-10-30T03:08:40+00:00",
+     "seconds": 102,
+     "check": "clean"
+    },
+    "annotate": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:11:03+00:00",
+     "seconds": 22
+    },
+    "fidelity": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:10:47+00:00",
+     "seconds": 20
     }
    }
   },
@@ -156,9 +252,26 @@
    "n": 116,
    "stages": {
     "translate": {
-     "status": "running",
+     "status": "done",
      "model": "opus",
-     "started": "2026-10-30T03:05:08+00:00"
+     "started": "2026-10-30T03:05:08+00:00",
+     "finished": "2026-10-30T03:08:07+00:00",
+     "seconds": 59,
+     "check": "clean"
+    },
+    "annotate": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:11:05+00:00",
+     "seconds": 21
+    },
+    "fidelity": {
+     "status": "done",
+     "model": "sonnet",
+     "started": "2026-10-30T03:09:58+00:00",
+     "finished": "2026-10-30T03:11:06+00:00",
+     "seconds": 24
     }
    }
   },

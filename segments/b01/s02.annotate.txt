@@ -1,0 +1,29 @@
+[DRAFT] (1.322) The argument opens with the unseen: growth and wasting too gradual for the eye (oculorum acies) show that nature works through "unseen bodies" (corporibus caecis, 1.328), the poem's first firm statement that the first-beginnings are invisible. Compare 1.268-297, where the unseen winds make the same point.
+
+[DRAFT] (1.329) The void is introduced as a premise of motion. "Place … untouchable, void and empty" (locus … intactus inane vacansque, 1.334) and the later "place and space" (locus ac spatium, 1.426) are two names for one thing, and the English keeps "void" for inane throughout. A modern reader may associate this with the vacuum, but Lucretius means only a place that offers no resistance.
+
+[DRAFT] (1.336) "Office" (officium) is the proper function of body: to obstruct and stand in the way (officere atque obstare). Lucretius builds the sound-play into the argument, since a body's job is to get in the way, which is why a world without void could not move.
+
+[DRAFT] (1.346) Here begins the second proof of void: apparently solid things are porous (raro cum corpore). The examples are water seeping through rock, food spreading through plants and animals, voices passing through walls, and cold reaching the bones.
+
+[DRAFT] (1.358) The third proof is the argument from weight. Equal bulk with unequal weight must mean unequal proportions of body (corpus) and void (vacui), because body presses down and void has no weight. The wool and lead are the example.
+
+[DRAFT] (1.370) The "certain men" (quidam) are unnamed. The argument is the fish and the water, which is later called *antiperistasis* (the surrounding medium rushes round to fill the gap). It is usually attributed to Aristotelian and Peripatetic physics, though Lucretius names no one. His reply is that the water cannot yield unless there is already somewhere for it to go.
+
+[DRAFT] (1.384) Two broad bodies (corpora lata) springing apart leave a gap, and the air cannot fill the whole of it at once, so some of the gap is empty for a moment. The next argument, against condensation (condenseat), says that air that "draws itself into itself" would itself need void in which to do it.
+
+[DRAFT] (1.404) The simile of the hounds on the scent is Lucretius's way of promising Memmius that a few tracks (vestigia) are enough for a keen mind (animo sagaci) to find the rest. The hunting image recurs at 1.402-409's close in "drag the truth out" (verum protrahere). The promise to Memmius at 1.411-417 is a conventional protest that he has more to say than a lifetime allows.
+
+[DRAFT] (1.419) Lucretius resumes the main thread (coeptum pertexere) with the basic dichotomy: "bodies … and void" (corpora … et inane). The phrase "all nature" (omnis natura) here means the whole of what exists, not the nature of things in its other senses.
+
+[DRAFT] (1.422) The Latin is *communis sensus*, here taken as the shared sensation of all, and the translator's placeholder is right that it is not "common sense". The point of doctrine is that sensation is the foundation (fides prima) on which all reasoning about hidden things rests. This is Epicurus's canon of truth, which Lucretius defends at length in 4.469-521.
+
+[DRAFT] (1.430) The argument that there is no third nature (tertia natura) is exhaustive. Whatever exists either has touch (tactus), and so is body, or lacks it and so is void (1.437-439). The second form of the argument (1.440-444) adds that a thing must act, be acted upon, or provide room.
+
+[DRAFT] (1.449) The translator's placeholder is correct: coniunctum and eventum correspond to Epicurus's *symptoma* and *symbebekos* (permanent property and accident), though Lucretius uses plain Latin words and no Greek terms. Besides the examples given at 1.453-454, the key test is whether a thing can be separated without destroying it (sine permitiali discidio, "without a deadly division"). Slavery, freedom and the rest (1.455-456) can come and go while the thing remains.
+
+[DRAFT] (1.459) Time is not a thing in itself, being derived from the motion and rest of things (rerum motu placidaque quiete). Lucretius gives it only the status of an accident or relation.
+
+[DRAFT] (1.464) The story of Helen (Tyndaridem, "daughter of Tyndareus") and the Trojan War is Lucretius's example of an event that is an accident of persons and places, not a thing existing by itself. The Trojan horse is called *durateus* (1.476), "wooden", a Homeric word that Lucretius borrows from the Greek (the Latin form of Greek *doureios*). The lines 1.471-477 echo the Helen story at the start of the poem's attack on religion (compare the Iphianassa story at 1.84-101), though that is the reader's association.
+
+[DRAFT] (1.469) The line "one thing will be said to be an accident of the lands, another of the regions" (aliud terris, aliud regionibus) is dense. It means that events of the Trojan War are accidents of the matter (terris) and the space (regionibus) in which they happened.

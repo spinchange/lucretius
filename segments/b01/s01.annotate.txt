@@ -1,0 +1,33 @@
+[DRAFT] (1.146) First occurrence in this segment of a refrain Lucretius repeats verbatim at 2.59-61, 3.91-93 and 6.39-41; it closes the proem's attack on religio and introduces each of the poem's major arguments. (terrorem animi tenebrasque ... naturae species ratioque) Here "mind" renders animus, the seat of thought and feeling, in keeping with the register.
+
+[DRAFT] (1.150) This is the first principle of the physics: nothing is born from nothing (nullam rem e nihilo gigni). Lucretius presents it as the remedy for the fear described in 151-154, since gods are invoked only where causes cannot be seen. The "divine will" is divinitus, "by divine agency."
+
+[DRAFT] (1.156) Lines 156-158 are printed before 155 in the source, an editorial transposition. The sense runs better if 155 ("and in what manner all things come about without the labor of gods," opera sine divom) follows 158, since it completes the "both ... and" begun there (et unde ... et quo modo). The translation keeps the printed order and the key numbers.
+
+[DRAFT] (1.159) The first of the arguments from nothing: if things arose from nothing, anything could arise from anything (ex omnibus rebus omne genus). Lucretius supports this with the missing "seed" (semine), the first occurrence of the register term "seeds of things" (semina rerum, 176), here used without the full phrase.
+
+[DRAFT] (1.167) Here "generative bodies" renders genitalia corpora, one of the register's several names for what a modern reader would call atoms. The rendering keeps it distinct from "first-beginnings" (primordia, 182) and "first bodies" (corpora prima, 171).
+
+[DRAFT] (1.170) The refrain "the shining shores of light" (oras in luminis) first appears here. Lucretius repeats it at 1.179 and elsewhere (2.577, 5.224, 5.781), and it fixes the English for the phrase.
+
+[DRAFT] (1.182) First occurrence in this segment of primordia, rendered "first-beginnings." This is the term a modern reader will know as atoms, and the verse offers no such word. The note on 167 and the register explain why the nearby synonyms stay distinct.
+
+[DRAFT] (1.197) The analogy of letters and things (ut verbis elementa videmus) recurs throughout the poem, e.g. 1.823-829 and 2.688-699. As the register notes, elementa means both the letters of the alphabet and the elements of things, a pun Lucretius exploits, and the translation keeps "elements" for both.
+
+[DRAFT] (1.223) Lucretius mentions the void here for the first time in the poem as the means by which things are dissolved: "through the voids" (per inania). The word inania is plural and the register term "void" (inane) is used in the singular; the doctrine itself is argued from 1.329 on, so the verse here states it without proof.
+
+[DRAFT] (1.228) The "artificer earth" (daedala tellus) and Venus (227) both stand for the productive forces of nature. Venus appears here as the generative power of the proem (1.1-28), not as a goddess who acts. "Artificer" is the register's fixed rendering of daedala, which also appears at 1.7 and 5.234.
+
+[DRAFT] (1.250) "Father ether" and "mother earth" (pater aether ... matris terrai) is the poem's image of the rain fertilizing the earth. It rests on an old mythic pairing of Sky and Earth, which Lucretius uses as metaphor within a naturalistic argument, and he returns to it at 2.991-1001.
+
+[DRAFT] (1.261) The young animals are drunk on "unmixed milk" (lacte mero), a witty use of merum, the Latin word for undiluted wine. Romans normally drank wine mixed with water, so the metaphor makes the animals' play a kind of intoxication. The line pairs mentes ... novellas, "young minds," with the animus of the register, though here the word is the looser mens.
+
+[DRAFT] (1.265) The transition "Come now" (nunc age) introduces the second main argument, that unseen bodies exist, after the proof that nothing comes from nothing or returns to nothing. Lucretius anticipates the reader's doubt (diffidere dictis) before giving the evidence of the wind (271-297), odors and heat (298-304), wet clothes (305-310), and the wearing away of rings, stones, and statues (311-318).
+
+[DRAFT] (1.271) The text here reads corpus, "body," as the source prints it, but many editors emend to pontum, "sea." The translation retains corpus and takes it as the sea's body, on the reading that the wind lashes "the body of the sea" because the argument concerns bodies.
+
+[DRAFT] (1.305) The "wave-breaking shore" (fluctifrago litore) is one of Lucretius's compound adjectives in the manner of Ennius, who made such coinings a mark of epic style. Lucretius uses them with restraint and often for natural phenomena, as with silvifragis ("forest-breaking," 275).
+
+[DRAFT] (1.316) The bronze statues (aena signa) at the city gates are an image of Roman custom: those who greet them (salutantum) touch the right hand, so the hands wear thin. This is the climax of the series of worn things and the one that most clearly shows unseen losses accumulating from touch.
+
+[DRAFT] (1.321) The envious nature (invida natura) is a personification that makes the invisibility of atoms a kind of jealousy, and it closes the first argument for unseen bodies. A modern reader may hear in this passage the later idea of erosion and the wearing of matter, but that is the reader's association, not the poet's claim.

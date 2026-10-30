@@ -74,7 +74,7 @@ def run_one(entry, stage, model, billing, timeout):
     RUNS.mkdir(exist_ok=True)
     t0 = time.time()
     r = subprocess.run(cmd, input=prompt.encode("utf-8"), capture_output=True, cwd=str(RUNS), env=env, timeout=timeout)
-    out = r.stdout.decode("utf-8", "replace").replace("\r\n", "\n").strip() + "\n"
+    out = strip_fences(r.stdout.decode("utf-8", "replace").replace("\r\n", "\n"))
     err = r.stderr.decode("utf-8", "replace")
     (RUNS / f"{entry['id']}.{stage}.log").write_text(err, encoding="utf-8")
     ok = r.returncode == 0 and len(out.strip()) > 0

@@ -1,0 +1,37 @@
+[DRAFT] (1.599) The argument runs from the "extremum cacumen" (the outermost point), which the senses can just make out at the edge of a visible body, to an inference about what lies beyond sight. The point has no parts and is "minima natura" (a least nature). It cannot exist alone, so it must cling in fixed order to its neighbours. The same argument returns at 749-752, where it is used against the other schools.
+
+[DRAFT] (1.609) The "primordia" are "first-beginnings" in this register, though a reader may know them as "atoms". "Simplicitate" (singleness) is the claim that they are solid and not composite. Their "minimae partes" (least parts) are conceptual limits of extension, not separable pieces, and so cannot be split off. This is why 611-612 deny that the primordia are put together "ex illorum conventu" (out of a gathering of those parts).
+
+[DRAFT] (1.615) The regress argument is that if there were no least part, a body would divide forever into halves ("dimidiae partis pars"), and a grain would then contain as many parts as the whole sum of things. Lucretius treats this as absurd because it erases the difference between small and large. A modern reader may hear an anticipation of the mathematics of infinite divisibility. That is the reader's association, and Lucretius rejects such division on physical grounds.
+
+[DRAFT] (1.638) Heraclitus of Ephesus (c. 500 BC) held that fire is the primary substance and that all things are exchanges of fire. He was proverbially "the Obscure" (Greek *ho skoteinos*), and "obscuram linguam" (dark speech) alludes to that. "Init proelia primus" (is first to enter the battle) casts the survey of rival schools as a military campaign, with Heraclitus as the first opponent.
+
+[DRAFT] (1.639) The word-play here is untranslatable. "Clarus" (bright in fame) is set against "obscuram" (dark), and "inanis" (empty-headed) is the same word as the noun "inane" (void) that this register renders "the void". The "inanes" are therefore also "the empty ones", though the verse puts "void" in no atomist technical sense.
+
+[DRAFT] (1.670) Lines 670-671 recur at 1.792-793, 2.753-754 and 3.519-520. This is the first appearance of the refrain: any change that carries a thing out of its own "fines" (bounds) is the death of what it was. This is the doctrine that change cannot be annihilation, and it rests on Lucretius's first principle that nothing comes from nothing and nothing returns to it. The English will need to repeat these lines word for word at each recurrence.
+
+[DRAFT] (1.684) At 684-686 the "concursus motus ordo positura figurae" (collisions, motions, order, position, shapes) name the properties by which primordia produce compound things. Lucretius uses the same list elsewhere, and the letters analogy at 1.817-829 develops it: the arrangement of the same elements makes different things. This is the answer to Heraclitus, since fire is itself a compound.
+
+[DRAFT] (1.693) Epicurean epistemology is behind the charge of self-refutation: the senses are the first criterion of truth (700, "qui vera ac falsa notemus"). Heraclitus takes his knowledge of fire from sensation and then discredits the same sensation when it reports other things. Lucretius develops the argument at greater length at 4.469-521.
+
+[DRAFT] (1.705) Lines 705-706 repeat 635-636, with "posse" in place of "videntur" and "consistere" where the first has "putarunt". It is the opening of the second round of the polemic, now extended to those who held other single elements. The English repeats the earlier wording, as the policy requires.
+
+[DRAFT] (1.707) The rivals are Anaximenes (air), Thales (water), and, for earth, an uncertain source, probably Xenophanes or a poet's gloss. The translator's placeholder correctly says that no single source is certain for earth. "Rerum naturas" (the natures of things) shows that each element was said to turn into all the others.
+
+[DRAFT] (1.715) "Anima" appears here with the sense "breath, air" as an element. The register fixes "anima" as "spirit" (the vital principle), but "ex igni terra atque anima... et imbri" lists the four elements. Rendering it "breath" is a deliberate exception for context and not a break in the register. The doctrine concerned is that of Empedocles' four roots.
+
+[DRAFT] (1.716) Empedocles of Acragas (modern Agrigento) in Sicily, fifth century BC, held that four "roots" (fire, air, earth, water) are mixed and separated by Love and Strife. He also wrote in hexameters. Lucretius praises him as a poet and rejects him as a physicist, as he does with Ennius at 1.117-126.
+
+[DRAFT] (1.717) "Triquetris" (three-cornered) is an old name for the triangular shape of Sicily (Trinacria). The digression on the island with its Strait of Messina, Charybdis and Etna (717-725) is a set-piece of local description. It is generally thought to be an imitation of Ennian or Alexandrian ecphrasis, though the text itself does not say so.
+
+[DRAFT] (1.721) The mainland across the strait is meant, and "Aeoliae" is the text as printed. The Aeolian Islands lie north of Sicily and not across the strait, so the manuscript reading is awkward. Editors have proposed "Italiae" (Italy) and other emendations. The translation follows the printed text.
+
+[DRAFT] (1.722) "Vasta Charybdis" (the wasting or devastating Charybdis) is the whirlpool of the strait, known from Homer (*Odyssey* 12). "Aetnaea... murmura" gives the volcano's rumblings, threatening to erupt again. The English "wasting" takes "vasta" in its sense of desolating, and the word could also mean "vast".
+
+[DRAFT] (1.731) "Carmina... divini pectoris" (the songs of his divine breast) refers to Empedocles' two hexameter poems, *On Nature* and *Purifications*. The praise "vix humana videatur stirpe creatus" (he scarcely seems born of human stock) is Lucretius's own tribute, one he gives later to Epicurus (5.8, "deus ille fuit"). The praise is real, but it makes the mistakes at 740-741 look worse.
+
+[DRAFT] (1.738) Lines 738-739 recur at 5.111-112. The Pythia was the priestess of Apollo (Phoebus) at Delphi, who spoke from the tripod and wore the laurel. Lucretius says that these thinkers gave answers "sanctius et multo certa ratione magis" (more holy and with far surer reasoning) than hers. The comparison with oracles is a sharp stroke against the religion he attacks.
+
+[DRAFT] (1.742) The criticism of Empedocles and the others is in four points: they deny the void yet allow motion (742-745), they allow unlimited division (746-752), they make their first-beginnings soft and perishable (753-758), and they make them hostile to one another (759-762). The last point leads into the argument that elements which destroy one another could not endure. "Veneno" (poison) is the picture for it.
+
+[DRAFT] (1.759) The thunderbolts, rains and winds scattering in a storm (761-762) are an image of elements that, on meeting, would either destroy one another or fly apart. The comparison is to storm clouds that gather and then disperse in violence, and the English keeps "diffugere" in both verbs as "scatter".

@@ -1,0 +1,5 @@
+FINDINGS
+NONE
+SECONDARY
+1089	LEXICAL	MINOR	0.50	"signis" (the constellations or star-patterns) is rendered "signs", and "tremere" (to twinkle) as "flickers", so the image of the ether trembling with stars is blurred; "flickers with its constellations".
+1024	AMBIGUITY	MINOR	0.50	"per omne ex infinito" is rendered "throughout the whole ... from infinite time", which settles "ex infinito" as temporal and "per omne" as spatial, though "from the infinite" could also mean from the infinite void; "from the infinite" would keep both readings open, perhaps with a note.

@@ -1,0 +1,21 @@
+[DRAFT] (1.763) The refutation of the four-element theory (Empedocles' earth, air, fire, water) continues here; Lucretius's argument is that anything that changes into another thing and back cannot be a first-beginning, since it is no more basic than what it changes into (alternis gignuntur enim). The "first-beginnings" are the register's term for what a modern reader may know as atoms (primordia).
+
+[DRAFT] (1.769) This line repeats 1.762 word for word (fulmina diffugere atque imbris ventosque videmus). The translation keeps the source's text and so keeps the repetition. Most editors bracket or delete it as a stray duplicate; it fits this context less well than the earlier one.
+
+[DRAFT] (1.774) "Not a living thing, not one with a lifeless body" (non animans, non exanimo cum corpore) is Lucretius's way of covering everything that can be created. Trees are put on the lifeless side because they are not animate in the Epicurean sense of having sensation.
+
+[DRAFT] (1.782) The target changes here to Heraclitus, whose cycle of fire into air, water and earth and back again is described (repetunt a caelo atque ignibus eius). Lucretius does not name him in this passage, and the translation likewise leaves the identification to the reader.
+
+[DRAFT] (1.791) "Brought back utterly to nothing" (ad nihilum redigantur funditus) invokes the doctrine, established earlier in Book 1, that nothing is destroyed into nothing. The argument is that if every candidate for first-beginning changes, then change would amount to total destruction (mors, 793), so something must remain unchanged.
+
+[DRAFT] (1.814) The explanation of why different foods nourish different things depends on the claim that the same first-beginnings are shared among many things (multa communia) but combined in different arrangements. The point is that the arrangement and motion of the shared first-beginnings (positura, motus, 818-819) matters as much as which ones are present.
+
+[DRAFT] (1.824) The analogy of letters (elementa) to the first-beginnings is the first of several in the poem; it is repeated in Book 2 (see 2.688-699, 2.1013-1022). The Latin elementa is both "letters" and "elements", and the English keeps "elements" for both, so the pun is visible in the translation; here the sense is plainly letters. Compare 1.196-197.
+
+[DRAFT] (1.830) The homoeomeria (Greek homoiomereia, "likeness of parts") is Anaxagoras's doctrine that each substance (bone, flesh, gold) is made of minute portions of the same substance. Lucretius says that Latin lacks a word for it (patrii sermonis egestas), a complaint he also makes at 1.136-139, and so he transliterates it. The translation leaves it untranslated, as he does.
+
+[DRAFT] (1.843) Anaxagoras is said to deny the void (inane) and the limit of division (neque corporibus finem esse secandis), and Lucretius counts him wrong on both with the earlier thinkers "of whom we spoke above" (supra quos diximus ante, 846), meaning Heraclitus, Empedocles and the others dealt with earlier in this stretch of the book. The void is the register's rendering of inane.
+
+[DRAFT] (1.860a) Here there is a lacuna after 860: the sentence beginning "since food increases the body" (quoniam cibus auget corpus alitque, 859) has lost its conclusion and the transition to the next argument. The translation prints the lacuna unnumbered and supplies nothing. The "or if they say" (sive, 861) picks up an alternative that is no longer visible.
+
+[DRAFT] (1.873) The syntax and sense of 873-874 are uncertain, and the lines are suspected of corruption or loss of a line. The translation follows the manuscript text as it stands, with "that" (ex alienigenis) and "feeds and increases" (alit auget) construed as a clause parallel to 871-872. Treat the rendering as a best reading of difficult Latin.

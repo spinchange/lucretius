@@ -1,0 +1,37 @@
+[DRAFT] (1.1) Aeneadum genetrix: Venus is mother of Aeneas, hence ancestress of the Romans; the invocation opens the poem with a Roman patron goddess. The register fixes voluptas as "pleasure" (voluptas), the same word Epicurus's school used for the highest good, so the epithet already carries doctrine and not only charm.
+
+[DRAFT] (1.10) The English lines 15 and 14 stand in the source order, with 15 printed before 14. The editor has transposed the pair so that the beasts "bound over the pastures" (persultant pabula laeta) before they "swim the rushing rivers" and "so, captured" (ita capta) gathers both. The translation follows the source order and keeps the line keys.
+
+[DRAFT] (1.26) Memmiadae nostro: Gaius Memmius, Roman aristocrat and praetor of 58 BC, is the poem's addressee. The poet's relation to him is that of client to patron, and "you" in the translation is always Memmius. The name is given in patronymic form, "son of the Memmii."
+
+[DRAFT] (1.32) Mavors is an old Latin form of Mars (Mavors). The scene of Mars conquered by love in Venus's lap is a well-known image. It lets the poet ask for peace through the one god who can calm the god of war.
+
+[DRAFT] (1.44) Lines 44-49 (omnis enim per se divum natura) state the Epicurean doctrine that the gods live in untroubled peace and take no notice of human affairs. They do not answer prayers or send anger, so this passage sits oddly beside the prayer to Venus just made. The same lines recur in Book 2 (2.646-651). Some editors have judged them out of place here, though the translation prints them.
+
+[DRAFT] (1.55) The first-beginnings (rerum primordia) are the technical name for what a modern reader knows as atoms. The Latin has no single fixed word; the poet supplies a cluster of names in 1.58-61 (materies, genitalia corpora, semina rerum, corpora prima), and the English keeps each distinct. Lucretius says "which we are used to calling" (suemus), which marks these as the school's own coinages and borrowings in Latin.
+
+[DRAFT] (1.63) religio is rendered "religion," the plain word, not "superstition." In Lucretius it names the fear-driven belief in gods who watch and punish, so the Epicurean attack falls on that and not on piety toward a distant divine nature as such.
+
+[DRAFT] (1.66) Graius homo is Epicurus, left unnamed here and named only later in the poem (3.1042). The translation keeps the periphrasis "a man of Greece." The first-person revolt against religion (primum...primusque, "first...and first") sets him as the hero of the poem.
+
+[DRAFT] (1.73) flammantia moenia mundi, "the flaming walls of the world," is the outer boundary of the cosmos in the poet's picture. The Epicurean claim is that the mind can travel past it into infinite space (omne immensum), where there are further worlds. A modern reader may hear a cosmology that outruns the visible sky; that is the reader's association, not the poet's own claim.
+
+[DRAFT] (1.74) mente animoque is rendered "in thought and mind." Mens and animus are merged here because mens is non-technical; the full contrast between animus (mind) and anima (spirit) is taken up in Book 3.
+
+[DRAFT] (1.81) elementa, rendered "elements," is also the Latin word for letters of the alphabet. Lucretius plays on this later when he compares atoms to letters (1.197 and following), so the English keeps one word for both.
+
+[DRAFT] (1.84) Triviai virginis is Diana, called Trivia as goddess of the crossroads and identified with the Greek Artemis; Iphianassa is Iphigenia, daughter of Agamemnon. At Aulis the Greek fleet was held by contrary winds until Agamemnon sacrificed her to obtain a fair voyage. The Danaans (Danaum) are the Greeks.
+
+[DRAFT] (1.98) casta inceste: the oxymoron "pure, impurely" turns on the girl's chastity and the pollution of the act, which was meant to look like a marriage (Hymenaeo, the wedding-hymn) but ended in slaughter. The infula, the ribbon, was worn by both brides and sacrificial victims, which is the double sense the passage plays on.
+
+[DRAFT] (1.101) tantum religio potuit suadere malorum, "so much evil could religion prompt," is the most famous line of the proem and the poem's thesis in short form. It closes the Aulis scene as a refrain-like verdict.
+
+[DRAFT] (1.112) anima is rendered "spirit," the vital principle, and not "soul." The lines 112-116 list the open questions about the nature of the spirit (born or not, perishing or not) that fear of the afterlife exploits, and Lucretius answers them in Book 3.
+
+[DRAFT] (1.115) Orci...lacunas: Orcus is a Roman name for the underworld and its god. Lucretius takes the underworld imagery from the poets and treats it as the material of fear.
+
+[DRAFT] (1.117) Ennius (239-169 BC) is the founding poet of Latin epic, author of the Annales. He claimed in a dream that Homer's spirit had passed into him by transmigration, a Pythagorean idea. Lucretius honors him as the one who first brought a crown from Helicon (the Muses' mountain in Boeotia) to Italy, and uses him as his own predecessor and model.
+
+[DRAFT] (1.120) Acherusia templa, "the precincts of Acheron," renders templa as regions, not "temples." In this passage Ennius's underworld contains neither souls nor bodies but images (simulacra, 1.123), the word the register fixes for the thin films that Book 4 will make a theory of vision.
+
+[DRAFT] (1.136) Nec me animi fallit, "nor does it escape my mind," opens the passage on the poverty of Latin (egestatem linguae) for philosophical terms. Lucretius says this again at 1.832 and 3.260, so the complaint is a recurring one. The translation's fixed terms are partly this coinage-problem in English.

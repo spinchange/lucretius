@@ -1,0 +1,4 @@
+FINDINGS
+NONE
+SECONDARY
+476	GRAMMAR	MODERATE	0.60	"Troiianis Pergama partu ... nocturno Graiiugenarum" means the horse set Troy aflame by the Greeks' night-time birth out of it, but "by its birth in the night of sons of the Greeks" reads as the horse's own birth and leaves the Greeks' emergence unclear; "nor would the wooden horse, unknown to the Trojans, have set Pergamum aflame, by the night-born issue of the sons of the Greeks"
