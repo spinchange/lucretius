@@ -18,7 +18,7 @@ source of truth for what has been done to each segment.
 | assemble | all six books | `translation/book_0N.txt`; Books 1-5 from review text |
 | notes | none final | 302 `{{NOTE: ...}}` placeholders across the books |
 | margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
-| audiobook | Book 1 built | `audiobook-build-book01/books/book-01-full.wav` and `-review.m4a` (untracked) |
+| audiobook | Books 1-2 built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); Book 2: 26 chunks, 64.9 min, all strict QA passes |
 
 Local repo only, no remote.
 
