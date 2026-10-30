@@ -69,7 +69,7 @@ Every opening of Book 2 was read. Results in `marginalia.tsv` (51 entries):
 
 - All sixteen items on Brown's list were found and read; every verbal note
   agrees with her transcription letter for letter. One correction to her
-  lemma: "variam esse figuram principiorum" stands at 2.347-348, not
+  lemma: "variam esse figuram principiorum" stands at 2.340-341, not
   2.294-296 (her n. 20 repeats the lemma of n. 19).
 - Four verbal notes in the same lighter ink are not on her list:
   "De motu principiorum" (fol. 21v, at 2.62), "nil sursum ferri propria

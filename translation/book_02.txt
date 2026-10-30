@@ -15,7 +15,7 @@ TRANSLATOR'S COMMENTARY
     6  Sweet, too, to look upon the great contests of war {{NOTE: 2.6 printed before 2.5 in the source (editorial transposition); order kept}}
     5  drawn up across the plains, with no share of your own in the danger;
     7  but nothing is sweeter than to hold, well fortified,
-    8  the serene precincts built high by the teaching of the wise,
+    8  by the teaching of the wise, the serene precincts set on high,
     9  from where you can look down on others and see them everywhere
    10  wandering and, straying here and there, seeking the road of life,
    11  contending in talent, competing in nobility of birth,
@@ -47,7 +47,7 @@ TRANSLATOR'S COMMENTARY
    37  Therefore, since in our body treasures are of no profit,
    38  nor nobility, nor the glory of a kingdom,
    39  for the rest, we must think they do the mind no good either;
-   40  unless perhaps, when you see your legions over the spaces of the Campus {{NOTE: the Campus Martius at Rome, where troops drilled}}
+   40  unless perhaps, when you see your legions across the Campus {{NOTE: the Campus Martius at Rome, where troops drilled}}
    41  seething as they stir up the images of war, {{NOTE: belli simulacra: mock battles, field exercises; simulacra kept as "images"}}
    42  made firm with great reserves and a force of wealth,
    43  your ships fitted out with arms, all alike full of spirit, {{NOTE: stlattas (a broad-built ship) is the printed text of a corrupt line; readings and sense here are disputed}}
@@ -100,14 +100,14 @@ TRANSLATOR'S COMMENTARY
    90  of matter are tossed about, remember that the whole
    91  has no bottom in the sum, and the first bodies have no place
    92  to come to rest, since space is without end or limit,
-   93  and that it spreads out immeasurable in all directions everywhere
+   93  and spreads immeasurable in all directions everywhere
    94  I have shown in many words and proved by sure reasoning. {{NOTE: referring back to 1.951-1051}}
    95  And since this is settled, surely no rest
    96  is given to the first bodies through the deep void,
    97  but rather, driven by unceasing and varied motion,
    98  some, when they have collided, leap back over great intervals,
    99  and some are harried by the blow within short spaces.
-  100  And all those that, in a denser gathering,
+  100  And all those that, in a denser union,
   101  brought together, rebound across small intervals,
   102  entangled by their own interlocking shapes,
   103  these form the strong roots of rock and the savage bodies
@@ -141,7 +141,7 @@ TRANSLATOR'S COMMENTARY
   131  now this way, now that, in all directions everywhere.
   132  This wandering, you may be sure, all comes from the beginnings. {{NOTE: error = "wandering", the literal sense; principia rendered "beginnings", distinct from primordia "first-beginnings"}}
   133  For first the first-beginnings of things move of themselves;
-  134  then those bodies that are formed of a small gathering
+  134  then those bodies that are formed of a small union
   135  and are, as it were, nearest to the strength of the beginnings
   136  are set going, struck by their blind blows,
   137  and they in turn assail bodies a little larger.
@@ -150,7 +150,7 @@ TRANSLATOR'S COMMENTARY
   140  are moved which we can make out in the light of the sun,
   141  though by what blows they do it does not plainly appear.
 
-  142  Now what swiftness of motion has been given to the bodies
+  142  Now what mobility has been given to the bodies
   143  of matter, Memmius, you may learn from this in a few words.
   144  First, when dawn sprinkles the lands with new light,
   145  and the many-colored birds, flitting through the pathless woods,
@@ -185,7 +185,7 @@ TRANSLATOR'S COMMENTARY
   173  coaxing them through the works of Venus to propagate their generations,
   174  so that the human race should not perish. When they imagine
   175  the gods have ordered all things for men's sake, in every way
-  176  they seem to have fallen far from true reasoning.
+  176  they seem to have slipped greatly from true reasoning.
   177  For even if I did not know what the first-beginnings of things are,
   178  this, still, from the very order of heaven I would dare
   179  to affirm, and to show from many other things,
@@ -202,12 +202,12 @@ TRANSLATOR'S COMMENTARY
   190  though all weights, as far as in them lies, are carried downward.
   191  Nor, when fires leap up to the roofs of houses
   192  and with swift flame lick the rafters and beams,
-  193  must we think they do it of their own accord, with no force thrusting from beneath.
+  193  must we think they do this of themselves, with no force thrust beneath.
   194  Just so the blood let out from our body
   195  spurts leaping on high and scatters gore.
   196  Do you not see, too, with what force the water's moisture
   197  spits out rafters and beams? For the more we have pushed them deep,
-  198  straight down, and many of us with great force have pressed them, straining,
+  198  straight down, and many with great force have pressed them, straining,
   199  the more eagerly it thrusts them back up and sends them out,
   200  so that they rise and leap out by more than half their length.
   201  And yet we do not doubt, I think, that these, as far as in them lies,
@@ -228,7 +228,7 @@ TRANSLATOR'S COMMENTARY
   216  This too, in these matters, we long for you to know:
   217  that when bodies are carried straight down through the void
   218  by their own weights, at quite uncertain times
-  219  and uncertain places they push a little from their course,
+  219  and uncertain places they push off a little from their course,
   220  just so much that you could call it a change of motion.
   221  For if they were not used to swerve, all things would fall {{NOTE: declinare, "swerve": first statement of the swerve; the noun clinamen comes at 2.292}}
   222  downward like drops of rain through the deep void,
@@ -244,7 +244,7 @@ TRANSLATOR'S COMMENTARY
   232  because the body of water and the thin nature
   233  of air cannot delay each thing equally,
   234  but give way more quickly, overcome by heavier things;
-  235  but on the other hand the empty void cannot, on any side or at any
+  235  but the empty void, by contrast, cannot on any side or at any
   236  time, hold up anything at all,
   237  but must go on giving way, as its nature seeks;
   238  therefore all things must, through the calm void,
@@ -310,7 +310,7 @@ TRANSLATOR'S COMMENTARY
   297  Therefore the motion in which the bodies of the beginnings {{NOTE: principia, "beginnings", Lucretius's alternative term for the first-beginnings (primordia)}}
   298  are now is the same motion they were in through ages gone by,
   299  and hereafter they will always be carried in like manner,
-  300  and the things that have been used to be born will be born under the same
+  300  and what has been wont to be born will be born under the same
   301  condition, and will be, and grow, and be strong in their strength,
   302  as much as is granted to each by nature's covenants.
   303  Nor can any force change the sum of things;
@@ -330,7 +330,7 @@ TRANSLATOR'S COMMENTARY
   317  For often on a hill, cropping the glad pastures,
   318  the woolly flocks creep on wherever, calling each one,
   319  the grasses invite them, jeweled with fresh dew,
-  320  and the lambs, filled full, play and frisk and gently butt;
+  320  and the lambs, filled full, play and gently butt their heads;
   321  yet all these, seen from far off, seem to us blurred together,
   322  like a whiteness standing still on a green hill.
   323  Again, when great legions fill the spaces of the plains
@@ -343,11 +343,11 @@ TRANSLATOR'S COMMENTARY
   330  the middle of the plains, shaking them with their strong charge;
   331  and yet there is some place on the high mountains from which
   332  they seem to stand still, a glitter resting on the plains.
-  333  Come now, next learn of what sort the starting-points
+  333  Come now, next learn of what sort the origins
   334  of all things are, and how far they differ in their forms,
   335  how varied they are, in shapes of many kinds;
-  336  not that many are furnished with forms too little alike,
-  337  but because, as a rule, they are not all alike, each to each.
+  336  not that few are endowed with a like form,
+  337  but because, as a rule, not all are alike to all.
   338  Nor is it a wonder; for since their store is so great
   339  that there is neither end, as I have taught, nor any sum to it,
   340  it must surely be that not all are in every way
@@ -374,7 +374,7 @@ TRANSLATOR'S COMMENTARY
   361  nor can tender willows, nor grasses quickened with dew,
   362  nor any rivers gliding level with their banks
   363  delight her mind and turn aside the sudden care,
-  364  nor can other shapes of calves in the glad pastures
+  364  nor can the sight of other calves in the glad pastures
   365  draw her mind away and lighten it of care;
   366  so much does she seek something her own and known.
   367  Again, the tender kids with trembling voices
@@ -428,7 +428,7 @@ TRANSLATOR'S COMMENTARY
   415  into men's nostrils when foul corpses are burning
   416  and when the stage is freshly sprinkled with Cilician saffron
   417  and the altar nearby breathes out the perfumes of Panchaea; {{NOTE: Panchaea, a fabled land of incense in the far east, off Arabia}}
-  418  nor should you suppose that the pleasant colors of things are made of like
+  418  nor suppose the pleasant colors of things are made of like
   419  seed, the colors that can feast the eyes,
   420  and those that prick the sight and force it to weep,
   421  or look foul and ugly with their foul appearance.
@@ -461,8 +461,8 @@ TRANSLATOR'S COMMENTARY
   448  in the front line, used to scorning blows,
   449  and strong flints, and the strength of hard iron,
   450  and bronze that shrieks as it holds out against the bolts.
-  451  Those things indeed must be made rather of smooth and round bodies
-  452  that are liquid, consisting of a fluid body.
+  451  Those indeed must be made rather of smooth and round bodies,
+  452  the things that stand as liquids, with a fluid body.
   453  For a scoop of poppy-seed flows as easily as one of water;
   454  for the little globes do not hold to one another,
   455  and, once disturbed, it runs as readily down a slope.
@@ -481,17 +481,17 @@ TRANSLATOR'S COMMENTARY
   467  but mixed in with the smooth are hooked
   468  bodies of pain. Yet these hooked ones need not be held fast:
 
-  469  Clearly they need only be round, though they are made up rough,
+  469  clearly they are round nonetheless, rough though they are,
   470  so that they can roll forward together and yet hurt the senses.
   471  And that you may believe the more that rough are mixed with smooth
   472  beginnings, of which the bitter body of Neptune consists, {{NOTE: Neptune's body: the sea}}
   473  there is a way of separating them and seeing them apart:
   474  the moisture grows sweet when, through the earth, the same moisture
-  475  is filtered again and again, so that it flows into a pit and grows mild;
+  475  is filtered through many times, to flow into a pit and grow mild;
   476  for it leaves behind, above, the first-beginnings of the foul brine,
   477  since, being rough, they can cling the more within the earth.
-  478  And since I have taught this, I will go on to join to it a fact {{NOTE: 478-479 recur verbatim at 522-523}}
-  479  which draws its credit, fitted to it, from this: that the first-beginnings of things
+  478  Since I have taught this, I will go on to join to it a fact {{NOTE: 478-479 recur verbatim at 522-523}}
+  479  which, fitted to this, draws its credit: that the first-beginnings of things
   480  vary within a finite range of shapes.
   481  For if it were not so, then again certain seeds
   482  will have to be infinite in the growth of their bodies.
@@ -534,8 +534,8 @@ TRANSLATOR'S COMMENTARY
   519  Therefore created things differ within a finite range,
   520  since at both ends they are marked by a two-edged point,
   521  beset by flames on this side and on that by stiff frosts.
-  522  And since I have taught this, I will go on to join to it a fact
-  523  which draws its credit, fitted to it, from this: that the first-beginnings of things,
+  522  Since I have taught this, I will go on to join to it a fact
+  523  which, fitted to this, draws its credit: that the first-beginnings of things,
   524  those that are made of a shape alike among themselves,
   525  are infinite in number. For since the difference
   526  of forms is finite, it must be that those that are alike
@@ -562,13 +562,13 @@ TRANSLATOR'S COMMENTARY
   546  be created, nor, for the rest, grow up and be nourished.
   547  For indeed, let others assume that a finite number
   548  of generative bodies of one thing are tossed through the whole:
-  549  from where, and where, by what force and in what way will they meet and come together
+  549  from where, where, by what force, in what way will they meet and join
   550  in so great a sea of matter, in so alien a throng?
   551  They have no means, I think, of making a union;
   552  but as, when great and many shipwrecks have arisen,
   553  the great sea is used to toss about thwarts, hulls,
   554  yards, prows, masts and swimming oars,
-  555  so that along all the shores of the lands floating stern-ornaments
+  555  so that along all the lands' shores the floating stern-ornaments
   556  are seen, and give mortals a warning
   557  to shun the snares of the faithless sea, its strength and guile,
   558  and never at any time to trust it,
@@ -598,19 +598,19 @@ TRANSLATOR'S COMMENTARY
   581  This too it is fitting, in these matters, to keep sealed up
   582  and to hold, entrusted to a mind that remembers:
   583  that there is nothing whose nature is seen plainly before us
-  584  that consists of one kind of first-beginnings alone,
+  584  that consists of one kind of beginnings alone,
   585  nothing that is not made of mingled seed.
   586  And whatever possesses more forces in itself
   587  and more powers, the more it shows that it holds the most kinds
-  588  of first-beginnings in itself, and the most varied shapes.
+  588  of beginnings in itself, and the most varied shapes.
   589  First of all, the earth holds in itself first bodies
   590  from which springs, rolling out their coolness, constantly renew
   591  the immeasurable sea; it holds those from which fires rise;
   592  for in many places the ground of the earth is kindled and burns,
   593  and from its depths the onrush of Etna rages with fire.
   594  Then further, shining crops and glad orchards
-  595  it has the stuff to raise up for the races of men,
-  596  and the stuff from which it can offer rivers, leaves, and glad pastures
+  595  it has the means to raise up for the races of men,
+  596  and the means to offer rivers, leaves, and glad pastures
   597  to the mountain-roaming race of wild beasts.
   598  Therefore the great mother of the gods, and mother of wild beasts,
   599  and begetter of our body, she alone has been called. {{NOTE: the Great Mother (Magna Mater), Cybele; the long description of her cult that follows is set out in order to be rejected (2.644-645)}}
@@ -621,7 +621,7 @@ TRANSLATOR'S COMMENTARY
   604  They yoked wild beasts to her because offspring, however wild,
   605  must be softened, won over by the kindnesses of parents.
   606  And they bound the top of her head with a crown of walls,
-  607  because, fortified in strong places, she holds up cities.
+  607  because, fortified in choice places, she bears up cities.
   608  Adorned now with this emblem, through the great lands
   609  the image of the divine mother is carried, inspiring dread.
   610  Her the various peoples, by the ancient custom of their rites,
@@ -673,7 +673,7 @@ TRANSLATOR'S COMMENTARY
   656  the crops Ceres, and would rather misuse the name of Bacchus
   657  than speak the proper word for that liquor,
   658  let us grant that he may keep declaring the round of the earth
-  659  to be the mother of the gods, provided that in very truth he himself
+  659  to be the mother of the gods, if only in truth he himself
   680  refrains from tainting his mind with foul religion. {{NOTE: line 680 printed after 659 by editorial transposition, following the source}}
   660  Thus often, cropping grass from a single field,
   661  wool-bearing flocks and the warlike offspring of horses
@@ -681,12 +681,12 @@ TRANSLATOR'S COMMENTARY
   663  quenching their thirst from a single stream of water,
   664  live unlike in appearance, and keep their parents'
   665  nature, and each, kind by kind, copies their ways.
-  666  So great is the unlikeness, in any kind of grass, in the order
+  666  So great in any kind of grass is the unlike order
   667  of matter, so great in any river too.
   668  Again, any one living creature, whichever of them all,
   669  bones, blood, veins, heat, moisture, flesh, and sinews
   670  make up, which are again far distant from one another,
-  671  formed of unlike shapes of first-beginnings.
+  671  formed of unlike shapes of beginnings.
   672  Then further, all things that are set aflame by fire and burn,
   673  if nothing else, still carry these in their body:
   674  the means by which they can throw out fire and send up light,
@@ -701,14 +701,14 @@ TRANSLATOR'S COMMENTARY
   684  color, likewise, apart, and taste apart, works its way
   685  into our senses; so you may know they differ in their first shapes.
   686  Therefore unlike forms come together into one mass,
-  687  and things are made of mingled seed.
-  688  Indeed, even here and there in these verses of mine
+  687  and things are made up out of mingled seed.
+  688  Indeed, everywhere in these very verses of ours
   689  you see many elements common to many words,
   690  though you must still admit that verses and words
   691  are made, one and another, from different elements;
-  692  not because too few letters run common among them,
+  692  not because few letters run in common among them,
   693  or no two are made out of letters entirely the same,
-  694  but because, as a rule, they are not all made alike of all.
+  694  but because, as a rule, not all are alike to all.
   695  So likewise in other things, since many are common
   696  to many things, the first-beginnings of things
   697  can nonetheless make up, among themselves, unlike wholes;
@@ -721,9 +721,9 @@ TRANSLATOR'S COMMENTARY
   704  and many limbs of land creatures joined to those of the sea,
   705  and then Chimaeras, breathing flame from their foul mouths,
   706  and nature feeding them across the all-mothering lands.
-  707  None of which, it is plain, happens, since we see that all things,
+  707  It is plain that none of this happens, since all things
   708  created from fixed seeds and by a fixed mother,
-  709  can preserve their kind as they grow.
+  709  can, we see, preserve their kind as they grow.
   710  Clearly this must come about by a fixed principle.
   711  For to each, out of all its foods, its own bodies pass
   712  within, into the limbs, and, once joined, produce
@@ -733,21 +733,21 @@ TRANSLATOR'S COMMENTARY
   716  which could neither be joined anywhere nor, within,
   717  feel with the vital motions and imitate them.
   718  But lest you think that only living things are held
-  719  by these laws, the same principle bounds all things.
+  719  by these laws, a certain principle bounds all things.
   720  For just as things begotten are unlike one another
   721  in their whole nature, each of them, so each must
-  722  be made of unlike shapes of first-beginnings;
-  723  not because too few are endowed with a like form,
-  724  but because, as a rule, they are not all made alike of all.
+  722  be made of unlike shapes of beginnings;
+  723  not that few are endowed with a like form,
+  724  but because, as a rule, not all are alike to all.
   725  Further, since the seeds differ, there must be differences in
   726  intervals, paths, connections, weights, blows,
-  727  meetings, motions; which not only divide living bodies
+  727  collisions, motions; which not only divide living bodies
   728  from one another, but keep the lands and the whole sea
   729  apart, and hold back the whole heaven from the lands.
 
   730  Come now, take in these words, sought out by my sweet labor,
   731  so that you do not by chance suppose the white things are from white
-  732  first-beginnings, the things you see shining before your eyes,
+  732  beginnings, the things you see shining before your eyes,
   733  or that the things that are black are born of black seed;
   734  or that whatever is steeped in any other color
   735  bears it because the bodies of matter
@@ -765,18 +765,18 @@ TRANSLATOR'S COMMENTARY
   747  we do not perceive as dyed with any color.
   748  Since I prove that this can be, I shall now show that it is so.
   749  For every color changes, all of it, into every other;
-  750  and this the first-beginnings must in no way do;
+  750  this the first-beginnings must by no means do;
   751  for something unchangeable must survive,
-  752  so that all things are not reduced utterly to nothing;
+  752  so that things are not all brought back utterly to nothing;
   753  for whatever is changed and passes out of its own bounds,
-  754  at once this is the death of what it was before. {{NOTE: 753-754 repeat 1.670-671 and 1.792-793; must match Book 1's English verbatim}}
+  754  this at once is the death of what it was before. {{NOTE: 753-754 repeat 1.670-671 and 1.792-793; must match Book 1's English verbatim}}
   755  Therefore take care not to touch the seeds of things with color,
-  756  lest all things return for you utterly to nothing.
+  756  so that all things do not return utterly to nothing for you.
   757  Further, if no nature of color has been given
-  758  to the first-beginnings, and they are endowed with various forms,
+  758  to the beginnings, and they are endowed with various forms,
   759  from which they beget colors of every kind and vary them,
-  760  since it matters greatly, therefore, with what others each seed
-  761  is held together, and in what position,
+  760  therefore, since it matters greatly for each of the seeds
+  761  with what and in what position they are held together,
   762  and what motions they give and receive among themselves,
   763  at once you could most easily give the reason
   764  why things that were of a black color a little before
@@ -785,7 +785,7 @@ TRANSLATOR'S COMMENTARY
   767  is turned into white waves of shining marble;
   768  for you could say that what we often see as black,
   769  when its matter has been mixed through, and the order
-  770  of the first-beginnings changed, and certain things added and taken away,
+  770  of the beginnings changed, and certain things added and taken away,
   771  at once comes to be seen as shining and white.
   772  But if the levels of the sea consisted of blue
   773  seeds, they could in no way grow white;
@@ -804,7 +804,7 @@ TRANSLATOR'S COMMENTARY
   786  but the various colors of things hinder and prevent
   787  the whole thing from being of a single brightness.
   788  Then again the cause that leads and lures us to assign
-  789  colors at times to the first-beginnings of things
+  789  colors at times to the beginnings of things
   790  falls dead, since white things are not created from white,
   791  nor things called black from black, but from various.
   792  For indeed white things will arise much more readily
@@ -830,10 +830,10 @@ TRANSLATOR'S COMMENTARY
   812  and again another when it perceives black and the rest,
   813  and it does not matter with what color the things you touch
   814  may chance to be endowed, but rather with what shape they are fitted,
-  815  you may know that the first-beginnings have no need of color,
+  815  you may know that the beginnings have no need of color,
   816  but give out various touches by their various forms.
   817  Further, since no fixed nature of color belongs to fixed
-  818  shapes, and all the formings of the first-beginnings
+  818  shapes, and all the formings of the beginnings
   819  can be in any brightness whatever,
   820  why are the things composed of them not likewise
   821  steeped in colors of every sort, in every kind of thing?
@@ -863,10 +863,10 @@ TRANSLATOR'S COMMENTARY
   844  and from cold entirely, and from burning heat;
   845  they go barren of sound and starved of flavor,
   846  and give off from their body no odor of their own.
-  847  Just as, when you set about making the soothing essence of marjoram and myrrh {{NOTE: amaracinum and stacte, perfumed oils of marjoram and of myrrh}}
+  847  Just as, for the soothing liquor of marjoram and of myrrh {{NOTE: amaracinum and stacte, perfumed oils of marjoram and of myrrh}}
   848  and the flower of nard, which breathes nectar to the nostrils,
-  849  it is right, above all, to look first for what
-  850  you may and can discover, an odorless olive oil,
+  849  when you set about making them, it is right first to seek,
+  850  as far as you may and can find it, an odorless olive oil,
   851  whose nature sends out no breath at all to the nostrils,
   852  so that it may least of all spoil the odors mixed in its body
   853  and blended there, by touching them with its own rankness,
@@ -876,14 +876,14 @@ TRANSLATOR'S COMMENTARY
   857  nor, on a like principle, finally, any flavor at all,
   858  nor cold, nor likewise hot and tepid heat,
   859  and all the rest: things which are still such as to be mortal,
-  860  the pliant with soft, the brittle with crumbling, the hollow with porous body,
-  861  all these must be kept apart from the first-beginnings, {{NOTE: principia, Lucretius's other name for the primordia; rendered identically}}
-  862  if we wish to set beneath things immortal
-  863  foundations on which the whole of their safety may rest;
-  864  or else all things will return for you utterly to nothing.
-  865  Now all the things we see have sense, whatever they are,
+  860  pliant with soft, brittle with crumbling, hollow with porous body,
+  861  all these must be kept apart from the beginnings, {{NOTE: principia, Lucretius's other name for the primordia; rendered "beginnings"}}
+  862  if we wish to set beneath things foundations immortal,
+  863  on which the whole of their safety may rest;
+  864  so that all things do not return utterly to nothing for you.
+  865  Now all the things we see to have sense, whatever they are,
   866  you must confess are, for all that, made up of senseless
-  867  first-beginnings. Nor do plain facts refute this
+  867  beginnings. Nor do plain facts refute this
   868  or fight against it, the things known and ready to hand;
   869  rather they themselves lead us by the hand and compel belief
   870  that, as I say, living creatures are born from senseless things.
@@ -917,7 +917,7 @@ TRANSLATOR'S COMMENTARY
   898  and yet these, when they are as it were rotted by the rains,
   899  give birth to little worms, because the bodies of matter,
   900  stirred from their old orders by a new event,
-  901  are joined together as they must for living things to be born.
+  901  are united as they must be for living things to be born.
   902  Next, those who would have it that from sentient things the sentient
   903  can be created, and these in turn from others used to sensing,
  903a  * * * {{NOTE: one or more lines lost here; the sense of the gap is uncertain}}
@@ -964,7 +964,7 @@ TRANSLATOR'S COMMENTARY
   944  Further, any living creature a blow too great
   945  for its nature to bear strikes down suddenly, and goes on
   946  to throw into confusion all the senses of body and mind.
-  947  For the positions of the first-beginnings are dissolved,
+  947  For the positions of the beginnings are dissolved,
   948  and the vital motions are hindered deep within,
   949  until the matter, shaken through all the limbs,
   950  loosens the knots of the vital spirit from the body
@@ -986,7 +986,7 @@ TRANSLATOR'S COMMENTARY
   966  and when they move back into place a soothing pleasure comes,
   967  we may know that the first-beginnings can be assailed
   968  by no pain, and take no pleasure from themselves;
-  969  since they are not made out of any first-beginnings'
+  969  since they are not made out of any bodies of beginnings,
   970  bodies, through the novelty of whose motions they might suffer
   971  or reap some fruit of nourishing sweetness.
   972  They ought not, therefore, to be endowed with any sense.
@@ -1033,13 +1033,13 @@ TRANSLATOR'S COMMENTARY
  1012  of things, and at times being born and suddenly perishing.
  1013  Indeed, even in my verses themselves it matters
  1014  with what and in what order each is placed;
- 1015  for the same ones signify sky, sea, lands, rivers, sun,
+ 1015  for the same ones signify heaven, sea, lands, rivers, sun,
  1016  the same signify grain, trees, living creatures;
  1017  if not all, yet by far the greatest part
  1018  are alike; but by their position the things differ.
  1019  So too in things themselves, when of matter
  1020  the intervals, paths, connections, weights, blows,
- 1021  meetings, motions, order, position, shapes
+ 1021  collisions, motions, order, position, shapes
  1022  are changed, the things too must be changed.
  1023  Now apply your mind, for me, to true reasoning.
  1024  For a thing strikingly new is struggling to reach
@@ -1097,7 +1097,7 @@ TRANSLATOR'S COMMENTARY
  1076  and various races of men and generations of wild beasts.
  1077  Add to this that in the sum there is no one thing
  1078  that is born unique and grows unique and alone,
- 1079  but it belongs to some generation, and very many are of the same
+ 1079  but is of some generation, and very many are of the same
  1080  kind. First, among living creatures, with your mind as guide,
  1081  you will find it so with the mountain-roaming race of wild beasts,
  1082  so with the twin offspring of men, so finally with the mute
@@ -1129,7 +1129,7 @@ TRANSLATOR'S COMMENTARY
  1107  were added from outside, and added round about
  1108  were seeds, which the great whole brought together by hurling them,
  1109  from which the sea and the lands could increase, and from which
- 1110  the house of heaven could gain room, and lift its lofty roof
+ 1110  the space of heaven's house could appear, and lift its lofty roof
  1111  far from the lands, and the air rise up.
  1112  For each to its own, from every place, all bodies by blows
  1113  are distributed, and go back to their own kinds:
@@ -1156,7 +1156,7 @@ TRANSLATOR'S COMMENTARY
  1134  and the wider it is, into all directions on every side
  1135  the more bodies it scatters now and sends out from itself,
  1136  nor is food easily distributed into all its veins,
- 1137  nor is there enough, in proportion to the generous tides it pours out,
+ 1137  nor is there enough, for the lavish tides it pours out,
  1138  from which it could spring up anew and supply as much.
  1139  Rightly, therefore, they perish, when they have grown rare
  1140  by flowing, and all things give way beneath blows from outside,
@@ -1193,7 +1193,7 @@ TRANSLATOR'S COMMENTARY
  1171  bore life very easily within narrow bounds,
  1172  though the measure of land for each man was far smaller before;
  1173  nor does he grasp that all things waste away by degrees and go
- 1174  to the tomb, worn out by the ancient span of age.
+ 1174  to the bier, worn out by the ancient span of age.
 
 ------------------------------------------------------------
 

@@ -98,6 +98,10 @@ every book unless explicitly revisited. Modelled on the Iliad project's
 | coniuncta / eventa | conjoined properties / accidents | 1.449 | Epicurus's symptomata; "conjoined" and "accidents" throughout |
 | vera ratio | true reasoning | 1.498 | |
 | vis | force | | validae vires = "sturdy strength" (1.576) |
+| exordia (rerum) | origins (of things) | 2.333 | Lucretius's third name for the atoms (2.1062, 3.31, 4.26, 4.114, 5.430); "starting-point" only in the non-technical 1.149 |
+| mobilitas | mobility | 2.65 | 2.142, 2.161; never "speed" |
+| conciliatus | union | 2.100 | the noun of combination, same as concilium (2.134, 2.936 "a uniting") |
+| species (of animals) | sight, form | 2.364 | "the sight of other calves"; never "shapes", which is figura |
 
 ## Policy
 
@@ -116,6 +120,34 @@ every book unless explicitly revisited. Modelled on the Iliad project's
     together, / and what motions they give and receive among themselves,"
   - 1.75-77 = 1.594-596 (second and third lines verbatim).
   - 1.926-950 = 4.1-25: Book 4 takes the Book 1 review text verbatim.
+- **Refrains fixed in Book 2** (review of 2026-10-30; recur verbatim wherever
+  the Latin repeats):
+  - 2.55-58 (= 3.87-90, 6.35-38): "For just as children tremble and fear
+    everything / in blind darkness, so we in the light are afraid / at times of
+    things that are no more to be feared than / what children in the dark
+    shudder at and imagine will come."
+  - 2.336-337 = 2.723-724, and 2.337 = 2.694: "not that few are endowed with a
+    like form, / but because, as a rule, not all are alike to all." (multa
+    parum = few, with Bailey and Munro.)
+  - 2.478-479 = 2.522-523: "Since I have taught this, I will go on to join to
+    it a fact / which, fitted to this, draws its credit: that the
+    first-beginnings of things"
+  - 2.756 = 2.864 = 1.673 = 1.797 (ad nilum / ad nihilum): "so that all things
+    do not return utterly to nothing for you."
+  - 2.178-179 (= 5.196-197): "this, still, from the very order of heaven I
+    would dare / to affirm, and to show from many other things,"
+  - 2.726 = 2.1020 (= 5.441): "intervals, paths, connections, weights, blows,";
+    2.1021 = 1.685: "collisions, motions, order, position, shapes" (concursus =
+    collisions).
+  - 2.1063 (= 5.431): "of earth and sea and sky and the race of living things."
+  - 2.163 (= 4.207): "and run through many times the extent of space in the
+    same"; 2.12 (= 3.62): "striving night and day with surpassing labor" (the
+    Book 3 line is an infinitive; keep the rest).
+  - Book 1 refrains confirmed verbatim in Book 2: 2.59-61 (1.146-148), 2.176
+    (1.637), 2.237 (1.1080), 2.646-651 (1.44-49), 2.688-689 (1.823-824), 2.707
+    (1.188), 2.750-754 (1.789-793), 2.761-762 and 2.1008-1009 (1.818-819).
+  - `python tools/refrains.py N` lists every repeated line of Book N with the
+    current English of each occurrence.
 - **Scientific anachronism**: never import a modern term the Latin does not
   have (no "atom" for primordia, no "molecule", no "evolution"). The notes
   may say where a modern reader will hear an anticipation; the verse may

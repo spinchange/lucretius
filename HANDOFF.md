@@ -1,7 +1,8 @@
 # Handoff: state of the work and how to resume
 
 Written 2026-10-30 at the end of the session that drafted Books 2-6 and
-reviewed Book 1. Read this, `README.md` and `translation/CONVENTIONS.md`
+reviewed Book 1; updated the same day after the Book 2 review and the Book 1
+audiobook build. Read this, `README.md` and `translation/CONVENTIONS.md`
 before touching anything. The manifest (`segments/manifest.json`) is the
 source of truth for what has been done to each segment.
 
@@ -12,10 +13,11 @@ source of truth for what has been done to each segment.
 | translate (Opus) | 58/58 | every segment passes `check_segment` |
 | fidelity (Sonnet) | 58/58 | findings tables in `segments/bNN/sKK.fidelity.txt` |
 | annotate (Sonnet) | 58/58 | draft notes, all marked DRAFT |
-| review (translator, Fable) | Book 1 only (8/8) | `sKK.review.txt` + `sKK.patch.tsv` |
-| assemble | all six books | `translation/book_0N.txt`, header says DRAFT |
+| review (translator, Fable) | Books 1-2 (17/17) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines patched |
+| assemble | all six books | `translation/book_0N.txt`; Books 1-2 from review text |
 | notes | none final | 302 `{{NOTE: ...}}` placeholders across the books |
 | margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
+| audiobook | Book 1 built | `audiobook-build-book01/books/book-01-full.wav` and `-review.m4a` (untracked) |
 
 Local repo only, no remote.
 
@@ -84,39 +86,55 @@ the verse.
   "Finis. Nicolaus Maclavellus scripsit foeliciter" on 133v.
 - Book 2 survey complete: all 16 items in Brown's list (The Return of
   Lucretius to Renaissance Florence, 2010, ch. 4 nn. 15-20) confirmed; her
-  lemma for "variam esse figuram principiorum" corrected to 2.347-348; four
+  lemma for "variam esse figuram principiorum" corrected to 2.340-341 (the
+  bracketed Latin is "Debent nimirum non omnibus omnia prorsum / esse pari
+  filo similique affecta figura"; an earlier entry said 2.347-348); four
   verbal notes she does not list (2.62, 2.184-185, 2.217-219, 2.333);
   variants, order marks, supplied line ends and the catchword recorded.
   Brown's PDF is in the user's Downloads folder (copyrighted; consult it,
   never copy it into the repo).
 - Books 1 and 3-6 not yet surveyed.
 
-## Starting Book 2 (next session)
+## Book 2 review (done 2026-10-30)
 
-1. Open the repo at `H:\My Drive\agent-journal\lucretius`, check `git log`,
-   and run `python tools/check_segment.py --all` (should be clean).
-2. Book 2 is segments b02s00 to b02s08 (2.1-1174). Firm fidelity findings
-   to act on: 2.714 in b02s04 ("caecis corporibus ... percita plagis": the
-   unseen bodies strike, they do not flee) and 2.1104 in b02s07. The 2.1104
-   finding is WRONG: "indignos inque merentes" is tmesis for "immerentes",
-   both words mean undeserving, so Opus's "the unworthy and the undeserving"
-   stands. Ten secondaries across the book; weigh each.
-3. Refrains to make verbatim against Book 1's accepted text: 2.59-61 =
-   1.146-148 (the proem sample); 2.753-754 = 1.670-671; "dias in luminis
-   oras" at 2.577 is the variant "visentis luminis oras", so "the shores of
-   light" without "shining", as the draft has it. The Book 2 proem ("suave
-   mari magno") is a set piece; read it in full.
-4. Register points in Book 2: the swerve passage 2.216-293 (swerve for both
-   noun and verb). Lines carrying Machiavelli's notes should read well on
-   their own, since they will be quoted beside his words: 2.62, 2.184-185,
-   2.217-219, 2.333 and the 16 Brown items (exact lines in
-   `margin/marginalia.tsv`).
-5. Patch, review, `python tools/assemble.py 2`, commit with the usual
-   identity (user.name spinchange, user.email
-   spinchange@users.noreply.github.com, core.safecrlf=false), message ending
-   with the Claude co-author line.
-6. Update `translation/CONVENTIONS.md` with any new fixed terms, and the
-   table at the top of this file.
+78 lines patched across the nine segments; the patch files carry the
+reasons as `#` comments, including the three Sonnet findings rejected
+(2.714, the consensus reading of Bailey, Munro and Rouse; 2.1093; 2.1104,
+tmesis). Register points settled: principia = beginnings was enforced in
+fourteen lines where Opus had "first-beginnings"; exordia = origins (2.333);
+mobilitas = mobility; conciliatus = union. Refrains made verbatim with Book 1
+and inside Book 2 are listed in `translation/CONVENTIONS.md` under "Refrains
+fixed in Book 2". A new tool, `python tools/refrains.py N [--earlier]`, lists
+every repeated Latin line of Book N with the current English of each
+occurrence; run it before each review.
+
+## Starting Book 3 (next session)
+
+1. Open the repo, check `git log`, run `python tools/check_segment.py --all`
+   (clean) and `python tools/refrains.py 3 --earlier`.
+2. Book 3 is segments b03s00 to b03s08 (3.1-1094; bounds 1-135, 136-261,
+   262-380, 381-547, 548-669, 670-818, 819-930, 931-1052, 1053-1094). Sonnet
+   found no firm FINDINGS in Book 3; eleven secondaries across the book (s00
+   1, s02 1, s03 1, s04 3, s05 1, s06 1, s07 2, s08 1). Weigh each.
+3. Refrains to make verbatim against the accepted text: 3.87-90 = 2.55-58
+   (3.87 "fear everything", 3.90 "what children in the dark shudder at and
+   imagine will come."); 3.91-93 = 1.146-148 (already matches); 3.519-520 =
+   1.670-671 ("for whatever is changed and passes out of its own bounds, /
+   this at once is the death of what it was before."); 3.62 keeps "night and
+   day with surpassing labor" (2.12) in its infinitive.
+4. Register points in Book 3: animus = mind and anima = spirit is the book's
+   whole subject; the first technical contrast (3.94 ff., 3.136 ff.) gets the
+   note promised in CONVENTIONS; mens = "mind", "thought" only when paired
+   with animus. Sweep principia = beginnings (not "first-beginnings") with a
+   script as was done for Book 2, since Opus slips on it. The proem (3.1-30)
+   and the diatribe against the fear of death (3.830-1094) are set pieces;
+   read them in full.
+5. Patch, `python tools/review.py b03sKK segments/b03/sKK.patch.tsv`,
+   `python tools/assemble.py 3`, commit with the usual identity (user.name
+   spinchange, user.email spinchange@users.noreply.github.com,
+   core.safecrlf=false), message ending with the Claude co-author line.
+6. Update `translation/CONVENTIONS.md` with any new fixed terms and the table
+   at the top of this file.
 
 ## After the reviews
 
