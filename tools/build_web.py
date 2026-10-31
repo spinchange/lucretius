@@ -67,6 +67,7 @@ OUT_ART = DOCS / "art"
 
 # Every illustration carries this credit, so that no one takes an image for
 # a photograph of a real Roman wall painting.
+HERO_ART = "book01_01_venus_and_mars.jpg"
 ART_CREDIT = "AI-generated illustration (Gemini), after Pompeian wall painting"
 MARGIN_ART = "machiavelli_copying_lucretius.jpg"
 MARGIN_ART_CREDIT = (
@@ -1232,7 +1233,10 @@ and <a href="https://theclaudyssey.com/api/">theclaudyssey.com/api/</a>.</p>
 def build_landing(books: dict[int, dict], margin: list[dict], total: int,
                   total_notes: int, art: dict[int, list[dict]]) -> str:
     reading = sum(1 for r in margin if r["reading"])
-    hero = art.get(1, [None])[0]
+    # the home page shows the same picture as the cover medallion and the
+    # social card: Venus and Mars, the poem's opening (1.1-43)
+    hero = next((it for it in art.get(1, []) if it["file"] == HERO_ART),
+                art.get(1, [None])[0])
     hero_html = (f'<a href="read/book-01.html#L{hero["line"]}"><img src="art/{hero["file"]}" '
                  f'alt="{html.escape(hero["title"], quote=True)}" '
                  f'title="{html.escape(ART_CREDIT, quote=True)}"></a>'

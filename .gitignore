@@ -6,3 +6,5 @@ segments/manifest.*.tmp
 segments/manifest.tmp
 audiobook-build/
 audiobook-build-*/
+print-build/work/
+print-build/*.pdf
