@@ -1,0 +1,146 @@
+ANALYSIS
+
+973-975
+Latin: [purpose] uti possint sentire animalia quaeque (subj. animalia quaeque, pres. subj. pl.); [cond.] si sensus tribuendus est principiis eorum (gerundive, pres.); [main question] quid (de principiis) de quibus genus humanum propritim auctumst (perf. pass., subj. genus).
+English: so that each kind of living creature can feel; if sense must be granted to their beginnings; what of those from which the human race is properly made.
+DIFF: "quaeque" (each creature) becomes "each kind"; "propritim" (in particular) becomes "properly".
+
+976-979
+Latin: subject is the implied principia; concussa cachinnant, spargunt ora genasque, callent dicere, quaerunt quae sint primordia (all pres. ind. pl.; scilicet ironic).
+English: they must shake and guffaw, sprinkle, be skilled at saying, ask what their first-beginnings are.
+MATCH ("must" carries the irony of scilicet).
+
+980-982
+Latin: [causal] adsimulata (modifying the principia) debent constare ex aliis elementis; inde alia ex aliis; [result] ut nusquam consistere ausis (2nd sg. subj.).
+English: since, made in the likeness, they must consist of other elements, those of others, so that you never dare to stop.
+MATCH
+
+983-984
+Latin: sequar (fut. 1st sg.); quodcumque dices (fut.) loqui ridere sapere; ut sit ex aliis eadem facientibus.
+English: I shall press you; whatever you say can speak, laugh, be wise must be made of others doing the same.
+MATCH (the added "can" is slight).
+
+985-990
+Latin: [cond.] si cernimus haec esse delira furiosaque, et (aliquis) potest ridere non ex ridentibus auctus, sapere, rationem reddere doctis dictis non ex seminibus sapientibus; [question] qui minus queant ea quae videmus sentire esse permixta seminibus carentibus sensu.
+English: if we see this is raving; a man can laugh though not made of laughing things, be wise, give an account in learned words; why should things we see have sense be less able to be of seeds lacking sense.
+MATCH
+
+991-998
+Latin: sumus oriundi caelesti semine; ille idem pater est omnibus; unde mater terra, cum recepit guttas, feta parit fruges, arbusta, genus humanum, saecla ferarum; cum praebet pabula quibus pascunt, ducunt, propagant; merito nomen adepta est.
+English: the same clauses, with the same subjects and tenses.
+MATCH
+
+999-1001
+Latin: cedit retro in terras quod fuit de terra; quod missumst ex aetheris oris, id templa caeli receptant rellatum.
+English: what came from earth goes back to earth; what was sent from the shores of the ether is carried back and received by the precincts.
+MATCH
+
+1002-1006
+Latin: nec mors interemit res ut conficiat corpora; sed dissupat coetum; coniungit, efficit ut omnes res convertant, mutent, capiant sensus, reddant.
+English: death does not destroy so as to annihilate; it scatters their union; it joins and brings it about that things change, alter, take sense, give it up.
+MATCH
+
+1007-1012
+Latin: ut noscas referre cum quibus et quali positura primordia contineantur, quos motus dent accipiantque; neve putes (id) quod videmus fluitare, nasci, perire posse residere penes aeterna corpora prima.
+English: so that you may know it matters ...; and may not think that what we see floating, born, perishing can reside in eternal first bodies.
+MATCH
+
+1013-1018
+Latin: refert in versibus cum quibus et quali ordine quaeque locata sint; eadem significant caelum ... animantis; si non omnia, maxima pars consimilis est; res discrepitant positura.
+English: the same clauses in the same order.
+MATCH
+
+1019-1022
+Latin: cum intervalla ... figurae materiai permutantur, res quoque debent mutari.
+English: when the intervals ... of matter are changed, the things too must be changed.
+MATCH
+
+1023-1025
+Latin: adhibe animum (imperative); nova res molitur accedere ad auris; nova species se ostendere.
+English: apply your mind; a new thing is struggling to reach your ears, and a new face to show itself.
+MATCH ("vehementer" taken with nova is defensible).
+
+1026-1029
+Latin: neque res ulla tam facilis quin primum constet difficilior ad credendum; nil tam magnum quod non paulatim minuant omnes mirarier.
+English: no thing so easy that it does not at first prove harder to believe; nothing so wonderful that all do not little by little lessen their wonder.
+MATCH
+
+1030-1037
+Latin: principio caeli colorem, quae cohibet, sidera, lunam, nitorem (hanging accusatives); si essent/si sint obiecta repente; quid magis mirabile poterat dici, aut quod minus auderent gentes credere fore; nil; ita species miranda fuisset.
+English: consider the color, the stars, moon, sun; if they were thrown before mortals suddenly; what could be called more wonderful, or what would the nations less have dared to believe; nothing; so wondrous would this appearance have been.
+MATCH (the dropped essent is covered by 1034).
+
+1038-1039
+Latin: quam (the species) nemo, fessus satiate videndi, dignatur suspicere in caeli templa.
+English: no one, wearied with seeing, deigns to look up at the precincts of heaven.
+MATCH
+
+1040-1043
+Latin: desine exterritus expuere rationem; perpende; si vera videntur, dede manus; si falsum est, accingere.
+English: cease, frightened, to spit reasoning out; weigh it; if it seems true, give in; if false, gird yourself.
+MATCH
+
+1044-1047
+Latin: animus quaerit rationem, cum summa loci sit infinita foris, quid sit ibi porro, quo velit mens prospicere, quo animi iactus pervolet.
+English: the same clauses.
+MATCH
+
+1048-1051
+Latin: nulla est finis in omnes partes; uti docui; res vociferatur; elucet natura profundi.
+English: there is no limit; as I have taught; the thing cries aloud; the nature of the deep shines clear.
+MATCH
+
+1052-1057
+Latin: nullo pacto putandumst veri simile esse, cum spatium vacet, semina volitent, hunc unum orbem caelumque creatum (esse), illa corpora nil agere.
+English: it must not be thought likely, since space lies empty and seeds fly, that this one orb and sky alone were created and those bodies outside do nothing.
+MATCH
+
+1058-1063
+Latin: cum hic factus sit natura, et semina ipsa sponte, forte offensando, coacta, tandem co(a)luerunt ea quae coniecta fierent exordia.
+English: this world was made by nature, and the seeds themselves, colliding, driven together, at last grew together into those which might become origins.
+MATCH (the reading is noted).
+
+1064-1066
+Latin: fateare necesse est esse alios congressus materiai talis qualis hic est, quem tenet aether.
+English: you must confess there are other gatherings of matter such as this is, which the ether holds.
+MATCH
+
+1067-1069
+Latin: cum materies parata est, cum locus praesto, nec res nec causa moratur, geri debent et confieri res.
+English: the same clauses.
+MATCH
+
+1070-1076
+Latin: si tanta copia seminum quantam aetas non queat enumerare, (si) quis (= quibus) eadem natura manet quae queat conicere semina simili ratione atque huc coniecta sunt; necesse est confiteare esse alios orbis terrarum, gentis, saecla.
+English: if there is such a store as the whole life could not count, and the same nature remains which can throw seeds together in the same way as here; you must confess other orbs, races, generations.
+MATCH (the "for them" of quis is lightly dropped).
+
+1077-1083
+Latin: accedit ut nulla res sit una quae unica gignatur, crescat, quin sit alicuius saecli et permulta eodem genere; invenies sic genus ferarum, prolem hominum, pecudes squamigerum, corpora volantum.
+English: the same clauses.
+MATCH
+
+1084-1086
+Latin: simili ratione fatendumst caelum, terram ... non esse unica sed numero innumerali.
+English: you must confess, on the same principle, that sky and earth are not unique but of number beyond numbering.
+DIFF: "simili" (like) becomes "same".
+
+1087-1089
+Latin: quando terminus vitae depactus manet haec tam quam genus omne; tam nativo corpore constant quam genus omne quod generatim abundans est his rebus.
+English: since the boundary-stone awaits these as surely, and they are of a body as born as every kind that abounds here, kind by kind.
+MATCH
+
+1090-1092
+Latin: si teneas cognita, natura videtur libera, privata dominis, agere omnia sponte, dis expers.
+English: the same clauses.
+MATCH
+
+1093-1104
+Latin: pro sancta pectora deum quae degunt aevom; quis potis est regere summam, habere habenas moderanter, convertere caelos, suffire terras, esse praesto, ut faciat tenebras, concutiat, mittat fulmina, disturbet aedis, saeviat exercens telum quod praeterit nocentes, exanimat immerentes.
+English: by the holy hearts of the gods, which pass a placid age; who can rule, hold the reins and guide them, turn, warm, be present, to make darkness, shake, hurl, throw down, rage, a bolt that passes the guilty and strikes dead the undeserving.
+MATCH
+
+FINDINGS
+1084	LEXICAL	MINOR	0.55	"simili ratione" means on a like principle (register: "on (by) a like principle"), but the English has "on the same principle", which overstates the analogy; "Therefore you must confess, on a like principle, that sky"
+975	LEXICAL	MINOR	0.55	"propritim" means "in particular, specially" (those beginnings that make up the human race in particular), but the English "properly made" reads as "correctly made"; "what of those from which the human race in particular is made?"
+973	ADDITION	MINOR	0.50	"animalia quaeque" means each living creature, but the English "each kind of living creature" adds "kind" and shifts the claim from individual animals to species; "Finally, so that every living creature can feel,"

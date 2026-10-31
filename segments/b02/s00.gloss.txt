@@ -1,0 +1,36 @@
+ANALYSIS
+1-4: Latin: suave [est] spectare (inf.) laborem; abl. abs. ventis turbantibus aequora; non quia vexari quemquam est voluptas; sed quia cernere [quibus malis careas, subj. 2sg] suave est. English: same skeleton, "you" free of evils. MATCH
+6-5: Latin: suave [est] tueri certamina instructa, sine parte pericli tua. English: same. MATCH
+7-13: Latin: nihil dulcius est quam tenere templa (munita doctrina, edita, serena); unde queas despicere alios, videre [eos] errare, quaerere viam (palantis = acc. pl. with alios), certare, contendere, niti, emergere, potiri. English: same infinitives, same subjects. MATCH
+14-16: Latin: exclamations; degitur (pres. pass.) hoc aevi; nonne videre (exclam. inf.). English: "is passed"; "Do you not see". MATCH (defensible)
+16-19: Latin: naturam latrare nihil aliud sibi nisi ut dolor absit (subj.) seiunctus corpore, [natura] fruatur (subj.) mente sensu iucundo, semota cura metuque. English: nature barks for this, that pain be absent, "the mind enjoy". MATCH (mente made subject; sense kept)
+20-23a: Latin: videmus pauca esse opus corpori: quae demant dolorem, [talia] uti possint substernere delicias, gratius interdum. English: few things needed; such as take away pain, and such that they can spread delights, more welcome now and then. MATCH
+23b-28: Latin: neque natura requirit (= feels the lack, absolute), si non sunt simulacra retinentia lampadas ut lumina suppeditentur, nec domus fulget/renidet, nec citharae reboant templa. English: "nor does nature herself require", with no object, then the same si-clauses. DIFF: requirit read as "require", which has no object and does not mean "miss"
+29-33: Latin: cum tamen [homines] prostrati inter se curant corpora non magnis opibus; praesertim cum tempestas adridet et tempora conspergunt herbas. English: same. MATCH
+34-36: Latin: nec febres decedunt citius si iacteris (2sg subj. pass.) in picturis ostroque quam si cubandum est in veste plebeia. English: same. MATCH
+37-39: Latin: quoniam gazae, nobilitas, gloria nil proficiunt corpori, putandum [eas] nil prodesse animo. English: same. MATCH
+40-46: Latin: si non forte, cum videas legiones fervere cientis simulacra belli, constabilitas, ornatas, animatas, his rebus religiones timefactae effugiunt animo pavidae, timores linquunt pectus vacuum solutumque. English: same; stlattas noted. MATCH
+47-54: Latin: quod si videmus haec ridicula esse, metusque curaeque nec metuunt, versantur, neque reverentur fulgorem/splendorem, quid dubitas quin haec potestas omnis sit rationis, cum vita laboret in tenebris. English: same. MATCH
+55-58: refrain; MATCH
+59-61: refrain; MATCH
+62-66: Latin: expediam quo motu corpora gignant/resolvant res, qua vi cogantur, quae mobilitas sit reddita ollis; tu memento praebere te dictis. English: same. MATCH
+67-76: Latin: materies non cohaeret stipata, quoniam videmus rem minui, cernimus omnia fluere, vetustatem subducere [ea]; cum summa videatur manere, quia corpora quae decedunt minuunt unde abeunt, donant quo venere; cogunt illa senescere, haec florescere, nec remorantur; summa novatur; mortales vivunt mutua. English: same. MATCH
+77-79: MATCH
+80-82: Latin: si putas primordia posse cessare et cessando progignere motus, vagaris. English: same. MATCH
+83-88: Latin: quoniam vagantur, necesse est primordia ferri gravitate aut ictu alterius; cum conflixere, fit ut dissiliant; nec mirum, quae sint durissima, neque quicquam obstet. English: same. MATCH
+89-94: Latin: quo magis pervideas corpora iactari, reminiscere imum nil esse in summa, neque habere [corpora prima] ubi consistant, quoniam spatium sine fine est patereque inmensum ostendi (1sg perf.) et probatum est. English: "since space is without end..., and spreads... / I have shown...": the dependence on ostendi is lost, so the sentence does not parse. DIFF (grammar)
+95-99: Latin: nulla quies reddita est corporibus; sed exercita motu partim resultant confulta intervallis magnis, pars vexantur ab ictu spatiis brevibus. English: same. MATCH
+100-104: Latin: quaecumque convecta conciliatu condenso resultant intervallis exiguis, indupedita figuris, haec constituunt radices saxi, corpora ferri, cetera. English: same. MATCH
+105-108: Latin (uncertain text): paucula quae vagantur, cetera dissiliunt, recursant; haec sufficiunt aera solemque. English: "those few others" leap apart and furnish air and light; text noted. MATCH
+109-111: Latin: multa vagantur, quae reiecta sunt conciliis nec potuere consociare motus, recepta. English: same. MATCH
+112-113: MATCH
+114-120: Latin: contemplator, cum radii inserti fundunt lumina; videbis corpora misceri, edere proelia certantia, nec dare pausam, exercita conciliis discidiisque. English: passive "light is poured by rays"; otherwise same. MATCH
+121-124: Latin: ut possis conicere quale sit primordia iactari; parva res potest dare exemplare vestigiaque. English: same. MATCH
+125-128: Latin: hoc etiam magis par est te advertere animum ad corpora quae turbare videntur, quod turbae significant motus materiae subesse. English: same. MATCH
+129-131: Latin: videbis multa percita plagis commutare viam, reverti repulsa. English: same. MATCH
+132: Latin: hic error est a principiis omnibus. English: "all comes from the beginnings" (omnibus moved to error). MATCH (minor scope shift, below threshold)
+133-137: Latin: primordia moventur per se; inde corpora parvo conciliatu, proxima ad viris principiorum, cientur inpulsa ictibus illorum; ipsa lacessunt maiora. English: same; "their" = beginnings. MATCH
+138-141: Latin: motus ascendit et exit ad sensus, ut moveantur illa quae cernere quimus, nec apparet quibus plagis id faciant. English: same. MATCH
+FINDINGS
+2.23	LEXICAL	MODERATE	0.55	"neque natura ipsa requirit" uses requirit absolutely, meaning nature does not feel the want of (the statues, silver, gilded ceilings in 2.24-28), but the English "nor does nature herself require" leaves the verb objectless and gives the wrong sense; "more welcome now and then; nor does nature herself feel any want,"
+2.94	GRAMMAR	MINOR	0.50	"quoniam spatium sine fine modoquest / inmensumque patere ... pluribus ostendi" makes the infinitive patere depend on ostendi, but the English (2.92-94) gives "since space is without end..., and spreads... / I have shown..." with nothing linking the clauses to "I have shown", so the sentence does not parse; "as I have shown in many words and proved by sure reasoning."

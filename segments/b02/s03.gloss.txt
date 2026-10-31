@@ -1,0 +1,70 @@
+ANALYSIS
+
+469-470. Latin: [necessust, 468] esse (inf.) globosa [haec]; concessive cum squalida constent (subj. pl.); purpose ut possint (subj. pl.) provolvi simul et laedere sensus. English: they are round, rough though they are, so that they can roll forward and hurt the senses. MATCH (469 continues 468's "necessust"; "clearly" is a fair rendering).
+
+471-477. Latin: purpose quo putes (2 sg. subj.) [aspera] mixta esse levibus principiis; relative unde est (ind.) Neptuni corpus acerbum (predicate adj.: the sea is bitter because of them); main clause est ratio secernendi seorsumque videndi; temporal ubi umor idem percolatur (pres. pass.) dulcis, crebrius per terras; ut fluat ac mansuescat (subj.); enim linquit (ind.) supera primordia taetri viri; quo magis possint haerescere aspera. English: that you may believe rough are mixed with smooth beginnings; "of which the bitter body of Neptune consists"; there is a way; the moisture grows sweet when filtered many times, to flow and grow mild; for it leaves the first-beginnings above; since, being rough, they cling the more. DIFF at 472: unde = "from which (it) is bitter", a causal predication, becomes "of which ... consists", a statement of composition.
+
+478-480. Latin: quoniam docui (perf.); pergam conectere rem; quae ducat (subj.) fidem apta ex hoc; primordia variare (inf.) finita ratione figurarum. English: same structure. MATCH.
+
+481-482. Latin: quod si non ita sit (subj.); semina quaedam debebunt (fut.) esse infinito corporis auctu. English: same structure. MATCH.
+
+483-485a. Latin: namque figurae non possunt (pres. ind., in 485) multum variare inter se in eadem brevitate corporis. English: 484 "the shapes cannot vary much from one another;" and 485 "they cannot." DIFF: the single "non possunt" is rendered twice, once in each line.
+
+485b-486. Latin: fac (imperative) corpora prima esse e tribus minimis partibus; vel auge (imperative) paulo pluribus. English: suppose the first bodies are made of three least parts, or add a few more. MATCH.
+
+487-492a. Latin: ubi expertus eris (fut. perf., 2 sg.) omnimodis, locans and transmutans (participles, you) partis omnis; indirect question quam speciem formai det (subj.) quisque ordo toti corpori; main clause addendum erit (gerundive) partis alias, si voles variare figuras. English: when you have set, changed and tried what appearance each order gives, other parts will have to be added if you want to vary the shapes. MATCH (the participles become finite verbs; the sense is kept).
+
+492b-494. Latin: inde sequetur ut ordo postulet (subj.) alias adsimili ratione, si voles etiam variare. English: same structure. MATCH.
+
+495-496a. Latin: ergo augmen (nom.) corporis subsequitur novitatem (acc.) formarum. English: growth of body follows upon newness of forms. MATCH.
+
+496b-499. Latin: non est ut possis credere semina esse distantia infinitis formis; ne cogas (subj.) quaedam esse inmani maximitate; quod docui non posse probari. English: same structure. MATCH.
+
+500-507. Latin: vestes, purpura, saecla pavonum iacerent (impf. subj.) superata novo colore; odor contemptus [esset], sapores; mele et carmina silerent (impf. subj.) oppressa; namque aliud exoreretur (subj.) praestantius aliis. English: would lie outdone; would be scorned; would fall silent; for one thing would rise more excellent. MATCH (the ethical dative tibi is dropped, which is defensible).
+
+508-511. Latin: omnia possent (subj.) cedere retro in deteriores partis, ut diximus in melioris; namque aliud esset (subj.) taetrius aliis naribus etc. English: same structure. MATCH.
+
+512-514. Latin: quoniam non sunt; sed finis certa reddita rebus tenet (ind.) summam utrimque; fateare necessest materiem differre finitis figuris. English: same structure. MATCH.
+
+515-516. Latin: finitumst (impersonal perf. pass.) ab ignibus ad pruinas; retro remensumst pari ratione. English: the way is bounded and measured back. MATCH.
+
+517-518. Latin: calor, frigus, tepores iacent (ind. pl.) interutrasque, explentes summam ordine. English: same structure. MATCH.
+
+519-521. Latin: ergo creata distant (ind. pl.) finita ratione; quoniam notantur (pass.) ancipiti mucroni utrimque, infesta flammis, pruinis. English: same structure. MATCH.
+
+522-528. Latin: primordia, quae sunt perfecta simili figura, cluere (inf.) infinita; cum distantia sit finita, necesse est quae similes sint esse infinitas aut summam constare finitam; id quod probavi non esse. English: same structure. MATCH.
+
+529-531. Latin: ostendam (fut.) corpuscula tenere (inf.) summam ex infinito, protelo continuato. English: same structure. MATCH.
+
+532-535. Latin: quod vides (2 sg.) animalia quaedam rara esse, cernis fecundam naturam in illis; at licet multa esse in eo genere alio loco, numerum repleri. English: same structure (the crux is noted). MATCH.
+
+536-540. Latin: sicut videmus anguimanus elephantos esse in genere quadripedum cum primis; quorum milibus India munitur vallo eburno; ut nequeat penetrari; tanta vis ferarum est, quarum perpauca exempla videmus. English: same, but "so great is the force of these beasts". DIFF at 539-540: in this sentence vis means number or multitude, as "store" at 544; "force" shifts the sense to strength.
+
+541-543. Latin: ut concedam; esto (imperative) res unica, sola nativo corpore, cui similis non sit (subj.) in orbi. English: same structure. MATCH.
+
+544-546. Latin: nisi erit (fut.) vis materiai infinita, unde possit progigni concepta, non poterit (fut.) creari neque procrescere alique. English: same structure ("could not" for non poterit is minor). MATCH.
+
+547-550. Latin: sumant (subj.) alii corpora genitalia finita iactari per omne; unde, ubi, qua vi, quo pacto coibunt (fut.) congressa in pelago materiae turbaque aliena? English: same structure. MATCH.
+
+551. Latin: non habent rationem conciliandi. English: they have no means of making a union. MATCH.
+
+552-559. Latin: quasi, naufragiis coortis (abl. abs.), mare solet disiactare transtra, cavernas, antemnas, prorem, malos, tonsas; ut aplustra videantur et indicium edant; ut velint vitare insidias, vim, dolum, neve credant, cum pellacia ridet. English: same structure (prorem is made plural "prows", which is trivial). MATCH.
+
+560-564. Latin: si constitues primordia finita; aestus (nom.) materiai debebunt disiectare [ea] sparsa per omnem aevom; ut numquam possint coire compulsa, nec remorari, nec crescere adaucta. English: they will have to be scattered and tossed by the tides of matter (passive, with the agent kept); so that they can never be driven together, nor linger, nor grow. MATCH.
+
+565-566. Latin: res manifesta docet utrumque fieri palam: res progigni et genitas procrescere posse. English: same structure. MATCH.
+
+567-568. Latin: palam est primordia esse infinita in quovis genere, unde omnia suppeditantur. English: same structure. MATCH.
+
+569-572. Latin: nec queunt motus exitiales superare perpetuo neque sepelire salutem; nec motus genitales possunt servare creata perpetuo. English: same structure. MATCH.
+
+573-574. Latin: sic bellum contractum ex infinito tempore geritur aequo certamine principiorum. English: same structure. MATCH.
+
+575-577. Latin: vitalia superant et superantur; vagor miscetur funere, quem pueri tollunt visentis oras. English: same structure. MATCH.
+
+578-580. Latin: nec nox diem neque aurora noctem secutast, quae non audierit ploratus mixtos vagitibus, comites mortis et funeris. English: same structure. MATCH.
+
+FINDINGS
+485	ADDITION	MINOR	0.80	"non possunt" stands once in the Latin at 485, but the English renders it twice ("the shapes cannot vary much" in 484 and "they cannot." in 485), so a clause is doubled; fix 484 "body, the shapes are unable to vary greatly" and 485 "from one another. For suppose that of least parts, three of them,"
+539	LEXICAL	MODERATE	0.55	"tanta ferarum / vis est" means so great a number of beasts (the argument is about how many elephants there are, and vis is "store" at 544), but "so great is the force / of these beasts" makes it their strength; fix 539-540 "so great is the multitude / of these beasts, of which we see very few examples."
+472	MISTRANSLATION	MINOR	0.50	"unde est Neptuni corpus acerbum" says the rough beginnings mixed with the smooth are what make the sea bitter, but "of which the bitter body of Neptune consists" turns the causal predicate into a statement of what the sea is made of; fix "beginnings, from which the body of Neptune is bitter,"

@@ -1,0 +1,172 @@
+ANALYSIS
+
+**294-295.** Latin: copia materiai (subj.) fuit (perf. ind.) nec stipata magis umquam nec maioribus intervallis (neg.). English: store of matter was never more tightly packed, nor spread apart by greater intervals. MATCH ("than now" is implicit).
+
+**296.** Latin: nam neque adaugescit quicquam neque deperit inde (pres. ind., double neg.). English: nothing is added, nothing perishes. MATCH
+
+**297-302.** Latin:
+- quo in motu corpora principiorum nunc sunt, in eodem fuere (perf.) et ferentur (fut. pass.) simili ratione.
+- et quae consuerint gigni gignentur (fut. pass.) eadem condicione et erunt, crescent, valebunt, quantum cuique datum est per foedera naturai.
+
+English: motion they are in now is the same they were in, they will be carried in like manner; what was wont to be born will be born, be, grow, be strong, as much as granted to each by nature's covenants. MATCH
+
+**303-307.** Latin:
+- nec ulla vis potest commutare rerum summam.
+- nam neque est quicquam extra quo genus ullum materiai possit effugere ex omni.
+- neque unde nova vis coorta queat inrumpere in omne et mutare naturam et vertere motus.
+
+English: no force can change the sum; nothing outside into which matter could flee; no source from which a new force could burst in, change nature, turn its motions. MATCH
+
+**308-311.** Latin:
+- illud non est mirabile, quare summa videatur (pres. subj.) stare summa quiete,
+- cum omnia primordia sint in motu (concessive),
+- praeter quam siquid dat motus proprio corpore.
+
+English: no wonder why, although all first-beginnings move, the sum seems to stand in utmost rest, except where something makes motions with its own body. MATCH
+
+**312-316.** Latin:
+- omnis primorum natura iacet infra sensibus.
+- qua propter, ubi ipsa nequeas cernere, motus quoque debent surpere.
+- praesertim cum quae possimus cernere celent motus spatio diducta.
+
+English: the nature of the first bodies lies below the senses; since you cannot see them, their motions must steal away; especially since visible things hide their motions when withdrawn by distance. MATCH
+
+**317-322.** Latin:
+- pecudes (subj.) tondentes pabula reptant quo herbae vocantes invitant quamque.
+- agni satiati ludunt, coruscant.
+- omnia quae videntur nobis longe confusa et velut candor consistere in colli.
+
+English: flocks creep on where the grasses, calling, invite each one; lambs play and butt; all seem blurred from afar, like whiteness standing on the hill. MATCH
+
+**323-332.** Latin:
+- cum legiones complent loca, simulacra belli cientes.
+- ubi fulgor se tollit, tellus renidescit aere, sonitus excitur pedibus, montes icti reiectant voces, equites volitant et tramittunt campos quatientes.
+- et tamen est locus unde stare videntur et consistere in campis fulgor.
+
+English: same clauses, same subjects. MATCH
+
+**333-337.** Latin:
+- percipe (imperative) qualia sint exordia, quam longe distantia formis, quam variata figuris.
+- non quo multa parum simili sint praedita forma, sed quia non volgo paria omnibus omnia constant.
+
+English: learn what sort the origins are, how far they differ, how varied; then the fixed refrain. MATCH
+
+**338-341.** Latin:
+- nec mirum.
+- nam cum sit copia tanta ut neque finis neque summa sit ulla, debent non omnibus omnia esse pari filo similique figura.
+
+English: no wonder; since the store is so great that it has no end or sum, not all must be alike to all in contour and shape. MATCH
+
+**342-348.** Latin: genus humanum, natantes pecudes, armenta, ferae, volucres (those that concelebrant loca aquarum, and those that pervolgant nemora): perge sumere unum quidvis generatim; invenies differre figuris. English: same list, same relative clauses, imperative, future. MATCH
+
+**349-351.** Latin:
+- nec ratione alia proles posset cognoscere matrem nec mater prolem.
+- quod posse videmus, nec minus atque homines inter se nota cluere.
+
+English: in no other way could offspring know mother, nor mother offspring; we see they can, and that they are known no less than men. MATCH
+
+**352-366.** Latin:
+- vitulus mactatus concidit, expirans flumen.
+- at mater orbata, peragrans, novit vestigia, convisens loca si queat conspicere fetum, complet querellis nemus adsistens, revisit ad stabulum perfixa desiderio.
+- nec salices, herbae, flumina queunt oblectare animum et avertere curam.
+- nec aliae species vitulorum queunt derivare animum curaque levare.
+- usque adeo requirit quiddam proprium notumque.
+
+English: same clauses, subjects and negations. MATCH
+
+**367-370.** Latin:
+- haedi norunt matres, agni pecudes balantum.
+- ita, quod natura resposcit, quisque decurrunt ad sua ubera.
+
+English: kids know their mothers, lambs the bleating flocks; so, as nature demands, each runs to its own udder. MATCH
+
+**371-373.** Latin: quodvis frumentum non tamen videbis omne quidque esse simile, quin intercurrat distantia formis. English: any grain, you will not see every grain alike without some difference of form between. MATCH
+
+**374-376.** Latin: videmus genus concharum pingere gremium, qua aequor pavit (perf.) harenam. English: we see shells paint the lap of earth where the sea beats the sand. MATCH
+
+**377-380.** Latin: necessest, quoniam primordia constant natura neque facta sunt manu unius ad certam formam, quaedam volitare dissimili figura. English: same structure, same negation. MATCH
+
+**381-383.** Latin: perfacile est exsolvere quare fulmineus ignis (subj.) fluat (pres. subj.) multo penetralior quam noster, e taedis terrestribus ortus (ortus modifies noster; terrestribus modifies taedis). English: why the thunderbolt's fire is more piercing than ours, "which flows from torches, born of the earth". DIFF: fluat is moved from the thunderbolt's fire to our fire.
+
+**384-387.** Latin: possis dicere ignem caelestem constare subtilem e parvis figuris atque transire foramina quae nequit ignis noster ortus e lignis. English: same structure. MATCH
+
+**388-390.** Latin:
+- lumen transit per cornum, at imber respuitur.
+- quare, nisi corpora luminis minora sunt quam (ea) de quibus est liquor?
+
+English: same structure. MATCH
+
+**391-397.** Latin:
+- quamvis videmus vina perfluere, at contra olivom cunctatur.
+- aut quia est maioribus elementis aut magis hamatis.
+- atque ideo fit uti non tam diducta repente primordia possint singula permanare per foramina cuiusque.
+
+English: wine passes, oil lingers; larger or more hooked elements; so they cannot be drawn apart quickly enough to seep through one by one. MATCH (the standard construal).
+
+**398-401.** Latin:
+- liquores mellis lactisque tractentur iucundo sensu.
+- at contra natura absinthi centaurique pertorquent ora.
+
+English: same structure. MATCH
+
+**402-407.** Latin:
+- ut agnoscas ea quae iucunde tangere possunt esse e levibus et rutundis.
+- at quae amara videntur haec teneri nexa hamatis, solere vias rescindere sensibus, perrumpere corpus.
+
+English: same structure. MATCH
+
+**408-409.** Latin: omnia bona et mala sensibus tactu pugnant, dissimili perfecta figura. English: same structure. MATCH (defensible split of tactu).
+
+**410-421.** Latin:
+- ne putes horrorem serrae constare elementis levibus aeque ac mele, quae organici figurant expergefacta digitis.
+- neu putes primordia simili forma penetrare in nares cum cadavera torrent et cum scena perfusa est et ara exhalat.
+- neve constituas colores bonos (qui pascunt oculos) et qui conpungunt aciem constare simili semine.
+
+English: same three prohibitions with the same contents. MATCH
+
+**422-425.** Latin:
+- omnis res quae sensus mulcet haut sine principiali levore creatast.
+- at quae molesta constat non sine squalore repertast.
+
+English: same structure. MATCH
+
+**426-430.** Latin: sunt quae nec levia putantur nec unca, sed angellis prostantibus, ut quae titillare magis quam laedere possint; fecula, inula. English: same structure. MATCH
+
+**431-433.** Latin: tactus uterque indicio est ignis et pruinam, dentata dissimili modo, conpungere sensus. English: same structure. MATCH
+
+**434-441.** Latin:
+- tactus est sensus corporis, vel cum res extera insinuat, vel cum laedit (res) quae in corpore natast aut iuvat egrediens, aut cum ex offensu turbant, semina confundunt sensum.
+- ut si ferias partem et experiare.
+
+English: same structure. MATCH
+
+**442-443.** Latin: necessest formas principiis longe distare, quae possint edere sensus. English: forms must differ far, since they can give rise to sensations. MATCH (relative of characteristic read causally, defensible).
+
+**444-446.** Latin: quae durata videntur, haec necessest esse magis hamatis et teneri compacta quasi ramosis. English: same structure. MATCH
+
+**447-450.** Latin: in quo genere constant adamantina saxa sueta contemnere ictus, silices, robora ferri, aera quae restantia vociferantur. English: same structure. MATCH
+
+**451-455.** Latin:
+- illa debent esse magis e levibus, quae liquida constant.
+- haustus papaveris est facilis item quod aquarum.
+- nec glomeramina retinentur.
+- et perculsus volubilis exstat.
+
+English: same structure. MATCH
+
+**456-463.** Latin:
+- necessest omnia quae cernis diffugere, si minus sunt e levibus, at non esse indupedita perplexis, uti possint pungere et penetrare nec haerere.
+- quod cumque videmus dentatum, ut cognoscere possis esse non e perplexis sed acutis.
+
+English: same structure. MATCH
+
+**464-465.** Latin: quod amara vides eadem quae fluvida constant, minime mirabile debet [lost]. English: same structure. MATCH
+
+**466-468.** Latin:
+- nam quod fluvidus est, e levibus est, sed levibus admixta sunt hamata corpora doloris.
+- nec necessust haec retineri.
+
+English: same structure. MATCH
+
+FINDINGS
+383	MISTRANSLATION	MODERATE	0.60	In "quare fulmineus multo penetralior ignis / quam noster fluat e taedis terrestribus ortus" the subject of fluat is the thunderbolt's fire (it "flows far more piercing"), and terrestribus modifies taedis; the English gives "flows" to our fire ("which flows from torches") and detaches "of the earth" from the torches. Suggested fix, with 382 "why the fire of the thunderbolt flows far more piercing": "than ours, which springs from torches of the earth;"

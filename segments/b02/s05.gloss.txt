@@ -1,0 +1,109 @@
+ANALYSIS
+
+**730-738**
+- Latin: (tu) percipe dicta [impv.]; ne rearis [pres. subj.] haec, quae candida cernis, esse ex albis principiis alba, aut ea quae nigrant (esse) nata de nigro semine; nive credas quae inbuta sunt alium colorem gerere hunc propterea quod corpora materiai tincta sint consimili colore eius; nam nullus color est corporibus materiai, neque par rebus neque dispar.
+- English: take in words; so that you do not suppose white things are from white beginnings, nor black things born of black seed, nor that whatever is steeped bears it because bodies of matter are dyed with a like color; for bodies of matter have no color, neither like nor unlike things.
+- MATCH
+
+**739-740**
+- Latin: si tibi videtur nullus animi iniectus posse fieri in quae corpora, erras [2 sg.].
+- English: if it seems to you no casting of the mind can be made upon these bodies, you wander.
+- MATCH
+
+**741-745**
+- Latin: cum caecigeni, qui numquam dispexere lumina solis, tamen cognoscant [subj.] corpora tactu, ex ineunte aevo nullo coniuncta colore; scire licet corpora posse vorti in notitiam menti, nullo lita fuco.
+- English: since the blind from birth, who never looked on the sun's light, know bodies by touch, joined with no color from the beginning of life; you may know bodies can come into the notice of the mind, smeared with no dye.
+- MATCH
+
+**746-747**
+- Latin: quaecumque nos tangimus caecis tenebris, haud sentimus tincta ullo colore.
+- English: whatever we touch in blind darkness we do not perceive as dyed with any color.
+- MATCH
+
+**748**
+- Latin: quoniam vinco (id) fieri, docebo [fut.] esse.
+- English: since I prove it can be, I shall show it is.
+- MATCH
+
+**749-754**
+- Latin: omnis color mutatur in omnis; quod primordia haud ullo pacto debent facere; quiddam immutabile superare necessest, ne res omnes redigantur ad nihilum; nam quod mutatum exit finibus, hoc mors est illius quod fuit ante.
+- English: every color changes into every other; first-beginnings must by no means do this; something unchangeable must survive so that things are not brought to nothing; refrain.
+- MATCH
+
+**755-756**
+- Latin: proinde cave contingas semina rerum colore, ne res tibi redeant ad nihilum.
+- English: therefore take care not to touch the seeds with color, so that all things do not return to nothing for you.
+- MATCH
+
+**757-767**
+- Latin: si nulla natura coloris reddita est principiis et (ea) praedita sunt variis formis, e quibus gignunt variantque colores; propterea quod magni refert cum quibus et quali positura semina contineantur et quos motus dent accipiantque; (tu) possis reddere rationem cur ea quae nigro colore fuerint possint fieri marmoreo candore, ut mare vertitur in canos fluctus cum venti commorunt aequora.
+- English: same structure; from which (forms) they beget and vary colors; since it matters greatly...; you could give the reason why black things can become marble-white, as the sea is turned to white waves when winds have stirred it.
+- MATCH
+
+**768-771**
+- Latin: possis dicere (id) quod nigrum videmus, ubi materies illius permixta est et ordo principiis mutatus et quaedam addita demptaque, continuo fieri ut candens videatur et album.
+- English: same.
+- MATCH
+
+**772-775**
+- Latin: si aequora constarent [impf. subj.] caeruleis seminibus, nullo pacto possent albescere; nam quocumque modo perturbes caerula, numquam possunt migrare in marmoreum colorem.
+- English: same.
+- MATCH
+
+**776-783**
+- Latin: sin semina, quae efficiunt unum purumque nitorem maris, tincta sunt alio atque alio colore, ut quiddam quadratum efficitur ex variis figuris, conveniebat, ut in quadrato cernimus dissimiles formas, ita cernere in aequore aut alio nitore dissimiles variosque colores.
+- English: same.
+- MATCH
+
+**784-787**
+- Latin: figurae dissimiles nihil officiunt obstantque quo minus quadratum omne sit extra; at varii colores inpediunt quo minus res tota possit esse uno nitore.
+- English: same.
+- MATCH
+
+**788-791**
+- Latin: causa quae ducit et inlicit ut tribuamus non numquam colores principiis occidit, quoniam alba non creantur ex albis, nec nigra de nigris, sed ex variis.
+- English: same.
+- MATCH
+
+**792-794**
+- Latin: candida multo proclivius exorientur [fut.] nata de nullo colore quam de nigro aut alio qui pugnet et obstet.
+- English: same.
+- MATCH
+
+**795-798**
+- Latin: quoniam colores nequeunt esse sine luce neque primordia existunt in lucem, scire licet quam (primordia) nullo velata sint colore; nam qualis color poterit esse tenebris?
+- English: same.
+- MATCH
+
+**799-805**
+- Latin: (color) mutatur lumine ipso propterea quod percussus luce recta aut obliqua refulget; quo pacto pluma columbarum videtur in sole, quae [= pluma], sita circum cervices, coronat collum; namque alias fit ut rubra sit pyropo, interdum fit ut videatur miscere zmaragdos viridis inter caeruleum.
+- English: color is changed by light as it shines back when struck; as plumage of doves is seen, "the plumage set about the nape that crowns the neck" (the relative clause reads as attached to "nape"); at times red, at times seems to mingle emeralds with the blue.
+- DIFF: the subject of coronat (pluma) is displaced onto "nape".
+
+**806-809**
+- Latin: cauda pavonis, cum repleta est luce, consimili ratione obversa mutat colores; qui quoniam gignuntur ictu luminis, scire licet putandum esse (eos) sine eo fieri non posse.
+- English: same.
+- MATCH
+
+**810-816**
+- Latin: quoniam pupula excipit genus plagae cum dicitur sentire album, atque aliud cum nigrum sentit, nec refert quo colore praedita sint quae tangas sed quali figura apta; scire licet principiis nihil opus esse colore, sed (ea) variis formis edere variantes tactus.
+- English: same.
+- MATCH
+
+**817-825**
+- Latin: quoniam natura coloris non est certa certis figuris et omnia formamenta principiorum queunt esse in quovis nitore, cur ea quae constant ex illis non sunt perfusa omnigenus coloribus? conveniebat corvos volantis iactare album colorem ex albis pinnis et cycnos fieri nigros de nigro semine aut alio colore.
+- English: same.
+- MATCH
+
+**826-833**
+- Latin: quanto magis res distrahitur in partes, hoc magis est ut cernere possis colorem evanescere stinguique; ut fit ubi austrum discerpitur; purpura poeniceusque color, cum distractum est, disperditur; ut possis noscere particulas efflare omnem colorem prius quam discedant ad semina.
+- English: same, with 832 made passive while keeping the small pieces as agent.
+- MATCH
+
+**834-841**
+- Latin: quoniam concedis non omnia corpora mittere vocem neque odorem, fit ut non omnibus adtribuas sonitus et odores; sic quoniam non omnia cernere quimus oculis, scire licet quaedam constare orba colore tam quam quaedam sine odore sonituque, nec minus animum sagacem posse cognoscere haec quam notare quae aliis rebus privata sunt.
+- English: same.
+- MATCH
+
+FINDINGS
+802	AMBIGUITY	MINOR	0.60	In "quae sita cervices circum collumque coronat" the subject of coronat is the plumage (quae = pluma), but in "the plumage set about the nape that crowns the neck" the relative clause attaches to "nape", making the nape crown the neck (the sentence begins at 801). Suggested fix: "the plumage that, set about the nape, crowns the neck;"

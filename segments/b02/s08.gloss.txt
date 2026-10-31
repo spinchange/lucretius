@@ -1,0 +1,87 @@
+ANALYSIS
+
+**1105-1111**
+- Latin: corpora multa addita sunt (pf. pass. pl.) extrinsecus post tempus genitale mundi diemque primigenum… coortum[que] solis; addita [sunt] circum semina; rel. quae (obj.) contulit (pf.) magnum omne (subj.) iaculando; unde mare et terrae possent augescere (impf. subj., purpose/potential); et unde appareret spatium (subj. of appareret); caeli domus (nom., subj.) tolleret alta tecta procul a terris; et consurgeret aer.
+- English: many bodies were added from outside after birth-time / first-born day / rising of sun; seeds added round about, which the great whole brought together by hurling; from which sea and lands could increase; from which "the space of heaven's house" could appear and lift its roof; air rise up.
+- DIFF: caeli domus (nominative, subject of tolleret) is made a genitive on spatium, so "space" lifts the roof.
+
+**1112-1117**
+- Latin: omnia corpora distribuuntur (pres. pass.) plagis sua cuique ex omnibus locis, et recedunt ad sua saecla; umor [recedit] ad umorem; terra crescit terreno corpore; ignes procudunt ignem; aether [procudit] aethera; donique natura creatrix, perfica, perduxit (pf.) omnia ad extremum finem crescendi.
+- English: same, with "bringing all to completion" for perfica.
+- MATCH
+
+**1118-1119**
+- Latin: ut fit ubi nihilo plus est quod datur intra venas quam quod fluit atque recedit.
+- English: same.
+- MATCH
+
+**1120-1121**
+- Latin: hic aetas debet consistere omnibus rebus; hic natura refrenat auctum suis viribus.
+- English: same.
+- MATCH
+
+**1122-1127**
+- Latin: quae cumque vides grandescere… scandere, [ea] adsumunt plura corpora quam mittunt; dum cibus omnis (nom., with cibus) facile inditur in venas; dum non ita late dispessa sunt ut multa remittant et plus dispendi faciant quam vescitur aetas.
+- English: whatever things you see… take more bodies than they send; while food is easily put into "all their veins"; while not spread so widely…
+- DIFF: omnis is moved from cibus to venas.
+
+**1128-1130**
+- Latin: manus dandum est (gerundive, "we must grant") multa corpora fluere atque recedere rebus; sed plura debent accedere, donec tetigere (pf.) summum cacumen alescendi.
+- English: same.
+- MATCH
+
+**1131-1132**
+- Latin: inde aetas minutatim frangit vires et robur adultum, et liquitur in partem peiorem.
+- English: same.
+- MATCH
+
+**1133-1138**
+- Latin: quanto res amplior est (augmine adempto, abl. abs.) et quo latior, plura corpora dispargit et mittit; nec cibus omnis (with cibus) facile diditur ei in venas; nec satis est, pro quam largos aestus exaestuat, unde queat tantum suboriri ac subpeditare.
+- English: same, but "distributed into all its veins".
+- DIFF: omnis is again moved from cibus to venas.
+
+**1139-1143**
+- Latin: iure igitur pereunt, cum rarefacta sunt fluendo et cum omnia succumbunt externis plagis; quando cibus denique defit grandi aevo; nec corpora tuditantia cessant extrinsecus ullam rem conficere et domare plagis, infesta.
+- English: same.
+- MATCH
+
+**1144-1149**
+- Latin: sic moenia mundi quoque, expugnata, dabunt (fut.) labem putrisque ruinas; enim cibus debet integrare, fulcire, sustentare omnia, ne quiquam, quoniam nec venae perpetiuntur quod satis est, neque natura ministrat quantum opus est.
+- English: same.
+- MATCH
+
+**1150-1152**
+- Latin: iam aetas fracta est, tellusque effeta vix creat parva animalia, quae (subj.) creavit cuncta saecla deditque partu ingentia corpora ferarum.
+- English: same.
+- MATCH
+
+**1153-1156**
+- Latin: haud funis aurea (subj.) demisit (pf.) mortalia saecla (obj.) de caelo in arva; nec mare nec fluctus crearunt; sed tellus genuit, eadem quae nunc alit ex se.
+- English: same, inverted order.
+- MATCH
+
+**1157-1163**
+- Latin: ipsa (tellus) creavit sponte sua primum fruges, vineta…; dedit fetus, pabula; quae nunc vix grandescunt aucta labore; conterimus boves et viris agricolarum; conficimus ferrum, [nos] vix arvis suppeditati (masc. pl., with "we"); usque adeo parcunt fetus augentque laborem.
+- English: same, but "the iron share, scarcely supplied by the fields".
+- DIFF: suppeditati (we) now reads as modifying the share.
+
+**1164-1167**
+- Latin: arator suspirat crebrius [se] in cassum cecidisse labores; cum confert praesentia tempora praeteritis, laudat fortunas parentis.
+- English: same.
+- MATCH
+
+**1168-1172**
+- Latin: sator vitis incusat momen temporis saeclumque fatigat, et crepat ut genus antiquum… tolerarit (pf. subj.) aevom angustis finibus, cum (concessive) modus agri esset multo minor viritim.
+- English: same.
+- MATCH
+
+**1173-1174**
+- Latin: nec tenet omnia paulatim tabescere et ire ad capulum, defessa (with omnia) spatio vetusto aetatis.
+- English: same.
+- MATCH
+
+FINDINGS
+1125	GRAMMAR	MINOR	0.55	"cibus omnis" (all the food) has omnis moved to venas, "into all their veins"; "while all the food is easily put into their veins, and while"
+1110	GRAMMAR	MODERATE	0.50	"appareret spatium caeli domus altaque tecta / tolleret" has caeli domus as nominative subject of tolleret, but the English makes it a genitive ("the space of heaven's house") and makes space lift the roof; "room could appear, and heaven's house lift its lofty roof"
+1136	GRAMMAR	MINOR	0.50	"cibus omnis diditur" again has omnis moved from cibus to venas, "into all its veins"; "nor is all the food easily distributed into its veins,"
+1162	AMBIGUITY	MINOR	0.50	"vix arvis suppeditati" (masc. pl., "we, scarcely supplied by the fields") is placed so it reads as modifying "the iron share"; "we wear down the iron, we whom the fields scarcely supply:"

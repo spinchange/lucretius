@@ -1,0 +1,55 @@
+ANALYSIS
+842-846: Latin: [ne putes] corpora prima (subj.) manere (inf.), spoliata (agrees with corpora) colore solo; [corpora] secreta sunt (pres. ind., pl.) teporis, frigoris, calidi vaporis; sterila et ieiuna feruntur; nec iaciunt (neg.) ullum proprium odorem. English: lest you think first bodies remain stripped of color alone; they are set apart from warmth, cold, heat; go barren of sound, starved of flavor; give off no odor of their own. MATCH.
+
+847-864: Latin: sicut, cum facere instituas (2 sg. subj.) liquorem/florem (qui halat nectar), quaerere par est olivi naturam (quae nullam mittat auram), ut quam minime possit odores perdere viro (contractans, agrees with the oil); propter eandem rem debent primordia non adhibere odorem, sonitum (quoniam nihil mittere possunt), saporem, frigus, vaporem; cetera (quae ... ut mortalia constent; molli lenta etc.) sint seiuncta a principiis necessest; si volumus subiungere fundamenta (quibus nitatur summa salutis); ne res redeant ad nihilum. English: the same clauses, agents and negations, with the oil as the subject of "spoil", the first-beginnings as subject of "must not lend", the purpose clause in 864. MATCH.
+
+865-870: Latin: confiteare (subj.) ea quae sentire videmus constare ex insensilibus principiis; manufesta neque refutant nec pugnant; sed ducunt et cogunt credere animalia gigni ex insensilibus. English: same. MATCH.
+
+871-873: Latin: licet videre vermes existere (inf.) de stercore, cum tellus (subj.) putorem nacta est (perf.). English: worms come forth from dung when rottenness has come over the earth. MATCH.
+
+874-882: Latin: cunctas res vertere sese; fluvii vertunt se in frondes, pabula in pecudes; pecudes vertunt naturam in corpora nostra; de corpore nostro augescunt vires ferarum et corpora pennipotentum; ergo natura vertit cibos in corpora viva et procreat sensus, non alia ratione atque explicat ligna in flammas et omnia versat in ignis. English: same agents and objects; "it" = nature in 882. MATCH.
+
+883-885: Latin: vides magni referre primordiis in quali ordine quaeque locata sint, quibus commixta, quos motus dent accipiantque. English: same. MATCH.
+
+886-888: Latin: quid id est quod percutit animum (ipsum), quod movet et cogit expromere varios sensus, ne credas sensile gigni ex insensilibus? English: same; "itself" attached to mind (Latin ipsum can be read either way). MATCH.
+
+889-890: Latin: ni mirum quod lapides, ligna, terra una mixta nequeunt reddere vitalem sensum. English: same. MATCH.
+
+891-896: Latin: decebit meminisse me non dicere sensus gigni extemplo ex omnibus quae creant res sensilia, sed magni referre quantula constent ea quae faciunt sensile, qua forma praedita sint, quae sint motibus ordinibus posituris. English: same. MATCH.
+
+897-901: Latin: nil quarum rerum videmus in lignis glaebisque; tamen haec (cum putrefacta sunt) pariunt vermiculos, quia corpora materiai permota nova re conciliantur ita ut debent animalia gigni. English: same. MATCH.
+
+902-906: Latin: qui constituunt sensile posse creari ex sensilibus, porro ex aliis sentire sueti, [lacuna] mollia cum faciunt; nam sensus iungitur visceribus nervis venis, quae videmus mollia consistere mortali corpore creta. English: same, lacuna kept. MATCH.
+
+907-909: Latin: esto haec posse manere aeterna; debent aut habere sensum partis aut putari similia totis animalibus. English: same. MATCH.
+
+910-913: Latin: necesse est partes nequeant per se sentire; animus respuit sensus membrorum; nec manus secreta nec ulla pars sola potis est tenere sensum. English: same, negations intact. MATCH.
+
+914-915: Latin: linquitur ut adsimulentur totis animantibus, ut possint consentire vitali sensu. English: same. MATCH.
+
+916-918: Latin: qui poterunt dici primordia et vitare vias leti, cum animalia sint, atque animalia sint una eademque mortalibus? English: same. MATCH.
+
+919-922: Latin: ut possint, at coetu concilioque nil facient praeter volgum turbamque animantum, ut nequeant homines armenta ferae gignere ullam rem conveniundo. English: same; "other" in 922 is an interpretive gloss of the argument's sense. MATCH.
+
+923: Latin: sic quae sentimus sentire necessest. English: what we sense must itself sense. MATCH.
+
+924-926: Latin: si dimittunt sensum et capiunt alium, quid opus fuit adtribui id quod detrahitur? English: same. MATCH.
+
+926-930: Latin: quatinus cernimus ova vertier in pullos animalis et vermis effervere terra (quam putor cepit ob imbris), licet scire sensus posse gigni ex non sensibus. English: same. MATCH.
+
+931-936: Latin: si aliquis dicet sensus oriri posse ex non sensu dumtaxat mutabilitate aut partu (quod proditur extra), huic satis erit probare partum non fieri nisi concilio coacto, nec quicquam commutari sine conciliatu. English: same; plural sensus given as "sense" in 931. MATCH.
+
+937-943: Latin: nequeunt sensus esse ante naturam animantis genitam, quia materies disiecta tenetur in aere etc., nec congressa contulit motus vitalis convenientes, quibus sensus accensi animantem tuentur. English: same. MATCH.
+
+944-951: Latin: ictus grandior quam patitur natura adfligit animantem et pergit confundere sensus; positurae dissoluuntur, motus inpediuntur, donec materies omnis (nom. sg., all the matter) concussa per artus solvit nodos animae et eiecit [animam] dispersam per caulas omnis. English: same structure, but omnis is moved from the matter to the limbs ("the matter, shaken through all the limbs"). DIFF (minor: "all the matter" becomes "all the limbs").
+
+952-953: Latin: quid reamur ictum oblatum posse facere nisi discutere ac dissolvere quaeque? English: same. MATCH.
+
+954-959: Latin: fit ut, ictu minus acriter oblato (abl. abs.), reliqui motus vitalis soleant vincere, sedare tumultus, revocare quicquid in meatus, discutere motum leti, accendere sensus. English: same, ablative absolute kept. MATCH.
+
+960-962: Latin: qua re potius possint (they, the creatures) a limine leti reverti ad vitam conlecta mente quam ire et abire quo decursum prope siet? English: same. MATCH.
+
+963-972: Latin: quoniam dolor est ubi corpora materiai sollicitata trepidant, et fit voluptas quando remigrant, licet scire primordia posse temptari nullo dolore nec capere voluptatem ex se; quandoquidem non sunt ex corporibus principiorum quorum motus novitate laborent aut fructum capiant; haut debent esse praedita sensu. English: same, negations intact. MATCH.
+
+FINDINGS
+949	MISTRANSLATION	MINOR	0.50	"materies omnis concussa per artus": omnis agrees with materies (all the matter), but the English moves it to the limbs ("the matter, shaken through all the limbs"); fix: "until all the matter, shaken through the limbs,"
