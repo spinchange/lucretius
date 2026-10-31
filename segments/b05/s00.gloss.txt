@@ -1,0 +1,78 @@
+ANALYSIS
+
+1-2. L: Quis potis est (pres. ind.) condere carmen dignum [pro maiestate rerum hisque repertis], pollenti pectore (abl. of means). E: Who has strength of heart to build a song worthy of the majesty and discoveries. MATCH.
+
+3-5. L: quisve valet verbis tantum, qui possit (subj., result) fingere laudes pro meritis eius, qui (Epicurus) liquit nobis praemia talia [pectore suo parta quaesitaque]. E: who is so strong in words that he could shape praises to match the merits of the one who left us prizes brought forth and sought out by his heart. MATCH.
+
+6. L: nemo erit (fut.) mortali corpore cretus. E: No one who is made of a mortal body. MATCH.
+
+7-12. L: si dicendum est (gerundive), ut petit maiestas cognita; deus ille fuit, qui princeps invenit rationem vitae quae nunc appellatur sapientia, quique per artem locavit vitam [ex fluctibus et tenebris] in tranquillo et clara luce. E: if we must speak as the known majesty demands, he was a god, who first discovered the reasoning called wisdom and by art took life from waves and darkness and set it in calm and clear light. MATCH.
+
+13. L: confer (imper.) enim divina aliorum antiqua reperta. E: For compare the godlike discoveries of others long ago. MATCH.
+
+14-15. L: Ceres fertur instituisse fruges, Liber laticem liquoris vitigeni, mortalibus. E: same. MATCH.
+
+16-17. L: cum tamen vita posset manere sine his rebus, ut fama est gentis aliquas vivere. E: same. MATCH.
+
+18. L: at bene non poterat vivi (impers. pass.) sine puro pectore. E: a good life was not possible without a pure heart. MATCH.
+
+19-21. L: quo magis hic merito videtur deus, ex quo solacia didita per gentis permulcent animos. E: same. MATCH.
+
+22-23. L: si putabis (fut.) facta Herculis antistare, ferere (fut. pass.) longius a vera ratione. E: if you think his deeds stand above, you will be carried farther from true reasoning. MATCH.
+
+24-26. L: quid obesset (impf. subj.) hiatus leonis et sus; tanto opere officerent Stymphala colentes? E: what harm would the mouth and the boar do; how much could the birds of Stymphalus hinder us? MATCH (would/could is defensible).
+
+27-28. L: denique quid posset taurus, pestis hydra vallata colubris? E: same. MATCH.
+
+29-36. L: quidve (posset) vis Geryonai, et equi spirantes ignem [Thracia ... propter], (et) serpens servans mala, asper, tuens, amplexus stirpes? quid denique obesset (serpens) propter Atlanteum litus, quo neque noster adit nec barbarus audet? E: same; "it" refers to the serpent. MATCH.
+
+37-38. L: cetera portenta perempta, si non victa forent (plupf. subj.), quid viva nocerent? E: same. MATCH.
+
+39-42. L: nil; ita terra scatit ferarum et repleta est terrore per nemora...; quae loca vitandi est nostra potestas. E: same, with ita rendered as "for". MATCH.
+
+43-44. L: nisi purgatumst pectus, quae proelia atque pericula tum insinuandum est nobis ingratis! E: unless the heart is purged, what battles and dangers must work into us against our will. MATCH.
+
+45-46. L: quantae curae cuppedinis scindunt hominem sollicitum, quantique timores! E: same. MATCH.
+
+47-48. L: quid superbia, spurcitia, petulantia? quantas efficiunt clades! quid luxus desidiaeque? E: same. MATCH.
+
+49-51. L: qui subegerit haec et expulerit dictis non armis, nonne decebit (fut.) hunc dignarier esse numero divom? E: same. MATCH.
+
+52-54. L: cum suerit (perf. subj., "has been accustomed") dare multa dicta bene ac divinitus ipsis iam mortalibus e divis, atque pandere naturam dictis. E: since he "was used to give" sayings from the gods to mortals and lay open nature. DIFF: "was used to give" can be read as a passive (employed) rather than habitual; iam is omitted (minor).
+
+55-66. L: dum (ego, ingressus vestigia) persequor rationes ac doceo [quo foedere quaeque creata sint; quam necessum sit in eo durare; nec valeant rescindere leges aevi], quo genere [animi natura reperta est consistere nativo corpore creta; nec posse durare; sed simulacra solere (habitual) fallere mentem in somnis, cum videamur cernere eum quem vita reliquit], ordo rationis detulit huc, ut ratio reddunda sit mundum consistere mortali corpore nativomque esse. E: while I follow and teach ..., in which kind the mind was found to consist of a body that had birth, not able to endure, "but that images are used to deceive the mind", when we seem to see the dead; the order of reasoning has brought me to give an account that the world is mortal and had a birth. DIFF: at 62, solere (habitual, "are wont") is rendered "are used to", which reads naturally as an instrumental passive (someone uses images to deceive).
+
+67-75. L: (ratio reddunda) quibus modis congressus materiai fundarit terram...; quae animantes extiterint, quae nullo tempore natae; quo modo genus humanum coeperit vesci nominibus; quibus modis metus divom insinuarit pectora, qui (metus) tuetur sancta fana... E: same; the singular "keeps" ties "which" to fear. MATCH.
+
+76-81. L: expediam qua vi natura gubernans flectat cursus solis lunaeque; ne reamur haec lustrare cursus libera sponte sua, morigera..., neve putemus volvi ratione divom. E: same. MATCH.
+
+82-90. L: qui didicere deos agere aevom securum, si mirantur qua ratione quaeque geri possint, referuntur in religiones et adsciscunt dominos, quos credunt omnia posse, ignari quid queat esse, quid nequeat, qua ratione potestas finita sit cuique et terminus haerens. E: same. MATCH.
+
+91-96. L: ne moremur, tuere (imper.) maria, terras, caelum; quorum naturam triplicem... una dies dabit exitio, et moles et machina mundi sustentata ruet. E: same. MATCH.
+
+97-103. L: nec fallit me quam res nova accidat menti exitium futurum, et quam difficile sit pervincere; ut fit ubi adportes rem insolitam ante auribus nec possis subdere visu nec iacere indu manus, qua via fidei munita fert proxima in pectus templaque mentis. E: same. MATCH.
+
+104-109. L: effabor. res ipsa dabit fidem dictis forsitan, et cernes omnia conquassari, terrarum motibus ortis (abl. abs.). quod flectat (jussive subj.) fortuna procul, et ratio potius quam res persuadeat omnia victa posse succidere fragore. E: same; victa is made coordinate ("be overcome and fall"). MATCH (defensible).
+
+110-113. L: qua de re prius quam adgrediar fundere fata sanctius et certa ratione magis quam Pythia..., expediam multa solacia doctis dictis. E: same. MATCH.
+
+114-121. L: ne rearis (religione refrenatus) terras, solem... debere manere aeterna corpore divino, putesque par esse omnis pendere poenas ritu Gigantum, qui disturbent moenia, velint restinguere solem, notantes inmortalia mortali sermone. E: same. MATCH.
+
+122-125. L: quae (concessive rel.) distent a numine, sint indigna videri in numero deum, ut putentur praebere notitiam quid sit remotum a motu sensuque. E: same. MATCH.
+
+126-127. L: non est ut animi natura consiliumque putetur posse esse cum quovis corpore. E: same. MATCH.
+
+128-131. L: sicut non arbor in aethere, non nubes "aequore salso", neque pisces in arvis, nec cruor in lignis, neque sucus saxis queunt esse; certum est ubi quicquid crescat. E: no tree in the upper air, no clouds "in the deep sea".... DIFF: salso (salt) is rendered "deep", which is carried over from 3.784 "aequore in alto".
+
+132-133. L: sic animi natura nequit oriri sine corpore sola neque esse longius a nervis et sanguine. E: same. MATCH.
+
+134-137. L: si posset, animi vis posset multo prius esse in capite..., et soleret innasci quavis in parte, tandem manere in eodem homine/vase. E: same. MATCH.
+
+138-143. L: quoniam constat et videtur certum ubi anima atque animus seorsum possit esse et crescere, tanto magis infitiandum (est) totum posse durare extra corpus... in glebis, igni, aqua, oris aetheris. E: same. MATCH.
+
+144-145. L: haud constant praedita divino sensu, quandoquidem nequeunt vitaliter esse animata. E: same. MATCH (defensible expansion).
+
+FINDINGS
+62	AMBIGUITY	MODERATE	0.60	"simulacra solere ... fallere mentem" means images habitually deceive the mind, but "images are used to deceive the mind" reads most naturally as a passive with some unnamed agent employing the images. Fix: "but that images are wont to deceive the mind in sleep"
+128	LEXICAL	MINOR	0.55	"aequore salso" (the salt sea) is rendered "the deep sea", which is carried over from 3.784 where the Latin is "aequore in alto"; here the Latin differs, so the verbatim repeat is not warranted (also note the register entry 5.128-140 = 3.784-796). Fix: "in the salt sea, nor can fish live in the fields," (with 5.128 kept as is)
+52	AMBIGUITY	MINOR	0.50	"dare dicta suerit" (he was accustomed to give sayings) is rendered "he was used to give", which can be read as a passive (he was employed to give) rather than habitual. Fix: "Especially since he was wont to give, well and divinely,"

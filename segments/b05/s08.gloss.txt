@@ -1,0 +1,73 @@
+ANALYSIS
+988-989: Latin: mortalia saecla (subj) linquebant (impf ind act pl) lumina vitae (obj), lamentis; nec nimio plus tum quam nunc. English: generations of mortals did not leave the light of life with lamentation much more then than now. MATCH.
+
+990-993: Latin: unus quisque deprensus (ptc) praebebat (impf) pabula viva feris, haustus (ptc, subj); replebat (impf) nemora, montis, silvas gemitu; videns (ptc) viscera viva sepeliri (pres pass inf) vivo busto. English: each one, caught, offered living food, swallowed; filled groves etc.; as he saw his living flesh buried in a living tomb. MATCH.
+
+994-998: Latin: quos effugium servarat (plupf) corpore adeso (abl abs); posterius tenentes palmas (ptc) accibant (impf) Orcum; donique vermina (subj) privarant (plupf) eos vita; expertis opis, ignaros quid volnera vellent (impf subj). English: those whom flight had saved, body half-eaten, holding palms, called on Orcus until gripings robbed them; without help, not knowing what wounds required. MATCH.
+
+999-1001: Latin: non una dies (subj) dabat (impf) exitio milia ducta (obj); nec aequora (subj) lidebant (impf) navis virosque. English: a single day did not give many thousands to destruction; nor did the sea dash ships and men. MATCH.
+
+1002-1005: Latin: mare coortum (subj) saevibat, ponebat minas inanis; nec pellacia (subj) poterat pellicere quemquam in fraudem. English: the sea raged, laid aside empty threats; nor could the allure lure anyone into ruin. MATCH.
+
+1006: Latin: navigii ratio (subj) iacebat (impf) caeca. English: the craft of sailing lay unseen. MATCH.
+
+1007-1008: Latin: penuria (subj) dabat membra leto; nunc copia (subj) mersat. English: lack of food gave limbs to death; now abundance drowns them. MATCH.
+
+1009-1010: Latin: illi (subj) vergebant (impf) venenum sibi; nunc dant aliis. English: same. MATCH.
+
+1011-1014: Latin: postquam pararunt (pf) casas, pellis, ignem; mulier (subj) concessit in unum [lacuna] cognita sunt; videre (pf) prolem creatam; tum genus (subj) coepit mollescere. English: same; "in unum" = "into one home". MATCH (the noun "home" is supplied beside the lacuna; that is defensible).
+
+1015-1018: Latin: ignis (subj) curavit ut corpora non possent (impf subj) ferre frigus; Venus (subj) inminuit viris; pueri (subj) fregere ingenium parentum blanditiis. English: same. MATCH.
+
+1019-1023: Latin: finitimi (subj) aventes coeperunt iungere amicitiem, nec laedere nec violari (inf governed by aventes); commendarunt pueros, saeclum; cum significarent (impf subj) aequum esse omnis misererier imbecillorum. English: same in sense. MATCH.
+
+1024-1027: Latin: concordia (subj) non poterat gigni; pars (subj) servabat foedera; aut genus foret peremptum (plupf subj), nec propago potuisset (plupf subj) perducere saecla. English: same. MATCH.
+
+1028-1032: Latin: natura (subj) subegit mittere sonitus; utilitas (subj) expressit nomina; ratione non alia atque infantia (subj) videtur protrahere pueros ad gestum, cum facit ut monstrent (pres subj) praesentia. English: same. MATCH.
+
+1033: Latin: quisque (subj) sentit vim suam, quod possit abuti. English: same. MATCH.
+
+1034-1035: Latin: prius quam cornua nata extent (pres subj), vitulus (understood subj) iratus petit illis, inurget. English: same. MATCH.
+
+1036-1038: Latin: catuli, scymni (subj) repugnant unguibus, pedibus, morsu; vix cum sunt creati dentes. English: same. MATCH.
+
+1039-1040: Latin: videmus genus omne fidere alis, petere auxiliatum. English: same. MATCH.
+
+1041-1045: Latin: putare (subj inf) aliquem distribuisse nomina, homines didicisse vocabula, desiperest; cur hic posset (impf subj) notare, emittere, alii putentur (pres subj pass) non quisse? English: same. MATCH.
+
+1046-1049: Latin: si alii non usi fuerant (plupf), unde insita est notities utilitatis, unde data est huic potestas ut sciret, videret (impf subj) quid vellet facere? English: same. MATCH.
+
+1050-1051: Latin: unus (subj) non poterat cogere pluris, domare victos, ut vellent (impf subj) perdiscere nomina. English: same. MATCH.
+
+1052-1055: Latin: docere, suadere surdis (subj inf) non facilest; neque paterentur (impf subj) nec ferrent amplius sonitus obtundere auris. English: same ("for long" for amplius). MATCH.
+
+1056-1061: Latin: quid mirabile (est), si genus (subj) notaret (impf subj) res voce pro sensu; cum pecudes, saecla (subj) soleant ciere voces, cum metus est, cum gaudia gliscunt. English: same. MATCH.
+
+1062: Latin: licet cognoscere id rebus apertis. English: same. MATCH.
+
+1063-1066: Latin: cum ricta (subj) inritata fremunt, nudantia dentes; rabies restricta (subj) minatur alio sonitu, et (alio) cum latrant, complent. English: same. MATCH.
+
+1067-1072: Latin: cum temptant lambere catulos, aut ubi lactant (pres ind) eos, potentes pedibus morsuque imitantur haustus suspensis dentibus; adulant gannitu alio pacto, et cum deserti baubantur, cum plorantis fugiunt plagas. English: same, except that "lactant" is rendered "toss". DIFF: "toss" renders the lookalike iactant, not lactant ("fondle, coax").
+
+1073-1077: Latin: hinnitus (subj) non videtur differre, ubi equus (subj) ictus saevit, edit fremitum ad arma, et cum alias hinnit. English: same. MATCH.
+
+1078-1082: Latin: genus, volucres, accipitres, ossifragae, mergi petentes (subj) iaciunt alias voces alio tempore, et (alias) quom certant, repugnant. English: same. MATCH.
+
+1083-1086: Latin: partim (subj) mutant cantus cum tempestatibus; ut saecla, greges ubi dicuntur poscere aquam, vocare ventos. English: same. MATCH.
+
+1087-1090: Latin: si sensus (subj) cogunt animalia emittere voces, cum muta sint; quanto magis aequumst mortalis potuisse notare res. English: same. MATCH.
+
+1091-1093: Latin: ne requiras (pres subj, purpose); fulmen (subj) detulit ignem primitus; inde ardor (subj) diditur. English: same. MATCH.
+
+1094-1095: Latin: videmus multa insita flammis fulgere, cum plaga (plāga, "stroke") caeli donavit vaporis. English: when a quarter (plăga, "region") of the sky has granted heat. DIFF: plaga read as region, not as the stroke of lightning.
+
+1096-1100: Latin: cum arbor (subj) pulsa, vacillans aestuat incumbens in ramos arboris; ignis (subj) extritus (ptc, "rubbed out") exprimitur (pres pass); ardor emicat; dum rami, stirpes teruntur. English: fire pressed out, "struck forth"; the rest is the same. DIFF: extritus (rubbed out by friction) becomes "struck forth".
+
+1101: Latin: quorum utrumque potest dedisse ignem. English: same. MATCH.
+
+1102-1104: Latin: sol (subj) docuit quoquere, mollire; quoniam videbant multa mitescere victa verberibus, aestu. English: same. MATCH.
+
+FINDINGS
+1095	LEXICAL	MODERATE	0.62	"cum caeli donavit plaga vaporis": plaga here is the stroke from heaven (the lightning of 1092), but the English reads the lookalike plaga "region" as "a quarter of the sky"; "blaze, when a stroke from heaven has bestowed its heat."
+1068	LEXICAL	MODERATE	0.55	"aut ubi eos lactant": the text prints lactant ("fondle, coax"), but the English "toss" translates the variant iactant; "or when they fondle them, mighty in paw and bite,"
+1098	LEXICAL	MINOR	0.50	"extritus ... ignis": extritus is "rubbed out, ground out" by friction (picked up by teruntur, 1100), and "struck forth" suggests percussion instead; "fire is pressed out, rubbed forth by the strong force,"

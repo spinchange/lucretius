@@ -1,0 +1,57 @@
+ANALYSIS
+
+380-384: Latin: cum (causal) membra [subj] pugnent (pres. subj. pl.), concita [→membra] bello pio nequaquam; main: nonne vides (2sg) finem aliquam ollis posse dari (pres. pass. inf.); vel cum sol et vapor [subj] exsuperarint (fut. perf. subj. pl.), abl. abs. omnibus epotis umoribus. English: since members fight, stirred by a war in no way holy; do you not see an end can be granted them; "either" when sun and heat have drunk up the moisture and prevailed. DIFF: vel ("for instance") is rendered "either", which sets up an alternative that never comes. The abl. abs. made active with the sun as agent is defensible.
+
+385: Latin: quod facere intendunt (pl., sun/heat); neque conata patrantur (pres. pass.). English: this they strive to do, and have not yet carried out their attempt. MATCH
+
+386-387: Latin: tantum suppeditant amnes; ultra minantur (amnes) omnia diluviare ex gurgite ponti. English: so much do the rivers supply, and they threaten besides to flood all things. MATCH
+
+388-391: Latin: ne quiquam; quoniam venti [subj] deminuunt (obj. implied), sol retexens radiis (also subj.); et confidunt (pl.) siccare omnia posse prius quam liquor possit contingere finem incepti. English: in vain, since the winds diminish it, and the sun unweaving with rays; and they trust they can dry all before the water can reach the end of its undertaking. MATCH
+
+392-395: Latin: spirantes tantum bellum [→the members] certant cernere de rebus magnis; cum semel fuerit (perf. subj.) superantior ignis et semel umor regnarit (perf. subj.), ut fama est. English: breathing such war, they strive to settle great matters; though once fire has been the stronger, and once water reigned. MATCH
+
+396-398: Latin: ignis superavit et ambiens multa perussit; cum vis [subj] equorum solis Phaethonta [obj] raptavit avia aethere toto terrasque per omnis. English: fire prevailed and burned up much, when the force of the horses swept Phaethon off the road through the ether and lands. MATCH
+
+399-405: Latin: pater [subj] percitus ira Phaethonta deturbavit equis in terram; Sol obvius cadenti succepit lampada, redegit equos, iunxit trementis, recreavit cuncta gubernans; ut poetae cecinere. English: the father dashed Phaethon from the horses; the Sun, meeting him as he fell, caught up the lamp, brought back and yoked the horses, restored all things steering; as the poets have sung. MATCH
+
+406: Latin: quod est repulsum nimis procul a vera ratione. English: this is driven very far from true reasoning. MATCH
+
+407-410: Latin: ignis superare potest ubi corpora plura materiai sunt coorta ex infinito; inde vires cadunt revictae; aut res pereunt exustae auris. English: same. MATCH
+
+411-415: Latin: umor coortus coepit superare, quando obruit vitas hominum undis; ubi vis [quae cumque fuerat coorta] aversa recessit, constiterunt imbres, flumina vim minuerunt. English: same. MATCH
+
+416-418: Latin: quibus modis coniectus [subj] fundarit terram, caelum, profunda ponti, cursus solis lunai, ponam (1sg fut.). English: same. MATCH
+
+419-421: Latin: neque primordia [subj] consilio se locarunt ordine suo mente sagaci, nec pepigere quos motus quaeque darent. English: same (refrain). MATCH
+
+422-431: Latin: quia primordia percita plagis ponderibusque concita consuerunt ferri, coire, pertemptare omnia quae possent creare; propterea fit uti (volgata) experiundo coetus et motus tandem conveniant ea quae coniecta fiunt exordia. English: same. MATCH
+
+432-436: Latin: neque poterat cerni rota solis altivolans, nec sidera ... nec res ulla videri similis; sed tempestas nova molesque coorta. English: same. MATCH
+
+437-448: Latin: partes coepere diffugere; res pares cum paribus (coepere) iungi, discludere mundum, dividere membra, disponere partes, e principiis omnigenis; quorum discordia [subj] turbabat intervalla ... motus, proelia miscens, propter formas; quod non poterant omnia manere coniuncta nec dare motus; hoc est secernere caelum, mare sorsum uti pateret, ignes aetheris seorsus. English: same; "among them" is added to "battles". MATCH
+
+449-454: Latin: corpora terrai coibant in medio, capiebant sedes imas, quod erant gravia et perplexa; quanto magis coibant, tam magis expressere ea quae efficerent mare ... moenia mundi. English: same. MATCH
+
+455-457a: Latin: omnia haec sunt magis e seminibus levibus et rutundis, elementis minoribus quam tellus. English: same. MATCH
+
+457b-459: Latin: ideo aether [subj] erumpens per foramina se sustulit primus, ignifer, et levis abstulit ignis secum. English: same. MATCH
+
+460-466: Latin: non alia ratione ac videmus cum lumina aurea solis rubent, lacus fluviique exhalant nebulam, tellus fumare videtur; quae omnia cum conciliantur sursum, corpore concreto subtexunt nubila caelum. English: same. MATCH
+
+467-470: Latin: aether [subj] circum datus, corpore concreto, se saepsit; et diffusus omnia cetera saepsit complexu avido. English: same. MATCH
+
+471-472: Latin: exordia solis lunaeque [subj] secuta sunt hunc; quorum globi vertuntur in auris interutrasque. English: same. MATCH
+
+473-477: Latin: quae neque terra nec aether adscivit, quod neque tam gravia fuerunt ut sederent nec levia ut possent labier; tamen ita sunt interutrasque ut corpora viva versent et extent partes mundi. English: same. MATCH
+
+478-479: Latin: quod genus in nobis licet quaedam membra manere in statione, cum sint ea quae moveantur. English: same. MATCH
+
+480-482: Latin: rebus retractis (abl. abs.), terra [subj] succidit qua nunc plaga ponti tendit, et suffudit fossas gurgite salso. English: same. MATCH
+
+483-491: Latin: quanto magis aestus aetheris et radii solis [subj] cogebant terram verberibus crebris (extrema ad limina) fartam, ut condensa coiret in medio suo, tam magis sudor expressus augebat mare camposque natantis, et tanto magis corpora vaporis et aeris volabant elapsa et densabant templa caeli. English: the more heat and rays compressed the earth with blows, "packed tight to its outermost bounds", so that it came together at its center; the more the sweat swelled the sea; the more the bodies flew and thickened the precincts. DIFF: "extrema ad limina" is the place where the blows fall, on the outer edges; the English makes it the extent of the packing, which suggests the earth filled out to its bounds.
+
+492-494: Latin: sidebant campi; crescebant ascensus montibus altis; neque enim poterant saxa subsidere nec omnes partis succumbere tantundem pariter. English: same. MATCH
+
+FINDINGS
+485	MISTRANSLATION	MODERATE	0.55	"verberibus crebris extrema ad limina" places the blows on the earth's outer edges, which drive it inward to its center; "packed tight to its outermost bounds" reverses the direction and suggests the earth was packed outward to its limits; fix: "with frequent blows on its outer edges, packed tight,"
+383	AMBIGUITY	MINOR	0.50	"vel cum sol et vapor ... exsuperarint" uses vel as "for instance / it may be", but "either when" promises an alternative ("or ...") that never comes; fix: "can be granted them, as, say, when the sun and all heat"

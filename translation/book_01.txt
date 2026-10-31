@@ -1219,8 +1219,9 @@ Notes
 
 [4] (1.22) "the shining shores of light" (dias in luminis oras): Lucretius's
     phrase for birth into the daylight, repeated through the poem. Where the
-    Latin has luminis oras without the adjective (2.577, 5.224, 5.781,
-    5.1389, 5.1455) the English is "the shores of light".
+    Latin has luminis oras without the adjective (1.170, 1.179, 2.577,
+    2.617, 5.224, 5.781, 5.1389, 5.1455) the English is "the shores of
+    light"; 1.22 is the only line with dias.
 
 [5] (1.26) "our son of the Memmii" (Memmiadae nostro): Gaius Memmius, a
     Roman noble, praetor in 58 BC and the patron of Catullus as well, is the

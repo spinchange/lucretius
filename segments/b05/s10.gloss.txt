@@ -1,0 +1,139 @@
+ANALYSIS
+
+1241-1251
+Latin: aes, aurum, ferrum repertumst + argenti pondus, plumbi potestas (subj.); temporal ubi: ignis (subj.) cremarat (plpf. ind. act.) silvas; seu fulmine misso (abl. abs.); sive quod [homines] gerentes bellum intulerant (plpf.) ignem hostibus formidinis ergo; sive quod inducti volebant pandere agros, reddere rura pascua; sive [volebant] interficere feras, ditescere praeda; nam venarier (inf. subj.) prius est ortum quam saepire saltum plagis canibusque ciere.
+English: bronze, gold, iron were discovered + weight of silver, power of lead; when fire had burned forests; whether thunderbolt sent; or because men waging war had carried fire to cause terror; or because drawn on they wished to open fields, turn countryside to pasture; or to kill beasts, grow rich; for hunting arose earlier than fencing and rousing.
+MATCH
+
+1252-1257 (to plumbi)
+Latin: quicquid id est; ardor (subj.) exederat silvas a radicibus, percoxerat terram; manabat (impf.) rivus (subj.) argenti et auri, aeris et plumbi, venis ferventibus, in loca concava, conveniens.
+English: flaming heat had eaten forests from roots, baked earth; there flowed from seething veins into hollow places, running together, a stream of silver, gold, bronze, lead.
+MATCH
+
+1257-1261
+Latin: cum [homines] videbant quae concreta splendere; tollebant capti lepore; et videbant [ea] formata esse simili figura atque lacunarum vestigia fuerant cuique.
+English: when they saw these hardened, shining; they picked them up, captured by charm; saw each was shaped like the print of its hollow.
+MATCH
+
+1262-1268
+Latin: penetrabat eos: haec liquefacta posse decurrere in quamlibet formam; posse duci in fastigia mucronum procudendo; purpose ut parent tela, ut possint caedere, dolare, radere, terebrare, pertundere, forare.
+English: it entered their minds that these, melted, could run into any form; could be drawn into points by hammering; so they might make weapons, be able to cut, hew, plane, bore, punch, pierce.
+MATCH
+
+1269-1272
+Latin: [homines] parabant facere haec argento auroque nec minus quam viribus aeris; ne quiquam, quoniam cedebat victa potestas [metallorum] nec poterant (subj. = argentum aurumque) sufferre laborem.
+English: they set about doing these with silver and gold no less than with bronze; in vain, since "their" power gave way and [they] could not endure the labor.
+DIFF: the only antecedent for "their"/"could not" is the men, not the metals.
+
+1273-1275
+Latin: aes fuit in pretio magis; aurum iacebat propter inutilitatem, retusum mucrone; nunc iacet aes, aurum successit in honorem.
+English: bronze in higher esteem, gold lay neglected for uselessness, blunted; now bronze lies, gold has risen.
+MATCH
+
+1276-1280
+Latin: aetas commutat tempora; quod fuit in pretio fit nullo honore; aliud succedit, exit e contemptibus, adpetitur, floret repertum laudibus, est in honore.
+English: same.
+MATCH
+
+1281-1282
+Latin: facilest (tibi) cognoscere quo pacto natura ferri reperta sit.
+English: same.
+MATCH
+
+1283-1286
+Latin: arma antiqua fuerunt manus, ungues, dentes, lapides, rami, flamma, ignes, post quam cognita sunt; posterius vis ferri aerisque reperta est.
+English: same.
+MATCH
+
+1287-1288
+Latin: usus aeris cognitus prior quam ferri, quo natura facilis magis, copia maior.
+English: same.
+MATCH
+
+1289-1292
+Latin: [homines] tractabant solum aere, miscebant fluctus belli, serebant vulnera, adimebant pecus, agros; nam omnia nuda cedebant facile ollis armatis.
+English: same.
+MATCH
+
+1293-1296
+Latin: processit ensis; species falcis versa est in obprobrium; coepere proscindere solum ferro; exaequata sunt certamina.
+English: same.
+MATCH
+
+1297-1301
+Latin: prius est conscendere armatum, moderarier, vigere quam temptare pericla curru biiugo; biiugo prius quam coniungere binos bis, quam escendere currus falciferos.
+English: same.
+MATCH
+
+1302-1304
+Latin: Poeni (subj.) docuerunt boves Lucas sufferre vulnera, turbare catervas.
+English: Carthaginians taught the oxen to bear wounds, throw troops into confusion.
+MATCH
+
+1305-1307
+Latin: discordia peperit alid ex alio quod esset horribile; addidit augmen terroribus.
+English: same.
+MATCH
+
+1308-1309
+Latin: temptarunt tauros; experti sunt mittere sues in hostis.
+English: same.
+MATCH
+
+1310-1317
+Latin: partim misere leones prae se cum doctoribus, qui possent moderarier, tenere; ne quiquam, quoniam [leones] calentes turbabant turmas, quatientes cristas; nec poterant equites mulcere pectora [equorum], convertere.
+English: same.
+MATCH
+
+1318-1322
+Latin: leae iaciebant corpora, petebant ora venientibus, deripiebant nec opinantis, dabant victos in terram, adfixae.
+English: same (reading petebant, noted).
+MATCH
+
+1323-1325
+Latin: tauri iactabant suos, terebant, hauribant latera ac ventres equorum, ruebant terram.
+English: same.
+MATCH
+
+1326-1329
+Latin: apri caedebant socios dentibus, tinguentes tela sanguine, dabant ruinas.
+English: same (doublet noted).
+MATCH
+
+1330-1333
+Latin: iumenta exibant adactus dentis aut petebant ventos erecta; ne quiquam, quoniam videres [ea] succisa concidere, consternere terram.
+English: same.
+MATCH
+
+1334-1340
+Latin: si quos putabant domitos, cernebant effervescere; nec poterant redducere partem; diffugiebat genus ferarum, ut boves Lucae diffugiunt cum dedere multa fera suis.
+English: same.
+MATCH
+
+1341-1344 (to facerent)
+Latin: voluerunt facere non tam spe vincendi quam dare quod gemerent hostes ipsique perire, qui diffidebant, vacabant; si fuit ut facerent.
+English: same.
+MATCH
+
+1344-1346
+Latin: vix adducor ut [credam eos] non quierint praesentire, videre, ante quam fieret, commune malum futurum.
+English: same.
+MATCH
+
+1347-1349
+Latin: possis contendere id factum in omni, in mundis variis, magis quam in uno orbi.
+English: same.
+MATCH
+
+1350-1353
+Latin: vestis nexilis fuit ante textile; textile post ferrum, quia ferro tela paratur; nec possunt alia ratione gigni tam levia insilia, fusi, radii, scapi.
+English: same.
+MATCH
+
+1354-1360
+Latin: natura coegit viros facere lanam ante quam muliebre genus; nam genus virile praestat, est sollertius; donec agricolae vertere vitio, ut vellent concedere manibus muliebribus, ipsi sufferre laborem, durarent membra.
+English: same.
+MATCH
+
+FINDINGS
+1271	AMBIGUITY	MODERATE	0.60	"cedebat victa potestas nec poterant ... sufferre" has the silver and gold as its subject (their softness gave way), but "their power" and "could not" have only "they" (the men) of 1269 as antecedent, so the English reads as the men's strength failing (also 1272); "in vain, since the metals' power gave way, overcome,"

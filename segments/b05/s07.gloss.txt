@@ -1,0 +1,32 @@
+ANALYSIS
+878-881: Latin: Centauri neque fuerunt (perf. ind.) nec esse queunt (pres. ind., pl.) [sc. animalia] duplici natura et corpore bino compacta (pl., the creatures); result ut potestas (sg.) partis hinc illinc sat par esse potissit (pres. subj.). English: there were never Centaurs, nor can there be creatures of double nature made up of alien limbs, whose powers on each side could be matched enough. MATCH (the ut-clause recast as a relative keeps the sense).
+882: Latin: id (obj.) licet cognoscere hinc, quamvis hebeti corde (concessive abl.). English: "which one may come to know from this, however dull one's heart." DIFF: it opens with lowercase relative "which" after a full stop, so the line is a fragment hanging on 878-881; the Latin is a free main clause with demonstrative id.
+883-885: Latin: equus floret (pres.), puer haut quaquam [floret]; nam puer quaeret (fut.) ubera in somnis. English: same, "even then" for etiam nunc. MATCH.
+886-889: Latin: ubi vires et membra deficiunt equum (obj.), languida (membra), fugienti vita (abl. abs./dat.); tum iuventas (subj., florenta) officit puerili aevo et vestit malas. English: horse's powers and limbs fail, languid, as life flees; youth comes on for the boy "in the flower of his age" and clothes his cheeks. DIFF (slight): florenta moves from iuventas to the boy's age. Defensible compression.
+890-894: Latin: ne credas (pres. subj., 2 sg.) Centauros confieri posse neque esse, aut Scyllas succinctas canibus, semimarinis corporibus, et cetera; quorum membra videmus discordia. English: same. MATCH.
+895-898: Latin: quae (pl.) neque florescunt pariter nec robora sumunt nec proiciunt aetate senecta nec ardescunt simili Venere nec conveniunt moribus unis neque sunt eadem iucunda. Five coordinated negations. English: same five, "for these" for quae. MATCH.
+899-900: Latin: quippe licet videre pecudes pinguescere cicuta, quae (cicuta) est homini venenum. English: same. MATCH.
+901-906: Latin: cum flamma soleat (subj.) torrere et urere corpora leonum tam quam genus omne visceris et sanguinis; qui fieri potuit ut Chimaera (una, triplici corpore) flaret (impf. subj.) flammam? English: same, a rhetorical question. MATCH.
+907-915: Latin: qui fingit animalia potuisse gigni tellure nova caeloque recenti (abl. abs.), nixus nomine inani, licet effutiat multa; dicat (jussive) flumina fluxisse, arbusta suesse florere, aut hominem natum esse ut posset ponere nisus et vertere caelum. English: same. MATCH.
+916-924: Latin: quod semina fuere multa, tamen nil est signi pecudes mixtas inter se et membra compacta potuisse creari, quia genera herbarum non possunt complexa creari, sed res quaeque procedit et omnes servant discrimina foedere. English: same. MATCH.
+925-930: Latin: genus humanum illud fuit durius, quod tellus dura creasset (subj.), fundatum ossibus, aptum nervis, quod caperetur (subj.) nec aestu nec frigore nec novitate cibi nec labi. English: same. MATCH.
+931-932: Latin: per multa lustra (obj., volventia) tractabant vitam more volgivago. English: same; "rolling" sits next to "sun" but follows lustra closely enough. MATCH.
+933-936: Latin: nec erat quisquam moderator; nec scibat molirier arva, nec defodere virgulta, neque decidere ramos falcibus. English: same. MATCH.
+937-938: Latin: quod sol, imbres dederant, quod terra crearat sponte sua, id donum satis placabat pectora. English: same. MATCH.
+939-942: Latin: curabant corpora inter quercus plerumque; et quae arbita cernis fieri matura, tellus ferebat plurima etiam maiora. English: same. MATCH.
+943-944: Latin: novitas florida mundi tulit multa pabula dura, ampla mortalibus. English: same. MATCH.
+945-947: Latin: fluvii fontesque vocabant [eos] sedare sitim, ut nunc decursus aquai claricitat saecla ferarum. English: same. MATCH.
+948-952: Latin: [vagi] tenebant templa nympharum, nota vagis (dat.); quibus e scibant fluenta lavere saxa, stillantia musco, et partim scatere atque erumpere campo. English: same ("running" for lubrica is acceptable). MATCH.
+953-957: Latin: necdum scibant tractare res igni neque uti pellibus et vestire corpus; sed colebant nemora, condebant membra inter frutices, coacti vitare verbera. English: same. MATCH.
+958-959: Latin: nec poterant spectare bonum commune neque scibant uti moribus nec legibus. English: same. MATCH.
+960-961: Latin: quod praedae fortuna obtulerat cuique, ferebat quisque, doctus valere et vivere sibi sponte sua. English: same. MATCH.
+962-965: Latin: Venus iungebat corpora; conciliabat quamque (fem. acc., each woman) cupido vel vis vel pretium. English: same. MATCH.
+966-969: Latin: freti virtute consectabantur saecla saxis et clava; vincebant multa, vitabant pauca latebris. English: same. MATCH.
+970-972: Latin: pares subus dabant membra nuda terrae, capti nocturno tempore, involventes [se]. English: same. MATCH.
+973-976: Latin: nec quaerebant diem plangore, pavidi palantes; sed taciti et sepulti respectabant, dum sol inferret (subj.) lumina. English: same. MATCH.
+977-981: Latin: quod consuerant cernere tenebras et lucem gigni alterno tempore, non erat ut posset mirarier nec diffidere, ne nox teneret terras, detracto lumine (abl. abs.). English: same. MATCH.
+982-983: Latin: illud erat magis curae, quod saecla faciebant quietem infestam miseris. English: same. MATCH.
+984-987: Latin: eiecti domo fugiebant tecta adventu suis leonisque; et cedebant cubilia hospitibus saevis nocte intempesta, paventes. English: same ("or" for -que is acceptable). MATCH.
+
+FINDINGS
+882	GRAMMAR	MINOR	0.55	"id licet hinc ... cognoscere" is a free main clause with demonstrative id, but the English opens a new sentence with a lowercase relative "which" and leaves it a fragment; "This one may come to know from what follows, however dull one's heart."

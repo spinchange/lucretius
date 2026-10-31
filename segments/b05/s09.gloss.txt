@@ -1,0 +1,213 @@
+ANALYSIS
+1105-1107
+L: hi (= qui praestabant ingenio et corde vigebant) monstrabant (impf. ind. act. pl.) commutare (inf.) victum vitamque priorem novis rebus et igni; magis inque dies.
+E: those who excelled in talent and were vigorous in heart showed more and more, day by day, how to exchange former food and life for new things and fire.
+MATCH
+
+1108-1109
+L: reges ipsi coeperunt (pf. pl.) condere urbis arcemque locare; praesidium perfugiumque (predicative) sibi.
+E: kings began to found cities and set up a citadel as defense and refuge for themselves.
+MATCH
+
+1110-1111
+L: (reges) divisere atque dedere pecudes et agros pro facie cuiusque et viribus ingenioque.
+E: they divided and gave out flocks and fields according to each man's looks, strength, talent.
+MATCH
+
+1112
+L: nam facies valuit (pf.) multum; vires vigebant.
+E: for looks counted for much, and strength was strong.
+MATCH
+
+1113-1114
+L: posterius res inventast aurumque repertum; quod (gold) dempsit honorem validis et pulchris facile.
+E: later property invented, gold discovered, which easily robbed the strong and beautiful of honor.
+MATCH
+
+1115-1116
+L: enim fortes et pulchro corpore creti, quamlubet, secuntur plerumque sectam divitioris.
+E: for as a rule men, however strong or fair of body, follow in the train of the richer.
+MATCH
+
+1117-1119
+L: quod siquis gubernet (pres. subj.) vitam vera ratione, divitiae grandes sunt homini vivere parce aequo animo; neque enim est umquam penuria parvi.
+E: if one were to steer life by true reasoning, it is great riches to live sparingly with a level mind; for there is never want of a little.
+MATCH
+
+1120-1122
+L: at (homines) voluerunt se claros atque potentes, ut fortuna maneret fundamento stabili et (ut) opulenti possent degere placidam vitam.
+E: men wanted themselves famous and powerful so that fortune might rest on firm foundation and they, wealthy, might pass a calm life.
+MATCH
+
+1123-1126
+L: ne quiquam, quoniam certantes succedere ad summum honorem fecere iter viai infestum, et tamen invidia deicit (pres.) ictos e summo, quasi fulmen, interdum contemptim in Tartara taetra.
+E: in vain, since struggling to climb they made the road dangerous, and yet envy hurls them, struck, from the summit like a thunderbolt, at times, contemptuously, into foul Tartarus.
+MATCH
+
+1127-1128
+L: quoniam invidia ceu fulmine summa vaporant plerumque et quae cumque sunt aliis magis edita.
+E: since by envy as by thunderbolt the summits are scorched as a rule, and whatever stands above the rest.
+MATCH
+
+1129-1130
+L: ut satius multo iam sit parere quietum quam velle regere imperio res et regna tenere.
+E: so that it is far better now to obey in quiet than to want to rule the world by command and hold kingdoms.
+MATCH (res = "the world", defensible)
+
+1131-1132
+L: proinde sine (imper.) defessi sudent (subj.) sanguine in cassum, luctantes per angustum iter ambitionis.
+E: so let them sweat blood, worn out, to no purpose, struggling along the narrow road of ambition.
+MATCH
+
+1133-1135
+L: quandoquidem sapiunt alieno ex ore petuntque res ex auditis potius quam sensibus ipsis; nec id magis est nunc neque erit mox quam fuit ante.
+E: since they are wise from another's mouth and seek things from hearsay rather than their own senses; this is no more so now, nor will be, than before.
+MATCH
+
+1136-1139
+L: ergo regibus occisis (abl. abs.) iacebat subversa pristina maiestas soliorum et sceptra superba; et insigne praeclarum capitis summi, cruentum, sub pedibus vulgi lugebat magnum honorem.
+E: therefore, kings slain, lay overthrown the ancient majesty and proud scepters; the glorious emblem of the highest head, bloodied, beneath the mob's feet mourned its great honor.
+MATCH
+
+1140
+L: nam conculcatur cupide (id quod) nimis ante metutum.
+E: for what was too much feared before is eagerly trampled.
+MATCH
+
+1141-1142
+L: itaque res redibat ad summam faecem turbasque, cum quisque petebat sibi imperium ac summatum.
+E: and so things went back to the lowest dregs and turmoil, when each sought power and supremacy for himself.
+MATCH
+
+1143-1144
+L: inde partim docuere creare magistratum iuraque constituere, ut vellent legibus uti.
+E: then some taught men to create magistrates and establish rights, so that they would consent to use laws.
+MATCH
+
+1145-1147
+L: nam genus humanum, defessum colere aevom vi, languebat ex inimicitiis; quo magis ipsum sponte sua cecidit sub leges artaque iura.
+E: for the human race, worn out with living by force, languished from feuds; all the more readily it fell of its own accord beneath laws and tight bonds of right.
+MATCH
+
+1148-1150
+L: quod enim quisque parabat se ulcisci ex ira acrius quam nunc concessumst legibus aequis, ob hanc rem homines pertaesum est colere aevom vi.
+E: since each in anger prepared to avenge himself more fiercely than now allowed by equal laws, for this men grew sick of living by force.
+MATCH
+
+1151
+L: inde metus poenarum maculat praemia vitae.
+E: from then on fear of punishment taints the prizes of life.
+MATCH
+
+1152-1155
+L: enim vis atque iniuria circumretit quemque atque plerumque revertit ad eum unde exortast; nec facilest (ei) degere placidam ac pacatam vitam qui violat factis communia foedera pacis.
+E: violence and wrong net each man and mostly turn back on the one they arose from; nor is it easy to pass a calm, peaceful life for one whose deeds violate the common covenants of peace.
+MATCH
+
+1156-1157
+L: etsi enim fallit divom genus humanumque, tamen debet diffidere id fore clam perpetuo.
+E: even if he eludes the race of gods and men, still he must doubt it will stay hidden forever.
+MATCH
+
+1158-1160
+L: quippe ubi multi, loquentes per somnia saepe aut delirantes morbo, ferantur se protraxe et celata mala et peccata in medium dedisse.
+E: since many, speaking often in dreams or raving in sickness, are said to have betrayed themselves and brought hidden misdeeds and sins into the open.
+MATCH
+
+1161-1168
+L: quae causa pervulgarit numina deum per magnas gentis et compleverit urbis ararum et curarit sollemnia sacra suscipienda, quae sacra nunc florent in magnis rebus locisque, unde horror insitus est mortalibus, qui suscitat nova delubra toto orbi terrarum et cogit celebrare festis diebus, non ita difficilest rationem reddere verbis.
+E: what cause spread the gods' powers, filled cities with altars, saw to solemn rites, which flourish now, from which a shuddering is planted in mortals that raises new shrines over the whole earth and drives men to throng them on festal days: not hard to account for in words.
+MATCH
+
+1169-1171
+L: quippe etenim iam tum mortalia saecla videbant egregias facies divom animo vigilante et magis in somnis mirando corporis auctu.
+E: for already then mortal generations would see glorious forms of gods with waking mind, and more in sleep, of marvelous stature.
+MATCH
+
+1172-1174
+L: his igitur tribuebant sensum propterea quod videbantur movere membra vocesque superbas mittere pro facie praeclara et viribus amplis.
+E: to these therefore they gave sensation because they seemed to move limbs and utter proud words to match their looks and strength.
+MATCH
+
+1175-1178
+L: dabant aeternam vitam, quia semper subpeditabatur facies eorum et forma manebat, et tamen omnino quod putabant (eos) auctos tantis viribus non temere posse ulla vi convinci.
+E: they gave eternal life because appearance was always supplied and form remained, and yet above all because they thought them, endowed with such strength, not lightly overcome by any force.
+MATCH
+
+1179-1182
+L: ideo putabant (eos) longe praestare fortunis, quod timor mortis haut quemquam vexaret eorum, et simul quia videbant in somnis (eos) efficere multa et mira et nullum laborem ipsos capere inde.
+E: they thought them far beyond others in happiness because fear of death never troubled them, and because in sleep they saw them do many marvels and take no labor themselves.
+MATCH
+
+1183-1185
+L: praeterea cernebant caeli rationes ordine certo et varia annorum tempora verti, nec poterant cognoscere quibus causis id fieret.
+E: further, they saw the order of heaven in fixed sequence and the seasons come round, and could not learn by what causes.
+MATCH
+
+1186-1187
+L: ergo habebant perfugium sibi tradere omnia divis et facere omnia flecti illorum nutu.
+E: so they made it their refuge to hand everything to the gods and make all bend at their nod.
+MATCH
+
+1188-1193
+L: locarunt in caelo sedes et templa deum, quia per caelum videtur volvi nox et luna, luna, dies et nox ... grando, fremitus, murmura minarum.
+E: they placed in heaven the seats and precincts of the gods, because through heaven night and moon are seen to roll, with the list.
+MATCH
+
+1194-1195
+L: O genus infelix humanum, cum tribuit divis talia facta atque adiunxit iras acerbas.
+E: O unhappy race, when it ascribed such deeds to the gods and joined bitter angers.
+MATCH
+
+1196-1197
+L: quantos gemitus tum ipsi sibi, quanta volnera nobis, quas lacrimas minoribus nostris peperere.
+E: what groans for themselves, wounds for us, tears for those after us they brought forth.
+MATCH
+
+1198-1203
+L: nec pietas ullast videri saepe velatum vertier ad lapidem atque accedere ad omnis aras, nec procumbere ... pandere palmas ..., nec spargere aras sanguine ..., nec nectere vota votis, sed mage posse tueri omnia pacata mente.
+E: nor is it piety to be seen often veiled turning to a stone and approaching every altar, nor to lie prostrate ..., nor sprinkle altars ..., nor link vows, but rather to be able to view all with a mind at peace.
+MATCH
+
+1204-1210
+L: nam cum suspicimus caelestia templa magni mundi super stellisque micantibus aethera fixum, et venit in mentem viarum solis lunaeque, tunc in pectora oppressa aliis malis illa cura quoque infit erigere caput expergefactum, ne quae forte inmensa potestas deum nobis sit, quae verset candida sidera vario motu.
+E: when we look up at the heavenly precincts and the ether fixed above with stars, and the ways of sun and moon come to mind, then into hearts weighed down with other evils that care too begins to raise its roused head: lest there be some immeasurable power of gods over us, to turn the stars.
+MATCH (oppressa with pectora, as Munro)
+
+1211-1217
+L: enim rationis egestas temptat dubiam mentem, ecquaenam fuerit genitalis origo mundi, et ecquae sit finis, quoad moenia mundi et taciti motus possint ferre hunc laborem, an, donata divinitus aeterna salute, possint perpetuo aevi tractu labentia contemnere validas viris inmensi aevi.
+E: poverty of reasoning assails the doubting mind: whether the world had any generative origin, whether there is an end, how long walls and silent motion can bear this labor, or whether, gifted by the gods with everlasting safety, they can, gliding on, scorn the strong forces of immeasurable age.
+MATCH (motus plural rendered singular; slight)
+
+1218-1221
+L: praeterea cui non animus contrahitur formidine divum, cui non correpunt membra pavore, cum torrida tellus contremit horribili plaga fulminis et murmura percurrunt magnum caelum?
+E: whose mind does not shrink with fear of the gods, whose limbs do not creep with terror, when under the thunderbolt's stroke the scorched earth quakes and murmurs run across the sky?
+MATCH
+
+1222-1225
+L: non populi gentesque tremunt, regesque superbi percussi timore divum corripiunt membra, ne ob quod admissum foede dictumve superbe grave tempus poenarum solvendi sit adauctum?
+E: do not peoples tremble and proud kings shrink, struck by fear, lest for some foul deed or proud word the heavy time of penalty has come to its full?
+MATCH
+
+1226-1230
+L: etiam cum summa vis venti violenti verrit induperatorem classis super aequora cum validis legionibus atque elephantis, non adit pacem divom votis ac quaesit prece, pavidus, paces ventorum animasque secundas?
+E: when the utmost force of wind sweeps the commander with legions and elephants, does he not court the gods' peace with vows and beg in fear for calms and favoring breezes?
+MATCH
+
+1231-1232
+L: ne quiquam, quoniam correptus violento turbine saepe fertur nihilo minus ad vada leti.
+E: in vain, since caught up in a whirlwind he is carried none the less to the shoals of death.
+MATCH
+
+1233-1235
+L: usque adeo vis abdita quaedam opterit res humanas et videtur proculcare pulchros fascis saevasque secures ac habere ludibrio sibi.
+E: so utterly does some hidden force crush human affairs, and seems to trample the fair rods and cruel axes and hold them in mockery.
+MATCH (res humanas carried into 1234; sense kept)
+
+1236-1240
+L: denique cum tota tellus vacillat sub pedibus concussaeque cadunt urbes dubiaeque minantur, quid mirum si mortalia saecla temnunt se atque relinquunt in rebus potestatis magnas mirasque, viris divum (acc. pl., in apposition), quae cuncta gubernent?
+E: when the earth sways and cities fall or threaten, what wonder if mortal generations despise themselves and consign great powers to the strengths of the gods (dative), to steer all things?
+DIFF: viris divum read as an indirect object ("to the strengths of the gods") instead of in apposition to potestatis; relinquunt ("leave in the world") becomes "consign ... to".
+
+FINDINGS
+1240	GRAMMAR	MODERATE	0.72	"relinquunt potestatis magnas mirasque / in rebus viris divum": viris is accusative plural, in apposition to potestatis (mortals leave in the world mighty powers, the strengths of the gods, to govern all), but the English reads it as a dative recipient and turns relinquunt into "consign", so powers are handed to the gods' strengths; fix 1239-1240 as "and leave in the world great and marvelous powers, / the strengths of the gods, to steer all things?"

@@ -29,7 +29,7 @@
  1389  into the open, and reasoning digs it up to the shores of light. {{NOTE: refrain, repeated at 5.1454-1455 (eruit here, erigit there); luminis oras without dias, so not the full refrain "the shining shores of light"}}
  1390  These things soothed their minds and gave them delight
  1391  when they were full of food; for then all things are dear to the heart.
- 1392  And so, often, lying together on the soft grass {{NOTE: 5.1392-1396 nearly repeat 2.29-33; align verbatim with the Book 2 rendering}}
+ 1392  And so, often, lying together on the soft grass {{NOTE: 5.1392-1396 nearly repeat 2.29-33; the English follows its Book 2 lines where the Latin agrees}}
  1393  beside a stream of water under the boughs of a tall tree,
  1394  with no great wealth they tended their bodies pleasantly,
  1395  above all when the weather smiled and the seasons
@@ -38,7 +38,7 @@
  1398  were their custom; for then the country Muse was in her strength.
  1399  Then to bind head and shoulders with woven garlands
  1400  of flowers and leaves glad playfulness moved them,
- 1401  and to step out of time, moving their limbs
+ 1401  and to step out of measure, moving their limbs
  1402  stiffly, and to strike mother earth with a stiff foot;
  1403  from which arose laughing and sweet peals of laughter,
  1404  since all these things then flourished the more, new and wonderful.
@@ -73,7 +73,7 @@
  1433  of having, and how far at all true pleasure can grow;
  1434  and this, little by little, has carried life out into the deep
  1435  and stirred up from the bottom the great tides of war.
- 1436  But the watchmen, traversing the world's great revolving precinct, {{NOTE: templum = region or precinct of the sky, as with Acherusia templa (1.120); never "temple"}}
+ 1436  But the wakeful, traversing the world's great revolving precinct,
  1437  the sun and moon, encircling it with their light,
  1438  taught men thoroughly that the seasons of the years turn round
  1439  and that things go by a sure principle and in a sure order.
@@ -90,7 +90,7 @@
  1450  rewards, and all the luxuries of life without exception,
  1451  songs, pictures, and artful polished statues, {{NOTE: daedala signa; daedala here describes the crafted work, not the maker, so not "artificer"}}
  1452  practice, together with the experience of the unflagging mind,
- 1453  taught little by little as men advanced step by step.
+ 1453  advancing step by step, taught little by little.
  1454  So, little by little, time draws out each several thing
  1455  into the open, and reasoning raises it to the shores of light;
  1456  for they saw one thing after another grow clear in their hearts,

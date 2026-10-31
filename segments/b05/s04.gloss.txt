@@ -1,0 +1,134 @@
+ANALYSIS
+
+**495-505**
+- Latin: (1) pondus terrae (concreto corpore) constitit, atque (2) quasi limus gravis confluxit in imum et (3) subsedit funditus ut faex [subject: pondus; perfect active singular]. (4) inde mare, aer, aether ignifer sunt omnia pura relicta corporibus liquidis, et leviora aliis alia [perfect passive plural]. (5) Aether (liquidissimus, levissimus) influit super aerias auras, (6) nec commiscet liquidum corpus auris turbantibus. (7) Sinit haec omnia verti turbinibus, (8) sinit turbare procellis. (9) Ipse fert suos ignis certo impete labens [labens modifies aether].
+- English: weight settled, flowed together, sank; sea, air, ether were left pure, some lighter than others; ether flows above, does not mingle; lets these be turned, lets them riot; it glides, bearing its fires.
+- MATCH. "below" (503) is a harmless gloss.
+
+**506-508**
+- Latin: Pontos significat [indicative] aethera posse modice fluere atque uno nisu. Relative clause: mare quod fluit certo aestu, conservans unum tenorem labendi.
+- English: the Pontus shows that the ether can flow evenly with one effort; a sea that flows with steady current, keeping one course.
+- MATCH.
+
+**509**
+- Latin: canamus [hortatory subjunctive] quae sit causa motibus astrorum.
+- English: let us sing what is the cause.
+- MATCH.
+
+**510-516**
+- Latin: si orbis vortitur, dicendum est nobis aera (1) premere polum ex utraque parti, (2) tenere extra, (3) claudere utrimque. inde alium (aera) supra fluere et intendere eodem quo sidera volvenda micant. aut alium supter, qui contra subvehat orbem, ut videmus fluvios versare rotas atque haustra.
+- English: if the sphere turns, we must say air presses the pole at either end, holds it, closes it in; another air flows above, strains the same way the stars roll; or another beneath carries the sphere up contrariwise; as rivers turn wheels and buckets.
+- MATCH.
+
+**517-525**
+- Latin: est uti caelum possit manere in statione, cum signa ferantur. The alternatives are (a) sive quod aestus aetheris inclusi sunt et, quaerentes viam, versantur et volvunt ignes per summania templa; (b) sive aer aliunde fluens versat agens ignis; (c) sive ipsi (ignes) possunt serpere quo cibus vocat et invitat euntis, pascentis flammea corpora.
+- English: heaven may stay at rest while the signs move, (a) because tides of ether are shut within and, seeking a way, turn and roll the fires; (b) or air from outside turns and drives the fires; (c) or the fires creep where food calls, feeding their bodies.
+- MATCH. "out" in 520 is an inference from inclusi.
+
+**526-533**
+- Latin: (1) difficilest ponere certum quid eorum sit in hoc mundo; (2) sed id doceo quid possit fiatque per omne in variis mundis, (3) plurisque sequor disponere causas quae possint esse motibus astrorum. (4) necessest una sit et haec quoque causa quae vegeat motum signis; (5) sed praecipere quae sit earum haud quaquamst pedetemptim progredientis.
+- English: hard to lay down which holds here; I teach what can and does happen in various worlds, and set out several causes; one must be the cause here too that quickens the motion; to lay down which is not for one advancing step by step.
+- MATCH.
+
+**534-538**
+- Latin: ut terra quiescat in media regione, convenit (1) pondus evanescere et decrescere paulatim, (2) et (terram) habere aliam naturam supter, coniunctam ex ineunte aevo atque uniter aptam partibus aeriis, quibus insita vivit.
+- English: for the earth to rest, its weight must thin and lessen, and it must have another nature beneath, joined from the start and fitted into one with the airy parts, set in which it lives.
+- MATCH.
+
+**539-545**
+- Latin: (1) propterea (terra) non est oneri neque deprimit auras, ut membra cuique sunt nullo pondere, nec caput est oneri collo, nec sentimus totum pondus inesse in pedibus; (2) at pondera quae foris veniunt et inposta sunt laedunt, saepe permulto minora. (3) usque adeo refert quid quaeque res queat.
+- English: it is no burden and does not press the breezes down; as limbs have no weight, the head is no burden, we do not feel the weight on the feet; outside weights harm, though smaller; so much it matters.
+- MATCH.
+
+**546-549**
+- Latin: tellus non est aliena, repente allata et obiecta auris alienis aliunde, sed concepta pariter prima ab origine mundi et certa pars eius, quasi membra nobis videntur.
+- English: the earth is not foreign, brought in, set in foreign air, but conceived with it from the origin and a fixed part of it, as limbs are of us.
+- MATCH.
+
+**550-555**
+- Latin: (1) terra concussa tonitru concutit omnia quae supra se sunt motu; (2) quod haut ulla ratione posset facere, nisi esset revincta partibus aeriis caeloque; (3) nam haerent inter se communibus radicibus, coniuncta et uniter aucta.
+- English: the earth, shaken, shakes all things above it; it could not do this unless bound fast; they cling by common roots, joined and grown into one.
+- MATCH.
+
+**556-558**
+- Latin: nonne vides quam vis animai sustineat nobis corpus magno pondere, quia tam coniuncta et uniter apta est?
+- English: the force of the spirit sustains for us so great a weight of body, because joined and fitted into one.
+- MATCH.
+
+**559-560**
+- Latin: quid potis est tollere corpus saltu pernici nisi vis animae, quae membra gubernat?
+- English: what can lift the body in a leap except the force of the spirit, which steers the limbs?
+- MATCH.
+
+**561-563**
+- Latin: iamne vides quantum tenuis natura possit valere, ubi est coniuncta gravi corpori, ut aer coniunctus terris et animi vis nobis est?
+- English: same structure, with "force of the mind" for animi vis.
+- MATCH.
+
+**564-565**
+- Latin: nec rota solis potest esse nimio maior nec ardor minor quam videtur sensibus.
+- English: the sun's wheel cannot be much greater, nor its blaze less, than it seems.
+- MATCH.
+
+**566-569**
+- Latin: e quibus spatiis ignes possunt adiicere lumina et adflare vaporem membris, (ea) nil libant de corpore flammarum magnis intervallis; ignis nihil est contractior ad speciem.
+- English: from whatever distances fires cast light and breathe heat, the intervals take nothing from the flames' body; the fire is no narrower to the sight.
+- MATCH. The subject of libant is implicit; the proposition is unchanged.
+
+**570-573**
+- Latin: proinde, quoniam calor lumenque perveniunt ad sensus et loca fulgent, forma filumque solis debet videri hinc, ut possis vere addere nil plus aut minus.
+- English: since heat and light reach our senses and make places shine, the form and size must appear from here as they are, so you could truly make it neither more nor less.
+- MATCH.
+
+**574**
+- Latin: repeats 571.
+- English: repeats 571, with a note.
+- MATCH.
+
+**575-578**
+- Latin: luna, sive fertur lustrans loca notho lumine, sive iactat suam lucem de corpore, fertur nihilo maiore figura quam videtur oculis.
+- English: the moon, whether moving with bastard light or casting its own, moves with a shape no larger than it seems.
+- MATCH.
+
+**579-584**
+- Latin: (1) nam omnia longe semota videntur specie confusa prius quam filum minui. (2) quapropter necesse est lunam, quandoquidem praebet claram speciem certamque figuram, ut est notata oris extremis, videatur hinc tanta quanta est.
+- English: distant things look confused before their outline shrinks; so the moon, since it presents a clear appearance, as marked at its edges, must look as large as it is.
+- MATCH.
+
+**585-591**
+- Latin: (1) scire licet ignes aetheris posse esse perquam pauxillo minores vel exigua parte maiores, (2) quandoquidem ignes in terris, dum tremor et ardor cernitur, videntur inter dum mutare filum perparvom in alteram utram partem, quo longius absunt.
+- English: they can be smaller by very little or larger by a small part, since earthly fires, while their flicker is seen, seem now and then to change size very little either way, the farther off they are.
+- MATCH.
+
+**592-595**
+- Latin: non est mirandum qua ratione tantulus sol queat mittere tantum lumen, quod compleat maria, terras, caelum rigando et perfundat cuncta vapore.
+- English: not to be wondered at by what principle so small a sun sends so much light as to fill and drench all things.
+- MATCH.
+
+**596**
+- Latin: repeats 584.
+- English: repeats 584, with a note.
+- MATCH.
+
+**597-601**
+- Latin: (1) licet hinc unum fontem largifluum totius mundi, patefactum, scatere et erumpere lumen, (2) quia elementa vaporis sic conveniunt et coniectus confluit, (3) ut ardor profluat ex uno capite.
+- English: one fountain of the whole world, opened, gushes and bursts out in light, because the elements of heat gather and their throng flows together so that the blaze streams from one head.
+- MATCH.
+
+**602-603**
+- Latin: nonne vides quam late parvus fons aquai inter dum riget prata et redundet campis?
+- English: same structure.
+- MATCH.
+
+**604-609**
+- Latin: (1) est uti ardor percipiat aera calidis fervoribus ab igni solis non magno, (2) si forte aer ita est opportunus et idoneus (3) ut queat accendi ictus parvis ardoribus; (4) quod genus videmus incendia accidere segetes stipulamque ex una scintilla.
+- English: the blaze may take hold of the air from the sun's not-great fire, if the air is so fit that it can be kindled when struck; as crops and stubble catch fire from one spark.
+- MATCH.
+
+**610-613**
+- Latin: forsitan sol, lucens rosea lampade, possideat circum se multum ignem caecis fervoribus, qui sit notatus nullo fulgore, ut aestifer exaugeat tantum ictum radiorum.
+- English: perhaps the sun possesses much fire in hidden heats around itself, marked by no brightness, so that, heat-bearing, it may swell so great a stroke of rays.
+- MATCH. In 613, "it" can be read as the sun or the fire, as the Latin allows.
+
+FINDINGS
+NONE

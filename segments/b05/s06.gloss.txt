@@ -1,0 +1,61 @@
+ANALYSIS
+751-752. Latin: [tu] putandumst (gerundive, impersonal); defectus solis lunaeque latebras fieri posse (inf.) e pluribus causis. English: you must suppose; eclipses and hidings can come about from many causes. MATCH
+
+753-757. Latin: cur [rhetorical question]; luna queat (subj.) secludere terram solis lumine et obstruere caput altum (sc. solis) a terris, obiciens (pres. ptc., luna) orbem caecum radiis; aliud corpus (subject), quod labatur (subj.) cassum lumine semper, putetur (pass. subj.) non posse facere id tempore eodem. English: why should the moon be able to shut off and block the sun's head, throwing its orb; and yet it be thought another body, which glides void of light, cannot do this at the same time. MATCH
+
+758-761. Latin: cur sol languidus nequeat (subj.) dimittere ignis suos tempore certo recreareque lumen, cum (temporal) praeteriit (perf.) loca infesta flammis per auras, quae faciunt ignis interstingui atque perire. English: why could the sun, growing faint, not let go its fires at a fixed time and renew its light, when it has passed regions hostile to its flames, which cause its fires to be quenched and perish. MATCH ("etiam" not rendered; trivial)
+
+762-767. Latin: cur terra queat spoliare lunam lumine vicissim et ipsa super tenere solem oppressum, dum luna menstrua perlabitur umbras coni; aliud corpus nequeat succurrere lunae vel perlabier supra orbem solis, quod (rel., corpus) rumpat inter (interrumpat) radios lumenque profusum. English: why should the earth rob the moon of light and keep the sun pressed down, while the moon glides through the cone's shadows; and yet another body be unable to run beneath the moon or glide above the sun, breaking off its rays and the light poured out. MATCH
+
+768-771. Latin: si luna fulget suo nitore (cond.), cur nequeat languescere certa parte mundi, dum perexit loca inimica luminibus propriis; 771 repeats 764. English: if the moon shines with her own brightness, why could she not grow faint in a fixed part, while she passes through places hostile to her light; 771 repeats 764. MATCH
+
+772-782. Latin: quoniam resolvi (1st sg. perf.) qua ratione quicquid posset fieri per caerula mundi, uti possemus (purpose) noscere quae vis et causa cieret cursus solis meatusque lunae, quove modo possent (sun and moon) obire lumine offecto et obducere tenebris terras neque opinantis (acc. pl., terras), cum conivent et convisunt omnia loca; redeo (pres.) ad novitatem mundi et arva, quid novo fetu crerint (arva) tollere et committere ventis. English: since I have unfolded by what principle each thing could come about, so that we might know what force and cause moved them, and how they could go out with light blocked and draw darkness over the lands "as they suspect nothing", when they close their eyes and look again; now I return to the world's youth and the fields, what they resolved to lift and entrust to the winds. DIFF: neque opinantis belongs to terras, but English "they" most naturally reads back to the sun and moon
+
+783-787. Latin: terra dedit (perf.) genus herbarum nitoremque; prata fulserunt colore; arboribus datumst (pass.) certamen crescendi inmissis habenis (abl. abs.). English: same. MATCH
+
+788-792. Latin: ut pluma, pili, saetae creantur (pres. pass.) membris quadripedum et corpore pennipotentum, sic tellus sustulit herbas virgultaque primum, inde creavit saecla mortalia multa coorta (ptc., saecla) modis multis. English: same. MATCH
+
+793-796. Latin: neque animalia possunt cecidisse de caelo, nec terrestria exisse de lacunis salsis; linquitur ut terra adepta sit nomen maternum merito, quoniam cuncta creata sunt e terra. English: same. MATCH
+
+797-800. Latin: multa animalia existunt terris, concreta (ptc., animalia) imbribus et vapore; quo minus est mirum si tum plura et maiora coorta sunt, adulta (ptc.) nova tellure atque aethere. English: same. MATCH
+
+801-804. Latin: genus alituum volucresque exclusae relinquebant (impf.) ova tempore verno, ut cicadae lincunt folliculos teretis sponte sua, petentes victum vitamque. English: same. MATCH
+
+805-806. Latin: tum terra dedit tibi saecla mortalia primum; enim calor umorque superabat in arvis. English: same. MATCH
+
+807-815. Latin: ubi regio opportuna dabatur, uteri crescebant apti terram radicibus; quos ubi aetas infantum patefecerat, fugiens umorem aurasque petessens (ptc., aetas infantum), natura convertebat foramina terrae et cogebat [terram] fundere sucum consimilem lactis venis apertis, sicut femina, cum peperit, repletur lacte, quod impetus alimenti convertitur in mammas. English: same, active pluperfect turned passive; "toward them" spells out the turning. MATCH
+
+816-817. Latin: terra praebebat cibum pueris, vapor vestem, herba cubile, [herba] abundans lanugine multa et molli. English: same; "that abounded" attaches to the bed rather than the grass. MATCH (minor shift, sense kept)
+
+818-820. Latin: novitas mundi nec ciebat frigora dura nec aestus nimios nec auras magnis viribus; enim omnia crescunt et sumunt robora pariter. English: same. MATCH
+
+821-825. Latin: terra tenet merito nomen maternum adepta, quoniam ipsa creavit genus humanum atque fudit prope certo tempore omne animal quod bacchatur in montibus, volucresque aerias. English: same. MATCH
+
+826-827. Latin: quia debet habere finem pariendi, destitit, ut mulier defessa spatio vetusto. English: same. MATCH
+
+828-831. Latin: aetas mutat naturam mundi; alius status debet excipere omnia ex alio; nec res ulla manet similis sui; omnia migrant; natura commutat omnia et cogit vertere. English: same. MATCH
+
+832-833. Latin: aliud putrescit et languet debile aevo; porro aliud succrescit et exit e contemptibus. English: same. MATCH
+
+834-836. Latin: aetas mutat naturam mundi, et status alter excipit terram ex alio, [ut] nequeat quod potuit, possit quod non tulit ante. English: same. MATCH
+
+837-844. Latin: tellus conatast creare portenta coorta (ptc.) mira facie membrisque: androgynem..., orba pedum, viduata manuum, muta sine ore, caeca sine voltu reperta, vincta adhaesu membrorum, [ita] ut nec possent facere quicquam nec cedere quoquam nec vitare malum nec sumere quod usus volet. English: same. MATCH
+
+845-848. Latin: [terra] creabat cetera monstra nequiquam, quoniam natura absterruit auctum, nec [monstra] potuere tangere florem aetatis nec reperire cibum nec iungi per res Veneris. English: same. MATCH
+
+849-854. Latin: videmus multa debere concurrere rebus, ut possint procudere saecla propagando: ut pabula sint, [ut sit] qua semina possint manare per artus membris remissis (abl. abs.), [debere] habere, ut femina possit coniungi maribus, qui uterque mutent gaudia mutua. English: same; "the parts" supplies the implied object of habere. MATCH
+
+855-856. Latin: necessest saecla multa animantum interiisse tum nec potuisse procudere prolem propagando. English: same. MATCH
+
+857-859. Latin: quaecumque vides vesci auris vitalibus, aut dolus aut virtus aut mobilitas est reservans (periphr.) genus id tuta ex ineunte aevo. English: same. MATCH
+
+860-861. Latin: multaque sunt quae manent commendata nobis ex utilitate sua, tradita tutelae nostrae. English: same. MATCH
+
+862-863. Latin: virtus tutatast genus leonum saeclaque; dolus volpes, fuga cervos. English: same. MATCH
+
+864-870. Latin: corda canum, genus partum semine veterino, pecudes lanigerae, saecla bucera, omnia tradita sunt tutelae hominum, Memmi; nam fugere feras cupide et secuta sunt pacem et pabula larga parta sine labore suo, quae damus praemia causa utilitatis eorum. English: same. MATCH
+
+871-877. Latin: quis natura tribuit nil horum, ut nec possent vivere ipsa sponte sua nec dare nobis utilitatem, quare pateremur genus eorum pasci praesidio nostro esseque tutum, haec scilicet iacebant praedae lucroque aliis, omnia indupedita vinclis fatalibus, donec natura redegit genus id ad interitum. English: same. MATCH
+
+FINDINGS
+777	AMBIGUITY	MINOR	0.55	"neque opinantis" is accusative plural agreeing with "terras" (the unsuspecting lands), but the English "as they suspect nothing" follows a "they" that means the sun and moon (776), so it reads as the eclipsing bodies being unaware; fix: "and draw darkness over the lands that suspect nothing,"

@@ -1,0 +1,149 @@
+ANALYSIS
+
+1361-1364
+Latin: natura creatrix (subj) fuit (perf ind act 3sg), complement specimen sationis et insitionis origo; primum adv. quoniam clause: bacae glandesque caducae (arboribus, fallen from trees) dabant (impf 3pl) tempestiva examina pullorum supter.
+English: the nature of things (subj) was, complement model and origin; since-clause: berries and acorns falling from trees put forth swarms of young shoots in season beneath.
+MATCH ("first origin" doubles primum, which is also given as "at first"; harmless).
+
+1365-1366
+Latin: unde libitum est (impers., it pleased [them]) committere stirpis ramis et defodere virgulta nova in terram per agros.
+English: they chose to set slips into branches and to bury new young plants in the earth.
+MATCH.
+
+1367-1369
+Latin: temptabant (3pl) aliam atque aliam culturam agelli; cernebant (3pl) fructus feros mansuescere terra, indulgendo blandeque colendo.
+English: they tried tillage after tillage; they saw wild fruits grow gentle, by being indulged and tended.
+MATCH.
+
+1370-1375
+Latin: cogebant (3pl) silvas succedere in montem et concedere locum infra cultis; purpose ut haberent prata lacus rivos segetes vineta collibus et campis, atque ut plaga caerula olearum distinguens inter currere posset per tumulos..., profusa (modifies plaga).
+English: they made the woods retreat and give ground to tilled land; so they might have meadows... on hills and plains, and a grey-blue strip of olives might run between, spread wide.
+MATCH (list hung off "tilled land" then picked up by "them"; objects of haberent preserved).
+
+1376-1378
+Latin: ut vides omnia esse distincta vario lepore, quae (= omnia, obj) ornant pomis intersita et tenent arbustis opsita circum (implied subj: men).
+English: as you see it all marked out with varied charm, everything that men adorn and keep enclosed.
+MATCH.
+
+1379-1381
+Latin: imitari ore voces avium (subj infin.) fuit multo ante quam homines possent (impf subj) concelebrare carmina cantu aurisque iuvare.
+English: to imitate bird voices came long before men were able to celebrate songs and delight the ears.
+MATCH.
+
+1382-1383
+Latin: sibila zephyri per cava calamorum (subj) primum docuere agrestis inflare cicutas.
+English: the whistling of the west wind through hollow reeds first taught country people to blow into hemlock stalks.
+MATCH.
+
+1384-1387
+Latin: didicere (3pl) querellas, quas tibia fundit pulsata digitis canentum; reperta (fem nom sg, modifies tibia) per nemora... et otia dia.
+English: they learned the laments that the pipe pours out, struck by fingers; "found out" through groves...
+MATCH (participle's attachment to pipe is loose in English but not wrong).
+
+1388-1389
+Latin: aetas protrahit unum quicquid in medium, ratioque eruit in luminis oras.
+English: time draws out each thing into the open, reasoning digs it up to the shores of light.
+MATCH.
+
+1390-1391
+Latin: haec mulcebant atque iuvabant animos ollis cum satiate cibi; nam tum omnia sunt cordi.
+English: these things soothed and delighted their minds when full of food; for then all are dear to the heart.
+MATCH.
+
+1392-1396
+Latin: prostrati inter se in gramine... habebant (3pl) corpora iucunde non magnis opibus, praesertim cum tempestas ridebat et tempora anni pingebant herbas floribus.
+English: lying together... with no great wealth they tended their bodies pleasantly, above all when the weather smiled and the seasons painted the grass.
+MATCH.
+
+1397-1398
+Latin: ioca, sermo, cachinni consuerant esse; enim musa agrestis vigebat.
+English: jokes, talk, laughter were their custom; for the country Muse was strong.
+MATCH.
+
+1399-1402
+Latin: lascivia laeta movebat (them) redimire caput atque umeros coronis, atque procedere extra numerum, membra moventes (nom pl) duriter, et pellere terram matrem pede.
+English: glad playfulness moved them to bind head and shoulders, to step out of measure moving limbs stiffly, and strike mother earth.
+MATCH.
+
+1403-1404
+Latin: unde oriebantur risus cachinnique, quod omnia haec nova et mira tum magis vigebant.
+English: from which arose laughing..., since all these things, new and wonderful, then flourished the more.
+MATCH.
+
+1405-1407
+Latin: hinc aderant vigilantibus (dat.) solacia somno (dat.): ducere voces, flectere cantus, percurrere calamos labro.
+English: from this the wakeful found solace for lost sleep: to draw out the voice, bend the tune, run over the reeds.
+MATCH.
+
+1408
+Latin: unde vigiles nunc tuentur haec accepta.
+English: the wakeful keep these customs handed down.
+MATCH.
+
+1409-1411
+Latin: didicere (perf 3pl) numerum servare, genus (subj collective with plural verb, or acc.); neque capiunt (pres 3pl) fructum hilo maiore dulcedine quam silvestre genus terrigenarum capiebat (impf 3sg).
+English: the race has learned to keep the measure, yet not a whit greater is the fruit of sweetness they take than the woodland race used to take.
+MATCH (genus as subject is a contestable but defensible reading; "greater" shifted from sweetness to fruit, sense kept).
+
+1412-1415
+Latin: quod adest praesto, nisi quid suavius cognovimus ante, placet in primis et pollere videtur; res posterior melior reperta (subj) perdit (it) et immutat sensus ad pristina quaeque.
+English: what is at hand, unless we knew something sweeter before, pleases and seems to prevail; the better thing found later destroys it and changes our feelings toward things of old.
+MATCH.
+
+1416-1417
+Latin: coepit odium glandis; relicta sunt cubilia strata herbis et aucta frondibus.
+English: disgust for the acorn began; the beds strewn and heaped with grass and leaves were abandoned.
+MATCH.
+
+1418-1422
+Latin: pellis vestis ferina cecidit contempta; quam reor tunc repertam esse invidia tali, ut qui primus gessit obiret letum insidiis (result), et tamen distractam inter eos disperiisse neque in fructum convertere quisse.
+English: the skin clothing fell into contempt; which, I believe, when found stirred such envy that its first wearer died by ambush, and, torn apart among them, it was lost and could not be turned to profit.
+MATCH.
+
+1423-1425
+Latin: tunc pelles, nunc aurum et purpura exercent curis vitam hominum et fatigant bello; quo magis culpa resedit in nobis, ut opinor.
+English: then skins, now gold and purple harass life with cares and wear it out with war; the greater guilt resides with us, I think.
+MATCH.
+
+1426-1429
+Latin: frigus excruciabat terrigenas nudos sine pellibus; at nil laedit nos carere veste purpurea... apta, dum tamen plebeia sit quae defendere possit.
+English: cold tormented the naked earth-born; but it does us no harm to go without a purple robe..., so long as a common one can protect us.
+MATCH.
+
+1430-1435
+Latin: genus hominum laborat incassum semper et consumit aevom in curis inanibus, quia non cognovit quae sit finis habendi et quoad crescat vera voluptas; id provexit vitam in altum et commovit aestus belli.
+English: the race of men labors in vain forever and spends its life in empty cares, because it has not learned the limit of having and how far true pleasure can grow; this carried life into the deep and stirred the tides of war.
+MATCH.
+
+1436-1439
+Latin: vigiles sol et luna, lustrantes circum lumine templum mundi versatile, perdocuere homines tempora annorum verti et rem geri certa ratione atque ordine.
+English: the wakeful sun and moon, traversing and encircling the world's revolving precinct with their light, taught men that the seasons turn and things go by a sure principle and order.
+MATCH (lustrantes circum rendered by two participles; sense kept).
+
+1440-1445
+Latin: iam degebant aevom saepti turribus; tellus divisa colebatur; mare florebat navibus; habebant auxilia ac socios pacto foedere; cum poetae coepere tradere res gestas carminibus; nec multo prius elementa reperta sunt.
+English: they lived fenced by towers; the earth was divided and tilled; the sea flowered with ships; they had allies by treaties struck, when poets began to hand down deeds in songs; not long before were the elements found.
+MATCH (foedere singular as "treaties" and ponti absorbed; compression).
+
+1446-1447
+Latin: aetas nostra nequit respicere quid prius actum sit, nisi qua ratio monstrat vestigia.
+English: our age cannot look back on what was done before, except where reasoning shows the traces.
+MATCH.
+
+1448-1453
+Latin: usus et experientia mentis impigrae (subj) docuit paulatim navigia... signa polita (objects); progredientis (acc pl men, or gen sg with mentis) pedetemptim.
+English: practice and the experience of the unflagging mind, advancing step by step, taught (all these) little by little.
+MATCH.
+
+1454-1455
+Latin: as 1388-1389, erigit.
+English: as 1388-1389, "raises".
+MATCH.
+
+1456-1457
+Latin: namque videbant alid ex alio clarescere corde, donec venere artibus ad summum cacumen.
+English: for they saw one thing after another grow clear in their hearts, until by their arts they came to the highest peak.
+MATCH.
+
+FINDINGS
+NONE

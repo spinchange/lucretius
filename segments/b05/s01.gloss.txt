@@ -1,0 +1,67 @@
+ANALYSIS
+
+146-147: Lat. non est ut possis credere (2sg subj, neg) + acc-inf sedes sanctas deum esse in partibus ullis. Eng. you cannot believe that holy dwellings of gods exist in any parts. MATCH.
+
+148-149: Lat. natura deum (subj) tenuis, remota; videtur (pres pass) vix mente animi. Eng. same. MATCH.
+
+150-151: Lat. quae (natura) suffugit tactum et ictum; debet contingere nil tactile nobis. Eng. same. MATCH.
+
+152: Lat. non quit tangere quod ipsum tangi non licet. Eng. same. MATCH.
+
+153-155: Lat. sedes debent esse dissimiles, tenues de corpore eorum; probabo posterius (1sg fut). Eng. same. MATCH.
+
+156-165: Lat. Dicere [gods voluisse parare mundi naturam; decere laudare opus, putare aeternum; nec fas esse sollicitare (active inf) quod fundatum sit... nec vexare, evertere]; adfingere, addere: desiperest. Eng. same frame, but "it is sin that what... was founded... ever to be shaken... or harried... and overturned": active infinitives turned passive inside a "that"-clause with no finite verb, so the clause does not parse. DIFF: grammar of the fas-clause.
+
+165-167: Lat. quid emolumenti gratia nostra queat largiri immortalibus, ut adgrediantur gerere (result). Eng. same. MATCH.
+
+168-169: Lat. quid novi potuit inlicere quietos ut cuperent mutare vitam. Eng. same. MATCH.
+
+170-173: Lat. videtur (is) debere gaudere novis cui veteres obsunt; cui nihil aegri accidit, cum degeret pulchre, quid potuit accendere amorem tali. Eng. same. MATCH.
+
+174: Lat. quid mali fuerat nobis non esse creatis. Eng. same. MATCH.
+
+175-176: Lat. an vita iacebat in tenebris donec diluxit origo. Eng. same. MATCH.
+
+177-178: Lat. qui natus est debet velle manere donec retinebit voluptas. Eng. same. MATCH.
+
+179-180: Lat. qui numquam gustavit amorem nec fuit in numero: quid obest non esse creatum. Eng. same. MATCH.
+
+181-186: Lat. unde insita est divis exemplum et notities hominum, ut scirent et viderent quid vellent facere; quo modo cognita vis principiorum et quid possent permutato ordine; si non natura dedit speciem creandi. Eng. same. MATCH.
+
+187-194: Lat. primordia percita plagis ponderibusque consuerunt ferri, coire, pertemptare quae possint creare; ut non sit mirum si deciderunt (perf) et venere (perf) in meatus quales geritur summa. Eng. "if they fell into such arrangements / and come... into such courses": first verb past, second present. DIFF: tense of venere.
+
+195-199: Lat. quod si ignorem; ausim confirmare, reddere: nequaquam naturam paratam divinitus; tanta stat praedita culpa. Eng. same. MATCH.
+
+200-203: Lat. quantum caeli tegit impetus, partem possedere montes silvae; tenent rupes, paludes, mare quod distinet oras. Eng. same. MATCH.
+
+204-205: Lat. ardor et casus geli aufert duas partis mortalibus. Eng. same. MATCH.
+
+206-209: Lat. quod superest arvi, natura obducat sentibus ni vis humana (consueta ingemere, proscindere) resistat. Eng. same. MATCH.
+
+210-212: Lat. si non cimus ad ortus (vertentes, subigentes), nequeant existere sponte sua. Eng. same. MATCH.
+
+213-217: Lat. cum quaesita frondent, florent: aut torret sol, aut peremunt imbres pruinae, flabra vexant. Eng. same. MATCH.
+
+218-221: Lat. cur natura alit auget genus ferarum infestum; cur tempora adportant morbos; quare mors vagatur. Eng. same. MATCH.
+
+222-227: Lat. puer ut navita proiectus iacet nudus, infans, indigus auxilio, cum natura profudit; complet locum vagitu ut aequum cui restet transire malorum. Eng. same. MATCH.
+
+228-234: Lat. crescunt pecudes, armenta, ferae; non opus crepitacillis, nec adhibenda loquella; nec quaerunt vestes; non opus armis, moenibus qui tutentur; quando tellus et natura parit omnia omnibus. Eng. same. MATCH.
+
+235-239: Lat. quoniam terra, umor, animae, vapores (e quibus summa consistere videtur) constant nativo mortali corpore, debet eodem putari natura mundi. Eng. same. MATCH.
+
+240-243: Lat. quorum partis videmus esse corpore nativo, mortalibus figuris, haec ferme cernimus mortalia et nativa. Eng. same. MATCH.
+
+243-246: Lat. cum videam membra consumpta regigni, scire licet caeli terraeque fuisse tempus principiale, cladem futuram. Eng. same. MATCH.
+
+247-250: Lat. ne rearis me corripuisse, quod sumpsi terram ignem mortalia, non dubitavi umorem auras perire, dixi gigni augescere. Eng. same. MATCH.
+
+251-254: Lat. pars terrai perusta, pulsata vi, exhalat nebulam nubesque quas venti dispergunt. Eng. same. MATCH.
+
+255-256: Lat. pars glebarum revocatur ad diluviem imbribus; flumina rodunt ripas. Eng. same. MATCH.
+
+257-260: Lat. quodcumque alit auget redditur pro parte; quoniam videtur omniparens eadem sepulcrum; ergo terra libatur et aucta recrescit. Eng. same. MATCH.
+
+FINDINGS
+5.160	GRAMMAR	MODERATE	0.70	"nec fas esse... sollicitare... nec verbis vexare et ab imo evertere" (160-163) has active infinitives governing "quod... fundatum" (what was founded), but the English "it is sin that what... was founded... ever to be shaken... or harried... and overturned" puts them into a passive "that"-clause with no finite verb, so the sentence does not construe; recast 160 as "and that it is sin to disturb what, by the gods' ancient reasoning," with 162 "ever, by any force, from its seat," and 163 "or harry it with words and overturn it from top to bottom,".
+5.193	GRAMMAR	MINOR	0.55	"deciderunt quoque et in talis venere meatus" pairs two perfects, but the English gives "fell" (past) and then "come" (present) in the same "if"-clause (192-193); "and have come, as well, into such courses"

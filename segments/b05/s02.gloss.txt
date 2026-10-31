@@ -1,0 +1,58 @@
+ANALYSIS
+261-264 (Quod super est ... declarat): nil opus est verbis + subject-acc infinitives [mare flumina fontes abundare (umore novo, semper)], [latices perennis manare]; decursus aquarum (subj) declarat undique. English: no need of words that sea/rivers/springs brim with new moisture and that waters flow without end; downrush declares it. MATCH.
+
+264-272 (sed primum ... detulit undas): quicquid aquai primum tollitur; in summa fit ut umor nihil abundet; partim quod venti verrentes aequora et sol retexens radiis deminuunt; partim quod (umor) omnis diditur supter per terras; enim virus percolatur, materies umoris remanat retro et omnis convenit ad caput amnibus, inde fluit agmine dulci qua via secta semel detulit undas. English: same clauses, same subjects, shared verb diminish, brine strained out, matter oozes back and gathers at the heads, flows where the cut way carried the waves. MATCH.
+
+273-274: dicam aera, qui corpore toto innumerabiliter mutatur privas in horas. English: same. MATCH.
+
+275-278: quod cumque fluit de rebus, id omne fertur in mare aeris; qui (aer) nisi retribuat corpora et recreet (res) fluentis, omnia forent resoluta et versa. English: same, unless clause has air as subject. MATCH.
+
+279-280: (aer) haut cessat gigni de rebus et reccidere in res, quoniam constat omnia fluere. English: same. MATCH.
+
+281-283: sol (fons luminis) inrigat caelum candore recenti, suppeditat lumen novo lumine. English: same. MATCH.
+
+284-285: quicquid fulgoris primum disperit ei, quo cumque accidit. English: whatever brightness comes first is lost to it, wherever it falls. MATCH.
+
+285-289: licet cognoscere hinc, quod simul ac nubes coepere succedere soli et quasi rumpere radios lucis inter, extemplo pars inferior horum disperit omnis et terra inumbratur qua nimbi feruntur. Radios is the object of rumpere, and inter is adverbial ("break the rays between", as at 299). English: clouds "break through between the rays", so radios becomes the object of inter and the clouds pass between rays instead of severing them. DIFF: object of rumpere.
+
+290-293: ut noscas res egere splendore novo, quemque iactum primum perire, nec res posse videri in sole alia ratione, ni caput lucis perpetuo suppeditet. English: same; "supplied it" adds a slight pronoun. MATCH.
+
+294-301: lumina nocturna (lychni, taedae claraeque fulguribus, pingues caligine) properant suppeditare lumen consimili ratione, ardore ministro; instant tremere ignibus, instant; nec lux relinquit loca quasi rupta inter; usque adeo exitium ei celeratur ab omnibus ignibus celeri origine flammae. English: same. MATCH.
+
+302-305: putandum solem lunam stellas iactare lucem ex alio atque alio subortu et perdere semper quicquid flammarum primum; ne credas haec vigere inviolabilia. English: same. MATCH.
+
+306-310: non cernis lapides vinci ab aevo, turris ruere, saxa putrescere, delubra simulacraque fatisci, nec numen posse protollere finis fati neque niti adversus foedera? English: same. MATCH.
+
+311-315: non videmus monimenta dilapsa, (312 corrupt), silices avolsos ruere, nec (eos) perferre patique vires aevi finiti? English: same; 312 is flagged corrupt. MATCH.
+
+315-317: neque caderent avolsa repente, quae ex infinito tempore pertolerassent omnia tormenta aetatis, privata fragore. English: relative clause is recast as an "if" clause, with the same sense. MATCH.
+
+318-321: tuere hoc, quod omne (neut.) circum supraque continet terram amplexu; si procreat omnia et recipit perempta, totum constat nativum mortali corpore. English: "holds the whole earth". Omne (neuter) is moved onto terram (feminine). DIFF: adjective attachment.
+
+322-323: quod cumque auget alitque res, deminui debet, recreari cum recipit. English: same. MATCH.
+
+324-327: si nulla fuit origo terrarum et caeli et fuere aeterna, cur poetae non cecinere alias res supera bellum Thebanum et funera Troiae? English: same. MATCH.
+
+328-329: quo cecidere tot facta, neque usquam florent insita monimentis? English: same. MATCH.
+
+330-331: summa habet novitatem, natura mundi recens est, neque pridem cepit exordia. English: same. MATCH.
+
+332-337: quare artes expoliuntur, augescunt; addita sunt multa navigiis; organici peperere sonores; natura rerum ratioque reperta est nuper, et ego repertus sum primus qui possim vertere. English: same. MATCH.
+
+338-344: si credis eadem fuisse, sed saecla periise vapore, aut urbis cecidisse vexamine, aut amnes exisse et oppida coperuisse, tanto magis necesse est victus fateare exitium futurum. English: same. MATCH.
+
+345-347: cum res temptarentur morbis periclis, si causa tristior incubuisset, darent cladem ruinasque. English: same. MATCH.
+
+348-350: nec alia ratione videmur mortales esse inter nos, nisi quod aegrescimus isdem morbis atque illi quos natura removit. English: same. MATCH.
+
+351-363: quae cumque manent aeterna necesse est aut respuere ictus et non pati penetrare quicquam (ut corpora materiai), aut durare quia expertia plagarum (ut inane), aut quia nulla copia loci circum (ut summa summarum), neque locus extra neque corpora quae incidant. English: same three-way structure. MATCH.
+
+364-372: neque natura mundi est solido corpore, nec est ut inane; neque corpora desunt quae possint corruere summam aut inportare cladem; nec natura loci deficit quo moenia exspargi possint, aut (moenia) possunt perire pulsa alia vi. English: the last independent clause (possunt, indicative) is folded into the "into which" relative. The proposition is kept. MATCH (minor).
+
+373-375: haut praeclusa est ianua leti caelo, soli, terrae, undis; sed patet et respectat hiatu. English: same. MATCH.
+
+376-379: necesse est confiteare haec nativa; neque enim quae sunt mortali corpore potuissent contemnere vires aevi ex infinito tempore. English: same. MATCH.
+
+FINDINGS
+318	MISTRANSLATION	MINOR	0.65	"quod omne continet amplexu terram": omne is neuter and belongs with hoc/quod ("this whole, which ... holds the earth"), but the English moves it onto the earth ("holds the whole earth"); fix: "Again, look now at this whole, which round and above / holds the earth in its embrace: if it creates from itself"
+287	MISTRANSLATION	MODERATE	0.55	"radios inter quasi rumpere lucis": radios is the object of rumpere and inter is adverbial (the clouds break the rays apart, as "lux inter quasi rupta" at 299), but the English has the clouds "break through between the rays"; fix: "and, as it were, to break the rays of light between,"
