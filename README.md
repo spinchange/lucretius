@@ -31,10 +31,17 @@ breaks (`tools/segment.py`). Each segment passes through:
 3. **fidelity** (Sonnet): Latin and English side by side, findings table
    under the rubric in `prompts/fidelity.md`.
 4. **annotate** (Sonnet): draft footnotes, marked DRAFT.
-5. **review** (the translator): reads the findings and a sample of the clean
-   lines, fixes, and writes `sKK.review.txt`, the accepted text.
+5. **review** (the translator): reads the findings and the lines against
+   the Latin, fixes, and writes `sKK.review.txt`, the accepted text.
+6. **gloss** (Opus): a second, independent fidelity check of the accepted
+   text, clause by clause (`prompts/gloss.md`, `sKK.gloss.txt`); the same
+   check run on the draft (`gloss-draft`) calibrates it against the errors
+   the review found.
+7. **review, second round** (the translator): a full read of every line
+   against the Latin with the gloss findings in hand; patches applied with
+   `review.py --round 2`.
 
-`tools/dispatch.py` runs stages 1, 3 and 4 as headless `claude -p` jobs and
+`tools/dispatch.py` runs stages 1, 3, 4 and 6 as headless `claude -p` jobs and
 records every run (model, time, result) in `segments/manifest.json`, so the
 work can stop and resume at any point. `tools/assemble.py` builds
 `translation/book_NN.txt` from the accepted segments; the translator then
@@ -56,7 +63,9 @@ latin/            the Latin, one numbered file per book; SOURCE.md; source/ (TEI
 translation/      CONVENTIONS.md (register), proem_sample.txt, book_NN.txt
 segments/         manifest.json and per-segment files bNN/sKK.{latin,translate,fidelity,annotate,review}.txt
 prompts/          the three stage prompts
-tools/            segment, dispatch, check_segment, assemble, beatcheck, extract_latin
+tools/            segment, dispatch, check_segment, sidebyside, refrains, review,
+                  assemble, apply_notes, check_narration, make_narration,
+                  build_audiobook, beatcheck, extract_latin
 audit/            rubric and findings
 margin/           Machiavelli's marginalia
 runs/             headless run logs (not committed)

@@ -4,6 +4,10 @@ Stages and defaults:
   translate  opus    Latin segment -> line-for-line English (segments/bNN/sKK.translate.txt)
   fidelity   sonnet  Latin + English -> findings table      (sKK.fidelity.txt)
   annotate   sonnet  English + Latin -> draft notes           (sKK.annotate.txt)
+  gloss      opus    Latin + accepted English (review) -> clause-by-clause
+                     second fidelity check                    (sKK.gloss.txt)
+  gloss-draft opus   the same check run on the Opus draft, for calibration
+                     against the errors the review found     (sKK.gloss-draft.txt)
 A segment is ready for fidelity/annotate once translate is done. Output and
 stage records go to segments/manifest.json, so a run can be stopped and
 resumed at any time; nothing lives in a conversation.
@@ -27,7 +31,9 @@ from datetime import datetime, timezone
 from common import ROOT, PROMPTS, load_manifest, update_stage, read_book, fmt_line, seg_path, strip_fences
 import check_segment
 
-DEFAULT_MODEL = {"translate": "opus", "fidelity": "sonnet", "annotate": "sonnet"}
+DEFAULT_MODEL = {"translate": "opus", "fidelity": "sonnet", "annotate": "sonnet", "gloss": "opus", "gloss-draft": "opus"}
+PROMPT_OF = {"gloss-draft": "gloss"}  # stages that share a prompt file
+ENGLISH_OF = {"fidelity": "translate", "annotate": "translate", "gloss": "review", "gloss-draft": "translate"}
 CONTEXT = 8
 RUNS = ROOT / "runs"
 
@@ -46,7 +52,7 @@ def context(entry, before=True):
 
 
 def build_prompt(stage, entry):
-    tpl = (PROMPTS / f"{stage}.md").read_text(encoding="utf-8")
+    tpl = (PROMPTS / f"{PROMPT_OF.get(stage, stage)}.md").read_text(encoding="utf-8")
     fields = {
         "book": entry["book"], "first": entry["first"], "last": entry["last"], "n": entry["n"],
         "conventions": (ROOT / "translation" / "CONVENTIONS.md").read_text(encoding="utf-8"),
@@ -54,8 +60,8 @@ def build_prompt(stage, entry):
         "before": context(entry, True), "after": context(entry, False),
         "segment": seg_path(entry, "latin").read_text(encoding="utf-8"),
     }
-    if stage in ("fidelity", "annotate"):
-        fields["english"] = seg_path(entry, "translate").read_text(encoding="utf-8")
+    if stage in ENGLISH_OF:
+        fields["english"] = seg_path(entry, ENGLISH_OF[stage]).read_text(encoding="utf-8")
     return tpl.format(**fields)
 
 
@@ -63,8 +69,8 @@ def ready(entry, stage):
     st = entry["stages"]
     if st.get(stage, {}).get("status") == "done":
         return False
-    if stage in ("fidelity", "annotate"):
-        return st.get("translate", {}).get("status") == "done"
+    if stage in ENGLISH_OF:
+        return st.get(ENGLISH_OF[stage], {}).get("status") == "done"
     return True
 
 
