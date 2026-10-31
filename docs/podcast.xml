@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>De Rerum Natura — On the Nature of Things</title>
+    <link>https://dererumnatura.org/</link>
+    <atom:link href="https://dererumnatura.org/podcast.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <description>Lucretius, De Rerum Natura, complete, in a line-for-line English translation from the Latin, read aloud one book at a time. Translated by Claude; narrated with a synthetic voice (OpenAI gpt-4o-mini-tts).</description>
+    <itunes:author>Chris Duffy</itunes:author>
+    <itunes:summary>Lucretius, De Rerum Natura, complete, in a line-for-line English translation from the Latin, read aloud one book at a time. Translated by Claude; narrated with a synthetic voice (OpenAI gpt-4o-mini-tts).</itunes:summary>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://dererumnatura.org/cover.jpg"/>
+    <image><url>https://dererumnatura.org/cover.jpg</url><title>De Rerum Natura — On the Nature of Things</title><link>https://dererumnatura.org/</link></image>
+    <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+    <itunes:owner><itunes:name>Chris Duffy</itunes:name></itunes:owner>
+    <item>
+      <title>De Rerum Natura, Book VI</title>
+      <itunes:title>Book VI</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Athens, which gave men grain, laws and Epicurus, who found the fault in the vessel of the mind; the fears that remain come from the sky, and the book explains them: thunder, lightning and the thunderbolt, its fire, its speed and its season, and why it cannot be Jupiter's; waterspouts, clouds, rain and the rainbow; earthquakes; why the sea does not grow; the fires of Etna; the flooding of the Nile; the Avernian places whose breath kills birds, and the many harmful exhalations of the earth; springs cold by day and hot by night, the spring of Hammon and the spring in the sea at Aradus; the stone of Magnesia and how it draws iron; the seeds of disease and why diseases differ by place; and the plague of Athens, with which the poem, finished or not, ends.</description>
+      <link>https://dererumnatura.org/read/book-06.html</link>
+      <guid isPermaLink="false">dererumnatura-book-06</guid>
+      <pubDate>Sat, 31 Oct 2026 12:06:00 +0000</pubDate>
+      <enclosure url="https://audio.dererumnatura.org/book-06.m4a" length="51249693" type="audio/mp4"/>
+      <itunes:duration>1:14:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>De Rerum Natura, Book V</title>
+      <itunes:title>Book V</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Epicurus, a god for what he found, set above Ceres, Liber and Hercules; the world was born and will die, since earth, sea, air and the fires of heaven are all spent and renewed, and no song reaches back beyond Thebes and Troy; how the world gathered itself out of the storm of first-beginnings; the motions of the stars, the size of the sun and moon, the sun's turnings, the moon's light and the eclipses, each with several causes left open; the young earth bearing plants, then animals and men, the monsters that failed and the kinds that lasted, and why Centaurs never were; the hard life of the first men; huts, fire, marriage and the first compacts; the natural origin of speech; kings, gold, law and the fear of punishment; religion born of dreams and of the sky; metals, war and its beasts, weaving, farming, song, and the arts drawn out little by little to the shores of light.</description>
+      <link>https://dererumnatura.org/read/book-05.html</link>
+      <guid isPermaLink="false">dererumnatura-book-05</guid>
+      <pubDate>Sat, 31 Oct 2026 12:05:00 +0000</pubDate>
+      <enclosure url="https://audio.dererumnatura.org/book-05.m4a" length="56125255" type="audio/mp4"/>
+      <itunes:duration>1:21:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>De Rerum Natura, Book IV</title>
+      <itunes:title>Book IV</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The poet's untrodden path again; the images, thin films shed from the surface of things, their fineness, their speed and their kinds; sight, mirrors and the deceptions of sight, which are the mind's error and never the eyes'; the senses as the ground of all truth, against the sceptic; hearing, echo, taste and smell; how the mind thinks and dreams, and why dream-figures seem to move; the limbs were not made for their uses; hunger, walking and sleep; the dreams of men and beasts and of desire; the passion of love, its madness, its waste and its cure; and the shared pleasure, inheritance and fertility of the sexes.</description>
+      <link>https://dererumnatura.org/read/book-04.html</link>
+      <guid isPermaLink="false">dererumnatura-book-04</guid>
+      <pubDate>Sat, 31 Oct 2026 12:04:00 +0000</pubDate>
+      <enclosure url="https://audio.dererumnatura.org/book-04.m4a" length="51054344" type="audio/mp4"/>
+      <itunes:duration>1:13:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>De Rerum Natura, Book III</title>
+      <itunes:title>Book III</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The praise of Epicurus, and the fear of death as the hidden root of avarice, ambition and crime; mind and spirit are bodily parts of a man, made of the finest seeds, fourfold in nature and bound to the body from birth; a long train of proofs that they are born and die with it, and against the wandering of spirits from body to body; death is therefore nothing to us, nature's own rebuke to those who grieve, the torments of Acheron found in this life, and the kings, poets and sages who have died before us.</description>
+      <link>https://dererumnatura.org/read/book-03.html</link>
+      <guid isPermaLink="false">dererumnatura-book-03</guid>
+      <pubDate>Sat, 31 Oct 2026 12:03:00 +0000</pubDate>
+      <enclosure url="https://audio.dererumnatura.org/book-03.m4a" length="43161232" type="audio/mp4"/>
+      <itunes:duration>1:02:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>De Rerum Natura, Book II</title>
+      <itunes:title>Book II</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The serene heights of philosophy; the motions of the first-beginnings in the void, their speed, their fall, and the swerve; the variety and finite range of their shapes; everything is made of mingled seed, and the Great Mother's procession is explained away; the first-beginnings have no color, no other quality and no sense; there are other worlds than ours; and this world, like everything made, grows, decays and will die.</description>
+      <link>https://dererumnatura.org/read/book-02.html</link>
+      <guid isPermaLink="false">dererumnatura-book-02</guid>
+      <pubDate>Sat, 31 Oct 2026 12:02:00 +0000</pubDate>
+      <enclosure url="https://audio.dererumnatura.org/book-02.m4a" length="44708687" type="audio/mp4"/>
+      <itunes:duration>1:04:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>De Rerum Natura, Book I</title>
+      <itunes:title>Book I</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Invocation of Venus and the praise of Epicurus; nothing comes from nothing and nothing returns to nothing; unseen bodies, and the void; the properties and accidents of things; the first-beginnings are solid, eternal and without parts; against Heraclitus, Empedocles and Anaxagoras; the universe has no end in matter or in space.</description>
+      <link>https://dererumnatura.org/read/book-01.html</link>
+      <guid isPermaLink="false">dererumnatura-book-01</guid>
+      <pubDate>Sat, 31 Oct 2026 12:01:00 +0000</pubDate>
+      <enclosure url="https://audio.dererumnatura.org/book-01.m4a" length="43030288" type="audio/mp4"/>
+      <itunes:duration>1:02:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

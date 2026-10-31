@@ -1,0 +1,11 @@
+{
+  "note": "Human listening review of each book's master (audiobook-build-bookNN/books/book-NN-full.wav). Read by tools/build_audio_web.py.",
+  "books": {
+    "01": {"status": "approved", "by": "Chris Duffy", "date": "2026-10-31"},
+    "02": {"status": "approved", "by": "Chris Duffy", "date": "2026-10-31"},
+    "03": {"status": "approved", "by": "Chris Duffy", "date": "2026-10-31"},
+    "04": {"status": "approved", "by": "Chris Duffy", "date": "2026-10-31"},
+    "05": {"status": "approved", "by": "Chris Duffy", "date": "2026-10-31"},
+    "06": {"status": "approved", "by": "Chris Duffy", "date": "2026-10-31"}
+  }
+}

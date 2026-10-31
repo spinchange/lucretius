@@ -426,8 +426,12 @@ def export_art(art: dict[int, list[dict]]) -> None:
         if old.name not in files:
             old.unlink()
             print(f"  removed unused illustration: art/{old.name}")
+    # The link-preview card is designed (illustrations/social.svg, rendered
+    # to docs/social.jpg by headless Chrome, like docs/cover.jpg from
+    # cover.svg); the crop below is only a fallback for a tree without it.
     first = art.get(1, [None])[0]
-    if first and not (DOCS / "social.jpg").exists():
+    if (first and not (DOCS / "social.jpg").exists()
+            and not (ART / "social.svg").exists()):
         im = Image.open(ART / first["file"]).convert("RGB")
         w, h = im.size
         th = round(w * 630 / 1200)

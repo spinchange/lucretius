@@ -1,0 +1,91 @@
+<svg viewBox="0 0 800 1200" width="800" height="1200" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Cover for Lucretius, De Rerum Natura — a Pompeian-red ground with a medallion of Epicurus defying Religio at the center.">
+  <!-- The companion to the Iliad's cover (iliad/art/iliad-cover-hybrid.svg):
+       same frame, bands and type, on the site's Pompeian red. Rendered to
+       docs/cover.jpg (1600x2400) by headless Chrome; see illustrations/INDEX.md. -->
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a1a14"/>
+      <stop offset="0.55" stop-color="#3d110d"/>
+      <stop offset="1" stop-color="#24090a"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.42" r="0.85">
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0c0404" stop-opacity="0.5"/>
+    </radialGradient>
+    <pattern id="meander" width="40" height="40" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#efe6d2" stroke-width="3.6">
+        <path d="M0 5 H40"/>
+        <path d="M0 34 H40"/>
+        <path d="M28 34 V11 H11 V26 H19"/>
+      </g>
+    </pattern>
+    <pattern id="dots" width="15" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="2.6" fill="#efe6d2"/>
+    </pattern>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="medallion-clip">
+      <circle cx="400" cy="808" r="162"/>
+    </clipPath>
+  </defs>
+
+  <!-- ground -->
+  <rect width="800" height="1200" fill="url(#red)"/>
+  <rect width="800" height="1200" fill="#efe6d2" filter="url(#grain)"/>
+  <rect width="800" height="1200" fill="url(#vig)"/>
+
+  <!-- frame -->
+  <rect x="36" y="36" width="728" height="1128" fill="none" stroke="#efe6d2" stroke-width="2.5" opacity="0.9"/>
+  <rect x="48" y="48" width="704" height="1104" fill="none" stroke="#efe6d2" stroke-width="1" opacity="0.4"/>
+
+  <!-- top meander band -->
+  <rect x="80" y="72" width="640" height="40" fill="url(#meander)"/>
+
+  <!-- epigraph: the first line of the poem -->
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle">
+    <text x="400" y="208" font-size="27" font-style="italic" fill="#efe6d2" opacity="0.8">Aeneadum genetrix, hominum divomque voluptas</text>
+    <text x="400" y="246" font-size="19" fill="#efe6d2" opacity="0.55">Mother of Aeneas&#8217; race, pleasure of men and gods</text>
+  </g>
+
+  <!-- title -->
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle" fill="#efe6d2">
+    <text x="400" y="352" font-size="40" textLength="380" lengthAdjust="spacingAndGlyphs">LUCRETIUS&#8217;</text>
+    <text x="400" y="420" font-size="62" textLength="560" lengthAdjust="spacingAndGlyphs">DE RERUM</text>
+    <text x="400" y="486" font-size="62" textLength="460" lengthAdjust="spacingAndGlyphs">NATURA</text>
+    <line x1="280" y1="508" x2="520" y2="508" stroke="#d6a64a" stroke-width="1.3" opacity="0.9"/>
+    <text x="400" y="542" font-size="22" fill="#d6a64a" letter-spacing="3">ON THE NATURE OF THINGS</text>
+    <text x="400" y="578" font-size="16" letter-spacing="2" fill-opacity="0.78">LINE FOR LINE TRANSLATION BY FABLE 5.1</text>
+  </g>
+
+  <!-- medallion register: top border -->
+  <line x1="90" y1="600" x2="710" y2="600" stroke="#efe6d2" stroke-width="2"/>
+  <rect x="100" y="606" width="600" height="12" fill="url(#dots)"/>
+  <line x1="90" y1="626" x2="710" y2="626" stroke="#efe6d2" stroke-width="2"/>
+
+  <!-- Epicurus defies Religio (1.62-79), clipped to a circle of radius 162 -->
+  <g>
+    <image href="cover_medallion.jpg" x="236" y="644" width="328" height="328" clip-path="url(#medallion-clip)"/>
+    <circle cx="400" cy="808" r="164" fill="none" stroke="#efe6d2" stroke-width="3.4"/>
+    <circle cx="400" cy="808" r="158" fill="none" stroke="#efe6d2" stroke-width="1.4" opacity="0.75"/>
+  </g>
+
+  <!-- medallion register: bottom border -->
+  <line x1="90" y1="990" x2="710" y2="990" stroke="#efe6d2" stroke-width="2"/>
+  <rect x="100" y="996" width="600" height="12" fill="url(#dots)"/>
+  <line x1="90" y1="1016" x2="710" y2="1016" stroke="#efe6d2" stroke-width="2"/>
+
+  <!-- byline -->
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle" fill="#efe6d2">
+    <text x="400" y="1050" font-size="15" opacity="0.7" letter-spacing="6">TRANSLATED BY</text>
+    <text x="400" y="1082" font-size="36" textLength="220" lengthAdjust="spacingAndGlyphs">CLAUDE</text>
+    <text x="400" y="1110" font-size="15" font-style="italic" opacity="0.6">6 books &#183; 7,412 lines rendered from the Latin &#183; with Machiavelli&#8217;s margin</text>
+  </g>
+
+  <!-- bottom meander band -->
+  <rect x="80" y="1128" width="640" height="34" fill="url(#meander)"/>
+</svg>
