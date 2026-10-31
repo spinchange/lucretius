@@ -19,7 +19,7 @@ source of truth for what has been done to each segment.
 | review2 (translator, Fable; every line of every book read against the Latin) | 58/58 | `sKK.patch2.tsv` with a reason per change; 149 verse lines changed (12/23/26/36/28/24 by book) |
 | assemble | all six books | `translation/book_0N.txt`, all from review text; `check_segment --all` now exits 0 |
 | notes | all six books final (76, 89, 70, 55, 89, 86 notes) | no `{{NOTE: ...}}` placeholders or DRAFT notes remain; verse unchanged, `check_narration --all` matches |
-| margin (Ross. 884) | all six books surveyed | 229 entries in `margin/marginalia.tsv` (27 each for Books 1 and 3, 39 for Book 4, 39 for Book 5, 46 for Book 6, 2026-10-31) |
+| margin (Ross. 884) | all six books surveyed; published layout decided | 229 entries in `margin/marginalia.tsv` (27 each for Books 1 and 3, 39 for Book 4, 39 for Book 5, 46 for Book 6, 2026-10-31); layout under "Margin layout" below |
 | audiobook | all six books built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); every chunk accepted on a strict QA pass except the four noted under "Audiobook" below |
 
 Local repo only, no remote.
@@ -155,6 +155,45 @@ the verse.
   133v is struck through by one stroke; "Finis Τελος" above it is not.
   Terence follows on 134r. Images on disk through canvas 146. Details in
   margin/README.md.
+
+## Margin layout (decided 2026-10-31)
+
+Agreed with the user. Two tiers, split by the `kind` column of
+`margin/marginalia.tsv`.
+
+- **Beside the verse, in the actual margin.** On the reading page
+  (`docs/read/book-0N.html`, Iliad pattern) the kinds note, gloss,
+  marginal word, manicule and mark (about 95 entries) are set in the right
+  margin of the English beside the line or line range they key to. Each
+  carries the expanded Latin (or Greek), the English rendering beneath it
+  in smaller type, and the folio as a link to the DigiVatLib canvas
+  (https://digi.vatlib.it/view/MSS_Ross.884/NNNN; recto NNr = canvas
+  NN+11, verso NNv = NN+12). Marks that have no words (dashes, crosses,
+  the asterisk at 1.7, the dotted lines at 5.1096-1100) show as a glyph
+  with the diplomatic description as the title text; the manicules at
+  2.82 and on 11r show as ☞. A range (2.251-256) sits beside its first
+  line. On narrow screens the margin folds under the line as an aside.
+  Text only: no page images, ever.
+- **The state of the copy, on its own page.** The kinds correction,
+  variant, omission, order marks, supplied lines, catchword, colophon,
+  heading and guide letter (about 130 entries) go to one table per book,
+  `docs/margin/book-0N.html` or similar: line, folio link, kind,
+  diplomatic, expanded, English, Brown, remarks. Nothing of this tier
+  appears on the reading page.
+- **Supplied lines** (1.585-588, 4.174-175, 4.1034, 6.625-628) are copy
+  state, not reading, and go in the table; the two manicules at 1.589 are
+  tie-marks for the supplied block and are entered as manicules but belong
+  to the same repair, so the build should show them with the supplied-lines
+  entry rather than as reading marks.
+- An introduction (one page for the whole margin layer) states the source,
+  Bertelli's identification of the hand, the terms of use of the images, the
+  Brown checklist and the corrections to it, and that the subscription on
+  133v is struck through while "Finis Τελος" above it is not.
+- Rejected: a second notes section after the translator's notes (loses the
+  marginal conceit), a separate page as the only presentation (reader never
+  meets the notes beside the verse), and all 229 entries beside the verse
+  (Book 5's twenty-six scribal corrections would crowd the margin with slips
+  that say nothing about Machiavelli's reading).
 
 ## Book 2 review (done 2026-10-30)
 
@@ -382,7 +421,8 @@ match). Then:
 1. Audio: done. The second-round re-render finished 2026-10-31 (86 chunks
    re-rendered across the six books, every chunk accepted, all six masters
    and review mixes rebuilt; see "Audiobook"). Nothing pending.
-2. Margin survey: done for all six books 2026-10-31. Decide the published layout.
+2. Margin survey: done for all six books 2026-10-31. Published layout decided
+   2026-10-31 (see "Margin layout" below); it is a spec for the web build.
 3. Web build on the Iliad and Odyssey pattern.
 
 ## Audiobook (built 2026-10-30, re-rendered for the second round 2026-10-31)
@@ -444,8 +484,8 @@ Transcription QA calls can drop on a transient TLS error and leave a take
 
 - Notes stage per book: done for all six books (2026-10-30); see "Notes
   stage" above.
-- Margin survey done for all six books; decide the published layout (verse with
-  Machiavelli's notes keyed to lines, DigiVatLib folio links).
+- Margin survey done for all six books; published layout decided 2026-10-31
+  (see "Margin layout").
 - OCT collation: done 2026-10-30 against an OCR of Bailey's 1922 text
   (scratch alignment script, monotone fuzzy match, reports kept out of the
   repo). Result: the Perseus text is not Bailey's. Orthography is Munro's

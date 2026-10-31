@@ -27,6 +27,12 @@ lines that argue from it to free will, with others on the gods' indifference.
 - Publication: text only. Each note is keyed to book.line of the poem,
   given in Latin and English, and linked to its folio on DigiVatLib
   (https://digi.vatlib.it/view/MSS_Ross.884/NNNN, NNNN = canvas number).
+  Layout decided 2026-10-31: the reading marks (kinds note, gloss, marginal
+  word, manicule, mark) are set in the right margin of the English beside
+  their line on the reading pages; the state of the copy (corrections,
+  variants, omissions, order marks, supplied lines, catchwords, colophons,
+  headings, guide letter) goes to a table per book on its own page. Full
+  spec in HANDOFF.md under "Margin layout".
 
 ## Files
 
