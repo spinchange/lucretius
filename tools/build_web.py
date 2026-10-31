@@ -65,6 +65,14 @@ OUT = DOCS / "read"
 OUT_API = DOCS / "api"
 OUT_ART = DOCS / "art"
 
+# Every illustration carries this credit, so that no one takes an image for
+# a photograph of a real Roman wall painting.
+ART_CREDIT = "AI-generated illustration (Gemini), after Pompeian wall painting"
+MARGIN_ART = "machiavelli_copying_lucretius.jpg"
+MARGIN_ART_CREDIT = (
+    "AI-generated illustration (Gemini), after late-fifteenth-century "
+    "Florentine panel painting")
+
 # The site has no domain yet: set SITE when it does. Everything that must
 # be absolute (canonical links, Open Graph, the sitemap, llms.txt) hangs
 # off this one constant.
@@ -398,17 +406,19 @@ def export_art(art: dict[int, list[dict]]) -> None:
         print("  (Pillow not installed: illustrations not exported)")
         return
     OUT_ART.mkdir(parents=True, exist_ok=True)
-    for items in art.values():
-        for it in items:
-            src = ART / it["file"]
-            dst = OUT_ART / it["file"]
-            if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
-                continue
-            im = Image.open(src).convert("RGB")
-            if im.width > 1200:
-                im = im.resize((1200, round(im.height * 1200 / im.width)),
-                               Image.LANCZOS)
-            im.save(dst, "JPEG", quality=82, optimize=True, progressive=True)
+    files = [it["file"] for items in art.values() for it in items]
+    if (ART / MARGIN_ART).exists():
+        files.append(MARGIN_ART)
+    for fname in files:
+        src = ART / fname
+        dst = OUT_ART / fname
+        if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
+            continue
+        im = Image.open(src).convert("RGB")
+        if im.width > 1200:
+            im = im.resize((1200, round(im.height * 1200 / im.width)),
+                           Image.LANCZOS)
+        im.save(dst, "JPEG", quality=82, optimize=True, progressive=True)
     first = art.get(1, [None])[0]
     if first and not (DOCS / "social.jpg").exists():
         im = Image.open(ART / first["file"]).convert("RGB")
@@ -426,7 +436,8 @@ def figure(it: dict, n: int) -> str:
             f'<a href="../art/{it["file"]}"><img src="../art/{it["file"]}" '
             f'alt="{html.escape(plain, quote=True)}" loading="lazy"></a>'
             f'<figcaption>{title} '
-            f'<a class="cite" href="#L{it["line"]}">{esc(it["ref"])}</a></figcaption>'
+            f'<a class="cite" href="#L{it["line"]}">{esc(it["ref"])}</a>'
+            f'<span class="credit">{esc(ART_CREDIT)}</span></figcaption>'
             f'</figure>')
 
 
@@ -833,7 +844,18 @@ def build_margin(margin: list[dict]) -> str:
            '<h1 data-pagefind-meta="title">Machiavelli’s Margin</h1>',
            '<p class="argument">what he wrote beside the poem in his own '
            'copy, Vatican MS Ross. 884</p>',
-           '</header>', '<div class="prose">']
+           '</header>']
+    if (ART / MARGIN_ART).exists():
+        out.append(
+            f'<figure class="art" data-pagefind-ignore>'
+            f'<a href="../art/{MARGIN_ART}"><img src="../art/{MARGIN_ART}" '
+            f'alt="Machiavelli copying De Rerum Natura in his study, Florence, c. 1497 (an imagined scene)" '
+            f'loading="lazy"></a>'
+            f'<figcaption>Niccolò Machiavelli copying <em>De Rerum Natura</em>, '
+            f'Florence, c. 1497 — an imagined scene'
+            f'<span class="credit">{esc(MARGIN_ART_CREDIT)}</span>'
+            f'</figcaption></figure>')
+    out.append('<div class="prose">')
     for para in MARGIN_INTRO:
         out.append(f"<p>{prose(para)}</p>")
     out.append(
@@ -1171,7 +1193,9 @@ public domain (its TEI markup is CC BY-SA 4.0). The <strong>notes, the
 translator's commentary, and the transcription and English of the
 margin</strong> are © 2026 Chris Duffy,
 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>;
-Machiavelli's words are his own and public domain.</p>
+Machiavelli's words are his own and public domain. The illustrations are
+AI-generated (Google Gemini) and are not reproductions of ancient
+paintings.</p>
 
 <h2>Provenance</h2>
 <p>The translation was produced by a language model (Claude) from the Latin,
@@ -1198,8 +1222,9 @@ def build_landing(books: dict[int, dict], margin: list[dict], total: int,
                   total_notes: int, art: dict[int, list[dict]]) -> str:
     reading = sum(1 for r in margin if r["reading"])
     hero = art.get(1, [None])[0]
-    hero_html = (f'<a href="read/book-01.html#L1"><img src="art/{hero["file"]}" '
-                 f'alt="{html.escape(hero["title"], quote=True)}"></a>'
+    hero_html = (f'<a href="read/book-01.html#L{hero["line"]}"><img src="art/{hero["file"]}" '
+                 f'alt="{html.escape(hero["title"], quote=True)}" '
+                 f'title="{html.escape(ART_CREDIT, quote=True)}"></a>'
                  if hero else "")
     return f"""<!doctype html>
 <html lang="en">
@@ -1352,9 +1377,9 @@ def build_landing(books: dict[int, dict], margin: list[dict], total: int,
     <div><h3>Machiavelli’s margin</h3><p>Every mark and note in his autograph
       copy, read from the Vatican Library’s images, transcribed, translated
       and set beside the line it stands against.</p></div>
-    <div><h3>Illustrated</h3><p>Twelve pictures in the manner of the wall
-      paintings of Lucretius’ own century, two to a book, at the passages
-      they show.</p></div>
+    <div><h3>Illustrated</h3><p>Thirteen pictures in the manner of the wall
+      paintings of Lucretius’ own century, at the passages they show, and a
+      Florentine panel on the margin page.</p></div>
   </div>
 </section>
 <section>
@@ -1375,6 +1400,10 @@ def build_landing(books: dict[int, dict], margin: list[dict], total: int,
   <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
   The images of Ross. 884 are the Vatican Library’s and are not reproduced
   here; every entry links to its page on DigiVatLib.</p>
+  <p>The illustrations are AI-generated (Google Gemini) in the manner of
+  Pompeian wall painting. They are modern pictures of the poem’s scenes,
+  not reproductions of ancient paintings, and the cracks and wear in them
+  are invented.</p>
   <p>This is the third of the project’s line-for-line translations. The
   Iliad is at <a href="https://wrath-sing-goddess.com/">wrath-sing-goddess.com</a>
   and the Odyssey at <a href="https://theclaudyssey.com/">theclaudyssey.com</a>.</p>
@@ -1465,11 +1494,14 @@ a{color:var(--ochre)}
 .mg-key{font-size:.82rem; opacity:.75; margin:-14px 0 22px; font-style:italic}
 
 /* the illustrations, at their passages */
-.art{margin:14px 0 26px -2.6rem; text-align:center}
+.art{margin:14px 0 26px; text-align:center}
+.verse .art{margin-left:-2.6rem}
 .art img{width:100%; height:auto; border-radius:3px;
   box-shadow:0 10px 34px rgba(0,0,0,.45); border:1px solid rgba(214,166,74,.3)}
 .art figcaption{font-size:.82rem; opacity:.8; margin-top:8px; font-style:italic}
 .art figcaption .cite{font-style:normal; margin-left:.4em}
+.art figcaption .credit{display:block; font-style:normal; font-size:.72rem;
+  opacity:.65; margin-top:3px; letter-spacing:.02em}
 
 .verse{padding-left:2.6rem}
 .stanza{margin:0 0 1.15em}
@@ -1609,7 +1641,7 @@ footer{text-align:center; font-size:.8rem; opacity:.7; padding:20px 0 40px}
 @media (max-width:560px){
   .wrap{padding:0 14px}
   .verse{padding-left:2.1rem}
-  .art{margin-left:-2.1rem}
+  .verse .art{margin-left:-2.1rem}
   .ln{left:-2.6rem; width:2rem}
   .toc b{min-width:4.6em}
   table.copy{font-size:.76rem}

@@ -66,11 +66,14 @@ a{color:var(--ochre)}
 .mg-key{font-size:.82rem; opacity:.75; margin:-14px 0 22px; font-style:italic}
 
 /* the illustrations, at their passages */
-.art{margin:14px 0 26px -2.6rem; text-align:center}
+.art{margin:14px 0 26px; text-align:center}
+.verse .art{margin-left:-2.6rem}
 .art img{width:100%; height:auto; border-radius:3px;
   box-shadow:0 10px 34px rgba(0,0,0,.45); border:1px solid rgba(214,166,74,.3)}
 .art figcaption{font-size:.82rem; opacity:.8; margin-top:8px; font-style:italic}
 .art figcaption .cite{font-style:normal; margin-left:.4em}
+.art figcaption .credit{display:block; font-style:normal; font-size:.72rem;
+  opacity:.65; margin-top:3px; letter-spacing:.02em}
 
 .verse{padding-left:2.6rem}
 .stanza{margin:0 0 1.15em}
@@ -210,7 +213,7 @@ footer{text-align:center; font-size:.8rem; opacity:.7; padding:20px 0 40px}
 @media (max-width:560px){
   .wrap{padding:0 14px}
   .verse{padding-left:2.1rem}
-  .art{margin-left:-2.1rem}
+  .verse .art{margin-left:-2.1rem}
   .ln{left:-2.6rem; width:2rem}
   .toc b{min-width:4.6em}
   table.copy{font-size:.76rem}

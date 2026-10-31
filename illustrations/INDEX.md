@@ -1,12 +1,25 @@
 # Illustrations for *De Rerum Natura*
 
-Twelve illustrations (two for each of the six books) rendered in the style of **first-century BC Roman / Campanian Second-Style wall frescoes** (*buon fresco* on lime plaster with cinnabar/Pompeian red, yellow ochre, Egyptian blue, *terre verte*, carbon black, and chalk white), contemporary with Lucretius and the Epicurean Villa of the Papyri at Herculaneum.
+Thirteen illustrations across the six books rendered in the style of **first-century BC Roman / Campanian Second-Style wall frescoes** (*buon fresco* on lime plaster with cinnabar/Pompeian red, yellow ochre, Egyptian blue, *terre verte*, carbon black, and chalk white), contemporary with Lucretius and the Epicurean Villa of the Papyri at Herculaneum, plus one late-fifteenth-century Florentine panel painting for Machiavelli's margin.
 
 ---
 
 ## Book 1 — Matter and Void
 
-### 1. Invocation to Venus and Mars Disarmed (`1.1–43`)
+### 1. Epicurus Defies Religio (`1.62–79`)
+- **File:** [`book01_00_epicurus_defies_religio.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book01_00_epicurus_defies_religio.jpg)
+- **Passage:** [translation/book_01.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_01.txt#L137-L154)
+> When human life lay foully before the eyes,
+> crushed on the earth beneath the weight of religion,
+> which showed its head from the regions of heaven,
+> looming over mortals with horrible aspect,
+> first a man of Greece dared to lift mortal eyes
+> against it, and first to take a stand against it…
+> And so the living force of his mind prevailed, and far
+> beyond the flaming walls of the world he went out
+> and traveled the whole immensity in thought and mind… (`1.62–67, 72–74`)
+
+### 2. Invocation to Venus and Mars Disarmed (`1.1–43`)
 - **File:** [`book01_01_venus_and_mars.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book01_01_venus_and_mars.jpg)
 - **Passage:** [translation/book_01.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_01.txt#L76-L118)
 > Mother of Aeneas' race, pleasure of men and gods,
@@ -19,7 +32,7 @@ Twelve illustrations (two for each of the six books) rendered in the style of **
 > feeds on love his hungry eyes, gaping at you, goddess,
 > and the breath of him, reclining, hangs upon your lips. (`1.1–3, 32–37`)
 
-### 2. The Sacrifice of Iphigenia at Aulis (`1.80–101`)
+### 3. The Sacrifice of Iphigenia at Aulis (`1.80–101`)
 - **File:** [`book01_02_sacrifice_of_iphigenia.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book01_02_sacrifice_of_iphigenia.jpg)
 - **Passage:** [translation/book_01.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_01.txt#L155-L176)
 > As at Aulis, where the altar of the Virgin of the Crossways
@@ -37,7 +50,7 @@ Twelve illustrations (two for each of the six books) rendered in the style of **
 
 ## Book 2 — The Motions and Forms of the First-Beginnings
 
-### 3. The Storm at Sea Viewed from the Serene Heights (`2.1–13`)
+### 4. The Storm at Sea Viewed from the Serene Heights (`2.1–13`)
 - **File:** [`book02_01_shipwreck_from_shore.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book02_01_shipwreck_from_shore.jpg)
 - **Passage:** [translation/book_02.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_02.txt#L67-L79)
 > Sweet it is, when on the great sea the winds are churning the waters,
@@ -49,26 +62,25 @@ Twelve illustrations (two for each of the six books) rendered in the style of **
 > but nothing is sweeter than to hold the well-fortified
 > serene precincts, set on high by the teaching of the wise… (`2.1–8`)
 
-### 4. Motes in the Sunbeam and the Swerve (`2.112–141, 216–250`)
-- **File:** [`book02_02_motes_and_clinamen.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book02_02_motes_and_clinamen.jpg)
-- **Passage:** [translation/book_02.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_02.txt#L178-L207), [2.216–250](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_02.txt#L284-L318)
-> For look closely, whenever the sun's light is poured
-> by rays let in through the darkened places of houses:
-> you will see many minute bodies in many ways, through the void,
-> mingling in the very light of the rays,
-> and as though in everlasting conflict waging wars and battles…
-> For if they were not used to swerve, all things would fall
-> downward like drops of rain through the deep void,
-> and no collision would arise, no blow be created
-> for the beginnings; so nature would never have created anything. (`2.114–118, 221–224`)
+### 5. The Cow Searching for Her Calf (`2.352–366`)
+- **File:** [`book02_02_cow_searching_for_her_calf.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book02_02_cow_searching_for_her_calf.jpg)
+- **Passage:** [translation/book_02.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_02.txt#L421-L435)
+> For often before the fair shrines of the gods a calf
+> falls slaughtered beside the incense-burning altars,
+> breathing out a warm river of blood from its breast;
+> but the bereaved mother, wandering through the green glades,
+> knows the prints pressed into the ground by cloven hooves,
+> searching every place with her eyes, if she can anywhere
+> catch sight of her lost young, and, stopping, fills
+> the leafy grove with her lament… (`2.352–359`)
 
 ---
 
 ## Book 3 — Mind, Spirit, and the Fear of Death
 
-### 5. The Honey-Rimmed Cup and the Quiet Seats of the Gods (`3.1–30`, cf. `1.936–950` / `4.11–25`)
-- **File:** [`book03_01_honeyed_cup_and_olympus.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book03_01_honeyed_cup_and_olympus.jpg)
-- **Passage:** [translation/book_03.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_03.txt#L57-L87), [translation/book_04.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_04.txt#L68-L82)
+### 6. The Quiet Seats of the Gods (`3.14–30`)
+- **File:** [`book03_01_quiet_seats_of_the_gods.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book03_01_quiet_seats_of_the_gods.jpg)
+- **Passage:** [translation/book_03.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_03.txt#L70-L87)
 > For as soon as your reasoning begins to cry aloud
 > the nature of things, sprung from a divine mind,
 > the terrors of the mind flee away, the walls of the world
@@ -79,7 +91,7 @@ Twelve illustrations (two for each of the six books) rendered in the style of **
 > an ever-cloudless ether covers them, and laughs
 > with light spread wide… (`3.14–22`)
 
-### 6. Nature's Rebuke and the Torments of Acheron in Mortal Life (`3.931–1023`)
+### 7. Nature's Rebuke and the Torments of Acheron in Mortal Life (`3.931–1023`)
 - **File:** [`book03_02_acheron_in_this_life.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book03_02_acheron_in_this_life.jpg)
 - **Passage:** [translation/book_03.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_03.txt#L997-L1089)
 > And surely whatever things they say exist in the depths of Acheron,
@@ -96,7 +108,7 @@ Twelve illustrations (two for each of the six books) rendered in the style of **
 
 ## Book 4 — Images, the Senses, Dreams, and Desire
 
-### 7. Thin Films (*Simulacra*), Theater Awnings, and Bronze Mirrors (`4.26–109, 269–323`)
+### 8. Thin Films (*Simulacra*), Theater Awnings, and Bronze Mirrors (`4.26–109, 269–323`)
 - **File:** [`book04_01_simulacra_and_mirrors.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book04_01_simulacra_and_mirrors.jpg)
 - **Passage:** [translation/book_04.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_04.txt#L83-L166)
 > I say, therefore, that effigies of things and thin shapes
@@ -108,7 +120,7 @@ Twelve illustrations (two for each of the six books) rendered in the style of **
 > the face of the stage, the fathers and the mothers down below,
 > they stain, and make them ripple with their color. (`4.51–52, 75–80`)
 
-### 8. The Mountain Echo and Nocturnal Pan with the Reed Pipe (`4.572–594`)
+### 9. The Mountain Echo and Nocturnal Pan with the Reed Pipe (`4.572–594`)
 - **File:** [`book04_02_echo_and_pan.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book04_02_echo_and_pan.jpg)
 - **Passage:** [translation/book_04.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_04.txt#L636-L658)
 > I have seen places give back even six or seven voices
@@ -125,7 +137,7 @@ Twelve illustrations (two for each of the six books) rendered in the style of **
 
 ## Book 5 — Cosmogony and the Rise of Civilization
 
-### 9. Cosmogony: The Storm of First-Beginnings (`5.416–508`)
+### 10. Cosmogony: The Storm of First-Beginnings (`5.416–508`)
 - **File:** [`book05_01_cosmogony_storm.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book05_01_cosmogony_storm.jpg)
 - **Passage:** [translation/book_05.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_05.txt#L487-L580)
 > At that time neither could the sun's wheel be seen with its ample light
@@ -139,7 +151,7 @@ Twelve illustrations (two for each of the six books) rendered in the style of **
 > and the sea apart, to spread with its moisture set apart,
 > and apart too the fires of the pure and separate ether. (`5.432–438, 446–448`)
 
-### 10. Early Humans Discovering Fire and Woodland Music (`5.1091–1104, 1379–1411`)
+### 11. Early Humans Discovering Fire and Woodland Music (`5.1091–1104, 1379–1411`)
 - **File:** [`book05_02_first_humans_fire_and_music.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book05_02_first_humans_fire_and_music.jpg)
 - **Passage:** [translation/book_05.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_05.txt#L1168-L1181), [5.1379–1411](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_05.txt#L1459-L1491)
 > …it was the lightning that first brought fire down to earth
@@ -155,7 +167,7 @@ Twelve illustrations (two for each of the six books) rendered in the style of **
 
 ## Book 6 — Meteorology, Earth-Wonders, and the Plague of Athens
 
-### 11. Thunderbolts, the Waterspout at Sea, and Mount Etna (`6.96–450, 639–702`)
+### 12. Thunderbolts, the Waterspout at Sea, and Mount Etna (`6.96–450, 639–702`)
 - **File:** [`book06_01_thunderbolts_waterspout_etna.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book06_01_thunderbolts_waterspout_etna.jpg)
 - **Passage:** [translation/book_06.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_06.txt#L495-L515), [6.639–702](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_06.txt#L714-L777)
 > For it happens at times that a kind of column, let down
@@ -166,9 +178,25 @@ Twelve illustrations (two for each of the six books) rendered in the style of **
 > I shall unfold. First, the nature of the whole mountain
 > is hollow beneath, held up for the most part on caverns of flint… (`6.426–428, 680–683`)
 
-### 12. The Magnesian Stone and the Plague of Athens (`6.906–1089, 1138–1286`)
+### 13. The Magnesian Stone and the Plague of Athens (`6.906–1089, 1138–1286`)
 - **File:** [`book06_02_magnesian_stone_and_plague.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/book06_02_magnesian_stone_and_plague.jpg)
 - **Passage:** [translation/book_06.txt](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_06.txt#L985-L995), [6.1138–1286](file:///H:/My%20Drive/agent-journal/lucretius/translation/book_06.txt#L1219-L1367)
+> Men marvel at this stone; for it often makes
+> a chain out of rings hanging down from itself.
+> For indeed you may see at times five or more
+> in a hanging line, swung about by the light breezes,
+> where one hangs down from another, clinging underneath…
+> A pattern of disease like this, and a death-bearing heat, once
+> made the fields deadly within the borders of Cecrops
+> and laid waste the roads and drained the city of its citizens. (`6.910–914, 1138–1140`)
+
+---
+
+## Machiavelli's Margin
+
+### Machiavelli Copying Lucretius, c. 1497
+- **File:** [`machiavelli_copying_lucretius.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/machiavelli_copying_lucretius.jpg)
+- **Style:** Late-fifteenth-century Florentine panel painting (after Domenico Ghirlandaio), an imagined scene for `docs/read/margin.html`.
 > Men marvel at this stone; for it often makes
 > a chain out of rings hanging down from itself.
 > For indeed you may see at times five or more
