@@ -197,11 +197,4 @@ Thirteen illustrations across the six books rendered in the style of **first-cen
 ### Machiavelli Copying Lucretius, c. 1497
 - **File:** [`machiavelli_copying_lucretius.jpg`](file:///H:/My%20Drive/agent-journal/lucretius/illustrations/machiavelli_copying_lucretius.jpg)
 - **Style:** Late-fifteenth-century Florentine panel painting (after Domenico Ghirlandaio), an imagined scene for `docs/read/margin.html`.
-> Men marvel at this stone; for it often makes
-> a chain out of rings hanging down from itself.
-> For indeed you may see at times five or more
-> in a hanging line, swung about by the light breezes,
-> where one hangs down from another, clinging underneath…
-> A pattern of disease like this, and a death-bearing heat, once
-> made the fields deadly within the borders of Cecrops
-> and laid waste the roads and drained the city of its citizens. (`6.910–914, 1138–1140`)
+- **Subject:** Machiavelli, in his late twenties, copying the poem by hand into what became Vatican MS Ross. 884. No writing is legible, so the picture cannot be mistaken for the manuscript.
