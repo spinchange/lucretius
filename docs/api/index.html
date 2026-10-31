@@ -5,13 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The text as data — De Rerum Natura</title>
 <meta name="description" content="The full translation, CC0, structured for machines: a Latin-English parallel corpus of Lucretius in JSONL, all 7,412 lines aligned to the standard numbering, plus Machiavelli's marginalia as JSON.">
-<link rel="canonical" href="https://de-rerum-natura.example/api/">
+<link rel="canonical" href="https://dererumnatura.org/api/">
 <meta property="og:title" content="The text as data — De Rerum Natura">
 <meta property="og:description" content="A Latin-English parallel corpus of Lucretius in JSONL, all 7,412 lines aligned to the standard numbering, CC0, plus Machiavelli's marginalia as JSON. No key, no auth: static files.">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="De Rerum Natura — On the Nature of Things">
-<meta property="og:url" content="https://de-rerum-natura.example/api/">
-<meta property="og:image" content="https://de-rerum-natura.example/social.jpg">
+<meta property="og:url" content="https://dererumnatura.org/api/">
+<meta property="og:image" content="https://dererumnatura.org/social.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
@@ -91,12 +91,12 @@ a link: <a href="../read/book-02.html#L216">/read/book-02.html#L216</a>.</p>
 
 <h2>Examples</h2>
 <p>Fetch one book's alignment and pull out one line:</p>
-<pre>curl -s https://de-rerum-natura.example/api/aligned-02.jsonl | grep '"key": "216"'</pre>
+<pre>curl -s https://dererumnatura.org/api/aligned-02.jsonl | grep '"key": "216"'</pre>
 <p>Load the whole poem as a dataset:</p>
 <pre>import json, urllib.request
 rows = []
 for n in range(1, 7):
-    url = f"https://de-rerum-natura.example/api/aligned-{n:02d}.jsonl"
+    url = f"https://dererumnatura.org/api/aligned-{n:02d}.jsonl"
     with urllib.request.urlopen(url) as f:
         rows += [json.loads(line) for line in f]
 assert len(rows) == 7412</pre>

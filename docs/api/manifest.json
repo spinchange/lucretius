@@ -1,14 +1,14 @@
 {
  "title": "De Rerum Natura — On the Nature of Things",
  "description": "Machine-readable mirror of a line-for-line English translation of Lucretius, De Rerum Natura, with Machiavelli's marginalia. aligned-0N.jsonl is the parallel corpus for one book: one JSON object per verse line, {book, line, key, latin, en}, in the printed order of the text (line is the integer, key the printed number including the letter of a lettered line such as 860a), English verse only (no note markers); the printed text's lacunae are not rows. book-0N.txt is the full translation source for one book: a one-line argument, the translator's commentary, numbered verse lines ('  123  text', one English line per Latin line, same numbering) with bracketed [7] markers pointing into a notes section of endnotes, each opening with its (book.line) reference. marginalia.json is every mark and note in Machiavelli's copy (Vatican MS Ross. 884): canvas, folio, book.line, kind, diplomatic transcription, expanded reading, English, agreement with Brown 2010, remarks. Cite passages as book.line, e.g. 2.216. Human-readable edition with line anchors: /read/book-0N.html#L216.",
- "site": "https://de-rerum-natura.example",
+ "site": "https://dererumnatura.org",
  "repository": "https://github.com/spinchange/lucretius",
  "license": "English translation (the 'en' fields and the verse in book-0N.txt): CC0 1.0 (public domain dedication). Notes, commentary, and the margin transcription and English: CC BY 4.0, (c) 2026 Chris Duffy. Latin: the Perseus Digital Library text (public domain; markup CC BY-SA 4.0), Munro/Bailey numbering. Machiavelli's notes themselves: public domain.",
  "lines": 7412,
  "lacunae": 20,
  "notes": 465,
  "marginalia": 229,
- "marginalia_file": "https://de-rerum-natura.example/api/marginalia.json",
+ "marginalia_file": "https://dererumnatura.org/api/marginalia.json",
  "books": [
   {
    "book": 1,
@@ -17,9 +17,9 @@
    "last_line": 1117,
    "notes": 76,
    "marginalia": 28,
-   "aligned": "https://de-rerum-natura.example/api/aligned-01.jsonl",
-   "text": "https://de-rerum-natura.example/api/book-01.txt",
-   "html": "https://de-rerum-natura.example/read/book-01.html"
+   "aligned": "https://dererumnatura.org/api/aligned-01.jsonl",
+   "text": "https://dererumnatura.org/api/book-01.txt",
+   "html": "https://dererumnatura.org/read/book-01.html"
   },
   {
    "book": 2,
@@ -28,9 +28,9 @@
    "last_line": 1174,
    "notes": 89,
    "marginalia": 49,
-   "aligned": "https://de-rerum-natura.example/api/aligned-02.jsonl",
-   "text": "https://de-rerum-natura.example/api/book-02.txt",
-   "html": "https://de-rerum-natura.example/read/book-02.html"
+   "aligned": "https://dererumnatura.org/api/aligned-02.jsonl",
+   "text": "https://dererumnatura.org/api/book-02.txt",
+   "html": "https://dererumnatura.org/read/book-02.html"
   },
   {
    "book": 3,
@@ -39,9 +39,9 @@
    "last_line": 1094,
    "notes": 70,
    "marginalia": 28,
-   "aligned": "https://de-rerum-natura.example/api/aligned-03.jsonl",
-   "text": "https://de-rerum-natura.example/api/book-03.txt",
-   "html": "https://de-rerum-natura.example/read/book-03.html"
+   "aligned": "https://dererumnatura.org/api/aligned-03.jsonl",
+   "text": "https://dererumnatura.org/api/book-03.txt",
+   "html": "https://dererumnatura.org/read/book-03.html"
   },
   {
    "book": 4,
@@ -50,9 +50,9 @@
    "last_line": 1287,
    "notes": 55,
    "marginalia": 39,
-   "aligned": "https://de-rerum-natura.example/api/aligned-04.jsonl",
-   "text": "https://de-rerum-natura.example/api/book-04.txt",
-   "html": "https://de-rerum-natura.example/read/book-04.html"
+   "aligned": "https://dererumnatura.org/api/aligned-04.jsonl",
+   "text": "https://dererumnatura.org/api/book-04.txt",
+   "html": "https://dererumnatura.org/read/book-04.html"
   },
   {
    "book": 5,
@@ -61,9 +61,9 @@
    "last_line": 1457,
    "notes": 89,
    "marginalia": 39,
-   "aligned": "https://de-rerum-natura.example/api/aligned-05.jsonl",
-   "text": "https://de-rerum-natura.example/api/book-05.txt",
-   "html": "https://de-rerum-natura.example/read/book-05.html"
+   "aligned": "https://dererumnatura.org/api/aligned-05.jsonl",
+   "text": "https://dererumnatura.org/api/book-05.txt",
+   "html": "https://dererumnatura.org/read/book-05.html"
   },
   {
    "book": 6,
@@ -72,9 +72,9 @@
    "last_line": 1286,
    "notes": 86,
    "marginalia": 46,
-   "aligned": "https://de-rerum-natura.example/api/aligned-06.jsonl",
-   "text": "https://de-rerum-natura.example/api/book-06.txt",
-   "html": "https://de-rerum-natura.example/read/book-06.html"
+   "aligned": "https://dererumnatura.org/api/aligned-06.jsonl",
+   "text": "https://dererumnatura.org/api/book-06.txt",
+   "html": "https://dererumnatura.org/read/book-06.html"
   }
  ]
 }

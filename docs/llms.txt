@@ -15,24 +15,24 @@ edition has a stable anchor: /read/book-02.html#L216.
 
 ## Machine-readable layer
 
-- [manifest.json](https://de-rerum-natura.example/api/manifest.json): describes every file below,
+- [manifest.json](https://dererumnatura.org/api/manifest.json): describes every file below,
   with per-book URLs, line counts, and licensing
-- [aligned-01.jsonl … aligned-06.jsonl](https://de-rerum-natura.example/api/aligned-02.jsonl): the
+- [aligned-01.jsonl … aligned-06.jsonl](https://dererumnatura.org/api/aligned-02.jsonl): the
   Latin-English parallel corpus, one JSON object per verse line
   ({book, line, key, latin, en})
-- [book-01.txt … book-06.txt](https://de-rerum-natura.example/api/book-02.txt): full translation
+- [book-01.txt … book-06.txt](https://dererumnatura.org/api/book-02.txt): full translation
   source per book: argument, translator's commentary, verse, and the
   line-keyed notes
-- [marginalia.json](https://de-rerum-natura.example/api/marginalia.json): Machiavelli's marginalia,
+- [marginalia.json](https://dererumnatura.org/api/marginalia.json): Machiavelli's marginalia,
   every entry with its folio link
-- [About the API](https://de-rerum-natura.example/api/): formats, examples, licensing detail
+- [About the API](https://dererumnatura.org/api/): formats, examples, licensing detail
 
 ## Reading edition
 
-- [Contents](https://de-rerum-natura.example/read/index.html): all six books, one page each
-- [Machiavelli's margin](https://de-rerum-natura.example/read/margin.html): the introduction, the
+- [Contents](https://dererumnatura.org/read/index.html): all six books, one page each
+- [Machiavelli's margin](https://dererumnatura.org/read/margin.html): the introduction, the
   reading marks, and the state of the copy
-- [About](https://de-rerum-natura.example/)
+- [About](https://dererumnatura.org/)
 
 ## Companions
 

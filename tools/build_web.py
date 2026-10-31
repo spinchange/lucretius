@@ -73,10 +73,10 @@ MARGIN_ART_CREDIT = (
     "AI-generated illustration (Gemini), after late-fifteenth-century "
     "Florentine panel painting")
 
-# The site has no domain yet: set SITE when it does. Everything that must
+# The site lives at dererumnatura.org (docs/CNAME). Everything that must
 # be absolute (canonical links, Open Graph, the sitemap, llms.txt) hangs
 # off this one constant.
-SITE = os.environ.get("DRN_SITE", "https://de-rerum-natura.example")
+SITE = os.environ.get("DRN_SITE", "https://dererumnatura.org")
 REPO = os.environ.get("DRN_REPO", "https://github.com/spinchange/lucretius")
 SITE_NAME = "De Rerum Natura — On the Nature of Things"
 TAGLINE = "on the nature of things"

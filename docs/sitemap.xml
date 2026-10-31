@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://de-rerum-natura.example/</loc></url>
-<url><loc>https://de-rerum-natura.example/read/index.html</loc></url>
-<url><loc>https://de-rerum-natura.example/read/margin.html</loc></url>
-<url><loc>https://de-rerum-natura.example/read/book-01.html</loc></url>
-<url><loc>https://de-rerum-natura.example/read/book-02.html</loc></url>
-<url><loc>https://de-rerum-natura.example/read/book-03.html</loc></url>
-<url><loc>https://de-rerum-natura.example/read/book-04.html</loc></url>
-<url><loc>https://de-rerum-natura.example/read/book-05.html</loc></url>
-<url><loc>https://de-rerum-natura.example/read/book-06.html</loc></url>
-<url><loc>https://de-rerum-natura.example/api/</loc></url>
+<url><loc>https://dererumnatura.org/</loc></url>
+<url><loc>https://dererumnatura.org/read/index.html</loc></url>
+<url><loc>https://dererumnatura.org/read/margin.html</loc></url>
+<url><loc>https://dererumnatura.org/read/book-01.html</loc></url>
+<url><loc>https://dererumnatura.org/read/book-02.html</loc></url>
+<url><loc>https://dererumnatura.org/read/book-03.html</loc></url>
+<url><loc>https://dererumnatura.org/read/book-04.html</loc></url>
+<url><loc>https://dererumnatura.org/read/book-05.html</loc></url>
+<url><loc>https://dererumnatura.org/read/book-06.html</loc></url>
+<url><loc>https://dererumnatura.org/api/</loc></url>
 </urlset>
