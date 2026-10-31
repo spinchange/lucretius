@@ -19,7 +19,7 @@ source of truth for what has been done to each segment.
 | review2 (translator, Fable; every line of every book read against the Latin) | 58/58 | `sKK.patch2.tsv` with a reason per change; 149 verse lines changed (12/23/26/36/28/24 by book) |
 | assemble | all six books | `translation/book_0N.txt`, all from review text; `check_segment --all` now exits 0 |
 | notes | all six books final (76, 89, 70, 55, 89, 86 notes) | no `{{NOTE: ...}}` placeholders or DRAFT notes remain; verse unchanged, `check_narration --all` matches |
-| margin (Ross. 884) | Books 1-5 surveyed | 183 entries in `margin/marginalia.tsv` (27 each for Books 1 and 3, 39 for Book 4, 39 for Book 5, 2026-10-31) |
+| margin (Ross. 884) | all six books surveyed | 229 entries in `margin/marginalia.tsv` (27 each for Books 1 and 3, 39 for Book 4, 39 for Book 5, 46 for Book 6, 2026-10-31) |
 | audiobook | all six books built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); every chunk accepted on a strict QA pass except the four noted under "Audiobook" below |
 
 Local repo only, no remote.
@@ -144,7 +144,17 @@ the verse.
   copy's "puer adhuc" at 884 among them; no line missing. Book 5 ends on
   110v with a small colophon and the rubric for Book 6. Details in
   margin/README.md.
-- Book 6 not yet surveyed (images on disk through canvas 124 = fol. 113r).
+- Book 6 (done 2026-10-31, fols. 110v-133v): 46 entries. Thirteen marginal
+  words in the lighter ink (frit 364, rehalat 523, geli duramen 530, derupta
+  539, subcudit 551, gleba 553, minant 563, pelagu 619, ningues 736,
+  permanater 916, inanitur vacefit 1005-1006, cibatus 1127, expers somno
+  1181); two Greek glosses (πρηστηρ 424, ετησιαι 716); 625-628 supplied
+  vertically in the margin of 121v; dashes at 105, 534, 1075-1077; a dot at
+  1194; the exemplar's order at 48-51, 1174, 1282-1286; twenty scribal
+  corrections. The subscription "Nicolaus Maclavellus scripsit foeliciter" on
+  133v is struck through by one stroke; "Finis Τελος" above it is not.
+  Terence follows on 134r. Images on disk through canvas 146. Details in
+  margin/README.md.
 
 ## Book 2 review (done 2026-10-30)
 
@@ -372,7 +382,7 @@ match). Then:
 1. Audio: done. The second-round re-render finished 2026-10-31 (86 chunks
    re-rendered across the six books, every chunk accepted, all six masters
    and review mixes rebuilt; see "Audiobook"). Nothing pending.
-2. Margin survey of Book 6 (Books 1-5 done 2026-10-31); decide the published layout.
+2. Margin survey: done for all six books 2026-10-31. Decide the published layout.
 3. Web build on the Iliad and Odyssey pattern.
 
 ## Audiobook (built 2026-10-30, re-rendered for the second round 2026-10-31)
@@ -434,7 +444,7 @@ Transcription QA calls can drop on a transient TLS error and leave a take
 
 - Notes stage per book: done for all six books (2026-10-30); see "Notes
   stage" above.
-- Margin survey of Book 6 (Books 1-5 done); decide the published layout (verse with
+- Margin survey done for all six books; decide the published layout (verse with
   Machiavelli's notes keyed to lines, DigiVatLib folio links).
 - OCT collation: done 2026-10-30 against an OCR of Bailey's 1922 text
   (scratch alignment script, monotone fuzzy match, reports kept out of the

@@ -264,5 +264,52 @@ across 84v-85r, "Liber" / ".V." across 85v-86r, "Liber" / "Sextus" across
   at 5.449 (modern); grey show-through in the margins of 89v, 91v, 92r,
   98r and 100r, none of it a mark.
 
-The folios of Book 6 have not been surveyed. Seen in passing for Book 6:
-nothing in the margins of 110v-111r (6.1-35).
+## Survey of Book 6 (done 2026-10-31, canvases 122-145, fols. 110v-133v)
+
+Every page of Book 6 was read (canvases 125-146 downloaded for it). Results
+in `marginalia.tsv` (46 entries, appended after the Book 5 rows). Book 6 runs
+from the rubric on 110v, where a small blotted initial P begins 6.1 after
+fifteen lines of Book 5, to 133v, where after eleven lines "Finis Τελος"
+stands centred under the last line of the poem and, below it, the
+subscription "Nicolaus Maclavellus scripsit foeliciter" struck through by a
+single heavy stroke. The rest of 133v is blank; Terence's Eunuchus begins on
+134r, prologue and first scene written out as prose. Running heads: "Liber" /
+"Sextus" across 110v-111r, "Liber" / ".VI." across 123v-124r.
+
+- Brown prints nothing for Book 6; every entry is "not listed".
+- No verbal note, but the densest run of marginal words in the lighter ink
+  with the bracket prefix anywhere outside Book 2: "( frit" at 6.364 (the
+  copy's corruption of fretus), "( rehalat" 523, "( geli / duramen" 530,
+  "( derupta" 539, "( subcudit" 551 (in the gutter margin), "( gleba" 553,
+  "minant )" 563 (bracket after the word, left margin), "pelagu" 619
+  (no bracket), "( ningues" 736, "( pmanater" 916, "inanitur / vacefit"
+  1005-1006, "( cibatus" 1127, "( exps somo" (expers somno) 1181. Rare words
+  and the copy's odd readings, picked out as a reader of the Latin does.
+- Two Greek glosses: "πρηστηρ" in the right margin at 6.424 (presteras) and
+  "( ετησιαι" at 6.716 (etesiae), both in Greek letters; compare 1.830 and
+  the Greek on 20v.
+- Supplied lines: 6.625-628 written vertically in the right margin of 121v
+  with a tie after "ponti", where the copy's 624 had run into the end of 628
+  by eye-skip (aequora / aequore). The method of 1.117-118 and 4.174-175.
+- Marks: right-margin dashes at 6.105, 534, 1075, 1076, 1077 (the last three
+  on the purple dye that will not wash out); a dark dot in the left margin
+  at 1194 (the dying face); three dots at the foot of 132v as at 4.911.
+- The line order of the exemplar shows at 48-51 (placed after 95), 1174
+  (before 1172-1173) and 1282-1286 (before 1247, so that 1281 "rixantes
+  potius quam corpora desererentur" is the last line of the poem). The copy
+  reads "consortem" for "cognatum" at 1276.
+- Scribal corrections in the line or interlinear, twenty of them: 6.48
+  (dittography), 231-232, 243, 255, 270, 328, 408, 702 (with the exemplar's
+  "quas" supplied), 890, 897, 940, 945, 1122, 1132, 1174, 1195, 1214, 1235,
+  1238, 1273. Most are false starts anticipating the next word.
+- Not entered: the scribe's set-out capitals and flourishes (6.96, 160, 204,
+  219, 225, 246, 285, 357, 451, 495, 526, 535, 608, 639, 712, 719, 738, 749,
+  840, 848, 888, 906, 921, 1068, 1069, 1072, 1090, 1138); the quire
+  signatures M - M v (111r-115r), N ii - N v (122r-125r), o - O iiii
+  (131r-134r): quires of ten leaves, M = fols. 111-120, N = 121-130, O =
+  131-140, so the Terence shares a quire with the end of the Lucretius; the
+  modern pencil foliation; a pencil squiggle on 112r; grey show-through in
+  the margins of 114r, 117v, 120r, 120v, 121r, 128r and 131v, each of it
+  the note on the other side of the leaf.
+
+All six books are now surveyed: 229 entries.
