@@ -91,3 +91,48 @@ Every opening of Book 2 was read. Results in `marginalia.tsv` (51 entries):
 The folios of Books 1 and 3-6 have not been surveyed. Brown reports "brief
 marginalia in later chapters" that replicate other witnesses; a survey
 would settle what they are.
+
+## Survey of Book 1 (done 2026-10-31, canvases 12-32, fols. 1r-20v)
+
+Every page of Book 1 was read (fol. 1r is canvas 12, the opening with the
+flyleaf; thereafter verso NNv and recto NN+1r share canvas NN+12). Results in
+`marginalia.tsv` (27 entries, placed before the canvas-32 rows of the Book 2
+survey, which already carried the Book 1 colophon on fol. 20v).
+
+- Brown prints nothing for Book 1 and says only that "brief marginalia in
+  later chapters" replicate other witnesses; every Book 1 entry is therefore
+  "not listed".
+- Verbal notes: two. The Greek ὁμοιομέρειαν in the right margin at 1.830,
+  in the lighter ink and the cursive Greek hand of the gloss on fol. 20v;
+  and "Comp̄" (Comparatio) with a bracket against the wormwood simile,
+  1.936-942, in the brown ink of the text. Nothing in Book 1 resembles the
+  doctrinal headings of Book 2 (De motu principiorum, De figura atomorum).
+- Marks: an asterisk at 1.7; dashes at 1.774 and 1.780 (as at 2.735,
+  2.741); an "x" over the copy's eternis at 1.1055; two crosses at 1.1092 and
+  1.1102 flanking the great lacuna, which the copy passes over without a gap
+  (1093 runs straight into 1102); order marks b/a at 1.1060-1061 in the
+  red-brown ink of the marks at 2.5-6; a marginal "(at cibetur" (al. cibetur?)
+  at 1.1093.
+- Omissions: 1.305 is absent (compare 2.258). The two manicules of Book 1
+  (fol. 11r, at 1.589 and at the head of the marginal block) are tie-marks
+  for 1.585-588, which the scribe dropped by eye-skip (584 "reddita constant"
+  struck to "finis") and then wrote vertically in the right margin. They are
+  not reading marks like the hand at 2.82.
+- Scribal corrections in the line or interlinear: 1.237, 344, 506+ (513-514
+  copied early and struck), 523, 631, 663, 709, 760 (ipsa supplied in the
+  margin), 805, 830 (scrutemur supplied in the margin), 934, 935, 976, 991
+  (false start at the head of 18v).
+- Not entered: the guide letter "a" and the later ink initial A on 1r are
+  entered once for the state of the copy; the running heads ("Liber" /
+  "Primus" across 1v-2r, "Liber" / ".I." across 8v-9r, "Liber" at the head of
+  20v); the quire signatures (a with a flourish at the foot of 5r; b, bii,
+  biii, biiii, bv at the feet of 11r-15r: quires of ten leaves, a = fols.
+  1-10, b = 11-20); the modern pencil foliation on each recto and pencil
+  line-counts at every hundredth line (100 on 2v, 200 on 4r, and so on to
+  1000 on 18v), plus a pencil "38" at 1.1038 on 19r, the line to which
+  Bertelli traced the copy's agreement with the corrections of Laur. 35.32
+  (Brown, appendix, p. 114): someone has marked the place.
+- Layout confirmed: 28 lines a page throughout Book 1; Book 1 ends on 20v
+  after five lines, followed by the rubric and the Greek gloss.
+
+The folios of Books 3-6 have not been surveyed.

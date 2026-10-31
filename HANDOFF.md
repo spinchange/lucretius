@@ -19,7 +19,7 @@ source of truth for what has been done to each segment.
 | review2 (translator, Fable; every line of every book read against the Latin) | 58/58 | `sKK.patch2.tsv` with a reason per change; 149 verse lines changed (12/23/26/36/28/24 by book) |
 | assemble | all six books | `translation/book_0N.txt`, all from review text; `check_segment --all` now exits 0 |
 | notes | all six books final (76, 89, 70, 55, 89, 86 notes) | no `{{NOTE: ...}}` placeholders or DRAFT notes remain; verse unchanged, `check_narration --all` matches |
-| margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
+| margin (Ross. 884) | Books 1 and 2 surveyed | 78 entries in `margin/marginalia.tsv` (27 for Book 1, 2026-10-31) |
 | audiobook | all six books built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); every chunk accepted on a strict QA pass except the four noted under "Audiobook" below |
 
 Local repo only, no remote.
@@ -109,7 +109,15 @@ the verse.
   variants, order marks, supplied line ends and the catchword recorded.
   Brown's PDF is in the user's Downloads folder (copyrighted; consult it,
   never copy it into the repo).
-- Books 1 and 3-6 not yet surveyed.
+- Book 1 survey complete (2026-10-31, canvases 12-32): 27 entries. Two
+  verbal notes only (the Greek ὁμοιομέρειαν at 1.830 in the lighter ink,
+  and "Comp̄" = Comparatio against the wormwood simile 1.936-942); the
+  rest are marks (1.7, 1.774, 1.780, 1.1055, the crosses at 1.1092 and
+  1.1102 flanking the great lacuna, order marks at 1.1060-1061, a variant
+  at 1.1093), the omission of 1.305, the eye-skip of 1.585-588 repaired in
+  the margin with two manicules as tie-marks, and fourteen scribal
+  corrections. Brown lists nothing for Book 1. Details in margin/README.md.
+- Books 3-6 not yet surveyed.
 
 ## Book 2 review (done 2026-10-30)
 
@@ -337,7 +345,7 @@ match). Then:
 1. Audio: done. The second-round re-render finished 2026-10-31 (86 chunks
    re-rendered across the six books, every chunk accepted, all six masters
    and review mixes rebuilt; see "Audiobook"). Nothing pending.
-2. Margin survey of Books 1 and 3-6; decide the published layout.
+2. Margin survey of Books 3-6 (Book 1 done 2026-10-31); decide the published layout.
 3. Web build on the Iliad and Odyssey pattern.
 
 ## Audiobook (built 2026-10-30, re-rendered for the second round 2026-10-31)
@@ -399,7 +407,7 @@ Transcription QA calls can drop on a transient TLS error and leave a take
 
 - Notes stage per book: done for all six books (2026-10-30); see "Notes
   stage" above.
-- Margin survey of Books 1 and 3-6; decide the published layout (verse with
+- Margin survey of Books 3-6 (Books 1 and 2 done); decide the published layout (verse with
   Machiavelli's notes keyed to lines, DigiVatLib folio links).
 - OCT collation: done 2026-10-30 against an OCR of Bailey's 1922 text
   (scratch alignment script, monotone fuzzy match, reports kept out of the
