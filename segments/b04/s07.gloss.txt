@@ -1,0 +1,168 @@
+ANALYSIS
+
+907-911
+Latin: [indirect q.] quibus modis somnus (subj.) inriget (pres. subj.) quietem per membra + solvat curas animi e pectore → main: edam (1sg fut.) suavidicis potius quam multis versibus; ut: parvus canor cycni est melior quam ille clamor gruum (dispersus modifies clamor) in aetheriis nubibus austri.
+English: in what ways sleep floods limbs with rest / loosens cares → I shall set out in sweet-spoken rather than many verses; as small song of swan is better than clamor of cranes scattered in high clouds of the south wind.
+MATCH
+
+912-915
+Latin: tu da (imper.) mihi auris animumque; ne negites (2sg subj.) [quae dicam] fieri posse, retroque discedas pectore repulsanti vera dicta; cum tutemet sis in culpa neque cernere possis.
+English: you give me ears and mind, lest you deny that what I say can come to be, and go off with a breast thrusting back true words, when you are at fault and cannot see it.
+MATCH
+
+916-919
+Latin: somnus fit ubi vis animae est distracta per artus, partim foras eiecta recessit, partim contrusa magis concessit in altum; enim tum demum membra dissoluuntur fluuntque (pres. pass./act. pl.).
+English: sleep comes about when force of spirit is scattered, part thrown out has gone, part crowded has withdrawn deeper; for only then limbs are loosened and go slack.
+MATCH
+
+920-924
+Latin: non est dubium quin sensus hic sit opera animai; quem cum sopor inpedit esse, tum putandum est animam perturbatam esse eiectamque foras, non omnem; namque corpus iaceret (impf. subj., unreal) perfusum frigore leti.
+English: no doubt sense is by the work of the spirit; when slumber hinders it, we must think spirit disordered and cast out, not all; for then the body would lie steeped in death's chill.
+MATCH
+
+925-928
+Latin: quippe ubi nulla pars animai latens remaneret in membris (ut ignis obrutus multa cinere latet), unde sensus possit reconflari repente, ut flamma ex igni caeco consurgere? (rhetorical q.)
+English: if no part stayed hidden (as fire lies hidden under much ash), from where could sense be kindled again, as flame rises out of hidden fire?
+MATCH
+
+929-931
+Latin: [ind. q.] quibus rebus haec novitas confiat, unde anima perturbari et corpus languescere possit → expediam (1sg fut.); tu fac ne ventis verba profundam.
+English: by what things this change comes about, from where spirit disordered and body languid → I shall explain; you, see I do not pour words to the winds.
+MATCH
+
+932-936
+Latin: necessum est corpus tundier de externa parte atque pulsarier crebro ictu eius (= air), quoniam tangitur aeriis auris; propterea res omnes fere tectae sunt corio / conchis / callo / cortice.
+English: body must be beaten and battered by their constant blows, since touched by breezes of air; therefore nearly all things covered with hide, shells, hard skin, bark.
+MATCH
+
+937-938
+Latin: aer hic idem (idem modifies aer) verberat interiorem partem spirantibus (dat.), cum ducitur atque reflatur.
+English: on the inner side the air strikes this same body (idem moved to the body), as it is drawn in and breathed out.
+DIFF: "this same" transferred from the air to the body.
+
+939-942
+Latin: quare cum corpus vapulet utrimque et cum plagae perveniant per parva foramina ad primas partis corporis elementaque prima, fit quasi paulatim ruina per membra.
+English: since body beaten on both sides and blows reach through small passages to first parts and first elements, there comes a gradual ruin through the limbs.
+MATCH
+
+943-948
+Latin: conturbantur positurae principiorum corporis atque animi; fit uti pars animai eliciatur, pars abdita cedat introrsum, pars distracta non queat esse coniuncta neque motu mutua fungi; enim natura inter-saepit coetus viasque.
+English: positions of the beginnings of body and mind confused; part of spirit driven out, part withdraws inward, part scattered cannot hold together nor carry out motions in common; for nature walls off meetings and passages.
+MATCH (eliciatur "drawn forth" as "driven out": defensible)
+
+949
+Latin: ergo sensus abit mutatis motibus (abl. abs.) alte.
+English: therefore sense goes away, its motions changed deep within.
+MATCH
+
+950-953
+Latin: quoniam non est quasi quod suffulciat artus, corpus debile fit, membra languescunt, bracchia palpebraeque cadunt, poplitesque cubanti (dat.) saepe tamen summittuntur viresque resolvunt.
+English: since nothing props the frame, body weak, limbs languid, arms and eyelids drop, knees as one lies down often give way and let strength go.
+MATCH
+
+954-956
+Latin: somnus sequitur cibum, quia quae aer facit, haec eadem cibus efficit, dum diditur in venas omnis.
+English: sleep follows food, because what air does, food brings about while spread into all the veins.
+MATCH
+
+956-958
+Latin: sopor ille exstat multo gravissimus quem satur aut lassus capias, quia plurima corpora se conturbant contusa magno labore.
+English: that slumber is by far the heaviest which you take full or tired, since the greatest number of bodies are confused, bruised by great labor.
+MATCH
+
+959-961
+Latin: fit ratione eadem coniectus (noun) partis animai altior, eiectus eius largior, et [anima] divisior inter se ac distractior intus.
+English: by the same principle part of the spirit is crowded more deeply, more cast out, more divided and scattered.
+MATCH (nouns turned to verbs, sense kept)
+
+962-965
+Latin: [quo studio quisque devinctus adhaeret / quibus in rebus sumus morati / in qua ratione mens contenta fuit] → eadem videmur in somnis obire.
+English: whatever pursuit each clings to, things dwelt on, business the mind was intent on → in dreams we seem to go about the same.
+MATCH
+
+966-970
+Latin: causidici causas agere et leges componere; induperatores pugnare, proelia obire; nautae bellum cum ventis contractum degere; nos agere hoc, naturam quaerere rerum semper, inventam patriis chartis exponere.
+English: advocates plead and draw up laws; commanders fight; sailors live through war joined with winds; we do this work, seek nature of things, set it out found in native pages.
+MATCH
+
+971-972
+Latin: cetera studia atque artes videntur animos hominum in somnis frustrata tenere.
+English: other pursuits and arts seen to hold minds of men in dreams, deluding them.
+MATCH
+
+973-983
+Latin: [qui ludis dies multos operas dederunt] videmus, cum destiterunt ea sensibus usurpare, relicuas esse vias patentis in mente qua simulacra venire possint; itaque illa obversantur ante oculos, ut vigilantes videantur cernere saltantis…, carmen chordasque accipere, consessum cernere, decores splendere.
+English: same structure, all infinitives and objects present.
+MATCH
+
+984-986
+Latin: usque adeo magni refert studium atque voluntas, et quibus in rebus consuerint esse operati, non homines solum sed animalia cuncta.
+English: so much does it matter what we are eager for and will, and in what things they are used to busy themselves, not only men but all creatures.
+MATCH
+
+987-990
+Latin: videbis equos, cum membra iacebunt, in somnis sudare, spirare semper, quasi de palma viris contendere, aut quasi carceribus patefactis (abl. abs.) voces edere.
+English: same.
+MATCH
+
+991-997
+Latin: canes venantum iactant crura, voces mittunt, auras redducunt, ut si vestigia ferarum teneant; expergefacti secuntur inania simulacra cervorum, quasi fugae dedita cernant, donec discussis erroribus redeant ad se.
+English: same.
+MATCH
+
+998-1004
+Latin (as printed, disordered): at propago catulorum consueta domi, blanda, instant discutere et corpus de terra corripere; [1000-1003 = 992-995]; proinde quasi ignotas facies atque ora tuantur.
+English: follows the printed text line for line, with a note on the disorder.
+MATCH
+
+1005-1006
+Latin: quo quaeque seminiorum magis sunt aspera, tam magis eadem in somnis saevire necessust.
+English: the fiercer each breed is, the more it must rage in the same way in sleep.
+MATCH (eadem read adverbially: defensible)
+
+1007-1010
+Latin: volucres fugiunt, pinnis sollicitant lucos divom nocturno tempore, si accipitres in somno visae sunt persectantes volantes proelia pugnas[que] edere.
+English: birds take flight, trouble the groves of the gods by night, if in sleep they have seen hawks pursuing, bringing fight and battle.
+MATCH ("hawks seemed" recast as "they have seen hawks")
+
+1011-1014
+Latin: mentes hominum, quae magnis motibus edunt magna, itidem in somnis faciunt geruntque: reges expugnant, capiuntur, proelia miscent, clamorem tollunt quasi si iugulentur ibidem.
+English: same.
+MATCH
+
+1015-1017
+Latin: multi depugnant, gemitus doloribus (abl. cause) edunt, et quasi morsu pantherae leonisve mandantur, clamoribus omnia complent.
+English: many fight it out, give groans "for their pains"; as though chewed by panther or lion, fill everything with shouts.
+DIFF: the English idiom "for their pains" means "as a reward for their trouble", not "from pain".
+
+1018-1019
+Latin: multi de magnis rebus per somnum loquuntur, indicio sui facti fuere.
+English: same.
+MATCH
+
+1020-1023
+Latin: multi mortem obeunt; multi, ut quasi praecipitent de montibus, exterruntur, et ex somno quasi mentibus capti vix ad se redeunt, permoti corporis aestu.
+English: same.
+MATCH
+
+1024-1025
+Latin: sitiens adsidet propter flumen aut fontem, totum amnem prope faucibus occupat.
+English: same.
+MATCH
+
+1026-1029
+Latin: puri, si propter lacum (sg.) ac dolia (pl.) curta somno devincti credunt se vestem extollere, umorem corporis fundunt, cum Babylonica rigantur.
+English: the cleanly, if beside a pool or "a cut-down jar" (sg.) believe they lift their clothes, pour out liquid; coverlets are drenched.
+DIFF: dolia plural becomes a single jar.
+
+1030-1036
+Latin: [quibus semen insinuatur, ubi ipsa dies matura (modifies dies) membris creavit (sc. semen)] conveniunt simulacra e corpore quoque, nuntia voltus coloris, qui (masc. sg., face or color) ciet inritans loca turgida; ut profundant fluctus vestemque cruentent.
+English: when the day has made it ripe ("ripe" moved to the seed); images come, heralds of face and color, "which stir" (pl., the images now act); so that they pour out and stain.
+DIFF: matura transferred from dies to the seed; the singular qui ciet becomes a plural with the images as subject.
+
+FINDINGS
+1034	GRAMMAR	MINOR	0.60	"qui ciet inritans" is masculine singular and refers to the face or colour (simulacra is neuter plural), but the English plural "which stir" makes the images the agent; suggested fix: "which stirs and excites the places swollen with much seed,"
+938	GRAMMAR	MINOR	0.55	"aer hic idem" (937-938) says it is this same air that strikes the inner part, but the English moves "this same" onto the body; suggested fix: "strikes it, this same air, as it is drawn in and breathed out."
+1031	GRAMMAR	MINOR	0.50	"ipsa dies matura … creavit" means the ripe time itself has created the seed in the limbs, but the English reads matura as making the seed ripe; suggested fix: "when ripe time itself has created it in their limbs,"
+1015	AMBIGUITY	MINOR	0.50	"gemitus doloribus edunt" means they groan from pain, but the English idiom "for their pains" means "as a reward for their trouble"; suggested fix: "Many fight it out, and give out groans in their pain,"
+1026	GRAMMAR	MINOR	0.50	"dolia curta" is plural, but the English has "a cut-down jar"; suggested fix: "Often the cleanly, if beside a pool or cut-down jars"

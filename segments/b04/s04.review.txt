@@ -28,8 +28,8 @@
   527  since they are able to strike upon the senses.
   528  Further, the voice often scrapes the throat, and shouting
   529  makes the windpipe rougher as it goes out,
-  530  since, rising in a greater crowd through a narrow way,
-  531  the first-beginnings of voices have begun to go out.
+  530  since, whenever in a greater crowd through a narrow way
+  531  the first-beginnings of voices, risen, have begun to go out.
   532  Clearly the door of the mouth too is scraped when it is filled.
   533  There is no doubt, then, that voices and words consist
   534  of bodily beginnings, since they are able to do harm. {{NOTE: principia, "beginnings", Lucretius's alternative term for the first-beginnings (primordia, 4.531)}}
@@ -106,7 +106,7 @@
   605  has sprung forth and leapt apart into many, as a spark of fire
   606  often spreads itself out into its own fires.
   607  Therefore places hidden away behind are filled with voices,
-  608  which all around are astir and roused with sound.
+  608  and all the places round about are astir and roused with sound.
   609  But images all travel along straight paths
   610  once they are sent out; and so no one can see
   611  over a wall, but can take in voices from beyond it.

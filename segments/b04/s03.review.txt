@@ -57,7 +57,7 @@
   435  lest you lightly believe the senses are shaken on every side.
   436  But to those who do not know the sea, ships in harbor
   437  seem crippled, their stern-posts broken, as they strain against the waves.
-  438  For whatever part of the oars is raised above the salt spray
+  438  For whatever part of the oars is raised above the brine
   439  is straight, and the rudders are straight above;
   440  but the parts that go down sunk in the water seem broken back,
   441  all turned about and bent, returning upward, upside down,
@@ -105,8 +105,8 @@
   483  Or will reasoning, sprung from a false sense, have the power
   484  to speak against them, when it has sprung wholly from the senses?
   485  And unless they are true, all reasoning too becomes false.
-  486  Or will the eyes be able to correct the ears, or the ears
-  487  the touch? Or again will the mouth's taste accuse this touch,
+  486  Or will the ears be able to correct the eyes, or touch
+  487  the ears? Or again will the mouth's taste accuse this touch,
   488  or will the nostrils confute it, or the eyes refute it?
   489  It is not so, I think. For to each a separate power
   490  has been allotted, each has its own force, and so it must be

@@ -1,0 +1,164 @@
+ANALYSIS
+
+**1192-1196**
+- Latin: mulier (subj) nec semper suspirat (pres ind act sg), ficto amore; rel. quae iungit (pres) corpus cum corpore, conplexa (ptc → mulier), et tenet, umectans (ptc → mulier) oscula adsuctis labris; nam facit (pres) ex animo saepe, et quaerens (→ mulier) communia gaudia sollicitat (pres) [inf.] spatium decurrere amoris.
+- English: woman does not always sigh with feigned love when she joins / holds, wetting kisses with sucking lips; for she does it from the heart, seeking common joys, urges him to run the course.
+- MATCH. "His" kisses and "whole" course are small glosses, below threshold.
+
+**1197-1200**
+- Latin: nec ratione alia possent (impf subj pl) volucres, armenta, ferae, pecudes, equae subsidere maribus; si non ardet (pres) natura ipsa abundans, quod illarum subat, et retractat Venerem salientum laeta.
+- English: nor could [they] submit beneath males, were it not that their nature, being in heat, burns abundantly and gladly answers the Venus of the mounting males.
+- MATCH
+
+**1201-1205**
+- Latin: nonne vides (2sg) quos voluptas mutua vinxit (perf), ut excrucientur (pres subj pass) in vinclis communibus; cum canes aventes discedere tendunt (pres) divorsi cupide summis viribus; quom haerent (pres) compagibus Veneris.
+- English: same structure; dogs longing to part strain apart while stuck fast.
+- MATCH
+
+**1206-1207**
+- Latin: quod facerent (impf subj) numquam, nisi nossent (plpf subj) mutua gaudia; quae possent iacere in fraudem vinctosque tenere.
+- English: same.
+- MATCH
+
+**1208**
+- Latin: quare... est communis voluptas.
+- English: same.
+- MATCH
+
+**1209-1212a**
+- Latin: quom femina (subj) vicit (perf) virilem vim subita vi corripuitque, commiscendo semine; tum fiunt (pres pl) similes matrum materno semine, ut patribus patrio.
+- English: same; "children" is a supplied subject.
+- MATCH
+
+**1212b-1217**
+- Latin: quos esse vides utriusque figurae, miscentes vulta parentum, crescunt (pres pl) de corpore patrio et materno sanguine; cum ardor mutuus conspirans conflixit (perf) semina excita obvia; et neque utrum superavit nec superatumst.
+- English: same.
+- MATCH
+
+**1218-1222**
+- Latin: fit ut possint (subj) existere similes avorum et referant figuras proavorum; quia parentes celant (pres) primordia multa mixta in corpore suo; quae (primordia) patres tradunt patribus, a stirpe profecta (→ quae).
+- English: same. The ptc. "starting from the stock" could be read as attaching to "fathers" rather than first-beginnings, but this is slight.
+- MATCH
+
+**1223-1226**
+- Latin: inde Venus producit (pres) figuras varia sorte, refert voltus vocesque comasque; quandoquidem haec fiunt de semine certo nihilo magis quam facies, corpora, membra.
+- English: "no less than". This renders the intended equivalence, which Bailey and Rouse also read this way.
+- MATCH
+
+**1227-1232**
+- Latin: saeclum muliebre oritur de semine patrio; mares existunt creti materno corpore; partus constat (pres) duplici semine; id quod creatur, utri similest magis, eius habet plus parte aequa; quod cernere possis, sive suboles virum sive origo muliebris.
+- English: same.
+- MATCH
+
+**1233-1235**
+- Latin: nec numina divina absterrent (pres pl) cuiquam satum genitalem, ne appelletur (pres subj pass) pater a gnatis, et ut exigat (subj) aevom sterili Venere.
+- English: same.
+- MATCH
+
+**1236-1238**
+- Latin: quod plerumque putant; maesti conspergunt aras multo sanguine, adolent altaria donis; ut reddant (subj) uxores gravidas semine largo.
+- English: same.
+- MATCH
+
+**1239**
+- Latin: ne quiquam fatigant numen divom sortisque.
+- English: same.
+- MATCH
+
+**1240-1241**
+- Latin: steriles sunt partim nimium crasso semine, et (partim) liquido tenuique praeter iustum.
+- English: same.
+- MATCH
+
+**1242-1243**
+- Latin: tenve, quia non potis est adfigere adhaesum locis, liquitur (pres pass) et revocatum cedit abortu.
+- English: same.
+- MATCH
+
+**1244-1247**
+- Latin: crassius, quoniam mittitur concretius aequo, aut non provolat tam prolixo ictu, aut nequit penetrare locos aeque, aut penetratum semen aegre admiscetur muliebri semine.
+- English: same.
+- MATCH
+
+**1248**
+- Latin: harmoniae Veneris videntur multum differre.
+- English: same.
+- MATCH
+
+**1249-1250**
+- Latin: alii complent alias magis; aliae succipiunt pondus ex aliis magis, gravescunt.
+- English: same.
+- MATCH
+
+**1251-1253**
+- Latin: multae fuerunt steriles ante pluribus Hymenaeis; nactae sunt post unde possent (subj) suscipere puellos et ditescere partu dulci.
+- English: same.
+- MATCH
+
+**1254-1256**
+- Latin: quibus uxores fecundae nequissent (plpf subj) parere; inventast illis compar natura, ut possent munire senectam gnatis.
+- English: same ("though fertile" is concessive but defensible).
+- MATCH
+
+**1257-1259**
+- Latin: adeo refert ut semina possint commisceri seminibus genitaliter apta, crassaque conveniant liquidis et liquida crassis.
+- English: same.
+- MATCH
+
+**1260-1262**
+- Latin: refert quo victu vita colatur; aliis rebus semina concrescunt membris, aliis extenvantur tabentque.
+- English: same.
+- MATCH
+
+**1263-1267**
+- Latin: [indir. q.] quibus modis tractetur (subj pass) voluptas: id permagni refert; uxores putantur concipere magis more ferarum ritu quadrupedum, quia semina possunt sumere loca, pectoribus positis, lumbis sublatis (abl abs).
+- English: same.
+- MATCH
+
+**1268**
+- Latin: nec opus sunt uxoribus molles motus hilum.
+- English: same.
+- MATCH
+
+**1269-1273**
+- Latin: mulier prohibet se concipere, repugnat, si laeta retractat Venerem viri clunibus, ciet fluctus exossato omni pectore; eicit sulcum recta regione viaque vomeris, avertit ictum seminis locis.
+- English: same.
+- MATCH
+
+**1274-1276**
+- Latin: scorta consuerunt moveri sua causa, ne complerentur gravidaeque iacerent, et ut Venus concinnior esset viris.
+- English: same.
+- MATCH
+
+**1277**
+- Latin: quod coniugibus nostris nil opus esse videtur.
+- English: same.
+- MATCH
+
+**1278-1279**
+- Latin: nec divinitus Venerisque sagittis fit ut muliercula deteriore forma ametur (pres subj pass).
+- English: same.
+- MATCH
+
+**1280-1282**
+- Latin: femina ipsa facit factis, morigeris modis, corpore munde culto, ut (femina) insuescat te degere vitam secum.
+- English: same (she accustoms you).
+- MATCH
+
+**1283**
+- Latin: quod super est, consuetudo concinnat amorem.
+- English: same.
+- MATCH
+
+**1284-1285**
+- Latin: quod tunditur crebro ictu quamvis leviter, vincitur tamen longo spatio, labascit.
+- English: same.
+- MATCH
+
+**1286-1287**
+- Latin: nonne vides guttas umoris cadentis in saxa pertundere saxa longo spatio?
+- English: same.
+- MATCH
+
+FINDINGS
+NONE

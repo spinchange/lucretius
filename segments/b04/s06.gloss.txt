@@ -1,0 +1,224 @@
+ANALYSIS
+
+777-778
+L: quaeruntur (pres. ind. pass. pl.) multa; nobis clarandumst (gerundive, dat. agent) multa; cond. si avemus (1pl) exponere res plane.
+E: many questions arise; much we must make clear; if we wish to set out the matter plainly.
+MATCH
+
+779-780
+L: quaeritur; indirect q. quare mens (subj.) cogitet (pres. subj.) eius id ipsum, quod cuique libido venerit (perf. subj.); extemplo.
+E: it is asked why the mind thinks of that very thing at once, whatever has come into anyone's fancy.
+MATCH
+
+781-783
+L: anne simulacra (subj.) tuentur voluntatem nostram; et imago occurrit nobis simul ac volumus; si mare/terram/caelum cordist.
+E: do the images keep watch upon our will; does an image meet us the moment we wish; if our heart is set on sea, earth, sky.
+MATCH
+
+784-785
+L: natura (subj.) creat paratque omnia (conventus, pompam, convivia, pugnas) sub verbo; -ne interrog.
+E: does nature create them all at a word and make them ready.
+MATCH
+
+786-787
+L: cum praesertim aliis animus (subj.) cogitet (subj.) res omnis longe dissimilis, eadem in regione locoque.
+E: especially when the minds of others think of things all far unlike, in the same region and place.
+MATCH
+
+788-791
+L: quid porro, cum cernimus (1pl) simulacra procedere in numerum et membra movere in somnis; cum (simulacra) bracchia mittunt alternis, repetunt gestum oculis pede convenienti.
+E: what further, when we see the images advancing in rhythm, moving limbs; when they fling out arms by turns and repeat the gesture to our eyes with matching foot.
+MATCH
+
+792-793
+L: simulacra madent arte et vagantur docta; purpose ut possint facere ludos nocturno tempore.
+E: images steeped in art, wander well taught, so that they can put on shows at night.
+MATCH
+
+794-798
+L: an illud erit verum? quia in uno tempore, cum sentimus (= cum vox emittitur una), tempora multa latent, quae ratio comperit esse, propterea fit ut quovis tempore quaeque simulacra praesto sint, parata in quisque locis.
+E: or will this be the truth? because in one time, when we perceive (when one sound is uttered), many times lie hidden which reasoning finds to exist, therefore at any time every image is at hand, ready in every place.
+MATCH
+
+799
+L: tanta est mobilitas et copia rerum.
+E: so great the mobility and abundance of things.
+MATCH
+
+800-801
+L: hoc, ubi prima perit et altera nata est alio statu, prior videtur gestum mutasse.
+E: here, when the first perishes and a second is born in another posture, the earlier seems to have changed its gesture.
+MATCH
+
+802-804
+L: quia tenvia sunt, animus non potis est cernere acute nisi quae contendit; proinde omnia quae sunt praeterea pereunt, nisi quae ex sese ipse paravit.
+E: because they are thin, the mind cannot sharply see any but those it strains toward; so all beyond these perish, except those it has made itself ready for.
+MATCH
+
+805-806
+L: (animus) parat sese porro, sperat futurum ut videat quod consequitur rem quamque; fit ergo.
+E: it makes itself ready, hopes it will come about that it sees what follows each thing; and so it does.
+MATCH (porro left implicit)
+
+807-810
+L: nonne vides oculos, cum coeperunt cernere quae tenvia sunt, contendere se atque parare, nec sine eo fieri posse ut cernamus acute? (808 = 804, interpolated)
+E: do you not see that the eyes, when they have begun to look at thin things, strain and make themselves ready, and that without this we cannot see sharply? (808 repeated with note)
+MATCH
+
+811-813
+L: noscere possis (2sg pot. subj.), si non advertas animum, proinde esse quasi (res) omni tempore semotum fuerit remotumque, etiam in rebus apertis.
+E: you can recognize, even with things in plain view, that if you do not turn your mind, it is as if they were all the time set apart and far removed.
+MATCH
+
+814-815
+L: cur mirumst, si animus perdit cetera praeter quibus deditus est ipse?
+E: why is it a wonder if the mind loses all else except what it is given over to?
+MATCH
+
+816-817
+L: adopinamur (1pl) maxima de signis parvis; nos ipsi induimus nos in fraudem frustraminis.
+E: we form greatest conjectures from small signs; lead ourselves into the snare of self-deception.
+MATCH
+
+818-821
+L: fit ut interdum non suppeditetur imago eiusdem generis, sed femina quae fuit ante videatur vir factus adesse in manibus, aut alia ex alia facies aetasque sequatur.
+E: at times the image supplied is not of the same kind; what was a woman seems there in our hands made a man; or one face and age follow another.
+MATCH
+
+822
+L: sopor atque oblivia curant ne miremur.
+E: sleep and forgetfulness see to it that we do not wonder.
+MATCH
+
+823-824
+L: (corrupt; emended) illud vitium vehementer [avemus te] effugere, errorem vitare praemetuenter.
+E: a fault I earnestly want you to flee, an error to avoid with foresight (noted crux).
+MATCH
+
+825-831
+L: ne facias (jussive) lumina oculorum creata ut prospicere possimus; et fastigia surarum ac feminum, fundata pedibus, ideo posse plicari ut proferre queamus passus; bracchia apta ex lacertis esse, manus datas ministras; ut facere possemus quae foret usus.
+E: do not think the eyes were created so we might look before us; that calf and thigh, set on the feet, can bend so we could take strides; forearms fitted to upper arms, hands given as servants; so we could do what would be of use.
+MATCH
+
+832-833
+L: cetera de genere hoc quaecumque interpretantur, omnia sunt praepostera perversa ratione.
+E: all other things of this kind which men expound are backward, by reasoning turned upside down.
+MATCH
+
+834-835
+L: quoniam nil natumst in corpore ideo ut uti possemus, sed quod natumst id procreat usum.
+E: since nothing was born in the body so that we could use it, but what is born creates its use.
+MATCH
+
+836-842
+L: nec fuit videre ante lumina nata; nec orare dictis prius quam lingua creatast; origo linguae praecessit sermonem; aures creatae prius quam sonus auditus; membra ante fuere quam foret usus; haud potuere crescere utendi causa.
+E: no seeing before eyes born; no pleading before the tongue; tongue's origin long before speech; ears long before sound heard; limbs existed before use; they cannot have grown for the sake of using.
+MATCH
+
+843-847
+L: conferre manu certamina, lacerare artus, foedare membra cruore ante fuit quam tela volarent; natura coegit vitare volnus prius quam laeva daret obiectum parmai per artem.
+E: to join hand to hand in battle, to mangle and befoul with gore came before weapons flew; nature compelled men to avoid a wound before the left arm by art held up the shield.
+MATCH
+
+848-850
+L: mandare corpus quieti antiquius est quam strata lecti; sedare sitim prius natum est quam pocula.
+E: giving the body to rest older than a bed's coverings; to quench thirst came before cups were born.
+MATCH
+
+851-852
+L: haec possunt credier cognita utendi causa, quae ex usu vitaque reperta sunt.
+E: these may be believed devised for the sake of using, since found from use and life.
+MATCH
+
+853-854
+L: illa seorsum sunt omnia, quae prius nata ipsa post dedere notitiam suae utilitatis.
+E: all those stand apart which, born first, afterwards gave the notion of their usefulness.
+MATCH
+
+855-857
+L: quo genere sensus et membra videmus; procul est ut credere possis (ea) potuisse creari ob officium utilitatis.
+E: of this kind we see senses and limbs; you are far from able to believe they could have been created for usefulness.
+MATCH
+
+858-859
+L: non est mirandum quod natura ipsa corporis cuiusque animantis quaerit cibum.
+E: no cause for wonder that the nature of each creature's body seeks food.
+MATCH
+
+860-864
+L: docui corpora multa fluere et recedere rebus; plurima debent (fluere) ex animalibus; quae (animalia) quia exercita sunt motu, multa exhalantur per os cum languida anhelant; multa per sudorem feruntur pressa ex alto.
+E: I have taught many bodies flow from things; most must go from living creatures; since they are worked by motion, many are breathed out when, weary, they pant; many pressed from deep and carried off in sweat.
+MATCH
+
+865-866
+L: rarescit corpus, subruitur omnis natura; dolor consequitur quam rem.
+E: body grows thin, whole nature undermined, pain follows.
+MATCH
+
+867-869
+L: capitur cibus ut suffulciat artus, recreet vires interdatus, ut opturet amorem edendi patentem per membra ac venas.
+E: food taken to prop the frame, renew strength given within, stop up the gaping desire through limbs and veins.
+MATCH
+
+870-874
+L: umor discedit in loca quae poscunt umorem; liquor adveniens dissupat corpora vaporis glomerata, quae praebent incendia stomacho, restinguit ut ignem, ne calor aridus possit urere artus.
+E: moisture goes to places calling for it; the liquid scatters the massed bodies of heat that kindle fires in the stomach and puts them out, so dry heat can burn no longer.
+MATCH
+
+875-876
+L: sitis abluitur de corpore nostro; expletur cupido ieiuna.
+E: thirst washed out of our body; hungry desire filled.
+MATCH
+
+877-880
+L: dicam qui fiat ut passus proferre queamus cum volumus, quare datum sit membra movere, quae res insuerit protrudere tantum oneris; tu percipe dicta.
+E: I shall tell how we step forward when we wish, why we may move limbs, what has grown used to pushing this weight; take in my words.
+MATCH
+
+881-882
+L: dico simulacra meandi primum (adv.) accidere animo et pulsare animum.
+E: I say that first images of walking come to the mind and strike it.
+DIFF: "first" sits where it reads as an adjective on "images"
+
+883-884
+L: inde voluntas fit; neque quisquam incipit facere ullam rem antequam mens providit quid velit.
+E: from there will arises; no one begins anything before the mind has foreseen what it wills.
+MATCH
+
+885
+L: id quod providet, illius rei constat imago.
+E: of what it foresees, an image of that thing exists.
+MATCH
+
+886-889
+L: cum animus se commovet ut velit ire, ferit extemplo vim animai dissitam per corpus; facile est, quoniam (vis) coniuncta tenetur.
+E: when the mind stirs so it wills to go, it at once strikes the force of spirit scattered through the body; easy, since it is held joined.
+MATCH
+
+890-891
+L: ea ferit corpus; tota moles protruditur et movetur paulatim.
+E: this strikes the body; the whole mass pushed forward and moved little by little.
+MATCH
+
+892-896a
+L: corpus rarescit; aer, qui semper mobilis extat, venit per patefacta foramina penetratque largus, dispargitur ad partis minutas.
+E: body grows loose; air, always quick to move, comes through opened passages and enters in plenty, dispersed into every smallest part.
+MATCH
+
+896b-897
+L: fit rebus duabus utrimque ut corpus feratur ut navis velis ventoque.
+E: by two things from two sides the body is carried like a ship by sails and wind.
+MATCH
+
+898-900
+L: nec mirabile constat quod corpuscula tantula possunt contorquere tantum corpus et convertere onus.
+E: nor a wonder that bodies so tiny can turn so great a body and swing round our weight.
+MATCH
+
+901-906
+L: ventus tenvis trudit agens navem magno molimine; manus una regit (navem) euntem quanto vis impete; gubernaclum unum contorquet quo libet; machina commovet multa pondere magno per trocleas et tympana, sustollit levi nisu.
+E: the wind drives a great ship with great momentum; one hand rules it at whatever speed; one rudder turns it wherever it pleases; a machine moves and lifts heavy things by pulleys and treadwheels with slight effort.
+MATCH
+
+FINDINGS
+881	AMBIGUITY	MINOR	0.50	"simulacra meandi primum accidere" has primum as an adverb (first, the images come), but "I say that first images of walking come" reads naturally as "the first images", an initial set of images; "I say, first, that images of walking come"

@@ -1,0 +1,57 @@
+ANALYSIS
+615-616. L: lingua atque palatum (subj) habent (pres ind act pl) plusculum rationis, plus operai; hoc = in this, qui sentimus sucum (rel). E: tongue and palate hold more reasoning and labor; "as for how we perceive flavor". MATCH
+617-619. L: sucum sentimus (1pl) in ore, cum cibum mandendo exprimimus; ceu siquis spongiam plenam aquai premere ac siccare coepit. E: same; sponge simile kept. MATCH
+620-621. L: inde quod exprimimus (rel, obj) diditur (pass sg) per caulas palati et per flexa foramina rarae linguae. E: all we press out is spread through passages and pores. MATCH
+622-626. L: ubi corpora suci levia sunt, attingunt et tractant (subj corpora) templa linguae; at contra pungunt lacerantque coorta, quanto quaeque magis asperitate repleta. E: smooth bodies touch and handle; "they" prick and tear, the more each is filled with roughness. MATCH
+627-629. L: voluptas est e suco fine palati; cum (sucus) praecipitavit per fauces, nulla voluptas, dum diditur omnis in artus. E: pleasure within the palate's bounds; when "it" plunges, no pleasure while all is spread. MATCH (the antecedent of "it" is loose but the sense holds)
+630-632. L: nec refert quo victu corpus alatur, dum modo quod capias concoctum didere possis et tenorem stomachi servare. E: same. MATCH
+633-637. L: expediam (1sg fut) ut videamus qui cibus aliis alius sit, quareve quod aliis triste, aliis perdulce videri possit; tantaque distantia est (ind) ut quod aliis cibus, aliis venenum fuat. E: same; 636 folded under "why". MATCH (defensible)
+638-639. L: est itaque (consequence) ut serpens, tacta salivis hominis, disperit ac se mandendo conficit. E: "for indeed" (ground) there is a snake that perishes and gnaws itself. DIFF: itaque rendered as causal "for indeed"
+640-641. L: veratrum est nobis venenum, at capris et coturnicibus adipes auget. E: same. MATCH
+642-644. L: ut cognoscere possis quibus rebus id fiat, decet meminisse semina mixta teneri. E: same. MATCH
+645-648. L: omnes animantes (subj), ut dissimiles sunt extrinsecus et generatim circumcaesura coercet, proinde constant seminibus variantque figura. E: same. MATCH
+649-651. L: cum semina distent, necesse est intervalla viasque differre in membris, ore, palato. E: same. MATCH
+652-654. L: quaedam minora maioraque esse debent; triquetra aliis, quadrata aliis; multa rutunda, quaedam multangula. E: same. MATCH
+655-657. L: ut figurarum ratio motusque reposcunt, proinde figurae foraminibus differre debent et viae variare ac textura coercet. E: same. MATCH
+658-662. L: ubi quod suave aliis, aliis fit amarum, illi cui suave levissima corpora intrare debent; quibus acerba, aspera hamataque penetrant fauces. E: same. MATCH
+663. L: facile est cognoscere quaeque. E: same. MATCH
+664-670. L: ubi cui febris coorta est bili superante aut vis morbi excita est, totum corpus perturbatur, positurae principiorum commutantur; fit ut quae corpora prius conveniebant nunc non conveniant, et cetera magis apta sint quae penetrata sensum acerbum progignere queunt. E: same. MATCH
+671-672. L: utraque enim commixta sunt in sapore mellis; id saepe ostendimus ante. E: same. MATCH
+673-674a. L: age, agam (1sg fut) quo pacto adiectus odoris naris tangat. E: same. MATCH
+674-676. L: necesse est res multas esse unde fluctus odorum volvat se; putandum est fluere, mitti, spargi. E: same. MATCH
+677-678a. L: alius aliis animantibus aptus, propter dissimiles formas. E: same. MATCH
+678-683. L: apes ducuntur odore mellis, volturii cadaveribus; vis canum ducit quo ungula tulerit gressum; anser praesentit humanum odorem. E: same (passive for praesentit). MATCH
+684-686. L: nidor datus quemque ad pabula ducit et resilire a veneno cogit; saecla servantur. E: same. MATCH
+687-688. L: hic odor est ut alter alio longius permitti possit. E: same. MATCH
+689-691. L: haud quisquam eorum tam longe fertur quam sonitus, vox, mitto res quae feriunt acies. E: same. MATCH
+692-694. L: errabundus tarde venit ac perit ante paulatim distractus; quia vix ex alto emittitur. E: same. MATCH
+695-697. L: quod fracta, contrita, conlabefacta magis redolere videntur, significat odores penitus fluere. E: same. MATCH
+698-700. L: licet videre (odorem) maioribus principiis creatum quam vox, quoniam non penetrat per saepta saxea. E: same. MATCH
+701-704. L: videbis non tam facile esse investigare in qua regione sit quod olet; refrigescit plaga, nec calida decurrunt nuntia. E: same. MATCH
+705. L: errant canes itaque et vestigia quaerunt. E: same. MATCH
+706-709. L: nec hoc solis in odoribus saporibusque, sed species colores non ita conveniunt ut non sint aliis quaedam magis acria visu. E: same. MATCH
+710-713. L: gallum (obj) leones (subj) noenu queunt contra constare inque tueri; meminere fugai. E: same. MATCH
+714-721. L: quia sunt semina quae oculis inmissa interfodiunt, dolorem praebent, ut nequeant durare; cum haec nostras acies nil laedere possint, aut quia non penetrant aut quod exitus liber datur, ne remorando laedere possint. E: same. MATCH
+722-723. L: accipe quae res animum moveant, percipe unde veniant. E: same. MATCH
+724-727. L: dico simulacra multa vagari tenvia, quae facile iunguntur obvia, ut aranea brattea. E: same. MATCH
+728-731. L: haec multo magis tenvia quam quae oculos percipiunt, quoniam penetrant per rara et animi naturam cient sensumque lacessunt. E: same. MATCH
+732-734. L: videmus Centauros, Scyllarum membra, Cerbereas facies, simulacra eorum quorum ossa tellus amplectitur. E: same; note claims 1.135 is verbatim. DIFF (note only: 1.135 reads "morte obita quorum", different word order)
+735-738. L: quoniam simulacra omnigenus feruntur, partim sponte in aere fiunt, partim ab rebus recedunt, et quae ex figuris horum confiunt. E: same. MATCH
+739-740. L: non fit imago Centauri ex vivo, quoniam nulla talis natura fuit. E: same. MATCH
+741-743. L: ubi imago equi atque hominis casu convenit, haerescit facile. E: plural images meet, cling. MATCH
+744. L: cetera eadem ratione creantur. E: same. MATCH
+745-748. L: cum (simulacra) mobiliter feruntur, quaelibet una imago animum uno ictu commovet; mens tenvis et mobilis. E: same. MATCH
+749. L: possis cognoscere haec fieri ut memoro. E: same. MATCH
+750-751. L: quatinus hoc illi simile est, simili ratione fieri necesse est. E: same. MATCH
+752-756. L: quoniam docui me cernere leones per simulacra, licet scire mentem moveri per simulacra, quae videt aeque atque oculi, nisi quod tenvia cernit. E: same. MATCH
+757-761. L: nec ratione alia mens animi vigilat cum somnus profudit, nisi quod eadem simulacra animos lacessunt, ut videamur cernere eum quem mors potita est. E: same. MATCH
+762-764. L: natura cogit hoc fieri, quod sensus quiescunt nec possunt falsum convincere. E: same. MATCH
+765-767. L: meminisse iacet languetque; nec dissentit (memory, subj) [eum, quem mens vivom cernere credit, iam pridem mortis potitum esse]: the one seen alive is the one long dead. E: memory does not protest "that this one, in death's grip, is not the one the mind believes it sees alive". DIFF: added negation turns the embedded identity (seen-alive = long-dead) into its denial
+768-770. L: non mirum simulacra moveri, iactare bracchia; fit ut imago facere hoc videatur. E: same. MATCH
+771-772. L: ubi prima perit et altera nata est alio statu, prior gestum mutasse videtur. E: same. MATCH
+773-776. L: putandum est id celeri ratione fieri: tanta mobilitas, rerum copia, copia particularum quovis tempore sensibili ut possit suppeditare. E: same; note says particulae "used here only". DIFF (note only: particulae also at 4.261, per the register)
+FINDINGS
+4.766	MISTRANSLATION	CRITICAL	0.75	"nec dissentit eum mortis letique potitum / iam pridem, quem mens vivom se cernere credit" says memory does not object that the one the mind thinks it sees alive is long since dead; the English inserts "is not the one", so the embedded proposition denies the identity the Latin asserts (4.767 also). Fix 766-767: "and does not protest that this one is in the grip of death and doom / long since, whom the mind believes it sees alive."
+4.776	ADDITION	MINOR	0.60	The note on "particularum" claims Lucretius uses the word "here only", but the register records particulae at 4.261 (and 3.665, 3.708); the verse is correct and only the note's claim is false. Fix: "{{NOTE: particulae, Lucretius's diminutive (as at 4.261); the tiny parts are the images themselves, not the first-beginnings}}"
+4.638	MISTRANSLATION	MINOR	0.55	"est itaque ut serpens" presents the snake as a consequence and illustration of 636-637 ("and so"), but "for indeed" turns it into a ground; the register's principle 4 treats connectives as structural. Fix: "and so it is that there is a snake which, touched by a man's spittle,"
+4.734	ADDITION	MINOR	0.50	The note says the line "repeats 1.135 verbatim in the Latin", but 1.135 reads "morte obita quorum tellus amplectitur ossa" while 4.734 reads "quorum morte obita": the words are the same and the order differs. Fix: "{{NOTE: repeats 1.135 in the Latin, with the words reordered; the English repeats its own line}}"

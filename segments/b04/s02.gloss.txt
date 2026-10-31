@@ -1,0 +1,120 @@
+ANALYSIS
+
+269-270
+L: [imperative] percipe (2sg) + indirect question cur videatur (pres subj) imago ultra speculum; nam certe videtur (3sg) [imago] penitus remota (nom fem, modifies imago).
+E: learn (imperative) why the image is seen beyond the mirror; for it is seen withdrawn deep within.
+MATCH
+
+271-274
+L: quod genus = just as; illa foris quae transpiciuntur (pres pass pl), cum ianua praebet transpectum apertum, facitque ut multa foris videantur ex aedibus; enim is visus quoque fit duplici geminoque aere.
+E: like things outside that are seen through, when a doorway offers an open view and lets many things be seen from the house; for that sight too comes about through double, twin air.
+MATCH
+
+275-278
+L: enim primus cernitur aer citra postes; inde fores secuntur dextra laevaque; post lux extraria perterget oculos, et aer alter, et illa foris quae transpiciuntur.
+E: first the air on this side of the doorposts is discerned; then the doors follow right and left; after that an outer light sweeps through the eyes, and a second air, and the things outside.
+MATCH
+
+279-288
+L: sic ubi imago speculi se proiecit, dum venit ad acies, protrudit agitque aera (qui inter se oculosque locatus est), et facit ut hunc omnem sentire queamus prius quam speculum; sed ubi speculum sensimus, continuo imago quae fertur a nobis in eum pervenit, et reiecta revisit oculos, atque alium aera propellens volvit, et facit ut hunc prius quam se videamus; eoque [imago] videtur semota tantum distare ab speculo.
+E: same clauses, same subjects (image of the mirror drives the air; image carried from us arrives, is thrown back, rolls another air; makes us see this air before itself; seems removed by so much).
+MATCH
+
+289-291
+L: quare minime mirarier est par [lacuna] illis quae reddunt visum ex aequore speculorum, quoniam res utraque confit aeribus binis.
+E: therefore it is right to wonder not at all at those that give back a sight from mirrors' surface, since in either case the thing is brought about by two airs.
+MATCH
+
+292-299
+L: ea pars membrorum quae dextera est, fit ut videatur in laeva in speculis, eo quod cum imago offendit planitiem, non convertitur incolumis, sed recta retrorsum eliditur, ut si quis adlidat (pres subj) personam creteam (prius quam arida sit) pilae trabive, atque si ea continuo servet figuram rectam fronte et ipsa sese exprimat elisam retro.
+E: right part seen on the left, because the image striking the flat is not turned about unharmed but dashed straight backward, as if someone should dash a clay mask before it was dry against pillar or beam, and it should keep its features straight in front and, dashed back, press out its form in reverse.
+MATCH
+
+300-301
+L: fiet ut oculus qui dexter fuerit idem nunc sit laevus, et e laevo sit mutua dexter.
+E: the eye that was right is now left, and the left in exchange right.
+MATCH
+
+302-303
+L: fit quoque ut imago tradatur de speculo in speculum, ut etiam quinque aut sex simulacra fieri suerint.
+E: an image is passed mirror to mirror, so that five or six images are accustomed to be made.
+MATCH
+
+304-307
+L: nam quaecumque latebunt (fut) retro parte interiore, inde tamen, quamvis torte penitusque remota (neut pl, the things), omnia educta per flexos aditus licebit (fut) haec pluribus speculis videantur in aedibus esse.
+E: whatever things lie hidden in the inner part of a house, even so, however winding and deep withdrawn the way, all can be brought out through crooked passages and by many mirrors be seen to be within the house.
+MATCH (remota transferred from the things to "the way"; sense kept)
+
+308-310
+L: usque adeo translucet imago speculo in speculum; et cum laeva data est, fit rursum ut dextera fiat; inde retro rursum redit et convertit eodem.
+E: so thoroughly does the image shine across; when handed on as left it becomes right again; then it turns back again and returns to the same.
+MATCH
+
+311-317
+L: quaecumque latuscula speculorum sunt praedita flexura adsimili lateris nostri, ea propter remittunt nobis simulacra dextera, aut quia imago transfertur de speculo in speculum, inde elisa bis advolat ad nos, aut quod imago circum agitur cum venit, propterea quod flexa figura speculi docet [eam] convertier ad nos.
+E: whatever little sides of mirrors have a curvature like our side send back right images, either because the image is carried mirror to mirror and, dashed twice, flies to us, or because it is whirled round, since the curved shape teaches it to turn toward us.
+MATCH
+
+318-323
+L: credas (pres subj, potential, 2sg) simulacra indugredi pariter pedemque ponere nobiscum gestumque imitari, propterea quia, qua parte speculi recedas, continuo nequeunt simulacra illinc reverti; quandoquidem natura cogit omnia referri ac resilire ab rebus reddita ad aequos flexus.
+E: images walk forward in step with us, and set their foot down with ours, you would believe, and imitate our gesture, because from whatever part you withdraw the images cannot return; since nature compels all things to be carried back and leap back at equal angles.
+DIFF: the governing credas is placed after the first clause, which then reads as a flat assertion.
+
+324
+L: oculi fugitant vitantque tueri splendida.
+E: the eyes shun bright things and avoid looking at them.
+MATCH
+
+325-328
+L: sol etiam caecat, si pergas contra tendere, propterea quia vis ipsius magna est, et alte simulacra feruntur per aera purum et feriunt oculos turbantia composituras.
+E: same.
+MATCH
+
+329-331
+L: splendor quicumque acer est saepe adurit oculos, ideo quod possidet multa semina ignis, quae insinuando gignunt dolorem oculis.
+E: same.
+MATCH
+
+332-336
+L: lurida fiunt quaecumque arquati tuentur, quia multa semina luroris fluunt de corpore eorum obvia simulacris rerum, multaque sunt mixta in oculis eorum, quae contage sua pingunt omnia palloribus.
+E: same.
+MATCH
+
+337-347
+L: e tenebris tuemur quae sunt in luce, propterea quia, cum aer caliginis propior ater init oculos prior et possedit apertos, insequitur confestim aer candens lucidus, qui quasi purgat eos ac discutit nigras umbras aeris illius; nam hic est multis partibus mobilior, minutior, mage pollens. qui simul atque replevit vias luce atque patefecit quas aer ater ante obsederat, continuo secuntur simulacra rerum quae sita sunt in luce, lacessuntque ut videamus.
+E: same structure and agents.
+MATCH
+
+348-352
+L: quod contra facere nequimus in tenebris e luce, propterea quia aer caliginis posterior crassior insequitur, qui complet foramina obsiditque vias, ne simulacra ullarum rerum coniecta possint moveri.
+E: same.
+MATCH
+
+353-363
+L: cum cernimus procul turres quadratas urbis, fit ut videantur saepe rotundae, quia angulus omnis obtusus cernitur longe, sive potius non cernitur, ac perit plaga eius nec perlabitur ictus ad acies, quia dum simulacra feruntur per multum aera, aer cogit eum (ictum) hebescere crebris offensibus. hoc ubi angulus omnis simul suffugit sensum, fit ut structa saxorum tuantur quasi ad tornum; non tamen ut quae coram sunt vereque rotunda, sed videntur paulum simulata quasi adumbratim.
+E: same.
+MATCH
+
+364-369
+L: umbra videtur nobis moveri in sole et sequi vestigia et imitari gestum, si credis aera privatum lumine posse indugredi, sequentem motus gestumque; nam id quod umbram perhibere suemus nihil aliud potest esse nisi aer lumine cassus.
+E: same.
+MATCH
+
+370-374
+L: nimirum, quia terra locis ex ordine certis privatur lumine solis quacumque meantes officimus, repletur item quod eius liquimus, propterea fit uti videatur [ea] quae fuit umbra corporis, eadem (nom fem, short final a by metre: ōn(e) ĕă | dēm, agrees with quae/umbra), e regione (adverbial, "straight on") usque secuta nos.
+E: because earth is deprived of light where we get in its way and refilled where we have left it, what was the shadow of the body seems to have followed us all along "in the same direction".
+DIFF: eadem read as ablative with regione ("the same direction"); the Latin says the shadow seems to be the same one following us straight on, the point taken up at 381-382.
+
+375-376
+L: enim semper nova lumina radiorum se fundunt, primaque dispereunt, quasi lana trahatur in ignem.
+E: new light of rays pours forth, and the first perishes, as if wool were drawn into fire.
+MATCH (plural made collective singular; sense kept)
+
+377-378
+L: propterea terra facile et spoliatur lumine et repletur item, nigrasque umbras sibi abluit.
+E: same.
+MATCH
+
+FINDINGS
+374	MISTRANSLATION	MODERATE	0.75	"e regione eadem nos usque secuta": eadem is nominative (short a by metre) agreeing with quae...umbra, "the same shadow", and e regione is adverbial "straight on", but the English reads eadem with regione as "in the same direction", losing the claim that it seems to be the same shadow, which 4.381-382 (umbraque quae fuit hic eadem) then disputes; "seems to have followed us straight on all the while, the same."
+318	AMBIGUITY	MINOR	0.50	"Indugredi ... credas" (with 319): credas governs all three infinitives, but the English opens 318 with the flat statement "images walk forward in step with us" and only then adds "you would believe", so the first proposition can be read as asserted fact; "Further, you would believe that images walk forward in step, and set"

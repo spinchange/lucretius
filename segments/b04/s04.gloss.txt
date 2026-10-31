@@ -1,0 +1,64 @@
+ANALYSIS
+500-506. Latin: si non poterit ratio dissolvere causam (fut. ind.) / cur ea quae fuerint iuxtim quadrata procul sint visa rutunda (subj., indirect question; quae fuerint = relative, perf. subj.) / tamen praestat (impersonal) rationis egentem reddere mendose causas utriusque figurae quam emittere manifesta manibus suis quoquam, violare fidem primam, convellere fundamenta / quibus nixatur vita salusque (rel. subj., antecedent fundamenta). English: if reasoning cannot untie the cause / why things square close at hand are seen far off as round / still it is better, for one at a loss for reasoning, to give faulty causes for each shape / than to let things plain slip from your hands, violate first trust, tear up foundations / on which life and safety rest. MATCH.
+
+507-510. Latin: non modo ratio ruat omnis (pres. subj.), vita quoque concidat extemplo / nisi ausis credere sensibus, vitare praecipitis locos et cetera / quae sint fugienda / sequi contraria quae sint. English: not only would all reasoning fall, life would collapse at once / unless you dared to trust the senses, avoid steep places and the rest to be fled / and follow their opposite. MATCH.
+
+511-512. Latin: illa verborum copia omnis est cassa tibi / quae contra sensus instructa paratast (antecedent copia). English: that whole store of words is empty for you / which is drawn up and made ready against the senses. MATCH.
+
+513-521. Latin: ut in fabrica, si regula prima pravast, si norma fallax exit rectis regionibus, si libella claudicat hilum ex aliqua parti / omnia mendose fieri atque obstipa necesse est, prava cubantia prona supina absona tecta / ut quaedam iam ruere velle videantur, ruantque omnia prodita iudiciis fallacibus primis / sic ratio rerum prava falsaque sit necesse est, quaecumque ab falsis sensibus ortast. English: as in a building, if the first rule is crooked, the square false, the level limping a hair / everything must be faulty and askew, crooked, sagging, leaning, the roof out of true / so that some parts seem to want to fall, and do fall, all betrayed by first false judgments / so your reasoning must be crooked and false, whatever reasoning has risen from false senses. MATCH.
+
+522-523. Latin: quo pacto alii sensus quisque suam rem sentiat (indirect question) / ratio haud quaquam scruposa relicta est. English: by what means each other sense perceives its object / the reasoning left is by no means rugged. MATCH.
+
+524-525. Latin: auditur sonus et vox omnis / ubi in auris insinuata pepulere suo corpore sensum. English: sound and every voice are heard / when, working into the ears, they have struck the sense with their body. MATCH.
+
+526-527. Latin: fatendumst vocem et sonitum corpoream constare / quoniam possunt inpellere sensus. English: we must admit voice and sound are bodily / since they can strike the senses. MATCH.
+
+528-531. Latin: vox radit fauces saepe / clamor foras gradiens (participle modifies clamor) facit arteria asperiora / quippe ubi primordia vocum coeperunt ire foras per angustum, turba maiore coorta (ubi = temporal: whenever they have begun). English: the voice scrapes the throat; shouting makes the windpipe rougher as it goes out / since, rising in a greater crowd through a narrow way, the first-beginnings have begun to go out. DIFF: ubi dropped, so the temporal clause becomes a flat causal assertion that the first-beginnings "have begun to go out".
+
+532. Latin: scilicet expletis (abl. abs.) quoque ianua oris raditur. English: the door of the mouth too is scraped when it is filled. MATCH.
+
+533-534. Latin: haud dubiumst quin voces verbaque constent corporeis e principiis / ut laedere possint. English: no doubt that voices and words consist of bodily beginnings / since they can do harm. MATCH.
+
+535-539. Latin: nec te fallit quid corporis auferat et quid detrahat ex nervis ac viribus (subj. sermo perpetuus perductus ad umbram noctis ab nitore aurorae) / praesertim si profusus cum summo clamore. English: nor does it escape you what body is lost and what drawn from sinews and strength by unbroken speech carried from dawn to night / above all if poured out with loudest shouting. MATCH (agent kept as "by unbroken speech").
+
+540-541. Latin: ergo corpoream vocem constare necessest / quoniam multa loquens amittit partem de corpore. English: therefore the voice must be bodily / since one who talks much loses part of his body. MATCH.
+
+542-548. Latin: asperitas vocis fit ab asperitate principiorum; levor levore creatur / nec primordia penetrant auris simili forma / cum tuba mugit, et barbita cita reboat bombum / et cum Dauliades natae tollunt querellam. English: roughness comes from roughness of the beginnings; smoothness from smoothness / nor do the first-beginnings pierce the ears with like shape / when the trumpet bellows and the horn booms back / and when the Daulian birds raise their lament. MATCH (barbita noted).
+
+549-552. Latin: cum hasce voces exprimimus et emittimus recto ore / lingua daedala articulat / formatura labrorum figurat pro parte. English: when we press out and send these voices / the tongue articulates them / the shaping of the lips gives form in turn. MATCH.
+
+553-556. Latin: ubi non longum spatiumst unde vox quaeque profecta perveniat / necessest verba exaudiri discernique articulatim / servat enim formaturam figuramque (subj. vox). English: when the space is not long from which each voice sets out / the words must be heard plainly and distinguished / for the voice keeps its shaping and form. MATCH.
+
+557-559. Latin: si spatium sit longius aequo / necessest verba confundi per multum aera et vocem conturbari, dum transvolat auras. English: if the space is longer than fit / the words must be confused through much air and the voice disordered as it flies. MATCH.
+
+560-562. Latin: fit ut possis sonitum sentire neque internoscere quae sit sententia verborum / usque adeo confusa venit vox inque pedita. English: so you can perceive a sound but not make out the meaning / so confused and tangled the voice arrives. MATCH.
+
+563-564. Latin: verbum unum perciet auris omnibus in populo, missum ab ore praeconis. English: a single word rouses the ears of all in a crowd, sent from a crier's mouth. MATCH.
+
+565-567. Latin: vox una diffugit in multas voces / quoniam se dividit in privas auris, obsignans formam verbis clarumque sonorem. English: one voice scatters into many / since it divides among separate ears, stamping form and sound. MATCH.
+
+568-569. Latin: quae pars vocum non incidit auris ipsas / praeter lata perit frustra diffusa per auras. English: the part that does not fall on the ears / is carried past and perishes, spread out in vain. MATCH.
+
+570-571. Latin: pars adlisa solidis locis reiecta sonorem reddit et interdum frustratur imagine verbi. English: part, dashed against solid places, thrown back, returns a sound and at times deceives with the echo. MATCH.
+
+572-576. Latin: quae cum bene videas, possis rationem reddere tibi atque aliis / quo pacto per loca sola saxa reddant paris formas verborum ex ordine / cum comites palantis quaerimus et ciemus. English: when you see this, you can give an account / how through lonely places rocks give back matching forms in order / when we search for straying comrades and call them. MATCH.
+
+577-579. Latin: vidi loca sex aut septem vocis reddere / cum unam iaceres / ita colles ipsi, verba repulsantes, iterabant dicta referri. English: I have seen places give back six or seven voices / when you threw one / so the hills, beating back the words, repeated the sayings. MATCH.
+
+580-589. Latin: finitimi fingunt Satyros Nymphasque tenere haec loca et locuntur Faunos esse / quorum strepitu ludoque adfirmant silentia rumpi, sonos fieri, querellas (quas tibia fundit pulsata digitis) / et genus agricolum late sentiscere, quom Pan percurrit calamos / ne fistula cesset fundere musam (purpose). English: the neighbors fancy Satyrs and Nymphs hold these places and say there are Fauns / by whose din and play they declare silences broken, sounds arise, laments the pipe pours out / and that farmers hear far and wide when Pan runs his lip over the reeds / so that the pipe will not cease. MATCH.
+
+590-594. Latin: cetera monstra ac portenta loquontur / ne forte putentur tenere loca sola deserta ab divis quoque / ideo iactant miracula dictis aut alia ratione ducuntur / ut omne humanum genus avidum nimis auricularum est. English: other marvels they tell / so they may not be thought to hold lonely places deserted even by the gods / so they toss out wonders or are led by some other reason / as the human race is too greedy for listening ears. MATCH.
+
+595-602. Latin: non est mirandum qua ratione per loca (quae oculi nequeunt res cernere apertas) voces veniant aurisque lacessant / conloquium clausis foribus saepe videmus / quia vox per flexa foramina transire potest incolumis, simulacra renutant / perscinduntur enim nisi recta foramina tranant / qualia sunt vitrei, qua species travolat omnis. English: no wonder by what principle, through places where eyes cannot see, voices come and assail the ears / we often see a conversation through closed doors / because a voice can pass unharmed through winding passages, while images refuse / they are torn unless they swim straight passages / such as glass's, through which every appearance flies. MATCH.
+
+603-606. Latin: vox dividitur in partis cunctas / quoniam aliae ex aliis gignuntur, ubi una semel exorta dissuluit in multas / quasi scintilla solet se spargere in suos ignis. English: a voice is divided in every direction / since voices are born one from another, once a single one has sprung forth and leapt apart into many / as a spark spreads itself into its own fires. MATCH.
+
+607-608. Latin: ergo loca abdita retro replentur vocibus / omnia quae circum fervunt sonituque cientur (omnia quae neuter plural = loca). English: places hidden behind are filled with voices / which all around are astir and roused with sound. DIFF: relative "which" sits on "voices", so the voices, not all the places round about, become what is astir and roused with sound.
+
+609-611. Latin: simulacra omnia tendunt viis derectis, ut sunt missa semel / quapropter nemo potis est cernere supra saepe, at voces accipere extra. English: images travel straight paths once sent / so no one can see over a wall, but can take in voices from beyond. MATCH.
+
+612-614. Latin: tamen haec ipsa vox quoque, dum transit clausa domorum, optunditur atque auris confusa penetrat / et sonitum potius quam verba audire videmur. English: this voice too, passing through closed rooms, is blunted and enters the ears confused / we seem to hear sound rather than words. MATCH.
+
+FINDINGS
+608	AMBIGUITY	MINOR	0.55	"omnia quae circum fervunt sonituque cientur" has neuter omnia quae referring to the places (loca), but the English "which all around are astir" attaches the relative to "voices", making the voices what is astir and roused with sound; fix: "and all the places round about are astir and roused with sound."
+531	GRAMMAR	MINOR	0.50	"quippe ... ubi coeperunt primordia vocum" is temporal (since, whenever the first-beginnings have begun to go out through the narrow way), but the English drops ubi and states flatly that "the first-beginnings of voices have begun to go out", losing the when-clause (also 4.530); fix: "the first-beginnings of voices, once they have begun to go out."

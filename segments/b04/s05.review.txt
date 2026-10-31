@@ -21,7 +21,7 @@
   635  can yet seem to others exceedingly sweet,
   636  and why in these things there is such distance and difference
   637  that what is food to some is to others sharp poison;
-  638  for indeed there is a snake which, touched by a man's spittle,
+  638  and so there is a snake which, touched by a man's spittle,
   639  perishes and destroys itself by gnawing at itself.
   640  Further, hellebore is sharp poison to us,
   641  but to goats and to quails it adds fat.
@@ -117,7 +117,7 @@
   731  the thin nature of the mind within, and provoke sense.
   732  And so we see Centaurs and the limbs of Scyllas
   733  and the dog-faces of Cerberus, and images of those
-  734  whose bones, after death, the earth embraces; {{NOTE: repeats 1.135 verbatim in the Latin; the English repeats its own line}}
+  734  whose bones, after death, the earth embraces; {{NOTE: repeats 1.135 in the Latin with the words reordered; the English repeats its own line}}
   735  since images of every kind are carried everywhere,
   736  some that come to be of their own accord in the air itself,
   737  some that withdraw from all manner of things,
@@ -149,8 +149,8 @@
   763  the senses of the body, blocked, rest throughout the limbs,
   764  and cannot refute the false with things that are true.
   765  Further, memory lies idle and languishes in sleep,
-  766  and does not protest that this one, in the grip of death and doom
-  767  long since, is not the one the mind believes it sees alive.
+  766  and does not protest that this one is in the grip of death and doom
+  767  long since, whom the mind believes it sees alive.
   768  For the rest, it is no wonder that images move
   769  and throw their arms in rhythm, and their other limbs;
   770  for it happens that in dreams an image seems to do this.
@@ -159,4 +159,4 @@
   773  Of course we must suppose that this happens by a swift principle:
   774  so great is the mobility, and so great the abundance of things,
   775  and so great, in any one moment we can perceive,
-  776  the abundance of tiny parts, that it can supply them. {{NOTE: particulae, Lucretius's diminutive, used here only; the tiny parts are the images themselves, not the first-beginnings}}
+  776  the abundance of tiny parts, that it can supply them. {{NOTE: particulae, Lucretius's diminutive, as at 4.261 and in Book 3; the tiny parts are the images themselves, not the first-beginnings}}
