@@ -1,0 +1,209 @@
+ANALYSIS
+
+322-327
+L: [quae cumque dies naturaque rebus tribuit (perf. sg., compound subj.) | cogens crescere] obj. of tueri; nulla acies contenta (nom., modifies acies) potest tueri; nec (possis cernere) quae cumque senescunt; nec possis cernere [quid quoque saxa (mare quae impendent, peresa) amittant in tempore].
+E: whatever days and nature add, compelling to grow; no sharpness, straining, can observe; nor in what grows old; nor in rocks overhanging, eaten, could you discern what they lose at each moment.
+MATCH
+
+328
+L: natura gerit res corporibus caecis (abl. instr.), igitur.
+E: therefore nature carries on her work through unseen bodies.
+MATCH
+
+329-330
+L: nec tamen omnia tenentur (pres. pass. pl.) stipata undique corporea natura (abl.); namque est inane in rebus.
+E: not all things are held packed tight by the nature of body; for there is void in things.
+MATCH
+
+331-333
+L: quod cognosse erit utile tibi; nec sinet (te) errantem dubitare et quaerere et diffidere dictis.
+E: to have learned this will be of use; will not let you wander, doubting, asking, distrusting my words.
+MATCH (errantem made a main verb, which is defensible)
+
+334
+L: qua propter est locus intactus, inane vacansque.
+E: therefore there is place, untouchable, void and empty.
+MATCH
+
+335-339
+L: quod si non esset (impf. subj.), res non possent moveri; namque officium corporis (officere, obstare) adesset omnibus; igitur haud quicquam posset procedere; quoniam nulla res daret principium cedendi.
+E: if there were not, things could not move; the office of body, to obstruct, would be present in all; so nothing could go forward, since nothing would make a beginning of giving way.
+MATCH
+
+340-345
+L: at nunc cernimus multa moveri; quae, si non esset inane, non tam carerent privata motu quam genita nulla ratione fuissent (plupf. subj.), quoniam materies stipata quiesset.
+E: we see many things moving; which, without void, would not so much lack motion as never have been born, since matter would have lain at rest.
+MATCH
+
+346-347
+L: quamvis res putentur esse solidae, hinc tamen licet cernas (eas) esse raro cum corpore.
+E: however solid they may be thought, you may see from this that they are of loose, porous body.
+MATCH
+
+348-349
+L: umor permanat in saxis ac speluncis; flent omnia guttis.
+E: moisture seeps through in rocks and caves; all things weep with drops.
+MATCH
+
+350-353
+L: cibus dissipat sese in corpus omne (neut., modifies corpus); arbusta crescunt et fundunt fetus, quod cibus omnis (modifies cibus) diffunditur in totas ab radicibus per truncos ac ramos.
+E: food spreads through the whole body; trees grow and bear fruit because all their food is spread from the roots through trunks and branches into the whole tree.
+MATCH
+
+354-355
+L: voces meant inter saepta et transvolitant clausa domorum; frigus permanat ad ossa.
+E: voices pass through walls and fly across closed rooms; cold seeps to the bones.
+MATCH
+
+356-357
+L: quod nisi sint inania qua corpora quaeque possent transire, haud ulla ratione videres fieri.
+E: unless there were void spaces through which each body could pass, you would see this happen by no means.
+MATCH
+
+358-359
+L: cur videmus res praestare rebus pondere, figura nihilo maiore (abl. absolute/descriptive)?
+E: why do we see some things outweigh others in weight, though no larger in shape?
+MATCH
+
+360-363
+L: si tantundem (corporis) est in glomere lanae quantum corporis in plumbo, par est tantundem pendere, quoniam officium corporis est premere deorsum; natura inanis manet sine pondere.
+E: if as much in wool as body in lead, they should weigh as much, since body presses downward; void stays without weight.
+MATCH
+
+364-367
+L: ergo quod est aeque magnum et videtur levius, declarat plus inanis esse sibi; gravius dedicat plus corporis esse in se et minus vacui habere.
+E: what is as large and lighter declares more void in it; the heavier proclaims more body and less empty within.
+MATCH
+
+368-369
+L: est igitur id quod quaerimus ratione sagaci, admixtum rebus, quod inane vocamus.
+E: there is, then, what we seek with keen reasoning, mixed with things: void.
+MATCH
+
+370-371
+L: cogor praecurrere illud quod quidam fingunt, ne possit te deducere vero.
+E: I am compelled to forestall what certain men invent, so that it may not lead you from the truth.
+MATCH
+
+372-376
+L: aiunt latices cedere squamigeris nitentibus (dat., modifies squamigeris) et aperire vias, quia pisces linquant loca post, quo undae possint confluere; sic alias res posse moveri et mutare locum, quamvis omnia sint plena.
+E: they say the waters give way to the scaly creatures as they thrust and open paths, because fish leave places into which waves flow; so other things can move, though all is full.
+MATCH
+
+377-380
+L: id totum receptumst falsa ratione. nam quo poterunt squamigeri procedere, ni latices dederint spatium? quo poterunt undae concedere, cum pisces nequibunt ire?
+E: all this was accepted on false reasoning; where will the fish go unless the waters give room; where will the waves withdraw, when the fish cannot go on?
+MATCH
+
+381-383
+L: aut corpora quaeque privandumst motu, aut dicundumst inane esse admixtum rebus, unde res quaeque capiat initum movendi.
+E: either all bodies must be deprived of motion, or we must say void is mixed in, from which each thing takes its first start of moving.
+MATCH
+
+384-386
+L: si duo corpora lata dissiliant cita de concursu, necessest aer possidat omne inane quod fiat inter corpora.
+E: if two broad bodies spring swiftly apart after colliding, the air must take possession of all the void between them.
+MATCH
+
+387-390
+L: is quamvis confluat, haud poterit spatium totum compleri (pass.) uno tempore; necessest ille occupet primum quemque locum, deinde omnia possideantur.
+E: though it flows in, it cannot fill the whole space at one moment; it must occupy one place and then the next, before the whole is possessed.
+MATCH (compleri rendered as active, which keeps the sense)
+
+391-397
+L: si aliquis putat id fieri quia aer se condenseat, errat; nam vacuum fit quod non fuit ante, et vacuum repletur quod constitit ante; nec aer potest denserier tali ratione, nec, si posset, posset sine inani trahere se in se et conducere partis.
+E: if someone thinks this happens because air condenses, he is wrong; emptiness comes to be and is filled; air cannot be condensed so, nor without void could it draw itself in and gather its parts.
+MATCH
+
+398-399
+L: quamvis moreris multa causando, necessest fateare esse inane in rebus.
+E: however long you delay with objections, you must confess there is void.
+MATCH
+
+400-401
+L: possum (indic.) praeterea commemorando multa argumenta conradere tibi fidem dictis nostris.
+E: I could set before you, recounting, many more arguments, to scrape together belief.
+DIFF (slight): possum is rendered as "could", and "set before you" frames the clause; the sense is kept.
+
+402-403
+L: haec vestigia parva sunt satis animo sagaci, per quae possis cognoscere cetera tute.
+E: for a keen mind these small tracks are enough, through which you can know the rest.
+MATCH
+
+404-409
+L: ut canes inveniunt naribus quietes ferai intectas fronde, cum institerunt vestigia certa; sic tute poteris videre alid ex alio et insinuare (te) latebras omnis et protrahere verum.
+E: as hounds find with their noses the lairs hidden in leaves once on the sure tracks, so you will see one thing from another, work into all lurking places, and drag out the truth.
+MATCH
+
+410-417
+L: quod si pigraris aut recesseris, possum promittere: lingua fundet tantos haustus ut verear ne senectus serpat per membra et resolvat claustra vitai prius quam copia argumentorum sit missa per auris.
+E: if you are sluggish or shrink back, I promise: my tongue will pour such draughts that I fear old age will creep through our limbs and loosen life's barriers before the store of arguments is sent through your ears.
+MATCH
+
+418-421
+L: ut repetam pertexere coeptum: natura omnis per se constitit in duabus rebus; nam sunt corpora et inane, in quo haec sita sunt et qua moventur.
+E: to resume: all nature in itself is founded on two things, bodies and void, in which they are set and through which they move.
+MATCH
+
+422-425
+L: communis sensus dedicat corpus esse per se; cui nisi prima fides fundata valebit, haut erit quo referentes queamus confirmare quicquam ratione animi.
+E: that body exists by itself is declared by the common sense; unless trust in this stands first and firm, there will be nothing to appeal to by which we could confirm anything by reasoning.
+MATCH
+
+426-429
+L: locus ac spatium, si nullum foret, corpora haut possent esse sita usquam neque meare; id ostendimus ante.
+E: place and space, if it did not exist, bodies could not be set anywhere nor move; as I showed before.
+MATCH
+
+430-432
+L: nihil est quod possis dicere esse seiunctum ab omni corpore et secretum ab inani, quod sit reperta quasi tertia natura.
+E: there is nothing you could say is disjoined from body and apart from void, found as a third nature.
+MATCH
+
+433-439
+L: quod cumque erit debebit esse aliquid, augmine grandi vel parvo; cui si tactus erit, augebit numerum corporis; sin intactile erit, quod nulla de parte queat prohibere rem transire, hoc erit vacuum quod inane vocamus.
+E: whatever exists must be something of some bulk; if it has touch, it adds to body; if untouchable, unable to stop anything passing, it is the empty we call void.
+MATCH (the minor denique in 434 is absorbed)
+
+440-444
+L: quod cumque erit per se aut faciet quid aut debebit fungi agentibus aliis aut erit ut res possint esse gerique in eo. nulla res potest facere et fungi sine corpore, nec praebere locum nisi inane.
+E: whatever exists by itself will act, be acted upon, or be that in which things exist; nothing can act or be acted upon without body, nor provide place except void.
+MATCH
+
+445-448
+L: ergo nulla tertia natura potest relinqui per se, nec quae cadat sub sensus nec quam quisquam possit apisci ratione animi.
+E: no third nature can be left, neither one under the senses nor one grasped by reasoning.
+MATCH
+
+449-450
+L: quae cumque cluent, invenies ea aut coniuncta his duabus rebus aut videbis eventa horum.
+E: whatever has a name, you will find conjoined to these two or see that they are their accidents.
+MATCH
+
+451-454
+L: coniunctum est id quod nusquam potis est seiungi seque gregari sine discidio permitiali, ut pondus saxis...
+E: a conjoined property is what cannot, without deadly division, be disjoined and parted, as weight to stones...
+MATCH
+
+455-458
+L: servitium, paupertas... cetera, quorum adventu abituque natura manet incolumis, haec soliti sumus vocare eventa.
+E: slavery, poverty... at whose coming and going nature remains unharmed, these we call accidents.
+MATCH
+
+459-463
+L: tempus non est per se, sed sensus consequitur ab rebus quid transactum sit, quae res instet, quid sequatur; nec fatendumst quemquam sentire tempus per se semotum (modifies tempus) ab motu et quiete.
+E: time does not exist by itself; our sense takes in from things what is past, present, future; nor must anyone be admitted to sense time by itself apart from motion and rest.
+MATCH
+
+464-470
+L: cum dicunt Tyndaridem raptam et gentis subactas esse, videndumst ne (illi) cogant nos fateri haec esse per se, quando aetas abstulerit saecla quorum haec eventa fuerunt; namque quod cumque actum erit poterit dici eventum aliud terris, aliud regionibus.
+E: when they say the abduction and conquest "are", we must take care they do not force us to admit these exist by themselves, since the generations whose accidents these were are gone; for whatever has been done will be said to be an accident of the lands or of the regions.
+DIFF (slight): poterit dici is rendered "will be said", which loses "can"; this is minor.
+
+471-482
+L: si nulla materies fuisset nec locus ac spatium, numquam ignis conflatus amore (forma Tyndaridis) gliscens sub pectore Alexandri accendisset certamina belli, nec equos durateus clam Troiianis inflammasset Pergama partu nocturno Graiiugenarum; ut possis perspicere res gestas omnis funditus non constare neque esse per se ut corpus, nec cluere eadem ratione qua inane, sed ut possis vocare eventa corporis atque loci.
+E: without matter and place, never would the fire kindled by love glowing in Alexander's breast have lit the war, nor the wooden horse, unknown to the Trojans, have set Pergamum ablaze by its night delivery of Greeks; so that you may see all deeds, from the ground up, do not exist by themselves as body, nor on the principle of void, but are accidents of body and place.
+MATCH ("from the ground up" is a literal calque for funditus but keeps the sense "utterly")
+
+FINDINGS
+NONE

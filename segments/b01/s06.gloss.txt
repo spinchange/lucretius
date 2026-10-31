@@ -1,0 +1,106 @@
+ANALYSIS
+
+875-879: linquitur (pres. ind. pass., sg.) copia tenvis latitandi; rel. id quod Anaxagoras sumit (pres.); ut putet (pres. subj., result/explanatory): omnis res latitare (inf.) inmixtas rebus omnibus; sed illud unum apparere (inf.); rel. cuius plurima sint mixta et magis in promptu locata (pl., of illud).
+English: there is left a slender chance of hiding; Anaxagoras takes it up, holding that every thing lies hidden mixed in all things, and that one thing appears, whose most parts are mixed in and set in the forefront. MATCH
+
+880: quod (the view) repulsumst (perf. pass.) a vera ratione; tamen.
+English: this is driven far from true reasoning. MATCH
+
+881-883: conveniebat (impf., counterfactual) fruges mittere (inf.) signum sanguinis aut aliquid (of things) quae aluntur nostro corpore (pl. rel.); cum franguntur (pass., subj. fruges) robore saxi; saepe.
+English: it would follow that grain, when it is crushed by the stone's strength, would often send out a sign of blood or of some other thing nourished in our body. MATCH (aliquid is taken under signum and quae is made singular, which keeps the sense)
+
+884-892: decebat (impf., counterfactual) [herbis] manare cruorem; cum terimus (1st pl.) lapidi in lapidem; [herbas] mittere latices, guttas dulcis, sapore simili, quali sunt ubere lactis lanigerae; [decebat] genera herbarum, fruges, frondes videri latitare dispertita inter terram minute, cum glebae friatae (abl. abs.); postremo cinerem fumumque videri in lignis, cum praefracta forent; ignis minutos latere.
+English: the same four counterfactual infinitive propositions, with the same subjects and the same conditions. MATCH
+
+893-896: quoniam res manifesta docet nil fieri quorum; scire licet non esse res ita mixtas in rebus; verum semina communia multarum rerum, inmixta multimodis, debent (pres. ind.) latere in rebus.
+English: since the plain fact shows none of these happens, you may know things are not so mixed, but seeds common to many things, mixed in many ways, must lie hidden in things. MATCH
+
+897-900: inquis (2nd sg.): fit ut cacumina summa vicina arboribus altis terantur (pass.) inter se, austris validis cogentibus (abl. abs.), donec fulserunt (perf., subj. cacumina) flore flammai coorto (abl. abs.).
+English: you say: it happens that the trees' neighbouring tops are rubbed together, as the strong south winds force them, until a flower of flame springs up and they blaze. MATCH
+
+901-903: non est ignis insitus lignis; verum sunt semina ardoris multa; quae cum confluxere (perf.) terendo, creant (pres., pl.) incendia silvis.
+English: fire is not implanted in the wood; there are many seeds of burning, which, when they have flowed together through rubbing, create fires. MATCH
+
+904-906: quod si flamma facta foret abscondita silvis (plupf. subj.), non possent ignes celarier ullum tempus; conficerent silvas volgo, arbusta cremarent (impf. subj.).
+English: if flame, already made, were hidden in the forests, the fires could not be concealed; they would consume the forests and burn the groves. MATCH
+
+907-912a: iamne vides (2nd sg., question) quod diximus ante: permagni referre (inf.) saepe eadem primordia cum quibus et quali positura contineantur (pass. subj.) et quos motus dent accipiantque inter se; atque eadem paulo mutata creare ignes et lignum?
+English: same question and the same indirect statements, with the refrain at 909-910 verbatim. MATCH
+
+912b-914: quo pacto verba quoque ipsa sunt (pres. ind.) elementis paulo mutatis inter se; cum notemus (1st pl. subj.) ligna atque ignes voce distincta.
+English: just as the words too differ by elements a little changed, when we mark wood and fires with distinct sounds. MATCH
+
+915-920: si putas (2nd sg.) quae cumque cernis in rebus apertis non posse fieri, quin fingas corpora materiai praedita natura consimili; hac ratione pereunt (pres.) tibi primordia; fiet uti [primordia] concussa risu cachinnent et umectent ora genasque lacrimis.
+English: same condition, the same apodosis and the same result clause, with the first-beginnings as subject of the laughing. MATCH
+
+921: nunc age, quod superest, cognosce (imper.) et audi (imper.) clarius.
+English: come now, for the rest: learn, and hear more clearly. MATCH
+
+922-927a: nec fallit me animi quam sint obscura; sed spes magna laudis percussit (perf.) cor meum thyrso acri et incussit amorem suavem Musarum in pectus; quo (amore) instinctus, mente vigenti, peragro (1st sg. pres.) loca avia Pieridum, trita solo nullius ante.
+English: the same, with "hope" as the subject of both verbs and "love" as the antecedent of "which". MATCH
+
+927b-934: iuvat accedere fontis integros atque haurire; iuvatque decerpere flores novos et petere coronam insignem capiti meo inde, unde nulli Musae velarint (perf. subj., subj. Musae) tempora prius; primum quod doceo de rebus magnis et pergo exsolvere animum nodis artis religionum; deinde quod pango carmina tam lucida de re obscura, contingens cuncta lepore musaeo.
+English: the same; "all of it" stands for cuncta. MATCH
+
+935: id quoque videtur non ab nulla ratione (litotes); enim.
+English: this too seems not without good reason. MATCH
+
+936-950: vel uti medentes, cum conantur dare pueris absinthia, prius contingunt oras circum pocula liquore mellis; ut aetas puerorum ludificetur labrorum tenus, interea perpotet laticem amarum, decepta non capiatur, sed recreata valescat; sic ego, quoniam haec ratio videtur tristior iis quibus non est tractata, et volgus abhorret, volui (1st sg. perf.) exponere rationem nostram carmine Pierio et contingere melle musaeo, si possem tenere animum tuum versibus, dum perspicis naturam rerum, qua figura constet compta.
+English: the same simile, the same purpose clauses and the same main clause with "I" as subject. MATCH
+
+951-957: quoniam docui corpora solidissima materiai volitare (inf.) invicta per aevom perpetuo; nunc age, evolvamus (hort.) sitne finis summai eorum necne; item pervideamus (hort.) utrum inane (locus ac spatium, in quo res gerantur) constet finitum funditus an pateat immensum et profundum.
+English: the same two hortatives and the same indirect questions. MATCH
+
+958-959: omne quod est finitumst (neg. nulla regione viarum); namque debebat (impf., counterfactual) habere extremum.
+English: all that exists is bounded along none of its ways; for it would have to have an outermost point. MATCH
+
+960-962: videtur nullius posse esse extremum nisi ultra sit quod finiat; ut videatur quo non longius sequatur haec natura sensus.
+English: nothing can have an outermost point unless there is something beyond to bound it, so that there seems to be a point past which the nature of our sense cannot follow. MATCH
+
+963-964: nunc quoniam fatendum nihil esse extra summam, non habet extremum; caret ergo fine modoque.
+English: the same. MATCH
+
+965: nec refert quibus regionibus eius adsistas (2nd sg. subj.).
+English: the same. MATCH
+
+966-967: usque adeo, quem locum quisque possedit (perf.), relinquit omne infinitum tantundem in omnis partis.
+English: whatever place each one takes, one leaves the whole as infinite as before on all sides alike. MATCH ("as before" is a slight gloss on tantundem, within compression)
+
+968-973: si constituatur (pres. subj. pass.) omne spatium finitum, si quis procurrat ultimus ad oras extremas iaciatque telum; utrum mavis id contortum viribus ire quo missum fuerit et volare, an censes aliquid posse prohibere obstareque?
+English: the same two conditions and the same double question. MATCH
+
+974: necessest fatearis sumasque alterutrum.
+English: the same. MATCH
+
+975-976: quorum utrumque praecludit effugium tibi et cogit ut concedas omne patere, fine exempta (abl. abs.).
+English: either one shuts off your escape and forces you to grant that the whole, exempt from end, lies open. MATCH
+
+977-979: nam sive est aliquid quod probeat efficiatque quo minus veniat quo missum est locetque se fini, sive fertur foras, non est profectum a fine.
+English: the same. MATCH
+
+980-981: sequar, atque, ubi cumque locaris oras extremas, quaeram: quid fiet telo denique?
+English: the same. MATCH
+
+982-983: fiet uti finis nusquam possit consistere, et copia fugae prolatet semper effugium.
+English: the same, with copia as subject. MATCH
+
+984-991: si spatium omne summai consisteret inclusum oris certis finitumque foret, iam copia materiai confluxet ad imum ponderibus solidis; nec res ulla posset geri sub tegmine caeli; nec foret caelum neque lumina solis; quippe ubi materies omnis iaceret cumulata, subsidendo ex infinito tempore.
+English: the same condition and the same three apodoses. MATCH
+
+992-994: at nunc requies nullast data corporibus principiorum, quia nil est funditus imum quo confluere et ubi sedes ponere possint.
+English: the same. MATCH
+
+995-997: res quaeque geruntur semper in motu adsiduo partibus in cunctis; corpora materiai cita inferna suppeditantur ex infinito.
+English: the same; inferna is rendered as "from beneath". MATCH
+
+998: res videtur finire rem ante oculos.
+English: the same. MATCH
+
+999-1000: aer dissaepit collis atque montes aera; terra terminat mare et mare terras omnis.
+English: the same. MATCH
+
+1001: omne vero nihil est quod finiat extra.
+English: the same. MATCH
+
+FINDINGS
+NONE

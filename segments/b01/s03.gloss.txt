@@ -1,0 +1,38 @@
+ANALYSIS
+483-484. L: corpora sunt (pres. ind. 3pl) partim primordia, partim [ea] quae constant concilio principiorum. E: bodies are partly first-beginnings, partly those formed from a union of beginnings. MATCH
+485-486. L: nulla vis potest (pres.) stinguere [primordia]; nam ea vincunt solido corpore demum ("only, precisely by"). E: no force can quench them; for in the end they prevail by solid body. DIFF: demum read as "in the end" (temporal) rather than restrictive.
+487-488. L: etsi videtur difficile credere quicquam posse reperiri solido corpore. E: and yet it seems hard to believe anything can be found of solid body. MATCH
+489-491. L: fulmen transit per saepta, ut clamor ac voces; ferrum candescit; saxa dissiliunt vapore. E: same three clauses. MATCH
+492-493. L: cum rigor auri labefactatus solvitur aestu, tum glacies aeris devicta flamma liquescit. E: when hardness of gold, shaken loose, dissolves in heat, then ice of bronze, conquered by flame, melts. MATCH
+494-496. L: calor permanat argentum, penetrale frigus [permanat]; quando sensimus (perf.) utrumque, retinentes pocula, rore infuso (abl. abs.). E: heat seeps through silver, so does cold, since gripping cups we have felt both, when dew was poured in. MATCH
+497. L: usque adeo nihil solidi videtur esse. E: same. MATCH
+498-502. L: quia ratio naturaque cogit, ades, dum expediamus esse ea quae constent solido aeterno corpore, quae docemus esse semina primordiaque, unde summa constet creata. E: same. MATCH
+503-506. L: quoniam duplex natura (corporis atque loci, in quo res geruntur) reperta est constare, necesse est utramque esse per se puramque. E: same, "in which" attached to place. MATCH
+507-509. L: qua vacat spatium (quod inane vocamus), ea non est corpus; qua tenet se corpus, ea nequaquam constat inane. E: same. MATCH
+510. L: sunt igitur corpora prima solida ac sine inani. E: same. MATCH
+511-512. L: quoniam inane est in rebus genitis, necesse est materiem solidam constare circum. E: same. MATCH
+513-515. L: nec res ulla potest probari celare inane, si non relinquas quod cohibet constare solidum. E: same. MATCH
+516-517. L: id potest esse nihil nisi concilium materiai, quod queat cohibere inane rerum. E: same. MATCH
+518-519. L: materies, quae constat solido corpore, potest esse aeterna, cum cetera dissoluantur. E: same. MATCH
+520-523. L: si nil esset quod vacaret (per note), omne foret solidum; nisi essent corpora certa quae complerent loca quae tenerent, omne spatium constaret inane. E: same. MATCH
+524-527. L: corpus distinctum [est] alternis inani, quoniam nec plenum extat nec vacuum; sunt ergo corpora certa quae possint distinguere spatium inane pleno. E: same. MATCH
+528-531. L: haec neque possunt dissolui icta plagis, nec retexi penetrata, nec queunt labare temptata alia ratione; id quod ostendimus. E: same. MATCH
+532-535. L: nec videtur quicquam posse conlidi sine inani, nec frangi, findi, capere umorem, frigus, ignem, quibus omnia conficiuntur. E: same. MATCH
+536-537. L: quo magis quaeque res cohibet inane, tam magis labascit temptata his rebus. E: same. MATCH
+538-539. L: si corpora prima sunt solida, necesse est sint aeterna. E: same. MATCH
+540-542. L: nisi materies fuisset aeterna, res redissent ad nihilum, renata forent quae videmus. E: same. MATCH
+543-547. L: quoniam docui nil posse creari de nihilo neque genitum revocari, primordia debent esse inmortali corpore, quo quaeque possint dissolui, ut materies subpeditet. E: same. MATCH
+548-550. L: sunt igitur primordia solida simplicitate, nec queunt (pres.) alia ratione, servata (ptc.) per aevom, res reparare ex infinito tempore. E: are of solid singleness, nor in any other way could they have been kept through the ages to renew things. DIFF (slight): participle made main verb, tense shifted; sense kept.
+551-555. L: si natura nullam finem parasset, corpora redacta forent aevo frangente (abl. abs.), ut nihil conceptum posset pervadere finem aetatis. E: same. MATCH
+556-560. L: videmus quidvis citius dissolvi quam refici; quod aetas fregisset, numquam posset reparari tempore relicuo. E: same. MATCH
+561-564. L: finis frangendi reddita manet certa, quoniam videmus rem refici et tempora finita stare rebus, quibus possint contingere florem. E: same. MATCH
+565-569. L: accedit uti, cum corpora constant solidissima, possint tamen omnia quae fiunt mollia reddi, quo pacto fiant, quoniam admixtum est inane. E: same. MATCH
+570-573. L: si primordia sint mollia, non poterit ratio reddi unde queant silices creari; nam omnis natura carebit principio fundamenti. E: same. MATCH
+574-576. L: sunt solida pollentia simplicitate, quorum conciliatu omnia possunt artari et ostendere viris. E: same. MATCH
+577-580. L: si nulla finis reddita est corporibus, tamen necesse est quaeque corpora superare rebus, quae nondum clueant temptata periclo. E: same. MATCH
+581-583. L: quoniam constant praedita fragili natura, discrepat potuisse manere vexata plagis. E: same. MATCH
+584-592. L: quoniam finis reddita constat, et quid queant/nequeant sancitum extat, nec commutatur quicquam, quin omnia constant ut volucres ostendant maculas inesse, debent [res] habere corpus inmutabilis materiae. E: same. MATCH
+592-598. L: si primordia possent commutari revicta, incertum constet quid possit oriri, quid nequeat, qua ratione cuique sit finita potestas et terminus; nec possent saecla referre naturam parentum. E: same (refrain of 1.75-77). MATCH
+
+FINDINGS
+486	LEXICAL	MINOR	0.50	"solido vincunt ea corpore demum" uses demum restrictively (it is precisely by solid body that they prevail), but "in the end" reads as a temporal claim of eventual victory; "for it is by solid body that they prevail."

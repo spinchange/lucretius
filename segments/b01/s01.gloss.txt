@@ -1,0 +1,45 @@
+ANALYSIS
+146-148. L: necessest [ut] (non radii neque tela, sed species ratioque) discutiant [subj. pres. pl.] hunc terrorem tenebrasque. E: terror and darkness must be scattered not by rays or shafts but by face and reasoning (passive recast). MATCH.
+149-150. L: principium cuius (= naturae) exordia sumet [fut.]; [acc.+inf.] nullam rem gigni e nihilo divinitus umquam. E: its first principle will take its starting-point; that nothing is ever begotten from nothing by divine will. MATCH.
+151-154. L: formido continet [ind.] mortalis omnis, quod tuentur multa fieri; quorum causas videre nulla ratione possunt, ac rentur fieri divino numine. E: fear holds all mortals because they behold; whose causes they can in no way see; they suppose done by divine power. MATCH.
+156-158, 155. L: ubi viderimus [fut. pf.] nil posse creari de nihilo, tum perspiciemus quod sequimur, et unde queat res quaeque creari et quo modo quaeque fiant sine opera divom. E: same structure; "labor of gods". MATCH.
+159-160. L: si fierent [impf. subj., contrary to fact], omne genus nasci posset, nil semine egeret. E: same. MATCH.
+161-164. L: homines oriri posset e mare, squamigerum genus e terra, volucres erumpere caelo; armenta, pecudes, ferae incerto partu tenerent culta ac deserta. E: same. MATCH.
+165-166. L: nec fructus idem constare solerent, sed mutarentur; omnes [arbores] ferre omnia possent. E: same. MATCH.
+167-168. L: quippe ubi non essent genitalia corpora cuique, qui posset mater certa consistere? E: same. MATCH.
+169-171. L: quia quaeque creantur seminibus certis, inde enascitur atque exit in luminis oras (no dias), ubi inest materies et corpora prima. E: same, but "the shining shores of light". DIFF: "shining" has no Latin here (also 179).
+172-173. L: hac re nequeunt omnia gigni ex omnibus, quod inest certis rebus secreta facultas. E: same. MATCH.
+174-179. L: cur videmus rosam vere, frumenta calore, vites autumno suadente fundi, si non, quia semina certo tempore cum confluxerunt, patefit quod creatur, dum tempestates adsunt et tellus effert res teneras tuto in luminis oras? E: same; 179 again "shining". DIFF: as 170.
+180-183. L: si fierent, exorerentur subito incerto spatio et alienis partibus anni, quippe ubi nulla forent primordia quae arceri possent genitali concilio tempore iniquo. E: same. MATCH.
+184-187. L: nec spatio usus foret ad coitum seminis, si crescere possent; nam fierent iuvenes ex infantibus subito, arbusta salirent. E: same. MATCH.
+188-191. L: nil fieri manifestum est, quando omnia paulatim crescunt ut par est semine certo, genus servant; ut noscere possis quicque grandescere alique de sua materia. E: same. MATCH.
+192-198. L: accedit uti sine imbribus nequeat tellus submittere fetus nec natura animantum secreta cibo possit propagare et tueri; ut potius putes corpora communia multis rebus esse, ut verbis elementa, quam ullam rem existere sine principiis. E: same. MATCH.
+199-204. L: cur natura non potuit parare homines tantos qui possent transire pontum, divellere montis, vincere saecla, si non quia materies certa reddita est rebus gignundis, e qua constat quid possit oriri? E: same. MATCH.
+205-207. L: fatendumst nil posse fieri de nilo, quando opus est semine, quo quaeque creatae possint proferri in auras. E: same. MATCH.
+208-214. L: quoniam videmus culta praestare incultis et reddere melioris fetus, esse primordia quae nos cimus ad ortus vertentes glebas et subigentes solum; quod si nulla forent, videres quaeque sponte fieri meliora sine labore. E: same. MATCH.
+215-216. L: accedit uti natura dissoluat quicque in sua corpora neque interemat ad nihilum. E: same. MATCH.
+217-220. L: si quid mortale esset e cunctis partibus, res erepta periret; nulla vi usus foret quae posset discidium parere et nexus exsolvere. E: same. MATCH.
+221-224. L: quia quaeque constant aeterno semine, donec vis obiit quae diverberet aut penetret dissoluatque, natura non patitur exitium nullius videri. E: same. MATCH.
+225-231. L: si aetas peremit penitus consumens materiem, unde Venus redducit genus, unde tellus alit atque auget, unde fontes et flumina suppeditant mare, unde aether pascit sidera? E: same. MATCH.
+232-233. L: aetas diesque debet consumpse omnia quae mortali corpore sunt. E: same. MATCH.
+234-237. L: si fuere ea e quibus summa consistit refecta, inmortali natura praedita sunt; haud igitur possunt quaeque ad nilum reverti. E: same. MATCH.
+238-243. L: eadem vis causaque conficeret res omnis volgo, nisi materies aeterna teneret, indupedita minus aut magis; tactus satis esset causa leti, quippe ubi nulla forent aeterno corpore quorum contextum vis quaeque deberet dissolvere. E: same. MATCH.
+244-249. L: quia nexus dissimiles constant et materies aeterna est, remanent res incolumi corpore, dum vis obeat satis acris reperta; haud igitur redit res ulla ad nihilum, sed omnes redeunt in corpora. E: same. MATCH.
+250-253. L: pereunt imbres ubi aether praecipitavit; at surgunt fruges, rami virescunt, ipsae crescunt gravanturque. E: same. MATCH.
+254-261. L: hinc alitur genus; videmus urbes florere pueris et silvas canere; fessae pecudes pinguis [nom. pl. fem., with pecudes] per pabula laeta corpora deponunt; umor manat; proles ludit perculsa lacte mero. E: "through the rich glad pastures"; pinguis made an attribute of pabula. DIFF: "fat" moved from the cattle to the pastures (pabula would need pinguia).
+262-264. L: haud pereunt penitus quaecumque videntur, quando alit/alid ex alio reficit natura nec patitur ullam rem gigni nisi morte adiuta aliena. E: same, reading alid. MATCH. Printed alit (nourishes) is not rendered, but the English follows the standard alid.
+265-270. L: quoniam docui res non posse creari nec genitas revocari, ne coeptes diffidere quod primordia nequeunt cerni, accipe quae corpora necessest confiteare esse nec posse videri. E: same. MATCH.
+271-276. L: venti vis verberat corpus, ruit [trans.] navis, differt nubila, sternit campos arboribus, vexat montis; ita perfurit saevitque pontus. E: same. "Of the sea" added, with a note on the emendation. MATCH, noted interpretive addition.
+277-289. L: sunt venti corpora caeca quae verrunt raptantque; nec alia ratione fluunt stragemque propagant et [= quam] cum aquae natura fertur flumine, quam auget decursus coniciens fragmina; nec pontes possunt tolerare vim; ita amnis incurrit, dat stragem, volvit saxa, ruit [trans.] qua quidquid fluctibus obstat. E: same down to 288, then "rushes on wherever anything stands against its flood". DIFF: transitive ruit (overthrows whatever opposes) made intransitive, so the obstacle is no longer swept away.
+290-294. L: sic debent flamina ferri, quae cum procubuere trudunt res ante ruuntque [trans.?] impetibus, corripiunt rapidique [nom., the winds] portant turbine. E: "drive things before them and rush on"; "swift, spinning whirlwind". DIFF (slight): ruunt probably transitive (dash them down); rapidi shifted to the whirlwind.
+295-297. L: sunt venti corpora caeca, quandoquidem aemula inveniuntur amnibus qui aperto corpore sunt. E: same. MATCH.
+298-304. L: sentimus odores nec cernimus venientis; nec tuimur aestus nec usurpare frigora oculis nec voces cernere suemus; quae necessest corporea natura constare quoniam sensus inpellere possunt; tangere et tangi nulla res potest nisi corpus. E: same. MATCH.
+305-310. L: vestis uvescunt, serescunt; neque visumst quo pacto umor persederit nec quo fugerit aestu; dispergitur in partis quas oculi videre nequeunt. E: same. MATCH.
+311-319. L: anulus tenuatur, casus cavat lapidem, vomer decrescit, strata conspicimus detrita, signa ostendunt manus adtenuari tactu; haec minui videmus cum sint detrita. E: same. MATCH.
+320-321. L: quae corpora decedant [indirect question], natura praeclusit speciem videndi. E: same. MATCH.
+
+FINDINGS
+289	MISTRANSLATION	MODERATE	0.62	"ruit qua quidquid fluctibus obstat" has ruit transitive (it overthrows whatever opposes its waves, as with "ruit navis" at 272), but the English makes it intransitive "rushes on wherever anything stands against its flood", so the obstacle is never swept away; fix: "great stones, and overthrows whatever stands against its flood."
+257	GRAMMAR	MINOR	0.60	"fessae pecudes pinguis" describes the cattle as weary and fat (pinguis is nom. pl. with pecudes; neuter pabula would need pinguia), but the English attaches it to the pastures as "rich glad pastures"; fix: "from this the weary cattle, fat, through the glad pastures lay down"
+170	ADDITION	MINOR	0.55	"oras in luminis" here (and "in luminis oras" at 179) has no dias, yet the English gives "the shining shores of light"; the register's own rule for luminis oras without dias is "the shores of light", and its citation of 1.170/1.179 as the dias refrain appears to be in error; fix: "it is born and comes forth into the shores of light" (and 179 "brings tender things safely forth into the shores of light?")
+292	MISTRANSLATION	MINOR	0.50	"trudunt res ante ruuntque" most naturally has ruunt transitive with res (they push things before them and dash them down), but the English gives an intransitive "rush on"; fix: "toward any quarter, drive things before them and throw them down"

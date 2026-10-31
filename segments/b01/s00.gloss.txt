@@ -1,0 +1,170 @@
+ANALYSIS
+
+**1-9**
+- Latin: (Venus) concelebras [2sg pres ind] mare, terras (rel. quae ×2); quoniam genus omne concipitur [pass] visitque lumina; venti fugiunt te; nubila (fugiunt) te adventumque; tellus summittit flores (suavis → flores); aequora rident; caelum placatum nitet.
+- English: you fill/throng sea, lands; since every kind is conceived and looks; winds flee you; clouds flee you and your coming; earth sends up sweet flowers; seas laugh; sky made calm shines.
+- MATCH
+
+**10-13**
+- Latin: simul ac species patefactast et aura viget (reserata → aura); volucres significant te initumque (perculsae corda → volucres).
+- English: as soon as the face stands revealed and the breath, unbarred, grows strong; birds announce you and your coming in, hearts struck.
+- MATCH
+
+**15/14-16**
+- Latin: ferae pecudes persultant pabula, tranant amnis; ita (quaeque) capta sequitur te quo pergis inducere quamque.
+- English: wild beasts and herds bound over the pastures and swim the rivers; so each, captured, follows you wherever you lead.
+- MATCH
+
+**17-20**
+- Latin: denique (efficis) per maria … incutiens amorem omnibus; efficis ut saecla propagent [subj] cupide generatim.
+- English: Then, through seas …, striking love, you make them propagate eagerly, kind by kind.
+- DIFF: denique, the summing "finally", becomes a second sequential "Then", duplicating inde at 15.
+
+**21-27**
+- Latin: quoniam (tu) sola gubernas naturam; nec quicquam exoritur sine te; neque fit laetum/amabile quicquam; studeo te sociam esse versibus, quos conor pangere Memmiadae, quem tu voluisti excellere (ornatum → quem).
+- English: since you alone steer; nothing rises without you; nothing comes to be glad or lovely; I long for you as partner in verses which I attempt for Memmius, whom you willed to excel, adorned.
+- MATCH
+
+**28**
+- Latin: quo magis da [imper] dictis aeternum leporem.
+- English: all the more give my words a lasting charm.
+- MATCH
+
+**29-30**
+- Latin: effice ut moenera sopita quiescant [subj] per maria ac terras omnis.
+- English: bring it about that the works of war over all seas and lands be lulled and lie at rest.
+- MATCH
+
+**31-37**
+- Latin: tu sola potes iuvare mortalis pace; quoniam Mavors regit moenera; qui se reiicit in gremium, devictus vulnere; suspiciens, cervice reposta, pascit visus amore, inhians; spiritus resupini pendet ex ore tuo.
+- English: you alone can help mortals; since Mars, who rules the works, throws himself into your lap, conquered by the wound; gazing up, neck laid back, feeds his eyes, gaping; breath of him, reclining, hangs on your lips.
+- MATCH
+
+**38-40**
+- Latin: tu, circum fusa super hunc recubantem corpore, funde loquellas, petens pacem Romanis.
+- English: as he lies back on your body, pour yourself around and over him, pour out speech, asking peace for the Romans.
+- MATCH (participle made an imperative; sense kept)
+
+**41-43**
+- Latin: neque nos possumus agere hoc aequo animo tempore iniquo; nec propago (potest) desse saluti.
+- English: neither can we do this work with an untroubled mind in a bad time; nor can the offspring be wanting to the common safety.
+- MATCH
+
+**44-46**
+- Latin: necessest natura divum fruatur [subj] aevo cum pace, semota seiunctaque.
+- English: the nature of the gods must enjoy immortal life in peace, removed and separated.
+- MATCH
+
+**47-49**
+- Latin: (natura) privata dolore, periclis, pollens, indiga nihil; nec capitur promeritis nec tangitur ira.
+- English: free from pain and dangers, strong, needing nothing; neither won by services nor touched by anger.
+- MATCH
+
+**50-53**
+- Latin: adhibe [imper] auris animumque ad rationem; ne (tu) relinquas [2sg act subj] mea dona contempta, prius quam intellecta sint.
+- English: lend ears and mind to reasoning, so that my gifts are not [passive, no agent] dismissed and left behind before they are understood.
+- DIFF: Memmius as agent of scorning and abandoning becomes an agentless passive.
+
+**54-61**
+- Latin: incipiam disserere de summa ratione caeli deumque et pandam primordia; unde natura creet, auctet, alat res; quo natura resolvat (ea) perempta rursum; quae nos suemus vocare materiem, genitalia corpora, semina, usurpare corpora prima, quod ex illis sunt omnia.
+- English: I shall begin to set out the highest order of heaven and gods and unfold the first-beginnings; from which nature creates, grows, feeds; into which nature dissolves them when they perish; which we are used to calling matter, generative bodies, seeds, first bodies, because from them all things are.
+- MATCH (rursum absorbed)
+
+**62-71**
+- Latin: cum vita iaceret oppressa sub religione, quae ostendebat caput, instans; Graius homo primum ausus est tollere oculos mortalis contra, primusque obsistere; quem neque fama nec fulmina nec caelum compressit; sed (ea) inritat virtutem, ut cupiret effringere claustra.
+- English: when life lay crushed beneath religion, which showed its head, looming; a man of Greece first dared to lift mortal eyes and first to stand against; him neither fame nor thunderbolts nor heaven held down; they goaded his courage so that he longed to break the gates.
+- MATCH
+
+**72-77**
+- Latin: vis animi pervicit et processit extra moenia, peragravit immensum mente animoque; unde refert victor quid possit oriri, quid nequeat, qua ratione cuique potestas finita sit terminusque haerens.
+- English: force of mind prevailed and he went out beyond the walls, traveled in thought and mind; brings back what can and cannot come to be, how each thing's power is bounded, by what principle, and its boundary-stone.
+- MATCH (subject vis → "he" from 73; mente animoque keeps the sense)
+
+**78-79**
+- Latin: religio subiecta pedibus opteritur; victoria exaequat nos caelo.
+- English: religion is thrown beneath our feet and trampled; victory lifts us level with heaven.
+- MATCH
+
+**80-82**
+- Latin: vereor ne rearis te inire elementa rationis viamque indugredi sceleris.
+- English: I fear that you might think you enter on the elements and set foot on the road of crime.
+- MATCH
+
+**82-83**
+- Latin: quod contra religio peperit [perf] facta scelerosa et impia.
+- English: rather, religion has borne the criminal and impious deeds.
+- MATCH
+
+**84-86**
+- Latin: (ut) Aulide ductores turparunt aram sanguine Iphianassai.
+- English: as at Aulis the altar was defiled with her blood by the leaders.
+- MATCH
+
+**87-92**
+- Latin: simul infula profusast; et sensit parentem adstare, ministros celare ferrum, civis effundere lacrimas aspectu suo; muta, summissa genibus, petebat terram.
+- English: as soon as the ribbon streamed down, and she saw father standing, attendants hiding the knife, citizens shedding tears at sight of her; mute, knees giving way, she sank to the ground.
+- MATCH
+
+**93-94**
+- Latin: nec prodesse quibat miserae quod princeps donarat regem nomine patrio.
+- English: nor could it help her that she had been first to give the king the name of father.
+- MATCH
+
+**95-100**
+- Latin: sublata tremibundaque deductast, non ut posset comitari Hymenaeo, sed ut hostia concideret mactatu parentis; ut exitus daretur classi.
+- English: lifted and trembling she was led, not to be escorted by the hymn, but to fall a victim slaughtered by her father; that a departure be granted the fleet.
+- MATCH
+
+**101**
+- Latin: religio potuit suadere tantum malorum.
+- English: so much evil could religion prompt.
+- MATCH
+
+**102-103**
+- Latin: tutemet, victus dictis vatum, quaeres [fut] desciscere a nobis.
+- English: you yourself, overcome by the prophets' words, will look to desert us.
+- MATCH
+
+**104-106**
+- Latin: quam multa somnia possunt fingere tibi, quae possint vertere rationes et turbare fortunas.
+- English: how many dreams they can invent for you that could overturn your life's reasonings and trouble your fortunes.
+- MATCH
+
+**107-109**
+- Latin: si homines viderent [impf subj] finem esse, valerent obsistere religionibus minisque.
+- English: if men saw a sure end, they would find strength to stand against religions and threats.
+- MATCH
+
+**110-111**
+- Latin: nunc nulla ratio est restandi, nulla facultas, quoniam timendum (est) poenas.
+- English: as it is, there is no way, no power, since punishments must be feared.
+- MATCH
+
+**112-119**
+- Latin: ignoratur quae sit natura animai; nata sit, an insinuetur nascentibus, et intereat nobiscum, an visat tenebras lacunasque, an se insinuet pecudes; ut Ennius cecinit, qui detulit coronam quae clueret.
+- English: it is not known what the nature of the spirit is; whether born, or works its way in at birth, and perishes with us, or visits darkness and pools, or slips into beasts; as Ennius sang, who brought down a crown to shine in fame.
+- MATCH
+
+**120-126**
+- Latin: etsi Ennius exponit esse templa, quo neque animae neque corpora permaneant, sed simulacra; unde commemorat speciem Homeri exortam coepisse effundere lacrimas et expandere naturam.
+- English: and yet Ennius sets forth that the precincts exist, where neither spirits nor bodies endure but images; from there he recalls the likeness of Homer rose and began to shed tears and unfold nature.
+- MATCH
+
+**127-135**
+- Latin: cum habenda est nobis ratio de superis rebus, qua ratione meatus fiant, qua vi quaeque gerantur, tunc videndum (est) unde constet anima animique natura, et quae res terrificet mentes nobis vigilantibus (morbo adfectis) somnoque sepultis, uti videamur cernere audireque eos quorum ossa tellus amplectitur.
+- English: while we must give an account of things above, by what principle the courses come about, by what force each is carried on, then we must see of what the spirit and the nature of the mind consist, and what terrifies our minds awake but sick, or in sleep, so that we seem to see and hear those whose bones earth embraces.
+- MATCH
+
+**136-139**
+- Latin: nec fallit me difficile esse inlustrare reperta, praesertim cum multa agendum sit novis verbis propter egestatem et novitatem.
+- English: nor does it escape me that the findings are hard to set in light, especially since much must be done with new words because of poverty and newness.
+- MATCH
+
+**140-145**
+- Latin: virtus et voluptas suadet efferre laborem et inducit vigilare noctes, quaerentem dictis quibus et quo carmine possim praepandere lumina menti, quibus possis convisere res occultas.
+- English: your worth and the hoped-for pleasure urge me to bear labor and lead me to keep watch, searching with what words and what song I may spread lights before your mind by which you can see into hidden things.
+- MATCH
+
+FINDINGS
+53	OMISSION	MINOR	0.60	"ne … contempta relinquas" has Memmius as the one who would scorn and abandon the gifts (52-53), but the English passive "are not … dismissed and left behind" drops the addressee as agent; "you do not, before you understand them, scorn them and leave them behind."
+17	LEXICAL	MINOR	0.55	"denique" is the summing "finally" (register: denique = "finally") closing the catalogue of 10-20, but the English "Then" makes it one more step in sequence after "inde … Then" at 15; "Finally, through seas and mountains and sweeping rivers,"

@@ -83,7 +83,7 @@ every book unless explicitly revisited. Modelled on the Iliad project's
 | leges naturae | nature's laws | | |
 | species | face, appearance, likeness | 1.10 (face of the day), 1.125 (likeness) | context decides; "species ratioque" (1.148) = "the face and reasoning of nature" |
 | daedala | artificer | 1.7 | daedala tellus = "the artificer earth"; natura daedala rerum (5.234) = "nature, artificer of things" |
-| dias in luminis oras | the shining shores of light | 1.22 | whole-phrase refrain (1.170, 1.179 etc.); where the Latin has luminis oras without dias (2.577, 5.224, 5.781, 5.1389, 5.1455) the English is "the shores of light" |
+| dias in luminis oras | the shining shores of light | 1.22 | dias occurs only at 1.22; everywhere else the Latin has luminis oras without dias (1.170, 1.179, 2.577, 2.617, 5.224, 5.781, 5.1389, 5.1455) and the English is "the shores of light" |
 | flammantia moenia mundi | the flaming walls of the world | 1.73 | |
 | fera moenera militiai / belli | the savage works of war | 1.29, 1.32 | |
 | quod superest | for the rest | 1.50 | transitional formula |
@@ -213,7 +213,8 @@ every book unless explicitly revisited. Modelled on the Iliad project's
     5.269-272 at 6.635-638. Take the Book 5 review text where the Latin is
     identical.
   - 5.224, 5.781, 5.1389, 5.1455 "the shores of light": the Latin has no
-    dias, as at 2.577.
+    dias, as at 1.170, 1.179, 2.577 and 2.617 (second round: 1.170 and 1.179
+    had wrongly carried "shining").
   - principia = beginnings was already right throughout Book 5 (5.184,
     5.440); exordia = origins at 5.430 and 5.471; the non-technical exordia
     cepit (5.331) = "took its beginnings" and causarum exordia prima (5.677)

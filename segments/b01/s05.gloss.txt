@@ -1,0 +1,35 @@
+ANALYSIS
+763-766: L: si [cuncta] creantur (pres. ind. pass.) ex quattuor rebus + omnia dissoluuntur in eas; main: qui magis queunt illa dici primordia quam res putari [primordia] illorum retro (question, pres.). E: if all things are created / are dissolved; why can those be called first-beginnings rather than things be thought theirs. MATCH.
+767-768: L: [illa] gignuntur alternis; mutant colorem et totam naturam inter se tempore ab omni. E: they are born by turns, change color and whole nature among themselves from all time. MATCH.
+769: L: videmus fulmina diffugere imbris ventosque (= 762, stray). E: same, note flags repetition. MATCH.
+770-772: L: sin putas corpus ignis terraeque coire et auras roremque, ut nil in concilio mutet naturam eorum (result, subj.). E: if you think they come together so that in the union nothing changes their nature. MATCH (nil read as subject; same proposition, none alters).
+773-774: L: nulla res poterit esse creata ex illis; non animans, non exanimo corpore ut arbos. E: same. MATCH.
+775-777: L: quippe quicque ostendet suam naturam in coetu variantis acervi; aer videbitur mixtus manere cum terra et rore. E: same. MATCH.
+778-781: L: oportet primordia adhibere naturam clandestinam caecamque in gignundis rebus, ne emineat quid quod pugnet et obstet quo minus quodcumque creatur queat esse proprie. E: same. MATCH.
+782-788: L: [illi] repetunt a caelo; faciunt (represent) ignem se vertere in auras, hinc imbrem gigni, terram creari ex imbri, retro cuncta reverti (umorem, aera, calorem), nec cessare haec mutare, meare. E: they start from heaven, make fire turn, rain be born, earth be created, all return in reverse, these never cease to change and travel. MATCH ("make" for faciunt, ambiguous but recoverable).
+789: L: quod primordia haud ullo pacto debent facere. E: same. MATCH.
+790-793: L: necessest quiddam immutabile superare, ne res omnes redigantur ad nihilum; nam quodcumque mutatum exit, hoc mors est illius quod fuit. E: same, refrain verbatim. MATCH.
+794-797: L: quoniam quae diximus veniunt in commutatum, necessest ea constare ex aliis quae nequeant convertier; ne res redeant ad nilum. E: same, refrain verbatim. MATCH.
+798-802: L: quin potius constituas quaedam corpora tali natura praedita, [ut] si crearint ignem, eadem posse ... facere auras, sic omnis mutarier alias aliis? (question). E: why not posit bodies of such nature that, if they have created fire, the same can make air, and so all be changed some into others? MATCH.
+803-808: L: inquis: res indicat omnis res crescere alique e terra in auras; nisi tempestas indulget imbribus (ut arbusta vacillent) solque fovet tribuitque calorem, fruges arbusta animantis non possint crescere. E: same. MATCH.
+809-811: L: nisi cibus et umor adiuvet nos, amisso corpore (abl. abs.) vita omnis exsoluatur e nervis ossibus. E: unless food and moisture helped, our body would waste, all life be loosed from sinews and bones. MATCH (abl. abs. made finite; sense kept).
+812-813: L: adiutamur alimurque nos certis ab rebus, aliae res certis [aliis]. E: same. MATCH.
+814-816: L: nimirum quia multa primordia communia multis multarum rerum mixta sunt in rebus, ideo variae res variis aluntur. E: same. MATCH.
+817-819: L: magni refert cum quibus et qua positura eadem primordia contineantur et quos motus dent accipiantque. E: refrain verbatim. MATCH.
+820-822: L: eadem constituunt caelum ... ; eadem fruges ...; verum commixta aliis alioque modo moventur. E: same. MATCH.
+823-826: L: vides multa elementa communia multis verbis, cum necessest confiteare versus ac verba distare re et sonitu. E: same. MATCH.
+827-829: L: tantum elementa queunt ordine permutato; at primordia possunt plura adhibere unde res creari queant. E: same. MATCH.
+830-833: L: scrutemur et homoeomerian quam Grai memorant; nec egestas sermonis concedit dicere nostra lingua; sed facilest rem exponere. E: same. MATCH.
+834-842: L: [quam dicit homoeomerian]: hic putat ossa gigni ex ossibus, viscus ex visceribus, sanguen creari ex guttis, aurum consistere posse ex micis, terram concrescere, ignis ex ignibus, umorem esse; cetera fingit putatque consimili ratione. E: he means / thinks the same propositions. MATCH.
+843-844: L: nec concedit esse inane ulla de parte, neque finem esse corporibus secandis. E: same. MATCH.
+845-846: L: quare videtur mihi in utraque ratione errare pariter atque illi. E: same. MATCH.
+847-850: L: adde quod fingit primordia inbecilla nimis; si primordia sunt [ea] quae simili natura praedita constant ... laborant pereunt, neque res ulla refrenat ab exitio. E: same, incomplete conditional kept. MATCH.
+851-853: L: quid eorum durabit in oppressu valido, ut mortem effugiat? ignis an umor ...? E: same. MATCH.
+854-856: L: nil, ubi res omnis erit ex aequo funditus tam mortalis quam quae videmus perire vi victa. E: same. MATCH.
+857-858: L: testor res ante probatas neque res posse reccidere ad nihilum neque crescere de nihilo. E: same. MATCH.
+859-860a: L: quoniam cibus auget alitque corpus, scire licet venas sanguen ossa [lacuna]. E: same, lacuna kept. MATCH.
+861-866: L: sive dicent cibos esse commixto corpore et habere corpora parva nervorum, ossa, venas, partis cruoris, fiet uti cibus omnis putetur constare ex alienigenis. E: same ("must be thought" for fiet uti ... putetur, defensible). MATCH.
+867-869: L: quaecumque corpora crescunt e terra, si sunt in terris, necessest terram constare ex alienigenis quae exoriuntur. E: same. MATCH.
+870-874: L: transfer, licebit utare totidem verbis: si in lignis latet flamma fumus cinis, necessest ligna consistant ex alienigenis; praeterea [corpora] quae tellus alit auget [consistere] ex alienigenis quae lignis exoriuntur (verb understood; text disputed). E: same, "consist" supplied, note flags the crux. MATCH.
+FINDINGS
+NONE

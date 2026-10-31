@@ -1,0 +1,34 @@
+ANALYSIS
+599-608: since [est] each outermost point of that body [quod sensus cernere nequeunt]; id extat sine partibus, constat minima natura, nec fuit umquam per se secretum, neque esse valebit (fut.), since it is itself pars alterius, prima et una; inde aliae partes explent naturam corporis; quae since per se nequeunt constare, necesse est haerere [unde nulla ratione revelli queant]. / EN: same clauses, same subjects, negations, tenses. MATCH
+609-614: sunt primordia solida simplicitate, quae (primordia) stipata minimis partibus cohaerent; non conciliata ex illorum (partium) conventu, sed pollentia aeterna simplicitate; unde natura NON concedit avelli quicquam neque deminui, reservans semina rebus. / EN: same; "nothing can be torn... so nature allows" keeps the prohibition, if loosely. MATCH
+615-618: nisi erit minimum (fut.), parvissima corpora constabunt ex partibus infinitis; quippe pars dimidiae partis habebit dimidiam partem; nec res ulla praefiniet. / EN: same. MATCH
+619-622: ergo quod escit inter summam minimamque, nil erit ut distet; nam quamvis summa sit infinita (subj.), parvissima constabunt ex infinitis partibus aeque. / EN: same. MATCH
+623-627: since vera ratio reclamat negatque animum credere posse, victus fateare necesse est esse ea quae nullis partibus praedita extent et minima natura constent; quae (the least parts) since sunt, illa (the first-beginnings) quoque esse solida atque aeterna fatendum. / EN: "since these exist, ... they too are solid" — "they" resumes "these", collapsing quae/illa. DIFF: referent of illa
+628-634: si natura creatrix consuesset (plupf. subj.) cogere cuncta resolvi in minimas partis, iam nihil reparare valeret eadem, propterea quia quae nullis partibus aucta sunt non possunt habere quae debet habere genitalis materies: conexus... per quas res geruntur. / EN: same. MATCH
+635-637: qui putarunt materiem esse ignem et summam consistere ex igni solo, lapsi videntur a vera ratione. / EN: same. MATCH
+638-644: Heraclitus dux init proelia primus, clarus ob obscuram linguam magis inter inanis quam inter Graios gravis qui vera requirunt; stolidi magis admirantur amantque omnia quae sub inversis verbis latitantia cernunt, veraque constituunt quae tangere auris possunt et fucata sunt sonore. / EN: same. MATCH
+645-646: cur possent res esse tam variae, si ex uno igni creatae sunt? / EN: same. MATCH
+647-651: nil prodesset ignem denserier nec rare fieri, si partes haberent eandem naturam quam totus ignis habet; ardor acrior esset conductis partibus, languidior disiectis. / EN: same. MATCH
+652-654: nihil est amplius quod rearis posse fieri, ne dum variantia tanta queat esse ex ignibus densis rarisque. / EN: same. MATCH
+655-664: si faciant admixtum inane, ignes denseri poterunt rarique relinqui; sed quia cernunt multa contraria et fugitant relinquere inane, dum metuunt ardua, amittunt vera viai, nec cernunt exempto inani omnia denseri et fieri unum corpus quod nil possit mittere, uti ignis iacit lumen, ut videas (ignem) non e stipatis partibus esse. / EN: same. MATCH
+665-671: quod si credunt ignis posse stingui mutareque corpus, si ex nulla parte reparcent, occidet ardor omnis ad nihilum et e nihilo fient quae creantur; nam quod mutatum exit finibus, hoc mors est illius quod fuit ante. / EN: same. MATCH
+672-674: necesse est aliquid superare incolume ollis, ne res redeant ad nilum, de nihiloque vigescat copia. / EN: same. MATCH
+675-679: since sunt corpora certissima quae conservant naturam, quorum abitu aditu mutato ordine res mutant naturam et corpora convertunt sese, scire licet haec non esse ignea. / EN: same. MATCH
+680-683: nil referret quaedam decedere, alia adtribui, quaedam mutari ordine, si cuncta tenerent naturam ardoris; ignis foret quodcumque crearet. / EN: same. MATCH
+684-689: sunt corpora quorum concursus... figurae efficiunt ignis et mutato ordine mutant naturam, neque sunt simulata igni neque ulli rei quae corpora mittere possit sensibus. / EN: same. MATCH
+690-692: dicere ignem res omnis esse neque ullam rem constare nisi ignem, quod hic facit, perdelirum videtur. / EN: same. MATCH
+693-697: ipse ab sensibus repugnat contra sensus et labefactat eos, unde credita pendent, unde cognitus est ignis; credit sensus ignem cognoscere, cetera non credit, quae nilo minus clara sunt. / EN: same. MATCH
+698-700: quod videtur vanum tum delirum; quo referemus? quid certius sensibus potest esse, qui notemus vera ac falsa? / EN: same. MATCH
+701-704: quare quisquam magis tollat omnia et velit linquere naturam ardoris solam, quam neget esse ignis, aliam relinquat? aequa dementia videtur dicere utrumque. / EN: same. MATCH
+705-711: qui putarunt materiem esse ignem..., et qui aera constituere principium, aut qui putarunt umorem fingere res, terramve creare omnia et vertier in naturas, derrasse videntur. / EN: same. MATCH
+712-715: adde qui conduplicant primordia, iungentes aera igni, terram liquori, et qui rentur omnia posse procrescere ex quattuor rebus. / EN: same. MATCH
+716-721: quorum cum primis Empedocles est, quem insula gessit, quam aequor aspargit virus, et mare dividit oras Aeoliae a finibus eius. / EN: same. MATCH
+722-725: hic est Charybdis, et murmura minantur se colligere iras rursum, ut vis vomat ignis et ferat fulgura. / EN: iras made subject of "gathering" (sense kept). MATCH
+726-730: cum regio videtur miranda et visenda fertur, opima, munita, nil tamen videtur habuisse praeclarius hoc viro nec sanctum magis... / EN: same. MATCH
+731-733: carmina vociferantur et exponunt reperta, ut vix videatur humana stirpe creatus. / EN: same. MATCH
+734-741: hic et quos diximus, inferiores, quamquam invenientes multa, responsa dedere sanctius et certa ratione magis quam Pythia, tamen fecere ruinas in principiis et cecidere. / EN: same. MATCH
+742-752: primum quod constituunt motus exempto inani et relinquunt res mollis rarasque, nec admiscent inane; deinde quod facient finem non esse secandis corporibus neque pausam stare fragori nec minimum consistere, cum videamus extremum cacumen esse quod minimum videtur, ut possis conicere extremum rerum quas non cernis minimum consistere. / EN: same. MATCH
+753-758: accedit, since primordia mollia constituunt, quae nativa et mortali corpore videmus, ut summa debeat reverti ad nihilum et copia vigescere; quid utrumque distet habebis. / EN: same. MATCH
+759-762: inimica sunt et veneno sibi inter se; quare aut congressa peribunt aut diffugient ut fulmina imbris ventosque videmus diffugere. / EN: same. MATCH
+FINDINGS
+1.627	AMBIGUITY	MODERATE	0.55	"illa quoque esse ... solida atque aeterna" turns from the least parts (quae, 626) to the first-beginnings built from them, but the English "they too" resumes "these" and makes the partless least things the subject; suggested fix: "you must admit that those, too, are solid and eternal."
