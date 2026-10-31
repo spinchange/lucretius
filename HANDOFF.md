@@ -15,6 +15,8 @@ source of truth for what has been done to each segment.
 | fidelity (Sonnet) | 58/58 | findings tables in `segments/bNN/sKK.fidelity.txt` |
 | annotate (Sonnet) | 58/58 | draft notes, all marked DRAFT |
 | review (translator, Fable) | 58/58 (all six books) | `sKK.review.txt` + `sKK.patch.tsv`; Book 2: 78 lines, Book 3: 89, Book 4: 92, Book 5: 206, Book 6: 206 lines patched |
+| gloss (Opus, second independent fidelity pass) | 58/58 on the review text and 58/58 on the Opus drafts | `sKK.gloss.txt`, `sKK.gloss-draft.txt`; the draft run calibrates the checker (it catches what the first pass caught) and its findings on lines the first review left unchanged were all adjudicated |
+| review2 (translator, Fable; every line of every book read against the Latin) | 58/58 | `sKK.patch2.tsv` with a reason per change; 149 verse lines changed (12/23/26/36/28/24 by book) |
 | assemble | all six books | `translation/book_0N.txt`, all from review text; `check_segment --all` now exits 0 |
 | notes | all six books final (76, 89, 70, 55, 89, 86 notes) | no `{{NOTE: ...}}` placeholders or DRAFT notes remain; verse unchanged, `check_narration --all` matches |
 | margin (Ross. 884) | Book 2 surveyed | 51 entries in `margin/marginalia.tsv` |
@@ -64,6 +66,19 @@ the verse.
 - Read with `python tools/sidebyside.py bNNsKK [first last]`. The fidelity
   file is `segments/bNN/sKK.fidelity.txt` (FINDINGS, then SECONDARY).
 - Reassemble with `python tools/assemble.py N` after a book's review.
+- Second round (done 2026-10-30 for all six books): `python tools/dispatch.py
+  --stage gloss` runs the Opus clause-by-clause check (`prompts/gloss.md`)
+  on the review text, `--stage gloss-draft` on the Opus drafts. The
+  translator then read every line of Books 2-6 against the Latin with the
+  gloss findings in hand (Book 1 had been read in full already). Fixes go in
+  `sKK.patch2.tsv` (comment lines give the reason), applied with
+  `python tools/review.py bNNsKK segments/bNN/sKK.patch2.tsv --round 2`,
+  which takes the review file as its base and records `review2`. A patch
+  line replaces the whole line, so a note-bearing line must carry its
+  `{{NOTE: ...}}` in the patch. After a book: `python tools/reassemble_verse.py N`
+  (verse lines only; the book file keeps its final notes), `make_narration.py N`,
+  `check_narration.py --all`, `check_segment.py --all`, then
+  `python tools/refresh_chunks.py N --apply` for the audio (below).
 
 ### Pipeline
 
@@ -272,10 +287,11 @@ rendering. The verse wording was not touched.
 
 ### Lines to fix after the audio builds
 
-All six audio builds are done (see "Audiobook" below), so this gate is
-open. Fix them in the review files as part of the second-round read of each
-book, reassemble, regenerate the narration source, and re-render the
-affected chunks in one batch per book.
+Done in the second round (2026-10-30): every item below was fixed in the
+review files (1.170, 1.179, 2.833, 4.771/4.800 now agree, 4.1034, 5.1436
+"the wakeful", 5.1401 "out of measure", 5.1453), or confirmed as a decision
+(6.750). The list is kept as the record of what was found during the audio
+builds.
 
 - 1.170 and 1.179: the English has "the shining shores of light" where the
   Latin (oras in luminis exit; in luminis oras) lacks dias. The register's
@@ -313,14 +329,29 @@ affected chunks in one batch per book.
 
 ## Next session
 
-The notes stage is complete for all six books. Before anything else, run
-`git log`, `python tools/check_segment.py --all` (expect exit 0) and
-`python tools/check_narration.py --all` (expect every book to match). Then,
-once the Book 3-6 audio renders have finished and been accepted, take up
-"Lines to fix after the audio builds" above with the user (each item is a
-verse change that needs a review-file patch, reassembly, a regenerated
-narration source and a re-rendered chunk). After that: the margin survey
-of Books 1 and 3-6, then the OCT collation (see "After the reviews").
+The second-round review is complete and committed. Before anything else, run
+`git log`, `python tools/check_segment.py --all` (expect 58 segment lines and
+exit 0) and `python tools/check_narration.py --all` (expect every book to
+match). Then:
+
+1. Audio re-render (blocked 2026-10-30 on the OpenAI account: HTTP 429
+   `credit_balance_exhausted`). Every changed chunk has already been
+   re-chunked in place with `refresh_chunks.py --apply` (old takes marked
+   superseded, chunk reopened). Once credits are added, run for N in 1..6:
+   `bash runs/resume_rerender.sh N` (synthesizes only chunks without a fresh
+   take, QAs, accepts with `--auto`, prints the report; safe to re-run), then
+   `python tools/build_audiobook.py concat --build-dir audiobook-build-book0N --force`
+   and `review --build-dir audiobook-build-book0N --force`. Hand-accept any
+   chunk the report leaves at "review" or "fail" with
+   `accept --chunk NNN --candidate K --reason "..."`. Do NOT run `prepare`
+   again: it discards every accepted candidate. State when blocked: Book 1
+   all 6 changed chunks synthesized, 4 QA'd; Book 2 needs 025 and 026
+   synthesized and 9 QA'd; Book 3 needs 020, 023, 024 synthesized and 10
+   QA'd; Books 4-6 refreshed only. Chunks changed since then by the
+   draft-gloss fixes: B1 018 023 025; B2 001 011 025; B3 006 011 013 014;
+   B4 007 008 012 014 020 021 026; B5 002 005 023; B6 007 012 016.
+2. Margin survey of Books 1 and 3-6; decide the published layout.
+3. Web build on the Iliad and Odyssey pattern.
 
 ## Audiobook (built 2026-10-30)
 
@@ -361,4 +392,17 @@ Transcription QA calls can drop on a transient TLS error and leave a take
   stage" above.
 - Margin survey of Books 1 and 3-6; decide the published layout (verse with
   Machiavelli's notes keyed to lines, DigiVatLib folio links).
-- OCT collation; then the web build on the Iliad and Odyssey pattern.
+- OCT collation: done 2026-10-30 against an OCR of Bailey's 1922 text
+  (scratch alignment script, monotone fuzzy match, reports kept out of the
+  repo). Result: the Perseus text is not Bailey's. Orthography is Munro's
+  (divom, volgo, inritat, haut, quicque, nihil), and after orthographic
+  variants are filtered about 650 word-level differences remain across the
+  six books, nearly all editorial readings (1.263 alit/alid, 1.276
+  pontus/ventus, 1.404 ferai/ferarum, 1.492 cum/tum, 1.721 Aeoliae/Italiae,
+  1.777, 1.843, 4.547, 6.956 and so on), not transcription errors. The
+  source-edition claims were corrected (latin/SOURCE.md, README, Book 1
+  commentary, this file), and the two notes that misstated Bailey's reading
+  (4.547, 6.956) were fixed from his apparatus. The Munro 1886 OCR was
+  downloaded but the alignment produced nothing usable against it; not
+  pursued.
+- Then the web build on the Iliad and Odyssey pattern.

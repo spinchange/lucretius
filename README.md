@@ -62,11 +62,13 @@ the Vatican Library's and are not reproduced here. Reference: Alison Brown,
 ```
 latin/            the Latin, one numbered file per book; SOURCE.md; source/ (TEI)
 translation/      CONVENTIONS.md (register), proem_sample.txt, book_NN.txt
-segments/         manifest.json and per-segment files bNN/sKK.{latin,translate,fidelity,annotate,review}.txt
-prompts/          the three stage prompts
+segments/         manifest.json and per-segment files bNN/sKK.{latin,translate,fidelity,annotate,review,gloss,gloss-draft}.txt
+                  and the review patches sKK.patch.tsv (round 1) and sKK.patch2.tsv (round 2, with reasons)
+prompts/          the stage prompts (translate, fidelity, annotate, gloss)
 tools/            segment, dispatch, check_segment, sidebyside, refrains, review,
-                  assemble, apply_notes, check_narration, make_narration,
-                  build_audiobook, beatcheck, extract_latin
+                  assemble, reassemble_verse, apply_notes, check_narration,
+                  make_narration, build_audiobook, refresh_chunks, beatcheck,
+                  extract_latin
 audit/            rubric and findings
 margin/           Machiavelli's marginalia
 runs/             headless run logs (not committed)

@@ -238,6 +238,18 @@ every book unless explicitly revisited. Modelled on the Iliad project's
     (6.740, 6.942, 6.962, 6.1145) are the adverb, "First" or "At first".
   - "To begin with" and "First" both stand for Principio at a paragraph
     head (6.96 "First", 6.608 "First"); either is accepted.
+- **Second-round decisions** (full read of Books 2-6 against the Latin and
+  the draft-gloss adjudication, 2026-10-30): 5.1401 numerum ... extra =
+  "to step out of measure"; 5.1436 vigilantes = "the wakeful"; 2.1084 and
+  all other eadem ratione / simili ratione = "on a like principle"
+  (enforced wherever the gloss found "in the same way"); 4.438 salsus =
+  brine, not salt water; mobilitas = mobility also at 3.646; 2.1138 the
+  thing that arises is the supply; 4.902 molimen = effort (never
+  "momentum"); 5.218 horrifer = horror-bringing; 5.1055 inauditus =
+  unheard-of; 6.319 nec temere = "not readily". Declined after reading:
+  1.17, 1.492, 2.500, 2.533 ("those others" keeps the crux noted), 2.540,
+  5.58 (aevi leges = laws of time), 5.653, 5.1068 lactant/iactant, 6.725,
+  6.830.
 - **Scientific anachronism**: never import a modern term the Latin does not
   have (no "atom" for primordia, no "molecule", no "evolution"). The notes
   may say where a modern reader will hear an anticipation; the verse may
