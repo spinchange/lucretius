@@ -77,3 +77,30 @@ canvas	folio	book.line	kind	diplomatic	expanded	english	brown	remarks
 52	40v	catchword	catchword	'Frangit' at the foot of the page, the first word of the next page	Frangit	Scribal catchword, not a note.	not listed	
 52	41r	2.1143	correction	'natura ministrat' added at the line end in lighter ink, 'Quod satis est nec quantum satis opus est [natura ministrat]'	natura ministrat	Supplies the omitted line end.	not listed	
 53	41v	3.3	correction	'nunc' added at the line end in lighter ink, 'Te sequor o Graiae gentis decus inque tuis [nunc]'	nunc	Supplies the omitted line end.	not listed	Book 3 begins on 41v after the rubric 'Lucretii liber Tertius incipit Feliciter'
+53	42r	3.30	correction	'recepta' struck before 'retecta' in 'Eripitur persona manet res' context, line 'nam verae voces ... retecta'	retecta	Scribe's own correction.	not listed	
+55	44r	3.131	correction	'h' added above 'armoniai', 'redde harmoniai'	harmoniai	Supplies the aspirate.	not listed	
+55	44r	3.131	mark	short dash in the right margin at 'redde harmoniai'	-	Attention dash at the dismissal of harmonia.	not listed	first of the Book 3 dashes
+56	44v	3.155	correction	'sonere aures' written twice, the first struck	sonere aures	Dittography caught.	not listed	
+56	44v	3.169	mark	short dash in the right margin at 'consentire animum nobis in corpore cernis'	-	Attention dash; no words.	not listed	
+59	47v	3.335	correction	'motib' struck at the line end of 335 (anticipating 336 'motibus')	[deleted]	Scribe's slip, struck.	not listed	
+60	49r	3.419	correction	'diu' in the left margin with a double-tick caret, lighter ink, 'Conquisita ^ dulcique reperta labore'	diu	Supplies the word the line dropped.	not listed	a green crayon smudge beside it (modern)
+61	49v	3.436	mark	three dots after 'discedit in auras' and a small D-shaped sign in the right margin	[sign]	Attention mark at the smoke-and-mist comparison; no words.	not listed	
+62	51r	3.513	correction	a word struck between 'aut' and 'ordine' in 'addere enim partis aut ordine traicere'	[deleted]	Scribe's slip, struck.	not listed	
+62	51r	3.518	mark	double dash '- -' in the right margin at 'inmortale quod est quicquam neque defluere hilum'	- -	Attention mark before the refrain 519-520 (= 1.670-671).	not listed	
+63	52r	3.566, 3.583, 3.591	mark	short dashes in the right margin at 'nimirum quia per venas et viscera mixtim', 'quid dubitas quin ex imo penitusque coorta' and 'quam prolapsa foras enaret in aeris auras'	-	Attention dashes through the proof that the spirit cannot survive outside the body.	not listed	
+63	52r	3.590	correction	'fui' struck before 'sibi' in 'et prius esse sibi distractam corpore in ipso'	[deleted]	False start.	not listed	
+64	52v	3.614	mark	short dash in the right margin at 'sed magis ire foras vestemque relinquere, ut anguis'	-	Attention dash; no words.	not listed	
+65	53v	3.661	marginal word	'torrari' in the left margin, lighter ink, at 'volnere tortari et terram conspargere tabo' (copy: Torrari)	torrari	The copy's reading picked out in the margin; a query or a collation note (modern texts: tortari).	not listed	compare vocamen at 2.657
+65	54r	3.692	marginal word	'( particip / or' in two lines in the right margin, lighter ink, at 'ossaque, uti dentes quoque sensu participentur'	participor (?)	A marginal word with the same bracket prefix as '(vesti' (2.10) and '(at cibetur' (1.1093); the reading and purpose are uncertain.	not listed	shows through on 54v
+66	54v	3.725	correction	'ut' squeezed in at the line end, 'conveniant unde una recesserit, hoc tamen est [ut]'	ut	Supplies the line end.	not listed	
+66	55r	3.747	mark	a small tick in the left margin at 'vis animi pariter crescit cum corpore quoque'	[tick]	Mark at the line that recurs as 763; no words.	not listed	
+68	57r	3.866	mark	short dash in the right margin at 'scire licet nobis nihil esse in morte timendum'	-	Attention dash at the conclusion that there is nothing to fear in death.	not listed	
+69	57v	3.876	mark	short dash in the right margin at 'non, ut opinor, enim dat quod promittit et unde'	-	Attention dash; no words.	not listed	
+69	58r	3.897-898	correction	'presidium' struck at the end of 897 and rewritten at the head of 898	praesidium	Anticipation caught and struck.	not listed	
+69	58r	3.898	mark	short dash in the right margin at 'praesidium. misero misere aiunt omnia ademit'	-	Attention dash at the mourners' speech.	not listed	
+70	58v	3.931	correction	'mittat' struck at the end of 931 and rewritten at the head of 932	mittat	Anticipation caught and struck.	not listed	
+71	59v	3.995	correction	'angor' added at the line end, 'quem volucres lacerant atque exest anxius [angor]'	angor	Supplies the line end (runs into the gutter).	not listed	
+71	60r	3.1026	mark	short dash in the right margin at 'qui melior multis quam tu fuit, improbe, rebus'	-	Attention dash at Ancus; no words.	not listed	a green crayon mark at 1018 above it (modern)
+72	60v	3.1042, 3.1044	mark	a small dash in the left margin at 'ipse Epicurus obit decurso lumine vitae' and one in the right margin at 'restinxit stellas exortus ut aetherius sol'	-	Two dashes flank the death of Epicurus.	not listed	
+72	61r	3.1068	correction	'lat' struck before 'ad quod' in 'hoc se quisque modo fugit, at quem scilicet, ut fit' (copy: lat ad quod)	[deleted]	False start.	not listed	
+73	61v	3.1094+	colophon	'Lucretii liber quartus incipit Feliciter' after 3.1094, then Book 4 with a drawn initial A	Lucretii liber quartus incipit feliciter.	Scribal rubric between Books 3 and 4; Book 3 ends after twelve lines on 61v.	unchecked	

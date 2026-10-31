@@ -135,4 +135,37 @@ survey, which already carried the Book 1 colophon on fol. 20v).
 - Layout confirmed: 28 lines a page throughout Book 1; Book 1 ends on 20v
   after five lines, followed by the rubric and the Greek gloss.
 
-The folios of Books 3-6 have not been surveyed.
+## Survey of Book 3 (done 2026-10-31, canvases 53-73, fols. 41v-61v)
+
+Every page of Book 3 was read. Results in `marginalia.tsv` (27 entries,
+appended after the Book 2 rows). Book 3 runs from the rubric on 41v to the
+rubric "Lucretii liber quartus incipit Feliciter" on 61v, twelve lines down,
+where Book 4 begins with a drawn initial A; the running head "Liber" /
+"Tertius" stands across 41v-42r and "Liber" / ".iii." across 50v-51r.
+
+- Brown prints nothing for Book 3; every entry is "not listed".
+- No verbal note of the Book 2 kind. Three marginal words in the lighter
+  ink: "diu" supplied at 3.419 (a correction); "torrari" at 3.661, the copy's
+  own reading picked out in the margin; and "( particip / or" at 3.692, with
+  the bracket prefix of the Book 1 and 2 marginal words, reading uncertain.
+- The characteristic mark of this book is the short right-margin dash, as at
+  2.735 and 2.741 and 1.774 and 1.780: at 3.131, 169, 518 (double), 566,
+  583, 591, 614, 866, 876, 898, 1026, 1044, with a left-margin dash at 1042
+  and a tick at 747. They thicken over the proofs that the spirit dies with
+  the body (566-614) and over the consolation (866-898, 1026-1044), where
+  the two at 1042 and 1044 flank the death of Epicurus. A D-shaped sign with
+  three dots stands at 3.436.
+- No omission of a whole line was found; the repeated line 763 is present.
+  Scribal corrections in the line or interlinear: 3.30, 131 (h added to
+  armoniai), 155, 335, 513, 590, 725 and 995 (line ends supplied), 897-898
+  and 931 (anticipations struck), 1068.
+- Not entered: the scribe's own paragraph capitals set out in the margin
+  (3.41, 94, 228, 241, 289, 350, 417, 624, 978); the quire signatures e ii -
+  e v (42r-45r), f - f v (51r-55r), g (61r); the modern pencil foliation;
+  green crayon marks (modern) at 3.419, 433 and 1018.
+- Show-through: the note at 3.692 on 54r appears reversed on 54v and is not
+  a second note.
+- Seen in passing for Book 4: "( ordia" in the right margin of 62r at 4.28
+  (in ordia prima), the lighter ink.
+
+The folios of Books 4-6 have not been surveyed.
