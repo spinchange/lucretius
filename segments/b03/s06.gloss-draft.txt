@@ -1,0 +1,150 @@
+ANALYSIS
+
+**819-823**
+- Latin: si [anima] habenda est inmortalis (gerundive, pres. subj. sense) | quod munita tenetur (pres. ind. pass.) **ab vitalibus rebus**, agent or means = life-giving things | aut quia non veniunt (neg.) aliena salutis | aut quia quae veniunt recedunt pulsa, prius quam sentire queamus quid noceant.
+- English: if it should be held immortal | that it is kept fortified **against things hostile to life** | because foreign things do not come | or those that come are driven back and retreat before we can feel the harm.
+- DIFF: vitalibus ("life-giving, vital") becomes "hostile to life". The protectors become the threat.
+
+**824-827**
+- Latin: praeter quam quod aegret (subj.) cum morbis corporis | advenit id quod eam macerat, male habet, fatigat | peccata remordent (pres.) praeteritis male admissis.
+- English: besides the fact that it sickens along with the diseases | there comes that which torments, keeps wretched, wears out | its sins gnaw for wrongs committed.
+- MATCH
+
+**828-829**
+- Latin: adde furorem proprium animi, oblivia rerum | adde quod mergitur (pres. pass.) in undas lethargi.
+- English: the same.
+- MATCH
+
+**830-831**
+- Latin: mors nil est ad nos, neque pertinet hilum | quandoquidem natura animi mortalis habetur.
+- English: the same.
+- MATCH
+
+**832-842**
+- Latin: ut nihil aegri sensimus (perf.), venientibus Poenis (abl. abs.), cum omnia contremuere (perf.), in dubio fuere utrorum ad regna cadendum esset omnibus humanis | sic, ubi non erimus, cum discidium fuerit (fut. perf.) corporis atque animai, quibus e sumus apti | haud quicquam nobis accidere poterit (fut.) sensumque movere | non si terra mari miscebitur.
+- English: just as we felt no distress when the Carthaginians were coming, when all things shuddered, it stood in doubt under which rule all men must fall | so when we shall not be, when the parting has come | nothing will be able to happen to us or move our sense | not if earth should be mingled with sea.
+- MATCH. "all men … all that is human" doubles omnibus humanis, but the sense holds.
+
+**843-846**
+- Latin: et si iam sentit (sg.) [animi natura animaeque potestas] postquam distractast | nil tamen est ad nos, qui consistimus comptu coniugioque … apti.
+- English: even if they feel after they are torn away | still it is nothing to us, who exist by the joining and wedlock.
+- MATCH
+
+**847-851**
+- Latin: nec, si collegerit aetas materiem, redegerit, fuerint data lumina vitae | pertineat (pres. subj.) quicquam ad nos id factum | cum interrupta sit repetentia nostri.
+- English: nor, if time should gather, bring back, and lights be given | would that event concern us | once recollection has been broken off.
+- MATCH
+
+**852-853**
+- Latin: nil ad nos de nobis attinet, qui ante fuimus | neque de illis nos adficit angor.
+- English: the same.
+- MATCH
+
+**854-858**
+- Latin: cum respicias spatium, tum [respicias] quam multimodi sint motus | facile possis adcredere hoc: semina … haec eadem … ante fuisse in eodem ordine posta.
+- English: the same.
+- MATCH
+
+**859**
+- Latin: nec quimus reprehendere id memori mente.
+- English: the same.
+- MATCH
+
+**860-861**
+- Latin: inter iectast pausa vitai | motus omnes deerrarunt (perf.) ab sensibus.
+- English: the same.
+- MATCH
+
+**862-864**
+- Latin: si forte misere aegreque futurumst | debet ipse quoque esse tum, cui male possit accidere.
+- English: the same.
+- MATCH
+
+**864-869**
+- Latin: quoniam mors id eximit, prohibetque esse illum cui possint incommoda conciliari | scire licet: nihil timendum in morte | nec posse miserum fieri qui non est | neque hilum differre an nullo tempore natus fuerit | cum mors inmortalis ademit vitam mortalem.
+- English: the same. "whether he had ever been born" turns nullo into a positive, but the either/or sense holds.
+- MATCH
+
+**870-875**
+- Latin: ubi videas hominem indignari, fore ut putescat aut interfiat | scire licet non sincerum sonere atque subesse stimulum cordi | quamvis neget ipse credere se sensum futurum.
+- English: the same.
+- MATCH
+
+**876-878**
+- Latin: non dat quod promittit et unde | nec se tollit et eicit e vita | sed facit esse super quiddam sui, inscius ipse.
+- English: the same.
+- MATCH
+
+**879-883**
+- Latin: cum quisque vivus proponit futurum ut volucres feraeque corpus lacerent | ipse sui miseret | neque se dividit illim nec removet satis a corpore | illum se fingit, contaminat sensu suo astans.
+- English: the same.
+- MATCH
+
+**884-887**
+- Latin: indignatur se mortalem esse creatum | nec videt nullum alium se fore in vera morte, qui possit vivus se lugere peremptum stansque dolere se iacentem lacerari urive.
+- English: the same.
+- MATCH
+
+**888-893**
+- Latin: si malumst in morte tractari malis morsuque ferarum | non invenio qui non sit acerbum torrescere, suffocari, rigere frigore cum cubat, urgeri obrutum.
+- English: the same.
+- MATCH
+
+**894-899**
+- Latin: non accipiet domus te, neque uxor | nec nati occurrent praeripere oscula, tangent pectus | non poteris esse factis florentibus et praesidium tuis | aiunt: una dies ademit tibi misero omnia praemia.
+- English: the same.
+- MATCH
+
+**900-901**
+- Latin: illud non addunt: nec insidet tibi desiderium earum rerum una.
+- English: the same.
+- MATCH
+
+**902-903**
+- Latin: si videant bene animo dictisque sequantur | dissoluant se angore metuque.
+- English: the same.
+- MATCH
+
+**904-908**
+- Latin: tu, ut es sopitus leto, sic eris privatus doloribus | at nos deflevimus te cinefactum prope busto | nulla dies demet maerorem.
+- English: the same. "Wept" is spread over 906-907, and "beside the pyre" is defensible.
+- MATCH
+
+**909-911**
+- Latin: quaerendum ab hoc: quid sit amari tanto opere, si res redit ad somnum, cur quisquam possit tabescere.
+- English: the same.
+- MATCH
+
+**912-915**
+- Latin: hoc faciunt homines ubi discubuere, tenent pocula, inumbrant ora, ut dicant ex animo: brevis est fructus; iam fuerit, neque licebit revocare.
+- English: the same.
+- MATCH
+
+**916-918**
+- Latin: tamquam hoc sit cum primis mali eorum in morte, quod sitis exurat, torrat | aut desiderium alius rei insideat.
+- English: the same.
+- MATCH
+
+**919-920**
+- Latin: nec quisquam tum requiret (fut.) se vitamque | cum mens et corpus sopita quiescunt.
+- English: no one misses (pres.) … when … lie quiet.
+- MATCH (minor tense compression).
+
+**921-925**
+- Latin: licet per nos soporem aeternum esse | nec adficit nos desiderium nostri | et tamen haud quaquam illa primordia errant longe ab **sensiferis** motibus | cum homo correptus se colligit.
+- English: the same, but sensiferis becomes "the motions that bring sense".
+- DIFF: departs from the register's fixed "sense-bearing", which is listed for this line.
+
+**926-927**
+- Latin: putandumst mortem multo minus esse ad nos | si minus esse potest quam quod nihil esse videmus.
+- English: the same.
+- MATCH
+
+**928-930**
+- Latin: maior disiectus turbae materiai consequitur leto | nec quisquam expergitus extat, quem secuta est pausa vitai.
+- English: the same.
+- MATCH
+
+FINDINGS
+820	MISTRANSLATION	MODERATE	0.65	"vitalibus ab rebus munita tenetur" says the spirit is kept fortified by life-giving things, but the English makes vitalibus its opposite, "against things hostile to life", inventing the hostile things and dropping the vital ones (sentence 819-823); "that it is kept fortified by things that give it life,"
+924	LEXICAL	MINOR	0.70	"sensiferis … motibus" is fixed in the register as "sense-bearing" with 3.924 named, but the English has "the motions that bring sense" (sentence 921-925); "wandering far from their sense-bearing motions,"

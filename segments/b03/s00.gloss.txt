@@ -1,0 +1,112 @@
+ANALYSIS
+
+**1-8.** Latin: [rel] qui primus potuisti (pf. ind. 2sg) extollere lumen e tenebris, inlustrans (ptc. → qui) commoda vitae; [main] te sequor (pres. 1sg); [main] pono (pres. 1sg) ficta vestigia in tuis pressis signis; non ita cupidus certandi quam propter amorem, [causal] quod aveo (pres.) te imitari; [quest.] quid contendat (pres. subj.) hirundo cycnis; [quest.] quid possint (pres. subj. pl.) haedi facere consimile et fortis equi vis.
+English: you who first were able to raise light, shining…; I follow you; I set down prints in your tracks; not from desire but love, because I long to imitate; how should a swallow contend; what could kids achieve to match the horse's force.
+MATCH.
+
+**9-13.** Latin: tu es inventor; tu suppeditas patria praecepta; [simile] ut apes libant omnia; nos depascimur omnia aurea dicta, dignissima perpetua vita.
+English: same structure and content.
+MATCH.
+
+**14-17.** Latin: [temporal] simul ac ratio tua (coorta divina mente) coepit (pf.) vociferari naturam rerum; diffugiunt terrores; moenia discedunt; video res geri (pres. pass. inf.) per totum inane.
+English: as soon as your reasoning, sprung from a divine mind, begins to proclaim; terrors flee; walls draw apart; I see things carried on.
+MATCH (the perfect after simul ac is idiomatic).
+
+**18-24.** Latin: apparet numen sedesque quietae, [rel. quas] neque concutiunt venti, nec aspergunt nubila nimbis, neque violat nix concreta pruina cana cadens, aether innubilus integit et ridet; natura suppeditat omnia; neque ulla res delibat pacem animi ullo tempore.
+English: same subjects, objects and negations; "them" and "their" are supplied by context.
+MATCH.
+
+**25-27.** Latin: nusquam apparent Acherusia templa; nec tellus obstat quin omnia dispiciantur (pres. subj. pass.), [rel.] quaecumque geruntur sub pedibus per inane.
+English: same.
+MATCH.
+
+**28-30.** Latin: voluptas atque horror percipit me his rebus; [causal] quod natura, tua vi, patens, retecta est (pf. pass.).
+English: same.
+MATCH.
+
+**31-40.** Latin: [causal] quoniam docui qualia sint exordia, et quam variis formis distantia volitent percita motu, quove modo possint res creari; natura animi atque animae videtur claranda esse (gerundive); et metus Acheruntis agendus (esse) foras praeceps, [rel.] qui turbat vitam, suffundens omnia, neque relinquit ullam voluptatem esse liquidam.
+English: since I have taught what the origins are like, how, differing in shapes, they fly…; the nature of mind and spirit must be made clear; and that fear [must be] driven out, which troubles life… and leaves no pleasure pure.
+MATCH. "quam variis" is loosened to "how", and "agendus" relies on gapping, but both are defensible.
+
+**41-47.** Latin: [nam quod] homines ferunt morbos et vitam infamem magis esse timendos quam Tartara; et se scire naturam animi esse sanguinis aut venti; nec egere quicquam nostrae rationis; [main] licet advertas (subj.) omnia iactari laudis causa magis quam [quod] res probetur.
+English: for though men say diseases and disgrace are more to be feared; that they know mind is blood or wind; that they have no need of our reasoning; you may observe all is boasted for praise rather than because the thing is approved.
+MATCH.
+
+**48-54.** Latin: idem, extorres, fugati, foedati, adfecti, vivunt; et tamen quocumque venere parentant, mactant pecudes, mittunt inferias manibus divis, advertunt animos acrius ad religionem.
+English: same.
+MATCH.
+
+**55-58.** Latin: quo magis convenit spectare hominem in periclis et noscere qui sit; nam verae voces eliciuntur, eripitur persona, [manet res].
+English: same, with the corrected text noted.
+MATCH.
+
+**59-64.** Latin: avarities et cupido, [rel. quae] cogunt homines transcendere fines iuris et niti (as socios ministrosque) emergere ad opes: haec vulnera aluntur (pres. pass.) formidine mortis non minimam partem.
+English: same.
+MATCH.
+
+**65-67.** Latin: contemptus et egestas videtur semota esse a vita et cunctarier ante portas leti.
+English: same.
+MATCH.
+
+**68-73.** Latin: unde, [temporal] dum homines volunt se effugisse et se remosse longe longeque, conflant rem, conduplicant divitias, accumulantes caedem; gaudent in funere fratris; odere timentque mensas consanguineum.
+English: while men wish to have fled far from these and *removed them* far, far away; they amass…
+DIFF: the Latin "se remosse" means to have removed *themselves*; the English makes the evils the object.
+
+**74-77.** Latin: consimili ratione ab eodem timore macerat invidia [eos]: illum esse potentem, illum aspectari, [rel.] qui incedit; ipsi queruntur se volvi in tenebris.
+English: same.
+MATCH.
+
+**78.** Latin: intereunt partim ergo statuarum et nominis.
+English: same.
+MATCH.
+
+**79-84.** Latin: odium vitae lucisque percipit humanos, [result] ut consciscant letum, obliti hunc timorem esse fontem curarum: hunc vexare pudorem, hunc rumpere vincula, (et) evertere… suadet (the text is corrupt).
+English: same, with the crux noted.
+MATCH.
+
+**85-86.** Latin: nam homines prodiderunt (pf. act.; the subject does the betraying) patriam parentesque, petentes vitare templa.
+English: "men have their country and dear parents / betrayed"
+DIFF: the inverted word order reads as the causative or experiential "have X betrayed" (by others), which blurs the agency.
+
+**87-90.** Refrain, verbatim with 2.55-58.
+MATCH.
+
+**91-93.** Refrain, verbatim with 1.146-148.
+MATCH.
+
+**94-97.** Latin: dico animum (quem vocamus mentem; in quo consilium locatum est) esse partem hominis nihilo minus ac manus, pes, oculi extant partes.
+English: same.
+MATCH.
+
+**98-105.** Latin: [some say] sensum animi non esse locatum certa parte, verum esse habitum vitalem, [rel.] quam Grai dicunt harmoniam, quod faciat nos vivere, cum mens siet nulla in parte; ut valetudo dicitur esse corporis et non est pars, sic non reponunt sensum certa parte; in quo diversi errare videntur.
+English: same.
+MATCH.
+
+**106-111.** Latin: corpus quod cernitur aegret, cum laetamur ex alia parte latenti; fit retro, cum miser ex animo laetatur corpore toto; non alio pacto quam si, cum pes dolet, caput sit in nullo dolore.
+English: same.
+MATCH.
+
+**112-116.** Latin: cum membra dedita somno et corpus iacet sine sensu, est aliud in nobis, [rel.] quod agitatur et accipit omnes motus laetitiae et curas inanes.
+English: same.
+MATCH.
+
+**117-120.** Latin: [purpose] ut possis cognoscere animam esse in membris neque corpus solere sentire harmonia: fit uti, [abl. abs.] detracto corpore multo, vita moretur.
+English: same; "solere" is compressed.
+MATCH.
+
+**121-127.** Latin: eadem (vita), cum corpora pauca diffugere et aer est editus, deserit venas, relinquit ossa; [purpose] ut possis noscere non omnia corpora habere aequas partes neque fulcire salutem, sed haec semina venti et vaporis curare ut vita moretur.
+English: same.
+MATCH.
+
+**128-129.** Latin: est calor ac ventus vitalis in corpore, [rel.] qui deserit artus moribundos.
+English: same.
+MATCH.
+
+**130-135.** Latin: quoniam natura animi atque animae reperta est esse *quasi* pars hominis, redde nomen harmoniae delatum, sive ipsi traxere et transtulerunt in illam rem quae egebat nomine; habeant; tu percipe cetera.
+English: since the nature of mind and spirit has been found to be a part of man; give back the name; …
+DIFF: "quasi" is dropped.
+
+FINDINGS
+85	AMBIGUITY	MODERATE	0.65	"prodiderunt" (86) is a plain active perfect with homines as subject, but the English inversion "men have their country and dear parents / betrayed" reads naturally as the causative "have X betrayed (by others)", which blurs who betrays; suggested fix: "for often before now men have betrayed their country and dear parents"
+69	MISTRANSLATION	MINOR	0.55	"se … effugisse … longe longeque remosse" has se as the object of both infinitives (to have removed *themselves* far, far away), but the English "removed them far, far away" makes contempt and want the thing removed; suggested fix: "to have fled far from these and removed themselves far, far away,"
+131	OMISSION	MINOR	0.55	"quasi pars hominis" hedges the claim (mind and spirit are *as it were* a part of man, like an organ), and the English "to be a part of man" drops quasi, stating it outright; suggested fix: "and of the spirit, to be as it were a part of man, give back the name"

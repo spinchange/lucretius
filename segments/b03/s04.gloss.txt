@@ -1,0 +1,50 @@
+ANALYSIS
+548-557. Latin: quoniam-clauses: mens [subj] est pars una + fixa manet (ind., pres., sg.) loco certo; comparison: ut aures oculi sunt + alii sensus qui[cumque] vitam gubernant; second comparison: uti manus/oculus/nares secreta [ptc. → organs] nequeunt sentire neque esse + sed lincuntur (pres. pass. pl.) parvo tempore tali; main clause: sic animus [subj] non quit (neg.) esse sine corpore et homine ipso; rel.: quod [→ corpus] vas illius videtur; sive vis fingere aliud coniunctius; quandoquidem corpus [subj] adhaeret conexu. English: since mind is a single part and stays fixed; just as ears and eyes; and other senses that steer life; just as hand, eye, nostrils, severed, cannot feel or be, yet are abandoned in short time; so mind cannot be without body and man; which [body] seems vessel; or whatever you would picture; since body clings. MATCH. The English splits tali into "in such a state", which the existing note covers. The "which" after "the man himself" leans toward man, not corpus, but it stays readable.
+
+558-562. Latin: potestas [subj] coniuncta valent + fruuntur vita (pl. sense); nec potest natura animi sola edere motus sine corpore; nec corpus cassum anima [potest] durare + uti sensibus. English: the powers have strength and enjoy life only joined; neither can the nature of the mind put forth motions without body; nor can body deprived of spirit endure and use senses. MATCH. "Only" is implied by the following nec...nec.
+
+563-565. Latin: ut oculus avolsus [ptc. → oculus] nequit dispicere ullam rem seorsum corpore; sic anima atque animus nil posse videtur. English: same. MATCH.
+
+566-575. Latin: quia [primordia] tenentur (pass.) corpore + nec possunt dissultare libera; ideo conclusa moventur motus sensiferos; quos haut possunt moveri eiecta in auras post mortem; quia non tenentur simili ratione; enim aer erit corpus atque animans, si anima poterit cohibere se + concludere in eos motus, quos agebat ante (impf.). English: held in by whole body; first-beginnings cannot leap apart; shut in, they move the sense-bearing motions, which outside the body, cast out, they cannot move; because not held by a like principle; air would be body, living thing, if spirit could hold itself and shut itself in those motions which it carried on before. MATCH.
+
+576-579. Latin: resoluto tegmine (abl. abs.) + eiectis auris (abl. abs.); fateare necessest dissolui sensus animi atque animam; quoniam causa coniunctast duobus. English: same, with "when"-clauses for the ablatives absolute. MATCH.
+
+580-591. Latin: cum corpus nequeat perferre discidium quin tabescat; quid dubitas quin vis animae diffusa emanarit (perf. subj.) uti fumus + corpus conciderit (perf. subj.); quia fundamenta mota sunt loco + manant foras per artus/flexus/foramina; ut possis noscere naturam animae dispertitam exisse + distractam esse sibi prius quam enaret. English: same. Fundamenta are made the body's ("its foundations"), and the flowing is given to the spirit. This is a defensible construal of animaeque (the Loeb reading). MATCH.
+
+592-602. Latin: dum [quis/vita] vertitur intra finis; anima labefacta videtur ire + solui tota de corpore toto; voltus [videtur] languescere; membra cadere; quod genus est cum perhibetur animo male factum / animam liquisse; ubi trepidatur + omnes cupiunt reprehendere vinclum; enim conquassatur mens + potestas animae omnis; haec conlabefiunt; ut causa gravior possit dissolvere. English: same. "About to go" softens ire ("to go") a little. MATCH.
+
+603-606. Latin: quid dubitas quin [anima] prodita, inbecilla, tegmine dempto (abl. abs.), non modo non possit durare per omnem aevom, sed nequeat consistere minimum quodvis tempus. English: same. MATCH.
+
+607-614. Latin: nec quisquam moriens videtur sentire animam ire incolumem + nec succedere ad iugulum, verum deficere locatam in certa regione; ut [quisque] scit sensus alios dissolui in sua parti; quod si mens foret (impf. subj.) inmortalis, non tam conquereretur se dissolvi, sed magis [conquereretur/sentiret se] ire foras + relinquere vestem. English: same down to 612. Then: it would not lament being dissolved, but rather go out and leave its garment. DIFF: the infinitives ire and relinquere, which depend on the verb of complaining or perceiving, become a main-verb action. The contrast is now between what the mind would feel and what it would do.
+
+615-621. Latin: cur mens consiliumque animi numquam gignitur in capite..., sed haeret unis sedibus omnibus [hominibus]; si non loca certa reddita sunt cuique ad nascendum + ubi quicquid possit durare creatum + esse partitis artubus (abl. abs.); ut numquam existat ordo praeposterus. English: same. MATCH.
+
+622-623. Latin: sequitur res rem; neque flamma solitast creari fluminibus neque algor gignier in igni. English: same. MATCH.
+
+624-626. Latin: si natura animae est inmortalis + potest sentire secreta; faciundum est eam auctam quinque sensibus. English: same. MATCH.
+
+627-628. Latin: nec possumus ratione alia proponere animas vagare. English: same. MATCH.
+
+629-630. Latin: pictores et saecla duxerunt (perf.) animas auctas sensibus. English: same. MATCH.
+
+631-633. Latin: neque oculi... esse potest animae sorsum; igitur haud possunt [unspecified pl. subj.] per se sentire neque esse. English: same, with "they" left as open as the Latin. MATCH.
+
+634-639. Latin: quoniam sentimus sensum inesse toto corpore + videmus totum esse animale; si vis aliqua praeciderit (fut. pf.) medium ut secernat partem utramque; vis animai dispertita + discissa dissicietur (fut. pass.). English: same, with the passive recast. MATCH.
+
+640-641. Latin: quod scinditur + discedit in partis abnuit naturam aeternam sibi esse. English: same. MATCH.
+
+642-651. Latin: memorant currus falciferos calentis [→ currus] abscidere membra ita de subito ut id quod decidit videatur tremere; cum mens + vis hominis non quit sentire dolorem mobilitate mali; quod mens dedita est, [is] petessit pugnam corpore relicuo; nec tenet rotas falcesque abstraxe laevam amissam cum tegmine; nec alius [tenet] dextram cecidisse, cum scandit et instat. English: same. "Swiftness" for mobilitate departs from the register's "mobility" (never "speed"), but the sense is kept. MATCH.
+
+652-653. Latin: alius conatur surgere crure adempto (abl. abs.); cum pes moribundus agitat digitos. English: same. MATCH.
+
+654-656. Latin: caput abscisum trunco servat voltum vitalem + oculos patentis donec reddidit reliquias. English: same. MATCH.
+
+657-663. Latin: si tibi sit libitum discidere ferro utrumque [snake/halves] in partis; lingua vibrante (abl. abs.); minanti cauda (abl., minanti → cauda); procero corpore; cernes omnia ancisa tortari + conspargere terram; partem priorem petere se ore; ut premat morsu, icta dolore. English: "tongue flickering and threatening"; tail and body become the objects cut ("both of them"); you will see pieces writhe and sprinkle; fore part seeks itself; to grip, struck by pain. DIFF: minanti is moved from the tail to the tongue.
+
+664-666. Latin: dicemus animas totas esse in particulis? at sequetur ea ratione unam animantem habuisse animas multas. English: same. MATCH.
+
+667-669. Latin: ergo ea quae fuit una divisast simul cum corpore; quapropter utrumque mortale putandumst; quoniam disciditur aeque in partis. English: same. MATCH.
+
+FINDINGS
+614	GRAMMAR	MODERATE	0.55	"sed magis ire foras vestemque relinquere" continues the object of conquereretur (what the dying mind would feel or complain of), but the English makes it a finite act, "but rather go out and leave its garment behind", so the mind is said to depart rather than to feel itself departing (sentence 612-614); "but rather feel itself go out and leave its garment, like a snake."
+657	MISTRANSLATION	MINOR	0.50	"minanti serpentis cauda" makes the tail the threatening part, but the English attaches "threatening" to the tongue ("with its tongue flickering and threatening"), and the tail survives only as an object cut in 658; "if, while its tongue flickers and its tail threatens, a serpent's"

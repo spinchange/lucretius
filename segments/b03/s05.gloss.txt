@@ -1,0 +1,142 @@
+ANALYSIS
+
+**670-673**
+- Latin: si [natura animai] constat (pres. ind.) inmortalis et insinuatur (pres. pass.) [nascentibus, dat.]; cur nequimus (1pl) meminisse super ante actam aetatem, nec tenemus ulla vestigia gestarum rerum?
+- English: if nature of spirit is immortal and works into body at our birth; why can we not remember, besides, the age lived before, nor keep traces of things done?
+- MATCH
+
+**674-678**
+- Latin: nam si [animi potestas] mutata est tanto opere, ut exciderit (pf. subj., result) omnis retinentia actarum rerum; id non errat longius ab leto. Quapropter fateare necessest: quae fuit ante interiisse, et quae nunc est nunc esse creatam.
+- English: if the power of mind is changed so greatly that all holding of past things has fallen away; that wanders not far from death; you must confess what was before has perished, what is now has now been created.
+- MATCH
+
+**679-685**
+- Latin: si [perfecto corpore, abl. abs.] inferri solitast [vivata potestas] tum cum gignimur et limen inimus; haud conveniebat uti videatur cresse cum corpore et una cum membris in ipso sanguine; sed convenit [eam] vivere solam per se sibi vel ut in cavea, ut corpus tamen affluat sensu omne (omne → corpus).
+- English: if, body complete, living power is wont to be brought in when born and cross threshold; it would not be fitting that it be seen to grow with body and limbs in the blood; but fitting that it live alone, for itself, as in a cage, yet so that the whole body flows with sense.
+- MATCH (cresse perfect rendered "grow"; it is defensible)
+
+**686-687**
+- Latin: quare neque putandumst animas esse expertis originis nec solutas leti lege.
+- English: we must not think spirits are without beginning, nor released from law of death.
+- MATCH
+
+**688-697**
+- Latin: nam neque putandumst [animas] insinuatas extrinsecus potuisse adnecti tanto opere corporibus; quod fieri totum contra docet manifesta res; namque [anima] ita conexa est per venas viscera nervos ossaque, uti dentes participentur sensu; ut indicat morbus et stringor aquai et lapis oppressus; nec, cum sint tam contextae, videntur posse exire incolumes et exsolvere sese salvas e nervis ossibus articulis.
+- English: the same skeleton, with plural "they" for the spirits, the clause on teeth as result, and the three indications kept.
+- MATCH
+
+**698-702**
+- Latin: quod si putas animam insinuatam extrinsecus permanare solere per membra, tanto magis [ea] peribit cum corpore fusa; quod permanat dissolvitur, interit ergo; dispertitur enim per caulas omnis.
+- English: if you think spirit, working in, is wont to seep through limbs, so much more will it perish, fused with body; what seeps is dissolved, perishes; parted through all passages.
+- MATCH
+
+**703-710**
+- Latin: ut cibus, cum diditur in membra artusque omnis, disperit et sufficit aliam naturam; sic anima atque animus, quamvis integra recens eunt, tamen dissoluuntur in manando, dum particulae (quibus creatur haec natura animi, quae nunc dominatur nata ex illa quae tunc periit partita per artus) diduntur per caulas in artus.
+- English: the same skeleton; the relatives attach to particulae, then natura, then illa.
+- MATCH
+
+**711-712**
+- Latin: natura animae videtur esse neque privata natali die nec expers funeris.
+- English: the same.
+- MATCH
+
+**713-716**
+- Latin: semina animai linquontur necne in corpore exanimo? si linquuntur et insunt, haut erit ut possit haberi inmortalis, quoniam recessit libata partibus amissis.
+- English: the same.
+- MATCH
+
+**717-721**
+- Latin: sin profugit ablata sinceris membris ita ut nullas partis liquerit; unde cadavera expirant vermes, unde copia animantum exos et exanguis perfluctuat tumidos artus?
+- English: the same.
+- MATCH
+
+**722-729**
+- Latin: quod si credis animas insinuari vermibus extrinsecus et privas posse venire, nec reputas cur milia conveniant unde una recesserit; hoc tamen est quaerendum: utrum animae venentur semina quaeque vermiculorum ipsaeque sibi fabricentur ubi sint, an insinuentur corporibus perfectis.
+- English: the same.
+- MATCH
+
+**730-737**
+- Latin: neque suppeditat dicere cur ipsae faciant quareve laborent; neque enim, sine corpore cum sunt, volitant sollicitae morbis...; corpus enim, adfine magis, laborat his vitiis; animus fungitur mala multa contage eius. Esto quamvis utile his facere corpus cum subeant; at via nulla videtur qua possint. Igitur haut faciunt animae sibi corpora et artus.
+- English: the same.
+- MATCH
+
+**738-740**
+- Latin: nec est qui insinuentur perfectis corporibus; neque poterunt esse suptiliter conexae, neque fient contagia consensu.
+- English: the same.
+- MATCH
+
+**741-747**
+- Latin: cur violentia sequitur seminium leonum, dolus volpes, fuga cervos; a patribus datur, et patrius pavor incitat artus; cur cetera omnia generascunt membris ingenioque ex ineunte aevo, si non quia vis animi, certa suo semine, crescit pariter cum corpore quoque?
+- English: the same ("every body" for quoque, read as from quisque).
+- MATCH
+
+**748-753**
+- Latin: si [anima] inmortalis foret et mutare soleret corpora, animantes essent permixtis moribus; canis effugeret incursum cervi; tremeret accipiter fugiens veniente columba (abl. abs.); desiperent homines, saperent ferae.
+- English: the same.
+- MATCH
+
+**754-759**
+- Latin: illud fertur falsa ratione, quod aiunt animam inmortalem flecti mutato corpore; quod mutatur dissolvitur, interit ergo; traiciuntur partes atque migrant ordine; quare debent posse dissolui per artus, ut intereant cunctae una cum corpore.
+- English: the same.
+- MATCH
+
+**760-764**
+- Latin: sin dicent animas hominum semper ire in corpora humana, quaeram cur e sapienti stulta queat fieri, nec prudens sit puer ullus, [763 intrusive], nec tam doctus pullus quam equi vis.
+- English: the same, with 763 kept and noted.
+- MATCH
+
+**765-768**
+- Latin: confugient: mentem tenerascere in tenero corpore. Si fit, fateare necessest animam esse mortalem, quoniam mutata per artus amittit vitam sensumque priorem.
+- English: the same.
+- MATCH
+
+**769-771**
+- Latin: quove modo poterit vis animi, confirmata pariter cum corpore quoque, tangere florem aetatis, nisi erit consors in origine prima?
+- English: the same.
+- MATCH
+
+**772-775**
+- Latin: quid vult exire membris senectis? an metuit manere conclusa in corpore putri, et ne domus fessa obruat? at non sunt ulla pericla immortali.
+- English: the same.
+- MATCH
+
+**776-783**
+- Latin: deridiculum videtur animas esse praesto ad conubia partusque, immortalis expectare mortalia membra innumero numero, certare inter se quae prima insinuetur; si non foedera pacta sunt ut quae prima advenerit insinuetur prima, neque contendant viribus hilum.
+- English: the same.
+- MATCH
+
+**784-787**
+- Latin: non arbor in aethere, non nubes in aequore esse queunt, nec pisces vivere in arvis, nec cruor in lignis, neque sucus saxis inesse. Certum ac dispositumst ubi quicquid crescat et insit.
+- English: the same.
+- MATCH
+
+**788-793**
+- Latin: animi natura nequit oriri sola sine corpore, neque esse longius a nervis et sanguine. Si posset, vis animi multo prius posset esse in capite aut umeris aut calcibus, et innasci soleret quavis in parte, tandem in eodem homine manere.
+- English: the same.
+- MATCH
+
+**794-797**
+- Latin: quoniam in nostro corpore constat certum dispositumque videtur ubi possit esse et crescere sorsum anima atque animus, tanto magis infitiandum totum posse extra corpus durare genique.
+- English: the same.
+- MATCH
+
+**798-799**
+- Latin: corpus ubi interiit, necessest confiteare animam periisse distractam in corpore toto.
+- English: the same.
+- MATCH
+
+**800-805**
+- Latin: desiperest mortale aeterno iungere et putare una consentire et fungi mutua posse; quid diversius putandumst quam mortale, iunctum inmortali et perenni in concilio, tolerare saevas procellas?
+- English: the same.
+- MATCH
+
+**806-818**
+- Latin: quaecumque manent aeterna necessest:
+  - aut, quia sunt solido corpore, respuere ictus nec pati penetrare quicquam quod queat dissociare artas partis, ut corpora materiai sunt;
+  - aut durare posse per omnem aetatem, quia sunt expertia plagarum sicut inane, quod manet intactum neque fungitur ab ictu;
+  - aut quia nulla loci copia sit circum, quo res possint discedere dissoluique, sicut summa summarum aeterna est, neque extra locus est quo diffugiant, neque corpora quae possint incidere et dissolvere plaga.
+- English: the same three-part structure.
+- MATCH
+
+FINDINGS
+NONE

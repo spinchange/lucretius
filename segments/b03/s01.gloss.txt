@@ -1,0 +1,164 @@
+ANALYSIS
+
+136-139
+- Latin skeleton: dico [inf.] animum atque animam coniuncta teneri inter se (pass.) + unam naturam conficere ex se; sed consilium (subj.) caput esse quasi et dominari in corpore toto; rel. quod nos animum mentemque vocamus (pres. ind. 1pl).
+- English skeleton: I say mind and spirit are held joined, make up one nature; but the head/lord over whole body is the counsel; which we call mind and thought.
+- MATCH. Dominari is rendered as the appositive "lord", which keeps the sense.
+
+140
+- Latin skeleton: id (consilium) situm haeret (pres. ind.) media regione pectoris.
+- English skeleton: this is set and fixed in the middle region of the breast.
+- MATCH.
+
+141-142
+- Latin skeleton: enim; hic exultat pavor ac metus; circum haec loca laetitiae mulcent; ergo hic mens animusque est.
+- English skeleton: for here dread and fear leap up; around these places joys caress; therefore here are thought and mind.
+- MATCH.
+
+143-144
+- Latin skeleton: cetera pars animae (dissita per totum corpus) paret et movetur (pass.) ad numen momenque mentis.
+- English skeleton: the rest of the spirit, scattered, obeys and moves at the mind's nod and impulse.
+- MATCH.
+
+145-146
+- Latin skeleton: id (consilium) solum per se sapit et sibi gaudet; cum-clause: neque animam neque corpus res commovet una.
+- English skeleton: this alone knows and is glad for itself; when nothing moves spirit or body along with it.
+- MATCH.
+
+147-151
+- Latin skeleton: quasi cum caput aut oculus laeditur (pass.) temptante dolore (abl. abs.), non concruciamur omni corpore; sic animus laeditur ipse laetitiaque viget nonnumquam; cum cetera pars animai nulla novitate cietur (pass.).
+- English skeleton: as when head or eye is hurt by attacking pain, we are not tormented in the whole body; so mind is sometimes hurt or thrives; when the rest of spirit is stirred by nothing new.
+- MATCH. "or" for -que is defensible.
+
+152-160
+- Latin skeleton: ubi mens commota est metu vementi magis; videmus [inf.] consentire animam totam, sudores palloremque existere, infringi linguam, vocem aboriri, caligare oculos, sonere auris, succidere artus; denique videmus concidere homines saepe; result: ut quivis noscere possit (subj.) esse animam coniunctam cum animo; rel. quae, cum percussa est vi animi, exim propellit et icit corpus.
+- English skeleton: when mind is moved by more violent fear, we see the whole spirit feel with it; sweat, pallor, faltering tongue, failing voice, dark eyes, ringing ears, limbs giving way; finally we see men collapse; so that anyone may learn the spirit is joined with mind and, struck by mind's force, drives and strikes the body.
+- MATCH. The symptoms are moved out from under "we see" with no change of sense.
+
+161-167
+- Latin skeleton: haec ratio docet naturam animi atque animai esse corpoream; enim, ubi (it) videtur propellere, corripere, mutare, regere ac versare; quorum nil videmus fieri posse sine tactu nec tactum sine corpore; nonne fatendumst animum animamque constare corporea natura?
+- English skeleton: same; "it is seen to drive / snatch / change / steer and turn"; none of which we see can happen without touch, nor touch without body; must we not admit...
+- MATCH.
+
+168-169
+- Latin skeleton: praeterea cernis animum pariter fungi cum corpore et una consentire.
+- English skeleton: further, you see the mind is acted on together with the body and feels along with it.
+- MATCH.
+
+170-176
+- Latin skeleton: si minus offendit vitam vis teli adacta (ossibus ac nervis disclusis, abl. abs.); at tamen insequitur languor, petitus terrae suavis, aestus mentis qui gignitur in terra, interdum incerta voluntas exsurgendi; ergo necessest naturam animi esse corpoream, quoniam laborat telis ictuque.
+- English skeleton: if the weapon's force, though not striking out life, is driven in, laying open bones and sinews; yet faintness, pleasant sinking, turmoil born in the mind on the earth, now and then a wavering will to rise follow; therefore the mind's nature must be bodily, since it suffers from weapons and blow.
+- MATCH. The protasis is recast concessively, but the sense is kept.
+
+177-178
+- Latin skeleton: pergam (fut. 1sg) rationem reddere dictis; indirect questions: quali sit corpore is animus, et unde constiterit.
+- English skeleton: I shall go on to give an account; of what body this mind is and from what composed.
+- MATCH.
+
+179-181
+- Latin skeleton: aio esse persuptilem et constare factum minutis corporibus; licet advertas animum hinc, ut pernoscere possis.
+- English skeleton: same.
+- MATCH.
+
+182-185
+- Latin skeleton: nil videtur fieri tam celeri ratione quam si mens proponit et inchoat; ergo animus se perciet ocius quam ulla res quorum natura videtur in promptu.
+- English skeleton: same.
+- MATCH.
+
+186-188
+- Latin skeleton: quod tanto opere mobile est debet constare seminibus rutundis minutisque; purpose: uti inpulsa (semina) moveri possint parvo momine.
+- English skeleton: same.
+- MATCH.
+
+189-190
+- Latin skeleton: namque aqua movetur et flutat tantillo momine; quippe creata volubilibus parvisque figuris.
+- English skeleton: same.
+- MATCH.
+
+191-195
+- Latin skeleton: at mellis natura constantior est, latices pigri, actus cunctantior; enim haeret magis copia materiai, quia non extat corporibus tam levibus, suptilibus, rutundis.
+- English skeleton: same.
+- MATCH.
+
+196-199a
+- Latin skeleton: namque aura papaveris potest cogere ut acervus diffluat (subj.) ab summo; at coniectum lapidum spicarumque noenu potest.
+- English skeleton: same.
+- MATCH.
+
+199b-202
+- Latin skeleton: igitur corpora pro quam parvissima et levissima sunt, ita mobilitate fruuntur; at quae magis cum pondere aspera inveniuntur, eo magis stabilita sunt.
+- English skeleton: same, proportional.
+- MATCH.
+
+203-205
+- Latin skeleton: quoniam natura animi reperta est mobilis egregie, necessest constare corporibus parvis levibus rutundis.
+- English skeleton: same.
+- MATCH.
+
+206-207
+- Latin skeleton: quae res cognita utilis invenietur et opportuna cluebit (fut.).
+- English skeleton: same.
+- MATCH.
+
+208-215
+- Latin skeleton: haec res dedicat naturam eius; indirect questions: quam tenui textura constet, quam parvo loco se contineat si possit conglomerari; quod, simul atque quies leti hominem indepta est et natura animi animaeque recessit, nil cernas (pot. subj.) libatum ad speciem, nihil ad pondus; mors omnia praestat praeter sensum vaporemque.
+- English skeleton: same.
+- MATCH.
+
+216-220
+- Latin skeleton: ergo necessest animam totam esse perparvis seminibus nexam per venas viscera nervos; quatenus, ubi omnis cessit, circumcaesura se incolumem praestat nec defit hilum ponderis.
+- English skeleton: same.
+- MATCH.
+
+221-227
+- Latin skeleton: quod genus est, cum flos Bacchi evanuit, cum spiritus unguenti diffugit, cum sucus de aliquo corpore cessit; res ipsa nil minor videtur oculis neque [videtur] detractum quicquam de pondere; quia semina efficiunt sucos et odorem in toto corpore rerum (= of these substances).
+- English skeleton: same, but "nor is anything taken" is asserted outright; the final phrase is "in the whole body of things".
+- DIFF. "toto corpore rerum" (the whole body of the wine, perfume and so on) reads in English as the body of the universe.
+
+228-230
+- Latin skeleton: quare scire licet naturam mentis animaeque creatam esse pauxillis seminibus, quoniam fugiens nil ponderis aufert.
+- English skeleton: same.
+- MATCH.
+
+231
+- Latin skeleton: nec haec natura putanda est simplex.
+- English skeleton: same.
+- MATCH.
+
+232-236
+- Latin skeleton: enim aura tenvis deserit moribundos, mixta vapore; vapor trahit aera; nec calor est cui non mixtus sit aer; quod natura eius rara constat, necessest primordia aeris multa moveri inter eum.
+- English skeleton: same.
+- MATCH.
+
+237-240
+- Latin skeleton: igitur natura animi reperta est triplex; nec haec cuncta sat sunt ad sensum creandum; quoniam mens recipit nil horum posse creare sensiferos motus [et ea] quae mente volutat.
+- English skeleton: same.
+- MATCH.
+
+241-245
+- Latin skeleton: necessest quarta natura adtribuatur; ea est nominis expers; qua nil mobilius tenviusve extat nec e parvis levibusque elementis magis; quae prima didit sensiferos motus per artus.
+- English skeleton: same.
+- MATCH.
+
+246-251
+- Latin skeleton: enim prima cietur, perfecta parvis figuris; inde calor et venti potestas accipit motus, inde aer, inde omnia mobilitantur; concutitur sanguis, viscera persentiscunt, postremis ossibus medullisque datur, sive voluptas sive ardor contrarius est.
+- English skeleton: same.
+- MATCH.
+
+252-255
+- Latin skeleton: nec potest dolor penetrare huc temere neque malum permanare, quin omnia perturbentur usque adeo ut vitae desit locus et partes animai diffugiant per caulas corporis omnis.
+- English skeleton: same.
+- MATCH.
+
+256-257
+- Latin skeleton: sed plerumque fit finis motibus in summo corpore; hanc ob rem valemus retinere vitam.
+- English skeleton: same.
+- MATCH.
+
+258-261
+- Latin skeleton: egestas sermonis abstrahit [me] aventem reddere rationem invitum; indirect questions: quo pacto mixta vigeant, quibus modis compta; sed ut potero attingere, tangam.
+- English skeleton: same, with "aventem" made concessive.
+- MATCH.
+
+FINDINGS
+227	AMBIGUITY	MINOR	0.50	"in toto corpore rerum" means throughout the whole body of these substances (the wine, perfume and savory body of 221-223), but "the whole body of things" reads, under this register's "nature/sum of things", as the body of the universe; "the savors and the scent throughout the whole body of these things."

@@ -1,0 +1,70 @@
+ANALYSIS
+
+**1053-1059**
+- Latin: si possent (impf. subj., 3 pl.) homines + noscere: e quibus causis id fiat (subj.), unde tanta mali tamquam moles constet (subj.).
+  - proinde ac sentire videntur (3 pl.) pondus inesse animo (acc.+inf.); quod (pondus) se fatiget (subj., se = homines).
+  - Apodosis: haut agerent (impf. subj., neg.) vitam, ut videmus (1 pl.) quisque nescire quid velit, quaerere semper, commutare locum; quasi possit (subj.) onus deponere.
+- English: if men could (as they feel a weight lies in the mind, wearing them) also know the causes and source of the mass of evil, they would not live as we see them, each not knowing, seeking to change place, as if he could set down his burden.
+- MATCH ("plainly feel" for sentire videntur is defensible).
+
+**1060-1062**
+- Latin: exit (3 sg.) ille, quem pertaesumst esse domi, revertit; quippe qui sentiat (subj.) foris nihilo melius esse.
+- English: he goes out, who is weary of home, comes back, since he feels no better off outside.
+- MATCH
+
+**1063-1067**
+- Latin: currit (3 sg.) agens mannos ad villam, quasi instans ferre auxilium tectis ardentibus; oscitat, cum tetigit (perf.) limina; aut abit in somnum gravis, oblivia quaerit; aut properans urbem petit atque revisit.
+- English: he races, as if pressing to bring help to a house on fire; yawns when he has touched the threshold; or sleeps, seeks forgetfulness; or hurries back to the city.
+- MATCH
+
+**1068-1070**
+- Latin: hoc modo se quisque fugit; at quem (se) effugere haut potis est (neg.).
+  - ingratis haeret (3 sg., subject quisque) et odit (quisque, object quem/se).
+  - propterea quia aeger non tenet causam morbi.
+- English: each flees himself, cannot escape that self; **it (the self) clings** against his will, and he hates it, because he does not grasp the cause.
+- DIFF: the subject of haeret is shifted from the man to the self.
+
+**1071-1075**
+- Latin: quam (causam) si bene videat (pres. subj.), iam quisque rebus relictis (abl. abs.) studeat cognoscere naturam rerum.
+  - quoniam ambigitur (pass.) status temporis aeterni, non unius horae.
+  - in quo (statu) sit omnis aetas mortalibus, quae post mortem restat manendo.
+- English: if he saw it, each would leave affairs and study the nature of things, since the state of eternal time is in question, in which mortals must spend the age remaining after death.
+- MATCH
+
+**1076-1077**
+- Latin: quae mala tanta cupido vitai (nom.; mala and tanta both modify cupido) nos subigit trepidare?
+- English: what evil, what great craving for life compels us to tremble?
+- DIFF: mala is made a separate noun ("what evil") instead of an adjective on cupido.
+
+**1078-1079**
+- Latin: certe equidem finis vitae mortalibus adstat; nec pote (est) devitari letum, quin obeamus (subj.).
+- English: surely a **fixed** end stands waiting; death cannot be avoided; we must meet it.
+- DIFF: "fixed" has no Latin; certe is already rendered by "Surely".
+
+**1080-1084**
+- Latin: versamur (1 pl.) ibidem, insumus usque; nec procuditur (pass.) ulla nova voluptas vivendo.
+  - dum abest quod avemus, id videtur exsuperare cetera; post, cum contigit illud, aliud avemus.
+  - sitis aequa vitai tenet (nos) semper hiantis (acc. pl.).
+- English: same structure; "holds us, always gaping."
+- MATCH
+
+**1085-1086**
+- Latin: in dubio est quam fortunam vehat (subj.) postera aetas, quid ferat casus, qui exitus instet.
+- English: same.
+- MATCH
+
+**1087-1089**
+- Latin: nec demimus (1 pl.) hilum de tempore mortis vitam ducendo; nec delibare valemus, quo minus possimus (subj.) esse diu forte perempti.
+- English: same, with "dead for less long."
+- MATCH
+
+**1090-1094**
+- Latin: licet (tibi) condere vivendo quod vis saecla; mors aeterna illa tamen manebit (fut.).
+  - nec minus diu ille iam non erit (fut., neg.), qui ex hodierno lumine finem vitai fecit (perf.), et ille, qui ante occidit (perf.) multis mensibus atque annis.
+- English: same.
+- MATCH
+
+FINDINGS
+1069	MISTRANSLATION	MODERATE	0.62	In "ingratis haeret et odit" the subject of haeret is the man (he clings to the self he cannot escape, as he is also the subject of odit), but the English makes the self the subject ("it clings against his will"), shifting the agency within the sentence of 1068-1070; fix: "he cannot escape; he clings to it against his will, and hates it,"
+1077	GRAMMAR	MINOR	0.55	"quae mala ... tanta cupido" is a single noun phrase (what great, evil craving), but the English splits mala off as a separate substantive ("what evil, what great craving"), creating a second subject the Latin lacks; fix: "what great and evil craving for life compels us?"
+1078	ADDITION	MINOR	0.50	"certe equidem finis vitae mortalibus adstat" has the adverb certe, rendered as "Surely", and nothing behind "fixed", which turns the adverb into a second, adjectival rendering; fix: "Surely an end of life stands waiting for mortals,"

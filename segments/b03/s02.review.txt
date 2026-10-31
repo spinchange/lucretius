@@ -48,8 +48,8 @@
   309  those first traces of the nature of each one's mind.
   310  Nor must we think that faults can be torn out by the roots,
   311  so that one man does not run more readily to fierce anger,
-  312  another be assailed a little sooner by fear, and a third
-  313  take certain things more mildly than is right.
+  312  another not be assailed a little sooner by fear, a third
+  313  not take certain things more mildly than is right.
   314  And in many other things the varied natures of men
   315  must differ, and the characters that follow on them;
   316  whose hidden causes I cannot now set out,
@@ -80,8 +80,8 @@
   341  but stays unharmed, not so, I say, can the limbs, left behind,
   342  endure the separation of the spirit,
   343  but they perish utterly, torn apart, and rot away.
-  344  So from the beginning of life the body and the spirit,
-  345  learn the mutual contacts of the motions of life,
+  344  So from the beginning of life the mutual contacts
+  345  of body and spirit learn the motions of life,
   346  even while laid away in the mother's limbs and womb,
   347  so that separation cannot happen without ruin and harm;
   348  so that you may see, since the cause of their safety is joined,

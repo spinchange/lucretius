@@ -1,0 +1,200 @@
+ANALYSIS
+
+**381-390**
+- Latin: neque sentimus (pres. ind. 1pl) [adhaesum pulveris corpore, inter dum]; nec [cretam incussam membris, sidere]; nec sentimus [nebulam noctu, fila arani obvia]; quando obretimur (pres. pass. 1pl) euntes; nec [vestem vietam eiusdem cecidisse supera caput] (perf. inf.); nec [plumas, pappos volantis]; qui (pappi) cadunt gravatim nimia levitate; nec sentimus [itum animantis repentis], nec [vestigia priva], quae culices ponunt corpore in nostro.
+- English: we do not feel dust clinging, chalk dashed and settling; do not feel mist or threads meeting us; when we are netted; nor the same spider's garment fallen; nor feathers or down, which fall reluctantly from lightness; nor the passage of a creeping creature, nor footprints that gnats set down.
+- MATCH
+
+**391-395**
+- Latin: usque adeo prius est ciendum (gerundive, impers.) multa in nobis quam primordia animai concussa sentiscant (pres. subj.), semina inmixta; et quam tuditantia possint (subj.) concursare, coire, dissultare in his intervallis.
+- English: many things must be stirred first before the first-beginnings, shaken, can feel; and before, beating across these gaps, they can run together, unite, leap apart.
+- MATCH
+
+**396-397**
+- Latin: animus est magis coercens claustra vitai et dominantior ad vitam quam vis animai.
+- English: the mind holds the barriers more firmly and is more master than the force of spirit.
+- MATCH
+
+**398-401**
+- Latin: nequit (neg.) pars ulla animai residere per artus exiguam partem temporis sine mente animoque; sed insequitur comes, discedit in auras, linquit artus gelidos.
+- English: no part of spirit can remain without thought and mind; it follows as companion, departs, leaves the limbs cold.
+- MATCH
+
+**402-407**
+- Latin: at manet in vita (he) cui mens animusque remansit, quamvis est lacer (membris caesis, abl. abs.); truncus (anima adempta, membris remotis) vivit et suscipit auras; privatus magna parte animai, cunctatur et haeret.
+- English: he stays in life in whom thought and mind remain, however torn ("his trunk" anticipates 404); the trunk lives and draws in air; deprived of a great part, it lingers.
+- MATCH (compression only)
+
+**408-412**
+- Latin: ut, oculo lacerato (abl. abs.), si pupula mansit incolumis, stat potestas cernundi, dum modo ne corrumpas orbem et circum caedas aciem et relinquas solam; id enim non fiet sine pernicie eorum.
+- English: as, the eye torn, if the pupil remains unharmed, the power of seeing stands, provided you do not ruin the orb, cut round the pupil and leave it alone; that too will not happen without destruction of both.
+- MATCH
+
+**413-415**
+- Latin: at si illa pars media peresa est (perf. pass.), occidit lumen, secuntur tenebrae, quamvis orbis incolumis.
+- English: the same.
+- MATCH
+
+**416**
+- Latin: anima atque animus vincti sunt hoc foedere semper.
+- English: the same.
+- MATCH
+
+**417-420**
+- Latin: ut noscere possis (purpose) animos animasque levis esse nativos et mortalis animantibus, pergam (fut. 1sg) disponere carmina conquisita, reperta, digna.
+- English: the same.
+- MATCH
+
+**421-424**
+- Latin: tu fac subiungas (subj.) utrumque uno nomine; cum pergam dicere animam, docens mortalem esse, credas (subj.) me dicere animum quoque, quatenus est unum et res coniuncta.
+- English: the same.
+- MATCH
+
+**425-433**
+- Latin: (anacoluthon) quoniam docui tenuem constare minutis corporibus, factam minoribus principiis quam umor, nebula, fumus; nam praestat mobilitate et movetur icta a tenui causa magis; quippe movetur imaginibus fumi nebulaeque; quod genus cernimus altaria exhalare vaporem; nam simulacra geruntur.
+- English: the same, with the break noted.
+- MATCH
+
+**434-439**
+- Latin: quoniam cernis diffluere umorem (vasis quassatis, abl. abs.) et quoniam nebula fumusque discedit, crede (impv.) animam diffundi, perire ocius, dissolvi in corpora prima, cum ablata recessit.
+- English: the same.
+- MATCH
+
+**440-444**
+- Latin: cum corpus, quod constitit vas eius, nequit cohibere (hanc), conquassatum et rarefactum (sanguine detracto), qui credas (potential subj.) hanc posse cohiberier aere ullo, qui sit rarus magis incohibens?
+- English: the same.
+- MATCH
+
+**445-446**
+- Latin: sentimus mentem gigni cum corpore, crescere, senescere.
+- English: the same.
+- MATCH
+
+**447-448**
+- Latin: ut pueri vagantur corpore infirmo tenero, sic sequitur sententia tenvis animi.
+- English: the same.
+- MATCH
+
+**449-450**
+- Latin: ubi aetas adolevit viribus robustis, consilium maius et vis animi auctior est.
+- English: the same.
+- MATCH
+
+**451-454**
+- Latin: ubi corpus quassatum est viribus aevi et artus ceciderunt (viribus obtusis, abl. abs.), claudicat ingenium, delirat lingua, labat mens; omnia deficiunt, desunt.
+- English: the same.
+- MATCH
+
+**455-458**
+- Latin: convenit omnem naturam animai dissolui ceu fumus in auras; quandoquidem videmus (eam) gigni, crescere, fatisci.
+- English: the same.
+- MATCH
+
+**459-462**
+- Latin: accedit uti videamus, ut corpus suscipere morbos dolorem, sic animum curas luctum metum; quare convenit (eum) participem leti esse.
+- English: the same.
+- MATCH
+
+**463-469**
+- Latin: animus errat avius in morbis corporis; dementit, fatur delira; fertur gravi lethargo in soporem (oculis nutuque cadenti); unde neque exaudit voces nec potis est noscere voltus illorum, qui revocantes circum stant rorantes.
+- English: the same ("down" is slight colour).
+- MATCH
+
+**470-473**
+- Latin: fateare (subj.) necessest animum dissolui, quandoquidem contagia penetrant; nam dolor ac morbus uterque fabricator leti, quod perdocti sumus ante.
+- English: the same.
+- MATCH
+
+**474-475**
+- Latin: corrupt; mentem sanari corpus ut aegrum, et pariter ... inani.
+- English: rendered as printed, with a note.
+- MATCH
+
+**476-483**
+- Latin: cur, cum vis vini acris penetravit hominem et ardor discessit diditus in venas, consequitur gravitas, praepediuntur crura, tardescit lingua, madet mens, nant oculi, clamor singultus iurgia gliscunt, cetera secuntur; cur ea sunt, nisi quod violentia vini consuevit conturbare animam?
+- English: the same.
+- MATCH
+
+**484-486**
+- Latin: quaecumque queunt conturbari impediri significant, si causa durior insinuarit, fore ut pereant privata aevo futuro.
+- English: the same.
+- MATCH
+
+**487-494**
+- Latin: aliquis coactus vi morbi concidit, spumas agit, ingemit, tremit, desipit, extentat nervos, torquetur, anhelat, fatigat membra; quia vis morbi distracta per artus turbat agens animam, spumans (nom. sg. = vis), ut undae fervescunt.
+- English: someone falls, foams, groans... because the force of disease, dispersed, drives and troubles the spirit, "foaming" placed after "spirit".
+- DIFF: spumans agrees with vis; the English places "foaming" so that it reads as describing the spirit.
+
+**495-498**
+- Latin: exprimitur gemitus, quia membra adficiuntur dolore et quod semina vocis eliciuntur et feruntur glomerata ore foras, qua consuerunt et sunt munita viai.
+- English: the same.
+- MATCH
+
+**499-501**
+- Latin: desipientia fit, quia vis animi atque animai conturbatur et divisa disiectatur, distracta veneno.
+- English: the same.
+- MATCH
+
+**502-505**
+- Latin: ubi causa morbi reflexit et umor redit in latebras, tum (ille) quasi vaccillans consurgit, redit in sensus, receptat animam.
+- English: the same.
+- MATCH
+
+**506-509**
+- Latin: ubi haec iactentur morbis in corpore et laborent distracta, cur credis eadem posse degere aetatem sine corpore in aere?
+- English: the same.
+- MATCH
+
+**510-512**
+- Latin: quoniam cernimus mentem sanari et videmus flecti medicina posse, id praesagit mentem vivere mortalem.
+- English: the same.
+- MATCH
+
+**513-516**
+- Latin: aecumst (eum) addere partis, traiecere ordine, detrahere hilum, quicumque adoritur commutare animum aut quaerit flectere naturam.
+- English: the same.
+- MATCH
+
+**517-518**
+- Latin: quod inmortale est neque vult partis transferri sibi nec quicquam tribui neque hilum defluere.
+- English: the same.
+- MATCH
+
+**519-520**
+- Latin: refrain.
+- English: verbatim 1.670-671.
+- MATCH
+
+**521-522**
+- Latin: animus sive aegrescit sive flectitur a medicina, mittit signa mortalia.
+- English: the same.
+- MATCH
+
+**523-525**
+- Latin: vera res videtur occurrere falsae rationi, praecludere effugium eunti, convincere falsum refutatu ancipiti.
+- English: the same.
+- MATCH
+
+**526-530**
+- Latin: cernimus hominem ire, deperdere sensum; digitos livescere, pedes crura mori, vestigia leti ire per artus.
+- English: the same.
+- MATCH
+
+**531-532**
+- Latin: quoniam natura animae scinditur nec existit sincera uno tempore, habendast mortalis.
+- English: the same.
+- MATCH
+
+**533-539**
+- Latin: si putas (eam) posse se trahere, conducere partis, diducere sensum, at locus ille, quo copia animai cogitur, debet videri in sensu maiore; qui (locus) quoniam nusquamst, (anima) dilaniata (fem.) dispargitur, interit.
+- English: since "it" (the place) is nowhere, "it" torn to pieces is scattered and perishes.
+- DIFF: the subject switches from locus to anima in 539; the English keeps "it" for both, so the place appears to be what is torn and perishes.
+
+**540-547**
+- Latin: si libeat concedere falsum et dare animam posse glomerari in corpore eorum qui lincunt lumina, fateare animam mortalem; nec refert utrum pereat dispersa an obbrutescat contracta, quando sensus deficit hominem et vitae minus restat.
+- English: the same.
+- MATCH
+
+FINDINGS
+539	AMBIGUITY	MODERATE	0.58	In "qui quoniam nusquamst ... dilaniata foras dispargitur, interit ergo" the subject changes from locus (qui, 538) to the spirit (dilaniata, feminine), but the English "and since it is nowhere ... torn to pieces it is scattered abroad, and therefore perishes" keeps the same "it", so it reads as the place that is torn and perishes; suggested fix: "the spirit, torn to pieces, is scattered abroad, and therefore perishes."
+493	AMBIGUITY	MODERATE	0.55	"spumans" is nominative and agrees with "vis morbi" (492), not with accusative "animam", but "drives and troubles the spirit, foaming," attaches the foaming to the spirit; suggested fix: "foaming, drives and troubles the spirit, as on the salt sea"
