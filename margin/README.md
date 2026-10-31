@@ -221,5 +221,48 @@ lines down, where Book 5 begins with an initial Q in grey. Running heads:
   at 4.449 (modern); show-through of the marginal block of 64r on 64v and
   grey show-through in the margins of 75r and 84r.
 
-The folios of Books 5 and 6 have not been surveyed. Seen in passing for
-Book 5: a marginal correction at 5.31 on 85r ("Stimphala" / "colotes").
+## Survey of Book 5 (done 2026-10-31, canvases 96-122, fols. 84v-110v)
+
+Every page of Book 5 was read (canvases 98-124 downloaded for it). Results in
+`marginalia.tsv` (42 entries, appended after the Book 4 rows). Book 5 runs
+from the rubric on 84v, where the grey initial Q begins 5.1 after six lines
+of Book 4, to 110v, where after fifteen lines a small colophon in the lighter
+ink ("quintus explicit feliciter") and the rubric "Lucretii liber sextus
+incipit foeliciter" precede Book 6. Running heads: "Liber" / "Quintus"
+across 84v-85r, "Liber" / ".V." across 85v-86r, "Liber" / "Sextus" across
+110v-111r.
+
+- Brown prints nothing for Book 5; every entry is "not listed".
+- No verbal note. One marginal word in the lighter ink with the bracket
+  prefix: "( metutum" at 5.1140 on 105r, the rare participle in "nimis ante
+  metutum". Nothing else in the lighter ink beyond the colophon on 110v and
+  the line end "Stimphala colotes" run out into the margin of 85r.
+- Marks: right-margin dashes at 5.102, 321, 909, 938, 1296 (five, against
+  sixteen in Book 4); four dotted lines at 1096-1100, the discovery of fire
+  from rubbing branches; a capital "H" in the right margin at 499, purpose
+  unclear; two left-margin strokes at 1115 and 1181 in the text ink, probably
+  the scribe's own ticks.
+- The line order of the exemplar shows at 5.26, given as two lines after 31
+  ("tanto opere officerent nobis uncisque timendis / unguibus Arcadiae
+  volucres Stymphala colentes", the Italian expansion of the Stymphalian
+  birds), and at 570-574, where the repeated line stands before and after
+  570 and not after 573. No whole line was found missing.
+- Scribal corrections in the line or interlinear, twenty-six of them: 5.26
+  (dittography), 183, 210, 264-266, 294, 491, 522, 609, 640 (a letter
+  supplied over a hole in the leaf), 669, 778, 803, 806, 884 (the copy's
+  "puer adhuc" struck back to the received text), 925, 977, 993, 1039,
+  1126, 1169, 1173, 1174, 1187, 1278, 1399, 1421. Most are false starts
+  anticipating the next word.
+- Not entered: the scribe's paragraph capitals and flourishes (5.76, 92,
+  146, 200, 240, 251, 261, 273, 281, 306, 324, 396, 419, 471, 510, 564,
+  590, 629, 663, 673, 680, 705, 722, 727, 737, 752, 780, 836, 877, 889, 901,
+  907, 916, 962, 1241, 1281); the catchword "Preterea" boxed at the foot of
+  90v (entered once) with the quire signatures k - k v (91r-95r), L - L v
+  (101r-105r) and M (111r): quires of ten leaves, k = fols. 91-100, L =
+  101-110; a brown-ink "iij" with a bracket at the head of 108v; the modern
+  pencil foliation and a pencil "700" at 5.700 on 97r; a green crayon mark
+  at 5.449 (modern); grey show-through in the margins of 89v, 91v, 92r,
+  98r and 100r, none of it a mark.
+
+The folios of Book 6 have not been surveyed. Seen in passing for Book 6:
+nothing in the margins of 110v-111r (6.1-35).
