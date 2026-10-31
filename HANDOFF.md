@@ -334,26 +334,35 @@ The second-round review is complete and committed. Before anything else, run
 exit 0) and `python tools/check_narration.py --all` (expect every book to
 match). Then:
 
-1. Audio re-render (blocked 2026-10-30 on the OpenAI account: HTTP 429
-   `credit_balance_exhausted`). Every changed chunk has already been
-   re-chunked in place with `refresh_chunks.py --apply` (old takes marked
-   superseded, chunk reopened). Once credits are added, run for N in 1..6:
-   `bash runs/resume_rerender.sh N` (synthesizes only chunks without a fresh
-   take, QAs, accepts with `--auto`, prints the report; safe to re-run), then
-   `python tools/build_audiobook.py concat --build-dir audiobook-build-book0N --force`
-   and `review --build-dir audiobook-build-book0N --force`. Hand-accept any
-   chunk the report leaves at "review" or "fail" with
-   `accept --chunk NNN --candidate K --reason "..."`. Do NOT run `prepare`
-   again: it discards every accepted candidate. State when blocked: Book 1
-   all 6 changed chunks synthesized, 4 QA'd; Book 2 needs 025 and 026
-   synthesized and 9 QA'd; Book 3 needs 020, 023, 024 synthesized and 10
-   QA'd; Books 4-6 refreshed only. Chunks changed since then by the
-   draft-gloss fixes: B1 018 023 025; B2 001 011 025; B3 006 011 013 014;
-   B4 007 008 012 014 020 021 026; B5 002 005 023; B6 007 012 016.
+1. Audio: done. The second-round re-render finished 2026-10-31 (86 chunks
+   re-rendered across the six books, every chunk accepted, all six masters
+   and review mixes rebuilt; see "Audiobook"). Nothing pending.
 2. Margin survey of Books 1 and 3-6; decide the published layout.
 3. Web build on the Iliad and Odyssey pattern.
 
-## Audiobook (built 2026-10-30)
+## Audiobook (built 2026-10-30, re-rendered for the second round 2026-10-31)
+
+Second-round re-render: `python tools/refresh_chunks.py N --apply` re-chunked
+every changed line in place (old takes marked superseded, chunk reopened),
+then `bash tools/resume_rerender.sh N` synthesized, QA'd and auto-accepted
+(a copy lives in runs/; the script loads `runs/openai.env` if present, else
+the user-level OPENAI_API_KEY from the registry, so a key changed mid-session
+is picked up without restarting). Re-rendered chunks: Book 1, 9; Book 2, 11;
+Book 3, 15; Book 4, 17; Book 5, 18; Book 6, 16. Chunks hand-accepted on a
+strict review because every difference was a transcriber slip (homophones,
+plurals, spellings, proper names, and the known bleating/Cecrops priming):
+1.025, 2.012, 3.005, 3.006, 3.020, 4.026, 6.026. Lengths now 62.2, 64.8,
+62.3, 73.4, 81.4, 74.1 minutes.
+
+Pitfall found and fixed by hand: `qa` overwrites a candidate's status, so a
+take marked superseded by refresh_chunks that is QA'd again comes back as
+pass or fail and could be auto-accepted although its audio reads the old
+text. Audit after any re-render: every accepted candidate's
+`tts_text_sha256` must equal its chunk's `tts_sha256` (Book 1 chunk 003 is
+the one legitimate exception: its accepted take 004 was made with a
+pronunciation respelling in the first build). The audit found two such
+takes in Book 2 and two in Book 3 and re-marked them; none had been accepted.
+
 
 All six books rendered with `audiobook/production-onyx.json` (gpt-4o-mini-tts,
 onyx, 0.95) through the gated pipeline: prepare, synthesize, qa, accept,
