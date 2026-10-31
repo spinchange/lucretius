@@ -1,0 +1,70 @@
+ANALYSIS
+608-610: Latin: (men) mirantur [pres. ind., 3pl]; naturam non reddere mare maius [inf., negated]; quo sit tantus decursus aquarum [rel./whither, subj.]; quo veniant omnia flumina ex omni parte [subj.]. English: men wonder; nature does not make the sea larger; when so great is the downrush into it; when all rivers come to it from every side. MATCH
+
+611-615: Latin: adde imbris, tempestates [imper.]; quae spargunt rigantque omnia maria ac terras [rel. to imbris/tempestates]; adde suos fontis; tamen omnia erunt vix instar unius guttai adaugmen ad summam maris [fut.]; quo minus est mirum mare magnum non augescere. English: add rains, storms; which sprinkle and drench; add its springs; yet all these will be scarcely a drop's increase; so it is less a wonder the great sea does not grow. MATCH
+
+616: Latin: sol detrahit magnam partem aestu. English: the sun draws off a great part with its heat. MATCH
+
+617-619: Latin: videmus solem exsiccare vestis madentis radiis; at videmus pelage multa et late substrata. English: we see clothes dried by the sun; and we see seas many and spread wide beneath it. MATCH (at softened to "and"; the contrast is still implied)
+
+620-622: Latin: licet quamvis sol delibet parvam partem umoris ex uno quoque loco [concessive subj.]; tamen auferet largiter in tanto spatio [fut.]. English: however small a portion the sun may sip at any one place, yet over so great a space it will take much. MATCH
+
+623-626: Latin: venti possunt tollere magnam partem umoris, verrentes aequora [ptcp. → venti]; quoniam videmus vias siccari ventis una nocte, crustas luti concrescere. English: the winds can lift, as they sweep the levels; since we see roads dried by the winds in one night, mud hardening. MATCH
+
+627-630: Latin: docui [pf. 1sg] nubes quoque tollere multum umorem conceptum ex aequore ponti et spargere toto orbi; cum pluit et venti portant nubila. English: I have shown the clouds too lift much moisture, taken up from the sea, and scatter it over the lands, when it rains and winds carry clouds. MATCH
+
+631-634: Latin: quoniam tellus est raro corpore et coniuncta, cingens oras maris; debet umor manare in terras ex aequore, ut venit umor de terris in mare. English: since the earth is porous and joined, girding the shores; it must be that, as moisture comes from land to sea, so it seeps into the lands from the salt level. MATCH
+
+635-638: Latin: percolatur virus [pass.]; remanat materies umoris; omnis confluit ad caput amnibus; redit inde agmine dulci, qua via secta detulit undas. English: brine strained out; the matter of moisture oozes back; all gathers at the heads of the rivers; returns in a column of sweet water where the cut way carried the waves. MATCH
+
+639-646: Latin: expediam [fut.] ratio quae sit, ut ignes expirent per fauces Aetnae turbine tanto; neque enim tempestas flammae, coorta non mediocri clade, dominata per agros, convertit ora gentium ad se; cum cernentes templa caeli fumida scintillare, complebant pectora pavida cura, quid moliretur rerum natura novarum. English: I shall unfold the principle by which fires breathe out; the storm of flame arose with no common disaster, held sway, turned the peoples' faces; when, seeing the precincts smoking and sparkling, they filled their hearts with fearful anxiety at what new things nature might be working. MATCH
+
+647-652: Latin: videndum [gerundive] tibi late alteque, dispiciendum in cunctas partis; ut reminiscaris summam esse profundam et videas [subj., both under ut] quam parvula pars caelum unum sit summai totius, quam multesima constet, nec tota pars quota homo unus terrai totius. English: you must look widely and deeply and see far; that you may remember the sum is unfathomable, "and to see" how small a part one heaven is, not even as much as one man of the earth. DIFF: the second purpose verb (et videas) is rendered as a stray infinitive that does not join the "that you may" clause.
+
+653-654: Latin: si plane contueare ac videas [subj.]; mirari multa relinquas [subj.]. English: if you set it before you and see it squarely, you would cease to wonder at many things. MATCH
+
+655-657: Latin: numquis miratur, siquis accepit febrim coortam fervore aut alium dolorem? English: does any of us wonder if someone has taken a fever or other pain? MATCH
+
+658-664: Latin: pes opturgescit; dolor arripit dentes, invadit oculos; sacer ignis existit et urit, serpens, quam arripuit partem, repit per artus; quia sunt semina multarum rerum et tellus caelumque fert satis morbi mali, unde queat vis morbi procrescere. English: foot swells; pain seizes teeth, invades eyes; sacred fire breaks out, burns, creeping, whatever part it seized, crawls; because there are seeds, earth and heaven bear enough of disease and harm for the force to grow. MATCH
+
+665-672: Latin: putandum omnia ex infinito satis suppeditare toti caelo terraeque, unde queat tellus concussa moveri, turbo percurrere, ignis abundare, caelum flammescere; id quoque fit, templa ardescunt, tempestates pluviae sunt graviore coortu, ubi semina aquarum ita se tetulerunt. English: we must think all things are supplied from the infinite in plenty, so that the earth can be shaken, whirlwind run, Etna overflow, heaven burn; this happens, precincts burn, storms come with heavier gathering when the seeds have so assembled. MATCH
+
+673: Latin: ardor incendi est nimis ingens. English: the blaze is too enormous. MATCH
+
+674-679: Latin: fluvius visus maximus ei qui non vidit maiorem; arbor homoque videtur ingens; omnia maxima quae quisque vidit, haec ingentia fingit; cum omnia nil sint ad summam summai totius. English: a river seems greatest to him who has not seen greater; a tree or man seems enormous; the greatest each has seen he imagines enormous; though all are nothing to the sum of the whole sum. MATCH
+
+680-683: Latin: expediam quibus modis flamma, inritata repente, efflet ex fornacibus; natura montis est subcava, fere suffulta cavernis silicum. English: I shall unfold how the flame, suddenly roused, blows out; the mountain is hollow beneath, held up for the most part on caverns of flint. MATCH
+
+684-685: Latin: est ventus et aer in speluncis; ventus fit ubi aer est percitus agitando. English: there is wind and air in the caves; wind arises when air is stirred. MATCH
+
+686-689: Latin: hic [ventus] ubi percaluit calefecitque saxa terramque, furens, et excussit ignem calidum ab ollis; tollit se ac eicit alte rectis faucibus. English: when this has grown hot, heated rocks and earth, raging, and struck out fire from them; it rises and flings itself out through the jaws. MATCH
+
+690-693: Latin: fert ardorem, differt favillam, volvit fumum, extrudit saxa; ne dubites quin haec sit animai turbida vis. English: carries heat, scatters ash, rolls smoke, thrusts out rocks; so you need not doubt this is the stormy force of air. MATCH
+
+694-695: Latin: mare magna ex parti frangit fluctus ad radices montis aestumque resolvit. English: along a great part of its length the sea breaks its waves at the roots and draws back its surge. MATCH
+
+696-700: Latin: speluncae perveniunt ex hoc mari subter ad fauces; hac ire fatendumst [lacuna]; res cogit penetrare penitus mari aperto, efflare, extollere flammam, subiectare saxa, tollere nimbos arenae. English: caves reach beneath to the jaws; by this way we must admit there passes [lacuna]; the fact compels that it pierces from the open sea, breathes out, lifts flame, throws up rocks, raises sand. MATCH
+
+701-702: Latin: sunt crateres in summo vertice, ut ipsi nominitant, quod nos fauces et ora perhibemus. English: there are craters, as they name them, what we call jaws and mouths. MATCH
+
+703-707: Latin: sunt res quarum non satis est dicere unam causam, verum pluris, unde una tamen sit; ut, si conspicias corpus hominis iacere, fit ut conveniat dicere omnis causas, dicatur ut una illius. English: for some things one cause is not enough but several, though one is the true one; just as, if you see a body, it is fitting to name all causes so that the one is named. MATCH
+
+708-711: Latin: neque possis vincere eum interiisse ferro, frigore, morbo, veneno; verum scimus aliquid ex hoc genere esse quod contigit ei; item in multis hoc dicere habemus. English: you could not prove he died by steel, cold, disease, poison; but we know something of this kind befell him; so we can say the same in many matters. MATCH
+
+712-713: Latin: Nilus crescit, redundat, unicus, amnis Aegypti. English: same. MATCH
+
+714-718: Latin: is rigat Aegyptum per calorem; aut quia aquilones sunt contra ostia aestate, eo tempore, qui etesiae esse feruntur; et flantes contra fluvium remorantur, cogentes undas sursus replent coguntque manere. English: it waters Egypt in the heat; either because the north winds blow against its mouths, when they are said to be the Etesians; blowing against the stream they hold it back, drive the waters upward, fill it, force it to stay. MATCH
+
+719-723: Latin: flabra feruntur adverso flumine, quae aguntur ab stellis axis; ille amnis venit ex aestifera parti ab austro, inter saecla virum, exoriens a regione diei. English: these blasts are carried against the stream, driven from the stars of the pole; the river comes from the heat-bearing quarter, among men, rising from the region of midday. MATCH
+
+724-726: Latin: est uti possit congestus harenae oppilare ostia contra fluctibus adversis [abl.: by/with the opposing waves]; cum mare permotum ventis ruit harenam intus. English: a heap of sand may block the mouths "against the opposing waves"; when the sea sweeps sand inward. DIFF: the ablative of the waves that pile the bar is turned into the thing the bar blocks against.
+
+727-728: Latin: quo pacto fit uti exitus amnis minus liber, impetus undis minus proclivis fiat. English: by this means the outlet is less free and the waters have less downhill onrush. MATCH
+
+729-734: Latin: fit uti pluviae magis fiant ad caput ei eo tempore quo flabra aquilonum coniciunt nubila in eas partis; cum eiecta convenerunt ad regionem diei, nubes contrusae ad montis coguntur, premuntur. English: more rains fall at its head when the Etesian blasts drive clouds there; when driven to the region of midday and come together, the clouds are crowded and pressed. MATCH
+
+735-737: Latin: forsitan crescat de montibus Aethiopum, ubi sol subigit ningues descendere radiis. English: perhaps it grows from the mountains of the Ethiopians, where the sun forces the snows to come down. MATCH
+
+FINDINGS
+725	MISTRANSLATION	MODERATE	0.50	"oppilare ostia contra fluctibus adversis" means the sand bar, heaped by the opposing waves, blocks the mouths facing them; the English "blocks up the mouths against the opposing waves" makes the waves what the bar stands against, not what builds it. "blocks up the mouths over against them, piled by the opposing waves,"
+650	GRAMMAR	MINOR	0.50	"et videas" is a second purpose subjunctive under "ut" (649), but "and to see" is an infinitive that does not attach to "that you may remember", so the English clause does not parse. "and may see that one heaven, of the whole sum,"

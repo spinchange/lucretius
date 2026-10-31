@@ -1,0 +1,38 @@
+ANALYSIS
+1002-1004: Latin: necesse est [semina sive aestum] fluere (inf.) e lapide; rel. qui discutit (pres. ind., subj. aestum/semina) aera plagis; rel. qui (aer) est cumque locatus inter lapidem ferrumque. English: there must flow seeds or a current; which drives apart the air; that is lodged anywhere between. MATCH ("all the air" renders qui...cumque).
+1005-1008: Latin: ubi hoc spatium inanitur et vacefit locus; primordia ferri cadunt prolapsa coniuncta; fit ut anulus sequatur eatque. English: same, with the space emptied, the first-beginnings falling joined, and the ring following. MATCH.
+1009-1011: Latin: nec res ulla magis cohaeret (indupedita, conexa) quam ferri natura et frigidus horror. English: nothing holds together more closely than the nature of iron, that cold, rough thing. MATCH.
+1012-1014: Latin: quo minus est mirum (text uncertain), si corpora coorta nequeunt ferri in vacuum quin anulus sequatur. English: less a wonder if bodies cannot go into the void without the ring following. MATCH (noted crux).
+1015-1016: Latin: quod facit et sequitur donec pervenit ad lapidem et haesit compagibus caecis. English: same. MATCH.
+1017-1021: Latin: hoc fit idem in cunctas partis; unde cumque vacefit locus, corpora vicina feruntur; quippe agitantur plagis aliunde, nec possunt sponte consurgere. English: same, with matching negation. MATCH.
+1022-1030: Latin: huc accedit, quare queat id magis esse, (quod) res iuvatur adiumento motuque; quod, simul aer rarior factus (est), fit uti aer qui post est provehat atque propellat; aer semper verberat res; sed tali tempore fit uti propellat ferrum, quod spatium vacat et capit in se. English: same chain, with "so that" for quare. MATCH.
+1031-1033: Latin: hic aer, insinuatus per foramina, trudit et inpellit, quasi ventus navem velaque. English: same. MATCH.
+1034-1036: Latin: res omnes debent habere aera, quandoquidem raro sunt corpore et aer est circum datus. English: same. MATCH.
+1037-1041: Latin: hic aer abditus iactatur eoque verberat anellum et ciet; scilicet (anellus) fertur illo eodem quo praecipitavit et conamina sumpsit. English: the air is tossed and so beats on the ring; the ring is carried the same way it plunged and made its effort. MATCH.
+1042-1043: Latin: fit ut ferri natura recedat interdum, consueta fugere atque sequi. English: same. MATCH.
+1044-1047: Latin: vidi Samothracia ferrea exultare et ramenta furere in scaphiis ahenis, cum lapis subditus esset; usque adeo (ferrum) fugere gestire videtur. English: same. MATCH.
+1048-1055: Latin: aere interposito discordia creatur, quia ubi aestus aeris praecepit viasque possedit, aestus lapidis venit, invenit plena, neque habet qua tranet; cogitur offensare pulsareque texta; quo pacto respuit ab se atque per aes agitat (ferrum), quod sine eo saepe resorbet. English: same structure, with the iron as the implied object. MATCH.
+1056-1061: Latin: mitte mirari quod aestus non valet impellere alias res; partim stant pondere fretae (aurum); partim, quia raro corpore sunt ut aestus pervolet, nequeunt inpellier (lignum). English: same. MATCH.
+1062-1064: Latin: ferri natura locata inter utrasque, ubi accepit corpuscula aeris, fit ut saxa impellant eo flumine. English: same. MATCH.
+1065-1067: Latin: nec haec ita aliena sunt ut multa parum (= few) suppeditentur, quae memorare queam apta. English: not so foreign that I have only a scant supply. MATCH.
+1068: Latin: vides saxa colescere calce sola. English: same. MATCH.
+1069-1071: Latin: materies iungitur glutine taurino, ut venae saepius hiscant quam vincla laxare queant compages. English: same. MATCH.
+1072-1073: Latin: latices audent misceri fontibus, cum pix et olivom nequeat. English: same. MATCH.
+1074-1077: Latin: colos iungitur corpore uno cum lanae, qui dirimi non queat, non si des operam renovare fluctu, non si mare velit eluere. English: same. MATCH.
+1078-1080: Latin: (question) res una copulat aurum auro, fit uti aes iungatur aeri plumbo albo; quam multa licet reperire. English: same, as a question. MATCH.
+1081-1083: Latin: nec opus est ambagibus, nec par est me consumere operam, sed praestat comprendere. English: same. MATCH.
+1084-1086: Latin: (res) quorum texturae ceciderunt ut cava conveniant plenis; iunctura haec optima constat. English: same. MATCH.
+1087-1089: Latin: est etiam ut quaedam possint teneri coplata quasi anellis hamisque; quod magis in lapide ferroque fieri videtur. English: same ("rather" for magis). MATCH.
+1090-1097: Latin: expediam ratio quae sit morbis et unde vis morbida possit conflare cladem; primum docui esse semina vitalia, et necesse est multa volare quae sint morbo mortique; ea cum coorta sunt et perturbarunt caelum, fit aer morbidus. English: same. MATCH.
+1098-1102: Latin: vis morborum pestilitasque aut extrinsecus veniunt ut nubes, aut coorta de terra surgunt, ubi (terra) umida nactast putorem, icta pluviis solibus. English: the force comes from outside or surges from the earth, when, being damp, "it" has gathered rot. DIFF: the subject of nactast (terra, feminine with umida and icta) is ambiguous in English and can be read as the force.
+1103-1105: Latin: nonne vides temptari (eos) qui adveniunt procul, quia discrepitant res? English: same. MATCH.
+1106-1109: Latin: quid putamus caelum Brittannis differre et quod in Aegypto, quidve quod in Ponto differre et Gadibus et usque ad nigra saecla? English: same, elliptical. MATCH.
+1110-1113: Latin: cum videmus quattuor diversa esse a ventis, tum color et facies distare videntur et morbi saecla tenere. English: same. MATCH.
+1114-1118: Latin: est elephas morbus qui gignitur Aegypto neque usquam; Atthide temptantur gressus, oculi in Achaeis; alius locus inimicus aliis partibus; aer varius concinnat. English: same. MATCH.
+1119-1124: Latin: ubi caelum alienum se commovet et aer coepit serpere, ut nebula repit et omne conturbat, coactat; fit ut, cum venit in nostrum caelum, corrumpat reddatque simile atque alienum. English: same. MATCH.
+1125-1130: Latin: clades pestilitasque aut cadit in aquas aut persidit in fruges aut pastus, aut vis manet suspensa in aere; et cum ducimus auras, necesse est illa quoque sorbere. English: same. MATCH.
+1131-1132: Latin: consimili ratione venit bubus pestilitas et (iam) balantibus aegror. English: same; "iam" is unrendered, which is negligible. MATCH.
+1133-1137: Latin: nec refert utrum nos deveniamus in loca adversa et mutemus amictum, an natura deferat caelum corruptum aut aliquid quo non consuevimus uti, quod possit temptare. English: same. MATCH.
+
+FINDINGS
+1101	AMBIGUITY	MINOR	0.55	In "ubi putorem umida nactast ... icta" the subject is terra (umida and icta are feminine, agreeing with the earth), but the English "when, being damp, it has gathered rot" lets "it" be read as the force of disease that is the subject of "surges", which blurs who gathers the rot (1102 "struck" is affected the same way); "surges up from the earth, when the earth, being damp, has gathered rot,"

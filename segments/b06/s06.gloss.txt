@@ -1,0 +1,216 @@
+ANALYSIS
+
+738-739
+L: [nunc age] expediam (1sg fut act) tibi | indirect Q: quae sint (subj) loca lacusque Averna (-cumque) | quali natura praedita constent (3pl subj)
+E: I will explain to you | whatever the places and lakes may be | with what nature they are endowed
+MATCH
+
+740-746
+L: id (nomen) inpositumst (perf pass) ab re | quod Averna vocantur | quia sunt contraria avibus cunctis | quod cum venere (aves) volantes e regione loca: oblitae remigii pennarum vela remittunt, praecipites cadunt profusae molli cervice in terram (si fert natura locorum) aut in aquam (si lacus substratus)
+E: name was given from the fact | because hostile to all birds | when birds have come over the places, they forget, slacken, fall headlong, necks drooping, on ground (if nature so has it) or in water (if lake beneath)
+MATCH
+
+747-748
+L: is locus est apud Cumas | ubi montes oppleti sulpure acri fumant, aucti fontibus calidis
+E: such a place is near Cumae, where mountains filled with sulphur smoke, enriched with hot springs
+MATCH
+
+749-755
+L: est (locus) in moenibus Athenaeis, in vertice arcis, ad templum Palladis | quo numquam appellunt corpora pennis cornices raucae, non cum fumant altaria | usque adeo fugitant, non iras Palladis pervigili causa (ut cecinere poetae), sed natura loci ipsa opus efficit
+E: there is one in Athens, on the citadel, by the temple | where crows never bring bodies on the wing, not even when altars smoke | so constantly they shun it, not from Pallas's anger at their watchfulness, as poets sang, but nature of place does the work
+MATCH
+
+756-759
+L: fertur locus esse videri in Syria | quo simul ac quadripedes quoque vestigia intulerint (perf subj), vis ipsa cogat (subj) concidere graviter | ut si sint mactata divis manibus
+E: it is said a place is to be seen | where as soon as even four-footed beasts set footsteps, its force makes them drop | as if slaughtered to the divine shades
+MATCH
+
+760-766
+L: omnia (haec) geruntur naturali ratione | et apparet origo quibus e causis fiant | ne credatur ianua Orci pote esse in eis regionibus | ne reamur deos manis inferne ducere animas hinc in oras Acheruntis | ut cervi putantur naribus ducere serpentia saecla de latebris
+E: all are brought about by natural principle | causes and origin are plain | lest a gate of Orcus be believed to lie here | and we think spirits are led to Acheron by the gods of the shades | as stags are thought to draw crawling generations from lairs with nostrils
+MATCH
+
+767-768
+L: percipe (imper) quam procul repulsum sit a vera ratione | nam conor dicere de re ipsa
+E: take note how far this is driven from true reasoning | for I attempt to speak of the thing itself
+MATCH
+
+769-772
+L: hoc dico (quod dixi ante): esse in terra figuras rerum cuiusque modi | multa vitalia quae cibo sunt | multa quae possint morbos incutere et mortem adcelerare
+E: I say: in earth are shapes of every kind | many that are food, life-giving | many that can drive in diseases and hasten death
+MATCH
+
+773-776
+L: ostendimus ante: res alias aptas esse magis aliis animantibus ad vitai rationem | propter dissimilem naturam, texturas, primas figuras
+E: different things suit different creatures better for the ordering of life, shown before | because of unlike nature, textures, first shapes
+MATCH
+
+777-780
+L: multa inimica meant per auris | multa infesta et aspera tactu insinuant per naris | nec sunt parum multa tactu vitanda | neque (parum multa) aspectu fugienda saporeque tristia
+E: many pass hostile through ears | many make their way through nostrils, harmful, rough | nor few to be shunned by touch | nor few to be fled by sight, or bitter in taste
+MATCH
+
+781-785
+L: videre licet quam multae res sint homini infesto sensu, spurcae, graves | arboribus certis tributa umbra gravis | usque adeo ut faciant (trees, pl) dolores capitis | si quis iacuit subter eas
+E: you can see how many things are hostile to sense, foul, oppressive | to certain trees an oppressive shade is given | so that they cause headaches | if someone has lain beneath them
+MATCH
+
+786-787
+L: est arbos in Helicone consueta necare hominem odore floris taetro
+E: there is a tree on Helicon used to killing a man with the foul smell of its flower
+MATCH
+
+788-790
+L: haec ideo surgunt ex terris | quod tellus gerit permixta semina multa multarum rerum et tradit discreta
+E: all these rise out of earth for this reason | that earth holds many seeds mixed and gives them apart
+MATCH
+
+791-793
+L: lumen recens extinctum ubi offendit nares nidore | consopit ibidem (eum) qui morbo suevit concidere et spumas mittere
+E: a newly quenched lamp, when it strikes the nostrils, puts to sleep the one whose sickness makes him fall and foam
+MATCH
+
+794-796
+L: mulier sopita castoreo recumbit | opus effluit ei e manibus | si odoratast tempore quo menstrua solvit
+E: woman put to sleep sinks back | work slips from her hands | if she smelled it at her monthly time
+MATCH
+
+797-798
+L: multa praeterea solvunt membra languentia per artus | et labefactant animam sedibus intus
+E: many things besides make the limbs droop and loosen them, and shake the spirit in its seats
+MATCH
+
+799-801
+L: si cunctere (2sg subj) in lavabris calidis plenior (nom., "you", after food) et lueris | quam facile fit ut des ruinas in medio solio
+E: if you linger in hot baths / too full, and bathe | how easily you collapse in the middle
+DIFF: "too full" at the line head reads as modifying "baths"; Latin plenior agrees with the bather
+
+802-803
+L: vis atque odor carbonum insinuatur quam facile in cerebrum | nisi praecepimus aquam ante
+E: force and smell of charcoal make their way into the brain | unless we first take water
+MATCH
+
+804-805
+L: cum febris percepit membra domans | tum odor vini fit instar plagae mactabilis
+E: when fever has taken hold | smell of wine is like a killing blow
+MATCH
+
+806-810
+L: nonne vides sulpur gigni in terra, bitumen concrescere odore taetro | ubi secuntur venas, scrutantes abdita ferro | qualis odores Scaptensula expiret subter
+E: do you not see sulphur produced, bitumen thicken | where men follow veins, searching with iron | what smells Scaptensula breathes out
+MATCH
+
+811-812
+L: quid mali exalent metalla aurata | quas facies, quales colores reddunt hominum
+E: what evil the gold mines breathe out | what faces, colors they give to men
+MATCH
+
+813-815
+L: nonne vides audisve quam soleant perire in tempore parvo et quam copia vitai desit | (eos) quos vis necessis cohibet opere in tali
+E: do you not see or hear how they die quickly, life fails | those whom necessity holds to such work
+MATCH
+
+816-817
+L: tellus exaestuat hos aestus omnis | expirat foras in apertum caeli
+E: earth seethes out all these exhalations, breathes them into the open
+MATCH
+
+818-823
+L: Averna loca debent summittere alitibus vim mortiferam | quae surgit de terra in auras | ut venenet spatium caeli quadam de parte | quo simul ac ales delata sit, impediatur correpta veneno | ut cadat e regione qua derigit aestus
+E: Avernian places must send up against birds a deadly force | which rises into breezes | so that it poisons sky over some part | as soon as a bird is carried into it, it is hampered, seized | so that it falls where the exhalation is directed
+MATCH
+
+824-825
+L: quo cum conruit, eadem vis aestus aufert reliquias vitae ex membris
+E: when it has collapsed there, the same force takes the remnants of life
+MATCH
+
+826-829
+L: primo conciet quasi quendam aestum | posterius fit ut, cum cecidere in fontis veneni, sit vita vomenda | quod magna copia mali circum
+E: at first it stirs a kind of turmoil | afterwards, when fallen into the poison's springs, life must be vomited | because great abundance of evil around
+MATCH
+
+830-832
+L: fit interdum ut vis atque aestus discutiat aera (qui inter avis terramque) | ut locus prope inanis linquatur
+E: it happens that force and exhalation drives apart the air | so that at times the place is left almost empty
+DIFF: interdum ("sometimes") governs the dispersal; English makes the dispersal unqualified and moves "at times" into the result clause
+
+833-835
+L: ubi volantis venere e regione cuius loci | claudicat extemplo nisus pinnarum inanis | proditur conamen omne alarum
+E: when they have come over this place | the effort of their wings limps, empty | all striving of wings is betrayed
+MATCH
+
+836-839
+L: ubi nequeunt nixari insistere alis | natura cogit delabi pondere in terram | iacentes per inane prope vacuum dispergunt animas per caulas corporis
+E: when they cannot lean and rest on their wings | nature forces them by weight to slip down | lying through almost empty void, they scatter their spirits through the body's passages
+MATCH
+
+840-842
+L: umor in puteis fit frigidior aestate | quia terra arescit calore et dimittit in auras semina vaporis si qua habet
+E: water in wells grows colder in summer | because earth dries and lets go seeds of heat into the breezes
+MATCH
+
+843-844
+L: quo magis tellus effeta calore, eo frigidior fit umor abditus
+E: the more earth is exhausted, the colder the hidden water
+MATCH
+
+845-847
+L: cum terra premitur frigore, coit, concrescit | fit ut coeundo exprimat in puteos calorem si quem gerit
+E: when earth is pressed by cold, draws together, congeals | in drawing together it squeezes out whatever heat it holds
+MATCH
+
+848-849
+L: fertur fons esse apud fanum Hammonis frigidus luce, calidus nocte
+E: there is, so the story goes, a spring by the shrine, cold by day, hot by night
+MATCH
+
+850-852
+L: homines admirantur nimis | et (homines) partim ("some of them") putant fontem fervescere sole acri subter terras | ubi nox texit terras
+E: men marvel too much | and (men) suppose it partly grows hot by the sun beneath the earth | when night has covered the lands
+DIFF: partim read as "partly" modifying the heating; Latin "some of them suppose"
+
+853
+L: quod remotum est nimis longe a vera ratione
+E: removed far, too far, from true reasoning
+MATCH
+
+854-858
+L: ubi sol contractans corpus aquae non quierit reddere calidum supera de parte | cum lumen fruatur tanto fervore | qui queat perquoquere umorem subter terram tam crasso corpore et focilare vapore?
+E: when the sun could not warm it from above | though its light has such heat | how could it cook the water through beneath dense earth and nurse it with heat?
+MATCH
+
+859-860
+L: praesertim cum vix possit insinuare aestum radiis per saepta domorum
+E: especially since it can scarcely make its heat work in through walls with its rays
+MATCH
+
+861-863
+L: quae ratiost? ni mirum quod terra circum fontem magis rara quam cetera tellus | et multa semina ignis prope corpus aquai
+E: what is the principle? earth more porous around the spring | many seeds of fire near the water
+MATCH
+
+864-865
+L: ubi nox obruit terram undis roriferis | terra frigescit penitus coitque
+E: when night has buried earth in dew | earth grows cold deep down, draws together
+MATCH
+
+866-868
+L: fit ut, tamquam compressa manu, exprimat in fontem semina ignis | quae faciunt calidum tactum laticis et vaporem
+E: as if pressed by a hand, it squeezes out seeds of fire | which make the water hot to touch, steam hot
+MATCH
+
+869-873
+L: ubi sol obortus dimovit terram radiis et rare fecit | primordia ignis redeunt in sedes | calor omnis aquai cedit in terram | fons fit frigidus luce diurna
+E: when the sun has risen and parted the earth, made it porous | first-beginnings of fire return | all the water's heat withdraws into earth | the spring grows cold by day
+MATCH
+
+874-878
+L: umor aquai iactatur radiis solis, rarescit in lucem ab aestu | fit ut dimittat semina ignis | quasi gelum (quod continet) mittit, exsolvit glaciem, relaxat nodos
+E: water's moisture is tossed by rays, thins out with trembling heat | it lets go seeds of fire | just as it gives up frost, dissolves ice, loosens knots
+MATCH
+
+FINDINGS
+851	MISTRANSLATION	MODERATE	0.60	"partim" (850-851) means "some of them" with homines ("and some suppose that the fierce sun beneath the earth heats it"), but the English reads it as an adverb on fervescere, "it partly grows hot", and makes all men hold the belief; fix 850-851: "At this spring men marvel too much, and some suppose that by the fierce / sun beneath the earth it grows hot"
+830	MISTRANSLATION	MINOR	0.50	"interdum" qualifies "fit ut ... discutiat" (sometimes the force drives apart the air), but the English leaves the dispersal unqualified in 830-831 and attaches "at times" to the result in 832; fix: "It happens too at times that this force and exhalation of Avernus" (with 832 "so that the place there is left almost empty")
+800	AMBIGUITY	MINOR	0.50	"plenior" is nominative and agrees with the bather (fuller, after a meal), but "too full" opening 800 after "hot baths" in 799 reads as describing the baths; fix: "with a full stomach, and bathe, how easily, in the tub of boiling water,"

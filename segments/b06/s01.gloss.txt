@@ -1,0 +1,144 @@
+ANALYSIS
+
+121-129
+L: videntur omnia (pres. pass. pl.) tremere / dissiluisse moenia (pf. inf.); tonitru gravi → concussa omnia; cum procella (subj.) intorsit sese, conclusa cogit [nubem] uti fiat cava; post ubi conminuit (pf.) vis eius et impetus (subj., eius = procella) [nubem]; tum [nubes] scissa dat fragorem.
+E: all things seen to tremble; walls seem to have leapt asunder; storm twisted itself, shut in, compels cloud to grow hollow; when wind's force and onset have broken it; split, it gives a crash.
+MATCH
+
+130-131
+L: nec mirum, cum vensicula (subj.) plena animae saepe haud dat parvum sonitum displosa.
+E: a little bladder full of air often gives no little sound when burst.
+MATCH
+
+132-136
+L: est ratio ut [venti] faciant sonitus (subj. pl.); videmus nubila ramosa atque aspera ferri; ut, cum flamina perflant silvam, dant frondes sonitum, rami fragorem.
+E: there is a way for winds to make sounds; we see clouds branching and rough borne along; when blasts blow through a wood, leaves give sound, branches crash.
+MATCH
+
+137-141
+L: fit ut vis venti (subj.) perscindat nubem perfringens; nam res docet quid possit flatus ibi, hic, ubi lenior est, cum [flatus] evolvens arbusta haurit radicibus ab imis.
+E: force of wind tears through cloud; plain fact shows what a blast can do there, here where gentler, when it overturns trees, wrenching them from roots.
+MATCH
+
+142-144
+L: sunt fluctus qui dant quasi murmur in frangendo; quod item fit in fluminibus mari, cum frangitur aestus.
+E: waves through clouds give a kind of murmur as they break; likewise in rivers and sea when surf broken.
+MATCH
+
+145-149
+L: fit [sonitus] ubi vis fulminis (subj.) incidit e nubi in nubem; haec [nubes] si recepit ignem multo umore, trucidat [ignem] magno clamore; ut ferrum candens stridit, ubi demersimus (1 pl.) in imbrem.
+E: when the burning force of the thunderbolt falls from cloud to cloud; if this cloud receives fire in much moisture, it slaughters it with outcry; as iron hisses when we have plunged it.
+MATCH
+
+150-155
+L: si nubes aridior accipit ignem, uritur succensa sonitu; ut si flamma vagetur per montis; nec res ulla magis quam laurus crematur terribili sonitu.
+E: drier cloud receives fire, burns with huge sound; as if flame roamed through laurel mountains; nothing, more than the laurel, burns with terrible sound.
+MATCH
+
+156-159
+L: fragor geli atque ruina grandinis (subj.) dat sonitum; ventus cum confercit, franguntur montes nimborum concreti in artum et mixti grandine.
+E: crashing of ice and downfall of hail gives sound; when wind packs them, the frozen mountains of storm-cloud are broken, crammed, mixed with hail.
+MATCH
+
+160-163
+L: fulgit, cum nubes (subj.) excussere semina ignis concursu; ceu si lapis aut ferrum (both nom., subj.) percutiat lapidem (obj.); nam tum lumen exilit et ignis dissipat scintillas.
+E: it lightens when clouds by collision struck out seeds; as if stone should strike on stone, or on iron (iron made a second object, struck); light leaps out, fire scatters sparks.
+DIFF: ferrum turned from striker into thing struck.
+
+164-166
+L: fit uti accipiamus (1 pl. subj.) tonitrum post quam oculi cernant fulgere; quia res adveniunt tardius ad auris quam quae moveant visum.
+E: we receive thunder after the eyes see lightning; things arrive at ears more slowly than things that move sight.
+MATCH
+
+167-172
+L: licet cognoscere; si videas quem caedere arboris auctum ferro procul, fit ut cernas ictum ante quam plaga det sonitum; sic cernimus fulgorem ante quam accipimus tonitrum, qui (= tonitrum) mittitur pariter igni, natus concursu eodem.
+E: if you see someone far off cutting a tree's growth, you see the stroke before the blow gives sound; so we see lightning before thunder, which is sent with the fire, born of the same collision.
+MATCH
+
+173-174
+L: nubes (subj.) tingunt loca lumine; tempestas fulgit impete.
+E: clouds dye places with swift light; storm lightens with trembling onset.
+MATCH
+
+175-179
+L: ventus ubi invasit nubem et versatus fecit ut nubem spissescere cavam, [ventus] fervescit mobilitate sua; ut vides omnia percalefacta ardescere; glans volvenda liquescit.
+E: wind invaded cloud, made it grow hollow and thick; it grows hot by its mobility; you see things heated by motion take fire; bullet whirled melts.
+MATCH
+
+180-184
+L: cum hic [ventus] fervidus perscidit nubem, dissipat semina ardoris expressa, quae faciunt fulgura; sonus sequitur qui adlicit auris tardius quam quae perveniunt ad lumina.
+E: when this hot wind cut the cloud, it scatters seeds of heat squeezed out, which make lightnings; sound follows, reaches ears more slowly than things reaching the eyes.
+MATCH
+
+185-186
+L: hoc fit nubibus densis et extructis alte aliis super alias.
+E: this happens when clouds dense and piled high one upon another.
+MATCH
+
+187-188
+L: ne sit tibi frudi quod nos videmus inferne quam sint lata magis quam quid extent extructa.
+E: do not let it deceive you that we below see how broad rather than how high.
+MATCH
+
+189-203
+L: contemplator (impv.), cum venti portabunt (fut.) nubila transversa, aut ubi videbis [nubila] cumulata esse alia aliis insuper atque superna urguere, sepultis ventis (abl. abs.); tum poteris cognoscere moles et cernere speluncas, quas venti conplerunt, clausi indignantur, minantur, mittunt fremitus, versantur, convolvunt semina, cogunt, rotant flammam, donec nube divolsa (abl. abs.) fulserunt corusci.
+E: observe, when clouds are carried by winds, or when you see them heaped, higher pressing, winds buried; you can recognize masses, discern caverns, which winds filled; shut in, they chafe, threaten, send roars, turn, roll seeds, drive together, whirl flame, until cloud torn and they flashed out.
+MATCH
+
+204-208
+L: fit uti color aureus ignis mobilis devolet in terram, quod necessust nubes habere semina permulta ignis; cum sunt sine umore, colos est flammeus ollis.
+E: the mobile golden color of liquid fire flies down, because clouds must have many seeds of fire; when without moisture, their color is flaming.
+MATCH
+
+209-210
+L: necessest [nubes] concipere multa de lumine solis, ut rubeant et profundant ignes.
+E: they must take in much from the sun's light, so that they glow red and pour out fires.
+MATCH
+
+211-213
+L: cum ventus contrusit hasce [nubes] in unum locum compressitque, [nubes] profundunt semina expressa, quae faciunt colores flammae fulgere.
+E: when wind thrust them into one place and compressed them, they pour out the seeds, squeezed, that make colors of flame flash.
+MATCH
+
+214-218
+L: fulgit cum nubila rarescunt; cum ventus diducit eas euntis dissoluitque, necessest semina cadant ingratius; tum fulgit sine terrore, sonis, tumultu.
+E: lightens when clouds grow thin; when wind draws them apart and dissolves them, seeds must fall against their will; then it lightens without terror, sounds, uproar.
+MATCH
+
+219-222
+L: ictus et signa et notae (subj.) declarant qua natura fulmina constent; haec sunt signa ignis, non venti neque imbris.
+E: strokes, burnt-in signs, and marks declare with what nature thunderbolts endowed; these are signs of fire, not wind or rain.
+MATCH
+
+223-224
+L: [fulmina] accendunt tecta, dominantur in aedibus.
+E: they set fire to roofs and are masters in dwellings.
+MATCH
+
+225-227
+L: natura constituit hunc ignem subtilem cum primis ex corporibus minutis mobilibusque, cui nil obsistere possit.
+E: nature composed this fire, subtle above all, of tiny mobile bodies, which nothing can withstand.
+MATCH
+
+228-230
+L: fulmen transit per saepta ut clamor ac voces, per saxa, per aera; facit aes et aurum liquidum puncto in tempore.
+E: thunderbolt passes through walls as shouts do, through stones, through bronze; in an instant makes bronze and gold liquid.
+MATCH
+
+231-235
+L: curat ut vina diffugiant vasis integris (abl. abs.); quia calor eius adveniens conlaxat et facit rara lateramina, et insinuatus in ipsum soluens differt primordia vini.
+E: it makes wine vanish, though jars whole, because its heat as it comes loosens sides of jar, and winding into the wine scatters its first-beginnings.
+MATCH
+
+236-238
+L: quod vapor solis videtur non posse efficere aetatem, pollens fervore; tanto mobilior vis haec est.
+E: this the sun's heat seems unable in a lifetime to do, strong as it is; so much more mobile is this force.
+MATCH
+
+239-245
+L: expediam (fut.) quo pacto ea gignantur et fiant tanto impete ut possint discludere, disturbare, avellere, commoliri, ciere, exanimare, prosternere; qua vi possint facere cetera; neque morabor te plura.
+E: I shall unfold by what means they are begotten and made with such onset that they can split, overthrow, tear, heave and shift, take life, lay low; by what force they do the rest; not delay you longer.
+MATCH
+
+FINDINGS
+162	MISTRANSLATION	MINOR	0.75	In "ceu lapidem si / percutiat lapis aut ferrum" (161-162) both lapis and ferrum are nominative subjects striking the stone, but the English makes iron a second thing struck ("strike / on stone, or on iron"); suggested fix for 161-162: "many seeds of fire, as if stone or iron should strike / a stone; for then too a light"

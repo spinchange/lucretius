@@ -1,0 +1,49 @@
+ANALYSIS
+1138-1140: L: haec ratio morborum et mortifer aestus (subj) reddidit (perf. act. sg.) agros funestos; vastavit vias; exhausit urbem civibus. E: a pattern of disease like this and a heat made fields deadly; laid waste; drained the city. MATCH.
+1141-1143: L: (it) veniens penitus, ortus Aegypti finibus, permensus aera multum camposque natantis, incubuit populo Pandionis omni. E: same participles; fell upon the whole people. MATCH.
+1144: L: inde catervatim dabantur (impf. pass. pl.) morbo mortique. E: same. MATCH.
+1145-1146: L: gerebant caput incensum fervore et oculos rubentes suffusa luce. E: same. MATCH.
+1147-1150: L: fauces atrae sudabant sanguine; via vocis saepta ulceribus coibat; lingua (interpres animi) manabat cruore, debilitata, gravis, aspera. E: same. MATCH.
+1151-1153: L: ubi morbida vis complerat pectus et confluxerat in cor ipsum maestum aegris; tum claustra lababant. ipsum is neuter and goes with cor. E: "the very force of the disease" flowed into the grieving heart. DIFF: ipsum moved from cor to vis.
+1154-1155: L: spiritus volvebat odorem taetrum foras; ritu quo perolent cadavera proiecta. E: same. MATCH.
+1156-1157: L: vires animi totius, omne corpus languebat in limine leti. E: same. MATCH.
+1158-1162: L: angor erat comes malis; querella commixta gemitu; singultus coactans nervos et membra corripere dissoluebat eos, fatigans, defessos ante. E: same. MATCH.
+1163-1167: L: nec posses tueri summam partem fervescere ardore nimio; sed potius (posses tueri it) proponere tactum tepidum, et omne corpus rubere ulceribus quasi inustis, ut cum sacer ignis diditur. E: "it offered"; the body reddened. MATCH (the compression keeps the sense).
+1168-1169: L: pars intima flagrabat ad ossa; flamma flagrabat stomacho. E: same. MATCH.
+1170-1171: L: nil leve tenveque posses vertere in utilitatem membris; at ventum et frigora semper. E: same. MATCH.
+1172-1173: L: partim dabant membra in fluvios, iacientes corpus nudum. E: same. MATCH.
+1174-1177: L: multi inciderunt praecipites nymphis putealibus, ore patente; sitis mersans corpora aequabat multum imbrem parvis umoribus. E: same. MATCH.
+1178-1181: L: nec requies erat; corpora iacebant defessa; medicina mussabat, quippe cum versarent lumina patentia, ardentia, expertia somno. E: same. MATCH.
+1182-1192: L: multa signa dabantur: mens perturbata… sputa tenvia, minuta, contacta colore croci, salsaque, edita tussi; nervi trahere, artus tremere, frigus succedere non dubitabat. salsa is an adjective on sputa ("salty"). E: "tinged with the color of saffron / and salt". DIFF: salt becomes part of the colour.
+1192-1195: L: ad supremum tempus nares conpressae, acumen tenve, oculi cavati, tempora cava, pellis frigida duraque in ore, iacens rictu, frons tenta manebat. E: same. MATCH.
+1196: L: nec nimio post artus iacebant rigida morte. E: same. MATCH.
+1197-1198: L: octavo lumine aut nona lampade reddebant vitam. E: same. MATCH.
+1199-1204: L: siquis vitarat funera, tabes letumque manebat hunc posterius ulceribus et proluvie alvi; aut sanguis corruptus ibat naribus; huc vires corpusque fluebat. E: same. MATCH.
+1205-1207: L: qui exierat profluvium acre sanguinis, tamen morbus ibat huic in nervos, artus, partis genitalis. E: same. MATCH.
+1208-1212: L: partim metuentes vivebant privati parte virili; non nulli manebant in vita sine manibus pedibusque; partim perdebant lumina; usque adeo metus incesserat. E: same. MATCH.
+1213-1214: L: oblivia rerum cunctarum cepere quosdam; neque possent cognoscere se. E: same. MATCH.
+1215-1218: L: cum corpora iacerent inhumata, tamen genus alituum ferarumque aut absiliebat ut exiret odorem, aut ubi gustarat languebat. E: same. MATCH.
+1219-1222: L: nec tamen comparebat ulla avis temere; nec saecla ferarum exibant; pleraque languebant et moriebantur. E: same. MATCH.
+1222-1224: L: vis canum strata viis ponebat animam aegre; vis morbida extorquebat vitam membris. E: same. MATCH.
+1225-1229: L: funera certabant rapi; nec ratio remedii dabatur; nam quod aliis dederat licere volvere auras et tueri templa caeli, hoc aliis erat exitio. E: same. MATCH.
+1230-1234: L: illud unum erat miserandum, quod ubi quisque videbat se implicitum morbo, ut damnatus, iacebat deficiens animo, respectans funera amittebat animam. E: same. MATCH.
+1235-1238: L: nullo tempore cessabant apisci contagia ex aliis alios, tam quam pecudes; id cumulabat funere funus. E: same. MATCH.
+1239-1242: L: quicumque fugitabant visere suos aegros, incuria poenibat (eos) cupidos, timentis, morte turpi, mactans desertos. E: same (the anacoluthon is kept). MATCH.
+1243-1245: L: qui fuerant praesto ibant contagibus atque labore, quem pudor cogebat obire blandaque vox lassorum mixta voce querellae. pudor and vox are co-subjects of cogebat. E: they went down by contagion, by the labor that shame compelled, "and the coaxing voice". The voice reads as a third cause of death. DIFF: the co-subject is detached from cogebat.
+1246: L: optimus quisque subibat hoc genus leti. E: same. MATCH.
+1247-1250: L: pastor, armentarius, moderator aratri languebat; corpora contrusa casa iacebant dedita morti paupertate et morbo. E: same. MATCH.
+1251-1253: L: posses videre corpora parentum super pueris, retroque natos edere vitam super matribus et patribus. E: same. MATCH.
+1254-1256: L: nec minimam partem maeror confluxit ex agris in urbem, quem copia agricolarum contulit. E: same. MATCH.
+1257-1258: L: conplebant loca tectaque; quo magis aestu mors accumulabat confertos acervatim. E: same. MATCH.
+1259-1261: L: multa corpora prostrata siti, voluta, iacebant strata ad silanos, interclusa anima dulcedine. E: same. MATCH.
+1262-1266: L: videres membra languida cum corpore semanimo, horrida, cooperta, perire, pelli una super ossibus, sepulta ulceribus sordeque. E: same. MATCH.
+1267-1270: L: mors replerat delubra corporibus; templa manebant onerata cadaveribus, loca quae aedituentes complerant hospitibus. E: same. MATCH.
+1271-1272: L: nec religio nec numina magni pendebantur; praesens dolor exsuperabat. E: same. MATCH.
+1273-1276: L: nec mos remanebat quo populus consuerat humari; totus trepidabat; unusquisque humabat suum cognatum pro re. E: same. MATCH.
+1277-1284: L: res subita et paupertas suasit multa; locabant consanguineos insuper aliena extructa rogorum, subdebant faces, rixantes, potius quam desererentur, certantes alium populum sepelire; redibant lassi; dabantur in lectum. E: same. MATCH.
+1285-1286: L: nec poterat quisquam reperiri quem neque morbus nec mors nec luctus temptaret. E: same. MATCH.
+
+FINDINGS
+1189	GRAMMAR	MODERATE	0.70	"salsaque" is an adjective on sputa (the spittle was salty), but the English runs on from 1188, "tinged with the color of saffron / and salt", so salt becomes a second colour; fix: "and salty, brought up through the throat with difficulty by a hoarse cough."
+1245	GRAMMAR	MODERATE	0.62	"blandaque lassorum vox… querellae" is the second subject of cogebat (1244) alongside pudor (shame and the weary's coaxing voice compelled them), but the English makes it a third thing by which they "went down" (1243); fix, with 1244 ending "the labor they were then compelled to undergo by": "shame, and the coaxing voice of the weary mixed with the voice of complaint."
+1151	GRAMMAR	MINOR	0.50	"ipsum" is neuter and goes with "cor" in 1152 ("into the very heart"), but the English attaches it to the force of the disease ("the very / force"); fix: "Then, when through the throat it had filled the chest, and into the very"

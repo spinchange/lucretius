@@ -1,0 +1,40 @@
+ANALYSIS
+357-359: Latin: alta caeli domus (stellis fulgentibus, abl.) totaque tellus concutitur (pres. pass. sg.) autumno magis undique, et cum tempora veris florentia se pandunt. English: the house of heaven, bright with stars, is shaken, and the earth, in autumn and when spring unfolds. MATCH
+360-361: Latin: frigore desunt ignes; venti calore deficiunt; neque sunt nubes tam denso corpore. English: fires lacking in cold, winds failing in heat, clouds not so dense. MATCH
+362-363: Latin: cum caeli tempora constant interutrasque, tum causae omnes concurrunt. English: when the seasons stand between the two, the causes run together. MATCH
+364: Latin: fretus ipse anni permiscet frigus ad aestum. English: the strait of the year mixes cold with heat. MATCH
+365-367: Latin: quorum utrumque opus est nubi (dat.) fabricanda ad fulmina; ut (result) discordia sit, aer furibundus ignibus et ventis fluctuet. English: a cloud needs both for forging bolts, so that there is discord and the raging air heaves. MATCH
+368-370: Latin: prima pars caloris est postrema rigoris; id est tempus vernum; quare necesse est res dissimilis pugnare, turbare mixtas. English: the same, with "therefore unlike things must fight… throw all into turmoil." MATCH
+371-373: Latin: cum calor extremus primo frigore mixtus volvitur (tempus autumni nomine), hic quoque confligunt hiemes acres aestatibus. English: when the last heat, mixed with the first cold, rolls round, bitter winters clash with summers. MATCH
+374-378: Latin: propterea freta sunt nominitanda; nec mirum si plurima fulmina fiunt, tempestas cietur, quoniam (tempus) turbatur bello ancipiti, hinc flammis, illinc ventis umoreque. English: the same. MATCH
+379-386: Latin: Hoc est perspicere naturam fulminis et videre qua vi faciat, non volventem carmina Tyrrhena perquirere indicia mentis divum: unde ignis pervenerit, in utram partem se verterit, quo pacto insinuarit, ut dominatus se extulerit, quid nocere queat ictus. English: the same, with the indirect questions kept. MATCH
+387-395: Latin: si Iuppiter et divi quatiunt templa, iaciunt ignem quo voluntas, cur non faciunt ut quibus scelus est icti flammas halent, documen acre; et (cur) potius conscius nullius rei volvitur innoxius, impeditur turbine? English: why do they not make the guilty be struck and breathe out flames, a lesson; why instead does the innocent roll in flames and find himself entangled? MATCH
+396-397: Latin: cur loca sola petunt (gods, pl.), frustra laborant? an bracchia consuescunt, firmant lacertos? English: the same. MATCH
+398-399: Latin: cur perpetiuntur telum patris optundi in terra? cur ipse sinit, neque parcit in hostis? English: why let the father's weapon be blunted on earth; why does he allow it, not spare it for foes? MATCH
+400-401: Latin: cur numquam caelo puro Iuppiter iacit fulmen, sonitus profundit? English: the same. MATCH
+402-403: Latin: an simul ac nubes successere, ipse descendit in eas, ut prope determinet ictus? English: the same. MATCH
+404-405: Latin: qua ratione mittit in mare? quid arguit undas, molem, campos natantis? English: the same. MATCH
+406-407: Latin: si vult caveamus ictum, cur dubitat facere ut possimus cernere missum? English: the same. MATCH
+408-410: Latin: si vult opprimere nec opinantis igni, cur tonat ex illa parte ut vitare queamus, cur tenebras, fremitus, murmura concit ante? English: the same. MATCH
+411-413: Latin: qui possis credere (eum) mittere in multas partis simul? an ausis contendere numquam factum ut ictus plures fierent uno tempore? English: the same. MATCH
+414-416: Latin: saepe factum est et fieri necesse est ut, sicut pluere et imbres cadere, fulmina multa fieri uno tempore. English: the same. MATCH
+417-420: Latin: cur discutit delubra deum suasque sedes fulmine, frangit simulacra, demit honorem imaginibus suis? English: the same. MATCH
+421-422: Latin: cur plerumque petit alta loca, et plurima vestigia ignis cernimus in summis montibus? English: the same. MATCH
+423-425: Latin: Quod superest, facile est cognoscere qua ratione presteres (quos Graii ab re nominitarunt) missi in mare veniant superne. English: the same. MATCH
+426-430: Latin: fit ut columna demissa descendat in mare, freta circum fervescunt incita flabris, navigia deprensa veniant in periclum vexata. English: the same. MATCH
+431-435: Latin: hoc fit ubi vis venti non quit rumpere nubem quam coepit, sed deprimit, ut sit columna paulatim, quasi quid trudatur pugno et coniectu bracchi, extendatur in undas. English: the same. MATCH
+436-437: Latin: quam (nubem) cum (vis venti) discidit, venti vis prorumpitur in mare, fervorem concinnat. English: the same. MATCH
+438-439: Latin: turbo versabundus descendit, deducit illam nubem pariter, lento cum corpore. English: the same, "a cloud of pliant body". MATCH
+440-442: Latin: quam simul ac gravidam detrusit, ille se totum immittit in aquam, excitat omne mare cogens fervere. English: the same. MATCH
+443-445: Latin: fit ut vertex venti ipse se involvat nubibus, conradens semina, imitetur presterа. English: the same. MATCH
+446-447: Latin: hic ubi se demisit in terras dissoluitque, provomit vim turbinis atque procellae. English: the same. MATCH
+448-450: Latin: quia fit raro omnino, montisque necesse est officere in terris, apparet crebrius idem prospectu maris caeloque patenti. English: the same. MATCH
+451-454: Latin: nubila concrescunt ubi corpora multa asperiora coiere in caeli spatio, quae possint, indupedita modis exiguis, tamen compressa teneri. English: the same. MATCH
+455-458: Latin: haec faciunt parvas nubes consistere; inde ea comprendunt, congregantur, crescunt, feruntur ventis donec tempestas coortast. English: the same. MATCH
+459-461: Latin: fit uti cacumina montis, quam magis sint vicina caelo, tanto magis edita (adj., cacumina, "lofty") fument adsidue caligine nubis. One correlative pair, nearness and smoke. English: "the nearer they are…, the more they smoke, the higher they stand". edita becomes a third correlative clause. DIFF: the participle becomes a clause that reads as a consequence of the smoking.
+462-464: Latin: quia cum nubila consistunt, venti portantes cogunt (ea) tenvia ad summa cacumina antequam oculi videre possint. English: the same. MATCH
+465-467: Latin: hic demum fit uti, turba maiore coorta (abl. abs.), condensa (nubila) queant apparere et videantur surgere vertice in aethram. English: when a greater throng has gathered, "and condensed, can they appear". condensa is ambiguous between the throng and "they". DIFF (slight, within compression).
+468-469: Latin: res ipsa et sensus declarat loca ventosa sursum patere, cum ascendimus montis. English: the same. MATCH
+
+FINDINGS
+460	GRAMMAR	MINOR	0.50	"tanto magis edita fument": edita is a participle describing the peaks (lofty), but the English makes it a third correlative clause, "the more they smoke, the higher they stand", which can be read as height following from the smoke; "the more do they smoke, lofty as they are,"

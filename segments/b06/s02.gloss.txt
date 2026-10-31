@@ -1,0 +1,57 @@
+ANALYSIS
+246-248: Latin: putandumst (impers. gerundive) + inf. fulmina gignier (pres. pass.) e nubibus crassis alte extructis; nam nulla mittuntur (pres. pass. pl.) caelo sereno nec nubibus leviter densis umquam. English: we must suppose thunderbolts are born from thick clouds heaped on high; for none are ever sent from a clear sky or slightly dense clouds. MATCH.
+
+249-255: Latin: manifesta res docet (pres.) hoc fieri; quod tunc nubes concrescunt per totum aera, uti reamur (subj., result) tenebras omnis liquisse Acherunta et complesse cavernas; usque adeo, nocte coorta (abl. abs.), ora formidinis inpendent superne, cum tempestas coeptat commoliri fulmina. English: the plain fact shows this is so: clouds grow dense through the whole air, so that we would think all darkness had left Acheron and filled the caverns; so far, night having risen, faces of terror hang above, when the tempest begins to work up bolts. MATCH.
+
+256-261: Latin: praeterea niger quoque nimbus cadit in undas, ut flumen picis, effertus tenebris, et trahit tempestatem gravidam fulminibus atque procellis, ipse repletus ignibus ac ventis cum primis, ut in terra horrescant ac tecta requirant (result subj., pl.). English: a black storm-cloud falls on the waves like a river of pitch, crammed with darkness, drags a tempest heavy with bolts and gales, itself filled above all with fires and winds, so that men on land shudder and seek shelter. MATCH. quoque is unrendered, which is negligible.
+
+262-268: Latin: putandumst tempestatem esse altam supra caput; neque obruerent (impf. subj.) terras caligine tanta, nisi multa nubila forent inaedificata multis superne, exempto sole (abl. abs.); nec possent venientes opprimere tanto imbri ut facerent flumina abundare camposque natare, si non foret aether extructis nubibus. English: we must suppose the tempest is high; they would not bury the lands unless many clouds were built on many, the sun removed; nor could they, coming, overwhelm with such rain as to make rivers overflow and fields swim, if the upper air were not built high with clouds. MATCH.
+
+269-270: Latin: omnia plena sunt ventis atque ignibus; ideo fremitus et fulgura fiunt. English: the same propositions. MATCH.
+
+271-273: Latin: docui cavas nubes habere permulta semina vaporis et necessest (eas) concipere multa ex radiis ardoreque eorum. English: I have shown the hollow clouds hold many seeds of heat and must take in many more from the rays and their burning. MATCH. "more" is a harmless explicitation.
+
+274-278: Latin: ubi ventus idem qui eas cogit in unum locum expressit semina vaporis seque commiscuit igni, vortex insinuatus versatur in arto et acuit fulmen fornacibus intus. English: when the same wind that drives them into one place has pressed out seeds and mingled itself with the fire, a whirlwind worked in spins in the narrow space and sharpens the bolt in furnaces within. MATCH.
+
+279-280: Latin: accenditur (pass.) duplici ratione: ipse calescit sua mobilitate et e contagibus ignis. English: the same. MATCH.
+
+281-284: Latin: ubi percaluit venti vis et ignis impetus incessit, fulmen quasi maturum perscindit nubem, fertur ardor percitus lustrans omnia loca luminibus. English: the same. MATCH.
+
+285-286: Latin: sonitus insequitur quem, ut caeli templa displosa (ptc.) videantur opprimere superne. English: a sound follows it, so that the precincts seem to burst apart and crush us from above. MATCH. The participle is made a coordinate infinitive, which is defensible.
+
+287-289: Latin: tremor pertemptat terras et murmura percurrunt caelum; nam tota fere tempestas concussa tremit fremitusque moventur. English: the same. MATCH.
+
+290-294: Latin: sequitur imber gravis et uber, uti omnis aether videatur vertier in imbrem atque praecipitans revocare ad diluviem; tantus (imber) mittitur discidio nubis ventique procella (abl.), cum sonitus provolat ictu. English: a heavy, abundant rain follows, so that the whole upper air seems turned to rain and, rushing, to bring back the flood; so great a downpour is sent by the rending of the cloud and the storm of wind, when the sound flies out. MATCH.
+
+295-298: Latin: est cum vis venti incita extrinsecus incidit in nubem maturo culmine; quam cum perscidit, cadit igneus ille vertex, quem vocitamus fulmen. English: the same. MATCH.
+
+299: Latin: hoc idem fit in partis alias, quocumque tulit vis. English: the same. MATCH.
+
+300-305: Latin: fit ut vis venti missa sine igni igniscat in spatio longoque meatu, dum amittens corpora grandia (quae nequeunt pariter penetrare) atque conradens alia parvola ex aere portat (ea), quae commixta faciunt ignem volando. English: the same. MATCH.
+
+306-308: Latin: non alia ratione ac glans plumbea fit fervida in cursu, cum dimittens corpora rigoris concepit ignem in auris. English: the same. MATCH.
+
+309-316: Latin: fit ut vis plagae excitet ignem, cum vis venti frigida pepulit; quia, cum perculit, elementa vaporis possunt confluere ex ipso (vento) et ex re quae excipit ictum; ut, cum caedimus lapidem ferro, evolat ignis, nec, quod vis ferri frigida est, semina setius concurrunt illi. English: the same, with illi left unrendered. MATCH.
+
+317-318: Latin: res debet accendi fulmine, si fuit opportuna et idonea flammis. English: the same. MATCH.
+
+319-322: Latin: nec potest vis venti, quae missa supernest, esse plane frigida, quin, si non accenditur prius, veniat tepefacta commixta calore. English: the same. MATCH.
+
+323-329: Latin: mobilitas et ictus fit, et fulmina percurrunt celeri lapsu, quod vis incita prius se colligit nubibus et sumit conamen, inde ubi nubes non potuit capere auctum, vis exprimitur et volat, ut quae de tormentis missa feruntur. English: the same. MATCH. "first" is attached to "roused" rather than "gathers", which is minor.
+
+330-334: Latin: adde quod est e parvis et levibus elementis; nec facilest quicquam obsistere; fugit inter ac penetrat per rara viarum; non igitur haesitat offensibus; hanc ob rem volat. English: the same. MATCH.
+
+335-339: Latin: quod pondera omnia nituntur deorsum, cum plaga addita est, mobilitas duplicatur et impetus gravescit, ut discutiat (result) quaecumque morantur obvia itinerque sequatur. English: the same. MATCH.
+
+340-345: Latin: quod longo venit impete, debet sumere mobilitatem, quae crescit et auget vires et roborat ictum; nam facit ut semina eius e regione ferantur in unum, coniciens omnia in eum cursum. English: the same. MATCH.
+
+346-347: Latin: forsitan trahat (subj.) ex aere corpora, quae incendunt mobilitatem plagis. English: the same. MATCH.
+
+348-349: Latin: incolumis venit per res atque transit multa integra, quia ignis transviat foraminibus. English: the same. MATCH.
+
+350-351: Latin: perfringit multa, cum corpora fulminis inciderunt corporibus rerum, qua texta tenentur. English: the same. MATCH.
+
+352-356: Latin: dissoluit facile aes aurumque repente facit conferve, quia vis facta est e parvis corporibus et levibus elementis, quae insinuantur et insinuata dissoluont nodos et relaxant vincla. English: the same. MATCH.
+
+FINDINGS
+NONE

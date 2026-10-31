@@ -34,6 +34,29 @@
      "started": "2026-10-30T03:09:58+00:00",
      "finished": "2026-10-30T03:10:24+00:00",
      "seconds": 26
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:54:31+00:00",
+     "seconds": 99
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:35+00:00",
+     "patched": [
+      "53"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00",
+     "finished": "2026-10-31T00:22:38+00:00",
+     "seconds": 112
     }
    }
   },
@@ -74,6 +97,33 @@
      "model": "fable (translator)",
      "finished": "2026-10-29T00:00:00+00:00",
      "note": "reviewed in conversation before the patch tool existed; fixes at 200, 257-258"
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:54:18+00:00",
+     "seconds": 86
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:36+00:00",
+     "patched": [
+      "170",
+      "179",
+      "257",
+      "289",
+      "292"
+     ],
+     "n_patched": 5
+    },
+    "gloss-draft": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00",
+     "finished": "2026-10-31T00:21:54+00:00",
+     "seconds": 68
     }
    }
   },
@@ -124,6 +174,27 @@
       "477"
      ],
      "n_patched": 8
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:54:54+00:00",
+     "seconds": 121
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:37+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00",
+     "finished": "2026-10-31T00:21:55+00:00",
+     "seconds": 69
     }
    }
   },
@@ -169,6 +240,29 @@
       "531"
      ],
      "n_patched": 3
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:55:11+00:00",
+     "seconds": 53
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:37+00:00",
+     "patched": [
+      "486"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00",
+     "finished": "2026-10-31T00:22:40+00:00",
+     "seconds": 46
     }
    }
   },
@@ -214,6 +308,29 @@
       "722"
      ],
      "n_patched": 3
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:55:47+00:00",
+     "seconds": 76
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:38+00:00",
+     "patched": [
+      "627"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00",
+     "finished": "2026-10-31T00:23:05+00:00",
+     "seconds": 70
     }
    }
   },
@@ -262,6 +379,25 @@
       "818"
      ],
      "n_patched": 6
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:56:15+00:00",
+     "seconds": 82
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:38+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -308,6 +444,25 @@
       "987"
      ],
      "n_patched": 4
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:56:52+00:00",
+     "seconds": 101
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:39+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -355,6 +510,25 @@
       "1106"
      ],
      "n_patched": 5
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:56:57+00:00",
+     "seconds": 70
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:39+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -402,6 +576,28 @@
       "134"
      ],
      "n_patched": 5
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:57:43+00:00",
+     "seconds": 88
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:00:26+00:00",
+     "patched": [
+      "23",
+      "94"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -450,6 +646,25 @@
       "235"
      ],
      "n_patched": 6
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:58:25+00:00",
+     "seconds": 93
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-30T23:55:22+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -501,6 +716,28 @@
       "452"
      ],
      "n_patched": 9
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:58:34+00:00",
+     "seconds": 97
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:00:26+00:00",
+     "patched": [
+      "382",
+      "383"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -551,6 +788,30 @@
       "555"
      ],
      "n_patched": 8
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:59:12+00:00",
+     "seconds": 89
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:00:27+00:00",
+     "patched": [
+      "472",
+      "484",
+      "485",
+      "539"
+     ],
+     "n_patched": 4
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -612,6 +873,25 @@
       "727"
      ],
      "n_patched": 19
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:00:03+00:00",
+     "seconds": 98
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-30T23:56:02+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -666,6 +946,28 @@
       "818"
      ],
      "n_patched": 12
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-30T23:59:49+00:00",
+     "seconds": 75
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:06:31+00:00",
+     "patched": [
+      "802",
+      "833"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -721,6 +1023,27 @@
       "969"
      ],
      "n_patched": 13
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:00:44+00:00",
+     "seconds": 92
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:06:32+00:00",
+     "patched": [
+      "949"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -766,6 +1089,29 @@
       "1079"
      ],
      "n_patched": 3
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:01:37+00:00",
+     "seconds": 108
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:06:32+00:00",
+     "patched": [
+      "973",
+      "975",
+      "1084"
+     ],
+     "n_patched": 3
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -811,6 +1157,30 @@
       "1174"
      ],
      "n_patched": 3
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:00:56+00:00",
+     "seconds": 53
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:06:33+00:00",
+     "patched": [
+      "1110",
+      "1125",
+      "1136",
+      "1162"
+     ],
+     "n_patched": 4
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -857,6 +1227,30 @@
       "90"
      ],
      "n_patched": 4
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:02:09+00:00",
+     "seconds": 85
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:06:34+00:00",
+     "patched": [
+      "69",
+      "85",
+      "86",
+      "131"
+     ],
+     "n_patched": 4
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -902,6 +1296,27 @@
       "240"
      ],
      "n_patched": 3
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:02:26+00:00",
+     "seconds": 90
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:06:34+00:00",
+     "patched": [
+      "227"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -958,6 +1373,30 @@
       "380"
      ],
      "n_patched": 14
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:02:54+00:00",
+     "seconds": 77
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:06:35+00:00",
+     "patched": [
+      "312",
+      "313",
+      "344",
+      "345"
+     ],
+     "n_patched": 4
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1016,6 +1455,28 @@
       "522"
      ],
      "n_patched": 16
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:03:33+00:00",
+     "seconds": 84
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:40+00:00",
+     "patched": [
+      "493",
+      "539"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1065,6 +1526,29 @@
       "659"
      ],
      "n_patched": 7
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:04:06+00:00",
+     "seconds": 100
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:11:20+00:00",
+     "patched": [
+      "614",
+      "657",
+      "658"
+     ],
+     "n_patched": 3
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1117,6 +1601,25 @@
       "803"
      ],
      "n_patched": 10
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:04:10+00:00",
+     "seconds": 76
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-30T23:57:39+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1177,6 +1680,30 @@
       "924"
      ],
      "n_patched": 18
+    },
+    "gloss-draft": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:50:45+00:00",
+     "finished": "2026-10-30T23:52:05+00:00",
+     "seconds": 81
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:04:59+00:00",
+     "seconds": 86
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:41+00:00",
+     "patched": [
+      "820",
+      "910"
+     ],
+     "n_patched": 2
     }
    }
   },
@@ -1228,6 +1755,27 @@
       "1042"
      ],
      "n_patched": 9
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:05:25+00:00",
+     "seconds": 78
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-30T23:58:21+00:00",
+     "patched": [
+      "1044"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1280,6 +1828,29 @@
       "1090"
      ],
      "n_patched": 8
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:05:08+00:00",
+     "seconds": 58
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:42+00:00",
+     "patched": [
+      "1069",
+      "1077",
+      "1078"
+     ],
+     "n_patched": 3
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1349,6 +1920,28 @@
       "132"
      ],
      "n_patched": 27
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:06:32+00:00",
+     "seconds": 92
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:42+00:00",
+     "patched": [
+      "72",
+      "83"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1402,6 +1995,28 @@
       "261"
      ],
      "n_patched": 11
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:07:01+00:00",
+     "seconds": 113
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:12:53+00:00",
+     "patched": [
+      "219",
+      "220"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1448,6 +2063,28 @@
       "352"
      ],
      "n_patched": 4
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:06:51+00:00",
+     "seconds": 87
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:12:54+00:00",
+     "patched": [
+      "318",
+      "374"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1496,6 +2133,29 @@
       "482"
      ],
      "n_patched": 6
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:08:16+00:00",
+     "seconds": 104
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:12:55+00:00",
+     "patched": [
+      "438",
+      "486",
+      "487"
+     ],
+     "n_patched": 3
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1548,6 +2208,29 @@
       "592"
      ],
      "n_patched": 10
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:08:17+00:00",
+     "seconds": 86
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:12:56+00:00",
+     "patched": [
+      "530",
+      "531",
+      "608"
+     ],
+     "n_patched": 3
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1598,6 +2281,31 @@
       "776"
      ],
      "n_patched": 8
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:08:35+00:00",
+     "seconds": 94
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:15:27+00:00",
+     "patched": [
+      "638",
+      "734",
+      "766",
+      "767",
+      "776"
+     ],
+     "n_patched": 5
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1645,6 +2353,28 @@
       "879"
      ],
      "n_patched": 5
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:09:45+00:00",
+     "seconds": 90
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:12:59+00:00",
+     "patched": [
+      "800",
+      "881"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1696,6 +2426,31 @@
       "1035"
      ],
      "n_patched": 9
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:10:11+00:00",
+     "seconds": 113
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:16:56+00:00",
+     "patched": [
+      "938",
+      "1015",
+      "1026",
+      "1031",
+      "1034"
+     ],
+     "n_patched": 5
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1745,6 +2500,29 @@
       "1190"
      ],
      "n_patched": 7
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:10:05+00:00",
+     "seconds": 90
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:15:30+00:00",
+     "patched": [
+      "1067",
+      "1141",
+      "1158"
+     ],
+     "n_patched": 3
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1792,6 +2570,25 @@
       "1266"
      ],
      "n_patched": 5
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:10:50+00:00",
+     "seconds": 64
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:00:25+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1865,6 +2662,29 @@
       "142"
      ],
      "n_patched": 31
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:11:49+00:00",
+     "seconds": 104
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:15:31+00:00",
+     "patched": [
+      "52",
+      "62",
+      "129"
+     ],
+     "n_patched": 3
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1927,6 +2747,28 @@
       "231"
      ],
      "n_patched": 20
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:11:09+00:00",
+     "seconds": 58
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:15:32+00:00",
+     "patched": [
+      "162",
+      "193"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -1993,6 +2835,30 @@
       "372"
      ],
      "n_patched": 24
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:51+00:00",
+     "finished": "2026-10-31T00:11:53+00:00",
+     "seconds": 63
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:15:33+00:00",
+     "patched": [
+      "265",
+      "287",
+      "318",
+      "319"
+     ],
+     "n_patched": 4
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -2051,6 +2917,28 @@
       "468"
      ],
      "n_patched": 16
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:12:23+00:00",
+     "seconds": 74
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:13:48+00:00",
+     "patched": [
+      "383",
+      "485"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -2110,6 +2998,25 @@
       "611"
      ],
      "n_patched": 17
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:13:42+00:00",
+     "seconds": 113
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:03:17+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -2167,6 +3074,27 @@
       "721"
      ],
      "n_patched": 15
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:13:12+00:00",
+     "seconds": 79
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:16:57+00:00",
+     "patched": [
+      "674"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -2228,6 +3156,27 @@
       "862"
      ],
      "n_patched": 19
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:13:50+00:00",
+     "seconds": 88
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:16:58+00:00",
+     "patched": [
+      "777"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -2276,6 +3225,27 @@
       "969"
      ],
      "n_patched": 6
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:14:12+00:00",
+     "seconds": 61
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:16:59+00:00",
+     "patched": [
+      "882"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:45+00:00"
     }
    }
   },
@@ -2328,6 +3298,29 @@
       "1095"
      ],
      "n_patched": 10
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:15:04+00:00",
+     "seconds": 82
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:17:00+00:00",
+     "patched": [
+      "1068",
+      "1095",
+      "1098"
+     ],
+     "n_patched": 3
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -2387,6 +3380,28 @@
       "1240"
      ],
      "n_patched": 17
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:15:29+00:00",
+     "seconds": 99
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:17:01+00:00",
+     "patched": [
+      "1239",
+      "1240"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -2444,6 +3459,28 @@
       "1348"
      ],
      "n_patched": 15
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:15:13+00:00",
+     "seconds": 61
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:17:03+00:00",
+     "patched": [
+      "1271",
+      "1331"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -2502,6 +3539,30 @@
       "1455"
      ],
      "n_patched": 16
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:16:33+00:00",
+     "seconds": 89
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:17:04+00:00",
+     "patched": [
+      "1392",
+      "1401",
+      "1436",
+      "1453"
+     ],
+     "n_patched": 4
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -2575,6 +3636,27 @@
       "104"
      ],
      "n_patched": 31
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:16:07+00:00",
+     "seconds": 54
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:18:11+00:00",
+     "patched": [
+      "16"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -2630,6 +3712,28 @@
       "234"
      ],
      "n_patched": 13
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:16:48+00:00",
+     "seconds": 79
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:18:12+00:00",
+     "patched": [
+      "161",
+      "162"
+     ],
+     "n_patched": 2
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -2686,6 +3790,25 @@
       "354"
      ],
      "n_patched": 14
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:17:25+00:00",
+     "seconds": 78
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:07:33+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -2758,6 +3881,27 @@
       "469"
      ],
      "n_patched": 28
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:17:35+00:00",
+     "seconds": 62
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:20:10+00:00",
+     "patched": [
+      "460"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -2822,6 +3966,25 @@
       "602"
      ],
      "n_patched": 22
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:18:35+00:00",
+     "seconds": 107
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:09:34+00:00",
+     "patched": [],
+     "n_patched": 0
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -2882,6 +4045,27 @@
       "735"
      ],
      "n_patched": 18
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:19:01+00:00",
+     "seconds": 97
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:20:11+00:00",
+     "patched": [
+      "650"
+     ],
+     "n_patched": 1
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -2950,6 +4134,29 @@
       "876"
      ],
      "n_patched": 26
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:19:20+00:00",
+     "seconds": 105
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:21:27+00:00",
+     "patched": [
+      "800",
+      "850",
+      "851"
+     ],
+     "n_patched": 3
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -3015,6 +4222,32 @@
       "1001"
      ],
      "n_patched": 23
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:20:01+00:00",
+     "seconds": 86
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:21:28+00:00",
+     "patched": [
+      "925",
+      "926",
+      "956",
+      "957",
+      "1000",
+      "1001"
+     ],
+     "n_patched": 6
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   },
@@ -3080,6 +4313,30 @@
       "1131"
      ],
      "n_patched": 23
+    },
+    "gloss-draft": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:50:45+00:00",
+     "finished": "2026-10-30T23:52:12+00:00",
+     "seconds": 88
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:20:26+00:00",
+     "seconds": 85
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:21:29+00:00",
+     "patched": [
+      "1101",
+      "1108"
+     ],
+     "n_patched": 2
     }
    }
   },
@@ -3131,6 +4388,31 @@
       "1277"
      ],
      "n_patched": 9
+    },
+    "gloss": {
+     "status": "done",
+     "model": "opus",
+     "started": "2026-10-30T23:52:52+00:00",
+     "finished": "2026-10-31T00:20:44+00:00",
+     "seconds": 84
+    },
+    "review2": {
+     "status": "done",
+     "model": "fable (translator)",
+     "finished": "2026-10-31T00:23:24+00:00",
+     "patched": [
+      "1151",
+      "1152",
+      "1189",
+      "1244",
+      "1245"
+     ],
+     "n_patched": 5
+    },
+    "gloss-draft": {
+     "status": "running",
+     "model": "opus",
+     "started": "2026-10-31T00:20:46+00:00"
     }
    }
   }

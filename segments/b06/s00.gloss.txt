@@ -1,0 +1,24 @@
+ANALYSIS
+1-8. L: Athenae (subj) dididerunt fetus mortalibus; recreaverunt vitam; leges rogarunt; primae dederunt solacia; cum genuere virum (repertum tali corde) qui profudit omnia ex ore veridico; cuius extincti gloria divolgata fertur ad caelum (vetus iam). E: harvests were given out by Athens (passive, same agent); she renewed life, enacted laws, first gave consolations, when she bore a man who poured out all things; whose glory, though he is extinguished, is spread and carried to heaven. MATCH.
+9-23. L: cum vidit (hic): omnia parata esse; vitam consistere tutam; homines potentis affluere divitiis honore laude, excellere fama gnatorum; nec minus esse cuiquam domi anxia cordi/corda; (these, pl.) vexare vitam animi ingratis sine pausa, cogi saevire querellis; intellegit vas ipsum efficere vitium, omnia corrumpi intus quae conlata foris venirent; partim quod videbat fluxum esse ut nulla ratione expleri posset; partim quod cernebat conspurcare omnia quae receperat. E: same clauses, but "the heart in each was no less anxious, and harried life ... and were compelled": singular subject, plural verb, so "were compelled" has no proper subject. DIFF (grammar at 16).
+24-34. L: purgavit pectora dictis; statuit finem cuppedinis atque timoris; exposuit bonum summum quid foret; monstravit viam qua possemus contendere recto cursu; quid mali foret, quod fieret volaretque varie seu casu seu vi naturali, quod natura parasset; quibus e portis occurri deceret; probavit genus humanum frustra plerumque volvere fluctus curarum. E: same subjects, moods, and attachments. MATCH.
+35-38. Refrain = 2.55-58. MATCH.
+39-41. Refrain = 1.146-148; necessest discutiant (subjunctive). MATCH.
+42. L: quo magis pergam pertexere inceptum (subjunctive). E: All the more I will press on to weave out what I began. MATCH.
+43-47. L: quoniam docui templa mundi mortalia esse, caelum consistere nativo corpore, quae fiunt fierique necessest pleraque dissolui; percipe qui restant; quandoquidem semel conscendere currum [lacuna]. E: same. MATCH.
+48-51. L: tu praemonstra spatium mihi currenti ad candida callis praescripta, Calliope; ut te duce capiam coronam cum laude. E: same. MATCH.
+52-53. L: [fragment] ventorum existant; ut placentur omnia rursum quae fuerint; sint conversa placato furore. E: same. MATCH.
+54-59. L: cetera (subj) quae mortales tuentur fieri ... faciunt animos humilis formidine divom, premunt depressos ad terram, quod ignorantia cogit conferre res ad imperium deorum et concedere regnum. E: The other things (subj) make their minds lowly, press them down; ignorance compels them. MATCH.
+60-61. Refrain = 1.153-154. MATCH.
+62-71. L: qui didicere deos agere aevom securum, si mirantur qua ratione quaeque geri possint, referuntur in religiones, adsciscunt dominos acris quos credunt omnia posse, ignari quid queat esse etc.; quo magis feruntur errantes caeca ratione. E: same. MATCH.
+72-82. L: nisi respuis et remittis putare dis indigna, numina delibata per te oberunt; non quo vis deum violari possit ut inbibat poenas petere, sed quia tu constitues quietos volvere fluctus irarum; nec adibis delubra placido pectore; nec valebis suscipere simulacra quae feruntur de corpore sancto. E: same; agency and negation kept. MATCH.
+83. L: videre licet qualis vita sequatur. E: same. MATCH.
+84-93. L: ut ratio verissima reiciat (vitam) longe, quamquam multa profecta, multa restant ornanda; est tenenda ratio caeli ignisque; sunt canenda tempestates et fulmina, quid faciant, qua de causa ferantur; ne trepides ... unde ignis pervenerit, in utram se verterit, quo pacto insinuarit, ut se extulerit. E: same. MATCH.
+94-95. Refrain = 6.60-61. MATCH.
+96-98. L: quatiuntur caerula tonitru, quia concurrunt nubes volantes, ventis pugnantibus (abl. abs.). E: same. MATCH.
+99-101. L: nec fit sonitus de parte serena, verum ubi nubes denso agmine, tam magis fit fremitus. E: same. MATCH.
+102-107. L: nubes neque condenso corpore esse queunt quam lapides, neque tam tenues quam nebulae; nam aut cadere deberent pressae, aut constare nequirent nec cohibere nives. E: same. MATCH.
+108-115. L: (nubes) dant sonitum super aequora mundi, ut carbasus dat crepitum iactata, perscissa furit, commeditatur sonitus chartarum; id genus cognoscere possis, aut ubi (venti) versant plangunt vestem chartasque. E: same (last clause passive with the winds' lashes as agent). MATCH.
+116-120. L: fit ut nubes non tam concurrere possint quam de latere ire radentes corpora; unde sonus terget auris et ducitur, donec exierunt regionibus artis. E: same. MATCH.
+FINDINGS
+16	GRAMMAR	MINOR	0.55	"infestis cogi saevire querellis" has the plural anxious hearts (anxia corda/cordi, 6.14) as its subject, but the English makes 6.14's subject singular ("the heart in each was") and then gives 6.16 a plural verb ("and were compelled") with nothing to agree with; "pause, and was compelled to rage in hostile complaints,"

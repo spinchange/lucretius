@@ -1,0 +1,184 @@
+ANALYSIS
+
+**470-472**
+- Latin: vestes suspensae litore (subj.) declarant (pres. ind. pl.) + acc.-inf. naturam tollere permulta corpora mari toto; temporal cum concipiunt (pres. ind., subj. vestes) umoris adhaesum.
+- English: clothes declare that nature lifts very many bodies from the whole sea, when they, hung on the shore, take in moisture.
+- MATCH
+
+**473-475**
+- Latin: quo magis videntur (pres. pass., subj. multa) posse consurgere e salso momine ponti, ad nubes augendas (gerundive, purpose); nam ratio omnis (nom., with ratio) consanguinea est umoribus (dat.).
+- English: so it seems the more that many bodies can rise from the salt surge, to swell the clouds; for the principle of all moistures is of one blood.
+- MATCH: omnis is shifted from ratio to umoribus, but the kinship claim survives.
+
+**476-482**
+- Latin: videmus (1 pl.) nebulas aestumque surgere de fluviis omnibus et de terra ipsa; quae (rel., the mists and heat) expressa feruntur sursum ut halitus, suffundunt caelum caligine, sufficiunt nubes altas conveniundo; enim urget (subj. aestus aetheris signiferi) super, et subtexit (same subj.) caerula nimbis quasi densendo.
+- English: same subjects and verbs; the ether's heat presses from above and weaves rain-cloud beneath the blue.
+- MATCH
+
+**483-484**
+- Latin: fit ut veniant (subj. illa corpora quae faciunt nubes nimbosque volantes) in hunc caelum extrinsecus.
+- English: the same.
+- MATCH
+
+**485-488**
+- Latin: docui (1 sg.) numerum innumerabilem esse summamque profundi infinitam; ostendi (1 sg.) quanta mobilitate volarent corpora (impf. subj.) quamque repente transire solerent per spatium immemorabile.
+- English: the same.
+- MATCH
+
+**489-494**
+- Latin: haud mirum est si coperiant (pres. subj., subj. tempestas atque tenebrae) maria ac terras parvo tempore saepe, tam magnis ventis (abl.), impensa superne; quandoquidem extat exitus introitusque redditus elementis (dat.) per caulas aetheris omnis et per spiracula mundi.
+- English: no wonder if storm and darkness, with such winds, cover seas and lands, looming above, since a way out and in stands granted to the elements through the pores and breathing-holes.
+- MATCH
+
+**495-497a**
+- Latin: expediam (fut., 1 sg.) quo pacto concrescat umor pluvius in altis nubibus et ut decidat demissus in terras ut imber.
+- English: the same.
+- MATCH
+
+**497b-502**
+- Latin: vincam (fut.) + acc.-inf. semina aquai multa consurgere simul nubibus ipsis ex omnibus rebus, and crescere ita utrumque (nubes et aquam quae in nubibus extat), ut pariter corpus cum sanguine crescit nobis, and sudor and umor in the membris.
+- English: the same.
+- MATCH
+
+**503-505**
+- Latin: concipiunt (subj. nubes, implied) multum umorem marinum saepe, ut vellera lanae pendentia, cum venti portant nubila supra mare.
+- English: the same.
+- MATCH
+
+**506-507a**
+- Latin: umor tollitur (pres. pass.) ex omnibus amnibus in nubes, consimili ratione.
+- English: the same.
+- MATCH
+
+**507b-512**
+- Latin: cum semina aquarum multa convenere (pf.) quo, adaucta undique; nubes confertae certant (pres.) mittere umorem dupliciter; nam vis venti contrudit, et copia nimborum coacta turba maiore urget, premit e supero, facit effluere imbres.
+- English: the same.
+- MATCH
+
+**513-516**
+- Latin: cum nubila rarescunt ventis aut dissolvuntur icta calore solis super, mittunt umorem pluvium stillantque, quasi cera multa tabescens super igni calido liquescat.
+- English: the same.
+- MATCH
+
+**517-518**
+- Latin: imber vehemens fit ubi nubila premuntur (pres. pass.) vehementer utraque vi, cumulata et impete venti.
+- English: a violent shower comes when the clouds are pressed both ways, by heaped force and the wind's onset.
+- MATCH
+
+**519-523**
+- Latin: pluviae consuerunt (pf. = pres.) retinere diu morarique, ubi cientur semina multa, et nubes nimbique feruntur insuper ex omni parte, et terra fumans tota redhalat umorem.
+- English: the same.
+- MATCH
+
+**524-526**
+- Latin: ubi sol fulsit (pf.) radiis inter tempestatem opacam adversa aspargine nimborum contra; tum existit color arqui in nigris nubibus.
+- English: the same.
+- MATCH
+
+**527-534**
+- Latin: cetera (list: nix, venti, grando, pruinae, vis geli, mora quae refrenat fluvios aventis) perfacile est reperire animoque videre, quo pacto fiant quareve creentur, cum cognoris (pf. subj., 2 sg.) quae sint reddita elementis.
+- English: the same.
+- MATCH
+
+**535-536a**
+- Latin: percipe (imperative) quae ratio extet terrai motibus.
+- English: learn by what principle the motions of the earth come about.
+- MATCH
+
+**536b-541**
+- Latin: fac rearis terram esse plenam speluncis ventosis subter ut supera, gerere lacus, lucunas, rupes, saxa in gremio; putandum est flumina multa tecta sub tergo volvere vi caeca fluctus summersos.
+- English: the same; caeca is rendered "unseen".
+- MATCH
+
+**542**
+- Latin: res ipsa postulat (subj. res) esse similem sui undique.
+- English: the same.
+- MATCH
+
+**543-545**
+- Latin: abl. abs. his rebus subiunctis suppositisque; terra tremit superne concussa ruinis, ubi aetas subruit (pf.) speluncas subter.
+- English: the same.
+- MATCH
+
+**546-547**
+- Latin: cadunt montes toti; disserpunt tremores late inde magno concussu repente.
+- English: the same.
+- MATCH
+
+**548-551**
+- Latin: quoniam tecta tota viam propter tremescunt concussa plaustris non magno pondere; nec minus exultant si quidvis viai succutit orbes ferratos rotarum utrimque.
+- English: the same; "under no great weight" is loosely attached to the houses but keeps the sense of light wagons.
+- MATCH
+
+**552-554**
+- Latin: fit, ubi gleba ingens provolvitur vetustate e terra in lucunas aquae, ut terra vacillans iactetur fluctu aquae.
+- English: the same.
+- MATCH
+
+**555-556**
+- Latin: ut vas non quit constare inter aquas, nisi umor destitit (pf.) iactarier intus in fluctu dubio.
+- English: the same.
+- MATCH
+
+**557-560**
+- Latin: cum ventus collectus per loca subcava procumbit ex una parte et urget obnixus speluncas viribus magnis; incumbit tellus quo vis venti prona premit.
+- English: the same; prona is taken with vis, which the grammar allows.
+- MATCH
+
+**561-564**
+- Latin: tum quae sunt extructa domorum supra terram, magis quanto edita, minent inclinata prodita in eandem partem; trabes protractae inpendent ire paratae.
+- English: the same.
+- MATCH
+
+**565-567**
+- Latin: metuunt (subj. men, implied) credere exitiale tempus cladem manere naturam mundi, cum videant molem incumbere.
+- English: the same.
+- MATCH
+
+**568-569**
+- Latin: nisi respirent venti (pres. subj., unreal), vis nulla refrenet res neque possit reprehendere euntes ab exitio.
+- English: the same.
+- MATCH
+
+**570-574**
+- Latin: nunc quia respirant alternis, ingravescunt, redeunt collecti, cedunt repulsi; minitatur terra ruinas saepius quam facit; inclinatur, recellit, recipit sedes prolapsa in pondere.
+- English: the same.
+- MATCH
+
+**575-576**
+- Latin: hac ratione vacillant tecta omnia, summa magis mediis, media imis, ima perhilum.
+- English: the same.
+- MATCH
+
+**577-584**
+- Latin: est haec causa tremoris; ubi ventus et vis animae coorta extrinsecus aut tellure coniecit se in loca cava, fremit ante, portatur versabunda, post cum vis exagitata erumpitur foras et diffindens terram concinnat hiatum.
+- English: the same.
+- MATCH
+
+**585-587**
+- Latin: quod accidit Sidone et fuit Aegi; quas urbes disturbat exitus animai et motus terrae obortus.
+- English: the same.
+- MATCH
+
+**588-590**
+- Latin: moenia multa ceciderunt motibus in terris; urbes multae subsedere per mare cum civibus.
+- English: the same.
+- MATCH
+
+**591-595**
+- Latin: quod nisi prorumpit, impetus animai et vis venti dispertitur per foramina ut horror et incutit tremorem; uti frigus cum venit in artus concutit invitos cogens tremere.
+- English: the same.
+- MATCH
+
+**596-600**
+- Latin: trepidant (subj. people, implied) ancipiti terrore; timent tecta superne, metuunt cavernas inferne, ne natura dissoluat repente, neu distracta dispandat hiatum idque velit complere ruinis.
+- English: the same; cavernas is moved into the ne-clause as its object, with the same sense.
+- MATCH
+
+**601-607**
+- Latin: licet reantur caelum terramque fore incorrupta mandata saluti aeternae; tamen interdum vis pericli subdit stimulum timoris quadam de parte, ne tellus subtracta pedibus feratur in barathrum, summa rerum prodita sequatur funditus, fiat ruina mundi.
+- English: the same.
+- MATCH
+
+FINDINGS
+NONE
