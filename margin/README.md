@@ -165,7 +165,61 @@ where Book 4 begins with a drawn initial A; the running head "Liber" /
   green crayon marks (modern) at 3.419, 433 and 1018.
 - Show-through: the note at 3.692 on 54r appears reversed on 54v and is not
   a second note.
-- Seen in passing for Book 4: "( ordia" in the right margin of 62r at 4.28
+- Seen in passing for Book 4: "( ordia" in the right margin of 62r at 4.35
   (in ordia prima), the lighter ink.
 
-The folios of Books 4-6 have not been surveyed.
+## Survey of Book 4 (done 2026-10-31, canvases 73-96, fols. 61v-84v)
+
+Every page of Book 4 was read (canvases 76-97 downloaded for it). Results in
+`marginalia.tsv` (39 entries, appended after the Book 3 rows). Book 4 runs
+from the rubric on 61v, where the drawn initial A begins 4.1 after twelve
+lines of Book 3, to the rubric "Lucretii liber quintus incipit" on 84v, six
+lines down, where Book 5 begins with an initial Q in grey. Running heads:
+"Liber" / "Quartus" across 61v-62r, "Liber" / ".iiii." across 73v-74r,
+"Liber" / "Quintus" across 84v-85r.
+
+- Brown prints nothing for Book 4; every entry is "not listed".
+- One verbal note: "( ÿ de gallo" in the right margin of 74r at 4.710, the
+  lighter ink and the bracket prefix of the marginal words, heading the
+  example of the cock and the lion. The sign between the bracket and the
+  words looks like "ij" or "ÿ". One marginal word: "( ordia" at 4.35 on
+  62r (in ordia prima); the earlier note of it as 4.28 was a miscount.
+- Two whole lines supplied in the margin in the lighter ink, both with the
+  bracket prefix: 4.174-175 written vertically in the left margin of 64r
+  with a tie-mark after 128 (the copy also has them in place on 64v;
+  "quanta" in the margin, "quantula" in the text), and 4.1034 in the right
+  margin of 80r, omitted in the text by eye-skip to the near-identical 1047.
+  Words supplied in the margin: protelo at 190 (65r), hostem at 1051 (80r),
+  stinguere possit at 1098 (81r); the line end "tantum semota videtur" at
+  288 (66v) in the lighter ink.
+- Marks: the right-margin dash again, sixteen of them (4.73, 133, 153, 180,
+  188, 189, 196, 199, 292, 305, 547, 566, 656, 735, 905, 1172, 1233), five
+  on one page over the speed of the images (65r, 180-199); a cross at 672;
+  four dots at 399; three dots under the last line of 77v (911); a small
+  sign at 176 and a wavy stroke at 364, probably the scribe's own paragraph
+  signs. The dash at 1233 stands at the denial that the gods govern
+  fertility.
+- Omissions: 4.568-570 absent (eye-skip from sonorem 567 to sonorem 570);
+  1249-1250 run into one line (magis ... magis); 1034 omitted and supplied
+  in the margin. The copy's line order follows the manuscripts where the
+  editions transpose: 32, 38, 39 stand after 52 (62v), and 30-31 are not
+  repeated; 67r carries 291-301 then 324-340, 67v 341-352 then 302-317, 68r
+  353-363, 318-323, 364-374; 542-543 stand after 552 (71v). 910-911 repeat
+  181-182 as in the editions. An extra line "corpora res multae quae mittunt
+  corpore aperto" stands between 102 and 103 on 63v, not visibly struck,
+  beside a struck anticipation of 104; it needs checking against the
+  exemplar's text. Readings noted: ostendi est (103), dissimilesque (104),
+  et gelida cygni nece torti (547).
+- Scribal corrections in the line or interlinear: 4.302-303 (309
+  anticipated and struck), 372, 522, 546, 592, 800, 983, 1033, 1125, 1152.
+- Not entered: the scribe's paragraph capitals set out in the margin (4.269,
+  337, 353, 387, 476, 513, 524, 526, 570, 598, 615, 673, 722, 779, 836, 877,
+  907, 962); the quire signatures g ii - g v (62r-65r), h - h v (71r-75r),
+  I - I iiii (81r-84r), with the boxed catchword "blandaq;" at the foot of
+  80v (quires of ten leaves: g = 61-70, h = 71-80, I = 81-90); the modern
+  pencil foliation and a pencil "29" at the head of 76v; a green crayon mark
+  at 4.449 (modern); show-through of the marginal block of 64r on 64v and
+  grey show-through in the margins of 75r and 84r.
+
+The folios of Books 5 and 6 have not been surveyed. Seen in passing for
+Book 5: a marginal correction at 5.31 on 85r ("Stimphala" / "colotes").
