@@ -224,7 +224,7 @@ lines down, where Book 5 begins with an initial Q in grey. Running heads:
 ## Survey of Book 5 (done 2026-10-31, canvases 96-122, fols. 84v-110v)
 
 Every page of Book 5 was read (canvases 98-124 downloaded for it). Results in
-`marginalia.tsv` (42 entries, appended after the Book 4 rows). Book 5 runs
+`marginalia.tsv` (39 entries, appended after the Book 4 rows). Book 5 runs
 from the rubric on 84v, where the grey initial Q begins 5.1 after six lines
 of Book 4, to 110v, where after fifteen lines a small colophon in the lighter
 ink ("quintus explicit feliciter") and the rubric "Lucretii liber sextus

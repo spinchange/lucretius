@@ -19,7 +19,7 @@ source of truth for what has been done to each segment.
 | review2 (translator, Fable; every line of every book read against the Latin) | 58/58 | `sKK.patch2.tsv` with a reason per change; 149 verse lines changed (12/23/26/36/28/24 by book) |
 | assemble | all six books | `translation/book_0N.txt`, all from review text; `check_segment --all` now exits 0 |
 | notes | all six books final (76, 89, 70, 55, 89, 86 notes) | no `{{NOTE: ...}}` placeholders or DRAFT notes remain; verse unchanged, `check_narration --all` matches |
-| margin (Ross. 884) | Books 1-5 surveyed | 186 entries in `margin/marginalia.tsv` (27 each for Books 1 and 3, 39 for Book 4, 42 for Book 5, 2026-10-31) |
+| margin (Ross. 884) | Books 1-5 surveyed | 183 entries in `margin/marginalia.tsv` (27 each for Books 1 and 3, 39 for Book 4, 39 for Book 5, 2026-10-31) |
 | audiobook | all six books built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); every chunk accepted on a strict QA pass except the four noted under "Audiobook" below |
 
 Local repo only, no remote.
@@ -135,7 +135,7 @@ the verse.
   (eye-skips); the copy keeps the manuscripts' line order at 32-39,
   302-323 and 542-543; an unexplained extra line after 102. Book 4 ends on
   84v with the rubric for Book 5. Details in margin/README.md.
-- Book 5 survey complete (2026-10-31, canvases 96-122, fols. 84v-110v): 42
+- Book 5 survey complete (2026-10-31, canvases 96-122, fols. 84v-110v): 39
   entries. No verbal note; one marginal word, "( metutum" at 5.1140 (105r);
   five right-margin dashes (102, 321, 909, 938, 1296) and four dotted lines
   at 1096-1100 (fire from rubbing branches); an "H" in the margin at 499;
