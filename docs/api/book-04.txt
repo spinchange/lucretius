@@ -1,0 +1,1697 @@
+BOOK 4
+
+The poet's untrodden path again; the images, thin films shed from the
+surface of things, their fineness, their speed and their kinds; sight,
+mirrors and the deceptions of sight, which are the mind's error and never
+the eyes'; the senses as the ground of all truth, against the sceptic;
+hearing, echo, taste and smell; how the mind thinks and dreams, and why
+dream-figures seem to move; the limbs were not made for their uses; hunger,
+walking and sleep; the dreams of men and beasts and of desire; the passion
+of love, its madness, its waste and its cure; and the shared pleasure,
+inheritance and fertility of the sexes.
+
+TRANSLATOR'S COMMENTARY
+
+The text followed is the printed Perseus text, as in Books 1 to 3. Three
+gaps are marked and left unfilled, after 126, after 144 and after 289. The
+book's opening is not in order: 26-32 and 33-37 are two drafts of the same
+transition, each ending in the same two lines, and 45-53 look like a
+leftover of an earlier version; the translation prints them in the printed
+order and repeats the English where the Latin repeats. Line 808 repeats 804
+and breaks its sentence, 1000-1003 repeat 992-995 after a line lost before
+999, and 1047 all but repeats 1034; all are rendered as printed, with a note
+at each. At 116 (eorum), 546 (barbara) and 823 the English follows the
+correction every editor makes; at 491, 547 and 551 it renders the printed
+text and the notes give the alternatives. As in Book 3 the transcription
+doubles a word wherever the original marked a diaeresis, so that "air"
+appears as aeraaëra, aeraër, aerisaëris and the like at some thirty places,
+and coepit, coercet and suerint are doubled in the same way (303, 369, 619,
+647, 657); these are artifacts of the copy, read as the single word without
+notice.
+
+Simulacra, the book's subject, is "images" throughout, as it was for the
+ghosts of 1.123 and the statues and pictures of Book 2, so that the
+technical sense is seen to grow out of the ordinary one; imago, the single
+likeness and above all the picture in a mirror, is also "image", and the
+notes say so where the two words meet. Lucretius's other names for the
+images are kept apart: membranae are "films" (32, 40, 59, 95), effigiae
+"effigies" (51, 85, 105), figurae "shapes". Ratio is "reasoning" where it
+means thought or doctrine and "principle" where it means the manner in which
+a thing comes about (qua ratione, "by what principle"). Animus and anima are
+"mind" and "spirit" as in Book 3, and mens animi at 758 is "the thought of
+the mind". Venus is left as a name wherever Lucretius uses it, for the
+goddess, for desire and for the act itself, since the book's argument
+depends on the one word covering all three. Particulae at 776 is "tiny
+parts", as the register requires, and there it means the images themselves.
+
+The proem (1-25) repeats 1.926-950 and the English repeats itself, differing
+only at 11 and 24-25, where the Latin differs; 26-29 repeat 3.31-34, 65-66
+recur at 102-103, 180-182 at 909-911, and 734 is 1.135, the line about the
+dead whose bones the earth embraces. Within the book 774 recurs at 799,
+771-772 at 800-801 and 992-995 at 1000-1003, and the English is kept the
+same in each pair save where the Latin changes its first word. The Latin has
+no quotation marks; those at 1160-1169 are the translator's, marking the
+lovers' pet names, which in the Latin are Greek.
+
+------------------------------------------------------------
+
+    1  I range through the pathless places of the Pierides[1], trodden before
+    2  by no one's foot. It is a joy to come to untouched springs
+    3  and drink from them, a joy to pluck new flowers
+    4  and to seek for my head a crown of distinction from there
+    5  where the Muses have veiled no one's temples before;
+    6  first because I teach of great things, and go on
+    7  to free the mind from the tight-tied knots of religion,
+    8  then because on a dark matter I compose such lucid
+    9  verses, touching all of it with the Muses' charm.
+   10  For this too seems not to be without good reason;
+   11  for just as physicians, with foul wormwood for children,
+   12  when they try to give it, first touch the rims round the cups
+   13  with the sweet and golden liquid of honey,
+   14  so that the unforeseeing age of children may be fooled
+   15  as far as the lips, and meanwhile drink down the bitter
+   16  juice of wormwood, and, deceived, may not be undone,
+   17  but rather, restored by such means, may grow strong,
+   18  so I now, since this reasoning often seems
+   19  rather grim to those who have not handled it, and the crowd
+   20  shrinks back from it, have wished, in sweet-speaking
+   21  Pierian song, to set out for you our reasoning
+   22  and, as it were, to touch it with the Muses' sweet honey,
+   23  if by such means I might perhaps hold your mind
+   24  on our verses, while you perceive the whole
+   25  nature of things and feel its usefulness through and through.
+   26  But since I have taught what the origins of all things
+   27  are like, and how, differing in their various shapes,
+   28  they fly of their own accord, driven by eternal motion,
+   29  and in what way each thing can be created from them,
+   30  I shall now begin to treat for you what bears closely on these things:
+   31  that there exist what we call the images[2] of things,
+   32  which are to be named, as it were, films or bark;
+   33  and since I have taught what the nature of the mind is,
+   34  and from what things, joined with the body, it is made and thrives,
+   35  and in what way, torn apart, it returns to its first-beginnings,
+   36  I shall now begin to treat for you what bears closely on these things:[3]
+   37  that there exist what we call the images of things,
+   38  because the image carries a likeness and form like that thing's
+   39  from whose body, whatever it is, it is said to be shed and wander;
+   40  which, like films torn from the outermost body of things,
+   41  fly this way and that through the air,
+   42  and these same, meeting us when we are awake, terrify
+   43  our minds, and in sleep too, when often we behold shapes
+   44  strange to see, and the images of those who lack the light,
+   45  which have often roused us in horror as we lay languid
+   46  in sleep: lest we should think by chance that spirits escape
+   47  from Acheron, or that shades fly among the living,
+   48  or that something of us can be left behind after death,
+   49  when the body and the nature of the mind, destroyed together,
+   50  have gone their separate ways, each into its own first-beginnings.
+   51  I say, therefore, that effigies of things and thin shapes
+   52  are sent off from things, from their outermost bark;
+   53  which one may come to know from this, however dull one's heart.
+   54  To begin with, since among things open to view many things
+   55  send off bodies, some diffused loosely abroad,
+   56  as logs send off smoke and fires heat,
+   57  and some more closely woven and dense, as when at times
+   58  cicadas put off their smooth coats in summer,
+   59  and when calves at birth send off films
+   60  from the outermost body, and again when the slippery serpent
+   61  strips off its garment among the thorns; for we often see
+   62  the brambles decked with their fluttering spoils.
+   63  And since these things happen, a thin image too must
+   64  be sent off from things, from the outermost body of things.
+   65  For why those should fall and withdraw from things more
+   66  than those that are thin, there is no power to open one's mouth;[4]
+   67  especially since on the surface of things there are bodies
+   68  many and minute, which could be thrown off in the same order
+   69  they had before and keep the outline of the form,
+   70  and much more swiftly, inasmuch as they can be less hindered,
+   71  being few and placed in the very front.
+   72  For certainly we see many things throw off and give out,
+   73  not only from the depth and from within, as we said before,
+   74  but from the surface, often, the very color too.
+   75  And this is commonly done by awnings, yellow and red
+   76  and dark blue, when stretched over great theaters[5]
+   77  they flap and quiver, spread out on masts and beams;
+   78  for there the assembly seated in the tiers beneath, and all
+   79  the face of the stage, the fathers and the mothers down below,
+   80  they stain, and make them ripple with their color.
+   81  And the more closely the walls of the theater are shut in
+   82  all around, the more everything inside, steeped in charm,
+   83  laughs, now that the light of day is pent within.
+   84  Therefore, since linens send off a dye from their surface,
+   85  each thing too must send off thin effigies,
+   86  since in both cases they are thrown from the surface.
+   87  There are therefore by now sure traces of forms,
+   88  which commonly fly about, endowed with a fine thread,
+   89  and cannot be seen one by one, apart.
+   90  Further, every smell, smoke, heat, and other things
+   91  of the kind stream out from things diffused for this reason:
+   92  because while they come out from the depths, risen to the outside,
+   93  they are torn apart on their winding path, and there are no straight
+   94  mouths to the roads by which, once risen, they can strive to get out.
+   95  But on the other hand, when a thin film of surface color
+   96  is thrown off, there is nothing that can tear it apart,
+   97  since it is ready at hand, placed in the very front.
+   98  Finally, whatever images appear to us in mirrors,
+   99  in water, and in every shining surface, must,
+  100  since they are endowed with a likeness like that of things,
+  101  consist of images sent off from those things.
+  102  For why those should fall and withdraw from things more
+  103  than those that are thin, there is no power to open one's mouth.
+  104  There are therefore thin effigies of forms, and like them,
+  105  which, though no one can make them out
+  106  one by one, yet thrown back by constant and repeated rebounding
+  107  return a sight from the level surface of mirrors;
+  108  and in no other way, it seems, could they be preserved
+  109  so that shapes so like each thing are returned.
+  110  Come now, how thin a nature the image is made of,
+  111  learn. And in the first place, since the first-beginnings are so far
+  112  beneath our senses, and so much smaller
+  113  than those things which the eyes first begin to be unable to see,
+  114  yet now, so that I may confirm this too, how fine the origins
+  115  of all things are, learn in a few words.
+  116  First, there are living creatures already so tiny that a third part[6]
+  117  of them could by no means be seen.
+  118  What must one think any one of their entrails is like!
+  119  What of the heart's ball, or the eye's? What of the limbs? The joints?
+  120  How tiny they are! And what, further, of each first-beginning
+  121  of which the spirit and the nature of the mind must consist?
+  122  Do you not see how fine they are, and how minute?
+  123  Further, whatever things breathe out from their bodies
+  124  a sharp smell, the panacea, foul wormwood,
+  125  strong-smelling southernwood, and grim centaury[7],
+  126  of which any one, if by chance lightly between two
+       [lacuna]
+  127  Why not rather recognize that images of things wander about,
+  128  many, in many ways, with no force, and void of sense?
+  129  But lest you perhaps think that only those wander about,
+  130  whatever images of things withdraw from things,
+  131  there are also those that are born of their own accord and themselves
+  132  take shape in this sky, which is called air,
+  133  which, formed in many ways, are borne on high,
+  134  as we see clouds at times easily gather on high
+  135  and mar the calm face of the world,
+  136  caressing the air with their motion; for often the faces of Giants[8]
+  137  seem to fly and draw a shadow far and wide,
+  138  at times great mountains and rocks torn from
+  139  the mountains seem to go before and pass across the sun,
+  140  then a beast to drag and draw on other storm-clouds.
+  141  Nor do they cease, melting, to change their likeness
+  142  and turn into the outlines of forms of every kind.
+
+  143  Now, by how easy and how swift a principle these are produced,
+  144  and how they flow perpetually from things and slip off and withdraw,[9]
+       [lacuna]
+  145  for always there is something streaming off the surface of things
+  146  for them to cast away. And when this reaches other things,
+  147  it passes through, as above all through cloth; but when it meets rough rocks
+  148  or comes upon the matter of wood, there at once
+  149  it is torn apart, so that it can give back no image.
+  150  But when things that are bright and dense are set against it,
+  151  as above all a mirror is, none of this befalls;
+  152  for it can neither pass through them, as through cloth, nor yet
+  153  be torn apart; a safety their smoothness never fails to secure.
+  154  And that is why the images stream back to us from there.
+  155  And however suddenly, at whatever time, you set
+  156  any thing against a mirror, an image appears;
+  157  so you may know that from the surface there flow perpetually
+  158  thin textures of things and thin shapes.
+  159  Therefore many images are produced in a brief space,
+  160  so that the origin of these things may rightly be called swift.
+  161  And just as the sun must send up many lights
+  162  in a brief space, so that all things may be perpetually full,
+  163  so likewise, on a like principle, it must be that from things
+  164  in a moment of time images of things are carried,
+  165  many, in many ways, in all directions on every side;
+  166  since to whatever quarter we turn a mirror's face,
+  167  things answer there with like shape and like color.
+  168  Further, when the weather of the sky has just been at its clearest,
+  169  quite suddenly it turns foully turbid,
+  170  so that you would think all the darkness on every side had left
+  171  Acheron and filled the great caverns of the sky.
+  172  So utterly, when the hideous night of storm clouds has risen,
+  173  do the faces of black Terror[10] hang over us from above;
+  174  yet how tiny a part of these an image is, there is no one
+  175  who could say, or render an account of it in words.
+  176  Come now, with what swift motion the images are carried,
+  177  and what mobility is granted them as they swim through the air,
+  178  so that a long distance is worn away in a brief hour,
+  179  toward whatever place each strains with its diverse bent,
+  180  I shall set out in verses sweet-spoken rather than many;[11]
+  181  as the small song of the swan is better than that clamor
+  182  of cranes scattered among the high clouds of the south wind.
+  183  To begin with, very often one may see that things that are light
+  184  and made of minute bodies are swift.
+  185  Of this kind is the light of the sun and its heat,
+  186  because they are made of minute first bodies
+  187  which are, as it were, hammered on, and through the interval of air
+  188  do not hesitate to pass, driven on by the blow that follows;
+  189  for at once light is supplied by light,
+  190  and flash is goaded on by flash, as if by a team in tandem[12].
+  191  Therefore images, on a like principle, must
+  192  be able to run across a space beyond telling
+  193  in a moment of time, first because there is a very small cause
+  194  far behind them to carry them forward and drive them on,
+  195  for the rest, since they are carried with so winged a lightness;
+  196  next, because they are sent out endowed with so rare
+  197  a texture that they can easily penetrate any things
+  198  and, as it were, seep through the interval of air.
+  199  Further, if those small bodies of things that from deep within
+  200  and from far inside are sent out, like the sun's light
+  201  and heat, are seen in a moment of the day to glide
+  202  and spread themselves through the whole space of heaven
+  203  and fly across sea and lands and flood the sky,
+  204  what then of those that stand ready at the very front,
+  205  when they are cast off and nothing hinders their release?
+  206  Do you not see how much more swiftly and farther they must go
+  207  and run through many times the extent of space in the same
+  208  time in which the sun's lights spread through heaven.
+  209  This too above all seems a true proof
+  210  of how swift the motion is with which images of things are carried:
+  211  that as soon as a gleaming sheet of water is laid down
+  212  under the open sky, at once, when the sky is starry, the calm
+  213  stars of the world answer, radiant in the water.
+  214  Now do you see, then, in what a moment of time an image
+  215  falls from the shores of the ether to the shores of the earth?
+  216  Therefore again and again you must confess that bodies
+  217  are sent out that strike the eyes and provoke the sight.
+  218  And from certain things odors flow perpetually,
+  219  as cold from rivers, heat from the sun, from the waves of the sea
+  220  the surge, the eater of walls along the shores,
+  221  and various voices never cease to fly through the air.
+  222  Finally, a moisture of salty flavor often comes into the mouth
+  223  when we walk beside the sea, and when we watch
+  224  wormwood being diluted and mixed, its bitterness touches us.
+  225  So true is it that from all things each thing is carried off
+  226  in a stream, and sent away in all directions on every side,
+  227  and no delay, no rest is granted in the flowing,
+  228  since we perpetually feel, and may always
+  229  see all things, smell them, and sense them sounding.
+  230  Further, since a certain shape, handled with the hands
+  231  in the dark, is known to be the same as the one
+  232  seen in the light and the clear brightness, it must be
+  233  that touch and sight are moved by a like cause.
+  234  Now then, if we feel a square thing and it
+  235  stirs us in the dark, what thing in the light could
+  236  fall square upon our sight, if not its image?
+  237  Therefore the cause of seeing is seen to lie
+  238  in images, and without them no thing can be seen.
+  239  Now these which I call images of things are carried
+  240  everywhere, and are cast out spread in all directions;
+  241  but because we can see with the eyes alone,
+  242  it comes about that wherever we turn our gaze, all things
+  243  there strike against it with shape and color.
+  244  And how far each thing stands away from us, the image
+  245  makes us see, and takes care that we distinguish it;
+  246  for when it is sent off, at once it thrusts and drives before it
+  247  whatever air is placed between itself and the eyes,
+  248  and so all this air glides through our eyes
+  249  and, as it were, sweeps the pupils, and so passes through.
+  250  That is why we see how far off each thing
+  251  stands. And the more air is driven on before it,
+  252  and the longer the breeze that sweeps our eyes,
+  253  the farther off each thing is seen to stand removed.
+  254  Of course these things come about on a principle supremely swift,
+  255  so that we see what a thing is, and at once how far off it stands.
+  256  In these matters it must not be thought at all a wonder
+  257  why, though the images that strike the eyes cannot
+  258  be seen one by one, the things themselves are perceived.
+  259  For when the wind too lashes us little by little, and when
+  260  sharp cold flows, we are not used to feel each single
+  261  small part of the wind and of its cold,
+  262  but rather the whole at once, and we see blows come about
+  263  then on our body just as if some thing were
+  264  lashing it and giving a sense of its own body outside.
+  265  Again, when we strike a stone with a finger, we touch
+  266  the very outermost surface of the rock, its uppermost color,
+  267  yet we do not feel that by touch; rather we feel
+  268  the hardness itself, deep within the rock, far down.
+
+  269  Come now, learn why the image[13] is seen beyond the mirror;
+  270  for certainly it is seen withdrawn deep within.
+  271  It is like those things outside that are truly seen through
+  272  when a doorway offers through itself an open view
+  273  and lets many things outside be seen from within the house;
+  274  for that sight too comes about through a double, twin air.
+  275  For first, on this side of the doorposts, the air is discerned,
+  276  next the doors themselves follow, to right and left,
+  277  after that an outer light sweeps through the eyes, and a second
+  278  air, and those things outside that are truly seen through.
+  279  So, when the image of the mirror first has cast itself forth,
+  280  while it comes to our sight, it thrusts and drives along
+  281  all the air that is set between itself and our eyes,
+  282  and brings it about that we can perceive all this air
+  283  before the mirror; but when we have perceived the mirror too,
+  284  at once the image that is carried from us into it
+  285  arrives, and, thrown back, revisits our eyes,
+  286  and, driving another air before it, rolls it on,
+  287  and makes us see this air before itself, and for that reason
+  288  it seems to stand removed from the mirror by just so much.
+  289  Therefore again and again it is right to wonder not at all[14]
+       [lacuna]
+  290  at those that give back a sight from the level surface of mirrors,
+  291  since in either case the thing is brought about by two airs.
+  292  Now, that part of our limbs which is on the right
+  293  comes to be seen in mirrors on the left, because
+  294  when the image, coming, strikes against the mirror's flat,
+  295  it is not turned about unharmed, but is dashed straight
+  296  backward, as if someone, before it was dry,
+  297  should dash a clay mask[15] against a pillar or a beam,
+  298  and it should at once keep its features straight in front
+  299  and, dashed back, should press out its own form in reverse.
+  300  It will come about that the eye that was the right before
+  301  is now the left, and the left in exchange the right.
+  302  It comes about too that an image is passed from mirror to mirror,
+  303  so that even five or six images are accustomed to be made.
+  304  For whatever things lie hidden back in the inner part of a house,
+  305  even so, however crookedly and deep withdrawn they lie,
+  306  all can be brought out through crooked passages
+  307  and by many mirrors be seen to be within the house.
+  308  So thoroughly does the image shine across from mirror to mirror,
+  309  and when it is handed on as left, it becomes right again,
+  310  then it turns back again and returns to the same.
+  311  Further, whatever little sides of mirrors there are
+  312  endowed with a curvature like that of our own side
+  313  send back to us images that are right on that account,
+  314  either because the image is carried across from mirror to mirror
+  315  and from there, dashed twice, flies to us, or else because
+  316  the image is whirled around as it comes, since
+  317  the curved shape of the mirror teaches it to turn toward us.
+  318  Further, that images walk forward in step with us, and set
+  319  their foot down with ours, you would believe, and imitate our gesture,
+  320  because, from whatever part of the mirror you withdraw,
+  321  from there at once the images cannot return;
+  322  since nature compels all things to be carried back
+  323  and to leap back from things, returned at equal angles[16].
+  324  Further, the eyes shun bright things and avoid looking at them.
+  325  The sun even blinds them, if you persist in straining toward it,
+  326  because its own force is great, and from on high
+  327  images are carried through the clear air
+  328  and strike the eyes, throwing their structure into confusion.
+  329  Further, whatever brightness is keen often scorches
+  330  the eyes, because it holds many seeds of fire
+  331  which, working their way in, beget pain in the eyes.
+  332  Further, all things turn sallow that are looked upon
+  333  by the jaundiced[17], since seeds of sallowness from their body
+  334  flow forth in numbers to meet the images of things,
+  335  and many, finally, are mingled in their eyes,
+  336  which with their contagion paint all things with pallor.
+  337  Again, from darkness we see the things that are in light
+  338  because, when the nearer air of the gloom,
+  339  the black air, enters the eyes first and takes hold of them open,
+  340  at once the shining, bright air follows after,
+  341  which as it were purges them and scatters the black shadows
+  342  of that air; for this one is by many degrees
+  343  more mobile, by many finer, and more powerful.
+  344  As soon as it has filled the eyes' passages with light
+  345  and opened those that before the air had laid siege to,
+  346  the black air, at once there follow the images of things
+  347  that are placed in light, and provoke us to see.
+  348  This, contrarily, we cannot do from light into darkness,
+  349  because the air of gloom, coming after,
+  350  follows thicker, and fills up all the openings
+  351  and besieges the eyes' passages, so that the images
+  352  of any things, cast in, cannot be stirred to motion.
+  353  And when from far off we discern the square towers of a city,
+  354  it comes about that they often seem round
+  355  for this reason: every angle is seen blunted at a distance,
+  356  or rather is not seen at all, and its blow
+  357  is lost, and its stroke does not glide through to our sight,
+  358  because while the images are carried through much air,
+  359  the air by frequent collisions forces the stroke to grow dull.
+  360  When in this way every angle at once has escaped the sense,
+  361  it comes about that the stone structures look as if turned on a lathe;
+  362  not, though, like things that are near at hand and truly round,
+  363  but they seem a little like them, as if in shadowy sketch.
+  364  A shadow too seems to us to move in the sun
+  365  and to follow our footsteps and imitate our gesture,
+  366  if you believe that air deprived of light can
+  367  walk forward, following the motions and gesture of men;
+  368  for it can be nothing else but air bereft of light,
+  369  this thing that we are accustomed to call shadow.
+  370  Doubtless, because the earth, in places in fixed order,
+  371  is deprived of the sun's light wherever we, moving,
+  372  get in its way, and is filled again where we have left it,
+  373  it comes about that what was the shadow of the body
+  374  seems, the same one, to have followed us straight on all along.
+  375  For always new light of rays pours itself forth,
+  376  and the first perishes, as if wool were drawn into fire.
+  377  Therefore the earth is easily both stripped of light
+  378  and filled again, and washes its black shadows from itself.
+
+  379  Yet we do not grant that the eyes are deceived one whit in this.[18]
+  380  For to see in what place there is light and shadow
+  381  is their task; but whether the lights are the same or not,
+  382  and whether the shadow that was here now passes over there,
+  383  or rather what we described a little before comes about,
+  384  this the reasoning of the mind alone must discern,
+  385  nor can the eyes come to know the nature of things.
+  386  Do not, then, fasten this fault of the mind upon the eyes.
+  387  The ship in which we are carried moves while it seems to stand still;
+  388  the one that stays at its mooring is believed to be going past.
+  389  And hills and plains seem to flee astern
+  390  as we drive past them in our ship and fly under sail.
+  391  The stars all seem to rest, fixed fast to the vaults of the ether,
+  392  and yet all of them are in unceasing motion,
+  393  since, once risen, they go back to their far-off settings
+  394  when they have measured out the sky with their bright bodies.
+  395  And on a like principle the sun and the moon seem to stay
+  396  at rest, though the fact itself shows that they are carried on.
+  397  And mountains that stand out far off from the middle of the sea,
+  398  between which a wide passage lies open, free for fleets,
+  399  seem nonetheless to make one island, joined together.
+  400  That the halls turn round and the columns run in circles
+  401  seems so strongly to children, once they themselves
+  402  have stopped spinning, that they can hardly now believe
+  403  the whole roof is not threatening to fall in on them.
+  404  Again, when nature begins to raise on high the red radiance
+  405  with its trembling fires, and to lift it above the mountains,
+  406  those mountains above which the sun then seems to you to be,
+  407  touching them close at hand, burning, with its own fire,
+  408  are scarcely two thousand bowshots[19] away from us,
+  409  often scarcely even five hundred casts of a javelin;
+  410  between them and the sun lie the immense levels
+  411  of the sea, spread out beneath the vast shores of the ether,
+  412  and many thousands of lands lie in between,
+  413  held by various peoples and the generations of wild beasts.
+  414  But a pool of water no deeper than a single finger,
+  415  which stands between the stones of the paving in the streets,
+  416  offers a view down beneath the earth to a depth as great
+  417  as the high gulf of the sky gapes open above the earth,
+  418  so that you seem to look down on clouds and to see the sky,
+  419  and bodies wonderfully hidden in a sky beneath the earth.
+  420  Again, when our spirited horse has stuck fast in midstream
+  421  and we have looked down into the river's rushing waves,
+  422  some force seems to carry the body of the standing horse
+  423  sideways and to thrust it swiftly against the current,
+  424  and wherever we cast our eyes, all things seem
+  425  to be carried and to flow on, to us, in the same way.
+  426  Again, though a colonnade runs in an even line
+  427  and stands from end to end propped on equal columns,
+  428  yet when it is seen, all its length, from the top end,
+  429  it gradually draws into the point of a narrow cone,
+  430  joining roof to floor and all the right side to the left,
+  431  until it has drawn them into the dim tip of the cone.
+  432  On the open sea, to sailors the sun, risen from the waves,
+  433  seems to set in the waves and to hide its light;
+  434  for indeed they see nothing else but water and sky;
+  435  lest you lightly believe the senses are shaken on every side.
+  436  But to those who do not know the sea, ships in harbor
+  437  seem crippled, their stern-posts broken, as they strain against the waves.
+  438  For whatever part of the oars is raised above the brine
+  439  is straight, and the rudders are straight above;
+  440  but the parts that go down sunk in the water seem broken back,
+  441  all turned about and bent, returning upward, upside down,
+  442  and so bent back as almost to float on the water's surface.
+  443  And when the winds carry thin clouds across the sky
+  444  in the night-time, then the shining constellations seem
+  445  to glide against the clouds and to travel above them
+  446  in a far other direction than true reasoning shows they are carried.
+  447  But if by chance a hand placed beneath one eye
+  448  presses it from below, by a certain feeling it comes about
+  449  that all things we look at seem, as we look, to become double:
+  450  double the lights of the lamps, flowering with flames,
+  451  and through the whole house the furniture doubled in pairs,
+  452  and men with double faces and twin bodies.
+  453  Again, when sleep has bound our limbs in sweet slumber
+  454  and the whole body lies in deepest rest,
+  455  yet we seem to ourselves to be awake and to move
+  456  our limbs, and in the blind darkness of the night
+  457  we think we see the sun and the light of day,
+  458  and, in a closed room, sky, sea, rivers, mountains
+  459  we seem to change, and to cross the plains on foot,
+  460  and to hear sounds, when the stern silences of the night
+  461  hold fast on every side, and to give answers, saying nothing.
+  462  We see many other wonders of this kind,
+  463  all seeking, as it were, to violate our trust in the senses,
+  464  in vain, since the greatest part of them deceive
+  465  because of the mind's suppositions, which we add ourselves,
+  466  so that things not seen by the senses pass for seen;
+  467  for nothing is harder than to separate things plain
+  468  from doubtful ones, which the mind straightway adds of itself.
+  469  Again, if anyone thinks that nothing can be known, he does not know[20]
+  470  whether even that can be known, since he admits he knows nothing.
+  471  Against this man, then, I will forbear to argue the case,
+  472  who has set himself with his head where his footprints should be.
+  473  And yet, granting that he knows even this, still I would ask
+  474  this very thing: since he has seen nothing true in things before,
+  475  from where does he know what it is to know and, in turn, not to know,
+  476  what thing has created the notion of the true and the false,
+  477  and what thing has proved the doubtful to differ from the certain?
+  478  You will find that from the senses first was created
+  479  the notion of the true, and that the senses cannot be refuted.
+  480  For that must be found to deserve greater trust
+  481  which can of its own accord overcome false things with true.
+  482  Further, what ought to be held in greater trust than the senses?
+  483  Or will reasoning, sprung from a false sense, have the power
+  484  to speak against them, when it has sprung wholly from the senses?
+  485  And unless they are true, all reasoning too becomes false.
+  486  Or will the ears be able to correct the eyes, or touch
+  487  the ears? Or again will the mouth's taste accuse this touch,
+  488  or will the nostrils confute it, or the eyes refute it?
+  489  It is not so, I think. For to each a separate power
+  490  has been allotted, each has its own force, and so it must be
+  491  that what is soft, and cold or hot, is perceived apart,[21]
+  492  and that the various colors of things are perceived apart,
+  493  and whatever things are joined to colors.
+  494  Apart, likewise, the mouth's taste has its power, apart smells
+  495  are born, apart sounds. And so it must be
+  496  that one sense cannot convict another.
+  497  Nor, further, will they be able to correct themselves,
+  498  since equal trust must always be placed in them.
+  499  Therefore what has seemed to them at any time is true.
+
+  500  And if reasoning cannot untie the cause
+  501  why things that were square close at hand are seen far off
+  502  as round, still it is better, if you are at a loss for reasoning,
+  503  to give faulty causes for each of the two shapes
+  504  than to let things plain to see slip from your hands somewhere
+  505  and violate the first trust[22] and tear up all
+  506  the foundations on which life and safety rest.
+  507  For not only would all reasoning fall in ruin; life itself
+  508  would collapse at once, unless you dared to trust the senses
+  509  and avoid steep places and the other things that are
+  510  to be fled in this kind, and follow what is their opposite.
+  511  That whole store of words, then, is empty for you,
+  512  which is drawn up and made ready against the senses.
+  513  Finally, as in a building, if the first rule is crooked,
+  514  and if the square is false and slips from its straight lines,
+  515  and if the level[23] limps a hair's breadth at any point,
+  516  everything must be made faulty and askew,
+  517  the house crooked, sagging, leaning forward, leaning back, out of true,
+  518  so that some parts seem already to want to fall, and do fall,
+  519  all of it betrayed by those first false judgments;
+  520  so then your reasoning of things must be crooked
+  521  and false, whatever reasoning has risen from false senses.
+  522  Now, by what means each of the other senses perceives
+  523  its own object, the reasoning left is by no means rugged.
+  524  First of all, sound and every voice are heard when, working their way
+  525  into the ears, they have struck the sense with their body.
+  526  For we must admit that voice too, and sound, are bodily,
+  527  since they are able to strike upon the senses.
+  528  Further, the voice often scrapes the throat, and shouting
+  529  makes the windpipe rougher as it goes out,
+  530  since, whenever in a greater crowd through a narrow way
+  531  the first-beginnings of voices, risen, have begun to go out.
+  532  Clearly the door of the mouth too is scraped when it is filled.
+  533  There is no doubt, then, that voices and words consist
+  534  of bodily beginnings, since they are able to do harm.
+  535  Nor, likewise, does it escape you what body is lost, and what
+  536  is drawn from men's sinews and their very strength
+  537  by unbroken speech carried on to the shadow of black night
+  538  from the rising brightness of the dawn,
+  539  above all if it is poured out with the loudest shouting.
+  540  Therefore the voice must be bodily,
+  541  since one who talks much loses part of his body.
+  542  Roughness of voice, again, comes from roughness
+  543  of the beginnings, and smoothness likewise is made by smoothness;
+  544  nor do the first-beginnings pierce the ears with like shape
+  545  when the trumpet bellows deep with its low-pressed growl
+  546  and the barbarous horn[24], roused, booms back its hoarse drone,
+  547  and when the Daulian birds[25], born in the gardens of Helicon,
+  548  raise their liquid lament with mourning voice.
+  549  So when we press these voices out from deep within our body
+  550  and send them out straight through the mouth,
+  551  the nimble tongue, artificer of sinews[26], articulates them,
+  552  and the shaping of the lips gives them form in its turn.
+  553  When the space is not long from which each voice
+  554  sets out to arrive, the words themselves too must
+  555  be heard plainly and distinguished syllable by syllable;
+  556  for the voice keeps its shaping and keeps its form.
+  557  But if the space set between is longer than is fit,
+  558  the words must be confused passing through much air
+  559  and the voice thrown into disorder as it flies through the air.
+  560  So it comes about that you can perceive a sound but cannot
+  561  make out what the meaning of the words is;
+  562  so confused and tangled does the voice arrive.
+  563  Further, a single word often rouses the ears
+  564  of all in a crowd, sent out from a crier[27]'s mouth.
+  565  One voice, then, suddenly scatters into many voices,
+  566  since it divides itself among separate ears,
+  567  stamping on the words their form and clear sound.
+  568  But the part of the voices that does not fall on the ears themselves
+  569  is carried past and perishes, spread out in vain through the breezes.
+  570  Part, dashed against solid places, is thrown back, returns
+  571  a sound, and at times deceives us with the echo of a word.
+  572  When you see this well, you can give an account
+  573  to yourself and to others of how, through lonely places,
+  574  rocks give back the matching forms of words in order,
+  575  when we search among the shadowed mountains for straying comrades
+  576  and call them, scattered, with a great voice.
+  577  I have seen places give back even six or seven voices
+  578  when you threw out one: so the hills themselves, to hills
+  579  beating the words back, repeated the sayings as they returned.
+  580  These places, the neighbors fancy, goat-footed Satyrs[28]
+  581  and Nymphs hold, and they say there are Fauns,
+  582  by whose night-wandering din and jesting play
+  583  they declare the speechless silences are commonly broken,
+  584  and sounds of strings arise, and the sweet laments
+  585  that the pipe pours out when struck by the players' fingers;
+  586  and that the race of farmers hears it far and wide when Pan,
+  587  shaking the pine coverings of his half-beast head,
+  588  often runs his curved lip over the open reeds,
+  589  so that the pipe will not cease pouring out its woodland music.
+  590  Other marvels and portents of this kind they tell,
+  591  so that they may not be thought to hold lonely places
+  592  deserted even by the gods. So they toss out wonders in their talk,
+  593  or they are led by some other reason, as the whole
+  594  human race is all too greedy for listening ears.
+  595  For the rest, it is no wonder by what principle,
+  596  through places where the eyes cannot make out things in plain view,
+  597  voices come through these places and assail the ears;
+  598  we often see a conversation through closed doors as well;
+  599  no doubt because a voice can pass unharmed through the winding
+  600  passages of things, while images refuse;
+  601  for they are torn apart unless they swim through straight passages,
+  602  such as those of glass, through which every appearance flies.
+  603  Further, a voice is divided in every direction,
+  604  since voices are born one from another, once a single one
+  605  has sprung forth and leapt apart into many, as a spark of fire
+  606  often spreads itself out into its own fires.
+  607  Therefore places hidden away behind are filled with voices,
+  608  and all the places round about are astir and roused with sound.
+  609  But images all travel along straight paths
+  610  once they are sent out; and so no one can see
+  611  over a wall, but can take in voices from beyond it.
+  612  And yet this very voice too, while it passes through the closed rooms
+  613  of houses, is blunted and enters the ears confused,
+  614  and we seem to hear a sound rather than words.
+
+  615  As for how we perceive flavor, the tongue and palate
+  616  hold a little more reasoning in them, and more labor.
+  617  To begin with, we perceive flavor in the mouth when, chewing,
+  618  we press it out of food, as with a sponge full of water,
+  619  if someone should start to squeeze it in the hand and dry it.
+  620  Then all we press out is spread through the palate's passages
+  621  and through the winding pores of the loose-woven tongue.
+  622  So when the bodies of the oozing flavor are smooth,
+  623  they touch sweetly, and sweetly handle all
+  624  the moist precincts sweating round about the tongue;
+  625  but on the contrary they prick the sense and tear it as they come,
+  626  the more so the more each is filled with roughness.
+  627  Next, the pleasure from flavor lies within the bounds of the palate;
+  628  but when it has plunged down through the throat,
+  629  there is no pleasure, while it is all being spread into the limbs;
+  630  nor does it matter at all on what food the body is fed,
+  631  so long as what you take you can digest and spread
+  632  through the limbs, and keep the stomach's full and even tenor.
+  633  Now, so we may see why one food suits some, another others,
+  634  I shall explain, and why what is harsh and bitter to some
+  635  can yet seem to others exceedingly sweet,
+  636  and in these things there is such distance and difference
+  637  that what is food to some is to others sharp poison;
+  638  and so there is a snake which, touched by a man's spittle,
+  639  perishes and destroys itself by gnawing at itself.
+  640  Further, hellebore[29] is sharp poison to us,
+  641  but to goats and to quails it adds fat.
+  642  So that you can learn by what means this comes about,
+  643  first it is fitting to remember what we said before,
+  644  that seeds are held mixed in things in many ways.
+  645  Further, all living creatures whatever that take food,
+  646  just as they are unlike outwardly, and, kind by kind,
+  647  the outer contour of their limbs confines them,
+  648  so too they consist of seeds, and these vary in shape.
+  649  Again, since the seeds differ, it must be that the intervals
+  650  and the paths, which we call pores, differ too
+  651  in all the limbs, and in the mouth and the palate itself.
+  652  Therefore some must be smaller and some larger,
+  653  for some creatures they must be three-cornered, for others square,
+  654  many round, some many-angled in many ways.
+  655  For as the order of the shapes and their motions demand,
+  656  so the shapes of the pores must differ,
+  657  and the paths vary, according as the texture confines them.
+  658  So when what is sweet to some becomes bitter to others,
+  659  for the one to whom it is sweet the smoothest bodies must
+  660  enter the passages of the palate caressingly,
+  661  but for those to whom the same thing is bitter within,
+  662  rough and hooked bodies, doubtless, make their way into the throat.
+  663  Now it is easy from these things to understand each case.
+  664  For indeed when fever has risen in someone, the bile prevailing,
+  665  or the force of disease has been roused by some other means,
+  666  then the whole body is thrown into disorder, and all
+  667  the positions of the beginnings are changed;
+  668  so it comes about that bodies which before suited the sense
+  669  now do not suit it, and others are more fitted,
+  670  which, making their way in, can beget a bitter sense;
+  671  for both kinds are mixed together in the flavor of honey,
+  672  a thing we have often shown you above already.
+  673  Come now, how the touch of odor strikes the nostrils
+  674  I shall set out. First, there must be many things
+  675  from which a varied stream of odors rolls flowing,
+  676  and we must suppose they flow and are sent out and scattered everywhere;
+  677  but one odor is more fitted to some creatures, another to others,
+  678  because of their unlike forms. And so through the air
+  679  bees are drawn, however far, by the odor of honey,
+  680  and vultures by carcasses; then, where the cloven hoof of beasts
+  681  has carried its steps, the far-reaching force of hounds
+  682  leads on, and the human smell is scented from far away
+  683  by the savior of the citadel of Romulus' sons, the white goose[30].
+  684  So one scent given to some, another to others, leads each
+  685  to its own pasture, and makes it spring back from foul poison,
+  686  and in this way the generations of wild beasts are preserved.
+  687  This odor itself, then, whatever it is that provokes the nostrils,
+  688  is such that one can be sent farther than another;
+  689  but still none of them is carried as far
+  690  as sound, as voice, not to speak now of the things
+  691  that strike the sight of the eyes and provoke vision.
+  692  For it comes wandering and slowly, and perishes on the way,
+  693  little by little, easily torn apart into the breezes of air;
+  694  first, because it is barely sent out from deep within the thing;
+  695  for that odors flow and withdraw from the depths of things
+  696  is shown by this, that all things seem to smell more when broken,
+  697  when crushed, when dissolved by fire.
+  698  Next, you may see that it is made of larger
+  699  beginnings than voice, since through walls of stone
+  700  it does not pass, where voice and sound are commonly carried.
+  701  Therefore you will see as well that what smells is not so easy
+  702  to track down, in what region it is placed;
+  703  for the blow cools as it lingers through the air,
+  704  and the messengers of things do not run down hot to the sense.
+  705  And so dogs often go astray and search for the tracks.
+  706  Nor yet is this found only in odors and in the class
+  707  of flavors; likewise the appearances and colors of things
+  708  do not all so suit the senses of all
+  709  that some are not harsher to some to look at.
+  710  Indeed, the cock, who with clapping wings drives out the night
+  711  and is wont to call the dawn with ringing voice,
+  712  ravening lions are not able to stand against
+  713  and look upon: so instantly do they remember flight.[31]
+  714  Doubtless because there are in the body of cocks certain
+  715  seeds which, when they are sent into the eyes of lions,
+  716  bore into the pupils and give sharp pain,
+  717  so that, fierce as they are, they cannot hold out against them,
+  718  although these things cannot harm our sight at all,
+  719  either because they do not get in, or because, once they do,
+  720  a free way out of the eyes is given them, so that by lingering
+  721  they cannot harm the eyes in any part.
+  722  Come now, hear what things move the mind, and from where
+  723  the things that come into the mind come, learn in a few words.
+  724  First, I say this: that images of things wander,
+  725  many, in many ways, in all directions on every side,
+  726  thin images, which easily join with one another in the air
+  727  when they meet, like a spider's web or a leaf of gold.
+  728  For indeed these are much thinner in texture
+  729  than those that take hold of the eyes and provoke vision,
+  730  since these pass through the loose openings of the body and stir
+  731  the thin nature of the mind within, and provoke sense.
+  732  And so we see Centaurs and the limbs of Scyllas
+  733  and the dog-faces of Cerberus, and images of those
+  734  whose bones, after death, the earth embraces;[32]
+  735  since images of every kind are carried everywhere,
+  736  some that come to be of their own accord in the air itself,
+  737  some that withdraw from all manner of things,
+  738  and those that are made by combining the shapes of these.
+  739  For certainly no image of a Centaur comes from a living one,
+  740  since no such nature of living thing ever existed;
+  741  but when by chance the images of horse and man meet,
+  742  they easily cling together at once, as we said before,
+  743  because of their subtle nature and thin texture.
+  744  Other things of this kind are created by the same principle.
+  745  And since these move nimbly with the utmost lightness,
+  746  as I showed before, any one subtle image easily
+  747  moves our mind with a single blow;
+  748  for the mind is thin, and wonderfully mobile itself.
+  749  That these things happen as I tell, you may easily learn from this:
+  750  insofar as the one is like the other, what we see with the mind
+  751  and with the eyes, it must come about by a like principle.
+  752  Now, then, since I have shown that I see lions, say,
+  753  by means of images, whatever images provoke the eyes,
+  754  you may know that the mind is moved by a like principle
+  755  by images of lions and the rest, which it sees just as
+  756  well as the eyes, except that it perceives thinner ones.
+  757  Nor by any other principle, when sleep has spread out the limbs,
+  758  does the thought of the mind[33] keep watch, except that the same images
+  759  provoke our minds as when we are awake,
+  760  so much so that we seem surely to see one
+  761  whom, life left behind, death and the earth now possess.
+  762  Nature compels this to happen because all
+  763  the senses of the body, blocked, rest throughout the limbs,
+  764  and cannot refute the false with things that are true.
+  765  Further, memory lies idle and languishes in sleep,
+  766  and does not protest that this one is in the grip of death and doom
+  767  long since, whom the mind believes it sees alive.
+  768  For the rest, it is no wonder that images move
+  769  and throw their arms in rhythm, and their other limbs;
+  770  for it happens that in dreams an image seems to do this.
+  771  For indeed, when the first perishes and a second is born after
+  772  in another posture, the earlier seems to have changed its gesture.
+  773  Of course we must suppose that this happens by a swift principle:
+  774  so great is the mobility, and so great the abundance of things,
+  775  and so great, in any one moment we can perceive,
+  776  the abundance of tiny parts[34], that it can supply them.
+
+  777  And many questions arise in these matters, and much we must
+  778  make clear, if we wish to set out the matter plainly.
+  779  It is asked first of all why, whatever has come into anyone's
+  780  fancy, the mind thinks of that very thing at once.
+  781  Do the images keep watch upon our will,
+  782  and does an image meet us the moment we wish,
+  783  if our heart is set on the sea, on the earth, or finally the sky?
+  784  Assemblies of men, a procession, banquets, battles,
+  785  does nature create them all at a word and make them ready?
+  786  And this especially when, in the same region and place,
+  787  the minds of others are thinking of things all far unlike.
+  788  What further, when we see the images advancing in rhythm
+  789  in our sleep, and moving their supple limbs,
+  790  when nimbly they fling out their supple arms by turns
+  791  and repeat the gesture to our eyes with a matching foot?
+  792  No doubt the images are steeped in art and wander well taught,
+  793  so that they can put on shows in the time of night.
+  794  Or will this rather be the truth? Because in a single time,
+  795  when we perceive, that is, when a single sound is uttered,
+  796  many times lie hidden[35], which reasoning finds to exist,
+  797  therefore it comes about that in any time whatever
+  798  every image is at hand, ready in every place.
+  799  So great is the mobility, and so great the abundance of things.
+  800  Here, when the first perishes and a second is born after
+  801  in another posture, the earlier seems to have changed its gesture.[36]
+  802  And because they are thin, the mind cannot sharply see
+  803  any but those it strains toward; and so all that are
+  804  beyond these perish, except those it has made itself ready for.
+  805  And it makes itself ready, and hopes it will come about
+  806  that it sees what follows on each thing: and so it does.
+  807  Do you not see that the eyes too, when things that are thin
+  808  beyond these perish, except those it has made itself ready for,[37]
+  809  they have begun to look at, strain and make themselves ready,
+  810  and that without this we cannot see sharply?
+  811  And yet even with things in plain view you can recognize
+  812  that if you do not turn your mind to them, it is just as if
+  813  they were all the time set apart and far removed.
+  814  Why then is it a wonder if the mind loses all else
+  815  except the things to which it is itself given over?
+  816  Then, from small signs we form the greatest conjectures
+  817  and lead ourselves into the snare of self-deception.
+  818  It happens too at times that the image supplied
+  819  is not of the same kind, but what was a woman before
+  820  seems to be there in our hands, made into a man,
+  821  or one face and one age follow after another.
+  822  That we do not wonder at this, sleep and forgetfulness see to it.
+  823  In these matters there is a fault I earnestly want you[38]
+  824  to flee, an error to avoid with foresight:
+  825  do not think that the bright lights of the eyes were created
+  826  so that we might look before us, and that, so we could take
+  827  long strides, the tapering lengths of calf and thigh,
+  828  set firm upon the feet, are for that reason able to bend;
+  829  then too, that the forearms were fitted to strong upper arms,
+  830  and hands were given as servants on either side,
+  831  so that we could do what would be of use for life.
+  832  All other things of this kind which men expound, whatever they are,
+  833  are all backward, by reasoning turned upside down,
+  834  since nothing was born in the body so that we could use
+  835  it, but what is born creates its use[39].
+  836  Nor was there seeing before the lights of the eyes were born,
+  837  nor pleading with words before the tongue was created;
+  838  rather, the origin of the tongue came long before
+  839  speech, and the ears were created long before
+  840  sound was heard, and finally all the limbs
+  841  existed, I think, before there was any use for them;
+  842  they cannot, therefore, have grown for the sake of using.
+  843  But, by contrast, to join hand to hand in the contests of battle,
+  844  to mangle the frame and befoul the limbs with gore,
+  845  came long before shining weapons flew,
+  846  and nature compelled men to avoid a wound
+  847  before the left arm, by art, held up the shield against it.
+  848  And surely to give the tired body over to rest
+  849  is far older than the soft coverings of a bed,
+  850  and to quench thirst came before cups were born.
+  851  These things, then, may be believed devised for the sake
+  852  of using, since they were found out from use and life.
+  853  But all those stand apart which, born first themselves,
+  854  afterwards gave us the notion of their usefulness.
+  855  Of this kind above all we see the senses and the limbs;
+  856  therefore, again and again, you are far from able to believe
+  857  that they could have been created for the service of usefulness.
+  858  This too is no cause for wonder, that the nature
+  859  of the body of each living creature seeks food.
+  860  For indeed I have taught that many bodies flow and withdraw
+  861  from things in many ways; but most must go
+  862  from living creatures; for since they are worked by motion,
+  863  many are breathed out through the mouth when, weary, they pant,
+  864  and many are pressed from deep within and carried off in sweat.
+  865  By these things, then, the body grows thin, and its whole
+  866  nature is undermined, and pain follows on this.
+  867  Food therefore is taken, to prop up the frame
+  868  and, given within, to renew the strength, and to stop up
+  869  the gaping desire for eating through limbs and veins.
+  870  Moisture likewise goes off into all the places
+  871  that call for moisture; and the many bodies of heat
+  872  that have massed together and kindle fires in our stomach
+  873  the liquid, coming, scatters and puts out like fire,
+  874  so that the dry heat can burn the frame no longer.
+  875  In this way, then, the panting thirst is washed out
+  876  of our body, in this way the hungry desire is filled.
+  877  Now how it comes about that we can take steps forward
+  878  when we wish, and why it is given us to move our limbs,
+  879  and what thing has grown used to pushing forward this great weight
+  880  of our body, I shall tell: you, take in my words.
+  881  I say, first, that images of walking come
+  882  to our mind and strike the mind, as we said before.
+  883  From there will arises; for no one begins to do
+  884  anything before the mind has foreseen what it wills.
+  885  Of what it foresees, an image of that thing exists.
+  886  Therefore, when the mind so stirs itself that it wills to go
+  887  and step forward, at once it strikes the force of spirit[40]
+  888  that is scattered through the whole body, through limbs and frame;
+  889  and that is easy to do, since it is held joined with it.
+  890  Then this in turn strikes the body, and so the whole
+  891  mass is little by little pushed forward and moved.
+  892  Further, the body then grows loose in texture too, and air,
+  893  as surely it must, being always quick to move,
+  894  comes through the opened passages and enters them in plenty,
+  895  and so is dispersed into every smallest part
+  896  of the body. Here, then, by two things working from two sides,
+  897  the body is carried like a ship by sails and wind.
+  898  Nor yet is it a thing to wonder at in these matters
+  899  that bodies so tiny can turn so great a body
+  900  about and swing round the whole of our weight;
+  901  for indeed the wind, thin with its fine body,
+  902  drives on and pushes a great ship with great effort,
+  903  and one hand rules it, going at whatever speed,
+  904  and one rudder turns it wherever it pleases,
+  905  and a machine, by pulleys and treadwheels[41], moves many things
+  906  of great weight and lifts them up with slight effort.
+
+  907  Now in what ways sleep floods the limbs with rest
+  908  and loosens the cares of the mind from the breast,
+  909  I shall set out in verses sweet-spoken rather than many,
+  910  as the small song of the swan is better than that clamor
+  911  of cranes scattered among the high clouds of the south wind.
+  912  You, give me fine ears and a keen mind,
+  913  lest you deny that what I say can come to be, and go off
+  914  with a breast that thrusts the true words back,
+  915  when you yourself are at fault and cannot see it.
+  916  To begin with, sleep comes about when the force of the spirit[42]
+  917  is scattered through the frame, and part, thrown out of doors, has gone,
+  918  and part, crowded together, has withdrawn deeper inside;
+  919  for only then are the limbs loosened and go slack.
+  920  For there is no doubt that it is by the work of the spirit
+  921  that this sense is in us; and when slumber hinders it from being,
+  922  then we must think that our spirit has been thrown into disorder
+  923  and cast out of doors, though not all; for then the body would lie
+  924  steeped in the eternal chill of death.
+  925  Indeed, if no part of the spirit stayed hidden
+  926  in the limbs, as fire lies hidden, buried under much ash,
+  927  from where could sense be kindled again through the limbs on a sudden,
+  928  as flame rises up out of hidden fire?
+  929  But by what things this change is brought about, and from where
+  930  the spirit can be thrown into disorder and the body grow languid,
+  931  I shall explain: you, see I do not pour my words to the winds.
+  932  To begin with, on its outer side the body must,
+  933  since, lying near them, it is touched by the breezes of the air,
+  934  be beaten and battered by their constant blows,
+  935  and that is why nearly all things are covered either with hide
+  936  or else with shells or with hard skin or with bark.
+  937  On the inner side too, as we breathe, the air
+  938  strikes it, this same air, as it is drawn in and breathed out.
+  939  Therefore, since the body is beaten on both sides, and since
+  940  the blows make their way through the small passages
+  941  to the first parts and the first elements of our body,
+  942  there comes about in us, as it were, a gradual ruin through the limbs.
+  943  For the positions of the beginnings of body and mind
+  944  are thrown into confusion. Hence it happens that part of the spirit
+  945  is driven out, and part withdraws, hidden, inward,
+  946  and part too, scattered through the frame, cannot hold
+  947  together with itself nor carry out its motions in common;
+  948  for nature walls off the meetings and the passages between.
+  949  Therefore sense goes away, its motions changed deep within.
+  950  And since there is nothing, as it were, to prop the frame,
+  951  the body grows weak and all the limbs grow languid,
+  952  the arms and the eyelids drop, and the knees, as one lies down,
+  953  often give way all the same and let their strength go.
+  954  Next, sleep follows food, because the very things the air does,
+  955  these same things food brings about while it is spread into all
+  956  the veins. And that slumber is by far the heaviest
+  957  which you take when full or tired, since then the greatest number
+  958  of bodies are thrown into confusion, bruised by great labor.
+  959  By the same principle part of the spirit is crowded
+  960  more deeply, and more of it is cast out of doors,
+  961  and it is more divided within itself and more scattered inside.
+  962  And whatever pursuit each of us is bound to and clings to,
+  963  or whatever things we have dwelt on long before,
+  964  the business in which the mind has been most intent,
+  965  in dreams we generally seem to go about the same:
+  966  advocates seem to plead cases and draw up laws,
+  967  commanders to fight and go into battle,
+  968  sailors to live through the war they have joined with the winds,
+  969  and we to do this work, and seek the nature of things
+  970  always, and set it out, once found, in our native pages[43].
+  971  So other pursuits and arts are generally seen
+  972  to hold the minds of men in dreams, deluding them.
+  973  And whoever have given unbroken attention to the games
+  974  for many days in a row, we generally see,
+  975  when they have ceased to take them in with their senses,
+  976  that there still remain passages open in the mind
+  977  by which the same images of things can come;
+  978  and so for many days those same things hover
+  979  before their eyes, so that even awake they seem
+  980  to see people dancing and moving supple limbs,
+  981  and to take in with their ears the liquid song of the lyre
+  982  and its speaking strings, and to see the same assembly
+  983  and, all together, the varied adornments of the stage shining.
+  984  So much does it matter what we are eager for and what we will,
+  985  and in what things they have been used to busy themselves,
+  986  not only men but indeed all living creatures.
+  987  Indeed you will see strong horses, when their limbs lie down,
+  988  still sweat in their sleep and keep on panting
+  989  and strain their utmost strength as though for the palm,
+  990  or as though the starting-gates were thrown open, give voice.
+  991  And hunters' dogs often, in soft repose,
+  992  still throw out their legs suddenly, and all at once give
+  993  cries, and draw the air back through their nostrils again and again,
+  994  as if they were holding to the tracks of wild beasts they have found,
+  995  and, woken up, they often chase the empty
+  996  images of stags, as though they saw them given over to flight,
+  997  until, their errors shaken off, they come back to themselves.
+  998  But the fawning offspring of puppies, used to the house,
+  999  hasten to shake off and snatch their body up from the ground,[44]
+ 1000  still throw out their legs suddenly, and all at once give
+ 1001  cries, and draw the air back through their nostrils again and again,
+ 1002  as if they were holding to the tracks of wild beasts they have found,
+ 1003  and, woken up, they often chase the empty
+ 1004  just as if they were looking on unfamiliar faces and features.
+ 1005  And the fiercer each of the breeds is,
+ 1006  so much the more must it rage in the same way in sleep.
+ 1007  But the varied birds take flight, and with their wings suddenly
+ 1008  trouble the groves of the gods in the night-time,
+ 1009  if in gentle sleep they have seen hawks
+ 1010  pursuing them in flight, bringing fight and battle.
+ 1011  Further, the minds of men, which with great motions bring forth
+ 1012  great deeds, likewise often in dreams do them and carry them out:
+ 1013  they storm kings, are captured, join battle,
+ 1014  raise a shout as if they were having their throats cut on the spot.
+ 1015  Many fight it out, and give out groans in their pain,
+ 1016  and as though they were being chewed by the bite of a panther
+ 1017  or a savage lion, they fill everything with great shouts.
+ 1018  Many speak in their sleep of great affairs
+ 1019  and have very often given evidence of their own deeds.
+ 1020  Many meet death. Many, as though from high mountains
+ 1021  they were falling headlong to the earth with their whole body,
+ 1022  are terrified, and from sleep, as if out of their minds,
+ 1023  they scarcely come to themselves, shaken by the body's turmoil.
+ 1024  Again, a thirsty man sits beside a river or a pleasant
+ 1025  spring, and with his throat all but swallows the whole stream.
+ 1026  Often the cleanly, if beside a pool or cut-down jars
+ 1027  they believe, bound fast in sleep, that they are lifting their clothes,
+ 1028  pour out the filtered liquid of their whole body,
+ 1029  and the Babylonian coverlets[45] of great splendor are drenched.
+ 1030  Then to those into whose straits of age seed first
+ 1031  when the ripe day itself has created it in their limbs,
+ 1032  there come images from outside, from any body at all,
+ 1033  heralds of a glorious face and lovely color,
+ 1034  which stirs and excites the places swollen with much seed,
+ 1035  so that often, as if all were accomplished, they pour out
+ 1036  the waves of a mighty river and stain their clothing.
+
+ 1037  That seed of which we spoke before is stirred in us
+ 1038  as soon as ripening age first makes the limbs strong.
+ 1039  For different things move and provoke different things;
+ 1040  from a human being only a human's power calls out human seed.
+ 1041  As soon as it is driven out from its seats and leaves them,
+ 1042  it withdraws through the limbs and frame from the whole body,
+ 1043  gathering into fixed places in the sinews, and stirs
+ 1044  at once the very generative parts of the body.
+ 1045  The places, provoked, swell with seed, and the will arises
+ 1046  to cast it out toward that on which the dire lust is bent,
+ 1047  and, provoking the places swollen with much seed, it drives on[46]
+ 1048  and seeks that body from which the mind is wounded with love;
+ 1049  for as a rule all men fall toward their wound, and the blood
+ 1050  spurts out toward that quarter from which we are struck by the blow,
+ 1051  and if the foe is close at hand, the red stream covers him.
+ 1052  So, therefore, whoever takes a wound from the weapons of Venus,
+ 1053  whether a boy with womanish limbs launches the shaft at him
+ 1054  or a woman darting love from her whole body,
+ 1055  he strains toward the source of his wound and longs to join with it
+ 1056  and to cast the moisture drawn from body into body;
+ 1057  for his dumb desire foretells the pleasure.
+ 1058  This is Venus[47] for us; from this comes the name of Love;
+ 1059  from this that drop of Venus' sweetness first
+ 1060  trickled into the heart, and chill care came after;
+ 1061  for if what you love is absent, still its images are present,
+ 1062  and the sweet name keeps hovering about your ears.
+ 1063  But it is right to flee those images, and to scare away
+ 1064  from yourself the food of love, and to turn the mind elsewhere,
+ 1065  and to cast the gathered moisture into any body at all,
+ 1066  and not hold it back, turned once and for all by love of one,
+ 1067  nor lay up for yourself care and certain pain;
+ 1068  for the sore quickens and grows chronic by feeding,
+ 1069  and day by day the madness swells and the misery grows heavier,
+ 1070  unless you confuse the first wounds with new blows
+ 1071  and, wandering, heal them while fresh with wandering Venus[48],
+ 1072  or can lead the motions of your mind elsewhere.
+ 1073  Nor does he who avoids love go without the fruit of Venus;
+ 1074  rather he takes the advantages that come without the penalty.
+ 1075  For surely the pleasure from it is purer for the healthy
+ 1076  than for the lovesick; indeed in the very moment of possession
+ 1077  the lovers' ardor tosses on uncertain wanderings,
+ 1078  nor are they sure what to enjoy first with eyes and hands.
+ 1079  What they have sought they squeeze tight, and cause pain
+ 1080  to the body, and often they drive their teeth into the lips
+ 1081  and crush kisses on them, because the pleasure is not pure
+ 1082  and there are goads beneath that urge them to hurt that very thing,
+ 1083  whatever it is, from which those sprouts of madness rise.
+ 1084  But Venus lightly breaks the penalties in the midst of love,
+ 1085  and coaxing pleasure, mixed in, reins in the bites.
+ 1086  For there is hope in this: that from where the burning has its source,
+ 1087  from that same body the flame can also be quenched.
+ 1088  But nature protests that it happens wholly the other way;
+ 1089  and this is the one thing of which, the more we have,
+ 1090  the more the breast burns with dire desire.
+ 1091  For food and drink are taken into the limbs within;
+ 1092  and since these can occupy fixed parts,
+ 1093  in this way the desire for drink and grain is easily filled.
+ 1094  But from a human face and lovely coloring
+ 1095  nothing is given to the body to enjoy but images,
+ 1096  thin ones; and this poor hope is often snatched away by the wind.
+ 1097  As when a thirsty man seeks to drink in his sleep, and no water
+ 1098  is given that could quench the burning in his limbs,
+ 1099  but he seeks the images of water and labors in vain,
+ 1100  and thirsts in the middle of a rushing river as he drinks,
+ 1101  so in love Venus mocks lovers with images,
+ 1102  nor can they sate their bodies by gazing face to face,
+ 1103  nor with their hands rub anything off from the tender limbs
+ 1104  as they wander, uncertain, over the whole body.
+ 1105  Finally, when, limbs entwined, they enjoy the flower
+ 1106  of youth, when now the body foretells its joys
+ 1107  and Venus is on the point of sowing the woman's fields[49],
+ 1108  they greedily press body to body and join the saliva
+ 1109  of their mouths, and breathe hard, pressing mouths with teeth,
+ 1110  in vain, since they can rub nothing away from there,
+ 1111  nor pierce in and pass, whole body, into the body;
+ 1112  for at times they seem to want to do it, and to strive.
+ 1113  So eagerly do they cling in the fastenings of Venus,
+ 1114  while their limbs, loosened by the force of pleasure, melt.
+ 1115  At last, when the desire gathered in the sinews has burst out,
+ 1116  there comes a small pause in the violent burning for a little while.
+ 1117  Then the same madness returns, and that frenzy comes back,
+ 1118  when they seek what it is they themselves desire to attain,
+ 1119  and cannot find what device might conquer the sickness.
+ 1120  So uncertain are they as they waste away from a hidden wound.
+ 1121  Add that they use up their strength and are ruined by the labor,
+ 1122  add that life is passed at the nod of another.
+ 1123  Duties languish, and reputation, tottering, falls sick.
+ 1124  Meanwhile wealth slips away and turns into Babylonian
+ 1125  perfumes, and lovely Sicyonian shoes[50] laugh on her feet,
+ 1126  and of course huge emeralds with green light
+ 1127  are set in gold, and the sea-purple dress is worn out
+ 1128  constantly and, worked hard, drinks the sweat of Venus.
+ 1129  And the fathers' well-gotten wealth becomes headbands and turbans,
+ 1130  sometimes is turned into a mantle and stuffs from Alinda and Ceos.
+ 1131  With splendid dress and fare, banquets, games,
+ 1132  cup after cup, perfumes, crowns, garlands are prepared,
+ 1133  in vain, since from the very fountain of delights
+ 1134  rises something bitter that chokes amid the very flowers,
+ 1135  either when the guilty mind perhaps gnaws at itself with remorse
+ 1136  that it is passing life in idleness and perishing in brothels,
+ 1137  or because she has thrown out a word and left it doubtful,
+ 1138  which, fixed in the eager heart, comes alive like fire,
+ 1139  or because he thinks she throws her eyes about too much, or looks at
+ 1140  another, and sees in her face the traces of a smile.
+ 1141  And these evils are found in love that is your own and at its most
+ 1142  prosperous; but in love crossed and helpless there are
+ 1143  evils you could catch with the light of your eyes shut,
+ 1144  beyond number; so it is better to keep watch beforehand,
+ 1145  by the principle I have taught, and beware, so you are not lured in.
+ 1146  For to avoid being cast into the snares of love
+ 1147  is not so difficult as, once caught, to get out
+ 1148  of the nets themselves and break through the strong knots of Venus.
+ 1149  And yet even entangled and hampered you could
+ 1150  escape the danger, unless you stand in your own way
+ 1151  and overlook, first, all the faults of mind
+ 1152  or of body in her whom you seek and desire.
+ 1153  For men mostly do this, blinded by desire,
+ 1154  and grant women advantages that they do not truly have.
+ 1155  And so we see women crooked and ugly in many ways
+ 1156  being darlings and flourishing in the highest honor.
+ 1157  And some men laugh at others and urge them to appease
+ 1158  Venus, because, they say, these are afflicted by shameful love,
+ 1159  and often, poor wretches, do not look back at their own greatest ills.
+ 1160  The black girl is "honey-brown", the dirty and fetid "unadorned",[51]
+ 1161  the gray-eyed a "little Pallas", the sinewy and wooden a "gazelle",
+ 1162  the tiny dwarf "one of the Graces, pure wit throughout",
+ 1163  the huge and monstrous "a marvel, full of dignity".
+ 1164  The stammerer who cannot speak "lisps"; the mute is "modest";
+ 1165  but the blazing, hateful chatterbox becomes "a little torch".
+ 1166  She becomes "a slender darling" when she cannot live
+ 1167  for thinness; she is "willowy" when already dead of a cough.
+ 1168  But the huge, big-breasted one is Ceres herself, nursing Iacchus;
+ 1169  the snub-nosed a she-Silenus and a satyress, the thick-lipped "a kiss".
+ 1170  It would be long if I tried to tell the rest of this kind.
+ 1171  But still, let her be as beautiful in face as you like,
+ 1172  one from whose every limb the force of Venus rises;
+ 1173  surely there are others too; surely we lived before without her;
+ 1174  surely she does, and we know she does, all the same things as the ugly,
+ 1175  and, poor wretch, fumigates herself with foul smells,
+ 1176  while her maids flee far from her and giggle in secret.
+ 1177  But the shut-out lover, weeping, often covers the threshold
+ 1178  with flowers and garlands, and anoints the proud doorposts
+ 1179  with marjoram, and, poor wretch, plants kisses on the doors;
+ 1180  yet if, let in at last, as he came, a single breath
+ 1181  should strike him, he would look for decent reasons to leave,
+ 1182  and the long-rehearsed complaint, drawn from deep, would fall,
+ 1183  and he would damn himself there for folly, having given her
+ 1184  more than it is right to grant to a mortal.
+ 1185  Nor does this escape our Venuses; all the more do they
+ 1186  hide with all their effort these backstage parts[52] of their life
+ 1187  from those whom they wish to keep and hold bound fast in love,
+ 1188  in vain, since you can still, with your mind, drag it all
+ 1189  forth into the light and search out every cause of laughter,
+ 1190  and, if she is fair of mind and not hateful, in your turn
+ 1191  pass it over and make allowance for human things.
+
+ 1192  Nor does a woman always sigh with a feigned love
+ 1193  when, embracing a man's body, she joins her body to his
+ 1194  and holds him, wetting his kisses with her sucking lips;
+ 1195  for often she does it from the heart, and, seeking joys
+ 1196  in common, urges him to run the whole course of love.
+ 1197  Nor in any other way could birds, cattle, and wild beasts,
+ 1198  and flocks, and mares submit themselves beneath the males,
+ 1199  were it not that their own nature, being in heat, burns
+ 1200  abundantly and gladly answers the Venus of the mounting males.
+ 1201  Do you not see, too, how those whom mutual pleasure has often
+ 1202  bound are tortured in their common bonds,
+ 1203  when often at the crossroads dogs, longing to part,
+ 1204  strain eagerly in opposite directions with all their strength,
+ 1205  while all the time they stick fast in the strong couplings of Venus?
+ 1206  They would never do this unless they knew mutual joys
+ 1207  that could throw them into the snare and hold them bound.
+ 1208  Therefore again and again, as I say, the pleasure is common.
+ 1209  And when, in the mingling of seed, the woman by chance
+ 1210  has overcome the man's force with sudden force and seized it,
+ 1211  then children are made like their mothers by the mother's seed[53],
+ 1212  as like their fathers by the father's. But those you see
+ 1213  to be of both forms, mixing side by side their parents' faces,
+ 1214  grow from the father's body and the mother's blood,
+ 1215  when, the seeds being stirred through the limbs by the goads of Venus,
+ 1216  a mutual ardor, breathing as one, has dashed them together,
+ 1217  and neither of the two has overcome, nor been overcome.
+ 1218  It happens also that at times children can come out like
+ 1219  their grandfathers, and often bring back the forms of great-grandfathers,
+ 1220  because many first-beginnings, mixed in many ways,
+ 1221  the parents often hide within their own bodies,
+ 1222  which fathers hand down to fathers, starting from the stock.
+ 1223  From these Venus brings forth forms by varying lot,
+ 1224  and brings back the faces and voices and hair of ancestors;
+ 1225  since these things come from a fixed seed no less
+ 1226  than do our faces and bodies and limbs.
+ 1227  And the female race springs from the father's seed,
+ 1228  and males come forth formed from the mother's body;
+ 1229  for the birth is always made of a double seed,
+ 1230  and whichever parent the thing created is more like,
+ 1231  of that one it has more than an equal share; as you may discern,
+ 1232  whether it is male offspring or of female birth.
+ 1233  Nor do divine powers bar any man from generative sowing,
+ 1234  so that he is never called father by sweet children
+ 1235  and must live out his life in a barren Venus;
+ 1236  as men mostly think, and, sorrowing, sprinkle the altars
+ 1237  with much blood and make the altars smoke with gifts,
+ 1238  that they may make their wives heavy with abundant seed.
+ 1239  In vain they weary the power of the gods and the oracles;
+ 1240  for some are barren because their seed is too thick,
+ 1241  and others, in turn, because it is more fluid and thin than is right.
+ 1242  The thin, because it cannot cling and hold fast in the places,
+ 1243  flows away at once and, drawn back, retreats in miscarriage.
+ 1244  The thicker, again, since it is discharged more clotted
+ 1245  than is right, either does not fly forward with so long a stroke,
+ 1246  or cannot pierce the places as well, or, once it has pierced,
+ 1247  the seed mixes only with difficulty with the woman's seed.
+ 1248  For the harmonies of Venus[54] are seen to differ greatly.
+ 1249  And some men fill some women more, and from others
+ 1250  other women take the burden more and grow heavy.
+ 1251  And many women were barren before in several marriages
+ 1252  and yet afterward found mates from whom they could
+ 1253  conceive little ones and grow rich in sweet offspring.
+ 1254  And men for whom, before, their wives at home, though fertile,
+ 1255  had often failed to bear, for them too a matching nature
+ 1256  was found, so that they could fortify their old age with children.
+ 1257  So much does it matter that seeds be able
+ 1258  to mingle with seeds in a way fitted for generation,
+ 1259  and that thick should meet with fluid and fluid with thick.
+ 1260  And in this it matters by what diet life is sustained;
+ 1261  for by some foods seeds grow thick within the limbs,
+ 1262  and by others, in turn, they are thinned and waste away.
+ 1263  And in what ways the soothing pleasure itself is handled,
+ 1264  this too matters very much; for in the manner of wild beasts
+ 1265  and after the fashion of four-footed things, it is mostly thought,
+ 1266  wives conceive the more, because so the seeds can take their places,
+ 1267  the breast set low and the loins raised up.
+ 1268  Nor do wives have the slightest need of wanton movements.
+ 1269  For a woman prevents herself from conceiving and fights against it,
+ 1270  if she gladly answers the man's Venus with her buttocks
+ 1271  and, her whole breast gone boneless, stirs up waves;
+ 1272  for she throws the furrow off the straight line and track
+ 1273  of the ploughshare and turns the stroke of the seed from its places.
+ 1274  And harlots have been used to move so for their own reasons,
+ 1275  so as not to be often filled and lie pregnant,
+ 1276  and at the same time that Venus itself might be more pleasing to men;
+ 1277  which our wives, it seems, have no need of at all.
+ 1278  Nor is it by divine power, or by the arrows of Venus,
+ 1279  that at times a little woman of meaner beauty is loved;
+ 1280  for the woman herself at times brings it about, by her own deeds,
+ 1281  by her accommodating ways, and by the neat care of her body,
+ 1282  that she easily accustoms you to spend your life with her.
+ 1283  For the rest, habit fits love together;
+ 1284  for what is struck by frequent blows, however lightly,
+ 1285  is nevertheless overcome in a long space of time and gives way.
+ 1286  Do you not see, too, that drops of water falling on stones
+ 1287  in a long space of time beat their way through the stones?[55]
+
+------------------------------------------------------------
+
+Notes
+
+[1] (4.1-25) The proem repeats 1.926-950 almost word for word, and the
+    English repeats the English of Book 1 (see the note there), differing
+    only where the Latin does: "for" replaces "but" at 11, and 24-25 now end
+    on the usefulness of the whole nature of things rather than on its
+    structure. The Pierides are the Muses, from Pieria below Olympus; the
+    honey on the rim of the children's cup of wormwood is the poet's own
+    account of his method.
+
+[2] (4.31) Simulacra, "images", are the thin films of first-beginnings
+    thrown off from the surface of every body, by which, on the Epicurean
+    account, we see and also think and dream. Lucretius gives them several
+    names in the lines that follow, and the English keeps each: "films or
+    bark" (membranae, cortex, 32), "effigies" (effigiae, 51), "shapes"
+    (figurae, 51), "image" also for imago (38), the single likeness that an
+    image carries. A reader who knows them as eidola or "idols" should
+    expect neither word.
+
+[3] (4.26-53) The transition is preserved in two drafts: 26-32 and 33-37 are
+    each a "since I have taught" clause followed by the same two lines
+    (30-31, 36-37), the first looking back to Books 1 and 2, the second to
+    Book 3; and 45-53, which restate the thesis a third time, look like a
+    remnant of an earlier version. Lucretius probably meant to keep one. The
+    English prints all of it in the printed order and repeats itself where
+    the Latin does; 26-29 are also 3.31-34.
+
+[4] (4.65-66) The couplet recurs word for word at 102-103, there of the
+    images in mirrors. Hiscendi nulla potestas is an idiom, "no room to open
+    one's mouth", that is, no objection is possible: if the coarse
+    effluences of smoke and heat leave things, the fine ones must.
+
+[5] (4.75-83) Roman theaters were shaded by colored awnings (vela) stretched
+    on masts and beams over the seating, so that the light coming through
+    them dyed the crowd below; the "fathers and the mothers" are the men and
+    women in the tiers, and "the face of the stage" the scenery. It is one
+    of the few places where Lucretius describes a thing he has plainly
+    watched himself.
+
+[6] (4.116-122) The printed corum is a misprint for eorum, "of them". The
+    argument is from the smallest living creatures: if a third of such a
+    creature cannot be seen, its organs are smaller still, and the first-
+    beginnings of its spirit and mind smaller than those.
+
+[7] (4.123-128) Panaces ("the panacea", here a plant, not a cure-all),
+    wormwood, southernwood and centaury are strong-smelling medicinal herbs;
+    the sentence breaks off at 126 ("between two", presumably fingers) and
+    the printed text marks a gap, after which 127 resumes mid-argument. The
+    English supplies nothing.
+
+[8] (4.129-142) The second kind of image is born of itself in the air, like
+    the shapes seen in clouds: the faces of the Giants, the earth-born
+    enemies of the gods, mountains, a beast dragging storm-clouds. These
+    composite images return at 732-743 to explain Centaurs and the other
+    monsters of dream.
+
+[9] (4.143-145) The sentence announced at 143-144, how swiftly the images
+    are made and how perpetually they flow, has lost its main verb, and the
+    printed text marks a gap after 144; 145 begins the reason ("for always")
+    for a claim no longer there. The English leaves the announcement hanging
+    as the Latin does.
+
+[10] (4.168-175) Acheron (171) is the underworld, whose darkness the storm
+     seems to have loosed, and Formido, "Terror", is personified as a figure
+     with faces, like the Giants in the clouds at 136. Lucretius uses the
+     mythology freely as a picture of how the sky looks, having denied it as
+     fact.
+
+[11] (4.180-182) These three lines recur word for word at 909-911 to
+     introduce the account of sleep. The swan's small song set against the
+     clamor of cranes is a figure of Hellenistic poetics for the short,
+     sweet poem; at 3.6-7 Lucretius was the swallow beside Epicurus's swans.
+
+[12] (4.190) Protelo is the ox-driver's word for a team yoked one behind
+     another, each beast pulling the next: flash drives flash as the oxen in
+     line draw the plough.
+
+[13] (4.269-291) Imago, the picture in a mirror, and simulacra, the films
+     that travel through the air, are both "image" here, since the passage
+     treats them as one stuff. The mirror-picture seems set back behind the
+     glass because sight crosses two bodies of air, the one the image drives
+     before it on its way to the mirror and the one it drives before it on
+     the way back (the "double, twin air" of 274, "two airs" at 291), as one
+     sees through an open door across the air on either side of the
+     doorposts.
+
+[14] (4.289) A line is lost after 289: "it is right to wonder not at all"
+     has lost its object, which 290 resumes with "those that give back a
+     sight". The English prints the gap and supplies nothing.
+
+[15] (4.292-301) Cretea persona, a mask of wet clay: dashed against a post
+     before it is dry it keeps its features but comes away inside out, which
+     is Lucretius's picture of why a mirror shows the right side on the
+     left. The comparison is his own, and it treats the image as a thin film
+     that can be flattened and printed in reverse.
+
+[16] (4.318-323) That a reflected image returns at an angle equal to that of
+     its arrival was already a theorem of Greek optics; Lucretius gives it
+     as a compulsion of nature and uses it to explain why the image steps in
+     time with us and leaves the mirror the moment we do.
+
+[17] (4.332-336) Arquati are sufferers from jaundice, the "rainbow disease"
+     (arquatus morbus), named for its color. The explanation is that seeds
+     of sallowness stream from the sick man's body, meet the incoming images
+     and tint them, so that he sees everything yellow.
+
+[18] (4.379-386) The thesis of the whole catalogue of appearances that
+     follows (387-468): the eyes are never deceived, since their task is
+     only to report light and shadow; whether the shadow is one thing moving
+     or many patches of ground darkened in turn is for "the reasoning of the
+     mind" to decide, and the error, when there is one, is "this fault of
+     the mind" (386). This is Epicurus's rule that every sensation is true
+     and that falsehood lies in the opinion the mind adds (462-468, 499).
+
+[19] (4.404-413) The mountains the rising sun seems to touch are "scarcely
+     two thousand bowshots" off, a soldier's rough measure of range, against
+     the seas and lands that really lie between them and the sun. The
+     absurdly small figure is the point: nearness here is a judgment, not a
+     sight.
+
+[20] (4.469-499) The sceptic who says nothing can be known is answered first
+     by the turn of his own words on himself and then from the senses: the
+     very notion of true and false (notities, Epicurus's prolepsis, the
+     concept laid down by repeated sensation) comes from them, reasoning is
+     wholly born of them, and no sense can correct another, each having its
+     own province. Hence 499, "what has seemed to them at any time is true",
+     the doctrine stated at 379-386. "With his head where his footprints
+     should be" (472) is standing on one's head.
+
+[21] (4.491) The printed videre, "to see", for the perception of what is
+     soft, cold or hot does not suit a sentence that gives each sense its
+     own province; editors emend or transpose, and the English renders the
+     sense, "perceived apart", without choosing among them.
+
+[22] (4.500-512) Fides prima, the "first trust" that must not be violated,
+     is the standing of the senses as the foundation of all inference (so at
+     1.423 sensation is the first ground of trust). Better a wrong
+     explanation of the round tower than a doubt about the evidence it rests
+     on; without the senses one could not even avoid a cliff.
+
+[23] (4.513-521) Regula, norma and libella are the builder's straightedge,
+     square and plumb-level; a first measurement that is out ruins the whole
+     house. The image makes the senses the first rule of all reasoning, as
+     in the argument just given.
+
+[24] (4.545-546) The printed barbita is the lyre (barbitos), which does not
+     boom a hoarse drone; most editors read barbara, the "barbarous", that
+     is Phrygian, horn, and the English follows them, since the passage sets
+     the deep rough sounds of trumpet and horn against the liquid song of
+     birds.
+
+[25] (4.547-548) The printed text's "Daulian birds" are nightingales, after
+     the story of Procne and Philomela set at Daulis in Phocis; "the gardens
+     of Helicon" are the Muses' mountain. The line is much disputed:
+     Bailey prints the manuscripts' corrupt words between daggers, and
+     Munro adopts Voss's conjecture, swans "from the torrents of Helicon".
+     The English keeps the printed reading.
+
+[26] (4.551) Daedala, "artificer", the word used of the earth at 1.7, is
+     here the tongue. The printed text has nervorum, "of sinews", the tongue
+     as a craftsman working with its muscles; most editors read verborum,
+     "artificer of words". The English renders what is printed.
+
+[27] (4.563-571) The praeco is the public crier who announced auctions,
+     edicts and lost property to a crowd; his single word reaches every ear,
+     which shows that one voice divides into many, each stamped with the
+     word's form. The rest, falling on nothing, is lost, or is thrown back
+     as an echo.
+
+[28] (4.572-594) The six or seven echoes are Lucretius's own report ("I have
+     seen", 577). The Satyrs, Nymphs and Fauns to whom country people credit
+     the sounds, and Pan with his pine-wreathed head and reed pipe, are the
+     rustic powers of Greek and Italian belief; Lucretius gives the
+     believers two motives, the wish not to think any place empty of gods
+     and the universal appetite for a wonder.
+
+[29] (4.638-641) That a snake dies if touched by human spittle, and that
+     hellebore, a violent purge and poison to men, fattens goats and quails,
+     are pieces of ancient natural lore (both are in Pliny). They are
+     offered as the extreme case of one thing being food to one creature and
+     poison to another, which the shapes of seeds and pores (649-662) are to
+     explain.
+
+[30] (4.679-683) When the Gauls tried to scale the Capitol by night
+     (traditionally 390 BC), the sacred geese of Juno gave the alarm (Livy
+     5.47); hence the goose is "savior of the citadel of Romulus' sons". The
+     mock-grand title dresses a plain fact about the bird's sense of smell.
+
+[31] (4.710-721) That lions cannot bear the cock is a commonplace of ancient
+     natural history (Pliny repeats it twice). Lucretius accepts it and
+     explains it by seeds from the cock's body that wound the lion's eyes
+     but pass harmlessly through ours; it serves as the one example that
+     sight, like taste and smell, suits different creatures differently.
+
+[32] (4.732-743) Centaurs, Scyllas and Cerberus are the standing monsters of
+     myth, and 734 is 1.135, the images of the dead that haunted Ennius; the
+     English keeps its line save for the connecting word. Such images come
+     from no living original, since no Centaur ever existed (739-740): they
+     are made when the images of horse and man meet and cling in the air,
+     being finer than the images that strike the eye and so able to reach
+     the mind directly.
+
+[33] (4.758) Mens animi, the thinking part of the mind, is rendered "the
+     thought of the mind", keeping both words as the register does in Book
+     3. In sleep the mind still receives images while the senses are shut,
+     so that the dead seem to stand before us (760-767).
+
+[34] (4.768-776) Particulae here are the images themselves, so plentiful in
+     any one perceptible moment that one can always replace another: a
+     dream-figure seems to move its arms because a new image in a new
+     posture succeeds the old. The same explanation is given again at
+     794-801.
+
+[35] (4.794-806) In the time it takes to utter one sound many smaller times
+     "lie hidden, which reasoning finds to exist", and in any of them a
+     fresh image is at hand; the mind sees sharply only the images it
+     strains toward and has prepared itself for, which is why thought seems
+     to follow the will and why it sees what it expects.
+
+[36] (4.799-801) Line 799 repeats 774 and 800-801 repeat 771-772, in
+     Lucretius's own words, though many editors think the second pair an
+     intrusion here; the English matches the earlier lines, differing only
+     in the opening word, as the Latin does.
+
+[37] (4.807-810) Line 808 repeats 804 and breaks the sentence about the
+     eyes, which is left without its construction; most editors delete it as
+     a copyist's slip. The English prints it as it stands so that the break
+     remains visible.
+
+[38] (4.823) The printed text is corrupt here (vehementer ainesse inesse);
+     the English follows the usual mending, "I earnestly want you to flee
+     this fault".
+
+[39] (4.823-857) The argument against purpose in the body: eyes were not
+     made for seeing nor legs for walking, since each organ existed before
+     its use and "what is born creates its use"; only things made by men,
+     like beds, cups and shields, were devised for a use already felt. The
+     target is the teleology of the Stoics and of Aristotle. A modern reader
+     may hear in it later accounts of living things without design; that is
+     the reader's association, not the poet's claim.
+
+[40] (4.877-897) Voluntary movement runs down a chain: an image of walking
+     strikes the mind (animus), the mind strikes the spirit (anima) spread
+     through the body, and the spirit moves the body; air entering the
+     loosened frame is the second cause, so that the body goes like a ship
+     by sail and wind. The two words are kept apart here as in Book 3.
+
+[41] (4.898-906) Trocleae and tympana are the pulley-blocks and the great
+     treadwheel of the Roman crane, worked by men walking inside the wheel;
+     with the ship steered by one hand and one rudder, it answers the worry
+     that bodies so small as those of the spirit cannot move so large a
+     thing.
+
+[42] (4.907-928) Sleep is a partial dispersal of the spirit (anima): part is
+     driven out of the body, part crowds inward, and enough stays hidden,
+     like fire under ash, for sense to be rekindled; were none left, the
+     body would lie in the chill of death. The lines that introduce the
+     account (909-911) repeat 180-182.
+
+[43] (4.962-972) Patriis chartis, "our native pages", are Latin, as against
+     the Greek of Epicurus. Among the advocates, generals and sailors who
+     dream their trades, Lucretius sets himself seeking the nature of things
+     and setting it out, a rare glimpse of the poet at his own work.
+
+[44] (4.998-1004) The text is disordered: a line is lost before 999, so that
+     the house-dogs "hasten to shake off" something no longer named (Bailey
+     supplies a light sleep from their eyes), and 1000-1003 repeat 992-995,
+     which were said of hounds; 1004 then completes the thought about the
+     puppies. The English prints the lines as they stand and repeats its own
+     words for the repeated ones.
+
+[45] (4.1026-1029) Babylonica, embroidered coverlets from the East, were a
+     proverbial luxury; the dreamer who thinks he is relieving himself
+     beside a pool or a sawn-off jar drenches the most expensive bedding in
+     the house.
+
+[46] (4.1047) The line all but repeats 1034 and sits awkwardly after
+     1045-1046, which have already reached their goal; many editors bracket
+     or move it. The English renders it where it is printed, so that the
+     repetition shows.
+
+[47] (4.1058-1060) "This is Venus for us": in this book Venus is desire
+     itself and the act, and Amor, "Love", is only its name, derived (hinc)
+     from the physiology just described. The counsel that follows is
+     Epicurean, not ascetic: the pleasure of Venus is open to the man who
+     avoids love, and purer for him, since he takes it "without the penalty"
+     (1073-1074); what Lucretius attacks is the fixing of desire on one
+     person.
+
+[48] (4.1071) Volgivaga Venus, the Venus that roams the streets, is casual
+     or bought love, and the doubled "wandering" (volgivaga ... vagus) is in
+     the Latin. The advice is a cure, not a sermon: new wounds confuse the
+     first.
+
+[49] (4.1107) Muliebria arva, the fields a woman offers to be sown, belongs
+     to the old farming metaphor of begetting that runs through Greek and
+     Latin poetry; it returns at 1272-1273 with the furrow and the
+     ploughshare, and the English keeps the figure each time.
+
+[50] (4.1123-1130) The lover's inheritance turns into a courtesan's
+     wardrobe: Babylonian perfumes, soft shoes from Sicyon near Corinth,
+     emeralds set in gold, a dress of sea-purple (thalassina), Greek
+     headbands (anademata) and turbans (mitrae), and stuffs named in the
+     printed text from Alinda in Caria and the island of Ceos (some editors
+     read Coa, the famous transparent silks of Cos). The shoes "laugh", that
+     is gleam, on her feet, not his.
+
+[51] (4.1160-1169) The lovers' pet names are Greek in the Latin (melichrus,
+     acosmos, Palladium, dorcas, chariton mia, cataplexis, traulizi,
+     Lampadium, ischnon eromenion, rhadine, philema), the fashionable
+     language of Roman love-talk, and the affectation is part of the joke;
+     the English gives them in plain words and quotation marks. The big-
+     breasted woman is "Ceres herself, nursing Iacchus", the child-god of
+     the Eleusinian mysteries, and the snub-nosed one a she-Silenus or
+     satyress, the goat-faced followers of Bacchus; the text of 1168 is
+     disputed. Ovid borrowed the catalogue (Art of Love 2.657-662).
+
+[52] (4.1185-1186) Postscaenia, the area behind the stage-building of a
+     theater, is the women's word for all they do out of sight to keep up
+     the show.
+
+[53] (4.1209-1232) Lucretius holds that both parents contribute seed and
+     that the child resembles whichever prevails, or both when neither does;
+     this was a contested position, since Aristotle allowed the female only
+     matter and not seed. Likeness to grandparents and remoter ancestors
+     comes from first-beginnings hidden in the parents' bodies and handed
+     down from the stock (1218-1222).
+
+[54] (4.1248) Harmoniae is the Greek word for fittings or attunements; here
+     it means the physical match of two partners' seed, and has nothing to
+     do with the "harmony" theory of the soul refuted at 3.98-135, where the
+     same word appears. The English keeps the plural "harmonies" to show the
+     Greek word.
+
+[55] (4.1286-1287) Drops of water wearing through stone are the image
+     already used at 1.313 for the slow loss of bodies from things; here
+     they stand for habit, which Lucretius makes the last and least romantic
+     cause of love.

@@ -1,0 +1,1641 @@
+BOOK 1
+
+Invocation of Venus and the praise of Epicurus; nothing comes from nothing
+and nothing returns to nothing; unseen bodies, and the void; the properties
+and accidents of things; the first-beginnings are solid, eternal and without
+parts; against Heraclitus, Empedocles and Anaxagoras; the universe has no
+end in matter or in space.
+
+TRANSLATOR'S COMMENTARY
+
+This translation is plain, exact modern English free verse, kept line for
+line with the Latin of the Perseus text, which keeps the standard line
+numbering of Munro and Bailey, so that any English line can be checked
+against its original. It follows the printed text throughout. Where the text
+prints lines out of numerical order (15 before 14, 156-158 before 155, 1086
+before 1085) the translation keeps the printed order and the printed
+numbers. Where lines are lost it prints an unnumbered gap and supplies
+nothing: the line marked 860a, the eight lines missing after 1093, the torn
+right-hand ends of 1068-1073, and the suspected gap after 1013. Where
+editors delete or emend, the notes say so and the translation keeps the
+printed word (the stray repeat at 769, the "body" of the sea at 271,
+"Aeolia" at 721), with one exception: at 520 it reads vacaret, "stood
+empty", with nearly every editor, since the printed vocaret gives no sense.
+
+Lucretius writes a physics without a technical vocabulary and makes one as
+he goes, complaining twice in this book of "the poverty of the language"
+(139, 832). The translation does the same and keeps the terms rigid.
+Primordia, his commonest name for the ultimate bodies, is "first-beginnings"
+every time, and his shorter principia is "beginnings", so that the two Latin
+words stay apart; the other names he lists at 58-61 are kept distinct too
+(matter, generative bodies, seeds of things, first bodies). The word "atom"
+never appears in the verse, because Lucretius never uses it; the notes say
+it once. Inane is "void", never "vacuum". Concilium, the combination of
+first bodies that makes a thing, is "union"; simplicitas, their being
+without parts, is "singleness"; coniuncta and eventa are "conjoined" and
+"accidents". Ratio, the hardest word in the poem, is "reasoning" where it is
+the doctrine or the method, "by what principle" where it is instrumental,
+and "order" in the "highest order of heaven" at 54. Religio is "religion",
+the plain word; the proem's attack has no force if it is softened to
+"superstition". Animus is "mind", anima "spirit", never "soul"; mens beside
+animus is "thought". Simulacra are "images", the word Book 4 will make
+technical; elementa is "elements" even where it means letters, because the
+analogy between first-beginnings and letters (197, 823-829, 912-914) rests
+on the one word.
+
+Lucretius repeats himself on purpose. Lines 146-148 close the proem and
+return at the head of three later books; 670-671 return three times; 75-77
+come back as 594-596; 926-950 become the proem of Book 4; 738-739 return in
+Book 5. Where the Latin repeats, the English repeats its own earlier lines
+word for word, and the lines fixed in this book are binding on the rest of
+the poem. The same goes for the formulas of transition ("For the rest",
+"Come now", "as I showed you above, a little while before") and for the
+connectives. This is a poem that argues, and its "for", "further", "again",
+"finally" and "therefore" are its skeleton; the English keeps every one,
+which makes it more insistent than modern verse is used to being, and that
+insistence is Lucretius.
+
+The book's shape is this. A hymn to Venus as the generative power of nature
+(1-43), with a prayer for peace in a bad time for Rome, sits beside a
+statement that the gods take no part in our affairs (44-49), and the notes
+record the editors' unease. Epicurus is praised, unnamed (62-79), and the
+charge of impiety is turned back on religion by the sacrifice of Iphianassa
+(80-101). The physics then proceeds in steps, each announced: nothing from
+nothing (146-214), nothing to nothing (215-264), unseen bodies (265-328),
+the void (329-417), body and void as the only two natures and everything
+else as their property or accident (418-482), the solidity, eternity and
+least parts of the first-beginnings (483-634). The polemic against
+Heraclitus, the four-element theorists and Anaxagoras (635-920) is the
+liveliest stretch, and the hardest to follow without its connectives. After
+the digression on the poet's own method (921-950) the book ends with the
+infinity of space and matter (951-1051) and the ridicule of a world with a
+center (1052-1117), broken by the two worst gaps in the text.
+
+------------------------------------------------------------
+
+    1  Mother of Aeneas' race, pleasure[1] of men and gods,
+    2  nourishing Venus, who beneath the gliding signs of heaven
+    3  fill with life the ship-bearing sea, the grain-bearing lands,
+    4  and throng them, since through you every kind of living thing
+    5  is conceived and, risen, looks upon the light of the sun:
+    6  you, goddess, you the winds flee, you the clouds of heaven flee,
+    7  you and your coming; for you the artificer[2] earth sends up
+    8  her sweet flowers, for you the levels of the sea laugh,
+    9  and the sky, made calm, shines with light poured wide.
+   10  For as soon as the face of the spring day stands revealed
+   11  and the fertile breath of the west wind, unbarred, grows strong,
+   12  first the birds of the air, goddess, announce you and your
+   13  coming in, their hearts struck through by your power.
+   15  Then wild beasts and herds go bounding over the glad pastures[3]
+   14  and swim the rushing rivers: so, captured by your charm,
+   16  each follows you eagerly wherever you go on to lead.
+   17  Then through seas and mountains and sweeping rivers,
+   18  through the leafy homes of birds and the greening plains,
+   19  striking seductive love into the breasts of all,
+   20  you make them eagerly propagate their generations, kind by kind.
+   21  Since you alone steer the nature of things,
+   22  and without you nothing rises into the shining shores of light[4],
+   23  and nothing comes to be glad, nothing lovely,
+   24  I long for you as my partner in writing these verses
+   25  which I attempt to set down on the nature of things
+   26  for our son of the Memmii[5], whom you, goddess, at every season
+   27  have willed to excel, adorned with every gift.
+   28  All the more, goddess, give my words a lasting charm.
+   29  Bring it about that meanwhile the savage works of war
+   30  over all seas and lands be lulled and lie at rest;
+   31  for you alone can help mortals with tranquil peace,
+   32  since Mars[6], mighty in arms, who rules the savage works
+   33  of war, often throws himself back into your lap,
+   34  conquered by the eternal wound of love,
+   35  and so, gazing up, his rounded neck laid back,
+   36  feeds on love his hungry eyes, gaping at you, goddess,
+   37  and the breath of him, reclining, hangs upon your lips.
+   38  Goddess, as he lies back upon your holy body,
+   39  pour yourself around and over him, and from your lips
+   40  pour out sweet speech, asking calm peace, glorious one, for the Romans;
+   41  for neither can we, in a bad time for our country, do this work
+   42  with an untroubled mind, nor can the famous offspring of Memmius
+   43  in such a pass be wanting to the common safety.
+   44  For the whole nature of the gods must, of itself, by necessity[7]
+   45  enjoy immortal life in utmost peace,
+   46  removed from our affairs and separated far away;
+   47  for free from every pain, free from dangers,
+   48  strong in its own resources, needing nothing of ours,
+   49  it is neither won by services nor touched by anger.
+   50  For the rest, lend ears set free, and a keen mind
+   51  withdrawn from cares, to true reasoning[8],
+   52  so that my gifts, laid out for you with faithful care,
+   53  you do not, before they are understood, scorn and leave behind.
+   54  For I shall begin to set out for you the highest order
+   55  of heaven and the gods, and unfold the first-beginnings[9] of things,
+   56  from which nature creates all things, makes them grow, and feeds them,
+   57  and into which, when they perish, that same nature dissolves them,
+   58  which we, in giving our account, are used to calling matter
+   59  and the generative bodies of things, and to name
+   60  seeds of things, and to use for these same things the term
+   61  first bodies, because from them, as first, all things are.
+   62  When human life lay foully before the eyes,
+   63  crushed on the earth beneath the weight of religion[10],
+   64  which showed its head from the regions of heaven,
+   65  looming over mortals with horrible aspect,
+   66  first a man of Greece[11] dared to lift mortal eyes
+   67  against it, and first to take a stand against it;
+   68  him neither the fame of gods nor thunderbolts nor heaven
+   69  with its threatening growl held down; rather they goaded
+   70  the keen courage of his mind the more, so that he longed
+   71  to be first to break the tight-barred gates of nature.
+   72  And so the living force of his mind prevailed, and far
+   73  beyond the flaming walls of the world[12] he went out
+   74  and traveled the whole immensity in thought and mind[13],
+   75  from where he brings back to us, a victor, what can come to be
+   76  and what cannot, and how at last each thing's power is bounded,
+   77  by what principle, and its boundary-stone set deep[14].
+   78  Therefore religion in its turn is thrown beneath our feet
+   79  and trampled; the victory lifts us level with heaven.
+   80  In these matters I fear this: that you might think
+   81  you enter on the impious elements of reasoning and set foot
+   82  on the road of crime. Rather, the opposite: more often it is
+   83  religion that has borne the criminal and impious deeds.
+   84  As at Aulis, where the altar of the Virgin of the Crossways[15]
+   85  was foully defiled with the blood of Iphianassa
+   86  by the chosen leaders of the Danaans, the first of men.
+   87  As soon as the ribbon, bound about her maiden hair,
+   88  streamed down in equal lengths on either cheek,
+   89  and she saw her father standing sorrowful before the altar,
+   90  and beside him the attendants hiding the knife,
+   91  and the citizens shedding tears at the sight of her,
+   92  mute with fear, her knees giving way, she sank to the ground.
+   93  Nor could it help the poor girl at such a moment
+   94  that she had been the first to give the king the name of father;
+   95  for lifted by men's hands and trembling she was led
+   96  to the altar, not so that, when the solemn rite was done,
+   97  she might be escorted by the ringing wedding-hymn,
+   98  but so that, pure, impurely[16], at the very season of marriage,
+   99  she might fall, a grieving victim, slaughtered by her father,
+  100  that a happy and favorable departure be granted the fleet.
+  101  So much evil could religion prompt.[17]
+  102  You yourself, at any moment now, overcome by the prophets'
+  103  terror-speaking words, will look to desert us.
+  104  For indeed how many dreams they can even now invent for you,
+  105  dreams that could overturn the reasonings of your life
+  106  and trouble all your fortunes with fear!
+  107  And with reason: for if men saw a sure end
+  108  to their troubles, they would by some means find strength
+  109  to stand against the religions and the threats of prophets.
+  110  As it is, there is no way to stand against them, no power,
+  111  since eternal punishments must be feared in death.
+  112  For it is not known what the nature of the spirit[18] is,
+  113  whether it is born, or instead works its way into us at birth,
+  114  and whether it perishes together with us, torn apart by death,
+  115  or visits the darkness of Orcus[19] and his vast pools,
+  116  or by divine ordinance slips itself into other beasts,
+  117  as our Ennius[20] sang, who first brought down
+  118  from lovely Helicon a crown of unfading leaf
+  119  to shine in fame through the Italian nations of men;
+  120  and yet besides, that the precincts of Acheron exist
+  121  Ennius sets forth, declaring it in eternal verses,
+  122  where neither our spirits nor our bodies endure,
+  123  but certain images[21], pale in strange ways;
+  124  from there, he recalls, the likeness of ever-flourishing Homer
+  125  rose up before him and began to shed salt tears
+  126  and to unfold in words the nature of things.
+  127  Therefore, while we must give a good account of things
+  128  above, by what principle the courses of sun and moon
+  129  come about, and by what force each thing is carried on
+  130  upon the earth, then above all with keen reasoning
+  131  we must see of what the spirit and the nature of the mind consist,
+  132  and what thing it is that meets us and terrifies our minds
+  133  when we are awake but stricken with sickness, or buried in sleep,
+  134  so that we seem to see and hear face to face
+  135  those whose bones, after death, the earth embraces.
+  136  Nor does it escape my mind that the obscure findings of the Greeks
+  137  are hard to set in light in Latin verses,
+  138  especially since much must be done with new words
+  139  because of the poverty of the language[22] and the newness of the things;
+  140  but still your worth, and the hoped-for pleasure
+  141  of sweet friendship, urge me to bear any labor,
+  142  and lead me to keep watch through the calm nights,
+  143  searching with what words and with what song at last
+  144  I may spread clear lights before your mind
+  145  by which you can see deep into hidden things.
+
+  146  This terror of the mind, then, and this darkness[23]
+  147  must be scattered not by the sun's rays or the bright shafts of day
+  148  but by the face and reasoning of nature.
+  149  Its first principle will take its starting-point for us from here:
+  150  that nothing is ever begotten from nothing by divine will[24].
+  151  Indeed, fear so holds all mortals in its grip
+  152  because they behold many things happening on earth and in the sky
+  153  the causes of whose workings they can in no way see,
+  154  and they suppose them to be done by divine power.
+  156  For these reasons, when we have seen that nothing can be created[25]
+  157  from nothing, then we shall more rightly discern from there
+  158  what we are seeking: both from what each thing can be created
+  155  and in what manner all things come about without the labor of gods.
+  159  For if things came to be from nothing, out of all things
+  160  every kind could be born; nothing would need a seed.
+  161  First, men could rise out of the sea, and out of the earth
+  162  the scaly race, and birds could burst out of the sky;
+  163  herds and other cattle, every kind of wild beast,
+  164  born at random, would occupy the tilled land and the wild.
+  165  Nor would the same fruits stay constant on the trees,
+  166  but would change; all trees could bear all fruits.
+  167  For where there were no generative bodies for each thing,
+  168  how could there be a fixed mother for things?
+  169  But as it is, since each thing is created from fixed seeds,
+  170  it is born and comes forth into the shores of light
+  171  from that place where the matter of each and its first bodies are;
+  172  and for this reason all things cannot be begotten from all,
+  173  because in fixed things there dwells a separate power.
+  174  Further, why do we see the rose poured forth in spring, grain in the heat,
+  175  vines when autumn urges them on,
+  176  if not because, when fixed seeds of things at their own time
+  177  have flowed together, whatever is created is disclosed
+  178  while the seasons are at hand, and the living earth
+  179  brings tender things safely forth into the shores of light?
+  180  But if they came from nothing, they would spring up suddenly
+  181  at uncertain intervals and in alien parts of the year,
+  182  since there would be no first-beginnings that could be kept
+  183  from generative union by an unfavorable season.
+  184  Nor again, for things to grow, would there be need of time
+  185  for the meeting of seed, if they could grow out of nothing;
+  186  for little infants would suddenly become young men,
+  187  and trees, risen from the earth, would leap up all at once.
+  188  It is plain that none of this happens, since all things
+  189  grow little by little, as is fitting, from fixed seed,
+  190  and as they grow they keep their kind; so that you can know
+  191  that each thing grows large and is nourished from its own matter.
+  192  To this is added that without the year's fixed rains
+  193  the earth could not send up its gladdening produce,
+  194  nor again could the nature of living things, kept apart from food,
+  195  propagate its kind and preserve its life;
+  196  so that you should rather think that many bodies are common
+  197  to many things, as we see elements[26] are to words,
+  198  than that anything could exist without beginnings.
+  199  Again, why could nature not produce men so huge
+  200  that they could cross the sea on foot, wading through its shallows,
+  201  and tear great mountains apart with their hands,
+  202  and in living outlast many generations of the living,
+  203  if not because fixed matter has been assigned to things
+  204  for their begetting, from which it stands what can arise?
+  205  Therefore it must be confessed that nothing can come from nothing,
+  206  since things need seed, from which each, once created,
+  207  can be brought forth into the tender breezes of the air.
+  208  Finally, since we see that tilled places surpass
+  209  the untilled, and yield better produce to our hands,
+  210  there are, it is clear, first-beginnings of things in the earth
+  211  which we, turning the fertile clods with the plowshare
+  212  and working the soil of the earth, rouse to birth;
+  213  but if there were none, you would see each thing, without our labor,
+  214  come of its own accord to be much better.
+  215  To this is added that nature dissolves each thing back
+  216  into its own bodies, and does not destroy things into nothing.
+  217  For if anything were mortal in all its parts,
+  218  each thing would suddenly perish, snatched from our eyes;
+  219  for there would be no need of any force that could bring about
+  220  division among its parts and undo their bonds.
+  221  As it is, since each thing is made of eternal seed,
+  222  until a force has met it that can shatter things with a blow
+  223  or pierce within through the voids[27] and dissolve them,
+  224  nature does not allow the destruction of anything to be seen.
+  225  Further, whatever things time removes through age,
+  226  if it destroys them utterly, consuming all their matter,
+  227  from where does Venus lead the race of living things, kind by kind,
+  228  back into the light of life? Or, once led back, from where does the artificer earth
+  229  nourish and increase them, kind by kind, providing food?
+  230  From where do native springs and rivers from far outside
+  231  keep the sea supplied? From where does the ether feed the stars?
+  232  For all things that are of mortal body
+  233  infinite time and the days gone by must have consumed.
+  234  But if in that space, in that time gone by, there have been
+  235  those things from which this sum of things is made up, renewed,
+  236  they are surely endowed with an immortal nature.
+  237  Therefore things cannot, any of them, return to nothing.
+  238  Again, the same force and cause would destroy all things
+  239  indiscriminately, unless eternal matter held them,
+  240  more or less entangled in its bonds with itself;
+  241  for a touch would surely be cause enough of death,
+  242  since there would be nothing of eternal body whose
+  243  fabric any force would have to unweave.
+  244  But as it is, since the bonds of the beginnings with one another
+  245  are unlike, and matter is eternal,
+  246  things remain with body unharmed until a force
+  247  meets them found keen enough for the texture of each.
+  248  Therefore no thing returns to nothing, but all things
+  249  by division return to the bodies of matter.
+  250  Finally, the rains perish when father ether[28]
+  251  has flung them headlong into the lap of mother earth;
+  252  but shining crops spring up, and branches grow green
+  253  on the trees; the trees themselves grow and are weighed down with fruit.
+  254  From this, in turn, our race and the race of wild beasts are fed,
+  255  from this we see glad cities flower with children
+  256  and leafy woods on every side sing with new birds,
+  257  from this the cattle, weary and fat, through the glad pastures lay down
+  258  their bodies, and the white milky liquid
+  259  flows from the swollen udders; from this the new offspring
+  260  on unsteady limbs frisk through the tender grass
+  261  and play, their young minds made drunk with unmixed milk[29].
+  262  Therefore none of the things that are seen perish utterly,
+  263  since nature remakes one thing from another, and does not allow
+  264  anything to be born unless helped by another's death.
+  265  Come now: since I have taught that things cannot be created
+  266  from nothing, nor, once born, be called back to nothing,
+  267  yet lest perhaps you begin to distrust my words
+  268  because the first-beginnings of things cannot be seen with the eyes,
+  269  hear further of bodies which you yourself must
+  270  confess are among things and yet cannot be seen.
+  271  First, the roused force of the wind lashes the body of the sea[30]
+  272  and overturns huge ships and scatters the clouds,
+  273  at times, running across the plains in a swift whirlwind,
+  274  it strews them with great trees, and the mountaintops
+  275  it harries with forest-breaking[31] blasts: so with a fierce
+  276  roar the sea rages, and storms with a threatening growl.
+  277  Therefore winds, beyond doubt, are unseen bodies
+  278  that sweep the sea, the lands, and finally the clouds of heaven,
+  279  and harry them and snatch them up in a sudden whirlwind;
+  280  nor do they flow or spread their havoc in any other way
+  281  than when the soft nature of water is suddenly carried
+  282  in an overflowing stream, swollen with abundant rains
+  283  by a great downrush of water from high mountains,
+  284  hurling together broken pieces of forests and whole trees,
+  285  nor can strong bridges bear the sudden force
+  286  of the oncoming water: so, turbid with great rain,
+  287  the river runs against the piers with mighty strength,
+  288  makes havoc with a great roar, and rolls beneath its waves
+  289  great stones, and dashes down whatever stands against its flood.
+  290  So therefore the blasts of wind too must be carried,
+  291  which, when like a strong river they have leaned
+  292  toward any quarter, drive things before them and dash them down
+  293  with repeated onsets, at times in a twisting eddy
+  294  seize them and carry them off in a swift, spinning whirlwind.
+  295  Therefore, again and again, winds are unseen bodies,
+  296  since in their deeds and ways they are found to rival
+  297  great rivers, which are of visible body.
+  298  Then again, we perceive the various odors of things
+  299  and yet never see them coming to our nostrils,
+  300  nor do we look upon hot heats, nor can we take in cold
+  301  with our eyes, nor are we used to seeing voices;
+  302  yet all these must consist of bodily
+  303  nature, since they can strike upon the senses;
+  304  for to touch and be touched no thing can, unless it is body.
+  305  Again, clothes hung up on the wave-breaking shore
+  306  grow damp, and the same, spread out in the sun, grow dry.
+  307  But neither how the moisture of water settled in them
+  308  has been seen, nor again how it fled before the heat.
+  309  Therefore the moisture is dispersed into small parts
+  310  which the eyes can in no way see.
+  311  Indeed, as many years of the sun come round again,
+  312  a ring on the finger grows thin beneath from wearing,
+  313  the falling of the drip hollows a stone, the curved iron
+  314  plowshare secretly wastes away in the fields,
+  315  and the stone pavements of the roads we see already
+  316  worn by the feet of the crowd; then, beside the gates, bronze[32]
+  317  statues show their right hands thinned
+  318  by the touch of those who greet them, often, and of those passing by.
+  319  These things, then, we see are diminished, since they are worn away.
+  320  But what bodies depart from them at any given time
+  321  envious nature has shut off from the power of sight.
+
+  322  Lastly, whatever the passing days and nature add to things
+  323  little by little, compelling them to grow in due measure,
+  324  no sharpness of the eyes, however it strains, can observe;
+  325  nor again, in whatever grows old with age and wasting,
+  326  nor in rocks that overhang the sea, eaten through by the gnawing salt,
+  327  could you discern what they lose at each moment.
+  328  Therefore nature carries on her work through unseen bodies.
+  329  And yet not all things are held packed tight on every side
+  330  by the nature of body; for there is void[33] in things.
+  331  To have learned this will be of use to you in many matters,
+  332  and will not let you wander, doubting and always asking
+  333  about the sum of things, and distrusting my words.
+  334  Therefore there is place, untouchable, void and empty.
+  335  For if there were not, by no means could things
+  336  move at all; for what stands out as the office[34] of body,
+  337  to obstruct and stand in the way, would at every moment be present
+  338  in all things; and so nothing could go forward,
+  339  since nothing would make a beginning of giving way.
+  340  But as it is, through seas and lands and the heights of heaven,
+  341  many things, in many ways, by varied principle, moving
+  342  we see before our eyes, which, if there were no void,
+  343  would not so much be robbed of their restless motion and lack it
+  344  as never have been brought to birth at all by any means,
+  345  since matter, packed tight on every side, would have lain at rest.
+  346  Further, however solid things may be thought to be,
+  347  you may yet see from this that they are of loose and porous body.
+  348  In rocks and caves the liquid moisture of the waters
+  349  seeps through, and all things weep with plentiful drops.
+  350  Food spreads itself through the whole body of living things;
+  351  trees grow and pour out their fruit in season,
+  352  because from the deepest roots, into the whole tree,
+  353  through trunks and through branches, all their food is spread.
+  354  Voices pass through walls, and through the closed rooms of houses
+  355  fly across; stiffening cold seeps through to the bones.
+  356  And unless there were void spaces through which each of the bodies
+  357  could pass, you would see this happen by no means at all.
+  358  Finally, why do we see some things outweigh other things
+  359  in weight, though they are no larger in shape?
+  360  For if there is as much in a ball of wool as there is
+  361  of body in lead, it is fitting that they weigh just as much,
+  362  since it is the office of body to press all things downward,
+  363  while the nature of void, on the contrary, stays without weight.
+  364  Therefore what is just as large and yet is seen to be lighter
+  365  plainly declares that there is more void in it;
+  366  but the heavier, on the contrary, proclaims there is more body
+  367  in it, and that it holds much less of the empty within.
+  368  There is therefore, plainly, that which with keen reasoning
+  369  we are seeking, mixed in with things: what we call void.
+  370  In these matters, so that it may not lead you from the truth,
+  371  I am compelled to forestall what certain men[35] invent.
+  372  They say the waters give way to the scaly creatures as they thrust
+  373  and open liquid paths, because the fish leave places behind them
+  374  into which the yielding waves can flow together;
+  375  so too, they say, other things can move among themselves
+  376  and change their place, though all things are full.
+  377  All this, of course, has been accepted on false reasoning.
+  378  For where, in the end, will the scaly creatures be able to go forward
+  379  unless the waters give them room? And again, where will the waves
+  380  be able to withdraw, when the fish cannot go on?
+  381  Therefore either all bodies must be deprived of motion,
+  382  or we must say that void is mixed in with things,
+  383  from which each thing may take its first start of moving.
+  384  Lastly, if two broad bodies, after colliding,
+  385  spring swiftly apart, then surely the air must take possession
+  386  of all the void that comes to be between the bodies.
+  387  That air, again, though it flows in with currents speeding round,
+  388  still will not be able at one moment to fill the whole
+  389  space; for it must occupy first one and then
+  390  the next place, before the whole can be possessed.
+  391  But if someone perhaps, when the bodies have sprung apart,
+  392  thinks this happens because the air condenses itself,
+  393  he is wrong; for then an emptiness comes to be that was not there before,
+  394  and likewise an emptiness is filled that stood there before,
+  395  nor can air be condensed in such a way,
+  396  nor, if it could, could it, I think, without void
+  397  draw itself into itself and gather its parts together.
+  398  Therefore, however long you may delay with objections,
+  399  you must still confess that there is void in things.
+  400  And many more, besides, I could set before you, recounting
+  401  arguments, to scrape together belief for my words.
+  402  But for a keen mind these small tracks
+  403  are enough, through which you yourself can come to know the rest.
+  404  For as hounds very often, of a mountain-ranging beast,
+  405  find out with their noses the resting places hidden in leaves,
+  406  once they have set themselves on the sure tracks of its path,
+  407  so you yourself, on your own, will be able to see one thing from another
+  408  in such matters, and to work your way into all
+  409  the unseen lurking places and drag the truth out of them.
+  410  But if you are sluggish, or shrink back a little from the matter,
+  411  this I can promise you plainly, Memmius:
+  412  such generous draughts, drawn from great springs,
+  413  will my sweet tongue pour out from my rich heart
+  414  that I fear slow old age will first creep through
+  415  our limbs and loosen in us the barriers of life
+  416  before, in verses, on any single matter, the whole store
+  417  of arguments has been sent through your ears.
+  418  But now, to resume and weave to its end in words the work begun:
+  419  all nature, then, as it is in itself, has been founded
+  420  on two things; for there are bodies and there is void,
+  421  in which these are set and through which they move this way and that.
+  422  For that body exists by itself is declared by the sense
+  423  common to all[36]; and unless trust in this stands first and firm,
+  424  there will be nothing to appeal to concerning hidden things
+  425  by which we could confirm anything by reasoning of the mind.
+  426  Then again, place and space, which we call void,
+  427  if it did not exist, bodies could not be set anywhere
+  428  at all, nor move in any direction this way and that;
+  429  as I showed you above, a little while before.
+  430  Further, there is nothing that you could say is, from all
+  431  body disjoined, and set apart from the void,
+  432  to be found as a third nature, as it were, in the count.
+  433  For whatever will exist must itself be something,
+  434  of bulk large or small, so long as it exists;
+  435  and if it has touch, however light and slight,
+  436  it will add to the count of body and join its sum;
+  437  but if it is untouchable, unable on any side
+  438  to stop anything passing through it on its way,
+  439  then this, of course, will be the empty, which we call void.
+  440  Again, whatever will exist by itself will either act
+  441  or must itself be acted upon by other things acting,
+  442  or be such that things can exist and be carried on in it.
+  443  But nothing can act or be acted upon without body,
+  444  nor again provide place except the void and empty.
+  445  Therefore besides void and bodies no third nature
+  446  by itself can be left in the number of things,
+  447  neither one that falls at any time under our senses
+  448  nor one that anyone can grasp by reasoning of the mind.
+  449  For whatever things have a name, you will find them either conjoined[37]
+  450  to these two things, or you will see that they are their accidents.
+  451  A conjoined property is that which can nowhere, without a deadly
+  452  division, be disjoined and parted from the thing,
+  453  as weight is to stones, heat to fire, wetness to water,
+  454  touch to all bodies, untouchability to void.
+  455  Slavery, on the other hand, poverty and riches,
+  456  freedom, war, concord, and the other things at whose
+  457  coming and going nature remains unharmed,
+  458  these we are used, rightly, to calling accidents.
+  459  Time[38] likewise does not exist by itself, but from things themselves
+  460  our sense takes in what has been carried through in time gone by,
+  461  then what thing is at hand, and what will follow after;
+  462  nor must it be admitted that anyone senses time by itself,
+  463  apart from the motion of things and their calm rest.
+  464  Finally, when they say the abduction of Tyndareus' daughter[39]
+  465  and the conquest of the Trojan-born nations in war "are", we must take care
+  466  that they do not force us to admit these things exist by themselves,
+  467  since the generations of men whose accidents these were
+  468  have been carried off already by an age gone past recall;
+  469  for one thing will be said to be an accident of the lands[40], another
+  470  of the regions themselves, whatever has been done.
+  471  Finally, if there had been no matter of things,
+  472  and no place and space, in which each thing is carried on,
+  473  never would the fire, kindled by love for the beauty of Tyndareus' daughter,
+  474  glowing beneath the Phrygian breast of Alexander,
+  475  have lit the famous contests of savage war,
+  476  nor would the wooden horse, unknown to the Trojans, have set Pergamum
+  477  ablaze by its night-time delivery of the sons of the Greeks;
+  478  so that you may see clearly that all deeds done, from the ground up,
+  479  do not exist or have being by themselves as body does,
+  480  nor are spoken of on the same principle as void,
+  481  but rather that you may justly call them accidents
+  482  of body and of place, in which each thing is carried on.
+
+  483  Further, bodies are partly the first-beginnings of things,
+  484  partly those that are formed from a union of beginnings[41].
+  485  But those that are the first-beginnings of things no force
+  486  can quench; for it is by solid body that they prevail.
+  487  And yet it seems hard to believe that anything
+  488  among things can be found to be of solid body.
+  489  For the thunderbolt of heaven passes through the walls of houses,
+  490  as do shouting and voices; iron grows white-hot in fire,
+  491  and rocks leap apart in fierce and seething heat;
+  492  when the hardness of gold is shaken loose and dissolves in heat,
+  493  then the ice of bronze[42], conquered by flame, melts away;
+  494  heat seeps through silver, and so does penetrating cold,
+  495  since, gripping cups in hand as is the custom, we have felt both
+  496  when the dew of water was poured in from above.
+  497  To such a degree there seems to be nothing solid in things.
+  498  But since true reasoning and the nature of things nonetheless
+  499  compel us, attend, while in a few verses we make it plain
+  500  that there are things which consist of solid and eternal body,
+  501  which we teach are the seeds of things and their first-beginnings,
+  502  from which the whole sum of things now stands created.
+  503  To begin with, since the twofold nature of two things,
+  504  far unlike each other, has been found to exist,
+  505  of body and of place, in which each thing is carried on,
+  506  each of necessity must exist by itself and pure.
+  507  For wherever there is empty space, which we call void,
+  508  there body is not; and further, wherever body
+  509  holds its place, there empty void by no means exists.
+  510  The first bodies, therefore, are solid and without void.
+  511  Further, since there is void in things that have been born,
+  512  solid matter must stand around it;
+  513  nor can anything be proved by true reasoning
+  514  to hide void in its body and to hold it within,
+  515  unless you grant that what encloses it stands solid.
+  516  And that, further, can be nothing but a union
+  517  of matter, such as could enclose the void in things.
+  518  Matter, therefore, which consists of solid body,
+  519  can be eternal, while all else is dissolved.
+  520  Then again, if there were nothing that stood empty[43] as void,
+  521  all would be solid; unless, on the other hand, there were definite bodies
+  522  to fill up whatever places they occupied,
+  523  all the space there is would stand as empty void.
+  524  Body, therefore, is plainly marked off from void
+  525  in alternation, since neither does the wholly full exist
+  526  nor, again, the wholly empty; there are, then, definite bodies
+  527  that can mark off empty space from full.
+  528  These can neither be dissolved when struck by blows from outside
+  529  nor, again, be unravelled by being pierced to the core,
+  530  nor, assailed in any other way, can they be made to give;
+  531  as I showed you above, a little while before.[44]
+  532  For nothing, it seems, can be crushed without void,
+  533  nor broken, nor split in two by cutting,
+  534  nor take in moisture, nor likewise seeping cold,
+  535  nor penetrating fire, by which all things are undone.
+  536  And the more void each thing holds within it,
+  537  the more it gives way when assailed to the core by these.
+  538  Therefore if the first bodies are solid and without void,
+  539  as I have taught, they must be eternal.
+  540  Further, unless matter had been eternal,
+  541  before now all things would have gone back utterly to nothing,
+  542  and from nothing would have been reborn whatever we see.
+  543  But since I taught above that nothing can be created
+  544  from nothing, nor what has been born be called back to nothing,
+  545  the first-beginnings must be of immortal body,
+  546  into which all things can be dissolved at their last hour,
+  547  so that matter may be at hand for the renewal of things.
+  548  The first-beginnings, therefore, are of solid singleness[45],
+  549  nor in any other way could they have been kept through the ages
+  550  to renew things, from time already infinite.
+  551  Finally, if nature had set no limit
+  552  to the breaking of things, by now the bodies of matter
+  553  would have been so worn down by the breaking of past ages
+  554  that nothing conceived from them, from a fixed time on,
+  555  could reach the furthest goal of its age.
+  556  For we see that anything can be dissolved more quickly
+  557  than made again; therefore whatever the long span of days,
+  558  the infinite age of all the time gone before,
+  559  had broken till now, confounding and dissolving it,
+  560  could never be repaired in the time remaining.
+  561  But as it is, a fixed limit to breaking, plainly,
+  562  remains assigned, since we see each thing made again,
+  563  and at the same time fixed seasons, kind by kind, stand set
+  564  for things, in which they can reach the flower of their age.
+  565  Add to this that, although the bodies of matter
+  566  are most solid, an account can still be given of all things
+  567  that come to be soft, air, water, earth, vapors,
+  568  how they come to be and by what force each is carried on,
+  569  since void is mixed, once and for all, in things.
+  570  But if, on the contrary, the first-beginnings of things were soft,
+  571  how hard flints and iron could be created
+  572  no account could be given; for utterly all
+  573  nature will lack a beginning for its foundation.
+  574  They are, therefore, strong in solid singleness,
+  575  and by a denser union of them all things
+  576  can be packed tight and show forth sturdy strength.
+  577  Further, if no limit has been set to the breaking
+  578  of bodies, still, out of eternal time, certain bodies
+  579  must even now survive in things,
+  580  such as have not yet been assailed by any danger.
+  581  But since they are endowed with a fragile nature,
+  582  it is inconsistent that they could have lasted through eternal time,
+  583  harried through the ages by numberless blows.
+  584  Finally, since a limit is set for things, kind by kind,
+  585  to their growing and their holding on to life,
+  586  and since what each can do by nature's covenants[46],
+  587  and what, further, each cannot, stands decreed,
+  588  nor is anything changed, but all things are so constant
+  589  that the varied birds, all of them in their order,
+  590  show the markings of their kind upon their bodies,
+  591  they must surely also have a body of unchangeable
+  592  matter; for if the first-beginnings of things
+  593  could be overcome in some way and be changed,
+  594  it would then be uncertain, too, what can come to be
+  595  and what cannot, and how at last each thing's power is bounded,[47]
+  596  by what principle, and its boundary-stone set deep,
+  597  nor could the generations, kind by kind, so often repeat
+  598  the nature, the manners, the diet, and the movements of their parents.
+
+  599  Then further, since there is in each case an outermost point[48]
+  600  of that body which our senses can no longer
+  601  make out, that point, beyond doubt, stands without parts
+  602  and consists of a least nature, and was never
+  603  separate by itself, nor will it have the power to be hereafter,
+  604  since it is itself a part of another, the first and single part;
+  605  then other parts and others, alike, in their order,
+  606  in close-packed column fill out the nature of the body;
+  607  and since these cannot stand by themselves, they must
+  608  cling where they can by no means be torn away.
+  609  The first-beginnings, therefore, are of solid singleness,
+  610  and they cohere tightly, packed with least parts,
+  611  not combined out of a gathering of those parts,
+  612  but rather strong in eternal singleness;
+  613  from them nothing can be torn away, nothing now diminished,
+  614  so nature allows, keeping them in reserve as seeds for things.
+  615  Further, unless there is a least, the very smallest
+  616  bodies will consist of infinite parts,
+  617  since indeed the half of a half will always have
+  618  its own half, and nothing will set a limit.
+  619  Therefore between the sum of things and the least of things
+  620  there will be nothing to tell them apart; for however utterly
+  621  infinite the whole sum may be, still the smallest things there are
+  622  will consist of infinite parts just the same.
+  623  And since true reasoning cries out against this and denies
+  624  that the mind can believe it, you must yield and admit
+  625  that there are things which stand endowed with no parts now
+  626  and consist of a least nature. And since these exist,
+  627  you must admit that those, too, are solid and eternal.
+  628  Finally, if to break all things up into least parts
+  629  had been the custom of the nature of things, the creator[49],
+  630  that same nature could restore nothing from them now,
+  631  because what is furnished with no parts
+  632  cannot have the things that generative matter
+  633  must have: various connections, weights, blows,
+  634  collisions, motions, by which each thing is carried on.
+  635  Therefore those who have thought that the matter of things is
+  636  fire, and that the sum of things consists of fire alone,
+  637  seem to have slipped greatly from true reasoning.
+  638  Their leader, Heraclitus[50], is the first to enter the battle,
+  639  bright in fame for his dark speech, more among the empty-headed
+  640  than among the serious Greeks who seek the truth;
+  641  for fools admire and love above all those things
+  642  which they see lurking under twisted words,
+  643  and they set up as true whatever can prettily touch
+  644  the ears and is painted over with a charming sound.
+  645  For why should things be so various, I ask,
+  646  if they are created out of fire, one and pure?
+  647  For it would avail nothing for hot fire to be made dense
+  648  or made rare, if the parts of fire had the same
+  649  nature which fire as a whole has as well.
+  650  For the heat would be fiercer with its parts drawn together,
+  651  and fainter, again, with them scattered and thrown apart.
+  652  More than this there is nothing you might suppose could happen
+  653  under such conditions, far less that so great a variety
+  654  of things could arise from fires made dense and rare.
+  655  This too: if they were to grant void mixed in with things,
+  656  fires could be made dense and be left rare;
+  657  but because they see many things that would run against them
+  658  and shrink from leaving pure void in things,
+  659  while they fear the steep way, they lose the true road,
+  660  nor again do they see that, with void taken from things,
+  661  all things are made dense, and out of all things one
+  662  body is made, which could send nothing swiftly from itself,
+  663  as heat-bringing fire throws out light and warmth,
+  664  so that you may see it is not made of close-packed parts.
+  665  But if perhaps they believe that by some other principle
+  666  fires can be quenched in combining and change their body,
+  667  if, that is, they will not in any part hold back from doing this,
+  668  then beyond doubt the heat will perish utterly into nothing,
+  669  all of it, and from nothing will come whatever is created;
+  670  for whatever is changed and passes out of its own bounds,[51]
+  671  this at once is the death of what it was before.
+  672  Therefore something must survive in them unharmed,
+  673  so that all things do not return utterly to nothing for you,
+  674  and the store of things, reborn from nothing, grow strong.
+  675  Now then, since there are certain bodies, utterly sure,
+  676  which keep their nature always the same,
+  677  by whose going away or coming in and change of order
+  678  things change their nature and bodies are transformed,
+  679  you may know that these bodies of things are not of fire.
+  680  For it would make no difference for some to withdraw and go away
+  681  and others to be added, and some to change their order,
+  682  if all of them still kept the nature of heat;
+  683  for whatever they created would in every way be fire.
+  684  But in truth, as I think, it is so: there are certain bodies whose
+  685  collisions[52], motions, order, position, shapes
+  686  make fires, and, their order changed, change
+  687  their nature, and they are not like fire, nor like any
+  688  other thing which could send bodies
+  689  to the senses and by contact touch our touch.
+  690  Further, to say that all things are fire, and that no
+  691  true thing exists in the number of things except fire,
+  692  as this same man does, seems utter madness.
+  693  For he himself, starting from the senses, fights against the senses
+  694  and shakes them, on which all belief depends,
+  695  by which this fire he names became known to him;
+  696  for he believes that the senses truly know fire,
+  697  but does not believe the rest, which are no less clear.
+  698  And this seems to me as empty as it is mad;
+  699  for to what shall we appeal? What can be surer for us
+  700  than the senses[53] themselves, by which to mark true and false?
+  701  Further, why should anyone rather do away with all things
+  702  and wish to leave the nature of heat alone,
+  703  than deny that fires exist and still leave some other nature?
+  704  For it seems equal madness to say either.
+  705  Therefore those who have thought that the matter of things is[54]
+  706  fire, and that the sum of things can consist of fire,
+  707  and those who have set up air[55] as the beginning
+  708  for begetting things, or whoever have thought that water
+  709  by itself shapes things, or that earth creates
+  710  all things and is turned into the natures of all things,
+  711  seem to have strayed greatly and far from the truth.
+  712  Add also those who double the first-beginnings of things,
+  713  joining air to fire and earth to liquid,
+  714  and those who think that out of four things all things can
+  715  grow forth, out of fire, earth, and breath[56], and rain.
+  716  Of these, first among them is Empedocles[57] of Acragas,
+  717  whom the island bore within the three-cornered shores of its lands,
+  718  around which, flowing with great windings, the Ionian
+  719  sea sprinkles salt spray from its gray-green waves,
+  720  and with its narrow strait the rushing sea divides with its waves
+  721  the shores of Aeolia's[58] lands from the island's borders.
+  722  Here is vast Charybdis, and here the rumblings of Etna
+  723  threaten that the angers of its flames are gathering again,
+  724  so that its force may once more vomit fires burst from its jaws
+  725  and carry again to the sky the lightning-flashes of its flame.
+  726  And while this great region seems in many ways a wonder
+  727  to the races of men, and is said to be worth the seeing,
+  728  rich in good things, fortified with a great force of men,
+  729  yet it seems to have had in it nothing more glorious than this man,
+  730  nothing more holy, more marvelous, or more dear.
+  731  Indeed the songs of his divine breast
+  732  cry aloud and set forth his glorious discoveries,
+  733  so that he scarcely seems born of human stock.
+  734  Yet he, and those we spoke of above, who are inferior
+  735  remarkably in many ways and much the lesser,
+  736  though they discovered many things well and as if divinely,
+  737  and gave answers as from the inner shrine of the heart
+  738  more holy and with far surer reasoning than
+  739  the Pythia[59], who speaks from the tripod and the laurel of Phoebus,
+  740  yet over the beginnings of things they came to ruin,
+  741  and there, great as they were, they fell heavily with a great fall.
+  742  First, because they set up motions with void taken from things,
+  743  and yet leave things soft and rare,
+  744  air, sun, fire, earths, animals, crops,
+  745  and still do not mix void into their body;
+  746  next, because they will make no limit at all to the cutting
+  747  of bodies, and set no halt to their breaking,
+  748  and nothing at all to exist in things as a least,
+  749  when we see that the outermost point of each thing
+  750  is that which to our senses seems to be least,
+  751  so that you may infer from this that in things you cannot see
+  752  the outermost point they have stands as a least.
+  753  Add to this as well that, since they make the first-beginnings of things
+  754  soft, things which we see to be born
+  755  and to be of mortal body, it follows that utterly
+  756  the sum of things must by now return to nothing,
+  757  and the store of things, reborn from nothing, grow strong;
+  758  and how far each of these stands from the truth you will see now.
+  759  Next, they are in many ways hostile and a poison
+  760  to one another; therefore either, meeting, they will perish,
+  761  or they will so scatter as, when a storm is gathered,
+  762  we see thunderbolts scatter, and rains and winds.
+
+  763  Finally, if all things are created out of four things,
+  764  and all things are dissolved back again into those things,
+  765  why can those any more be called the first-beginnings of things
+  766  than things, the other way round, be thought to be theirs?
+  767  For they are born by turns, and change their color
+  768  and their whole nature among themselves from all time.
+  769  we see the thunderbolts scatter, and the rains and winds.[60]
+  770  But if perhaps you think the body of fire and of earth
+  771  come together, and the airy breezes and the moisture of liquid,
+  772  so that in their union nothing changes their nature,
+  773  no thing can be created for you out of them,
+  774  not a living thing, not one with a lifeless body, like a tree;
+  775  for each thing, in the meeting of the varied heap,
+  776  will show its own nature, and air will be seen, mixed,
+  777  to remain together with earth and with a certain moisture.
+  778  But the first-beginnings, in the begetting of things, must
+  779  bring to bear a nature secret and unseen,
+  780  so that nothing stands out to fight against and obstruct
+  781  whatever is created from being properly what it is.
+  782  Further, they start again from heaven and its fires,
+  783  and make fire first turn itself into the breezes
+  784  of air, from this the rain be born, and earth be created
+  785  out of rain, and from earth all things return in reverse,
+  786  moisture first, after it air, then heat,
+  787  and these to change among themselves without cease, to travel
+  788  from heaven to earth, from earth to the stars of the world.
+  789  This the first-beginnings must by no means do.
+  790  For something unchangeable must survive,
+  791  so that things are not all brought back utterly to nothing;
+  792  for whatever is changed and passes out of its own bounds,
+  793  this at once is the death of what it was before.
+  794  Therefore, since the things we spoke of a little before
+  795  come into change, they must consist
+  796  of others, which can nowhere be converted,
+  797  so that all things do not return utterly to nothing for you;
+  798  why not rather posit certain bodies endowed with such
+  799  a nature that, if perhaps they have created fire,
+  800  the same, with a few taken away and a few added,
+  801  their order and motion changed, can make the breezes of air,
+  802  and so all things be changed, some into others?
+  803  'But the plain fact shows openly,' you say, 'that into the breezes
+  804  of air all things grow up out of the earth and are fed;
+  805  and unless the season, at a favorable time, is generous
+  806  with rains, so that the trees sway under the melting of the clouds,
+  807  and the sun for its part warms them and gives its heat,
+  808  crops, trees, and living things could not grow.'
+  809  Of course; and unless dry food and soft moisture
+  810  helped us, our body would waste, and then all life too
+  811  would be loosed from all our sinews and bones;
+  812  for beyond doubt we are helped and nourished
+  813  by certain things, and other things in turn by certain others.
+  814  No wonder: because many first-beginnings, common in many ways
+  815  to many things, are mixed together in things,
+  816  for that reason varied things are nourished by varied things.
+  817  And it often matters greatly, for the same first-beginnings,
+  818  with what and in what position they are held together,
+  819  and what motions they give and receive among themselves;
+  820  for the same make up heaven, sea, lands, rivers, sun,
+  821  the same make crops, trees, living things,
+  822  but they move mixed with different things and in different ways.
+  823  Indeed, everywhere in these very verses of ours
+  824  you see many elements common to many words,
+  825  though you must still admit that the verses and the words
+  826  differ from one another both in sense and in the sound they make.
+  827  So much can elements do by a change of order alone;
+  828  but those that are the first-beginnings of things can bring
+  829  more to bear, from which varied things can each be created.
+  830  Now let us also examine the homoeomeria[61] of Anaxagoras,
+  831  as the Greeks call it, which to name in our own tongue
+  832  the poverty of our native speech does not allow us;
+  833  but still the thing itself is easy to set out in words.
+  834  To begin with, when he speaks of the homoeomeria of things,
+  835  he means, you see, that bones from tiny and minute
+  836  bones, and that from tiny and minute
+  837  bits of flesh, flesh is born, and blood is created
+  838  from many drops of blood coming together among themselves,
+  839  and he thinks gold can be formed out of specks
+  840  of gold, and earth grow together out of little earths,
+  841  fires out of fires, moisture be made of moistures,
+  842  and the rest he imagines and supposes on a like principle.
+  843  Nor yet that there is void in things in any part
+  844  does he grant, nor that there is an end to the cutting of bodies.
+  845  Therefore in both parts of his reasoning he seems to me
+  846  to go astray just as those did of whom we spoke above.
+  847  Add that he imagines first-beginnings far too weak;
+  848  if first-beginnings are what stand endowed with a nature
+  849  like that of things themselves, and labor just as they do
+  850  and perish, and nothing reins them back from destruction.
+  851  For which of them will hold out under heavy pressure
+  852  so as to escape death, beneath the very teeth of death?
+  853  Fire, or moisture, or air? Which of these? Blood or bones?
+  854  None, I think, when every thing will be, utterly and equally,
+  855  as mortal as those things we see plainly
+  856  before our eyes perish, overcome by some force.
+  857  But that things cannot fall back into nothing, nor again
+  858  grow out of nothing, I call to witness the things proved before.
+  859  Further, since food increases the body and nourishes it,
+  860  we may know that veins and blood and bones
+ 860a  * * *[62]
+  861  or if they say that all foods are of mixed body
+  862  and have in them small bodies of sinews,
+  863  and bones, and veins altogether, and parts of gore,
+  864  it will follow that all food, both the dry and the liquid itself,
+  865  must be thought to consist of things of foreign kind,
+  866  of bones and sinews and serum and blood mixed together.
+  867  Further, whatever bodies grow up out of the earth,
+  868  if they are in the earth, the earth must consist
+  869  of things of foreign kind, which rise up out of the earth.
+  870  Transfer the argument again; you may use the very same words:
+  871  if flame lies hidden in wood, and smoke and ash,
+  872  wood must consist of things of foreign kind;
+  873  further, that whatever bodies the earth feeds and increases
+  874  consist of things of foreign kind, which rise out of the wood.[63]
+
+  875  Here there is left a certain slender chance of hiding,
+  876  which Anaxagoras takes up for himself, holding that every
+  877  thing lies hidden, mixed in among all things, but that one thing
+  878  appears, the one of which the most parts are mixed in
+  879  and lie more ready to hand and set in the forefront.
+  880  But this is driven far away from true reasoning;
+  881  for it would then follow that grain too, when by the menacing
+  882  strength of the stone it is crushed, would often send out some sign
+  883  of blood, or of some other thing that is nourished in our body.
+  884  When we grind them stone upon stone, it would be fitting for gore
+  885  by a like principle to ooze from grasses too, and often,
+  886  and for them to send out juices, sweet drops of a savor like
+  887  the savor of milk in the udder of the wool-bearing ewe;
+  888  and, of course, that when clods of earth are often crumbled,
+  889  kinds of grasses and grains and leaves should be seen
+  890  parceled out through the earth, lying hidden in tiny bits;
+  891  and finally, that ash and smoke should be seen in wood
+  892  when it was snapped across, and tiny fires lying hidden.
+  893  Since the plain fact shows that none of these things happens,
+  894  you may know that things are not so mixed in things,
+  895  but rather that seeds, mixed in many ways, must lie hidden
+  896  in things, seeds common to many things.
+  897  "But often on great mountains," you say, "it happens that the tall
+  898  trees' neighboring tops are rubbed at their summits
+  899  against each other, as the strong south winds force them to it,
+  900  until a flower of flame springs up and they blaze."
+  901  Indeed so; and yet fire is not implanted in the wood,
+  902  but there are many seeds of burning, which, through the rubbing,
+  903  when they have flowed together, create fires in the forests.
+  904  For if flame, already made, were hidden in the forests,
+  905  the fires could not be concealed for any length of time;
+  906  they would consume the forests everywhere, burn up the groves.
+  907  Now do you see, then, what we said a little before,
+  908  that it often matters very much, for these same first-beginnings,
+  909  with what and in what position they are held together,
+  910  and what motions they give and receive among themselves,
+  911  and that these same, a little changed among themselves, create
+  912  fires and wood? Just as the words themselves, too,
+  913  differ by elements a little changed among themselves,
+  914  when we mark wood and fires[64] with distinct sounds.
+  915  Finally, if you think that whatever you see in things plain to view
+  916  cannot come to be unless you imagine the bodies of matter
+  917  endowed with a nature like theirs,
+  918  on this reasoning the first-beginnings of things perish for you:
+  919  it will come about that they guffaw, shaken with trembling laughter[65],
+  920  and wet their faces and cheeks with salt tears.
+  921  Come now, for the rest: learn, and hear more clearly.
+  922  Nor does it escape my mind how dark these things are; but with a sharp
+  923  thyrsus[66] the great hope of praise has struck my heart
+  924  and at the same time has driven into my breast sweet love
+  925  of the Muses, inspired by which now, with vigorous mind,
+  926  I range through the pathless places of the Pierides[67], trodden before
+  927  by no one's foot. It is a joy to come to untouched springs
+  928  and drink from them, a joy to pluck new flowers
+  929  and to seek for my head a crown of distinction from there
+  930  where the Muses have veiled no one's temples before;
+  931  first because I teach of great things, and go on
+  932  to free the mind from the tight-tied knots of religion,
+  933  then because on a dark matter I compose such lucid
+  934  verses, touching all of it with the Muses' charm.
+  935  For this too seems not to be without good reason;
+  936  but just as physicians, with foul wormwood for children,
+  937  when they try to give it, first touch the rims round the cups
+  938  with the sweet and golden liquid of honey,
+  939  so that the unforeseeing age of children may be fooled
+  940  as far as the lips, and meanwhile drink down the bitter
+  941  juice of wormwood, and, deceived, may not be undone,
+  942  but rather, restored by such means, may grow strong,
+  943  so I now, since this reasoning often seems
+  944  rather grim to those who have not handled it, and the crowd
+  945  shrinks back from it, have wished, in sweet-speaking
+  946  Pierian song, to set out for you our reasoning
+  947  and, as it were, to touch it with the Muses' sweet honey,
+  948  if by such means I might perhaps hold your mind
+  949  on our verses, while you see deep into the whole
+  950  nature of things, the shape in which it stands composed.
+  951  But since I have taught that the most solid bodies of matter
+  952  fly about, unconquered, forever through the ages,
+  953  come now, whether there is some limit to their sum
+  954  or not, let us unfold; likewise, what has been found to be void,
+  955  or place and space, in which all things are carried on,
+  956  let us see clearly whether the whole of it is bounded utterly
+  957  or lies open, immeasurable and vast and deep.
+  958  All that exists, then, is bounded along none of its ways;
+  959  for then it would have to have an outermost point.
+  960  Further, it seems that nothing can have an outermost point
+  961  unless there is something beyond to bound it, so that there seems to be
+  962  a point past which the nature of our sense cannot follow.
+  963  As it is, since we must admit there is nothing outside the sum,
+  964  it has no outermost point; it lacks, therefore, end and measure.
+  965  Nor does it matter in which of its regions you stand;
+  966  so true it is that, whatever place each one takes, on all
+  967  sides alike one leaves the whole as infinite as before.
+  968  Further, if now we should set down as bounded
+  969  all the space that exists, if someone should run out to its shores,
+  970  last of all, at the very edge, and hurl a flying spear[68],
+  971  would you rather that, whirled by strong force,
+  972  it goes where it was sent and flies far off,
+  973  or do you judge that something can stop it and stand in its way?
+  974  For you must admit and adopt one or the other.
+  975  Either one shuts off your escape, and forces you to grant
+  976  that the whole, exempt from any end, lies open.
+  977  For whether there is something that blocks it and brings it about
+  978  that it does not reach where it was sent and lodge itself at its end,
+  979  or whether it is carried on outside, it has not set out from the end.
+  980  In this way I will follow, and, wherever you place
+  981  the outermost shores, I will ask: what in the end becomes of the spear?
+  982  It will come about that no end can stand anywhere,
+  983  and the scope for flight will always draw out the escape.
+  984  Further, if all the space of the whole sum
+  985  were shut in on every side and stood within fixed shores
+  986  and were bounded, by now the store of matter
+  987  would, by its solid weights, have flowed from all sides to the bottom,
+  988  nor could anything be carried on beneath the canopy of the sky,
+  989  nor would there be a sky at all, nor the light of the sun,
+  990  since all matter would lie heaped up,
+  991  settling down from infinite time already past.
+  992  But as it is, plainly, no rest is given to the bodies
+  993  of the beginnings, because there is no bottom at all
+  994  where they might, as it were, flow together and take up their seats.
+  995  Always, in ceaseless motion, all things are carried on
+  996  in every part, and from beneath are furnished,
+  997  out of the infinite, the swift bodies of matter.
+  998  Finally, before our eyes one thing is seen to bound another;
+  999  air walls off the hills, and mountains the air,
+ 1000  land bounds the sea, and the sea in turn bounds all lands;
+ 1001  but the whole, indeed, there is nothing outside to bound.
+
+ 1002  There is, therefore, a nature of place and a space of the deep
+ 1003  such that bright thunderbolts could not run through it in their course,
+ 1004  gliding on through an everlasting tract of age,
+ 1005  nor bring it about, by going, that any less remains to go;
+ 1006  so widely everywhere lies open a huge room for things,
+ 1007  its boundaries taken away, in every direction on all sides.
+ 1008  Further, nature prevents the sum of things itself from being able
+ 1009  to provide itself a limit, since she compels body to be bounded
+ 1010  by void, and what is void, in turn, to be bounded by body,
+ 1011  so that by this alternation she renders the whole infinite;
+ 1012  or else, too, if the other did not bound it, one of the two
+ 1013  would still stretch out without measure in its single nature,[69]
+ 1014  and neither sea nor earth nor the shining precincts of heaven
+ 1015  nor the mortal race nor the holy bodies of the gods
+ 1016  could hold their ground for the brief space of an hour;
+ 1017  for, driven apart from its union, the store of matter
+ 1018  would be carried, set loose, through the great void,
+ 1019  or rather it would never have come together and created
+ 1020  anything, since, scattered, it could not have been driven together.
+ 1021  For certainly the first-beginnings of things did not by design[70]
+ 1022  set themselves each in its order with a shrewd mind,
+ 1023  nor, surely, did they bargain what motions each should give;
+ 1024  but because, many and changed in many ways, throughout the whole
+ 1025  they are harried from infinite time, struck on by blows,
+ 1026  by trying every kind of motion and union
+ 1027  they come at last into such arrangements
+ 1028  as those by which this sum of things has been created and stands,
+ 1029  and, preserved as well through many great years
+ 1030  once it has been cast into fitting motions,
+ 1031  it brings about that the rivers replenish the greedy sea
+ 1032  with the large waves of their stream, and that the earth, warmed
+ 1033  by the sun's heat, renews her young, and the race of living things,
+ 1034  sent up, flourishes, and the fires of the gliding ether live.
+ 1035  This they could by no means do unless a store of matter
+ 1036  could rise up from the infinite,
+ 1037  from which they are used to making good, in time, each thing lost.
+ 1038  For just as the nature of living things, robbed of food,
+ 1039  wastes away, losing its body, so all things must
+ 1040  dissolve as soon as matter has failed to come in supply,
+ 1041  turned away by some cause from its road.
+ 1042  Nor can blows from outside, from every side, preserve
+ 1043  the whole sum, whatever has been gathered into union.
+ 1044  For they can strike often and hold back a part
+ 1045  until others come and the sum can be filled up;
+ 1046  yet at times they are forced to rebound, and at the same time
+ 1047  to grant the beginnings of things space and time for flight,
+ 1048  so that they can be carried away, free from the union.
+ 1049  Therefore, again and again, many must rise up;
+ 1050  and yet, so that even the blows themselves can be in supply,
+ 1051  there is need of an infinite force of matter on every side.
+ 1052  In these matters, Memmius, flee far from believing
+ 1053  what they say: that all things press toward the middle[71] of the sum,
+ 1054  and that for this reason the nature of the world stands without any
+ 1055  blows from outside, and top and bottom cannot be loosed
+ 1056  in any direction, because all things have pressed toward the middle
+ 1057  (if you believe that anything can stand upon itself),
+ 1058  and that the heavy things beneath the earth all press
+ 1059  upward and rest against the earth, set there upside down,
+ 1060  like the images of things we now see through water;
+ 1061  and contend by like reasoning that creatures wander upside down
+ 1062  and cannot fall back out of the earth into the regions of the sky
+ 1063  below, any more than our bodies could
+ 1064  of their own accord fly up into the precincts of heaven;
+ 1065  that when they see the sun, we behold the stars of night,
+ 1066  and that they share the seasons of heaven turn by turn with us
+ 1067  and pass nights equal to our days.
+ 1068  But an empty . . . these things for fools . . .[72]
+ 1069  since they hold it embraced . . .
+ 1070  For there can be no middle . . .
+ 1071  infinite; nor in any way, even if there were a middle now,
+ 1072  could anything stand still there . . .
+ 1073  than by any other principle far . . .
+ 1074  For all place and space, which we call void,
+ 1075  must, through the middle and through what is not the middle, give way
+ 1076  equally to weights, wherever their motions carry them.
+ 1077  Nor is there any place where bodies, once they have come there,
+ 1078  can lose the force of weight and stand still in the void;
+ 1079  nor must what is void hold up anything at all,
+ 1080  but must go on giving way, as its nature seeks.
+ 1081  Things cannot, therefore, on such a principle be held
+ 1082  in union, overcome by desire for the middle.
+ 1083  Further, since they imagine that not all bodies
+ 1084  press toward the middle, but only those of earth and liquid,
+ 1086  the moisture of the sea and the great waters from the mountains,[73]
+ 1085  and those that are held, as it were, in an earthy body,
+ 1087  but on the contrary teach that the thin breezes of air
+ 1088  and hot fires together are carried away from the middle,
+ 1089  and that for this reason the whole ether flickers with stars all round
+ 1090  and the flame of the sun is fed through the blue of heaven,
+ 1091  because heat, fleeing from the middle, gathers all of itself there,
+ 1092  and that the topmost boughs of trees could not put forth leaves at all
+ 1093  unless from the earth, little by little, food for each . . .[74]
+       [lacuna]
+       [lacuna]
+       [lacuna]
+       [lacuna]
+       [lacuna]
+       [lacuna]
+       [lacuna]
+       [lacuna]
+ 1102  lest, in the manner of winged flames, the walls of the world[75]
+ 1103  should suddenly fly apart, set loose through the great void,
+ 1104  and lest the rest should follow on a like principle,
+ 1105  or the thundering precincts of heaven rush down from above,
+ 1106  and the earth swiftly slip from under our feet, and all of it,
+ 1107  amid the mingled ruins of things and of heaven,
+ 1108  that set bodies loose, pass away through the deep void,
+ 1109  so that in a moment of time nothing would be left of the remnants
+ 1110  but deserted space and unseen first-beginnings.
+ 1111  For on whatever side you first decide that bodies
+ 1112  are lacking, this side will be the door of death for things;
+ 1113  through it the whole throng of matter will rush outward.
+ 1114  These things you will learn thoroughly, led on with a little labor;
+ 1115  for one thing will grow clear from another, nor will blind
+ 1116  night snatch your road away and stop you seeing through to the farthest
+ 1117  reaches of nature: so things will kindle lights[76] for things.
+
+------------------------------------------------------------
+
+Notes
+
+[1] (1.1) "Mother of Aeneas' race" (Aeneadum genetrix): Venus, mother of
+    Aeneas, is the ancestress of the Romans, so the poem opens on a Roman
+    patron goddess. "Pleasure" (voluptas) is the word Epicurus's school used
+    for the highest good; the epithet carries doctrine as well as charm.
+
+[2] (1.7) "the artificer earth" (daedala tellus): daedala, the word for
+    cunning workmanship, is rendered "artificer" wherever Lucretius applies
+    it to nature (1.228, and "nature, artificer of things" at 5.234).
+
+[3] (1.14-15) The source prints 15 before 14, an editorial transposition
+    that lets the beasts bound over the pastures before they swim the
+    rivers. The translation keeps the printed order and the printed numbers,
+    here and at every transposition in the poem.
+
+[4] (1.22) "the shining shores of light" (dias in luminis oras): Lucretius's
+    phrase for birth into the daylight, repeated through the poem. Where the
+    Latin has luminis oras without the adjective (1.170, 1.179, 2.577,
+    2.617, 5.224, 5.781, 5.1389, 5.1455) the English is "the shores of
+    light"; 1.22 is the only line with dias.
+
+[5] (1.26) "our son of the Memmii" (Memmiadae nostro): Gaius Memmius, a
+    Roman noble, praetor in 58 BC and the patron of Catullus as well, is the
+    poem's addressee; "you" throughout the poem is Memmius. He is "the
+    famous offspring of Memmius" at 1.42 and is named at 1.411 and 1.1052.
+
+[6] (1.32) "Mars" is Mavors in the Latin, the old form of the god's name;
+    the translation uses the familiar one. The war god lying conquered in
+    Venus's lap lets the poet ask for peace from the one power that can calm
+    him.
+
+[7] (1.44-49) These six lines on the untroubled nature of the gods recur
+    word for word at 2.646-651, where they belong to the argument. Many
+    editors bracket them here as an intrusion from Book 2, since they sit
+    oddly after a prayer to Venus for help; the source prints them, and so
+    does the translation.
+
+[8] (1.51) "true reasoning" (veram ad rationem): ratio standing alone is
+    Epicurus's doctrine and method, and is "reasoning" throughout. Where it
+    governs heaven, as in "the highest order of heaven" (summa caeli
+    ratione, 54), it is the system of the world, "order"; where it is
+    instrumental (qua ratione, 77, 128) it is "by what principle".
+
+[9] (1.55-61) "the first-beginnings of things" (rerum primordia) is
+    Lucretius's commonest name for what the Greek atomists called atoms, a
+    word he never uses and the verse never supplies. He gives his cluster of
+    names at once: "matter" (materies), "the generative bodies of things"
+    (genitalia corpora), "seeds of things" (semina rerum), "first bodies"
+    (corpora prima); "which we are used to calling" (suemus) marks them as
+    the school's own Latin. Each is kept distinct throughout, and his
+    shorter synonym principia is "beginnings" (see 1.484).
+
+[10] (1.63) "religion" (religione): the plain word, not "superstition".
+     Religio in Lucretius is the fear of gods who watch and punish, and the
+     attack that follows falls on that; the proem's force depends on not
+     softening the word.
+
+[11] (1.66) "a man of Greece" (Graius homo) is Epicurus (341-270 BC),
+     unnamed here and named in the whole poem only once, at 3.1042. "First
+     ... and first" (primum ... primusque) makes him the hero of the poem's
+     revolt.
+
+[12] (1.73) "the flaming walls of the world" (flammantia moenia mundi): the
+     fiery outer shell of our world, which in Epicurus's physics is one of
+     countless worlds in an unbounded void. Epicurus's mind passes out
+     through it and ranges "the whole immensity" (omne immensum). The same
+     walls are imagined flying apart at 1.1102.
+
+[13] (1.74) "in thought and mind" (mente animoque): animus is "mind"
+     throughout the poem, and mens, where it stands beside animus as here,
+     is "thought"; anima, the vital principle, is "spirit" (1.112). Book 3
+     sets out the distinction.
+
+[14] (1.77) "its boundary-stone set deep" (alte terminus haerens): the
+     terminus was the stone sunk at the edge of a Roman field, sacred and
+     not to be moved. The line, with 75-76, is repeated at 1.594-596.
+
+[15] (1.84-86) "the Virgin of the Crossways" (Triviai virginis) is Diana,
+     called Trivia as goddess of the three-way crossroads. Iphianassa is
+     Iphigenia; Homer gives Agamemnon a daughter Iphianassa (Iliad 9.145),
+     and Lucretius uses the older name. At Aulis the Greek fleet bound for
+     Troy was held by contrary winds until Agamemnon sacrificed her. "The
+     Danaans" (Danaum) are the Greeks.
+
+[16] (1.98) "pure, impurely" (casta inceste): the girl is chaste and the act
+     is a pollution. The whole scene turns marriage into slaughter: the
+     woolen band (infula, 87) laid on her hair is the band of a sacrificial
+     victim, and the escort she might have had was the wedding hymn
+     (Hymenaeo, 97).
+
+[17] (1.101) "So much evil could religion prompt" (tantum religio potuit
+     suadere malorum): the most famous line of the poem, and its thesis in
+     brief.
+
+[18] (1.112) "the nature of the spirit" (natura animai): anima, the vital
+     principle, is "spirit" throughout, never "soul". Lines 112-116 list the
+     questions about it that fear exploits (is it born, does it die with us,
+     does it go down to the underworld or pass into other creatures), and
+     Book 3 answers them.
+
+[19] (1.115) Orcus is the Roman name of the underworld and of its god; "the
+     precincts of Acheron" (Acherusia templa, 120) is the same place named
+     from its Greek river. Templa are regions, of the sky or of the earth,
+     not temples.
+
+[20] (1.117-126) Ennius (239-169 BC), author of the Annales, is the founder
+     of Latin epic and Lucretius's predecessor in the hexameter; the "crown
+     from Helicon", the Muses' mountain in Boeotia, is Greek poetry brought
+     into Latin. In the proem of the Annales Homer appeared to Ennius in a
+     dream and told him that his spirit had passed into him; so Ennius
+     taught both the passage of spirits into other bodies (116) and the
+     underworld of 120-126, the two beliefs this book sets out to destroy.
+
+[21] (1.123) "images" (simulacra): the word Book 4 will make the name of the
+     thin films thrown off by things, by which we see; here it is the ghosts
+     of Ennius's underworld. The English keeps "images" for simulacra in
+     every sense.
+
+[22] (1.136-139) "the poverty of the language and the newness of the things"
+     (egestatem linguae et rerum novitatem): the complaint that Latin has no
+     words for Greek philosophy; Lucretius makes it again at 1.832 and
+     3.260. His new words are the reason the translation fixes its own (see
+     the translator's commentary).
+
+[23] (1.146-148) The first of Lucretius's refrains: these three lines recur
+     word for word at 2.59-61, 3.91-93 and 6.39-41, and the English repeats
+     its own lines at each place. "The face and reasoning of nature"
+     (naturae species ratioque) is nature's appearance and the account that
+     explains it.
+
+[24] (1.150) "nothing is ever begotten from nothing by divine will" (nullam
+     rem e nihilo gigni divinitus umquam): the first principle of the
+     physics. Divinitus, "by divine agency", carries the point: what is
+     denied is creation from nothing by gods, who are invoked only where
+     causes cannot be seen (151-154).
+
+[25] (1.155-158) The source prints 156-158 before 155, an editorial
+     transposition that makes 155 complete the "both ... and" of 158 (et
+     unde ... et quo modo). The translation keeps the printed order and the
+     numbers.
+
+[26] (1.197) "as we see elements are to words" (ut verbis elementa videmus):
+     elementa is the Latin for both the letters of the alphabet and the
+     elements of things, and Lucretius's recurring analogy between first-
+     beginnings and letters rests on the one word (1.823-829, 1.912-914,
+     2.688-699, 2.1013-1022). The English keeps "elements" for both senses
+     so that the analogy stays visible; at 1.81 the same word is the
+     "elements", the rudiments, of a doctrine.
+
+[27] (1.223) "through the voids" (per inania): the plural is the void inside
+     compound things, the empty room between their first bodies. The void is
+     argued for from 1.329.
+
+[28] (1.250-251) "father ether ... the lap of mother earth" (pater aether
+     ... in gremium matris terrai): the old pairing of Sky and Earth as
+     parents, which Lucretius keeps as a figure inside a naturalistic
+     argument; he develops it at 2.991-1001.
+
+[29] (1.261) "made drunk with unmixed milk" (lacte mero): merum is wine
+     taken without water, as Romans did not normally drink it; the young
+     animals are tipsy on milk.
+
+[30] (1.271) "the body of the sea" (corpus): so the source reads; many
+     editors emend to pontum, "the sea". The translation keeps the printed
+     word and takes it as the sea's body, since the argument is about
+     bodies.
+
+[31] (1.275) "forest-breaking blasts" (silvifragis flabris), like "the wave-
+     breaking shore" (fluctifrago litore, 305), is a compound adjective of
+     the kind Ennius coined for epic; Lucretius makes a few of his own,
+     mostly for the violence of nature, and the English keeps them as
+     compounds.
+
+[32] (1.316-318) The bronze statues beside the city gates have their right
+     hands worn thin by those who greet them: Romans touched or kissed the
+     hand of a statue in passing, a salute to the god or the man it showed.
+
+[33] (1.330) "there is void in things" (est in rebus inane): inane is "void"
+     throughout, never "vacuum", though Lucretius also uses vacuum as its
+     synonym (1.509, 1.523). "Place, untouchable, void and empty" (334) and
+     "place and space" (locus ac spatium, 426) are other names for the same
+     thing; the void is only room that offers no resistance.
+
+[34] (1.336) "the office of body" (officium corporis) is "to obstruct and
+     stand in the way" (officere atque obstare): the play of words makes the
+     point that a body's one proper function is to be in the way, so that in
+     a world without void nothing could begin to move. The "office" of body
+     is to press downward at 1.362.
+
+[35] (1.371) "certain men" (quidam) are not named. The doctrine is that of
+     the Aristotelians and the Stoics, who denied void inside the world and
+     explained motion by mutual replacement: the fish moves into the water
+     that moves into the place the fish has left. Lucretius's answer is that
+     the water has nowhere to go first.
+
+[36] (1.422-423) "the sense common to all" (communis sensus) is the
+     sensation everyone shares, not "common sense" in the modern meaning.
+     That sensation is the first ground of trust (prima fides) is Epicurus's
+     rule of truth: without it nothing about hidden things could be
+     confirmed by reasoning. Lucretius defends the senses at length at
+     4.469-521.
+
+[37] (1.449-450) "conjoined" (coniuncta) and "accidents" (eventa) are
+     Lucretius's Latin for Epicurus's permanent properties (symbebekota) and
+     accidents (symptomata): what a thing cannot lose "without a deadly
+     division" (sine permitiali discidio, 451), and what can come and go
+     while the thing remains. The two English words are kept throughout.
+
+[38] (1.459-463) Time has no existence of its own but is sensed from the
+     motion and rest of things; it is an accident of accidents, as the
+     school put it.
+
+[39] (1.464-477) "Tyndareus' daughter" (Tyndaridem) is Helen; "Alexander"
+     (474) is Paris, son of Priam, and "Phrygian" is Trojan; "Pergamum"
+     (Pergama, 476) is the citadel of Troy. "Wooden" (durateus) is Homer's
+     own word for the horse (Odyssey 8.493), taken into Latin letter for
+     letter. The Trojan War is the example of events that have no being of
+     their own.
+
+[40] (1.469-470) "an accident of the lands ... of the regions themselves"
+     (aliud terris, aliud regionibus ipsis): the deeds were accidents of the
+     matter that took part in them, the lands and the people, and of the
+     space in which they happened; neither the matter nor the place is the
+     deed.
+
+[41] (1.484) "a union of beginnings" (concilio ... principiorum): principia
+     is Lucretius's shorter synonym for primordia, and the English keeps the
+     two Latin words apart as "beginnings" and "first-beginnings" (so also
+     1.740, 1.993, 1.1047); it is the same doctrine under a second name.
+     "Union" (concilium) is the fixed word for the combination of first
+     bodies that makes a thing (also 1.517, 1.1043).
+
+[42] (1.493-496) "the ice of bronze" (glacies aeris) is Lucretius's own
+     figure: bronze as a frozen thing that melts in fire. "As is the custom"
+     (rite, 495) is the Roman way of holding the cup in the hand while the
+     water is poured in from above, so that heat and cold are felt through
+     the silver.
+
+[43] (1.520) "nothing that stood empty as void": the source prints vocaret,
+     "called", which gives no sense; nearly all editors read vacaret, "stood
+     empty", and here the translation follows the emendation rather than the
+     printed word.
+
+[44] (1.531) "as I showed you above, a little while before" (id quod iam
+     supra tibi paulo ostendimus ante) repeats 1.429 word for word; there it
+     looked back to 1.335-345, here to 1.503-527. The English repeats its
+     own line.
+
+[45] (1.548) "of solid singleness" (solida simplicitate): simplicitas is the
+     first-beginnings' being single, without parts that could be separated;
+     "singleness" is kept for it (1.574, 1.609, 1.612).
+
+[46] (1.586) "nature's covenants" (foedera naturai): foedus is a treaty, and
+     the figure of a binding compact that fixes what each thing can do is
+     Lucretius's own; it recurs at 2.302, 5.310 and 5.924, and "stands
+     decreed" (sancitum, 587) is the language of law. The English keeps
+     "covenants" throughout.
+
+[47] (1.594-596) These lines repeat 1.75-77, the proem's account of what
+     Epicurus brought back, now not a discovery but a premise. The English
+     repeats its own lines.
+
+[48] (1.599-608) The least parts: the "outermost point" (extremum cacumen)
+     that the eye can just make out on a visible body has no parts and is "a
+     least nature" (minima natura); by analogy the first-beginnings, too,
+     are made of least parts that exist only as parts and never separately
+     (Epicurus, Letter to Herodotus 56-59). The regress of 615-622, that
+     without a least the smallest thing would have as many parts as the
+     whole, is the argument's other half, and the point returns against
+     Empedocles at 749-752.
+
+[49] (1.629) "the nature of things, the creator" (rerum natura creatrix):
+     nature as maker, a phrase Lucretius uses again at 2.1117 and 5.1362. It
+     is a figure for the workings of first-beginnings and void, not a
+     goddess.
+
+[50] (1.638-639) Heraclitus of Ephesus (about 500 BC), who made fire the
+     stuff of all things, was called "the Obscure" in antiquity for his
+     riddling style, and 639 plays on it: "bright" in fame (clarus) for
+     "dark" speech (obscuram). "The empty-headed" (inanis) is the same word
+     as "the void" (inane), so his admirers are hollow men. "Is the first to
+     enter the battle" (init proelia primus) casts the survey of rival
+     schools as a campaign.
+
+[51] (1.670-671) The refrain of change as death: these two lines recur at
+     1.792-793, 2.753-754 and 3.519-520, verbatim in the English as in the
+     Latin. Whatever changes so as to leave its own bounds (suis finibus)
+     has ceased to be what it was; so the first-beginnings themselves must
+     never change.
+
+[52] (1.684-685) "collisions, motions, order, position, shapes" (concursus
+     motus ordo positura figurae): the things by which the same first bodies
+     make different things. The list, with variations, is one of Lucretius's
+     refrains (1.633-634, 2.726, 2.1021). Here it answers Heraclitus: fire
+     itself is one such arrangement.
+
+[53] (1.693-700) The senses are the first measure of truth, and Heraclitus,
+     "starting from the senses, fights against the senses": he trusts sight
+     when it shows him fire and distrusts it for everything else. This is
+     Epicurus's rule of truth again (1.422-425), argued out at 4.469-521.
+
+[54] (1.705-706) These lines repeat 1.635-636, with "can consist"
+     (consistere posse) for "consists of fire alone" (consistere solo);
+     Lucretius reopens the polemic in his own earlier words so as to extend
+     it to the other single elements.
+
+[55] (1.707-713) Air as the beginning of things is the doctrine of
+     Anaximenes of Miletus, water that of Thales; for earth alone no thinker
+     is known, and Aristotle remarks that no one made earth the sole
+     principle. "Those who double the first-beginnings" (712) are the pairs
+     the ancient handbooks assign to Oenopides of Chios (fire and air) and
+     Xenophanes (earth and water).
+
+[56] (1.715) "breath" (anima): here the element air, in the list of
+     Empedocles' four, not the spirit of 1.112. "Spirit" is kept for the
+     vital principle only, and this non-technical sense is noted wherever it
+     occurs (6.130 and after).
+
+[57] (1.716-725) Empedocles of Acragas (now Agrigento) in Sicily, of the
+     fifth century BC, taught that all things are mixtures of four "roots",
+     fire, air, earth and water, and wrote his physics in hexameters, which
+     is why Lucretius praises him as a poet in 731-733 while refuting him.
+     Sicily is "three-cornered" (triquetris), its old name Trinacria; the
+     strait is the Strait of Messina, with the whirlpool Charybdis of
+     Odyssey 12, and Etna is described between eruptions.
+
+[58] (1.721) "the shores of Aeolia's lands" (Aeoliae terrarum oras): so the
+     source reads, though the Aeolian Islands lie north of Sicily and the
+     mainland across the strait is Italy, which Munro's emendation Italiae
+     names. The translation keeps the printed reading; the mainland is meant
+     either way.
+
+[59] (1.738-739) The Pythia was Apollo's priestess at Delphi, who prophesied
+     seated on the tripod and, as Lucretius has it, from the laurel,
+     Apollo's tree. To rank these thinkers' answers above hers is a stroke
+     against religion in passing. The two lines recur at 5.111-112.
+
+[60] (1.769) This line repeats 1.762 word for word and does not fit here;
+     editors generally delete it as a copyist's stray repetition. The source
+     prints it, and the translation keeps it in place.
+
+[61] (1.830-832) "Homoeomeria" (homoeomerian), Greek for "likeness of
+     parts", is the Aristotelian name for the doctrine of Anaxagoras of
+     Clazomenae (about 500-428 BC) that each kind of stuff is made of tiny
+     portions of the same stuff: bone of little bones, gold of specks of
+     gold. Lucretius leaves the word Greek, blaming "the poverty of our
+     native speech" (patrii sermonis egestas) as at 1.139, and the
+     translation leaves it Greek too.
+
+[62] (1.860a) The source marks a line lost after 860: the sentence that
+     began "since food increases the body and nourishes it" has lost its
+     conclusion. The translation prints the gap and supplies nothing; "or if
+     they say" (sive, 861) answers an alternative that is no longer there.
+
+[63] (1.873-874) The sense of these two lines is disputed, and editors
+     suspect corruption or a lost line: the earth's produce is said to rise
+     "out of the wood" (lignis), where the argument wants the earth. The
+     translation renders the text as printed.
+
+[64] (1.909-914) Lines 909-910 repeat 818-819 word for word. The clinching
+     example turns on Latin letters: ligna, "wood", and ignes, "fires", are
+     made of nearly the same letters in a different order, as fire and wood
+     are made of the same first-beginnings in a different arrangement.
+     English "wood" and "fires" cannot show it; the note has to.
+
+[65] (1.915-920) If like could come only from like, the first-beginnings of
+     a laughing or weeping creature would themselves laugh and weep.
+     Lucretius returns to the joke at 2.976-990, where he argues that
+     sentient things are made of bodies without sense.
+
+[66] (1.922-925) The thyrsus is the ivy-wound wand carried by Bacchus and
+     his followers, whose touch brought on the god's frenzy; the hope of
+     fame strikes the poet with it, so his inspiration is Bacchic before it
+     is the Muses'.
+
+[67] (1.926-950) These lines return almost word for word as the proem of
+     Book 4 (4.1-25), and the English there repeats the English here. "The
+     Pierides" are the Muses, from Pieria below Mount Olympus; the untrodden
+     places and untouched springs are the poet's claim to a new kind of
+     poem. The honey on the rim of the children's cup of wormwood
+     (absinthia, 936-942) is the image of his method: the bitter medicine is
+     the doctrine, the honey is the verse.
+
+[68] (1.968-983) The thrown spear: run to the supposed edge of space and
+     throw; either the spear flies on, and there is space beyond, or
+     something stops it, and that something is beyond. Simplicius attributes
+     the argument to Archytas of Tarentum, the Pythagorean of the fourth
+     century BC, with an outstretched hand in place of the spear; Lucretius
+     gives it its classic form.
+
+[69] (1.1013) The sentence breaks here, and many editors posit a lost line
+     or lines after 1013. The sense can be followed, since the condition of
+     1012 is answered by 1014; the translation prints the text as it stands
+     and supplies nothing.
+
+[70] (1.1021-1028) The first-beginnings did not take their places "by
+     design" (consilio) or "bargain" (pepigere) over their motions: the
+     ordered world is the arrangement that happened to hold, out of every
+     arrangement tried through infinite time. Book 5 (5.837-877) applies the
+     same reasoning to the first living creatures, and a modern reader will
+     hear natural selection in it; that is the reader's association, not the
+     poet's claim.
+
+[71] (1.1052-1067) "That all things press toward the middle of the sum" (in
+     medium summae ... omnia niti) is the doctrine of a finite spherical
+     world held together by the tendency of everything toward its center,
+     Aristotle's and above all the Stoics'; Lucretius names no one. With it
+     goes the belief in the antipodes (1058-1067), people on the far side of
+     the earth standing "upside down" (suppa, an old word) relative to us
+     and seeing the sun when we see the stars. In an infinite universe there
+     is no middle, so both fall together.
+
+[72] (1.1068-1073) The right-hand ends of these six lines are lost: a leaf
+     of the ancestor of our manuscripts was damaged, and only the line
+     openings survive. The translation prints the gaps as ". . ." and
+     supplies nothing; the drift is that the "middle" is an empty notion of
+     fools and that an infinite space has none.
+
+[73] (1.1085-1086) The source prints 1086 before 1085, an editorial
+     transposition; the translation keeps the printed order and the numbers.
+
+[74] (1.1093) Eight lines are lost after 1093 (1094-1101), and the text
+     resumes in mid-sentence at 1102. The translation prints eight
+     unnumbered gaps and supplies nothing. The lost lines finished the
+     opponents' view and began Lucretius's reply: that if their world had a
+     center and no matter beyond it, it would fly apart.
+
+[75] (1.1102) "the walls of the world" (moenia mundi): the walls Epicurus
+     passed through at 1.73, imagined here as flying apart "in the manner of
+     winged flames" (volucri ritu flammarum) if the sum of matter were
+     finite.
+
+[76] (1.1117) "so things will kindle lights for things" (ita res accendent
+     lumina rebus): the book ends on the image with which its argument
+     began, the light of understanding against "blind night" (caeca nox,
+     1115-1116), as at 1.144-148; "unseen" in "unseen first-beginnings"
+     (primordia caeca, 1110) is the same adjective.

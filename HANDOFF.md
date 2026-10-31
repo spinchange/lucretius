@@ -20,6 +20,7 @@ source of truth for what has been done to each segment.
 | assemble | all six books | `translation/book_0N.txt`, all from review text; `check_segment --all` now exits 0 |
 | notes | all six books final (76, 89, 70, 55, 89, 86 notes) | no `{{NOTE: ...}}` placeholders or DRAFT notes remain; verse unchanged, `check_narration --all` matches |
 | margin (Ross. 884) | all six books surveyed; published layout decided | 229 entries in `margin/marginalia.tsv` (27 each for Books 1 and 3, 39 for Book 4, 39 for Book 5, 46 for Book 6, 2026-10-31); layout under "Margin layout" below |
+| web | built 2026-10-31 into `docs/` | `python tools/build_web.py` then `npx -y pagefind`; domain and hosting not yet chosen (see "Web build") |
 | audiobook | all six books built | `audiobook-build-book0N/books/book-0N-full.wav` and `-review.m4a` (untracked); every chunk accepted on a strict QA pass except the four noted under "Audiobook" below |
 
 Local repo only, no remote.
@@ -423,7 +424,54 @@ match). Then:
    and review mixes rebuilt; see "Audiobook"). Nothing pending.
 2. Margin survey: done for all six books 2026-10-31. Published layout decided
    2026-10-31 (see "Margin layout" below); it is a spec for the web build.
-3. Web build on the Iliad and Odyssey pattern.
+3. Web build: done 2026-10-31 (see "Web build" below). Open: choose the
+   domain and set `DRN_SITE`, create the remote and GitHub Pages from
+   `docs/`, decide whether to host the audio (the Iliad's
+   build_audio_web.py pattern; `audiobook/published.json` would switch the
+   players on), and prune the `remarks` column of `margin/marginalia.tsv`
+   if any working notes there should not be public (the margin page prints
+   it).
+
+## Web build (done 2026-10-31)
+
+`tools/build_web.py` is the Iliad's build_web.py ported to this project.
+Run `python tools/build_web.py` and then `npx -y pagefind` (reads
+`pagefind.yml`, writes `docs/pagefind/`); both outputs are committed, since
+`docs/` is the GitHub Pages root. Checked in a browser at 1400 px (the
+margin notes stand in the right margin beside their lines) and 820 px
+(they fold under the line as an aside); every internal anchor was verified
+to resolve (note refs, line refs from the notes and the margin page, the
+`margin.html#mNN` targets from the book pages).
+
+- Sources read: `translation/book_0N.txt` (the Iliad book-file format plus
+  lettered lines such as 860a and the unnumbered `[lacuna]` lines),
+  `latin/book_0N.txt`, `margin/marginalia.tsv`, `illustrations/INDEX.md`
+  (each `###` heading's first line number places the picture before that
+  line of the verse). Nothing in the sources is modified.
+- Margin: the kinds note, gloss, marginal word, manicule and mark are the
+  reading layer (94 entries; the manicule at 1.589 is excluded as a
+  tie-mark, `TIE_MARK_KEYS`); the rest (135) are the copy layer. A row's
+  `book.line` is parsed into anchors: a range sits beside its first line, a
+  list beside each line, "2.425+" and "4.911 (below)" beside the line
+  named, "2.1 (before)" beside line 1, the catchwords have no anchor and
+  take the book of the preceding row. The build fails if an anchor is not
+  a verse line. Marks show a glyph (`GLYPH` map); the diplomatic column is
+  the hover text. `margin.html` lists both layers in line order per book;
+  the Brown column prints "in Brown's list" for agrees, nothing for not
+  listed or unchecked, and anything else verbatim.
+- Theme: Pompeian red ground, ochre links, chalk text, the margin in a
+  lighter ink colour; the band is a running scroll instead of the Iliad's
+  meander. Illustrations are resized to 1200 px wide into `docs/art/` and
+  `docs/social.jpg` is cut from the first of them (both only when missing
+  or stale).
+- Placeholders: `SITE` defaults to https://de-rerum-natura.example and
+  `REPO` to https://github.com/spinchange/lucretius; set `DRN_SITE` and
+  `DRN_REPO` in the environment and rebuild once they exist. Licensing in
+  the footers and the API page follows the Iliad: translation CC0, notes
+  and commentary and the margin transcription CC BY 4.0, Latin public
+  domain, Machiavelli's words public domain. Confirm before publishing.
+- Not built (no source for them yet): a general introduction, further
+  reading, an index of names, EPUB/print, audio players.
 
 ## Audiobook (built 2026-10-30, re-rendered for the second round 2026-10-31)
 
@@ -499,4 +547,4 @@ Transcription QA calls can drop on a transient TLS error and leave a take
   (4.547, 6.956) were fixed from his apparatus. The Munro 1886 OCR was
   downloaded but the alignment produced nothing usable against it; not
   pursued.
-- Then the web build on the Iliad and Odyssey pattern.
+- Web build: done 2026-10-31; see "Web build".

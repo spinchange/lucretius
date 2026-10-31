@@ -57,6 +57,21 @@ DigiVatLib. The notes are his text and public domain; the page images are
 the Vatican Library's and are not reproduced here. Reference: Alison Brown,
 *The Return of Lucretius to Renaissance Florence* (2010), appendix.
 
+## Web edition
+
+`python tools/build_web.py` builds the reading edition into `docs/` on the
+Iliad and Odyssey pattern: a landing page, one page per book (argument,
+translator's note, the two illustrations at their passages, the verse with
+line anchors `#L216` and Machiavelli's reading marks in the right margin,
+the notes), `read/margin.html` (the introduction to the margin, every
+reading mark, and the state of the copy as one table per book), the
+machine-readable layer under `api/` (Latin-English `aligned-0N.jsonl`,
+`book-0N.txt`, `marginalia.json`, `manifest.json`), and `robots.txt`,
+`sitemap.xml`, `llms.txt`. Then `npx -y pagefind` refreshes the site search
+bundle (`pagefind.yml`). The site's domain is not yet chosen: the build
+reads it from `DRN_SITE` (and the repository URL from `DRN_REPO`), with
+placeholders otherwise.
+
 ## Layout
 
 ```
@@ -68,8 +83,10 @@ prompts/          the stage prompts (translate, fidelity, annotate, gloss)
 tools/            segment, dispatch, check_segment, sidebyside, refrains, review,
                   assemble, reassemble_verse, apply_notes, check_narration,
                   make_narration, build_audiobook, refresh_chunks, beatcheck,
-                  extract_latin
+                  extract_latin, build_web
 audit/            rubric and findings
 margin/           Machiavelli's marginalia
+illustrations/    twelve fresco-style pictures, two to a book, with INDEX.md
+docs/             the built web edition (GitHub Pages root): read/, api/, art/, pagefind/
 runs/             headless run logs (not committed)
 ```

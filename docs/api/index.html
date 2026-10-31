@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The text as data — De Rerum Natura</title>
+<meta name="description" content="The full translation, CC0, structured for machines: a Latin-English parallel corpus of Lucretius in JSONL, all 7,412 lines aligned to the standard numbering, plus Machiavelli's marginalia as JSON.">
+<link rel="canonical" href="https://de-rerum-natura.example/api/">
+<meta property="og:title" content="The text as data — De Rerum Natura">
+<meta property="og:description" content="A Latin-English parallel corpus of Lucretius in JSONL, all 7,412 lines aligned to the standard numbering, CC0, plus Machiavelli's marginalia as JSON. No key, no auth: static files.">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="De Rerum Natura — On the Nature of Things">
+<meta property="og:url" content="https://de-rerum-natura.example/api/">
+<meta property="og:image" content="https://de-rerum-natura.example/social.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="../read/read.css?v=60e0d71a">
+<style>
+  pre{background:rgba(0,0,0,.35); border:1px solid rgba(214,166,74,.3);
+      border-radius:6px; padding:12px 14px; overflow-x:auto;
+      font-size:.82rem; line-height:1.5}
+  code{font-size:.9em}
+  h2{font-weight:normal; font-variant:small-caps; letter-spacing:.06em;
+     margin:34px 0 10px; color:var(--ochre)}
+  dl.files dt{font-family:ui-monospace,Consolas,monospace; margin-top:14px}
+  dl.files dd{margin:2px 0 0 0; opacity:.9; font-size:.95rem}
+  .lede{font-size:1.05rem}
+</style>
+</head>
+<body>
+<div class="band"></div>
+<div class="wrap">
+<p class="site"><a href="../">De Rerum Natura · on the nature of things</a></p>
+<header class="bookhead"><h1>The text as data</h1>
+<p class="argument">the full translation, CC0, structured for machines</p></header>
+
+<p class="lede">Everything on this page is a stable, fetchable URL: a complete
+Latin-English parallel corpus of De Rerum Natura (7,412 verse lines,
+aligned one-to-one on the standard Munro/Bailey numbering), the full
+translation source with its 465 notes and the translator's commentary on
+each book, and the 229 entries of Machiavelli's margin. The English is
+public domain (CC0). No key, no tracking, no limits of ours: it is a
+directory of static files.</p>
+
+<h2>The files</h2>
+<dl class="files">
+<dt><a href="manifest.json">manifest.json</a></dt>
+<dd>describes everything below: per-book URLs, line counts, note counts,
+book arguments, licensing. Start here if you are a script.</dd>
+<dt><a href="aligned-02.jsonl">aligned-01.jsonl … aligned-06.jsonl</a></dt>
+<dd>the parallel corpus, one book per file: one JSON object per verse line,
+Latin and English paired.</dd>
+<dt><a href="book-02.txt">book-01.txt … book-06.txt</a></dt>
+<dd>the full translation source, one book per file: the argument, the
+translator's commentary, the numbered verse, and the endnotes keyed to
+line numbers.</dd>
+<dt><a href="marginalia.json">marginalia.json</a></dt>
+<dd>Machiavelli's marginalia in Vatican MS Ross. 884: 229 entries, each
+with canvas and folio, the line of the poem, kind, diplomatic
+transcription, expanded reading, English, and a link to the page on
+DigiVatLib.</dd>
+</dl>
+
+<h2>The aligned corpus</h2>
+<p>One JSON object per line, in the printed order. From
+<a href="aligned-02.jsonl">aligned-02.jsonl</a>, the first line of the
+swerve:</p>
+<pre>{"book": 2, "line": 216, "key": "216", "latin": "Illud in his quoque te rebus cognoscere avemus,", "en": "This too, in these matters, we long for you to know:"}</pre>
+<p>The alignment is exact and complete: every English line was translated
+from, and checked twice against, the Latin line it sits beside. The
+numbering is the standard one. <code>line</code> is the integer and
+<code>key</code> the printed number, which carries a letter for the five
+lettered lines (1.860a, 2.164a, 2.465a, 2.528a, 2.903a); where the printed
+text transposes lines (1.15 before 1.14, 2.680 after 2.659) both files keep
+the printed order. The twenty places where the text is lost are marked
+<code>[lacuna]</code> in the reading edition and are not rows here.</p>
+
+<h2>The margin</h2>
+<p>Every entry of the marginalia table. From
+<a href="marginalia.json">marginalia.json</a>:</p>
+<pre>{"id": 36, "book": 2, "book_line": "2.217-219", "canvas": 36, "folio": "24v",
+ "url": "https://digi.vatlib.it/view/MSS_Ross.884/0036", "kind": "note",
+ "layer": "reading", "expanded": "quom declinent principia",
+ "english": "When the first-beginnings swerve.", ...}</pre>
+
+<h2>Citing and linking</h2>
+<p>Cite passages as <code>book.line</code> (e.g. <code>2.216</code>). Every
+line of the reading edition has a stable anchor, so any citation can become
+a link: <a href="../read/book-02.html#L216">/read/book-02.html#L216</a>.</p>
+
+<h2>Examples</h2>
+<p>Fetch one book's alignment and pull out one line:</p>
+<pre>curl -s https://de-rerum-natura.example/api/aligned-02.jsonl | grep '"key": "216"'</pre>
+<p>Load the whole poem as a dataset:</p>
+<pre>import json, urllib.request
+rows = []
+for n in range(1, 7):
+    url = f"https://de-rerum-natura.example/api/aligned-{n:02d}.jsonl"
+    with urllib.request.urlopen(url) as f:
+        rows += [json.loads(line) for line in f]
+assert len(rows) == 7412</pre>
+
+<h2>Licensing</h2>
+<p>Three layers, cleanly separated. The <strong>English translation</strong>
+(every <code>en</code> field, and the verse in <code>book-0N.txt</code>) is
+dedicated to the public domain under
+<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.
+The <strong>Latin</strong> is the Perseus Digital Library's text, in the
+public domain (its TEI markup is CC BY-SA 4.0). The <strong>notes, the
+translator's commentary, and the transcription and English of the
+margin</strong> are © 2026 Chris Duffy,
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>;
+Machiavelli's words are his own and public domain.</p>
+
+<h2>Provenance</h2>
+<p>The translation was produced by a language model (Claude) from the Latin,
+line by line, checked twice against it, and edited by a human; the method
+and the full revision history are public in <a href="https://github.com/spinchange/lucretius">the
+repository</a>. The same project's Iliad and Odyssey, with the same
+machine-readable layer, are at
+<a href="https://wrath-sing-goddess.com/api/">wrath-sing-goddess.com/api/</a>
+and <a href="https://theclaudyssey.com/api/">theclaudyssey.com/api/</a>.</p>
+
+</div>
+<div class="band"></div>
+<footer><a href="../read/index.html">Contents</a> · <a href="../">About</a></footer>
+</body>
+</html>

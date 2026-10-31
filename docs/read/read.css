@@ -1,0 +1,217 @@
+:root{
+  --red:#5a1a14; --red-deep:#24090a; --chalk:#efe6d2; --ochre:#d6a64a;
+  --ink:#f3dfb0;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+html,body{margin:0}
+body{
+  background:
+    radial-gradient(ellipse at 50% 38%, rgba(0,0,0,0) 55%, rgba(10,3,3,.55) 100%),
+    linear-gradient(#5a1a14, #3e1210 55%, #24090a);
+  background-attachment:fixed;
+  color:var(--chalk);
+  font-family:"Palatino Linotype","Book Antiqua",Palatino,Georgia,serif;
+  line-height:1.55; min-height:100vh;
+}
+a{color:var(--ochre)}
+.wrap{max-width:680px; margin:0 auto; padding:0 22px}
+
+/* the running scroll of a Second-Style frieze */
+.band{height:26px; background-repeat:repeat-x; background-size:auto 26px;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='26'><g fill='none' stroke='%23efe6d2' stroke-width='2.2'><path d='M0 3 H40'/><path d='M0 23 H40'/><path d='M0 18 C8 18 10 8 20 8 S32 18 40 18'/><path d='M20 8 c-4 0 -6 3 -6 5 s3 4 5 3'/></g></svg>");
+  opacity:.8; margin:14px 0 0}
+
+.site{text-align:center; margin:18px 0 0; font-size:.8rem;
+  letter-spacing:.14em; text-transform:uppercase}
+.site a{color:var(--chalk); opacity:.75; text-decoration:none}
+.site a:hover{opacity:1; color:var(--ochre)}
+
+.booknav{display:flex; justify-content:space-between; gap:12px;
+  margin:20px 0 0; font-size:.92rem}
+.booknav.bottom{margin:34px 0 8px; border-top:1px solid rgba(214,166,74,.3);
+  padding-top:16px}
+.booknav a{text-decoration:none}
+.booknav a:hover{text-decoration:underline}
+.booknav span{min-width:70px}
+.booknav .mid{min-width:0}
+
+.bookhead{text-align:center; margin:26px 0 30px}
+.bookhead h1{font-weight:normal; letter-spacing:.12em; font-size:2.1rem;
+  margin:0 0 .15em}
+.argument{font-style:italic; opacity:.85; margin:0}
+
+.listen{margin:-14px 0 24px; padding:10px 14px 8px; text-align:center;
+  background:rgba(0,0,0,.18); border:1px solid rgba(239,230,210,.12);
+  border-radius:6px}
+.listen audio{width:100%; max-width:520px; display:block; margin:0 auto;
+  color-scheme:dark}
+.listen figcaption{font-size:.8rem; opacity:.75; margin-top:6px;
+  letter-spacing:.04em}
+.listen figcaption a{text-decoration:none}
+.listen + .tnote{margin-top:0}
+.toc .mins{font-style:normal; font-size:.78em; color:var(--ochre);
+  opacity:.8; white-space:nowrap; margin-left:.4em}
+
+.tnote{margin:-10px 0 28px; padding:0 14px; font-size:.92rem;
+  background:rgba(214,166,74,.06); border:1px solid rgba(214,166,74,.25);
+  border-radius:6px}
+.tnote summary{cursor:pointer; padding:9px 0; color:var(--ochre);
+  font-variant:small-caps; letter-spacing:.06em; list-style-position:inside}
+.tnote summary:hover{text-decoration:underline}
+.tnote[open] summary{border-bottom:1px solid rgba(214,166,74,.2);
+  margin-bottom:6px}
+.tnote p{margin:0 0 .8em; opacity:.92}
+.tnote p:last-child{padding-bottom:6px}
+.mg-key{font-size:.82rem; opacity:.75; margin:-14px 0 22px; font-style:italic}
+
+/* the illustrations, at their passages */
+.art{margin:14px 0 26px -2.6rem; text-align:center}
+.art img{width:100%; height:auto; border-radius:3px;
+  box-shadow:0 10px 34px rgba(0,0,0,.45); border:1px solid rgba(214,166,74,.3)}
+.art figcaption{font-size:.82rem; opacity:.8; margin-top:8px; font-style:italic}
+.art figcaption .cite{font-style:normal; margin-left:.4em}
+
+.verse{padding-left:2.6rem}
+.stanza{margin:0 0 1.15em}
+.v{margin:0; position:relative; padding-left:1.4em; text-indent:-1.4em}
+.lacuna{margin:.3em 0; padding-left:1.4em; font-style:italic; opacity:.5;
+  font-size:.9em; letter-spacing:.1em}
+.ln{position:absolute; left:-3.4rem; top:.32em; width:2.6rem;
+  text-align:right; font-size:.72em; color:var(--ochre); opacity:.55;
+  text-decoration:none; text-indent:0}
+.ln:hover{opacity:1}
+.ln.ghost{opacity:0}
+.v:hover .ln.ghost{opacity:.55}
+.v:hover .ln.ghost:hover{opacity:1}
+@media (hover:none){.ln.ghost{display:none}}
+.copied{position:absolute; z-index:9; transform:translateY(-130%);
+  font-size:.7rem; font-variant:small-caps; letter-spacing:.08em;
+  color:var(--ochre); background:rgba(36,9,10,.95);
+  border:1px solid rgba(214,166,74,.5); border-radius:10px;
+  padding:2px 9px; pointer-events:none; white-space:nowrap}
+.v:target, .note:target, .mentry:target, tr:target{background:rgba(214,166,74,.14);
+  border-radius:3px}
+.fnref{text-decoration:none; padding:0 .08em}
+.fnref sup{font-size:.68em}
+
+/* ---- Machiavelli's margin, beside the line ----
+   Folded under the line as an aside by default; set out in the right
+   margin where the window is wide enough to hold a 15em column there. */
+.mgs{display:block; text-indent:0; margin:.15em 0 .5em 0; font-size:.8rem;
+  line-height:1.3; color:var(--ink); opacity:.9}
+.mg{display:block; margin:0 0 .3em; padding-left:.9em;
+  border-left:2px solid rgba(214,166,74,.45)}
+.mg-lat{font-style:italic; text-decoration:none; color:var(--ink)}
+.mg-lat:hover{text-decoration:underline}
+.mg-lat[lang=grc]{font-style:normal}
+.mg-glyph{text-decoration:none; color:var(--ochre); font-size:1.1em;
+  margin-right:.5em}
+.mg-en{display:block; opacity:.8; font-size:.95em}
+.mg-fol{display:inline-block; font-size:.85em; letter-spacing:.04em;
+  text-decoration:none; opacity:.75; font-variant:small-caps}
+.mg-fol:hover{opacity:1; text-decoration:underline}
+.mg-mark .mg-fol, .mg-manicule .mg-fol{display:inline}
+@media (min-width:1200px){
+  .wrap.margined{margin-left:max(22px, calc(50% - 460px))}
+  .mgs{position:absolute; left:calc(100% + 1.4rem); top:.1em; width:15em;
+    margin:0}
+  .mg{border-left:0; padding-left:0; margin:0 0 .45em}
+  .mg-glyph{font-size:1.25em}
+}
+
+.notes{margin-top:40px; border-top:1px solid rgba(214,166,74,.3);
+  padding-top:6px}
+.notes h2{font-weight:normal; font-variant:small-caps; letter-spacing:.06em;
+  color:var(--ochre); font-size:1.25rem}
+.note{font-size:.92rem; opacity:.92; margin:0 0 .85em;
+  padding-left:1.6em; text-indent:-1.6em}
+.nnum{color:var(--ochre); font-size:.8em; vertical-align:.25em}
+.nline{font-variant:small-caps; text-decoration:none; white-space:nowrap}
+.nline:hover{text-decoration:underline}
+.back{text-decoration:none}
+.cite{text-decoration:none; white-space:nowrap}
+.cite:hover{text-decoration:underline}
+
+.prose p{margin:0 0 1em}
+.prose h2, .mbook h2{font-weight:normal; font-variant:small-caps;
+  letter-spacing:.06em; color:var(--ochre); font-size:1.3rem;
+  margin:36px 0 12px; border-bottom:1px solid rgba(214,166,74,.3);
+  padding-bottom:4px}
+
+.toc{list-style:none; margin:0; padding:0}
+.toc li{margin:0 0 2px}
+.toc a{display:flex; gap:14px; align-items:baseline; padding:9px 12px;
+  text-decoration:none; color:var(--chalk); border-radius:5px;
+  border:1px solid transparent}
+.toc a:hover{background:rgba(214,166,74,.1); border-color:rgba(214,166,74,.35)}
+.toc b{color:var(--ochre); font-weight:normal; letter-spacing:.06em;
+  white-space:nowrap; min-width:5.4em}
+.toc span{font-style:italic; opacity:.85; font-size:.95rem}
+
+.apparatus{margin:14px 0 8px; padding:12px 14px; font-size:.95rem;
+  background:rgba(214,166,74,.07); border:1px solid rgba(214,166,74,.3);
+  border-radius:6px}
+.toc + .apparatus{margin-top:26px}
+
+/* ---- the margin page ---- */
+.mbook h3{font-weight:normal; font-size:1.05rem; color:var(--ochre);
+  margin:22px 0 10px; letter-spacing:.04em}
+.mbook h3 .count{opacity:.6; font-size:.85em; margin-left:.4em}
+.mentry{font-size:.92rem; margin:0 0 14px; padding:6px 10px;
+  border-left:2px solid rgba(214,166,74,.35); scroll-margin-top:20px}
+.mline{font-variant:small-caps; letter-spacing:.03em}
+.mkind{opacity:.7; font-size:.85em; text-transform:uppercase;
+  letter-spacing:.08em}
+.mlat{font-style:italic; color:var(--ink)}
+.mlat[lang=grc]{font-style:normal}
+.mglyph{color:var(--ochre); font-size:1.15em; margin-right:.3em}
+.men{opacity:.92}
+.mdipl{font-size:.85em; opacity:.7}
+.mrem{font-size:.85em; opacity:.7}
+.fol{text-decoration:none; font-variant:small-caps; letter-spacing:.03em}
+.fol:hover{text-decoration:underline}
+table.copy{border-collapse:collapse; width:100%; font-size:.82rem;
+  margin:0 0 14px}
+table.copy th{font-weight:normal; text-align:left; color:var(--ochre);
+  font-variant:small-caps; letter-spacing:.05em; padding:4px 6px;
+  border-bottom:1px solid rgba(214,166,74,.35)}
+table.copy td{vertical-align:top; padding:5px 6px;
+  border-bottom:1px solid rgba(239,230,210,.1); scroll-margin-top:20px}
+table.copy td.mline{white-space:nowrap}
+table.copy td.mkind{white-space:nowrap; font-size:.8em}
+@media (min-width:1200px){
+  .wrap.margined .mbook{margin-right:-18em}
+}
+
+footer{text-align:center; font-size:.8rem; opacity:.7; padding:20px 0 40px}
+
+/* ---- site search (Pagefind default UI, re-themed) ---- */
+#search{margin:6px 0 22px;
+  --pagefind-ui-scale:.9;
+  --pagefind-ui-primary:var(--ochre);
+  --pagefind-ui-text:var(--chalk);
+  --pagefind-ui-background:rgba(0,0,0,.25);
+  --pagefind-ui-border:rgba(214,166,74,.45);
+  --pagefind-ui-tag:rgba(214,166,74,.18);
+  --pagefind-ui-border-width:1px;
+  --pagefind-ui-border-radius:5px;
+  --pagefind-ui-font:inherit}
+#search .pagefind-ui__search-input{color:var(--chalk)}
+#search .pagefind-ui__search-input::placeholder{color:var(--chalk); opacity:.55}
+#search .pagefind-ui__result{border-color:rgba(214,166,74,.25)}
+#search .pagefind-ui__result-link{color:var(--ochre)}
+#search .pagefind-ui__result-excerpt{color:var(--chalk); opacity:.9}
+#search mark{background:rgba(214,166,74,.4); color:inherit; border-radius:2px}
+#search .pagefind-ui__button{background:rgba(214,166,74,.1); color:var(--ochre);
+  border:1px solid rgba(214,166,74,.45)}
+#search .pagefind-ui__message{color:var(--chalk); opacity:.8}
+
+@media (max-width:560px){
+  .wrap{padding:0 14px}
+  .verse{padding-left:2.1rem}
+  .art{margin-left:-2.1rem}
+  .ln{left:-2.6rem; width:2rem}
+  .toc b{min-width:4.6em}
+  table.copy{font-size:.76rem}
+}

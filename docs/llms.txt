@@ -1,0 +1,45 @@
+# De Rerum Natura — On the Nature of Things
+
+> A complete line-for-line English translation of Lucretius, De Rerum
+> Natura: all 7,412 lines, one English line per Latin line on the
+> standard Munro/Bailey numbering, translated by a language model (Claude)
+> from the Latin and human-edited, with 465 notes and a layer
+> recording the 229 marks and notes Niccolò Machiavelli wrote in his
+> own manuscript copy of the poem (Vatican MS Ross. 884). The English
+> translation is public domain (CC0 1.0); the notes, the translator's
+> commentary and the margin transcription are CC BY 4.0; the Latin is the
+> Perseus Digital Library's text (public domain).
+
+Cite passages as book.line (e.g. 2.216). Every verse of the reading
+edition has a stable anchor: /read/book-02.html#L216.
+
+## Machine-readable layer
+
+- [manifest.json](https://de-rerum-natura.example/api/manifest.json): describes every file below,
+  with per-book URLs, line counts, and licensing
+- [aligned-01.jsonl … aligned-06.jsonl](https://de-rerum-natura.example/api/aligned-02.jsonl): the
+  Latin-English parallel corpus, one JSON object per verse line
+  ({book, line, key, latin, en})
+- [book-01.txt … book-06.txt](https://de-rerum-natura.example/api/book-02.txt): full translation
+  source per book: argument, translator's commentary, verse, and the
+  line-keyed notes
+- [marginalia.json](https://de-rerum-natura.example/api/marginalia.json): Machiavelli's marginalia,
+  every entry with its folio link
+- [About the API](https://de-rerum-natura.example/api/): formats, examples, licensing detail
+
+## Reading edition
+
+- [Contents](https://de-rerum-natura.example/read/index.html): all six books, one page each
+- [Machiavelli's margin](https://de-rerum-natura.example/read/margin.html): the introduction, the
+  reading marks, and the state of the copy
+- [About](https://de-rerum-natura.example/)
+
+## Companions
+
+- [The Iliad](https://wrath-sing-goddess.com/) and
+  [The Odyssey](https://theclaudyssey.com/): the same project's
+  line-for-line Homer, each with its own machine-readable layer
+
+## Source
+
+- [Repository](https://github.com/spinchange/lucretius): full revision history, Latin source, build tools

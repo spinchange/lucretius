@@ -1,0 +1,6 @@
+# Everything here is meant to be read, by people and by machines.
+# Machine-readable layer (JSONL parallel corpus, the marginalia as JSON):
+#   https://de-rerum-natura.example/api/manifest.json
+User-agent: *
+Allow: /
+Sitemap: https://de-rerum-natura.example/sitemap.xml
