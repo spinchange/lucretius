@@ -1,0 +1,44 @@
+ANALYSIS
+
+**1-8.** Latin: Athenae (subj.) dididerunt fetus mortalibus; recreaverunt vitam; leges rogarunt; primae dederunt solacia; cum genuere virum repertum (subj. Athenae); qui [vir] profudit omnia; gloria cuius et extincti [even though dead] fertur. English: the harvests were given out by Athens (a passive recast with the agent kept); she renewed life, enacted laws, gave consolations; when she bore a man; who poured out; whose glory, though he is extinguished, is carried up. MATCH.
+
+**9-23.** Latin: cum vidit hic: omnia esse parata; vitam consistere tutam; homines potentis affluere, excellere fama; nec minus anxia esse cordi cuiquam; [corda] vexare vitam animi ingratis, cogi saevire; intellegit: vas efficere vitium; omnia corrumpier intus, quae conlata foris venirent; quod fluxum esse videbat, ut posset nulla ratione explerier; quod conspurcare cernebat omnia quae receperat. English: the same clauses, with the same subjects and negations; "however good" renders commoda cumque. MATCH.
+
+**24-34.** Latin: purgavit, statuit finem, exposuit bonum summum quid foret; monstravit viam qua possemus contendere; quidve mali foret, quod fieret volaretque seu casu seu vi naturali, quod natura parasset; quibus e portis occurri deceret (impersonal passive); probavit genus humanum volvere fluctus tristis (acc. pl. with fluctus). English: the same, including "by natural chance or force" and "it was fitting to go out to meet". MATCH.
+
+**35-38.** Refrain 2.55-58 (trepidant, metuunt; timemus; quae pavitant finguntque futura). English verbatim. MATCH.
+
+**39-42.** Refrain 1.146-148; quo magis pergam pertexere. English: the same. MATCH.
+
+**43-47.** Latin: quoniam docui: templa mortalia esse; caelum consistere nativo corpore; quae fiunt fierique necessest, pleraque dissolui; percipe qui restant; quandoquidem conscendere currum [lacuna]. English: the same. MATCH.
+
+**48-51.** Latin: tu praemonstra mihi currenti spatium ad candida praescripta supremae callis; te duce ut capiam coronam. English: the same. MATCH.
+
+**52-53.** A fragment: existant; placentur ut omnia; quae fuerint, sint conversa, abl. abs. placato furore. English: the same. MATCH.
+
+**54-61.** Latin: cetera quae fieri tuentur mortales, cum pendent mentibus pavidis, faciunt animos humilis and premunt ad terram, quod ignorantia cogit conferre res ad imperium deorum and concedere regnum; quorum operum causas nulla ratione [in no way] videre possunt; rentur fieri numine. English: the same, except "by no reasoning can see". DIFF: nulla ratione is adverbial ("in no way"), not the faculty of reasoning; the line is also not the fixed refrain.
+
+**62-71.** Latin: qui didicere deos agere aevom securum, si mirantur qua ratione quaeque geri possint, referuntur in religionis, adsciscunt dominos acris, quos credunt omnia posse, ignari quid queat... qua ratione finita potestas sit; quo magis errantes feruntur caeca ratione. English: the same. MATCH.
+
+**72-82.** Latin: nisi respuis... remittis putare indigna dis, numina delibata per te oberunt; non quo vis deum violari possit ut inbibat petere poenas (subj. vis); sed quia tute constitues quietos volvere fluctus irarum; nec adibis delubra placido pectore; nec simulacra quae feruntur de corpore sancto in mentes, nuntia formae, suscipere valebis tranquilla pace. English: the same. MATCH.
+
+**83.** Latin: licet videre qualis vita sequatur. English: "can see what kind of life must follow". MATCH (a slight modal colouring).
+
+**84-93.** Latin: ut ratio verissima reiciat [vitam] longe; quamquam multa profecta, multa restant, sunt ornanda; ratio caeli ignisque tenenda; tempestates, fulmina canenda; quid faciant, qua de causa ferantur; ne trepides amens, abl. abs. caeli divisis partibus [the parts of heaven having been divided], with indirect questions dependent on trepides: unde ignis pervenerit, in utram se verterit, quo pacto insinuarit, ut extulerit se. English: "dividing heaven into parts" makes "you" the one who divides; "asking" is supplied; the tenses of the indirect questions are kept as simple pasts. DIFF: the ablative absolute is turned into the addressee's own act, and "asking" is added.
+
+**94-95.** The same refrain as 60-61. English: the same as 60-61. DIFF, as at 60.
+
+**96-98.** Latin: quatiuntur caerula tonitru, quia concurrunt nubes volantes, abl. abs. ventis pugnantibus contra. English: the same. MATCH.
+
+**99-101.** Latin: nec fit sonitus de parte serena; verum ubi magis denso agmine sunt nubes, tam magis fit fremitus. English: the same. MATCH.
+
+**102-107.** Latin: neque tam condenso corpore esse queunt quam lapides; neque tam tenues quam nebulae; nam cadere deberent pressae; aut constare nequirent nec cohibere nives. English: the same. MATCH.
+
+**108-115.** Latin: dant [nubes] sonitum super aequora mundi, ut carbasus dat crepitum iactata, perscissa furit, sonitus chartarum commeditatur; id genus cognoscere possis; aut ubi [venti] versant planguntque vestem chartasque verberibus. English: the same, with the last clause put in the passive. MATCH.
+
+**116-120.** Latin: fit ut nubes non tam concurrere possint quam de latere ire radentes corpora tractim; unde sonus terget auris, ducitur, donec exierunt regionibus artis. English: the same. MATCH.
+
+FINDINGS
+6.60	LEXICAL	MINOR	0.60	"nulla ratione videre possunt" means "they can in no way see", but the English "they by no reasoning can see" reads ratio as the reasoning faculty and departs from the fixed refrain of 1.153-154; the same applies at 6.94. Fix: "The causes of whose workings they can in no way see,"
+6.90	GRAMMAR	MINOR	0.50	The ablative absolute "caeli divisis partibus" ("when heaven's parts have been divided") becomes the addressee's own act in "dividing heaven into parts". Fix: "so that you do not tremble, out of your wits, at heaven's quarters marked out,"
+6.91	ADDITION	MINOR	0.50	The indirect questions "unde... pervenerit" depend directly on "ne trepides", and "asking" has no Latin behind it; the register also fixes 6.91-93 = 6.383-385, and the English of 6.91-93 differs from that text. Fix: "from what quarter the flying fire has come, or into which half"

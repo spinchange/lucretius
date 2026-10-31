@@ -30,7 +30,7 @@ Local repo only, no remote.
   9-16 syllables (median about 13), one English line per Latin line, every
   key kept, lacunae printed as `[lacuna]` and never supplied, source order
   kept for transposed and lettered lines.
-- Latin is the Perseus TEI text (Bailey OCT orthography and numbering).
+- Latin is the Perseus TEI text (standard Munro/Bailey numbering; its orthography and some readings follow Munro rather than Bailey's OCT, see latin/SOURCE.md).
   Collate against a 1922 OCT scan before publication; not yet done.
 - Credits: "From the Latin of Lucretius. Translated by Claude (Fable 5.1),
   with segment drafts by Claude Opus and checks by Claude Sonnet. Edited and
@@ -272,9 +272,10 @@ rendering. The verse wording was not touched.
 
 ### Lines to fix after the audio builds
 
-Do not change these while Books 3-6 are rendering from the pinned narration
-sources; fix them in the review files, reassemble, regenerate the narration
-source, and re-render the affected chunk afterwards.
+All six audio builds are done (see "Audiobook" below), so this gate is
+open. Fix them in the review files as part of the second-round read of each
+book, reassemble, regenerate the narration source, and re-render the
+affected chunks in one batch per book.
 
 - 1.170 and 1.179: the English has "the shining shores of light" where the
   Latin (oras in luminis exit; in luminis oras) lacks dias. The register's

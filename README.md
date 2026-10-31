@@ -13,8 +13,9 @@ Odyssey ([theclaudyssey.com](https://theclaudyssey.com/)) and Apology.
 
 ## Source text
 
-The Latin is the Perseus Digital Library's text, whose orthography and line
-numbering follow Cyril Bailey's Oxford Classical Text (public domain). See
+The Latin is the Perseus Digital Library's text, which keeps the standard
+Munro/Bailey line numbering; its orthography and some of its readings follow
+Munro rather than Bailey's Oxford Classical Text (both public domain). See
 `latin/SOURCE.md` for the extraction, the lacunae, and the transposed and
 lettered lines. 7,412 numbered lines in six books.
 

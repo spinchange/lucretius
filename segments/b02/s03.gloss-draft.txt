@@ -1,0 +1,164 @@
+ANALYSIS
+
+**469-470**
+- Latin: (sc. necessust) esse globosa [inf., subj. haec/corpora]; concessive cum squalida constent [pres. subj., pl.]; purpose ut possint [pres. subj.] provolvi simul et laedere sensus. Simul pairs with et: "at once roll and hurt".
+- English: they need only be round; though they are made up rough; so that they can roll forward together and yet hurt the senses.
+- DIFF: "simul" is read as "together" (rolling with one another) instead of "at the same time" with the et-clause.
+
+**471-477**
+- Latin: purpose quo putes magis [subj.] (aspera mixta esse levibus principiis); relative unde est Neptuni corpus acerbum [acerbum is predicate: "from which the sea's body is bitter"]; main est ratio secernendi seorsumque videndi; temporal ubi umor dulcis idem percolatur crebrius per terras; result ut fluat in foveam ac mansuescat; enim linquit [3 sg., subj. umor] supera primordia taetri viri; quo magis possint aspera haerescere in terris.
+- English: that you may believe the more that rough are mixed with smooth beginnings; of which the bitter body of Neptune consists [acerbum made attributive, "consists" added]; there is a way…; the moisture grows sweet when filtered…; so that it flows… grows mild; for it leaves behind…; since, being rough, they can cling the more.
+- DIFF at 472: the causal "whence the sea is bitter" becomes "of which the sea consists".
+
+**478-480**
+- Latin: quoniam docui; pergam conectere rem; quae ex hoc apta fidem ducat [subj.]; (rem =) primordia variare finita figurarum ratione [inf.].
+- English: same structure, with "draws its credit, fitted to it, from this".
+- MATCH. The attachment of ex hoc is defensible. Note the wording differs from the register's fixed 2.478-479 text ("which, fitted to this, draws its credit:"). That is a register matter, not a fidelity one.
+
+**481-482**
+- Latin: quod si non ita sit [pres. subj.]; semina quaedam debebunt [fut.] esse infinito corporis auctu.
+- English: if it were not so; certain seeds will have to be infinite in growth of body.
+- MATCH.
+
+**483-485 (to possunt)**
+- Latin: namque figurae non possunt [pres. ind. pl., negated] variare multum inter se in eadem una brevitate cuiusvis corporis. Non possunt stands in 485 only.
+- English: 484 "the shapes cannot vary much from one another;" and 485 "they cannot."
+- DIFF: the negated verb appears twice. 484 anticipates it, and 485 repeats it with no second Latin verb behind it.
+
+**485-486**
+- Latin: fac [imper.] corpora prima esse e tribus minimis partibus; vel auge [imper.] paulo pluribus.
+- English: suppose the first bodies are made of three least parts; or add a few more.
+- MATCH.
+
+**487-492 (to erit)**
+- Latin: ubi expertus eris [fut. pf., 2 sg.], with participles locans and transmutans governing omnis partis (summa atque ima; dextera laevis); indirect question quam speciem formai quisque ordo det [subj.] totius corporis eius; quod super est; si voles variare figuras; addendum erit partis alias [gerundive, impersonal].
+- English: when you have set… changed… tried…; what appearance each order gives…; for the rest, if you want to vary…, other parts will have to be added.
+- MATCH. The participles become finite verbs, but the sense is kept.
+
+**492-494**
+- Latin: inde sequetur ut ordo postulet [subj.] alias adsimili ratione; si voles etiam variare.
+- English: it will follow that, on a like principle, the order will call for others, if you want to vary still further.
+- MATCH.
+
+**495-496**
+- Latin: ergo augmen corporis subsequitur [3 sg.] novitatem formarum.
+- English: growth of body follows upon newness of forms close behind.
+- MATCH.
+
+**496-499**
+- Latin: non est ut possis credere semina esse distantia infinitis formis; ne cogas [subj.] quaedam esse inmani maximitate; quod iam docui non posse probari.
+- English: same.
+- MATCH.
+
+**500-507**
+- Latin: iam tibi [ethic dative] vestes, purpura and saecla pavonum iacerent [impf. subj.] superata novo rerum colore; odor smyrnae (iaceret) contemptus, et mellis sapores; mele et carmina silerent [impf. subj.] oppressa consimili ratione; namque aliud aliis praestantius exoreretur [impf. subj.].
+- English: Then robes…, purple…, race of peacocks would lie outdone…; smell would be scorned…; notes and strains would fall silent…; for one thing would always rise more excellent.
+- DIFF: tibi is omitted. "in like manner" for consimili ratione is a register matter.
+
+**508-511**
+- Latin: item omnia possent [impf. subj.] cedere retro in deteriores partis sic, ut diximus in melioris; namque aliud aliis retro quoque taetrius esset naribus, auribus, oculis, oris sapori.
+- English: same.
+- MATCH.
+
+**512-514**
+- Latin: quoniam quae non sunt; sed finis certa, reddita rebus, tenet summam utrimque; necessest fateare [subj.] materiem quoque differre finitis figuris.
+- English: same.
+- MATCH.
+
+**515-516**
+- Latin: (impersonal) finitumst ab ignibus ad pruinas; retroque remensumst pari ratione.
+- English: the way is bounded, and measured back in equal measure.
+- MATCH. "in equal measure" for pari ratione is a register matter.
+
+**517-518**
+- Latin: enim calor ac frigus mediique tepores iacent interutrasque explentes ordine summam.
+- English: same.
+- MATCH.
+
+**519-521**
+- Latin: ergo creata distant finita ratione; quoniam notantur [pass. pl.] ancipiti mucroni utrimque; infesta [agreeing with creata] hinc flammis, illinc pruinis.
+- English: same.
+- MATCH.
+
+**522-528**
+- Latin: refrain; then primordia, quae sunt perfecta simili figura inter se, cluere infinita; etenim cum distantia formarum sit finita; necesse est quae similes sint esse infinitas, aut summam materiai constare finitam; id quod probavi non esse.
+- English: same.
+- MATCH.
+
+**529-531**
+- Latin: ostendam [fut.] corpuscula materiai tenere summam rerum ex infinito usque, undique, protelo plagarum continuato [abl. abs./instr.].
+- English: same.
+- MATCH.
+
+**532-535**
+- Latin: nam quod vides animalia quaedam esse rara magis; et cernis naturam fecundam magis in illis [illis most naturally = the animalia quaedam]; at licet multa esse in eo genere alio loco; numerumque repleri.
+- English: …discerning in those others a nature more fruitful…
+- DIFF: "others" is added, which shifts the referent of illis. The note discloses the crux, but the verse itself asserts it.
+
+**536-540**
+- Latin: sicut videmus elephantos esse cum primis in genere quadripedum; quorum milibus India munitur vallo eburno; ut nequeat penetrari penitus; tanta est vis ferarum [vis = multitude]; quarum perpauca exempla videmus.
+- English: …so great is the force of these beasts, of which we see very few examples.
+- DIFF: here vis is a quantity, and "force" makes the point their strength, not their numbers.
+
+**541-546**
+- Latin: ut concedam id quoque; esto [imper.] res unica quam lubet, sola nativo corpore; cui similis non sit [subj.] in toto orbi terrarum; nisi vis materiai erit infinita; unde ea possit progigni concepta; non poterit [fut.] creari neque procrescere alique.
+- English: same, but "could not" stands for the future poterit.
+- MATCH. The tense shift is within tolerance.
+
+**547-550**
+- Latin: sumant [jussive] alii finita genitalia corpora unius rei iactari per omne; unde, ubi, qua vi, quo pacto congressa coibunt [fut.] in tanto pelago materiae turbaque aliena?
+- English: same.
+- MATCH.
+
+**551**
+- Latin: non habent rationem conciliandi.
+- English: same.
+- MATCH.
+
+**552-560**
+- Latin: quasi, naufragiis coortis [abl. abs.], magnum mare solet disiactare transtra… tonsas natantis; ut aplustra fluitantia videantur per oras; et indicium edant mortalibus; ut velint vitare insidias, viris, dolum; neve credant ullo tempore; cum pellacia ridet.
+- English: same.
+- MATCH.
+
+**560-564**
+- Latin: sic si tu constitues [fut.] primordia quaedam finita; aestus diversi materiai [subject] debebunt disiectare (ea) sparsa per omnem aevom; ut numquam possint compulsa coire in concilium, nec remorari, nec crescere adaucta.
+- English: the clause is made passive ("they will have to be scattered… and tossed apart by the conflicting tides").
+- MATCH. The agent is kept with "by".
+
+**565-566**
+- Latin: res manifesta docet utrumque fieri palam; res progigni et genitas procrescere posse.
+- English: same.
+- MATCH.
+
+**567-568**
+- Latin: igitur palam est primordia esse infinita in quovis genere; unde omnia suppeditantur.
+- English: same.
+- MATCH.
+
+**569-572**
+- Latin: itaque nec queunt motus exitiales superare perpetuo, neque sepelire salutem in aeternum; nec possunt motus genitales auctificique servare creata perpetuo.
+- English: same.
+- MATCH.
+
+**573-574**
+- Latin: sic bellum, contractum ex infinito tempore, geritur [pres. pass.] aequo certamine principiorum.
+- English: same.
+- MATCH.
+
+**575-577**
+- Latin: superant vitalia rerum nunc hic nunc illic, et superantur item; vagor miscetur funere; quem pueri visentis [nom. pl.] luminis oras tollunt.
+- English: same.
+- MATCH.
+
+**578-580**
+- Latin: nec ulla nox diem, neque aurora noctem secutast; quae non audierit ploratus mixtos vagitibus aegris, comites mortis et funeris atri.
+- English: same.
+- MATCH.
+
+FINDINGS
+485	LINEATION	MINOR	0.75	"non possunt" stands only in 485, but the English puts "cannot" in 484 and repeats it in 485 as "they cannot.", doubling the verb; recast 484 as "body, the shapes among themselves to any great degree" and 485 as "cannot vary. For suppose that of least parts, three of them,"
+540	LEXICAL	MODERATE	0.65	In "tanta ferarum vis est" the word vis means multitude, as the argument about numbers and "perpauca exempla" requires (compare 544, where vis materiai is already "store"), but the English makes it "force", a claim about the beasts' strength; "of these beasts, so great is their number, of which we see very few examples."
+472	MISTRANSLATION	MODERATE	0.60	"unde est Neptuni corpus acerbum" says the rough beginnings are what make the sea bitter (acerbum is predicate), but the English makes it "of which the bitter body of Neptune consists"; "beginnings, from which the body of Neptune is made bitter,"
+533	ADDITION	MODERATE	0.50	"in illis" most naturally refers back to "animalia quaedam", but the English adds "those others", so the verse asserts a different referent with nothing in the Latin behind it (the note discloses the crux); "and discerning in them a nature more fruitful,"
+500	OMISSION	MINOR	0.50	The ethic dative "iam tibi" (kept by the register's second-person rule) is dropped, leaving only "Then"; "Then for you barbarian robes and the gleaming Meliboean purple,"
+470	AMBIGUITY	MINOR	0.50	"simul ut possint provolvi… et laedere" means they can at the same time roll and hurt, but "roll forward together" reads as the bodies rolling with one another; "so that they can at once roll forward and hurt the senses."

@@ -1,0 +1,78 @@
+ANALYSIS
+
+1192-1194: Latin: subject mulier; suspirat (pres. ind. act. sg.), negated by Nec, with semper inside the negation; ficto modifies amore. Relative quae (= mulier) governs iungit and tenet (pres. ind. sg.); conplexa modifies quae; umectans modifies the subject, object oscula; adsuctis modifies labris. English: woman, does not always sigh, feigned love; when she joins and holds, embracing, wetting kisses with sucking lips. MATCH.
+
+1195-1196: Latin: subject (she); facit (pres. ind.) ex animo saepe; quaerens takes communia gaudia; sollicitat (pres. ind.) with infinitive decurrere, object spatium amoris. English: she does it from the heart; seeking joys in common; urges him to run the course of love. MATCH.
+
+1197-1200: Latin: volucres armenta feraeque pecudes equae; possent (impf. subj. pl.) subsidere maribus, negated by nec ratione alia. Condition si non: natura ardet abundans et retractat (pres. ind.), object Venerem salientum; laeta modifies natura. Causal quod: ipsa natura illarum subat. English: could not in any other way submit, were it not that their nature, in heat, burns and gladly answers the mounting males' Venus. MATCH.
+
+1201-1205: Latin: nonne vides; indirect ut excrucientur (pres. subj. pass. pl.); subject quos, whom voluptas vinxit (perf.). cum clause: canes tendunt (pres.); aventis modifies canes. quom clause: haerent (pres.). English: do you not see how those whom pleasure has bound are tortured; when dogs longing to part strain; while they stick fast. MATCH.
+
+1206-1207: Latin: facerent numquam (impf. subj.), condition nisi nossent (plpf. subj.), object gaudia. Relative quae (= gaudia) possent iacere, tenere. English: would never do, unless they knew joys that could throw and hold. MATCH.
+
+1208: Latin: est communis voluptas; quare; etiam atque etiam. English: therefore again and again the pleasure is common. MATCH.
+
+1209-1212a: Latin: quom clause: femina vicit (perf.) vim virilem subita vi, and corripuit; tum (the offspring) fiunt similes matrum materno semine, ut patribus patrio. English: when the woman has overcome and seized; then children are made like mothers by the mother's seed, as like fathers by the father's. MATCH.
+
+1212b-1217: Latin: those whom you see to be of both forms, miscentes vulta; crescunt (pres.) de corpore patrio et materno sanguine. cum clause: ardor conflixit (perf. sg.); object semina; excita and obvia modify semina; conspirans modifies ardor. neque superavit nec superatumst. English: those you see to be of both forms grow; when ardor has dashed the seeds against each other; neither overcame nor was overcome. MATCH.
+
+1218-1222: Latin: fit ut possint existere similes avorum et referant figuras proavorum. Causal quia: parentes celant (pres. pl.) primordia mixta in corpore. Relative quae (= primordia) patres tradunt patribus; profecta modifies quae. English: it happens that they can come out like grandfathers and bring back forms; because the parents hide first-beginnings; which fathers hand down to fathers, starting from the stock. MATCH (the participle placement is loose but the sense is kept).
+
+1223-1224: Latin: Venus producit figuras varia sorte, and refert voltus vocesque comasque maiorum. English: same. MATCH.
+
+1225-1226: Latin: quandoquidem haec fiunt de semine certo nihilo magis quam facies corpora membra. English: since these come from a fixed seed no less than our faces, bodies and limbs. MATCH (nihilo magis quam is "no more than"; here it asserts equality, which the English keeps).
+
+1227-1228: Latin: saeclum muliebre oritur de semine patrio; mares existunt creti corpore materno. English: same. MATCH.
+
+1229-1232: Latin: partus constat semper de duplici semine (enim); utri id quod creatur similest magis, eius habet plus parte aequa; possis cernere, sive suboles virum sive muliebris origo. English: same. MATCH.
+
+1233-1235: Latin: numina divina nec absterrent cuiquam satum genitalem; purpose/result ne appelletur pater a gnatis umquam, and ut exigat aevom sterili Venere. English: the divine powers do not debar anyone from sowing, so that he is never called father and lives out his life in a barren Venus. MATCH.
+
+1236-1238: Latin: quod plerumque putant; maesti conspergunt aras sanguine, adolent altaria donis; ut reddant uxores gravidas semine largo. English: same. MATCH.
+
+1239: Latin: ne quiquam fatigant numen divom sortisque. English: in vain they weary the power of the gods and the oracles. MATCH.
+
+1240-1241: Latin: steriles sunt partim crasso semine nimium, partim liquido tenuique praeter iustum. English: same. MATCH.
+
+1242-1243: Latin: tenve (subject); quia non potis est adfigere adhaesum; liquitur, and revocatum cedit abortu. English: same. MATCH.
+
+1244-1247: Latin: crassius, quoniam mittitur concretius aequo; aut non provolat tam prolixo ictu, aut nequit penetrare locos aeque, aut penetratum semen aegre admiscetur muliebri semine. English: same. MATCH.
+
+1248: Latin: harmoniae Veneris videntur differre multum. English: same. MATCH.
+
+1249-1250: Latin: alii complent alias magis; aliae succipiunt pondus ex aliis magis and gravescunt. English: same. MATCH.
+
+1251-1253: Latin: multae fuerunt steriles ante pluribus Hymenaeis, and nactae sunt post unde possent suscipere puellos and ditescere partu. English: same. MATCH.
+
+1254-1256: Latin: quibus uxores fecundae nequissent (plpf. subj.) saepe parere domi; inventast compar natura illis, ut possent munire senectam gnatis. English: same. MATCH.
+
+1257-1259: Latin: usque adeo refert ut semina possint commisceri seminibus genitaliter apta, and crassa conveniant liquidis and liquida crassis. English: same. MATCH.
+
+1260-1262: Latin: refert quo victu colatur vita; semina concrescunt membris aliis rebus, extenvantur tabentque aliis. English: same. MATCH.
+
+1263-1264a: Latin: quibus modis tractetur voluptas blanda, id permagni refert. English: same. MATCH.
+
+1264b-1267: Latin: putantur plerumque uxores concipere more ferarum, magis ritu quadrupedum; quia sic loca possunt sumere semina, pectoribus positis and lumbis sublatis (abl. abs.). English: wives are thought to conceive in the beasts' manner, more readily; because the places can take the seeds, breast low and loins raised. MATCH (magis taken with concipere is defensible).
+
+1268: Latin: nec opus sunt uxoribus hilum molles motus. English: same. MATCH.
+
+1269-1271: Latin: mulier prohibet se concipere and repugnat; si laeta retractat Venerem viri clunibus, and ciet fluctus exossato pectore. English: same. MATCH.
+
+1272-1273: Latin: eicit sulcum recta regione viaque vomeris; avertit ictum seminis locis. English: same. MATCH.
+
+1274-1276: Latin: scorta consuerunt moveri sua causa; ne complerentur and iacerent gravidae; ut Venus esset concinnior viris. English: same. MATCH.
+
+1277: Latin: quod videtur nil opus esse coniugibus nostris. English: same. MATCH.
+
+1278-1279: Latin: nec fit divinitus, Venerisque sagittis, ut muliercula deteriore forma ametur. English: same. MATCH.
+
+1280-1282: Latin: femina ipsa facit factis, moribus, corpore culto, ut insuescat te degere vitam secum. English: same. MATCH.
+
+1283: Latin: consuetudo concinnat amorem. English: habit fits love together. MATCH.
+
+1284-1285: Latin: quod tunditur crebro ictu quamvis leviter, vincitur and labascit in longo spatio. English: same. MATCH.
+
+1286-1287: Latin: nonne vides guttas umoris cadentis pertundere saxa. English: same. MATCH.
+
+FINDINGS
+NONE

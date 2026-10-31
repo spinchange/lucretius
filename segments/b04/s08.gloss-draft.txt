@@ -1,0 +1,199 @@
+ANALYSIS
+
+**1037-1038**
+- Latin: sollicitatur (pres. pass.) id semen in nobis, quod diximus ante; temporal clause cum primum adulta aetas roborat artus.
+- English: seed is stirred in us; as soon as ripening age first makes the limbs strong.
+- MATCH
+
+**1039-1040**
+- Latin: namque aliud (nom.) commovet atque lacessit alias res (acc.); una hominis vis ciet humanum semen ex homine.
+- English: different things move different things; only a human's power calls out human seed.
+- MATCH
+
+**1041-1044**
+- Latin: quod, simul atque eiectum suis sedibus exit, decedit corpore toto per membra atque artus, conveniens in loca certa nervorum, cietque continuo partis genitalis ipsas.
+- English: it withdraws from the whole body, gathering into fixed regions of "the nerves", and stirs the generative parts.
+- DIFF: nervi is rendered "nerves", which the register bars.
+
+**1045-1048**
+- Latin: loca inritata tument semine; fit voluntas eicere id quo se contendit dira lubido; [1047 incitat inritans…]; idque petit corpus, unde mens est saucia amore.
+- English: the places swell; the will arises to cast it out toward that on which lust is bent; it drives on; and it seeks that body.
+- MATCH (1047 is noted)
+
+**1049-1051**
+- Latin: omnes plerumque cadunt in vulnus; sanguis emicat in illam partem unde icimur ictu; si comminus est, ruber umor occupat hostem.
+- English: men fall toward the wound; blood spurts toward the quarter of the blow; if the foe is close, the red stream covers him.
+- MATCH
+
+**1052-1057**
+- Latin: qui accipit ictus telis Veneris, sive puer… hunc iaculatur seu mulier… iactans amorem, unde feritur, eo tendit gestitque coire et iacere umorem…; namque muta cupido praesagit voluptatem.
+- English: same structure, with the same agents.
+- MATCH
+
+**1058-1060**
+- Latin: haec Venus est nobis; hinc autem nomen Amoris; hinc gutta dulcedinis Veneris stillavit in cor, et frigida cura successit.
+- English: same structure, with autem unrendered.
+- MATCH (trivial)
+
+**1061-1062**
+- Latin: si abest quod ames, simulacra illius tamen praesto sunt, et nomen dulce obversatur ad auris.
+- English: same.
+- MATCH
+
+**1063-1067**
+- Latin: decet fugitare simulacra, absterrere pabula amoris sibi, convertere mentem alio, iacere umorem in corpora quaeque, nec retinere (umorem) conversum unius amore et servare sibi curam certumque dolorem. Both infinitives fall under nec, and the keeping of care is what is not to be done.
+- English: "and not hold it back… / and so lay up for yourself care and certain pain". The "so" clause can be read as a further thing it is "right" to do.
+- DIFF: the negation's scope over servare is blurred.
+
+**1068-1072**
+- Latin: ulcus vivescit et inveterascit alendo; furor gliscit, aerumna gravescit; condition: si non conturbes… cures… aut possis traducere motus animi.
+- English: same, with the negated condition "unless".
+- MATCH
+
+**1073-1074**
+- Latin: nec caret fructu Veneris is qui vitat amorem; sed sumit commoda sine poena.
+- English: same.
+- MATCH
+
+**1075-1078**
+- Latin: voluptas purior sanis quam miseris; etenim in tempore potiundi ardor amantum fluctuat; nec constat quid primum fruantur.
+- English: same.
+- MATCH
+
+**1079-1083**
+- Latin: quod petiere premunt arte, faciunt dolorem corporis, dentes inlidunt labellis, oscula adfigunt; because voluptas non est pura et stimuli subsunt qui instigant laedere id ipsum… unde germina rabies surgunt.
+- English: same.
+- MATCH
+
+**1084-1085**
+- Latin: Venus frangit poenas leviter; blanda voluptas admixta refrenat morsus.
+- English: same.
+- MATCH
+
+**1086-1087**
+- Latin: spes est (in eo) flammam restingui posse ab eodem corpore unde est origo ardoris.
+- English: same.
+- MATCH
+
+**1088**
+- Latin: quod fieri (that this happen) natura repugnat, contra totum (adverbial: quite the contrary).
+- English: "nature fights back: the whole goes the opposite way". This invents "the whole" as a subject and drops the object of repugnat ("that this should happen").
+- DIFF
+
+**1089-1090**
+- Latin: una res haec est, cuius quam plurima habemus, tam magis ardescit pectus.
+- English: same.
+- MATCH
+
+**1091-1093**
+- Latin: cibus atque umor adsumitur; quae quoniam possunt obsidere certas partis, cupido expletur facile.
+- English: same.
+- MATCH
+
+**1094-1096**
+- Latin: ex facie… nil datur in corpus fruendum praeter simulacra tenvia; quae spes misella vento rapta est.
+- English: same.
+- MATCH
+
+**1097-1104**
+- Latin: ut cum sitiens quaerit bibere et umor non datur…, sed petit simulacra, laborat, sitit potans; sic Venus ludit amantis; nec queunt satiare spectando corpora coram; nec possunt abradere quicquam membris errantes.
+- English: same.
+- MATCH
+
+**1105-1112**
+- Latin: cum fruuntur flore aetatis, cum corpus praesagit gaudia et Venus in eo est ut conserat arva, adfigunt corpus, iungunt salivas, inspirant, pressantes ora dentibus; ne quiquam, quoniam nihil abradere possunt nec penetrare et abire in corpus; nam videntur velle facere et certare.
+- English: same ("breathe hard" for inspirant is loose).
+- MATCH
+
+**1113-1114**
+- Latin: usque adeo haerent dum membra labefacta liquescunt.
+- English: same.
+- MATCH
+
+**1115-1116**
+- Latin: ubi cupido coniecta nervis se erupit, fit parva pausa.
+- English: "desire gathered in the nerves".
+- DIFF: nervi is rendered "nerves" (register).
+
+**1117-1120**
+- Latin: redit rabies, furor revisit, cum quaerunt contingere sibi quod cupiant; nec possunt reperire quae machina vincat malum; tabescunt volnere caeco.
+- English: same.
+- MATCH
+
+**1121-1123**
+- Latin: absumunt viris, pereunt labore; aetas degitur sub nutu alterius; officia languent, fama aegrotat vacillans.
+- English: same.
+- MATCH
+
+**1124-1128**
+- Latin: res labitur; Babylonia unguenta fiunt; Sicyonia rident; zmaragdi includuntur auro; vestis teritur et sudorem potat.
+- English: same (compression of fiunt).
+- MATCH
+
+**1129-1130**
+- Latin: bene parta patrum fiunt anademata, mitrae; interdum vertunt (active, 3rd pl.) in pallam…
+- English: "is turned" (passive).
+- MATCH (defensible)
+
+**1131-1132**
+- Latin: convivia, ludi, pocula, unguenta, coronae, serta parantur, eximia veste et victu.
+- English: same.
+- MATCH
+
+**1133-1140**
+- Latin: ne quiquam, quoniam surgit amari aliquid quod angat; aut cum animus se remordet desidiose agere aetatem…; aut quod (she) verbum iaculata reliquit in ambiguo, quod adfixum cordi vivescit; aut quod putat (her) iactare oculos aliumve tueri, and videt vestigia risus.
+- English: same, with the same agents.
+- MATCH
+
+**1141-1145**
+- Latin: mala haec inveniuntur in amore proprio (secure, one's own) summeque secundo; in adverso atque inopi sunt innumerabilia, quae prendere possis lumine operto; ut melius sit vigilare ante, cavere ne inliciaris.
+- English: "love that is true".
+- DIFF: proprio is rendered "true".
+
+**1146-1148**
+- Latin: vitare ne iaciamur in plagas non ita difficile est quam captum exire et perrumpere nodos.
+- English: same.
+- MATCH
+
+**1149-1152**
+- Latin: implicitus possis effugere, nisi obstes et praetermittas vitia animi aut corporis eius quam petis ac vis.
+- English: same.
+- MATCH
+
+**1153-1156**
+- Latin: homines caeci faciunt et tribuunt his commoda quae non sunt; videmus pravas turpisque esse in deliciis, vigere.
+- English: same.
+- MATCH
+
+**1157-1159**
+- Latin: alii inrident alios and suadent (them) ut placent Venerem, quoniam (the mocked) adflictentur amore; nec (the mockers) respiciunt sua mala maxima.
+- English: "men laugh at one another and urge each other". The reciprocal wording collapses mockers and mocked, so the irony of 1159 is lost.
+- DIFF
+
+**1160-1170**
+- Latin: a series of predications, nigra est melichrus, etc.
+- English: same pairings.
+- MATCH
+
+**1171-1176**
+- Latin: esto quantovis oris honore, cui vis Veneris exoriatur; nempe aliae sunt; viximus sine hac; eadem facit omnia turpi; se suffit miseram; quam famulae fugitant et cachinnant.
+- English: same.
+- MATCH
+
+**1177-1184**
+- Latin: amator exclusus operit limina, unguit postis, figit oscula; quem si offenderit aura, quaerat causas, cadat querella, se damnet, quod videat tribuisse plus.
+- English: same.
+- MATCH
+
+**1185-1191**
+- Latin: hoc non fallit Veneres; quo magis celant poscaenia (from those) quos retinere volunt; ne quiquam, quoniam tu possis protrahere, inquirere risus, et, si bello animo est, praetermittere et concedere.
+- English: same.
+- MATCH
+
+FINDINGS
+1043	LEXICAL	MINOR	0.85	"in loca… nervorum certa" is rendered "fixed regions of the nerves", against the register's binding nervi = sinews (listed for 4.1043); "gathering into fixed regions of the sinews, and stirs"
+1115	LEXICAL	MINOR	0.85	"nervis coniecta cupido" is rendered "the desire gathered in the nerves", against the register's nervi = sinews (listed for 4.1115); "At last, when the desire gathered in the sinews has burst out,"
+1088	MISTRANSLATION	MODERATE	0.65	"quod fieri contra totum natura repugnat" means nature resists this happening, quite the contrary; the English drops "quod fieri" and invents "the whole" as a subject that "goes the opposite way"; "But nature fights against this coming to pass, wholly the contrary;"
+1157	AMBIGUITY	MODERATE	0.55	"alios alii inrident… suadent" sets some mocking others, and the mockers are the ones in 1159 who do not see their own ills; "laugh at one another and urge each other" makes it reciprocal and loses the irony of 1158-1159; "And some men laugh at others and urge them to appease"
+1067	AMBIGUITY	MODERATE	0.55	"et servare sibi curam" stands under the nec of 1066 (not to keep care and pain), but "and so lay up for yourself care and certain pain" can be read as one more thing it is "right" to do; "and so store up for yourself care and certain pain." → "and so not store up for yourself care and certain pain;"
+1141	LEXICAL	MINOR	0.50	"in amore… proprio" means love that is one's own and secure (requited), not "true"; the English shifts the contrast with "adverso atque inopi" in 1142; "And these evils are found in love that is secure and at its most"

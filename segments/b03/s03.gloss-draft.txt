@@ -1,0 +1,227 @@
+ANALYSIS
+
+381-390
+L: neg. series (neque/nec ×9) governed by *sentimus* (pres. ind. act. 1pl, ×3: 381, 384, 389). Objects: *pulveris adhaesum* (381), *cretam incussam membris sidere* (382), *nebulam*, *fila obvia* (383-4), *quando obretimur euntes* (temporal clause, pres. pass.), acc.+inf. *vestem eiusdem cecidisse* (385, *eiusdem* = of the spider), *plumas*, *papposque volantis* (386), rel. *qui… cadunt gravatim* (antecedent *pappos*), *itum animantis* (388), *vestigia* + rel. *quae culices ponunt* (390).
+E: same series, all negated under "we do not feel"; relative clause on "down" (387), "that gnats… set down" (390).
+MATCH. "of plants" (386) glosses *pappos*; this is defensible.
+
+391-395
+L: *est ciendum* (gerundive, impers.) *multa* + *prius… quam primordia sentiscant concussa* (subj.; *concussa* agrees with *primordia*); *semina* in apposition; *et quam… tuditantia possint concursare coire dissultare* (subj.).
+E: must many things be stirred first, before the first-beginnings, shaken, can feel; seeds in apposition; before, beating, they can run together, unite, leap apart.
+MATCH.
+
+396-397
+L: *animus est magis coercens claustra vitai et dominantior… quam vis animai*.
+E: the mind holds the barriers more firmly and is more master than the force of spirit.
+MATCH.
+
+398-401
+L: *nequit residere pars ulla animai sine mente animoque*; *sed (pars) comes insequitur, discedit, linquit artus*.
+E: no part of spirit can remain; it follows as companion, departs, leaves the limbs.
+MATCH.
+
+402-403
+L: *manet in vita (is) cui mens animusque remansit*; concessive *quamvis est lacer, caesis membris* (abl. abs.).
+E: he stays in life in whom thought and mind remain, however torn "his trunk", limbs cut off.
+MATCH. "trunk" anticipates 404; this is minor.
+
+404-405
+L: *truncus vivit et suscipit auras*; abl. abs. *adempta anima circum membrisque remota*: *remota* is fem. sg. and agrees with *anima*, giving "spirit removed from the limbs".
+E: the trunk lives and draws in airs; "though the spirit is taken from around it and the limbs removed".
+DIFF. *remota* is read as if it were *membris remotis*.
+
+406-407
+L: *(truncus) privatus magna parte animai, tamen cunctatur et haeret*.
+E: same.
+MATCH.
+
+408-411
+L: *ut, lacerato oculo* (abl. abs.), *si pupula mansit incolumis, stat potestas*; proviso *dum modo ne corrumpas orbem et circum caedas aciem solamque relinquas* (2sg subj.).
+E: same.
+MATCH.
+
+412
+L: *id non fiet sine pernicie eorum* (fut.).
+E: that will not happen without the destruction of both.
+MATCH.
+
+413-415
+L: *si pars media peresa est, occidit lumen, tenebrae secuntur*; concessive *quamvis orbis incolumis*.
+E: same.
+MATCH.
+
+416
+L: *anima atque animus vincti sunt hoc foedere*.
+E: same.
+MATCH.
+
+417-420
+L: purpose clause *ut noscere possis (animos animasque) nativos et mortalis esse*; main clause *pergam disponere carmina*, with *carmina* modified by *conquisita, reperta, digna*.
+E: same.
+MATCH.
+
+421-424
+L: *fac subiungas*; *cum dicere pergam animam… credas (me) animum quoque dicere*; *qua tenus est unum… res coniuncta*.
+E: same.
+MATCH.
+
+425-433
+L: *quoniam docui (animam) tenuem constare… factam esse principiis minoribus quam…* The sentence breaks off. *nam praestat… movetur*; *quippe ubi movetur imaginibus*; *quod genus cernimus altaria exhalare… ferre*; *nam haec simulacra geruntur*.
+E: same anacoluthon, noted; "moves when struck by a slighter cause" for *magis icta… a tenui causa*.
+MATCH. This is defensible compression. The dash at 428 remains in the verse, which the register says was removed; that is a punctuation matter, not a fidelity one.
+
+434-439
+L: *quoniam cernis umorem diffluere, laticem discedere* (abl. abs. *quassatis vasis*); *quoniam nebula ac fumus discedit*; imperative *crede animam diffundi, perire ocius, dissolvi*; *cum semel… ablata recessit*.
+E: same.
+MATCH.
+
+440-444
+L: *corpus, quod vas constitit eius, cum cohibere nequit, conquassatum… rarefactum*; question *qui credas hanc posse cohiberier aere ullo, qui… rarus magis incohibens sit?* (rel. on *aere*).
+E: same.
+MATCH.
+
+445-446
+L: *sentimus mentem gigni… crescere… senescere*.
+E: same.
+MATCH.
+
+447-448
+L: *ut pueri vagantur corpore infirmo teneroque, sic sequitur sententia tenvis animi*.
+E: same.
+MATCH.
+
+449-450
+L: *ubi aetas adolevit, consilium maius et auctior vis animi*.
+E: same.
+MATCH.
+
+451-454
+L: *ubi corpus quassatum est viribus aevi et artus ceciderunt* (abl. abs. *obtusis viribus*); *claudicat ingenium, delirat lingua, labat mens, omnia deficiunt, desunt*.
+E: same.
+MATCH.
+
+455-458
+L: *convenit naturam animai dissolui, ceu fumus*; *quando videmus (eam) gigni, crescere, fatisci*.
+E: same.
+MATCH.
+
+459-462
+L: *accedit uti videamus: ut corpus suscipere morbos dolorem, sic animum curas*; *quare convenit (eum) esse participem leti*.
+E: same.
+MATCH.
+
+463-469
+L: *animus avius errat*; *dementit, fatur, fertur in soporem* (abl. abs. *oculis nutuque cadenti*); *unde neque exaudit nec potis est noscere voltus illorum qui… circum stant* (*revocantes*, *rorantes* agree with *qui*).
+E: same.
+MATCH.
+
+470-473
+L: *fateare necessest animum dissolui*; *quandoquidem penetrant contagia*; *nam dolor ac morbus fabricator uterquest*; *quod perdocti sumus*.
+E: same.
+MATCH.
+
+474-475
+Corrupt lines, translated as printed and noted.
+MATCH.
+
+476-483
+L: *cur, cum vis vini penetravit hominem et ardor diditus discessit in venas*: *consequitur gravitas, praepediuntur crura (vacillanti, dat.), tardescit lingua, madet mens, nant oculi, gliscunt clamor…, cetera secuntur*; resumed *cur ea sunt, nisi quod violentia vini consuevit conturbare animam*.
+E: same, but "its heat has gone out, spread through the veins".
+DIFF. *in venas discessit* means the heat dispersed into the veins, and English "gone out" reads as "died out". The dash at 481 remains despite the register; that is punctuation only.
+
+484-486
+L: *quae cumque queunt conturbari… significant fore ut pereant, si durior causa insinuarit*.
+E: same.
+MATCH.
+
+487-494
+L: *aliquis coactus concidit, agit, ingemit, tremit, desipit, extentat, torquetur, anhelat, fatigat*; *quia vis morbi distracta turbat agens animam, spumans* (nom., with *vis*); simile *ut undae fervescunt*.
+E: same.
+MATCH.
+
+495-498
+L: *exprimitur gemitus, quia membra adficiuntur et quod semina eliciuntur… feruntur qua consuerunt et sunt munita viai*.
+E: same.
+MATCH.
+
+499-501
+L: *desipientia fit, quia vis animi atque animai conturbatur et divisa disiectatur, distracta veneno*.
+E: same.
+MATCH.
+
+502-505
+L: *ubi causa reflexit, reditque umor*; *tum consurgit (aliquis), redit in sensus, animam receptat*.
+E: same.
+MATCH.
+
+506-509
+L: *ubi haec iactentur tantis morbis… et distracta laborent* (both verbs subj., subject *haec*); *cur credis eadem posse aetatem degere*.
+E: "are tossed / by such great diseases and labor, torn apart".
+DIFF. *laborent* (verb) reads in English as the noun "labor", a second cause beside "diseases".
+
+510-512
+L: *quoniam cernimus mentem sanari… et videmus (eam) flecti posse*; *id praesagit mentem vivere mortalem*.
+E: same.
+MATCH.
+
+513-516
+L: *aecumst (ei) quicumque adoritur commutare animum… addere partis, traiecere, detrahere hilum*.
+E: same.
+MATCH.
+
+517-518
+L: subject *inmortale quod est*; *vult neque (sibi) partis transferri, nec quicquam tribui, neque hilum defluere*.
+E: subject "it" (most naturally the mind, from 515), with "what is immortal" stranded after "to be added" as if it were the thing added.
+DIFF. The subject is obscured, so the English can be read as saying the mind admits no change.
+
+519-520
+L: *quod cumque mutatum suis finibus exit, hoc continuo mors est illius quod fuit ante*.
+E: sense matches, but the wording departs from the fixed refrain of 1.670-671 ("passes out of its own bounds, / this at once is…"), which the register lists as verbatim at 3.519-520.
+DIFF (register refrain, not sense).
+
+521-522
+L: *animus sive aegrescit seu flectitur, mittit signa mortalia*.
+E: same.
+MATCH.
+
+523-525
+L: *vera res videtur occurrere falsae rationi, praecludere effugium (ei) eunti, convincere falsum*.
+E: same.
+MATCH.
+
+526-530
+L: *cernimus hominem ire, deperdere sensum*; acc.+inf. *digitos livescere*, *pedes crura mori*, *vestigia ire*.
+E: same.
+MATCH.
+
+531-532
+L: *quoniam natura animae scinditur nec existit sincera uno tempore, mortalis habendast*.
+E: same.
+MATCH.
+
+533-535
+L: *si putas (animam) ipsam se posse trahere, conducere partis, diducere sensum*.
+E: same.
+MATCH.
+
+536-537
+L: *at locus ille, quo copia cogitur, debet videri in sensu maiore*.
+E: same.
+MATCH.
+
+538-539
+L: *qui (locus) quoniam nusquamst, (anima) dilaniata dispargitur, interit*.
+E: same. The two uses of "it" are loose but recoverable.
+MATCH.
+
+540-547
+L: *si libeat concedere falsum et dare animam posse glomerari in corpore eorum qui lincunt lumina*; *fateare necesse (eam) mortalem*; *nec refert utrum pereat… an obbrutescat*; *quando sensus deficit hominem et vitae minus restat*.
+E: same.
+MATCH.
+
+FINDINGS
+517	GRAMMAR	MAJOR	0.75	*inmortale quod est* is the subject of *vult* ("what is immortal does not allow"), but the English makes "it" the subject (naturally read as the mind of 515) and leaves "what is immortal" hanging after "to be added" as though it were the thing added (518); this inverts the argument's point. "But what is immortal allows no parts of it to be shifted, nor anything / to be added to it, nor one jot to flow away;" (517-518)
+477	AMBIGUITY	MODERATE	0.60	*in venas discessit diditus ardor* says the heat has dispersed into the veins, but "its heat has gone out" reads idiomatically as "has died out", the opposite of the Latin. "fierce, and its heat has passed off, spread out, into the veins,"
+404	GRAMMAR	MINOR	0.55	*membrisque remota* is fem. sg., agreeing with *anima* ("the spirit… removed from the limbs"), but the English renders it as "and the limbs removed", as if it were *membris remotis*. "the trunk, though the spirit is taken from around it and withdrawn from the limbs,"
+507	AMBIGUITY	MINOR	0.55	*miserisque modis distracta laborent* has the verb *laborent* ("they suffer"), but "tossed / by such great diseases and labor" reads "labor" as a noun, a second agent beside the diseases (506). "by such great diseases, and suffer, torn apart in wretched ways,"
+519	LEXICAL	MINOR	0.50	*quod cumque suis mutatum finibus exit* is rendered in sense, but the wording breaks the register's verbatim refrain for 1.670-671 = 3.519-520 ("passes out of its own bounds, / this at once is the death…"); 520 also needs "this" for "that". This is a register breach, not a sense error. "for whatever is changed and passes out of its own bounds,"

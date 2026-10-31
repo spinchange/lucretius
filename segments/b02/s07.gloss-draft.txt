@@ -1,0 +1,108 @@
+ANALYSIS
+973-990
+Latin: [si] sensus (subj.) est tribuendus (pres. pass. periphr.) principiis eorum [animalium], uti animalia quaeque possint (subj., purpose) sentire; quid [de illis] de quibus genus humanum propritim auctumst (perf. pass.)? [primordia, implied subj., neut. pl.] scilicet cachinnant (ind.), concussa (with primordia) risu tremulo; spargunt ora genasque lacrimis; callent dicere multa de mixtura; quaerunt quae sint (subj.) sibi primordia; quando quidem [ea] adsimulata (with primordia) mortalibus debent constare ex aliis elementis, inde alia ex aliis, ut [tu] nusquam ausis (subj.) consistere; quippe sequar (fut. 1 sg.): quodcumque dices loqui ridere sapere, ut sit ex aliis facientibus eadem. quod si cernimus haec esse delira, et [quis] potest ridere non auctus ex ridentibus, et sapere et reddere rationem doctis dictis non ex seminibus sapientibus, qui minus queant (subj.) ea quae videmus sentire esse permixta seminibus carentibus sensu?
+English: if sense must be granted to their beginnings so that each creature can feel, what of those from which the human race is made? They must shake with laughter, sprinkle faces, be skilled at speaking, ask what their first-beginnings are; since made like mortals they must consist of other elements, others of others, so that you never dare stop; I shall press you: whatever you say speaks, laughs, is wise is made of others doing the same. But if this is madness, and a man can laugh not made of laughing things, be wise and give account not from wise seeds, why should things we see feel be less able to be of senseless seeds?
+MATCH (scilicet + indicative given as "must", within the reductio; "propritim" as "properly" is a loose reading of "in particular", kept below threshold)
+
+991-998
+Latin: sumus (1 pl.) omnes oriundi caelesti semine; ille idem est pater omnibus, unde mater terra alma, cum recepit guttas umoris, feta parit fruges, arbusta, genus humanum, parit saecla ferarum, cum praebet pabula quibus omnes pascunt corpora et ducunt vitam et propagant prolem; qua propter adepta est (perf.) nomen maternum merito.
+English: same structure, same agents, same tenses.
+MATCH
+
+999-1001
+Latin: quod fuit ante de terra cedit retro in terras; et quod missumst ex aetheris oris, id templa caeli receptant (act., templa subj.) rellatum.
+English: what came from the earth goes back into the earth; what was sent from the shores of the ether is carried back and received by the precincts of heaven.
+MATCH
+
+1002-1012
+Latin: nec mors interemit res sic ut conficiat corpora materiai, sed dissupat coetum ollis; inde coniungit aliud aliis et efficit ut omnes res convertant formas, mutent colores, capiant sensus, reddant puncto tempore; ut noscas referre cum quibus et quali positura primordia contineantur et quos motus dent accipiantque, neve putes quod videmus fluitare in summis rebus, nasci, perire, posse residere penes aeterna corpora prima.
+English: death does not annihilate the bodies of matter but scatters their union; joins one to another, brings it about that all things change shapes and colors, take on sense and give it up; so that you may know it matters with what and in what position they are held together and what motions they give and receive, and may not think what we see floating on surfaces, being born and perishing, can reside in eternal first bodies.
+MATCH
+
+1013-1018
+Latin: quin etiam refert in nostris versibus cum quibus et quali ordine quaeque sint locata; namque eadem [elementa] significant caelum ... solem, eadem fruges ... animantis; si non omnia sunt [eadem], at maxima pars est consimilis; verum res discrepitant positura.
+English: same.
+MATCH
+
+1019-1022
+Latin: sic in rebus ipsis, cum intervalla, vias, conexus, pondera, plagas, concursus, motus, ordo, positura, figurae materiai permutantur, res quoque debent mutari.
+English: same structure; 1021 renders concursus as "meetings".
+DIFF: concursus is "meetings", not the fixed "collisions" of 2.1021 = 1.685.
+
+1023-1025
+Latin: nunc adhibe (impv.) animum nobis ad veram rationem; nam nova res molitur vehementer accedere ad tibi auris et nova species rerum se ostendere.
+English: same.
+MATCH
+
+1026-1029
+Latin: neque ulla res est tam facilis quin primum constet difficilis magis ad credendum; item nil tam magnum, mirabile, quod omnes non paulatim minuant mirarier.
+English: same.
+MATCH
+
+1030-1037
+Latin: principio [accusatives, anacoluthon] colorem caeli, quaeque cohibet, sidera palantia, lunam, nitorem solis; omnia quae si nunc primum essent mortalibus, si sint obiecta repente ex improviso, quid poterat dici magis mirabile, aut quod gentes minus auderent ante credere fore? nil; ita haec species fuisset (plupf. subj.) miranda.
+English: "Consider" supplies the verb for the accusatives; the essent clause is verbless ("if now for the first time to mortals"); the rest matches.
+MATCH (the verbless 1033 follows the Latin's anacoluthon and keeps the sense)
+
+1038-1039
+Latin: quam [speciem] iam nemo fessus satiate videndi dignatur suspicere in lucida templa caeli.
+English: same.
+MATCH
+
+1040-1043
+Latin: desine (impv.) exterritus novitate expuere rationem ex animo; sed perpende acri iudicio; si videntur vera, dede manus; si falsum est, accingere contra.
+English: same.
+MATCH
+
+1044-1047
+Latin: animus quaerit rationem (cum summa loci sit infinita foris), quid sit ibi porro, quo mens velit (subj.) prospicere usque et quo liber iactus animi ipse pervolet (subj.).
+English: same.
+MATCH
+
+1048-1051
+Latin: principio nobis nulla est finis in cunctas partis ...; uti docui, et res ipsa vociferatur, et natura profundi elucet.
+English: same.
+MATCH
+
+1052-1063
+Latin: nullo pacto putandumst veri simile esse, cum spatium vacet infinitum et semina volitent percita aeterno motu, hunc unum orbem caelumque [esse] creatum, illa corpora foris nil agere; cum praesertim hic [mundus] sit factus natura, et semina ipsa sponte sua, forte offensando, coacta temere, tandem coluerunt ea quae, coniecta repente, fierent (subj.) semper exordia magnarum rerum, terrai maris caeli generisque animantum.
+English: same; semper as "forever".
+MATCH ("forever" for semper, meaning "in each case", is a borderline nuance and stays below threshold)
+
+1064-1066
+Latin: fateare (subj.) necesse est esse alios congressus materiai alibi, qualis hic est, quem aether tenet complexu.
+English: same.
+MATCH
+
+1067-1069
+Latin: cum materies parata, cum locus praesto, nec res nec causa moratur, res debent geri et confieri.
+English: same.
+MATCH
+
+1070-1076
+Latin: nunc si tanta est copia seminibus quantam aetas omnis animantum non queat enumerare, [et si] quis [= quibus] eadem natura manet quae queat conicere semina in loca quaeque simili ratione atque huc sunt coniecta, necesse est confiteare esse alios orbis terrarum in aliis partibus et gentis hominum et saecla ferarum.
+English: same; quis (dative "for them") is unexpressed.
+MATCH (the dropped quis is a minor nuance)
+
+1077-1083
+Latin: huc accedit ut nulla res sit una quae gignatur unica et crescat sola, quin sit alicuius saecli et permulta sint eodem genere; invenies sic ... ferarum, hominum prolem, squamigerum pecudes, corpora volantum.
+English: same.
+MATCH
+
+1084-1089
+Latin: qua propter fatendumst caelum, terram, solem, lunam, mare, cetera non esse unica sed numero innumerali; quando terminus vitae depactus alte tam manet haec, et tam constant nativo corpore quam omne genus quod his rebus generatim est abundans.
+English: same.
+MATCH
+
+1090-1092
+Latin: si teneas haec cognita, natura videtur libera, privata dominis superbis, agere omnia ipsa sua sponte, expers dis.
+English: same.
+MATCH
+
+1093-1104
+Latin: nam pro pectora deum quae tranquilla pace degunt aevom placidum, quis potis est regere summam immensi, quis habere habenas profundi moderanter, quis convertere caelos omnis et suffire terras ignibus aetheriis, aut esse praesto omnibus locis omni tempore, ut faciat tenebras nubibus, concutiat serena caeli sonitu, mittat fulmina, disturbet aedis suas, recedens in deserta saeviat exercens telum, quod praeterit nocentes, exanimat indignos immerentes?
+English: same structure, oath, rhetorical questions, purpose clause and relative on telum all kept.
+MATCH
+
+FINDINGS
+1021	LEXICAL	MINOR	0.60	concursus is rendered "meetings", breaking the fixed refrain 2.1021 = 1.685, where the register sets concursus = "collisions" and the Latin means atomic collisions, not gatherings; "collisions, motions, order, position, shapes"

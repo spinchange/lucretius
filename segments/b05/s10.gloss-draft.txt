@@ -1,0 +1,61 @@
+ANALYSIS
+1241-1251. L: aes atque aurum ferrumque repertumst (pf. pass.), with argenti pondus plumbique potestas as co-subjects; ubi ignis cremarat (plpf.) silvas; seu fulmine misso (abl. abs.); sive quod [homines] gerentes bellum silvestre intulerant ignem formidinis ergo; sive quod inducti volebant pandere agros, reddere rura pascua; sive [volebant] interficere feras, ditescere praeda; nam venarier ortum est prius quam saepire saltum plagis, ciere canibus. E: metals were discovered when fire had burned forests, whether a thunderbolt was sent, or men at war had carried fire to cause terror, or wished to open fields and make pasture, or to kill beasts and grow rich; for hunting with pit and fire arose before fencing with nets and rousing with dogs. MATCH.
+
+1252-1257a. L: quicquid id est; qua e causa ardor exederat silvas a radicibus, percoxerat terram; manabat (impf.) rivus argenti et auri, aeris et plumbi, conveniens, venis ferventibus (abl. of route) in loca concava. E: however that may be, from whatever cause the heat had eaten forests and baked earth, a stream of silver, gold, bronze and lead flowed "from" seething veins into hollows, running together. MATCH. The ablative of route is rendered as a source ("from"), which is a slight shift.
+
+1257b-1261. L: cum videbant quae concreta splendere colore; tollebant capti lepore (nitido levi); et videbant [ea] formata esse figura simili atque fuerant vestigia lacunarum cuique. E: when they saw them hardened and shining, they picked them up, captured by their smooth gleaming charm, and saw each shaped like the print of its hollow. MATCH.
+
+1262-1268. L: penetrabat eos: posse haec liquefacta decurrere in quamlibet formam; et posse duci procudendo in fastigia mucronum quamvis acuta ac tenvia; ut parent tela, ut possint caedere silvas, dolare materiem, radere tigna levia, terebrare, pertundere, perforare. E: it entered their minds that these, melted, could run into any form, and could be drawn by hammering into points as sharp and fine as one might wish, so they could make weapons, cut, hew, plane, bore, punch, pierce. MATCH.
+
+1269-1272. L: nec minus parabant facere haec argento auroque quam primum viribus aeris validi; ne quiquam, quoniam cedebat victa potestas [of silver and gold] nec poterant [silver and gold, pl.] sufferre laborem. E: they set about doing these with silver and gold no less than with bronze; in vain, since "their power" gave way and could not endure. DIFF. "their" most naturally takes the men of "they set about" as its antecedent, whereas the Latin power that fails belongs to the metals.
+
+1273-1275. L: nam aes fuit magis in pretio; aurum iacebat propter inutilitatem, retusum hebeti mucrone; nunc iacet aes, aurum successit in honorem. E: same. MATCH.
+
+1276-1280. L: sic aetas volvenda commutat tempora rerum; quod fuit in pretio fit nullo honore; aliud succedit, exit e contemptibus, adpetitur, floret repertum laudibus, est in miro honore. E: same. MATCH.
+
+1281-1282. L: facilest tibi cognoscere per te quo pacto natura ferri reperta sit (subj., indirect question), Memmi. E: same. MATCH.
+
+1283-1285. L: arma antiqua fuerunt manus, ungues, dentes, lapides, fragmina rami, flamma atque ignes, post quam cognita sunt. E: same. MATCH.
+
+1286-1288. L: posterius reperta est vis ferri aerisque; prior erat cognitus usus aeris, quo natura facilis magis et copia maior. E: same; "to work" glosses facilis. MATCH.
+
+1289-1292. L: aere tractabant solum; aere miscebant fluctus belli, serebant vulnera, adimebant pecus agros; nam omnia nuda inerma cedebant ollis armatis. E: same. MATCH.
+
+1293-1296. L: processit ensis ferreus; species falcis ahenae versa est in obprobrium; coepere proscindere solum ferro; exaequata sunt certamina belli. E: same. MATCH.
+
+1297-1301. L: prius est armatum conscendere equum, moderarier frenis, vigere dextra, quam temptare pericla biiugo curru; biiugo prius quam coniungere bis binos, quam escendere falciferos currus. E: same. MATCH.
+
+1302-1304. L: Poeni docuerunt boves Lucas (turrito corpore, tetras, anguimanus) sufferre vulnera, turbare catervas. E: same. MATCH.
+
+1305-1307. L: discordia peperit alid ex alio, quod esset horribile gentibus; addidit augmen terroribus. E: same. MATCH.
+
+1308-1309. L: temptarunt tauros; experti sunt mittere sues in hostis. E: same. MATCH.
+
+1310-1317. L: partim misere leones cum doctoribus, qui possent (subj.) moderarier, tenere; ne quiquam, quoniam [leones] calentes caede turbabant turmas, quatientes cristas; nec poterant equites mulcere pectora equorum perterrita fremitu, convertere. E: same; "who could control" stands for the subjunctive purpose. MATCH.
+
+1318-1322. L: leae inritatae iaciebant corpora; petebant ora venientibus; deripiebant nec opinantis a tergo; deplexae dabant victos volnere in terram, adfixae morsibus unguibus. E: same. MATCH.
+
+1323-1325. L: tauri iactabant suos, terebant pedibus, hauribant latera ventres equorum cornibus, ruebant terram mente minitanti. E: same. MATCH.
+
+1326-1329. L: apri caedebant socios dentibus, tinguentes tela sanguine (doublet lines), dabant ruinas permixtas. E: same, with the doublet kept. MATCH.
+
+1330-1333. L: nam iumenta exibant transversa adactus dentis, aut erecta petebant ventos; ne quiquam, quoniam videres succisa concidere, consternere terram. E: same. MATCH.
+
+1334-1337. L: si quos putabant domitos, cernebant effervescere volneribus clamore etc.; nec poterant reducere partem. E: same. MATCH.
+
+1338-1340. L: diffugiebat genus omne ferarum, ut nunc boves Lucae male mactae diffugiunt, cum dedere multa fera suis. E: same. MATCH.
+
+1341-1344a. L: voluerunt facere id non tam spe vincendi quam dare quod gemerent hostes ipsique perire, qui diffidebant numero, vacabant armis, si fuit ut facerent. E: same; "even dying themselves" is compressed but keeps the wish. MATCH.
+
+1344b-1346. L: vix adducor ut non quierint praesentire videre ante... quam fieret malum commune foedumque, futurum. E: hardly persuaded that they could not foresee, before it happened, that it would be a common, foul evil. MATCH. The split antequam is rendered twice, which is redundant but adds no sense.
+
+1347-1349. L: magis possis contendere id factum in omni, in mundis variis creatis, quam in uno orbi. E: same. MATCH.
+
+1350-1353. L: vestis nexilis fuit ante textile tegmen; textile post ferrum, quia ferro tela paratur; nec ratione alia possunt gigni tam levia insilia, fusi, radii, scapi. E: same. MATCH.
+
+1354-1356. L: natura coegit viros facere lanam ante muliebre genus; nam genus omne virile praestat in arte, est sollertius. E: same. MATCH.
+
+1357-1360. L: donec agricolae severi vertere vitio, ut vellent concedere id manibus muliebribus, ipsi sufferre laborem, atque durarent (subj., result, coordinate with vellent) membra. E: until the farmers made a reproach of it, so that they were willing to yield it, endure labor, and to harden limbs. MATCH. durarent is attached under "were willing" rather than standing as a coordinate result, a minor shift.
+
+FINDINGS
+1271	AMBIGUITY	MODERATE	0.55	"cedebat victa potestas" (and "poterant" in 1272) refers to the power of silver and gold, but the English "their power" follows "they set about" in 1269 and most naturally means the men's strength failing; "in vain, since the metals' power gave way, overcome,"

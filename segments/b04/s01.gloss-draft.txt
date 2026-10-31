@@ -1,0 +1,59 @@
+ANALYSIS
+143-144 [lacuna]. L: indirect questions after an edam lost in the lacuna; subj. ea (images); genantur, fluant, cedant pres. subj. pass./act. pl.; quam facili et celeri ratione (manner). E: "by how easy and how swift a principle these are produced, and how they flow… slip off and withdraw". MATCH.
+
+145-146a. L: enim; quicquid summum de rebus abundat (pres. ind. sg.); rel. quod iaculentur (subj., subj. res: things cast it). E: "something streaming off the surface of things for them to cast away". MATCH.
+
+146b-149. L: cum hoc pervenit in alias res, transit (ind. sg.), ut vestem; sed ubi ad saxa / in materiam ligni pervenit, ibi iam scinditur (pass.), result ut nullum simulacrum reddere possit. E: same clauses, "it is torn apart, so that it can give back no image". MATCH.
+
+150-153. L: at cum splendida densaque opposta fuerunt (perf. subj. pl.), nihil accidit horum; nam neque transire possunt (pl.) neque scindi; rel. quam salutem meminit levor praestare. E: "when things… are set against it… none of this befalls; for it can neither pass through… nor… be torn apart; a safety their smoothness never fails to secure". MATCH (possunt pl. as "it", same referent).
+
+154. L: fit ut hinc nobis simulacra redundent. E: "the images stream back to us from there". MATCH.
+
+155-158. L: quamvis subito quovis tempore quamque rem ponas (subj. 2 sg.), apparet imago; purpose ut noscas fluere texturas tenuis figurasque e corpore summo. E: same. MATCH.
+
+159-160. L: ergo multa simulacra genuntur brevi spatio; result ut celer his rebus dicatur origo. E: same. MATCH.
+
+161-167. L: quasi sol debet summittere multa lumina, purpose ut omnia plena sint; sic necessest simulacra ferantur (subj.) in puncto… in cunctas partis; quandoquidem quocumque oris speculum obvertimus, res respondent simili forma atque colore. E: same structure. MATCH.
+
+168-171. L: cum caeli tempestas fuerit liquidissima, fit turbida subito; result uti rearis (2 sg. subj.) omnis tenebras liquisse Acherunta et complesse cavernas. E: "darkness… had left Acheron and filled the… caverns". MATCH.
+
+172-175. L: usque adeo, nocte coorta (abl. abs.), inpendent Formidinis ora; nemo est qui possit dicere quantula pars quorum sit imago, neque reddere rationem. E: same ("yet" has no Latin behind it, but the sense is unaffected). MATCH.
+
+176-182. L: Nunc age, edam (fut. 1 sg.) indirect questions: quam celeri motu ferantur, quae mobilitas reddita sit ollis tranantibus auras, result ut brevis hora teratur longo spatio, in quem locum tendunt; ut cycni canor melior quam gruum clamor dispersus. E: "a long distance is worn away in a brief hour" (subject shifted from hora to distance, same sense); rest same. MATCH.
+
+183-190. L: licet videre res levis et minutis corporibus factas esse celeris; in quo genere est lux et vapor, quia sunt e primis minutis facta, quae cuduntur et non dubitant transire concita plaga; enim lumen suppeditatur lumine, fulgur stimulatur fulgere. E: same. MATCH.
+
+191-198. L: qua propter necessest simulacra posse transcurrere in puncto; primum quod parvola causa est quae provehat; quod super est, ubi tam volucri levitate ferantur; deinde quod textura rara mittuntur, result ut queant penetrare et permanare. E: same causes, but quod super est is rendered "what is more", against the register entry for this line. DIFF (register term).
+
+199-208. L: si corpuscula ex alto mittuntur et cernuntur lapsa puncto diei diffundere sese, volare, rigare; quid quae prima fronte parata sunt, cum iaciuntur et res nulla moratur emissum? quone vides debere citius et longius ire, multiplex loci spatium transcurrere eodem tempore quo lumina solis pervolgant caelum? E: same propositions, but 207 departs from the fixed refrain 2.163. DIFF (refrain).
+
+209-217. L: hoc specimen verum videtur, quam celeri motu ferantur: quod simul ac splendor aquai ponitur sub diu, caelo stellante (abl. abs.), sidera respondent in aqua; iamne vides quam puncto tempore imago accidat ex oris aetheris in oras terrarum? quare fateare necessest mitti corpora quae feriant oculos. E: same. MATCH.
+
+218-221. L: fluunt odores ab certis rebus, frigus a fluviis, calor ab sole, aestus ab undis, exesor moerorum; nec cessant voces volitare. E: same. MATCH.
+
+222-229. L: denique umor salsi saporis venit in os, cum versamur propter mare; cum tuimur absinthia dilutaque misceri contra, tangit amaror; usque adeo res quaeque fertur fluenter et dimittitur, nec mora interdatur; quoniam sentimus perpetuo et licet cernere, odorari, sentire sonare. E: same (contra unrendered, trivial). MATCH.
+
+230-233. L: quoniam figura tractata in tenebris cognoscitur esse eadem quae cernitur in luce, necessest tactum visumque moveri consimili causa. E: same propositions, but consimili causa is rendered "by a closely similar cause", not the register's "by a like cause". DIFF (register term).
+
+234-236. L: si temptamus quadratum et id nos commovet in tenebris, quae res poterit accidere ad speciem quadrata in luci nisi imago eius? E: same. MATCH.
+
+237-238. L: videtur causa cernundi esse in imaginibus, neque res ulla posse videri sine his. E: same. MATCH.
+
+239-243. L: simulacra feruntur et iaciuntur didita; verum quia cernere quimus oculis solis, fit uti, quo speciem vertimus, omnes res feriant eam forma atque colore. E: same. MATCH.
+
+244-249. L: imago efficit ut videamus quantum res absit, et curat internoscere; nam cum mittitur, protrudit aera inter se oculosque locatum; is omnis perlabitur per acies, perterget pupillas, transit. E: same. MATCH.
+
+250-253. L: fit uti videamus quam procul absit; quanto plus aeris agitatur et longior aura perterget, tam magis res remota videtur. E: same. MATCH.
+
+254-255. L: scilicet haec summe celeri ratione geruntur, ut videamus quale sit et una quam procul absit. E: same. MATCH.
+
+256-258. L: illud minime mirabile habendumst, cur, cum simulacra singula videri nequeant, res ipsae perspiciantur. E: same. MATCH.
+
+259-264. L: enim cum ventus verberat et frigus fluit, non solemus sentire privam quamque particulam, sed magis unorsum; videmus plagas fieri in corpore tam quam aliquae res verberet et det sensum sui corporis extra. E: same. MATCH.
+
+265-268. L: cum lapidem tundimus, tangimus extremum saxi summumque colorem, nec sentimus eum tactu, verum sentimus duritiem penitus in alto. E: same. MATCH.
+
+FINDINGS
+195	LEXICAL	MINOR	0.60	"quod super est" is rendered "and, what is more,", but the register fixes 4.195 itself as "for the rest", including where it opens a clause mid-argument; "and, for the rest, since they are carried with so winged a lightness;"
+207	LEXICAL	MINOR	0.55	"multiplexque loci spatium transcurrere eodem" is identical to 2.163, which the register fixes verbatim as "and run through many times the extent of space in the same", but the English here reads "run across many times the space of place"; "and run through many times the extent of space in the same"
+233	LEXICAL	MINOR	0.55	"consimili causa" is rendered "by a closely similar cause", but the register fixes this line as "by a like cause"; "that touch and sight are moved by a like cause."

@@ -1,0 +1,71 @@
+ANALYSIS
+
+**500-506.** Latin: [si ratio non poterit dissolvere causam [cur ea quae fuerint iuxtim quadrata procul sint visa rutunda]], tamen praestat (impersonal) [egentem reddere causas mendose utriusque figurae] quam [emittere manifesta manibus suis quoquam, violare fidem primam, convellere fundamenta tota [quibus nixatur vita salusque]]. English: if reasoning cannot untie the cause why square things are seen round far off, still it is better, if you are at a loss, to give faulty causes than to let plain things slip, violate trust, and tear up the foundations on which life rests. MATCH.
+
+**507-510.** Latin: non modo ratio ruat omnis, vita quoque concidat (pres. subj., potential), nisi ausis (2sg perf. subj.) [credere sensibus, vitare praecipites locos et cetera fugienda, sequi contraria]. English: not only would reasoning fall; life would collapse unless you dared to trust the senses, avoid steep places, follow the opposite. MATCH (quoque compressed, sense kept).
+
+**511-512.** Latin: illa copia verborum omnis est cassa, quae contra sensus instructa paratast. English: all that store of words is empty, every bit drawn up against the senses. MATCH.
+
+**513-519.** Latin: ut in fabrica, si regula prima prava est, si norma fallax exit, si libella claudicat hilum, necesse est omnia mendose fieri, obstipa, prava, cubantia, prona, supina, atque absona tecta (tecta = the building, the head noun of the list), ut quaedam videantur velle ruere, ruantque (quaedam) prodita omnia iudiciis fallacibus primis. English: if the rule is crooked, the square false, the level limping, everything must be faulty, askew… "the roof out of true"; some parts seem to want to fall and do fall, all betrayed by first false judgments. DIFF: tecta, the building as a whole, narrowed to "the roof" and split off as a separate item.
+
+**520-521.** Latin: sic ratio rerum prava falsaque sit necesse est, quae cumque ab sensibus falsis orta est. English: your reasoning must be crooked and false, whatever has risen from false senses. MATCH.
+
+**522-523.** Latin: [quo pacto alii sensus quisque suam rem sentiat], ratio haud quaquam scruposa relicta est. English: how each sense perceives its object, the remaining reasoning is no stony ground. MATCH.
+
+**524-525.** Latin: auditur sonus et vox omnis, ubi insinuata in auris pepulere sensum suo corpore. English: sound and voice are heard when, working into the ears, they strike the sense with their body. MATCH.
+
+**526-527.** Latin: fatendum est vocem quoque et sonitum constare corpoream, quoniam possunt inpellere sensus. English: we must admit voice and sound are bodily, since they can strike the senses. MATCH.
+
+**528-531.** Latin: vox radit fauces saepe; clamor foras gradiens facit arteria asperiora; quippe [ubi primordia vocum coeperunt ire foras per angustum, turba maiore coorta]. English: voice scrapes the throat; shouting makes the windpipe rougher as it goes out; since, rising in a crowd through a narrow way, the first-beginnings have begun to go out. DIFF: the temporal ubi ("when they have begun") becomes a bare causal assertion, so "since … have begun to go out" no longer states the condition under which the scraping happens.
+
+**532.** Latin: scilicet ianua oris raditur quoque, expletis (abl. abs.). English: the door of the mouth too is scraped when filled. MATCH.
+
+**533-534.** Latin: haud dubium est quin voces verbaque constent e principiis corporeis, ut laedere possint. English: no doubt voices and words consist of bodily beginnings, since they can harm. MATCH.
+
+**535-539.** Latin: nec te fallit [quid corporis auferat et quid detrahat ex nervis ac viribus perpetuus sermo perductus ab nitore aurorae ad umbram noctis], praesertim si profusus cum summo clamore. English: same, with the active turned passive and the agent kept. MATCH.
+
+**540-541.** Latin: ergo necesse est vocem constare corpoream, quoniam multa loquens amittit partem de corpore. English: same. MATCH.
+
+**542-548.** Latin: asperitas vocis fit ab asperitate principiorum, levor levore creatur; nec primordia penetrant auris simili forma, cum tuba mugit… et barbita reboat… et cum Dauliades tollunt querellam. English: same (barbara noted). MATCH.
+
+**549-552.** Latin: cum voces penitus exprimimus et ore recto emittimus, lingua mobilis daedala nervorum articulat, formatura labrorum pro parte figurat. English: same. MATCH.
+
+**553-556.** Latin: ubi spatium non longum est unde vox quaeque profecta perveniat, necesse est verba exaudiri discernique; servat enim (vox) formaturam, figuram. English: same ("sets out to arrive" for profecta perveniat, sense kept). MATCH.
+
+**557-559.** Latin: si spatium longius aequo sit, necesse est verba confundi per aera multum et vocem conturbari dum transvolat auras. English: same. MATCH.
+
+**560-562.** Latin: ergo fit ut possis sonitum sentire neque internoscere quae sententia verborum sit; usque adeo vox confusa venit impedita. English: same. MATCH.
+
+**563-564.** Latin: verbum unum missum ab ore praeconis perciet auris omnibus. English: same. MATCH.
+
+**565-567.** Latin: vox una diffugit in multas, quoniam se dividit in auris privas, obsignans formam verbis sonoremque. English: same. MATCH.
+
+**568-569.** Latin: quae pars non incidit auris, praeter lata perit diffusa. English: same. MATCH.
+
+**570-571.** Latin: pars adlisa locis solidis reiecta sonorem reddit et interdum frustratur imagine verbi. English: same. MATCH.
+
+**572-574.** Latin: quae cum videas, possis rationem reddere [quo pacto saxa reddant formas paris verborum ex ordine]. English: same. MATCH.
+
+**575-576.** Latin: cum quaerimus comites palantis et ciemus. English: same. MATCH.
+
+**577-579.** Latin: vidi loca reddere sex aut septem voces, cum unam iaceres; ita colles, verba collibus repulsantes, iterabant dicta referri (dicta = the things said; referri = to be carried back). English: hills repeated "what they were taught to carry on". DIFF: reads docta for dicta, and turns referri ("borne back") into "carry on".
+
+**580-589.** Latin: finitimi fingunt Satyros Nymphasque tenere loca et Faunos esse loquuntur, quorum strepitu adfirmant silentia rumpi, sonos fieri, querellas quas tibia fundit, et genus agricolum sentiscere, cum Pan… percurrit calamos, ne fistula cesset. English: same. MATCH.
+
+**590-594.** Latin: cetera monstra loquuntur, ne putentur sola tenere loca deserta ab divis quoque; ideo iactant miracula, aut alia ratione ducuntur, ut genus humanum avidum est auricularum. English: same (forte dropped, negligible). MATCH.
+
+**595-602.** Latin: non est mirandum qua ratione voces veniant per loca ubi oculi nequeunt cernere; conloquium clausis foribus videmus; nimirum quia vox per flexa foramina transire potest, simulacra renutant; perscinduntur nisi recta foramina tranant, qualia vitri, qua species travolat omnis. English: same. MATCH.
+
+**603-606.** Latin: vox dividitur in partis cunctas, quoniam aliae ex aliis gignuntur, ubi una exorta semel dissiluit in multas, quasi scintilla solet se spargere in ignis. English: same. MATCH.
+
+**607-608.** Latin: loca abdita retro replentur vocibus, [quae omnia (neuter, = loca) circum fervunt sonituque cientur]. English: places are filled with voices, "which all around are astir". DIFF: the relative now attaches to "voices", but the neuter quae omnia refers to loca.
+
+**609-611.** Latin: simulacra omnia tendunt viis derectis ut sunt missa; quapropter nemo potis est cernere supra saepe, at voces accipere extra. English: same ("over a wall" for saepe). MATCH.
+
+**612-614.** Latin: tamen haec vox, dum transit clausa domorum, optunditur et auris confusa penetrat, et videmur sonitum potius quam verba audire. English: same. MATCH.
+
+FINDINGS
+579	LEXICAL	MODERATE	0.80	"iterabant dicta referri" (the spoken words, borne back) is rendered "repeated what they were taught to carry on", which reads docta for the source's dicta and turns passive referri ("to be carried back") into "carry on"; fix: "driving the words back, repeated what was said, borne back again."
+608	AMBIGUITY	MODERATE	0.60	"quae omnia circum fervunt" is neuter and refers to loca (607), but the English "which all around are astir" attaches naturally to "voices"; fix: "and all those places round about seethe and are roused with sound."
+517	LEXICAL	MINOR	0.50	"absona tecta" makes tecta, the building, the head of the whole list from omnia (516), but the English narrows it to "the roof out of true" as a separate item; fix: "crooked, sagging, leaning forward, leaning back, the whole building out of true,"
+531	GRAMMAR	MINOR	0.50	"ubi coeperunt primordia vocum" is a temporal clause inside quippe (530) giving the condition of the scraping, but the English drops ubi and asserts "the first-beginnings of voices have begun to go out"; fix (530-531): "since, when the first-beginnings of voices have begun to go out / through a narrow way, rising in a greater crowd,"

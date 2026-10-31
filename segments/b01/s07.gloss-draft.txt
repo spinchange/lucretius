@@ -1,0 +1,91 @@
+ANALYSIS
+
+**1002-1007**
+- Latin: est (pres. ind.) natura loci spatiumque profundi; rel. quod: neque fulmina (subj.) percurrere possint (pres. subj., result-characterizing), labentia modifies fulmina, perpetuo aevi tractu; nec prorsum facere ut restet minus ire meando; usque adeo patet (pres. ind.) ingens copia rebus, finibus exemptis (abl. abs.).
+- English: there is a nature of place and space; thunderbolts could not run through it, gliding; nor bring it about that less remains; so widely lies open a huge room, boundaries taken away.
+- MATCH.
+
+**1008-1016**
+- Latin: natura (subj.) tenet (pres. ind.) ne ipsa summa sibi modum parare possit; ipsa modifies summa. Rel. quae (natura) cogit corpus finiri inani, inane finiri corpore; ut … reddat (purpose/result) infinita omnia. Alternative: aut alterutrum … pateat (pres. subj.) inmoderatum, nisi terminet alterum. Apodosis: nec mare … possent sistere (impf. subj., contrary to fact).
+- English: nature herself prevents the sum from providing itself a limit; she compels body bounded by void and void by body, so that she renders the whole infinite; or one of the two would stretch out without measure; nor could sea and the rest hold their ground for an hour.
+- DIFF: "ipsa" has been moved from summa to natura.
+
+**1017-1020**
+- Latin: nam copia (subj.) dispulsa … ferretur (impf. subj.) soluta; sive numquam concreta creasset (plpf. subj.) ullam rem, quoniam cogi disiecta nequisset.
+- English: the store, driven apart, would be carried, set loose; or would never have come together and created anything, since it could not have been driven together.
+- MATCH.
+
+**1021-1034**
+- Latin: neque primordia (subj.) consilio … se locarunt (pf. ind., negated), nec pepigere quos motus darent. Sed quia multa … vexantur (pres. ind. pass.) percita plagis, experiundo deveniunt (pres. ind.) in disposituras qualibus summa consistit creata. Et summa (subj.) servata … ut semel coniectast efficit (pres. ind.) ut amnes integrent mare, terra novet fetus, gens floreat, ignes vivant.
+- English: the first-beginnings did not by design set themselves, nor bargain motions; but, harried by blows, by trying every motion they come into arrangements by which the sum stands; and, preserved, once cast into motions, it brings about that rivers replenish, earth renews, the race flourishes, the fires live.
+- MATCH.
+
+**1035-1037**
+- Latin: quod nullo facerent pacto (impf. subj.), nisi copia … suboriri posset; unde solent reparare amissa quaeque.
+- English: this they could by no means do unless a store could rise up from the infinite, from which they are used to making good each thing lost.
+- MATCH (defensible construal of quaeque).
+
+**1038-1041**
+- Latin: uti natura animantum privata cibo diffluit amittens corpus, sic omnia debent dissolui simul ac defecit suppeditare materies, aversa viai.
+- English: same structure.
+- MATCH.
+
+**1042-1048**
+- Latin: nec plagae (subj.) possunt conservare summam omnem quae est conciliata. Enim possunt cudere et partem morari dum veniant aliae ac suppleri summa queatur. Interdum coguntur resilire et largiri principiis spatium tempusque fugai, ut possint (principia) libera ferri a coetu.
+- English: same structure.
+- MATCH.
+
+**1049-1051**
+- Latin: quare necessest suboriri multa; et ut plagae ipsae possint suppetere, opus est infinita vis materiai.
+- English: same structure.
+- MATCH.
+
+**1052-1067**
+- Latin: fuge (imperative) credere illud quod dicunt: omnia niti in medium; mundi naturam stare sine ictibus; neque summa atque ima posse resolvi quoquam, quod sint omnia nixa; parenthesis si credis quicquam posse in se sistere; pondera sub terris sursum nitier et requiescere retro posta, ut simulacra per aquas videmus. Contendunt animalia suppa vagari, neque posse reccidere in loca caeli inferiora magis quam corpora nostra possint volare; illi cum videant solem, nos sidera cernere, dividere tempora, agitare noctes parilis diebus.
+- English: same structure, with the infinitives kept as indirect statement.
+- MATCH.
+
+**1068-1073 (damaged)**
+- Latin fragments: sed vanus stolidis haec…; amplexi quod habent…; nam medium nihil esse potest … infinita; neque, si iam medium sit, possit ibi quicquam consistere…; quam quavis alia ratione…
+- English: renders the fragments with gaps marked.
+- MATCH.
+
+**1074-1076**
+- Latin: omnis locus ac spatium (subj.) debet concedere aeque ponderibus, per medium, per non medium, qua cumque motus feruntur.
+- English: same structure.
+- MATCH.
+
+**1077-1080**
+- Latin: nec est locus quo corpora cum venerunt possint stare in inani, ponderis vi amissa (abl. abs.); nec inane debet ulli subsistere quin concedere pergat.
+- English: same structure, with the ablative absolute made a coordinate verb.
+- MATCH (defensible).
+
+**1081-1082**
+- Latin: haud igitur possunt res teneri in concilium, victae medii cuppedine.
+- English: same structure.
+- MATCH.
+
+**1083-1093**
+- Latin: quoniam fingunt non omnia corpora niti in medium, sed (corpora) terrarum atque liquoris, umorem ponti, undas, et quae terreno corpore contineantur; at exponunt auras et ignis differrier a medio; atque ideo aethera tremere signis, solis flammam pasci, quod calor omnis se conligat; nec ramos posse frondescere nisi cibatum… (sentence broken by the lacuna).
+- English: same structure; "only" is implied by sed.
+- MATCH.
+
+**1102-1110**
+- Latin: ne moenia diffugiant soluta; ne cetera sequantur; neve templa ruant; terra se subducat et omnis abeat per inane, inter permixtas … ruinas corpora solventes. Here solventes is acc. pl. agreeing with ruinas; abeat is singular, so solventes cannot go with terra omnis. Result: ut nihil extet reliquiarum praeter spatium et primordia caeca.
+- English: the walls fly apart; the rest follows; the precincts rush down; the earth withdraws, and all of it, "loosing its bodies", passes away; nothing left but space and first-beginnings.
+- DIFF: the participle solventes is attached to the earth instead of the ruins.
+
+**1111-1113**
+- Latin: qua cumque de parti constitues (fut.) corpora desse, haec pars erit ianua leti; hac turba omnis se dabit foras.
+- English: same structure.
+- MATCH.
+
+**1114-1117**
+- Latin: pernosces (fut.) haec perductus opella; alid ex alio clarescet; nec nox caeca eripiet iter quin pervideas ultima (negated prevention); ita res accendent lumina rebus.
+- English: you will learn; one thing will grow clear from another; night will not snatch your road "before you see through"; things will kindle lights.
+- DIFF: quin, which is prevention, has become a temporal "before".
+
+FINDINGS
+1108	GRAMMAR	MODERATE	0.70	"inter permixtas … ruinas / corpora solventes" has solventes (acc. pl.) agreeing with ruinas, the ruins that loose the bodies, but the English attaches "loosing its bodies" to the earth (abeat is singular, so it cannot take solventes); suggested fix: "that set bodies loose, pass away through the deep void,"
+1008	GRAMMAR	MINOR	0.50	"Ipsa … rerum summa … sibi" has ipsa modifying summa (the sum of things itself setting a limit to itself), but the English transfers it to nature as "nature herself"; suggested fix: "Further, nature prevents the sum of things itself from being able"
+1116	MISTRANSLATION	MINOR	0.50	"nec … nox iter eripiet, quin … pervideas" means night will not snatch the road and so keep you from seeing, but "before you see through" makes it temporal and implies the road may be lost afterwards; suggested fix: "night snatch away your road and keep you from seeing through to the farthest"

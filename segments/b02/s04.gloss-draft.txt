@@ -1,0 +1,181 @@
+ANALYSIS
+
+**581-585**
+- Latin: (illud) habere convenit et tenere [inf., impersonal]; nil esse quod consistat [subj.] ex genere uno; nec quicquam quod non constet permixto semine.
+- English: it is fitting to keep sealed and hold; nothing that consists of one kind; nothing not made of mingled seed.
+- MATCH
+
+**586-588**
+- Latin: quodcumque magis vis multas possidet atque potestates, ita docet [3sg., subj. quodcumque] plurima genera ac varias figuras esse in sese.
+- English: whatever possesses more forces and powers, the more it shows it holds most kinds, most varied shapes.
+- MATCH
+
+**589-593**
+- Latin: tellus habet corpora prima, unde fontes renovent [subj.] mare; habet (corpora) unde ignes oriantur; nam sola terrae ardent succensa; ex imis furit impetus Aetnae ignibus.
+- English: same clauses, same subjects.
+- MATCH
+
+**594-597**
+- Latin: habet unde extollere possit fruges arbustaque gentibus; unde etiam possit praebere fluvios frondes pabula generi ferarum.
+- English: same.
+- MATCH
+
+**598-599**
+- Latin: quare haec una dicta est [pf. pass.] magna deum mater, mater ferarum, genetrix corporis nostri.
+- English: same.
+- MATCH
+
+**600-603**
+- Latin: poetae cecinere hanc agitare leones (sedibus in curru); docentes [mod. poetae] tellurem pendere in spatio aeris neque posse terram sistere in terra.
+- English: same; "teaching" refers to the poets.
+- MATCH
+
+**604-605**
+- Latin: adiunxere feras, quia proles quamvis effera debet molliri victa officiis parentum.
+- English: same.
+- MATCH
+
+**606-607**
+- Latin: cinxere caput corona, quia (munita locis) sustinet urbes.
+- English: same.
+- MATCH
+
+**608-609**
+- Latin: quo insigni praedita fertur [pres. pass.] imago matris horrifice.
+- English: same.
+- MATCH
+
+**610-613**
+- Latin: gentes vocitant hanc Idaeam matrem, dant catervas comites, quia edunt fruges coepisse creari primum ex illis finibus.
+- English: same ("they say" = edunt).
+- MATCH
+
+**614-617**
+- Latin: Gallos attribuunt, quia significare volunt (eos) qui violarint numen et ingrati inventi sint esse putandos indignos qui progeniem edant [rel. of characteristic].
+- English: same.
+- MATCH
+
+**618-623**
+- Latin: tympana tonant, cymbala (tonant), cornua minantur, tibia stimulat mentis; praeportant tela, signa furoris, quae [tela] possint conterrere animos ac pectora metu numine divae.
+- English: same, but the relative clause on tela is turned into a passive purpose clause ("so that... may be terrified"). The weapons as agent are only implicit.
+- MATCH (defensible)
+
+**624-628**
+- Latin: cum invecta munificat mortalis salute, sternunt iter aere atque argento ditantes stipe, ninguntque floribus umbrantes matrem catervamque.
+- English: same.
+- MATCH
+
+**629-639**
+- Latin: manus armata (quos Grai Curetas memorant), si forte ludunt et exultant laeti, quatientes cristas, referunt Curetas Dictaeos, qui feruntur occultasse vagitum, cum pueri pulsarent aera; ne Saturnus adeptus mandaret eum malis daretque matri volnus.
+- English: same ("when they happen to" = si forte); 636 is garbled as printed.
+- MATCH
+
+**640-643**
+- Latin: propterea comitantur armati matrem, aut quia significant divam praedicere ut velint defendere terram, parentque esse praesidio decorique parentibus.
+- English: same.
+- MATCH
+
+**644-645**
+- Latin: quae, quamvis disposta ferantur, sunt repulsa a vera ratione.
+- English: same.
+- MATCH
+
+**646-651**
+- This is the refrain of 1.44-49, confirmed verbatim.
+- MATCH
+
+**652-654**
+- Latin: terra caret sensu; et quia potitur primordia, effert multa in lumina solis.
+- English: same.
+- MATCH
+
+**655-659, 680**
+- Latin: siquis constituet vocare mare Neptunum, fruges Cererem, et mavolt abuti nomine Bacchi quam proferre vocamen; concedamus ut dictitet orbem esse deum matrem, dum ipse vera re tamen parcat contingere animum religione.
+- English: same; tamen is unrendered, which is minor.
+- MATCH
+
+**660-665**
+- Latin: pecudes, proles, greges (tondentes, sedantes) vivont dissimili specie retinentque naturam parentum et quaeque imitantur mores generatim.
+- English: same.
+- MATCH
+
+**666-667**
+- Latin: tanta est dissimilis ratio materiai in quovis genere herbae, tanta in flumine.
+- English: same.
+- MATCH
+
+**668-671**
+- Latin: ossa, cruor, ... nervi constituunt animantem quamvis unam; quae sunt distantia, perfecta dissimili figura.
+- English: same.
+- MATCH
+
+**672-675**
+- Latin: quaecumque cremantur, si nil praeterea, tamen tradunt haec in corpore unde possint iacere ignem, submittere lumen, agere scintillas, differre favillam.
+- English: same.
+- MATCH
+
+**676-678**
+- Latin: peragrans cetera invenies (ea) celare semina corpore et cohibere figuras.
+- English: same.
+- MATCH
+
+**679-681**
+- Latin: vides multa quibus color et sapor reddita sunt cum odore, in primis poma.
+- English: same.
+- MATCH
+
+**682-685**
+- Latin: haec debent constare variis figuris; nidor penetrat qua fucus non it; fucus sorsum, sapor sorsum insinuatur; ut noscas (ea) differre primis figuris.
+- English: same.
+- MATCH
+
+**686-687**
+- Latin: formae dissimiles conveniunt in glomeramen unum; res constant permixto semine.
+- English: same.
+- MATCH
+
+**688-694**
+- Latin: vides elementa communia verbis, cum necesse est confiteare versus ac verba constare alia ex aliis elementis; non quo multa parum communis littera currat, aut nulla duo sint ex omnibus isdem, sed quia non volgo paria omnibus omnia constant.
+- English: same through 693. 694 has "they are not all made alike of all", where the register fixes "not all are alike to all". The English "made... of all" reads as composition out of all things.
+- DIFF (694 wording; refrain broken)
+
+**695-699**
+- Latin: cum communia multa sint multarum rerum, primordia possunt consistere dissimili summa; ut feratur genus humanum et fruges constare ex aliis.
+- English: same.
+- MATCH
+
+**700-706**
+- Latin: non putandum est omnia posse conecti omnimodis; nam videres portenta fieri, species semiferas existere, ramos egigni corpore vivo, membra conecti marinis, naturam pascere Chimaeras per terras omniparentis.
+- English: same.
+- MATCH
+
+**707-710**
+- Latin: quorum nil fieri manifestum est, quando videmus omnia creata seminibus certis posse conservare genus; necessust id fieri certa ratione.
+- English: same.
+- MATCH
+
+**711-717**
+- Latin: sua corpora discedunt cuique in artus conexaque efficiunt motus; videmus naturam reicere aliena; multa fugiunt e corpore percita plagis, quae neque potuere conecti neque consentire et imitari motus.
+- English: same ("in unseen bodies" for caecis corporibus is defensible).
+- MATCH
+
+**718-719**
+- Latin: ne putes animalia sola teneri legibus his, quaedam ratio terminat res omnis.
+- English: "the same principle bounds all things". The Latin has quaedam, "a certain"; the English follows the conjecture eadem, not the source text.
+- DIFF
+
+**720-724**
+- Latin: uti res genitae dissimiles sunt tota natura, ita quamque necessest constare dissimili figura; non quo multa parum sint praedita simili forma, sed quia non volgo paria omnibus omnia constant.
+- English: same, but 724 is "they are not all made alike of all", as at 694, against the refrain fixed for 2.337. 723 also has "too few" where the refrain has "few".
+- DIFF (724)
+
+**725-729**
+- Latin: cum semina distent, necessust differre intervalla, vias, conexus, pondera, plagas, concursus, motus; quae seiungunt corpora, secernunt terras ac mare, retentant caelum a terris.
+- English: concursus is rendered "meetings". The register fixes concursus as "collisions" and reserves "meeting" for coetus.
+- DIFF (727)
+
+FINDINGS
+727	LEXICAL	MINOR	0.60	"concursus" in the list of 2.725-727 is rendered "meetings", which collapses the impact-word into the register's rendering of coetus/concilium and breaks the fixed "collisions" (2.1021, 1.685); fix: "collisions, motions; which not only divide living bodies"
+719	MISTRANSLATION	MINOR	0.55	"quaedam ratio res terminat omnis" says "a certain principle", but the English "the same principle" follows the emendation eadem rather than the source text; fix: "by these laws, a certain principle bounds all things."
+724	AMBIGUITY	MINOR	0.55	"non volgo paria omnibus omnia constant" means all things are not composed alike with all, but "they are not all made alike of all" reads as things made out of all, and it departs from the fixed refrain of 2.337 (2.723 also has "too few" for the refrain's "few"); fix: "but because, as a rule, not all are alike to all."
+694	AMBIGUITY	MINOR	0.50	The same line, "non volgo paria omnibus omnia constant", is rendered "they are not all made alike of all", which can be read as composition out of all and breaks the refrain fixed as 2.337 = 2.694; fix: "but because, as a rule, not all are alike to all."

@@ -1,0 +1,185 @@
+ANALYSIS
+
+**988-989**
+- Latin: Nec... mortalia saecla (subj.) linquebant (impf. ind. act. pl.) dulcia lumina vitae (obj.), lamentis; nimio tum plus quam nunc (negated comparison).
+- English: generations of mortals did not, much more than now, leave the sweet light of life with lamentation.
+- MATCH
+
+**990-993**
+- Latin: unus quisque eorum (subj.), magis deprensus, praebebat (impf.) pabula viva (obj.) feris; haustus (nom., the man) dentibus; et replebat (impf.) nemora... gemitu; videns (the man) viscera viva sepeliri (pres. pass. inf.) vivo busto.
+- English: each one, more often caught, offered living food to beasts, swallowed by teeth; filled groves... with groaning, seeing his living flesh buried in a living tomb.
+- MATCH
+
+**994-998**
+- Latin: at (illi) quos effugium servarat (plpf.) corpore adeso (abl. abs.) accibant (impf.) Orcum, tenentes palmas super ulcera, horriferis vocibus; donique vermina saeva (subj.) privarant (plpf.) eos vita; expertis opis, ignaros quid volnera vellent.
+- English: those whom flight had saved, body half-eaten, holding palms over sores, called on Orcus with cries, until gripings had robbed them of life, without help, not knowing what wounds required.
+- MATCH
+
+**999-1001**
+- Latin: non multa milia virum ducta sub signis (obj.) una dies (subj.) dabat (impf.) exitio; nec aequora ponti (subj.) lidebant (impf.) navis virosque ad saxa.
+- English: a single day did not give many thousands led beneath standards to destruction; nor did the levels of the sea dash ships and men on rocks.
+- MATCH
+
+**1002-1003**
+- Latin: nam mare (subj.), saepe coortum, temere in cassum frustra saevibat (impf.) leviterque ponebat (impf.) minas inanis.
+- English: the sea, rising often at random, in vain, would rage and lightly lay aside empty threats.
+- MATCH
+
+**1004-1005**
+- Latin: nec pellacia subdola placidi ponti (subj.) poterat (impf.) pellicere quemquam in fraudem, ridentibus undis.
+- English: nor could the sly allure of the calm sea lure anyone into ruin with laughing waves.
+- MATCH
+
+**1006**
+- Latin: improba navigii ratio (subj.) tum caeca iacebat (impf.).
+- English: the wicked craft of sailing lay unseen.
+- MATCH
+
+**1007-1008**
+- Latin: tum deinde penuria cibi (subj.) dabat (impf.) membra languentia leto; contra nunc copia rerum (subj.) mersat (pres.).
+- English: then lack of food gave failing limbs to death; now abundance drowns them.
+- MATCH
+
+**1009-1010**
+- Latin: illi inprudentes ipsi sibi vergebant (impf.) venenum; nunc ipsi dant (pres.) aliis sollertius.
+- English: they in ignorance poured poison for themselves; now with more skill give it to others.
+- MATCH
+
+**1011-1014**
+- Latin: postquam pararunt (pf.) casas, pellis, ignem, et mulier coniuncta viro concessit (pf.) in unum, [lacuna] cognita sunt (pf. pass. pl.), videre (pf.) prolem creatam ex se; tum genus humanum (subj.) primum coepit (pf.) mollescere.
+- English: after they got huts, skins, fire, and woman, joined to man, withdrew into one home, [lacuna] were known, they saw offspring created from themselves; then the human race first began to soften.
+- MATCH ("home" is a defensible supplement for in unum.)
+
+**1015-1018**
+- Latin: ignis (subj.) curavit (pf.) ut corpora alsia non ita iam possent (impf. subj.) ferre frigus sub tegmine caeli; Venus (subj.) inminuit (pf.) viris; pueri (subj.) blanditiis facile fregere (pf.) ingenium superbum parentum.
+- English: fire saw to it that shivering bodies could no longer so well bear cold; Venus lessened strength; children with coaxing broke parents' proud temper.
+- MATCH
+
+**1019-1023**
+- Latin: finitimi (subj.) aventes (governing nec laedere nec violari) coeperunt (pf.) iungere amicitiem inter se; commendarunt (pf.) pueros muliebreque saeclum, cum balbe significarent (impf. subj.) vocibus et gestu aequum esse omnis (acc. subj.) misererier imbecillorum.
+- English: eager, neighbors began to join in friendship, neither to harm nor suffer violence; commended children and womankind, when stammering they signified with cries and gestures that it is right for all to pity the weak.
+- MATCH
+
+**1024-1027**
+- Latin: nec tamen poterat (impf.) concordia gigni omnimodis; sed bona magnaque pars (subj.) servabat (impf.) foedera caste; aut genus humanum foret peremptum (plpf. subj.) iam tum, nec propago potuisset (plpf. subj.) perducere saecla adhuc.
+- English: concord could not be brought about in every way, but a good and great part kept covenants faithfully; else the race would have been destroyed, nor could offspring have carried the generations on to now.
+- MATCH
+
+**1028-1032**
+- Latin: natura (subj.) subegit (pf.) (homines) mittere varios sonitus linguae; utilitas (subj.) expressit (pf.) nomina rerum; non alia longe ratione atque ipsa infantia linguae videtur (pres.) protrahere pueros ad gestum, cum facit ut digito monstrent quae sint praesentia.
+- English: nature drove men to utter sounds; need pressed out names, by a principle not far other than that by which speechlessness seems to draw children to gesture, when it makes them point at things present.
+- MATCH
+
+**1033**
+- Latin: quisque (subj.) sentit (pres.) vim suam, quod possit (pres. subj.) abuti.
+- English: every creature feels its own power, what it can use it for.
+- MATCH (quod is "how far"; the English is close enough.)
+
+**1034-1035**
+- Latin: cornua nata (obj. of illis) prius vitulo quam extent (pres. subj.) frontibus; illis iratus petit (pres.) atque infestus inurget (pres.).
+- English: the calf, before horns stand out, butts with them angry and presses on.
+- MATCH
+
+**1036-1038**
+- Latin: catuli pantherarum scymnique leonum (subj.) repugnant (pres.) unguibus pedibus morsuque iam tum, vix etiam cum sunt dentes unguesque creati.
+- English: the same.
+- MATCH
+
+**1039-1040**
+- Latin: videmus (pres.) genus alituum omne fidere alis et petere tremulum auxiliatum a pennis.
+- English: the same.
+- MATCH
+
+**1041-1043**
+- Latin: putare aliquem tum distribuisse nomina rebus et homines didicisse inde vocabula prima desiperest.
+- English: the same.
+- MATCH
+
+**1043-1045**
+- Latin: cur hic posset (impf. subj.) notare cuncta vocibus et emittere sonitus, alii putentur (pres. subj. pass.) non quisse facere id tempore eodem?
+- English: the same.
+- MATCH
+
+**1046-1049**
+- Latin: si alii non fuerant usi vocibus inter se, unde insita est notities utilitatis, et unde data est huic prima potestas, ut sciret animoque videret quid vellet facere?
+- English: the same.
+- MATCH
+
+**1050-1051**
+- Latin: unus (subj.) non poterat cogere pluris victosque domare, ut vellent perdiscere nomina rerum.
+- English: the same.
+- MATCH
+
+**1052-1055**
+- Latin: nec facilest docere suadereque surdis ratione ulla quid sit opus facto; neque enim paterentur, nec ferrent amplius ratione ulla sonitus vocis inauditos (unheard-of, unfamiliar) obtundere auris frustra.
+- English: nor is it easy to teach and persuade the deaf; they would not suffer it, nor bear for long unheard sounds battering their ears.
+- DIFF: inauditos is rendered "unheard".
+
+**1056-1061**
+- Latin: quid mirabile est, si genus humanum, cui vox et lingua vigeret, notaret (impf. subj.) res varia voce pro vario sensu, cum pecudes mutae, cum saecla ferarum soleant (pres. subj.) ciere voces dissimilis variasque, cum metus aut dolor est et cum gaudia gliscunt?
+- English: the same.
+- MATCH
+
+**1062**
+- Latin: licet cognoscere id rebus apertis.
+- English: the same.
+- MATCH
+
+**1063-1066**
+- Latin: cum primum mollia ricta magna Molossum inritata (subj.) fremunt (pres.) nudantia dentes, rabies restricta (subj.) minatur (pres.) longe alio sonitu, et cum iam latrant et complent omnia vocibus.
+- English: the same.
+- MATCH
+
+**1067-1072**
+- Latin: at cum temptant lambere catulos lingua, aut ubi eos lactant (fondle), (canes) pedibus morsuque potentes (nom., describing the dogs) imitantur (pres.) teneros haustus suspensis dentibus, adulant longe alio pacto gannitu vocis, et cum deserti baubantur in aedibus, aut cum plorantis fugiunt plagas summisso corpore.
+- English: when they try to lick pups, or toss them with paws and, snapping at them, make a show of tender gulps with teeth held back, they fawn far differently than when left alone they bay, or flee blows whining.
+- DIFF: lactant is rendered "toss them with their paws"; potentes ("strong in paws and bite") is turned into actions, which loses the concession.
+
+**1073-1077**
+- Latin: nonne hinnitus videtur item differre, ubi equus iuvencus saevit (pres.) ictus calcaribus Amoris et edit fremitum ad arma, et cum alias hinnit concussis artubus?
+- English: the same.
+- MATCH
+
+**1078-1082**
+- Latin: genus alituum variaeque volucres (subj.), accipitres, ossifragae, mergi petentes victum, iaciunt (pres.) voces longe alias alio tempore, et quom de victu certant praedaque repugnant.
+- English: the same.
+- MATCH
+
+**1083-1086**
+- Latin: partim mutant (pres.) cantus raucisonos cum tempestatibus, ut saecla cornicum gregesque corvorum, ubi dicuntur (pres. pass.) poscere aquam et imbris et vocare ventos.
+- English: the same.
+- MATCH
+
+**1087-1090**
+- Latin: si varii sensus (subj.) cogunt animalia, muta cum sint, emittere voces, quanto magis aequumst mortalis tum potuisse notare res dissimilis alia atque alia voce!
+- English: the same.
+- MATCH
+
+**1091-1093**
+- Latin: ne tacitus requiras (pres. subj.), fulmen (subj.) detulit (pf.) ignem in terram mortalibus primitus; inde diditur (pres. pass.) omnis ardor flammarum.
+- English: the same.
+- MATCH
+
+**1094-1095**
+- Latin: videmus multa insita flammis caelestibus fulgere, cum plaga caeli donavit (pf.) vaporis.
+- English: the same.
+- MATCH
+
+**1096-1100**
+- Latin: cum arbor ramosa pulsa ventis vacillans aestuat incumbens in ramos arboris, exprimitur (pres. pass.) ignis extritus validis viribus, emicat ardor flammai, dum rami stirpesque teruntur mutua.
+- English: the same.
+- MATCH
+
+**1101**
+- Latin: quorum utrumque potest dedisse ignem mortalibus.
+- English: the same.
+- MATCH
+
+**1102-1104**
+- Latin: inde sol (subj.) docuit (pf.) quoquere cibum ac mollire vapore flammae, quoniam videbant multa mitescere victa verberibus radiorum atque aestu per agros.
+- English: the same.
+- MATCH
+
+FINDINGS
+1068	MISTRANSLATION	MODERATE	0.60	"aut ubi eos lactant, pedibus morsuque potentes" (1068, with 1069) describes the dogs fondling their pups, though strong in paw and bite, while they mimic gulps with teeth held back; the English turns lactant into "toss them with their paws" and potentes into the action "snapping at them", which loses the concession that gives the line its point; fix: "or when they fondle them, strong as they are in paw and bite,"
+1055	LEXICAL	MINOR	0.55	"vocis inauditos sonitus" means sounds of voice never heard before, i.e. unfamiliar and unintelligible, but the English "unheard sounds" says the sounds are not heard at all, which with the deaf (1052) misleads; fix: "unheard-of sounds of voice to batter their ears in vain."

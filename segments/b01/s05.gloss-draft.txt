@@ -1,0 +1,152 @@
+ANALYSIS
+
+**763-766**
+- Latin: si [cuncta] creantur (pres. ind. pass., pl.) ex quattuor rebus | atque [omnia] dissoluuntur in eas res | qui magis [illa = the four] queunt dici primordia rerum | quam contra [res] putari [primordia] illorum retroque? (rhetorical question)
+- English: if all things are created out of four | and dissolved back into them | why can those be called first-beginnings any more than things be thought theirs in reverse?
+- MATCH
+
+**767-768**
+- Latin: enim [illa] gignuntur alternis (pass.), mutantque colorem et totam naturam inter se tempore ab omni
+- English: for they are born by turns and change color and whole nature among themselves from all time
+- MATCH
+
+**769**
+- Latin: videmus [fulmina diffugere atque imbris ventosque] (repeats 762)
+- English: same, with a note
+- MATCH
+
+**770-774**
+- Latin: sin putas [corpus ignis terraeque, auras, rorem] coire | ut nil in concilio mutet naturam eorum (result) | nulla res poterit esse creata ex illis (fut.) | non animans, non [res] exanimo cum corpore, ut arbos
+- English: if you think fire, earth, breezes, moisture come together | so that nothing changes their nature | no thing can be created | not living, not lifeless like a tree
+- MATCH
+
+**775-777**
+- Latin: quippe quicque ostendet suam naturam in coetu variantis acervi | aer mixtus videbitur manere cum terra et rore
+- English: each will show its nature in the meeting of the varied heap | air will be seen, mixed, to remain with earth and moisture
+- MATCH
+
+**778-781**
+- Latin: oportet primordia adhibere naturam clandestinam caecamque | ne emineat quid (purpose) | quod pugnet et obstet (rel. subj.) | quo minus quodcumque creatur queat esse proprie
+- English: same structure
+- MATCH
+
+**782-788**
+- Latin: [they] repetunt a caelo | et faciunt (ind.) [ignem se vertere / imbrem gigni / terram creari / cuncta reverti / nec cessare haec mutare, meare] — every infinitive depends on faciunt, so it is all the theorists' account
+- English: "make fire turn… rain be born… earth be created… all things return" depend on "make"; then "and these never cease to change… to travel" stands as a finite indicative
+- DIFF: the last member slips out from under faciunt and becomes the poet's own assertion
+
+**789**
+- Latin: quod primordia haud ullo pacto debent facere
+- English: this the first-beginnings must by no means do
+- MATCH
+
+**790-793**
+- Latin: necessest quiddam immutabile superare | ne res omnes redigantur funditus | nam quodcumque mutatum exit finibus, hoc continuo mors est illius quod fuit ante
+- English: sense matches
+- DIFF (register only): 792-793 are the fixed refrain of 1.670-671 ("passes out of its own bounds, / this at once…"), and the English here departs from it
+
+**794-797**
+- Latin: quoniam quae diximus veniunt in commutatum | necessest ea constare ex aliis quae nequeant convertier | ne tibi res redeant ad nilum funditus omnis
+- English: same, but "so that things do not return for you utterly to nothing"
+- DIFF: omnis is dropped, and the refrain 1.673 is not kept verbatim
+
+**798-802**
+- Latin: quin potius constituas (subj.) quaedam corpora praedita tali natura | si crearint ignem | posse eadem, demptis paucis tributisque, ordine et motu mutato, facere auras | sic omnis mutarier alias aliis rebus?
+- English: same
+- MATCH
+
+**803-808**
+- Latin: inquis: res manifesta indicat [omnis res crescere alique e terra in auras] | nisi tempestas indulget imbribus (ut arbusta vacillent, result) solque fovet tribuitque calorem | non possint crescere fruges, arbusta, animantis
+- English: same
+- MATCH
+
+**809-813**
+- Latin: nisi cibus et umor adiuvet nos | amisso corpore (abl. abs.) vita omnis exsoluatur e nervis ossibusque | enim adiutamur alimurque certis ab rebus, aliae res certis
+- English: the ablative absolute becomes the finite "our body would waste, and then"; sense kept
+- MATCH
+
+**814-816**
+- Latin: quia multa primordia communia multis rerum mixta sunt in rebus | ideo variae res variis rebus aluntur
+- English: same
+- MATCH
+
+**817-819**
+- Latin: magni refert saepe [cum quibus et quali positura eadem primordia contineantur] et [quos motus dent accipiantque]
+- English: sense matches
+- DIFF (register/lineation): "with what" is moved up to 817, so 818-819 do not carry the fixed refrain text of 1.818-819 = 1.909-910
+
+**820-822**
+- Latin: namque eadem constituunt caelum… ; eadem fruges…; verum aliis alioque modo commixta moventur
+- English: same
+- MATCH
+
+**823-826**
+- Latin: vides multa elementa communia multis verbis | cum tamen necessest confiteare versus ac verba distare re et sonitu
+- English: same
+- MATCH
+
+**827-829**
+- Latin: tantum elementa queunt ordine solo permutato | at primordia possunt plura adhibere unde queant res creari
+- English: same
+- MATCH
+
+**830-833**
+- Latin: scrutemur (hortatory subj.) homoeomerian | quam Grai memorant | nec egestas concedit nobis dicere | sed facilest exponere rem
+- English: same
+- MATCH
+
+**834-842**
+- Latin: [hic] putat ossa ex ossibus, viscus ex visceribus gigni, sanguen creari guttis coeuntibus | aurum consistere posse ex micis | terram concrescere | ignis ex ignibus, umorem esse umoribus | cetera fingit putatque consimili ratione
+- English: same
+- MATCH
+
+**843-846**
+- Latin: nec concedit [inane esse ulla de parte] neque [finem esse secandis corporibus] | quare videtur errare in utraque ratione atque illi
+- English: same
+- MATCH
+
+**847-850**
+- Latin: adde quod fingit primordia inbecilla nimis | si primordia sunt quae constant praedita natura simili atque res, aequeque laborant et pereunt, neque res ulla refrenat ab exitio
+- English: same
+- MATCH
+
+**851-853**
+- Latin: quid eorum durabit in oppressu valido ut effugiat mortem sub dentibus leti? ignis an umor…?
+- English: same
+- MATCH
+
+**854-856**
+- Latin: nil, ut opinor | ubi res omnis erit tam mortalis ex aequo funditus quam quae videmus perire victa vi
+- English: same
+- MATCH
+
+**857-858**
+- Latin: testor res probatas [neque res posse reccidere ad nihilum neque crescere de nihilo]
+- English: same
+- MATCH
+
+**859-860a**
+- Latin: quoniam cibus auget alitque corpus | scire licet venas sanguen ossa … [lacuna]
+- English: same, with the lacuna kept
+- MATCH
+
+**861-866**
+- Latin: sive dicent cibos omnis esse commixto corpore et habere corpora parva nervorum, ossa, venas, partis cruoris | fiet uti cibus omnis putetur constare ex alienigenis rebus, ossibus… mixto
+- English: same
+- MATCH
+
+**867-869**
+- Latin: quaecumque corpora crescunt e terra, si sunt in terris | necessest terram constare ex alienigenis quae exoriuntur
+- English: same
+- MATCH
+
+**870-874**
+- Latin: transfer, licebit utare totidem verbis | si flamma, fumus, cinis latet in lignis | necessest ligna consistant ex alienigenis | praeterea tellus alit auget quaecumque corpora … ex alienigenis quae lignis exoriuntur
+- English: same, with the textual problem noted
+- MATCH
+
+FINDINGS
+797	OMISSION	MODERATE	0.75	"ne tibi res redeant ad nilum funditus omnis" loses omnis ("so that things do not return…"), which weakens "all things" to "things", and it also breaks the fixed refrain of 1.673; "so that all things do not return utterly to nothing for you;"
+787	GRAMMAR	MODERATE	0.55	"nec cessare haec inter se mutare, meare" still depends on faciunt (783), so it is part of the opponents' theory, but the English "and these never cease to change" stands as the poet's own indicative claim; "and make these never cease to change among themselves, to travel"
+792	LEXICAL	MINOR	0.55	"nam quod cumque suis mutatum finibus exit, / continuo hoc mors est" is the fixed refrain 1.670-671 = 1.792-793, but the English uses "goes out beyond its own boundaries, / that is at once" in place of the register's verbatim text (793 likewise); "for whatever is changed and passes out of its own bounds,"
+818	LINEATION	MINOR	0.50	"cum quibus et quali positura contineantur" is the fixed refrain 1.818-819 ("with what and in what position they are held together,"), but "with what" has been moved up into 817 and 818 is recast; 817 "And it often matters greatly, for the same first-beginnings," / 818 "with what and in what position they are held together,"

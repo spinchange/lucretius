@@ -1,0 +1,38 @@
+ANALYSIS
+1-8 | L: [qui] potuisti (perf. ind. 2sg) extollere lumen, inlustrans commoda; te sequor; pono (pres.) ficta vestigia in tuis pressis signis; non certandi cupidus quam propter amorem quod aveo imitari; quid contendat hirundo cycnis (subj.), quid haedi possint facere consimile et equi vis | E: you who were able to raise light, shining on goods; I follow; I set prints in your pressed tracks; not from desire to compete but love, because I long to imitate; how should swallow contend with swans, what could kids achieve to match horse's force | MATCH
+9-13 | L: tu es inventor; tu suppeditas patria praecepta; ut apes libant, nos depascimur aurea dicta, dignissima vita | E: same | MATCH
+14-17 | L: simul ac ratio (coorta divina mente) coepit vociferari naturam rerum, diffugiunt terrores, moenia discedunt; video res geri per inane | E: as soon as reasoning (sprung from divine mind) begins to proclaim, terrors flee, walls draw apart; I see things carried on | MATCH (coepit perf. as "begins", defensible)
+18-24 | L: apparet numen sedesque; quas neque venti concutiunt nec nubila aspergunt neque nix violat; aether integit et ridet; natura suppeditat omnia; nec ulla res delibat pacem | E: same | MATCH
+25-27 | L: nusquam apparent templa; nec tellus obstat quin omnia dispiciantur quae geruntur infra | E: same | MATCH
+28-30 | L: voluptas atque horror percipit me, quod natura tua vi retecta est | E: same | MATCH
+31-40 | L: quoniam docui qualia sint exordia (origins) et quam variis distantia formis volitent, quo modo res creari possint; animi atque animae natura videtur claranda esse, et metus Acheruntis agendus, qui turbat vitam, suffundens, neque relinquit voluptatem | E: since I have taught what the "beginnings" are like...; nature of mind and spirit must be made clear; fear driven out, which troubles, suffusing, leaves no pleasure | DIFF: exordia rendered with principia's term "beginnings" (register fixes 3.31 = origins)
+41-47 | L: quod homines ferunt morbos et vitam infamem magis timendos quam Tartara, se scire animi naturam sanguinis esse aut venti, nec egere rationis nostrae; hinc licet advertas omnia iactari laudis causa | E: same | MATCH
+48-54 | L: idem extorres, fugati, foedati, adfecti vivunt; et tamen parentant, mactant pecudes, inferias mittunt, advertunt animos ad religionem | E: same | MATCH
+55-58 | L: quo magis convenit hominem spectare in periclis, noscere qui sit; nam verae voces eliciuntur, eripitur persona, manet res | E: same (with note on corruption) | MATCH
+59-64 | L: avarities et cupido, quae cogunt homines transcendere fines, niti, emergere; haec vulnera aluntur mortis formidine | E: same | MATCH
+65-67 | L: contemptus et egestas videtur semota a vita et cunctarier ante portas leti | E: same | MATCH
+68-73 | L: unde homines, dum volunt se effugisse et longe longeque remosse (se = themselves), rem conflant, divitias conduplicant, gaudent, mensas odere timentque | E: while men wish to have fled far from these and removed "them" far away; amass, double, rejoice, hate and fear | DIFF: reflexive se (removed themselves) becomes "them" (the evils)
+74-77 | L: consimili ratione ab eodem timore macerat invidia [eos]: illum esse potentem, illum aspectari; ipsi se volvi queruntur | E: they are wasted by envy that that man is powerful, gazed at; they complain they roll in mire | MATCH
+78 | L: intereunt partim statuarum et nominis ergo | E: some perish for statues and a name | MATCH
+79-84 | L: usque adeo odium vitae percipit humanos ut consciscant letum, obliti hunc timorem fontem esse curarum: hunc vexare pudorem, rumpere vincula, evertere [pietatem] | E: same, with note on text | MATCH
+85-86 | L: homines prodiderunt (perf. act.) patriam parentesque, petentes vitare templa | E: "men have their country and dear parents / betrayed", seeking to shun | DIFF: word order yields causative "have X betrayed" (got others to betray), obscuring that the men themselves betrayed
+87-90 | L: uti pueri trepidant et metuunt omnia, sic nos timemus quae non magis metuenda quam quae pueri pavitant finguntque futura | E: same sense | DIFF (refrain): wording departs from fixed 2.55-58 ("fear everything", "in the dark shudder at and imagine will come")
+91-93 | L: hunc terrorem necessest discutiant non radii sed species ratioque | E: = 1.146-148 refrain | MATCH
+94-97 | L: dico animum (quem mentem vocamus), in quo consilium locatum est, esse partem hominis nihilo minus ac manus, pes, oculi partes extant | E: same | MATCH
+98-105 | L: [quidam putant] sensum animi non esse locatum in parte, verum habitum vitalem esse, quod faciat nos vivere, cum nulla in parte siet mens; ut valetudo dicitur esse corporis nec est pars, sic non reponunt; in quo diversi errare videntur | E: same | MATCH
+106-111 | L: corpus quod cernitur aegret, cum laetamur ex alia parte; fit retro, cum miser ex animo laetatur corpore toto; ut si pes dolet, caput in nullo dolore sit | E: same | MATCH
+112-116 | L: cum membra dedita somno et corpus iacet, est aliud quod agitatur et accipit motus et curas | E: same | MATCH
+117-120 | L: ut possis cognoscere animam esse in membris neque corpus harmonia sentire solere, fit ut detracto corpore vita moretur | E: same ("solere" absorbed, defensible) | MATCH
+121-123 | L: eadem [vita], cum corpora caloris diffugere et aer editus est, deserit venas, relinquit ossa | E: same | MATCH
+124-127 | L: ut possis noscere non omnia corpora aequas partis habere neque ex aequo fulcire salutem, sed haec semina venti et vaporis curare ut vita moretur | E: same | MATCH
+128-129 | L: est calor ac ventus vitalis in corpore, qui deserit moribundos artus | E: same | MATCH
+130-134 | L: quoniam reperta est natura animi atque animae quasi pars hominis, redde nomen harmoniai, delatum ad organicos, sive ipsi traxere aliunde et transtulerunt in illam rem quae egebat nomine | E: found to be "a part of man"; give back name, etc. | DIFF: quasi ("as it were") omitted
+135 | L: quidquid est, habeant; tu percipe cetera dicta | E: same | MATCH
+
+FINDINGS
+3.69	MISTRANSLATION	MODERATE	0.70	"se effugisse... longe longeque remosse" has reflexive se (wish to have escaped and removed themselves far, far away), but the English "removed them far, far away" makes the evils the object; "to have escaped from these and removed themselves far, far away,"
+3.86	GRAMMAR	MODERATE	0.60	"homines patriam carosque parentis / prodiderunt" is plain active perfect, but "men have their country and dear parents / betrayed" reads as causative (had others betray them); 3.85 "for often before now men have betrayed their country and dear parents," with 3.86 "seeking to shun the precincts of Acheron."
+3.31	LEXICAL	MINOR	0.60	"cunctarum exordia rerum" is rendered "the beginnings of all things", principia's term, though the register fixes exordia = origins at 3.31 (and 4.26 repeats this line as "origins"); "And since I have taught what the origins of all things"
+3.90	LEXICAL	MINOR	0.60	"quae pueri in tenebris pavitant finguntque futura" departs from the fixed refrain 2.58 (the note on this line demands verbatim); "what children in the dark shudder at and imagine will come."
+3.87	LEXICAL	MINOR	0.55	"omnia... metuunt" is "fear all things" where the fixed refrain 2.55 has "fear everything"; "For just as children tremble and fear everything"
+3.131	OMISSION	MINOR	0.50	"animae quasi pars hominis" hedges with quasi ("as it were a part of man"), which the English drops, asserting flatly "to be a part of man"; "and of the spirit, to be as it were a part of man, give back the name"

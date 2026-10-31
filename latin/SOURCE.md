@@ -4,10 +4,16 @@
 TEI edition of Lucretius, *De Rerum Natura* (PerseusDL canonical-latinLit,
 `phi0550.phi001.perseus-lat1.xml`, CC BY-SA 4.0 markup; the copy used is at
 `source/drn_perseus_lat1.xml`). The TEI header records its printed source as
-"Lost information". The orthography (divom, frugiferentis, patefactast,
-militiai) and the line numbering match Cyril Bailey's Oxford Classical Text
-(1900; 2nd ed. 1922), public domain. To do before publication: collate a
-sample of each book against a scan of the 1922 OCT to confirm.
+"Lost information". The line numbering is the standard numbering shared by
+Munro and by Cyril Bailey's Oxford Classical Text (1900; 2nd ed. 1922). The
+text itself is not Bailey's: a full collation against an OCR of the 1922 OCT
+(2026-10-30) shows the archaizing orthography Munro used (divom, volgo,
+inritat, haut, quicque, nihil for Bailey's divum, vulgo, irritat, haud,
+quidque, nil) and readings that agree now with Munro against Bailey (6.956
+singular tempestas), now with the manuscripts against both (1.721 Aeoliae,
+1.520 vocaret), and at 4.547 (Dauliades natae hortis) with neither. Notes in
+the translation that cite an editor's reading were checked against Bailey's
+1922 apparatus in the second-round review.
 
 Format: each line is its number right-aligned in width 5, two spaces, the
 Latin. Lines are in the edition's printed order, which departs from numerical

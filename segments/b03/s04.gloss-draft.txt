@@ -1,0 +1,99 @@
+ANALYSIS
+
+548-557
+Latin: quoniam-clauses: mens (subj) est pars una, manet fixa loco certo; comparison: aures, oculi, alii sensus qui vitam cumque gubernant; vel uti manus/oculus/nares secreta nequeunt sentire neque esse, sed lincuntur (pres. pass. pl.) tempore tali. Main: sic animus non quit esse sine corpore et ipso homine; relative quod (corpus) vas illius esse videtur; sive aliud quid vis fingere coniunctius ei; quandoquidem corpus adhaeret conexu.
+English: since mind is a part and stays fixed; as ears/eyes/senses steer life; since hand/eye/nostrils severed cannot feel or be, but "melt away"; so mind cannot be without body and man; which seems its vessel; or whatever you picture; since body clings with a bond.
+DIFF: lincuntur ("are left, fail") rendered as liquuntur ("melt away"); the note covers only tali.
+
+558-562
+Latin: potestas corporis atque animi coniuncta valent fruunturque vita; nec natura animi sola potest edere motus vitalis sine corpore; nec corpus cassum anima potest durare et uti sensibus.
+English: the same propositions, with "only" making the implication explicit.
+MATCH
+
+563-565
+Latin: ut oculus avolsus nequit dispicere ullam rem seorsum corpore; sic anima atque animus per se nil posse videtur.
+English: the same.
+MATCH
+
+566-572
+Latin: quia (anima/animus) tenentur corpore ab omni mixtim per venas etc.; nec primordia possunt dissultare libera; ideo conclusa moventur motus sensiferos, quos eiecta in auras post mortem haut possunt moveri; quia non simili ratione tenentur.
+English: the same.
+MATCH
+
+573-575
+Latin: corpus atque animans erit aer, si anima poterit cohibere sese et concludere in eos motus quos ante agebat.
+English: the same.
+MATCH
+
+576-579
+Latin: abl. abs. resoluto tegmine, eiectis auris; fateare necesse dissolui sensus animi atque animam; quoniam coniuncta causa duobus.
+English: the same.
+MATCH
+
+580-591
+Latin: cum corpus nequeat perferre discidium quin tabescat; quid dubitas quin vis animae emanarit coorta ex imo, diffusa uti fumus, atque corpus conciderit ruina; quia fundamenta (animae) mota sunt penitus loco et manant foras per artus, per flexus viarum, foramina. ut possis noscere naturam animae exisse dispertitam et prius distractam esse in corpore quam enaret in auras.
+English: the body's ("its") foundations moved from their place, as the spirit flows outward through the limbs.
+DIFF: fundamenta animae, the subject of both mota sunt and manant, becomes the body's foundations, and "the spirit" takes over manant.
+
+592-602
+Latin: dum finis vitae vertitur intra (impersonal), anima labefacta videtur ire ac solvi tota de corpore; voltus languescere, membra cadere; quod genus est cum perhibetur animo male factum aut animam liquisse; ubi trepidatur et omnes cupiunt reprehendere vinclum; conquassatur mens animaeque potestas; haec conlabefiunt cum corpore, ut causa gravior possit dissolvere.
+English: the same, with "it" for the impersonal and "about to go" for ire.
+MATCH (minor looseness only)
+
+603-606
+Latin: quid dubitas quin (anima) prodita extra corpus, inbecilla, tegmine dempto, non modo non possit durare per aevom sed nequeat consistere minimum tempus.
+English: the same.
+MATCH
+
+607-614
+Latin: nec quisquam moriens videtur sentire animam ire incolumem, nec succedere ad iugulum, verum deficere locatam in certa regione; ut scit sensus alios dissolui in parte sua. si mens inmortalis foret, non conquereretur se dissolvi, sed magis (sentiret) ire foras, vestem relinquere ut anguis.
+English: the same.
+MATCH
+
+615-621
+Latin: cur mens consiliumque animi numquam gignitur in capite aut pedibus, sed haeret unis sedibus in omnibus; si non certa loca reddita sunt cuique ad nascendum, et ubi quicquid possit durare et esse partitis artubus, ut numquam existat praeposterus ordo.
+English: the same; "many-fashioned members" slightly shifts multimodis.
+MATCH
+
+622-623
+Latin and English: the same.
+MATCH
+
+624-628
+Latin: si natura animae inmortalis est et sentire potest secreta, faciundum est eam auctam quinque sensibus; nec alia ratione possumus proponere animas vagare Acherunte.
+English: the same.
+MATCH
+
+629-633
+Latin: pictores et scriptores intro duxerunt animas sensibus auctas. at neque oculi... esse possunt sorsum animae; igitur (animae) per se haud possunt sentire neque esse.
+English: the same; "they" is as ambiguous as the Latin.
+MATCH
+
+634-641
+Latin: quoniam sentimus sensum inesse toto corpore et totum esse animale; si vis aliqua praeciderit medium, ut secernat partem utramque, vis animai dispertita dissicietur cum corpore. at quod scinditur abnuit naturam aeternam sibi esse.
+English: the same, with a passive for praeciderit.
+MATCH
+
+642-651
+Latin: memorant currus falciferos (calentis) abscidere membra ita de subito ut id quod decidit videatur tremere, cum mens et vis hominis mobilitate mali non quit sentire dolorem; mens dedita studio, corpore relicuo petessit pugnam; nec tenet rotas abstraxe laevam; nec alius (tenet) dextram cecidisse.
+English: the same, but mobilitate is rendered "swiftness".
+DIFF: register term mobilitas is rendered "swiftness".
+
+652-656
+Latin and English: the same.
+MATCH
+
+657-663
+Latin: si tibi sit libitum discidere ferro utrumque (cauda, corpore) serpentis lingua vibrante, minanti; cernes omnia ancisa tortari, conspargere tabo; partem priorem petere se ore, ut premat morsu.
+English: the same, with "to take" supplied.
+MATCH
+
+664-669
+Latin: dicemus animas totas esse in particulis? at sequetur unam animantem habuisse animas multas. ergo divisa est quae fuit una cum corpore; quapropter utrumque mortale putandum, quoniam disciditur.
+English: the same.
+MATCH
+
+FINDINGS
+3.586	MISTRANSLATION	MODERATE	0.65	"fundamenta foras manant animaeque" makes the spirit's foundations the subject of both mota sunt and manant, but the English makes them the body's foundations ("its foundations") and gives manant to "the spirit"; fix 585-586: "in such great ruin, because, moved deep from their place, / the foundations of the spirit flow outward through the limbs"
+3.646	LEXICAL	MINOR	0.60	"mobilitate mali" uses the register term mobilitas (= mobility, never "speed"), but the English has "swiftness"; fix: "through the mobility of the harm, cannot feel the pain;"
+3.553	LEXICAL	MINOR	0.50	"lincuntur" as printed means "are left, fail" (as lincunt at 3.542), but "melt away" renders the emended liquuntur, and the note mentions only tali; fix: "but in such a case are lost in a little time," or extend the note to cover liquuntur

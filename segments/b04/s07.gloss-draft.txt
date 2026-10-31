@@ -1,0 +1,44 @@
+ANALYSIS
+907-911: Lat: [quibus modis somnus quietem inriget (subj. pres.) atque curas e pectore solvat (subj.)] indirect question, object of edam (1sg fut.) "suavidicis potius quam multis versibus"; comparison: parvus cycni canor (subj.) est melior quam ille gruum clamor, dispersus (modifies clamor) in aetheriis nubibus austri. Eng: indirect question (sleep floods, loosens); I shall tell in verses of sweet speech rather than many; as the swan's small song is better than that clamor of cranes, scattered among "airy" clouds. DIFF: aetheriis (high, ethereal) rendered as if aeriis "airy".
+912-915: Lat: tu da (imperative) auris animumque; ne negites (2sg subj.) [quae dicam posse fieri] and ne retro discedas (2sg subj.) repulsanti pectore vera dicta; cum (concessive or causal) tutemet in culpa sis neque cernere possis. Eng: imperative; purpose clause "so that you do not deny... and go off with a breast that thrusts the true words back"; "when you yourself are at fault and cannot see it". MATCH.
+916-919: Lat: somnus fit ubi vis animae distracta est (perf. pass.), and pars foras eiecta recessit (perf.), and pars contrusa concessit in altum; membra dissoluuntur fluuntque (pres.), tum demum. Eng: the same skeleton. MATCH.
+920-924: Lat: dubium non est quin sensus sit opera animai; quem (sensum) cum sopor inpedit esse, putandum est animam perturbatam esse eiectamque, non omnem; namque corpus iaceret (impf. subj., unreal) perfusum frigore leti. Eng: the same skeleton. MATCH.
+925-928: Lat: ubi nulla pars remaneret (subj.) latens in membris, ut ignis latet obrutus multa cinere; unde sensus possit reconflari, ut flamma ex igni caeco consurgere (rhetorical question). Eng: the same skeleton. MATCH.
+929-931: Lat: expediam (1sg fut.) [quibus rebus novitas confiat, unde anima possit perturbari et corpus languescere]; tu fac ne ventis verba profundam. Eng: the same skeleton. MATCH.
+932-936: Lat: necessum est corpus tundier pulsarierque ictu eius; quoniam (corpus) vicinum (neut., modifies corpus) tangitur aeriis auris; res omnes tectae sunt corio, conchis, callo or cortice. Eng: the body must be beaten, since it is touched by the "neighboring breezes"; all things are covered. DIFF: vicinum transferred from the body to the breezes.
+937-938: Lat: hic idem aer (subj.; hic idem modifies aer) verberat interiorem partem, spirantibus (dat.), cum ducitur atque reflatur. Eng: "the air strikes this same body". DIFF: "this same" moved from the air to the body.
+939-942: Lat: cum corpus vapulet (subj.) and cum plagae perveniant per foramina ad primas partis elementaque prima (corporis); fit ruina quasi paulatim per membra. Eng: the same skeleton. MATCH.
+943-944a: Lat: positurae principiorum corporis atque animi conturbantur. Eng: "positions of the first-beginnings...". DIFF: principia is rendered with the primordia term, against the register (which lists 4.943 for principia = beginnings).
+944b-948: Lat: fit uti pars eliciatur, pars abdita introrsum cedat, pars distracta non queat esse coniuncta neque motu mutua fungi; natura inter saepit coetus viasque. Eng: the same skeleton. MATCH.
+949: Lat: sensus abit, mutatis motibus (abl. abs.) alte. Eng: the same skeleton. MATCH.
+950-953: Lat: quoniam non est quod suffulciat artus, corpus fit debile, membra languescunt, bracchia palpebraeque cadunt, poplites cubanti (dat.) summittuntur virisque resolvunt. Eng: the same skeleton. MATCH.
+954-956a: Lat: somnus sequitur cibum, quia cibus efficit eadem quae aer facit, dum diditur in venas omnis. Eng: the same skeleton. MATCH.
+956b-958: Lat: sopor ille exstat multo gravissimus, quem satur aut lassus capias; quia plurima corpora se conturbant contusa labore. Eng: the same skeleton. MATCH.
+959-961: Lat: fit ratione eadem: coniectus partis animai (is) altior, eiectus eius largior, (it is) divisior ac distractior. Eng: the same skeleton. MATCH.
+962-965: Lat: quo studio quisque adhaeret, quibus in rebus multum ante morati sumus, in ea ratione mens contenta fuit; in somnis eadem videmur obire. Eng: the same skeleton. MATCH.
+966-970: Lat: the infinitives after videmur: causidici agere/componere; induperatores pugnare/obire; nautae degere bellum; nos agere, quaerere, exponere. Eng: the same skeleton. MATCH.
+971-972: Lat: cetera studia artesque videntur tenere animos frustrata. Eng: the same skeleton. MATCH.
+973-977: Lat: videmus [qui dederunt operas ludis, cum destiterunt usurpare, vias relicuas esse patentis qua simulacra possint venire]. Eng: the same skeleton. MATCH.
+978-983: Lat: illa eadem obversantur, ut vigilantes videantur cernere, accipere, cernere, (videre) splendere decores. Eng: the same skeleton. MATCH.
+984-986: Lat: usque adeo refert studium voluntasque, et quibus in rebus consuerint operati esse, non homines solum sed animalia. Eng: the same skeleton. MATCH.
+987-990: Lat: videbis equos sudare, spirare, contendere viris, edere voces (carceribus patefactis, abl. abs.). Eng: the same skeleton. MATCH.
+991-997: Lat: canes iactant, mittunt, redducunt; ut si teneant vestigia; expergefacti secuntur simulacra, quasi cernant dedita fugae; donec redeant. Eng: the same skeleton. MATCH.
+998-1004: Lat: propago instant discutere et corpus corripere; (corrupt repeat 1000-1003); quasi ignotas facies tuantur. Eng: the same skeleton, with a note on the text. MATCH.
+1005-1006: Lat: quo quaeque seminiorum magis aspera sunt, tam magis necessust eadem saevire. Eng: the same skeleton. MATCH.
+1007-1010: Lat: volucres fugiunt, sollicitant lucos, si accipitres visae (sunt) persectantes, edere proelia. Eng: the same, with the birds as seers ("they have seen hawks"), the equivalent sense. MATCH.
+1011-1014: Lat: mentes, quae edunt magna, faciunt geruntque; expugnant, capiuntur, miscent, tollunt clamorem quasi iugulentur. Eng: the same skeleton. MATCH.
+1015-1017: Lat: multi depugnant gemitusque doloribus (abl. cause) edunt; quasi mandantur morsu, complent omnia. Eng: "give out groans for their pains". DIFF: the English idiom reads as "in return for their trouble".
+1018-1019: Lat: multi loquuntur; indicio sui facti fuere. Eng: the same skeleton. MATCH.
+1020-1023: Lat: multi mortem obeunt; multi, ut quasi praecipitent, exterruntur, vix ad se redeunt permoti aestu. Eng: the same skeleton. MATCH.
+1024-1025: Lat: sitiens adsidet propter flumen aut fontem amoenum, occupat amnem. Eng: the same skeleton. MATCH.
+1026-1029: Lat: puri, si propter lacum ac dolia (pl.) curta credunt se extollere vestem, fundunt umorem; cum Babylonica rigantur. Eng: "a pool or a cut-down jar". DIFF: plural dolia made singular.
+1030-1036: Lat: quibus semen insinuatur, ubi ipsa dies matura (fem., modifies dies) creavit (semen); conveniunt simulacra, nuntia voltus coloris, qui (sg. masc., refers to voltus/color) ciet loca turgida, ut profundant fluctus vestemque cruentent. Eng: "when the day itself has made it ripe"; "images ... which stir". DIFF: matura moved from dies to semen, and creavit becomes "made ripe"; the relative qui is read as plural and attached to the images.
+FINDINGS
+938	MISTRANSLATION	MINOR	0.70	"aer ... hic idem" makes the same air (the air that beats from outside, 933-934) strike the inner part, but the English attaches "this same" to the body; fix: "On the inner side too, as we breathe, this same air / strikes it, as it is drawn in and breathed out." (spanning 937-938)
+943	LEXICAL	MINOR	0.70	"positurae principiorum" uses principia, which the register fixes as "beginnings" (enforced at 4.943), but the English gives the primordia term "first-beginnings"; fix: "For the positions of the beginnings of body and mind"
+1031	MISTRANSLATION	MINOR	0.60	In "ipsa dies membris matura creavit", matura agrees with dies (ripe time has created the seed), but the English makes the seed ripe and turns creavit into "made ripe"; fix: "works its way, when ripe time itself has created it in their limbs,"
+1034	GRAMMAR	MINOR	0.55	The singular "qui ciet" refers to the face/color, not the images, but the English plural "which stir" attaches it to the images and heralds; fix: "which stirs and excites the parts swollen with much seed,"
+1015	AMBIGUITY	MINOR	0.55	"gemitus doloribus edunt" means they groan from their pains, but the English idiom "for their pains" reads as "in return for their trouble"; fix: "Many fight it out, and give out groans in their pain,"
+933	GRAMMAR	MINOR	0.50	"vicinum" agrees with corpus (the body, being the air's neighbor, is touched), but the English transfers it to the breezes; fix: "since, as their neighbor, it is touched by the breezes of the air,"
+1026	GRAMMAR	MINOR	0.50	"dolia curta" is plural, but the English has the singular "a cut-down jar"; fix: "Often the cleanly, if beside a pool or cut-down jars"
+911	LEXICAL	MINOR	0.50	"aetheriis nubibus" means high clouds in the ether, but the English "airy clouds" renders it as the lookalike aeriis (compare 933); fix: "scattered among the clouds of the south wind in the upper air."

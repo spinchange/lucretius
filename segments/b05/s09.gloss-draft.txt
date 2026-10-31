@@ -1,0 +1,214 @@
+ANALYSIS
+
+**1105-1107**
+- Latin: hi (qui ingenio praestabant et corde vigebant) monstrabant [impf ind act pl], inque dies magis, commutare [inf] victum vitamque priorem novis rebus et igni.
+- English: those who excelled... showed, day by day more, how to exchange former food and life for new things and fire.
+- MATCH
+
+**1108-1109**
+- Latin: reges coeperunt [perf pl] condere urbis arcemque locare, praesidium perfugiumque ipsi sibi (predicative).
+- English: kings began to found cities and set up a citadel as defense and refuge for themselves.
+- MATCH
+
+**1110-1111**
+- Latin: (reges) divisere atque dedere pecudes et agros, pro facie cuiusque et viribus ingenioque.
+- English: same.
+- MATCH
+
+**1112**
+- Latin: nam facies multum valuit, viresque vigebant.
+- English: same.
+- MATCH
+
+**1113-1114**
+- Latin: res inventast aurumque repertum [perf pass]; quod (aurum/res) facile dempsit honorem validis et pulchris.
+- English: same.
+- MATCH
+
+**1115-1116**
+- Latin: enim fortes et pulchro corpore creti, quamlubet, secuntur plerumque sectam divitioris [gen sg].
+- English: men, however strong and fair, follow the train of the richer.
+- MATCH ("they" in 1116 is loosely anchored, but it reads as the followers.)
+
+**1117-1119**
+- Latin: quod si quis gubernet [pres subj] vitam vera ratione, divitiae grandes sunt homini vivere parce aequo animo; neque enim est umquam penuria parvi.
+- English: same.
+- MATCH
+
+**1120-1122**
+- Latin: at voluerunt se claros homines atque potentes, ut fortuna maneret fundamento stabili et (ut) opulenti possent degere placidam vitam.
+- English: same, with homines made the subject. This is harmless.
+- MATCH
+
+**1123-1126**
+- Latin: ne quiquam, quoniam certantes succedere ad summum honorem fecere iter viai infestum; et tamen invidia, quasi fulmen, deicit ictos e summo interdum contemptim in Tartara taetra.
+- English: same.
+- MATCH
+
+**1127-1128**
+- Latin: quoniam invidia, ceu fulmine, vaporant [intr pl] summa et quae cumque sunt aliis magis edita, plerumque.
+- English: summits are scorched by envy as by thunderbolt, and whatever stands raised above the rest.
+- MATCH
+
+**1129-1130**
+- Latin: ut satius multo iam sit parere quietum quam velle regere imperio res et regna tenere.
+- English: same, with "rule the world" for regere res. "The world" is a slight widening of res (the state, affairs), below the threshold.
+- MATCH
+
+**1131-1132**
+- Latin: proinde sine [imper] (ut) defessi sudent sanguine in cassum, luctantes per angustum iter ambitionis.
+- English: same.
+- MATCH
+
+**1133-1135**
+- Latin: quandoquidem sapiunt ex alieno ore petuntque res ex auditis potius quam sensibus ipsis; nec id magis est nunc neque erit mox quam fuit ante.
+- English: same.
+- MATCH
+
+**1136-1139**
+- Latin: ergo, regibus occisis [abl abs], iacebat subversa pristina maiestas soliorum et sceptra superba; et praeclarum insigne capitis summi, cruentum, sub pedibus vulgi lugebat magnum honorem.
+- English: same.
+- MATCH
+
+**1140**
+- Latin: nam conculcatur [pres pass] cupide (id quod fuit) nimis ante metutum.
+- English: same.
+- MATCH
+
+**1141-1142**
+- Latin: res itaque redibat ad summam faecem turbasque, cum quisque petebat sibi imperium ac summatum.
+- English: same.
+- MATCH
+
+**1143-1144**
+- Latin: inde partim (= some) docuere creare magistratum iuraque constituere, ut vellent [impf subj] legibus uti.
+- English: some taught men to create magistrates and establish rights, so that they would consent to use laws.
+- MATCH
+
+**1145-1147**
+- Latin: nam genus humanum, defessum vi colere aevom, languebat ex inimicitiis; quo magis ipsum sponte sua cecidit sub leges artaque iura.
+- English: same.
+- MATCH
+
+**1148-1150**
+- Latin: quod enim quisque parabat se ulcisci acrius ex ira quam nunc concessumst legibus aequis, hanc ob rem pertaesum est homines vi colere aevom.
+- English: same.
+- MATCH
+
+**1151**
+- Latin: inde metus poenarum maculat praemia vitae.
+- English: same.
+- MATCH
+
+**1152-1155**
+- Latin: enim vis atque iniuria circumretit quemque atque revertit plerumque ad eum unde exortast; nec facilest (ei) qui violat factis communia foedera pacis degere placidam ac pacatam vitam.
+- English: same.
+- MATCH
+
+**1156-1157**
+- Latin: etsi fallit [ind] genus divom humanumque, tamen debet diffidere id fore clam perpetuo.
+- English: same.
+- MATCH
+
+**1158-1160**
+- Latin: quippe ubi multi, loquentes saepe per somnia aut delirantes morbo, ferantur [subj pass] protraxe se et dedisse in medium celata mala et peccata.
+- English: same.
+- MATCH
+
+**1161-1168**
+- Latin: non ita difficilest reddere rationem verbis (of) quae causa pervulgarit numina deum per magnas gentis, et compleverit urbis ararum, et curarit sollemnia sacra suscipienda, quae sacra florent nunc in magnis rebus locisque, unde etiam nunc est insitus mortalibus horror, qui suscitat nova delubra deum toto orbi terrarum et cogit celebrare festis diebus.
+- English: same.
+- MATCH ("give an account" departs from the register's "give a reasoning" for rationem reddere, but the sense is the same.)
+
+**1169-1171**
+- Latin: quippe etenim iam tum mortalia saecla videbant [impf] egregias facies divom animo vigilante, et magis in somnis, mirando auctu corporis.
+- English: same.
+- MATCH
+
+**1172-1174**
+- Latin: igitur tribuebant his sensum, propterea quod videbantur movere membra vocesque superbas mittere pro facie praeclara et viribus amplis.
+- English: same.
+- MATCH
+
+**1175-1178**
+- Latin: dabantque aeternam vitam, quia semper subpeditabatur facies eorum et forma manebat, et tamen omnino quod putabant (eos) auctos tantis viribus non posse convinci temere ulla vi.
+- English: same.
+- MATCH
+
+**1179-1182**
+- Latin: ideo putabant (eos) longe praestare fortunis, quod timor mortis haut quemquam eorum vexaret [subj], et simul quia in somnis videbant (eos) efficere multa et mira et ipsos capere nullum laborem inde.
+- English: same.
+- MATCH
+
+**1183-1185**
+- Latin: praeterea cernebant caeli rationes et varia tempora annorum verti ordine certo, nec poterant cognoscere quibus causis id fieret.
+- English: same.
+- MATCH (Sense is kept. However, "the systems of heaven" breaks the register, which fixes caeli rationes at 5.1183 as "the order of heaven".)
+
+**1186-1187**
+- Latin: ergo habebant sibi perfugium tradere omnia divis et facere omnia flecti illorum nutu.
+- English: same.
+- MATCH
+
+**1188-1193**
+- Latin: locarunt sedes et templa deum in caelo, quia per caelum videtur volvi nox et luna, luna, dies et nox, ... fremitus, murmura minarum.
+- English: same.
+- MATCH
+
+**1194-1195**
+- Latin: O genus infelix humanum, cum tribuit divis talia facta atque adiunxit iras acerbas!
+- English: same.
+- MATCH
+
+**1196-1197**
+- Latin: quantos gemitus tum ipsi sibi, quanta volnera nobis, quas lacrimas minoribus nostris peperere!
+- English: same.
+- MATCH
+
+**1198-1203**
+- Latin: nec ulla pietas est videri saepe velatum vertier ad lapidem atque accedere ad omnis aras, nec procumbere..., nec spargere aras sanguine multo quadrupedum, nec nectere vota votis, sed mage posse tueri omnia pacata mente.
+- English: same.
+- MATCH
+
+**1204-1210**
+- Latin: nam cum suspicimus caelestia templa magni mundi (super) et aethera fixum stellis micantibus, et venit in mentem viarum solis lunaeque, tunc illa cura quoque, oppressa aliis malis, infit erigere in pectora caput expergefactum, ne forte quae inmensa potestas deum sit nobis, quae verset candida sidera vario motu.
+- English: same, with oppressa taken with pectora rather than cura. Both constructions are grammatically possible.
+- MATCH
+
+**1211-1217**
+- Latin: enim egestas rationis temptat dubiam mentem, ecquaenam fuerit genitalis origo mundi, et simul ecquae sit finis, quoad moenia mundi et taciti motus possint ferre hunc laborem, an, donata divinitus aeterna salute, possint labentia perpetuo tractu aevi contemnere validas viris inmensi aevi.
+- English: same.
+- MATCH (Sense is kept. 1216 and 1217 do not carry the register's fixed wording: "an everlasting tract of age", and 5.1217 = 5.379 "the strong forces of immeasurable age".)
+
+**1218-1221**
+- Latin: praeterea cui non animus contrahitur formidine divum, cui non membra correpunt pavore, cum torrida tellus [nom; torrida scans short-final] contremit horribili plaga fulminis et murmura percurrunt magnum caelum?
+- English: same.
+- MATCH
+
+**1222-1225**
+- Latin: non populi gentesque tremunt, regesque superbi, percussi timore divum, corripiunt membra, ne ob quod admissum foede dictumve superbe grave tempus poenarum solvendi sit adauctum?
+- English: same.
+- MATCH
+
+**1226-1230**
+- Latin: etiam cum summa vis violenti venti verrit per mare induperatorem classis super aequora cum legionibus atque elephantis, non adit pacem divom votis ac quaesit prece, pavidus, paces ventorum animasque secundas?
+- English: same.
+- MATCH
+
+**1231-1232**
+- Latin: ne quiquam, quoniam correptus violento turbine saepe fertur nihilo minus ad vada leti.
+- English: same.
+- MATCH
+
+**1233-1235**
+- Latin: usque adeo vis abdita quaedam opterit [ind] res humanas, et videtur proculcare pulchros fascis saevasque secures ac habere ludibrio sibi.
+- English: same, with "seems" governing only the second clause, as in the Latin.
+- MATCH
+
+**1236-1240**
+- Latin: denique cum tellus tota vacillat sub pedibus, concussaeque urbes cadunt dubiaeque minantur, quid mirum si mortalia saecla se temnunt atque relinquunt in rebus magnas mirasque potestatis, viris divum, quae cuncta gubernent [subj]?
+- English: same, with "leave room for" for relinquunt (leave in the world, admit). This is a defensible gloss.
+- MATCH
+
+FINDINGS
+NONE

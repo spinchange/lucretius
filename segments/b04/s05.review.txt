@@ -19,7 +19,7 @@
   633  Now, so we may see why one food suits some, another others,
   634  I shall explain, and why what is harsh and bitter to some
   635  can yet seem to others exceedingly sweet,
-  636  and why in these things there is such distance and difference
+  636  and in these things there is such distance and difference
   637  that what is food to some is to others sharp poison;
   638  and so there is a snake which, touched by a man's spittle,
   639  perishes and destroys itself by gnawing at itself.
@@ -31,7 +31,7 @@
   645  Further, all living creatures whatever that take food,
   646  just as they are unlike outwardly, and, kind by kind,
   647  the outer contour of their limbs confines them,
-  648  so too they consist of seeds and vary in their shape.
+  648  so too they consist of seeds, and these vary in shape.
   649  Again, since the seeds differ, it must be that the intervals
   650  and the paths, which we call pores, differ too
   651  in all the limbs, and in the mouth and the palate itself.

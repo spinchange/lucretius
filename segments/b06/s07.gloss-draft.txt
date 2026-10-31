@@ -1,0 +1,47 @@
+ANALYSIS
+879-882. L: fons est frigidus; rel. supra quem stuppa (sita) iacit flammam (pres. ind.), abl. abs. concepto igni; taeda accensa conlucet; rel. quo cumque (taeda) natans impellitur (pass.) auris. E: spring is cold; tow, set there, throws out flame, catching fire; torch, lit, shines; wherever it is driven by breezes. MATCH
+883-887. L: (nimirum) quia sunt semina vaporis; necesse est corpora ignis consurgere, exspirare, exire (inf.); non ita multa, ut fons queat fieri calidus (result, subj.). E: same, "not so many that the spring could become hot." MATCH
+888-889. L: vis cogit (ea) dispersa erumpere foras per aquam subito, sursum conciliari (pass. inf.). E: a force compels them, scattered, to break out suddenly and gather above. MATCH
+890-891. L: Aradi fons est; qui scatit (aquai dulcis), dimovet undas. E: same. MATCH
+892-894. L: aequor praebet utilitatem nautis; quod intervomit dulcis (undas). E: same. MATCH
+895-899. L: illa possunt erumpere, scatere; semina quae cum conveniunt / adhaerent, ardescunt; quia stuppae taedaeque tenentes habent semina. E: same, tow and torches as subject of hold. MATCH
+900-902. L: nonne vides linum accendier (inf.) antequam tetigit flammam, ubi admoveas (subj.); taedam pari ratione. E: same; pari ratione given as "in the same way." DIFF (register only: on a like principle)
+903-904. L: multa tacta vapore ardescunt eminus priusquam ignis imbuat comminus. E: same. MATCH
+905. L: putandum est hoc fieri. E: same. MATCH
+906-909. L: incipiam agere quo foedere fiat ut lapis possit ducere ferrum; quem Grai vocant Magneta; quia sit ortus (subj.). E: same, but Magneta given as "the magnet." DIFF (register: the Magnes)
+910-911. L: homines mirantur; (lapis) reddit catenam ex anellis pendentibus. E: same. MATCH
+912-916. L: licet videre quinque pluresque iactarier; ubi unus dependet, alius noscit vim vinclaque; vis pervalet. E: same. MATCH
+917-920. L: multa firmanda sunt priusquam possis rationem reddere; est adeundum; reposco auris animumque. E: same. MATCH
+921-923. L: necesse est corpora fluere, mitti, spargi; quae feriant (rel. purpose subj.) oculos, lacessant. E: same. MATCH
+924. L: odores fluunt perpetuo. E: same. MATCH
+925-926. L: frigus (fluit) a fluviis, calor a sole, aestus ab undis; exesor moerorum is nom., in apposition to aestus. E: "spray from the waves of the sea, devourer of walls", where the apposition reads as attached to "the sea." DIFF (attachment)
+927. L: sonitus nec cessant manare. E: same. MATCH
+928-930. L: umor venit in os, cum versamur; cum tuimur absinthia misceri, amaror tangit. E: same. MATCH
+931-935. L: res quaeque fertur, dimittitur; nec interdatur mora/requies; quoniam sentimus, licet cernere, odorari, sentire sonare. E: same. MATCH
+936-937. L: repetam commemorare quam raro corpore sint res (ind. q.); quod claret. E: same. MATCH
+938-941. L: quamquam hoc pertinet noscere; necesse est firmare nil esse in promptu nisi corpus mixtum inani. E: same. MATCH
+942-943. L: fit ut saxa sudent, stillent. E: same. MATCH
+944-945. L: sudor manat; barba pilique crescit. E: same. MATCH
+946-947. L: cibus diditur, auget alitque partis unguiculosque. E: same. MATCH
+948-950. L: sentimus frigus vaporemque transire per aes, aurum, argentum, cum tenemus. E: same. MATCH
+951-958. L: voces pervolitant; odor, frigus, vapos ignis permanat; qui (vapos) suevit penetrare; qua lorica coercet; morbida vis (permanat) cum insinuatur; abl. abs. tempestate coorta (sg.), remotae (fem. pl., unexpressed subject) facessunt; quandoquidem nihil est nexum nisi raro corpore. E: same through 955; then "storms that have arisen ... withdraw", with the abl. abs. made the plural subject of facessunt. DIFF (abl. abs. read as subject)
+959-961. L: accedit uti non omnia corpora sint praedita eodem sensu, apta eodem pacto. E: same, negation on "all." MATCH
+962-965. L: sol excoquit, facit are; dissolvit glaciem; cogit nives tabescere; cera liquefit. E: same. MATCH
+966-967. L: ignis facit aes liquidum, resolvit aurum; trahit, conducit coria et carnem. E: same. MATCH
+968-969. L: umor condurat ferrum; mollit coria et carnem durata calore. E: same. MATCH
+970-972. L: oleaster eo usque iuvat capellas (ut) quasi effluat ambrosias, tinctus; qua nihil est amarius fronde. E: same. MATCH
+973-975. L: sus fugitat amaracinum (marjoram ointment), timet unguentum; nam est venenum; quod videtur recreare nos. E: "flees marjoram", which names the plant, not the ointment. DIFF (lexical)
+976-978. L: cum caenum sit spurcities nobis, eadem videtur iucunda subus, ut volvantur. E: same. MATCH
+979-980. L: hoc superest, (prius)quam adgredior dicere; quod videtur dicendum. E: same. MATCH
+981-983. L: cum foramina sint reddita, (foramina) debent esse praedita natura dissimili, habere quaeque naturam viasque. E: same. MATCH
+984-987. L: sensus insunt; quorum quisque percipit rem; cernimus sonitus penetrare alio, saporem alio, odores alio. E: same. MATCH
+988-989. L: natura viarum cogit id fieri. E: same. MATCH
+990-994. L: aliud videtur manare, transire, meare; species videtur fluere, calor ire; eadem transmittere aliud citius aliis. E: same. MATCH
+995-997. L: as 988-989, plus propter naturam textaque. E: same. MATCH
+998-1001. L: ubi haec constiterint, ratio reddetur, causa patefiet, quae pelliciat vim ferri. E: same. MATCH
+FINDINGS
+908	LEXICAL	MINOR	0.65	"quem Magneta vocant ... Grai" is rendered "the magnet", against the register's fixed "the Magnes" for 6.908 (where "magnet" is allowed only in the notes), and it loses the proper-name sense that 909 explains; "the stone the Greeks call the Magnes, from its native name,"
+956	GRAMMAR	MODERATE	0.55	The ablative absolute "tempestate ... coorta" (singular) is made the plural subject "storms" of "facessunt" in 957, whose real subject is the unexpressed feminine plural "remotae"; "and when a storm has arisen in earth and sky," (with 957 "they withdraw, far off, into sky and earth, as is right;")
+926	AMBIGUITY	MINOR	0.50	"exesor moerorum" is nominative, in apposition to "aestus" (925), but the English places "devourer of walls" right after "the sea", where it attaches to the sea (if changed, change 4.220 as well, to keep the refrain); "of the sea, the spray that devours walls, along the shores;"
+973	LEXICAL	MINOR	0.50	"amaracinum" is marjoram ointment, a substantive set beside "omne unguentum", but the English "flees marjoram" names the plant; "Finally, the pig flees marjoram oil and fears every"
+902	LEXICAL	MINOR	0.50	"pari ratione" is given as "in the same way", though the register fixes "on a like principle" for 6.902; "it has touched the flame, and a torch on a like principle?"

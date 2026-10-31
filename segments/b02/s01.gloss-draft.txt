@@ -1,0 +1,86 @@
+ANALYSIS
+
+142-143. Latin: [indirect question] quae mobilitas sit reddita (pres. subj. pass., sg.) corporibus materiai; licet (impers.) + cognoscere (inf.); voc. Memmi. English: what swiftness of motion has been given to the bodies of matter; you may learn. DIFF: mobilitas is "swiftness of motion", where the register fixes "mobility" (2.142, 2.161).
+
+144-149. Latin: cum aurora spargit (pres. ind.) terras lumine; et volucres pervolitantes (ptc., modifies volucres) opplent loca vocibus; [indirect question] quam subito soleat (subj.) sol ortus convestire omnia, perfundens luce; videmus (1 pl.) [it] esse in promptu manifestumque omnibus. English: when dawn sprinkles; birds, flitting, fill places; how suddenly the sun, risen, is used to clothe all, flooding; we see to be plain for all. MATCH.
+
+150-152. Latin: vapor is (quem sol mittit) lumenque non meat (sg.) per inane vacuum; quo (= therefore) cogitur tardius ire, dum diverberat undas aerias. English: heat (which the sun sends) and light does not travel through empty void; so it is forced to go more slowly, as it beats through waves of air. MATCH.
+
+153-154. Latin: nec corpuscula singillatim meant, sed complexa conque globata. English: nor do the little bodies travel one by one, but tangled and massed. MATCH.
+
+155-156. Latin: qua propter simul retrahuntur (pass.) inter se et extra officiuntur (pass.), uti cogantur (result subj.) tardius ire. English: so at once they are dragged back by one another and hindered from outside, so that they are forced to go more slowly. MATCH.
+
+157-164. Latin: primordia (quae sunt solida simplicitate), cum meant per inane nec res ulla remoratur foris atque ipsa unum e partibus, in unum locum (in quem coepere) conixa feruntur, debent praecellere mobilitate, multo citius ferri quam lumina solis, transcurrere multiplex spatium eodem tempore quo fulgura solis pervolgant caelum. English: the first-beginnings of solid singleness, when they travel and nothing delays them from outside, and, one from their parts, are borne straining toward the one place they began to, must surpass in mobility, be carried far more swiftly, and run through many times the space in the time the sun's flashes spread through heaven. MATCH.
+
+164a-166. Latin: lacuna; then nec persectari (inf.) primordia singula quaeque, ut videant (purpose subj., 3 pl.) qua ratione quicque geratur. English: lacuna marked; nor to follow out each first-beginning, to see by what principle each thing comes about. MATCH.
+
+167-174a. Latin: quidam, ignari materiai, reddunt naturam non posse sine numine deum, tanto opere atmoderate humanis rationibus, mutare tempora, creare fruges et cetera; [rel.] quae mortalis suadet adire ipsaque deducit dux vitae dia voluptas (subj. of suadet and deducit) et blanditur (with per res Veneris) ut saecla propagent, ne genus occidat. English: some hold that nature cannot, without the gods' power, so fitted to human needs, change seasons, create crops and other things that mortals are urged to approach, to which divine pleasure, the guide of life, leads them, coaxing them through Venus' works to propagate, so the race should not perish. MATCH (the passive "are urged" leaves voluptas as the implied agent, which is acceptable).
+
+174b-176. Latin: cum fingunt deos constituisse omnia causa quorum (= hominum); videntur lapsi (perf. ptc.) magno opere a vera ratione. English: when they imagine the gods ordered all for men's sake, they seem fallen far from true reasoning. MATCH.
+
+177-181. Latin: quamvis ignorem (pres. subj.) quae sint primordia; hoc ausim (subj.) confirmare ex caeli rationibus et reddere ex aliis rebus; [acc.+inf.] nequaquam naturam mundi esse creatam divinitus nobis; tanta stat praedita culpa. English: even if I did not know what the first-beginnings are; this I would dare to affirm from the order of heaven and show from other things; that by no means for us, by divine power, was the nature of the world created; so great its flaws. MATCH.
+
+182-183. Latin: quae faciemus (fut.) aperta tibi posterius; nunc expediemus id quod superest de motibus. English: I will make plain later; now I will set out what remains concerning motions. MATCH.
+
+184-186. Latin: locus est confirmare tibi; nullam rem corpoream posse sua vi sursum ferri meareque. English: is the place to prove to you that no bodily thing can by its own force be carried and travel upward. MATCH.
+
+187-190. Latin: ne dent (jussive) corpora flammarum fraudem; enim gignuntur sursus et augmina sumunt; et fruges arbustaque crescunt sursum; cum pondera cuncta deorsum ferantur (concessive). English: do not let the bodies of flames deceive you; for they are born upward and increase; crops and trees grow upward; though all weights are carried downward. MATCH.
+
+191-193. Latin: nec, cum ignes subsiliunt et degustant tigna, putandum est (gerundive) facere id sponte sua sine vi subiecta. English: nor, when fires leap up and lick beams, must we think they do it of their own accord with no force from beneath. MATCH.
+
+194-195. Latin: quod genus sanguis missus emicat exultans spargitque cruorem. English: just so the blood let out spurts leaping and scatters gore. MATCH.
+
+196-200. Latin: nonne vides quanta vi umor aquae respuat (subj.) tigna? nam quo magis ursimus (perf.) derecta (modifies tigna) et multi pressimus, tam cupide removet atque remittit, ut emergant (result) plus parte. English: do you not see with what force the water spits out beams? the more we have pushed them straight down and many have pressed, the more eagerly it thrusts back, so that they rise by more than half. MATCH.
+
+201-202. Latin: nec dubitamus quin haec cuncta deorsum ferantur per inane. English: we do not doubt these are all carried downward through the void. MATCH.
+
+203-205. Latin: debent flammae posse expressae sursum succedere per auras, quamquam pondera pugnent deducere. English: flames must be able, squeezed out, to climb upward through the air, although their weights fight to draw them down. MATCH.
+
+206-208. Latin: nonne vides faces volantis ducere tractus in quascumque partis natura dedit meatum? English: do you not see the night torches draw trails toward whatever quarter nature gave passage? MATCH.
+
+209. Latin: non cernis stellas et sidera cadere in terras? English: do you not see stars and constellations falling to earth? MATCH.
+
+210-212. Latin: sol dissipat ardorem in omnis partis et conserit arva lumine; igitur ardor solis vergitur in terras. English: the sun scatters heat to every side and sows the fields with light; therefore its heat tends to earth. MATCH.
+
+213-215. Latin: cernis fulmina transversos volare; ignes abrupti concursant; vis flammea cadit volgo. English: you see thunderbolts fly slantwise; fires broken from clouds rush together; flaming force falls everywhere. MATCH.
+
+216-220. Latin: avemus te cognoscere; [acc.+inf.] corpora, cum feruntur deorsum ponderibus propriis, incerto tempore ferme incertisque locis depellere paulum, tantum quod possis dicere momen mutatum. English: we long for you to know that bodies, when carried straight down by their weights, at uncertain times and places push a little from course, just so much you could call it a change of motion. MATCH.
+
+221-224. Latin: quod nisi solerent declinare, omnia caderent (impf. subj.) like rain; nec foret offensus natus nec plaga creata principiis; ita natura nihil creasset. English: if they were not used to swerve, all would fall; no collision, no blow for the beginnings; nature would never have created anything. MATCH.
+
+225-229. Latin: si aliquis credit graviora corpora, quo citius feruntur, potesse incidere levioribus et gignere plagas quae possint reddere motus genitalis; recedit avius a vera ratione. English: if someone believes heavier bodies, being swifter, can fall on lighter and beget blows that could give generative motions; he strays from true reasoning. MATCH.
+
+230-234. Latin: quae cumque cadunt per aquas aeraque, haec necessest celerare casus pro ponderibus, quia corpus aquae naturaque aeris haud possunt aeque morari, sed cedunt citius exsuperata. English: whatever falls through water and air must quicken in proportion to weight, because water and air cannot delay each thing equally but give way more quickly, overcome. MATCH.
+
+235-237. Latin: inane vacuum non potest subsistere nulli rei ulla parte ullo tempore, quin pergat concedere, quod sua natura petit. English: the void cannot on any side at any time hold up anything, but must go on giving way, as its nature seeks. MATCH.
+
+238-239. Latin: omnia debent ferri aeque per inane, concita ponderibus non aequis. English: all must be carried at equal speed through the calm void, though driven by unequal weights. MATCH.
+
+240-242. Latin: haud poterunt (fut.) graviora incidere levioribus neque gignere per se ictus qui varient motus, per quos natura gerat res. English: heavier things will never be able to fall on lighter, nor of themselves beget blows that vary motions by which nature carries on things. MATCH.
+
+243-245. Latin: necessest corpora inclinare paulum; nec plus quam minimum, ne videamur fingere motus obliquos et res vera refutet. English: bodies must incline a little; no more than the least, so we do not seem to invent slanting motions and the facts refute it. MATCH.
+
+246-250. Latin: videmus hoc in promptu esse, pondera non posse meare obliqua cum praecipitant, quod cernere possis; sed quis est qui possit cernere nihil omnino sese declinare a recta regione? English: we see that weights cannot travel slantwise when they plunge, as far as you can see; but who could perceive that nothing at all swerves of itself from the straight line? MATCH ("of itself" for sese is a borderline gloss).
+
+251-260. Latin: si omnis motus semper conectitur et novus exoritur ex vetere, nec primordia declinando faciunt principium quod rumpat foedera fati, ne causa sequatur causam ex infinito; unde exstat haec libera voluntas animantibus, fatis avolsa, per quam progredimur quo voluptas ducit, declinamus item motus nec tempore certo nec loco, sed ubi mens tulit? English: if every motion is linked and the new arises from the old, and the first-beginnings do not by swerving make a beginning to break fate's covenants, so cause should not follow cause, from where arises this free will wrested from the fates, by which we go where pleasure leads and swerve our motions at no fixed time or place but where the mind has carried us? MATCH.
+
+261-262. Latin: sua cuique voluntas dat principium; hinc motus rigantur per membra. English: each one's will gives the beginning; motions flow out through the limbs. MATCH.
+
+263-265. Latin: nonne vides, carceribus patefactis, vim cupidam equorum non posse prorumpere tam subito quam mens avet? English: do you not see that when the gates are opened, the horses' eager strength cannot burst forth as suddenly as their mind longs to? MATCH.
+
+266-268. Latin: omnis copia materiai debet conciri per totum corpus, ut concita per artus omnis, conixa, sequatur studium mentis. English: the whole store of matter must be roused, so that, roused through all the limbs, it may strain together and follow the mind's desire. MATCH.
+
+269-271. Latin: ut videas initum motus creari a corde, id procedere primum ex voluntate animi, inde dari per corpus. English: so you may see the start of motion is created by the heart, goes forth first from the will of the mind, then is passed through the body. MATCH.
+
+272-276. Latin: nec similest ut cum procedimus inpulsi ictu viribus alterius; nam tum perspicuumst materiem omnem ire rapique nobis invitis, donec voluntas refrenavit. English: nor is it the same as when we go forward pushed by another's strength; for then it is clear all the matter goes and is swept against our will, until the will reins it back. MATCH.
+
+277-280. Latin: iamne vides, quamquam vis extera pellat multos et cogat procedere invitos rapique, tamen esse in pectore quiddam quod possit pugnare obstareque? English: do you see that, although an outside force drives many and compels them against their will, there is in our breast something that can fight and resist? MATCH.
+
+281-283. Latin: ad arbitrium cuius copia materiai cogitur flecti per membra, et proiecta refrenatur residitque. English: at whose command the store of matter is forced to turn through the limbs and, thrown forward, is reined back and settles. MATCH.
+
+284-287. Latin: necessest fateare idem in seminibus: esse aliam causam motibus praeter plagas et pondera, unde potestas innata nobis, quoniam videmus nihil fieri posse de nihilo. English: you must admit the same in the seeds: there is another cause of motions besides blows and weights, from which this power is born in us, since nothing comes from nothing. MATCH.
+
+288-293. Latin: pondus prohibet ne omnia fiant plagis quasi vi externa; sed ne res ipsa habeat necessum intestinum in agendis et cogatur devicta ferre patique, id facit exiguum clinamen principiorum nec loco certo nec tempore. English: weight prevents all from coming about by blows as by outside force; but that the thing itself should not hold inward necessity and be compelled, conquered, to bear and suffer, this is brought about by the tiny swerve of the beginnings at no fixed place or time. MATCH.
+
+FINDINGS
+142	LEXICAL	MINOR	0.65	"quae mobilitas" is rendered "what swiftness of motion", against the register's fixed "mobility" (first use cited at 2.142, never "speed"; 2.161 in this same passage has "mobility"); fix: "Now what mobility has been given to the bodies"

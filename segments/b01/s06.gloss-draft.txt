@@ -1,0 +1,153 @@
+ANALYSIS
+
+**875-879**
+- Latin: linquitur copia tenvis (pres. pass.); id quod Anaxagoras sumit, ut putet (subj.) omnis res latitare inmixtas omnibus rebus, sed illud unum apparere, cuius plurima sint mixta et magis in promptu primaque in fronte locata.
+- English: a slender chance is left; Anaxagoras takes it up, holding that every thing lies hidden, mixed in among all things, but that one thing appears, whose parts are most mixed in and lie ready to hand, in the forefront.
+- MATCH
+
+**880**
+- Latin: quod tamen repulsumst (perf. pass.) a vera ratione longe.
+- English: this is driven far from true reasoning.
+- MATCH
+
+**881-883**
+- Latin: conveniebat enim (impf.) fruges quoque saepe mittere signum sanguinis aut aliquid [eorum] quae nostro corpore aluntur; cum franguntur robore saxi minaci.
+- English: it should follow that grain too would often send a sign of blood, or of the things fed in our body, when crushed by the menacing strength of a stone.
+- MATCH
+
+**884-892**
+- Latin: decebat (impf.); the implied object of terimus is herbas.
+  - herbis manare cruorem consimili ratione.
+  - [herbas] mittere latices, dulcis guttas, simili sapore quali lactis ubere lanigerae sunt.
+  - glebis friatis, genera herbarum, fruges, frondes videri latitare dispertita minute.
+  - in lignis cinerem fumumque videri, cum praefracta forent, ignisque latere minutos.
+- English: "it would be fitting," with each item in the same order. Gore oozes from grasses; juices and sweet drops have a savor like milk in the ewe's udder; when clods are crumbled, grasses, grains and leaves should be seen hidden in tiny bits; ash and smoke should be seen in wood when it is snapped, and tiny fires lying hidden.
+- MATCH
+
+**893-896**
+- Latin: quoniam docet manifesta res quorum nil fieri; scire licet non esse res ita mixtas in rebus, verum semina multarum rerum communia, multimodis inmixta, debent latere in rebus.
+- English: since the plain fact shows none happens, you may know things are not so mixed, but seeds mixed in many ways, common to many things, must lie hidden in things.
+- MATCH
+
+**897-900**
+- Latin: inquis: fit ut cacumina arboribus vicina terantur inter se, austris cogentibus (abl. abs.), donec fulserunt flore flammai coorto (abl. abs.).
+- English: you say: it happens that the trees' neighboring tops are rubbed together, south winds forcing them, until a flower of flame springs up and they blaze.
+- MATCH
+
+**901-903**
+- Latin: non est insitus ignis lignis; verum sunt semina ardoris multa, quae cum terendo confluxere, creant incendia silvis.
+- English: fire is not implanted in the wood, but there are many seeds of burning, which, when they have flowed together through rubbing, create fires in the forests.
+- MATCH
+
+**904-906**
+- Latin: si facta flamma abscondita foret (plpf. subj.) silvis, non possent ignes celarier ullum tempus; conficerent silvas volgo, arbusta cremarent.
+- English: the same conditional, the same two apodoses.
+- MATCH
+
+**907-912**
+- Latin: iamne vides igitur, quod diximus, permagni referre cum quibus et quali positura eadem primordia contineantur et quos motus dent accipiantque, atque eadem paulo mutata creare ignes et lignum?
+- English: the same question, with the same dependent clauses.
+- MATCH
+
+**912-914**
+- Latin: quo pacto verba quoque ipsa sunt mutatis inter se paulo elementis (abl. of quality), cum ligna atque ignes distincta voce notemus.
+- English: just as words, too, differ by elements a little changed among themselves, when we mark wood and fires with distinct sounds.
+- MATCH ("differ" is defensible for inter se mutatis)
+
+**915-920**
+- Latin: si putas quaecumque cernis in rebus apertis non posse fieri quin fingas corpora materiai consimili natura praedita, hac ratione tibi pereunt primordia; fiet uti [primordia] concussa risu cachinnent et umectent ora genasque lacrimis.
+- English: the same conditional; the first-beginnings perish; they guffaw, shaken, and wet faces and cheeks with tears.
+- MATCH
+
+**921**
+- Latin: nunc age, quod super est, cognosce et audi (imperatives).
+- English: the same.
+- MATCH
+
+**922-930**
+- Latin: nec fallit me animi quam sint obscura; sed spes laudis percussit (perf.) cor thyrso acri et incussit amorem Musarum, quo instinctus peragro avia loca Pieridum nullius ante trita solo. iuvat accedere fontis et haurire, iuvat decerpere flores et petere coronam inde unde nulli velarint (perf. subj.) tempora Musae.
+- English: the same subjects, verbs and relative clauses.
+- MATCH
+
+**931-934**
+- Latin: primum quod doceo de magnis rebus et pergo exsolvere animum nodis artis religionum; deinde quod pango carmina tam lucida de re obscura, contingens cuncta lepore musaeo.
+- English: the same.
+- MATCH
+
+**935**
+- Latin: id quoque videtur non ab nulla ratione.
+- English: seems not without good reason.
+- MATCH ("good" is trivial)
+
+**936-950**
+- Latin: vel uti medentes, cum conantur dare pueris absinthia, prius contingunt oras circum pocula liquore mellis, ut aetas puerorum ludificetur labrorum tenus, interea perpotet laticem, decepta non capiatur, sed recreata valescat; sic ego, quoniam haec ratio videtur tristior iis quibus non est tractata et volgus abhorret, volui exponere rationem carmine Pierio et contingere melle, si possem tenere animum tuum versibus, dum perspicis naturam rerum, qua figura constet.
+- English: the same structure throughout, with the same purpose and conditional clauses.
+- MATCH
+
+**951-957**
+- Latin: quoniam docui corpora solidissima volitare invicta per aevom; evolvamus (hortatory) sitne finis summai eorum necne; pervideamus utrum inane (seu locus ac spatium, in quo res gerantur) finitum constet an immensum pateat profundum.
+- English: the same.
+- MATCH
+
+**958-959**
+- Latin: omne quod est nulla regione viarum finitumst; namque extremum debebat habere.
+- English: the same.
+- MATCH
+
+**960-962**
+- Latin: videtur nullius extremum posse esse nisi sit ultra quod finiat, ut videatur quo non longius sensus natura sequatur.
+- English: the same; "cannot follow" is acceptable for the subjunctive of characteristic.
+- MATCH
+
+**963-964**
+- Latin: quoniam fatendum nihil esse extra summam, non habet extremum, caret ergo fine modoque.
+- English: the same.
+- MATCH
+
+**965-967**
+- Latin: nec refert quibus regionibus adsistas; quem locum quisque possedit, infinitum omne relinquit tantundem in omnis partis.
+- English: the same, with "as infinite as before" for tantundem.
+- MATCH (slight gloss on tantundem, below threshold)
+
+**968-974**
+- Latin: si spatium finitum constituatur, si quis procurrat ad oras extremas iaciatque telum, mavisne id ire quo missum et volare, an censes aliquid prohibere posse? alterutrum fatearis sumasque necessest.
+- English: the same.
+- MATCH
+
+**975-976**
+- Latin: utrumque praecludit effugium et cogit ut concedas omne patere exempta fine.
+- English: the same.
+- MATCH
+
+**977-979**
+- Latin: sive est aliquid quod probeat efficiatque quo minus veniat finique locet se, sive foras fertur, non est a fine profectum.
+- English: the same.
+- MATCH
+
+**980-983**
+- Latin: sequar et quaeram, ubicumque locaris oras: quid telo fiet? fiet uti nusquam finis consistere possit, and copia fugae (subject) prolatet effugium (object).
+- English: the same subjects and objects.
+- MATCH
+
+**984-991**
+- Latin: si spatium inclusum consisteret oris finitumque foret, iam copia materiai confluxet ad imum; nec res geri posset nec foret caelum neque lumina solis, quippe ubi materies cumulata iaceret subsidendo ex infinito tempore.
+- English: the same.
+- MATCH
+
+**992-994**
+- Latin: requies nullast data corporibus principiorum, quia nil est imum quo confluere et ubi sedes ponere possint.
+- English: the same.
+- MATCH
+
+**995-997**
+- Latin: res quaeque geruntur semper in motu partibus in cunctis; inferna (modifying corpora) suppeditantur ex infinito cita corpora materiai.
+- English: the same.
+- MATCH
+
+**998-1001**
+- Latin: res rem finire videtur; aer dissaepit collis, montes aera; terra mare, mare terras terminat omnis; omne nihil est quod finiat extra.
+- English: the same.
+- MATCH
+
+FINDINGS
+NONE

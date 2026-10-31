@@ -1,0 +1,161 @@
+ANALYSIS
+
+842-846
+Lat: [ne putes] corpora prima (subj) manere (inf) solo spoliata colore; [corpora] sunt (pres ind pl) secreta teporis, frigoris, calidi vaporis; feruntur (pres pass pl) sterila sonitu, ieiuna suco; nec iaciunt (pres ind pl) odorem proprium de corpore.
+Eng: lest you think first bodies remain stripped of color alone; they are set apart from warmth, cold, heat; they go barren of sound, starved of flavor; give off no odor of their own.
+MATCH
+
+847-864
+Lat: sicut, cum instituas (pres subj 2sg) facere liquorem amaracini stactae, florem nardi [qui halat nectar], par est (impers) quaerere cum primis naturam olivi inolentis [quod licet ac possis reperire], quae nullam mittat auram, ut quam minime possit perdere odores mixtos concoctosque suo viro; propter eandem rem primordia debent (pres pl) non adhibere odorem gignundis rebus, nec sonitum (quoniam nihil mittere possunt), nec saporem, nec frigus, nec calidum tepidumque vaporem; cetera (quae ita sunt ut mortalia constent: molli lenta, fragosa putri, cava corpore raro) necesse est seiuncta sint a principiis, si volumus subiungere fundamenta inmortalia rebus, quibus nitatur summa salutis; ne res redeant (purpose subj) ad nihilum.
+Eng: same structure; "principiis" rendered "first-beginnings" (861); 864 "ne" rendered "or else... will return".
+DIFF: principia given the primordia term; 864 departs from the fixed refrain wording, though the sense is kept.
+
+865-867a
+Lat: [te] necesse est confiteare (pres subj 2sg) omnia ea quaecumque (tmesis) videmus sentire constare ex insensilibus principiis.
+Eng: "Now all the things we see have sense, whatever they are, / you must confess are... made up of senseless first-beginnings."
+DIFF: the relative "we see (to) have sense" reads as a main clause asserting that all visible things are sentient; "principiis" is again rendered "first-beginnings".
+
+867-870
+Lat: neque manufesta refutant id nec pugnant contra; sed ipsa ducunt manu et cogunt credere animalia gigni ex insensilibus.
+Eng: same.
+MATCH
+
+871-873
+Lat: licet videre vermes vivos existere de stercore, cum tellus umida nacta est putorem ex imbribus.
+Eng: same.
+MATCH
+
+874
+Lat: [licet videre] cunctas res vertere sese itidem.
+Eng: all things turn themselves into others.
+MATCH ("into others" is implied by the Latin)
+
+875-878
+Lat: fluvii vertunt se in frondes, pabula in pecudes; pecudes vertunt naturam in corpora nostra; de corpore nostro augescunt vires ferarum et corpora pennipotentum.
+Eng: same.
+MATCH
+
+879-882
+Lat: natura vertit cibos in corpora viva, procreat sensus; non alia ratione atque explicat ligna in flammas, versat omnia in ignis.
+Eng: same.
+MATCH
+
+883-885
+Lat: vides magni referre in quali ordine primordia sint locata, quibus commixta, quos motus dent accipiantque?
+Eng: same.
+MATCH
+
+886-888
+Lat: quid id est quod percutit animum ipsum, movet, cogit expromere sensus, ne credas sensile gigni ex insensilibus?
+Eng: same.
+MATCH
+
+889-890
+Lat: ni mirum quod lapides, ligna, terra una mixta nequeunt reddere vitalem sensum.
+Eng: same.
+MATCH
+
+891-896
+Lat: decebit meminisse me non dicere sensus gigni extemplo ex omnibus quae creant sensilia, sed magni referre quantula constent ea quae faciunt sensile, qua forma praedita, quae sint motibus ordinibus posituris.
+Eng: same.
+MATCH
+
+897-901
+Lat: nil quarum rerum videmus in lignis glaebisque; tamen haec, cum putrefacta sunt, pariunt vermiculos, quia corpora materiai, permota nova re, conciliantur ita ut debent animalia gigni.
+Eng: same; "as they must for living things to be born" makes the bodies the subject of debent.
+DIFF (slight, within tolerance)
+
+902-906
+Lat: [qui constituunt sensile posse creari ex sensilibus, porro ex aliis sentire sueti] ... lacuna ... cum faciunt mollia; nam omnis sensus iungitur visceribus nervis venis, quae videmus mollia consistere, creta mortali corpore.
+Eng: same, with the lacuna kept.
+MATCH
+
+907-909
+Lat: esto posse haec manere aeterna; debent aut habere sensum partis aut putari similis totis animalibus.
+Eng: same.
+MATCH
+
+910-913
+Lat: necesse est partes nequeant sentire per se; animus respuit sensus membrorum; nec manus secreta nec ulla pars potis est tenere sensum sola.
+Eng: same.
+MATCH
+
+914-915
+Lat: linquitur ut adsimulentur totis animantibus, ut possint consentire vitali sensu.
+Eng: same.
+MATCH
+
+916-918
+Lat: qui poterunt dici primordia et vitare vias leti, cum sint animalia, atque animalia sint una eademque mortalibus?
+Eng: same.
+MATCH
+
+919-922
+Lat: quod ut possint, tamen coetu concilioque nil facient praeter volgum turbamque animantum, ut homines armenta ferae nequeant gignere ullam rem conveniundo.
+Eng: same ("any other thing" is a gloss on ullam rem).
+MATCH
+
+923
+Lat: sic quae sentimus necesse est sentire.
+Eng: same.
+MATCH
+
+924-926a
+Lat: si dimittunt sensum suum et capiunt alium, quid opus fuit adtribui id quod detrahitur?
+Eng: same.
+MATCH
+
+926-930
+Lat: quatinus cernimus ova vertier in pullos, vermis effervere terra (quam putor cepit ob imbris), licet scire sensus posse gigni ex non sensibus.
+Eng: same; ob is rendered "after".
+MATCH (the causal force of ob is weakened, but only slightly)
+
+931-936
+Lat: si aliquis dicet sensus posse oriri dumtaxat mutabilitate aut partu quod proditur extra, huic satis erit probare partum non fieri nisi concilio coacto, nec quicquam commutari sine conciliatu.
+Eng: same.
+MATCH
+
+937-943
+Lat: nequeunt sensus esse ante naturam animantis genitam, quia materies tenetur disiecta in aere etc., nec congressa contulit motus vitalis convenientes, quibus sensus accensi tuentur animantem.
+Eng: same.
+MATCH
+
+944-946
+Lat: ictus grandior quam patitur natura adfligit quamvis animantem, pergit confundere sensus corporis animique.
+Eng: same.
+MATCH
+
+947-951
+Lat: positurae principiorum dissoluuntur, motus vitales inpediuntur, donec materies concussa solvit nodos animae, eiecit per caulas.
+Eng: same; "principiorum" is rendered "first-beginnings".
+DIFF: register term only.
+
+952-953
+Lat: quid reamur ictum posse facere nisi discutere ac dissolvere?
+Eng: same.
+MATCH
+
+954-959
+Lat: fit ut reliqui motus vitalis soleant vincere, sedare tumultus, revocare in meatus, discutere motum leti, accendere sensus.
+Eng: same.
+MATCH
+
+960-962
+Lat: qua re possint potius reverti ad vitam conlecta mente quam ire et abire quo decursum siet?
+Eng: same.
+MATCH
+
+963-971
+Lat: quoniam dolor est ubi corpora materiai sollicitata trepidant, et voluptas fit quando remigrant, licet scire primordia nullo dolore posse temptari nec voluptatem capere; quandoquidem non sunt ex corporibus principiorum quorum motus novitate laborent aut fructum capiant.
+Eng: same; "principiorum" is rendered "first-beginnings'".
+DIFF: register term only.
+
+972
+Lat: haut debent esse praedita ullo sensu.
+Eng: same.
+MATCH
+
+FINDINGS
+865	AMBIGUITY	MAJOR	0.70	"ea quae sentire videmus cumque" (whatever things we see to be sentient) is rendered "all the things we see have sense", which a reader takes as a main clause asserting that everything visible is sentient, the reverse of the argument (sentence 865-867); "Now all the things that we see to have sense, whatever they are,"
+861	LEXICAL	MINOR	0.65	"a principiis" is rendered "first-beginnings", and the note claims identical rendering is the policy; the register fixes principia = "beginnings" to keep it distinct from primordia, and the same slip recurs at 867 "insensilibus principiis", 947 "positurae principiorum" and 969 "principiorum corporibus"; "all these must be kept apart from the beginnings," (likewise 867 "senseless beginnings", 947 "the positions of the beginnings", 969 "any beginnings'"), and drop the note.
+864	LEXICAL	MINOR	0.50	"ne tibi res redeant ad nihilum funditus omnes" is a fixed refrain (2.864 = 2.756 = 1.673 = 1.797), but the English recasts it as "or else all things will return for you utterly to nothing" instead of the verbatim register line; "so that all things do not return utterly to nothing for you."

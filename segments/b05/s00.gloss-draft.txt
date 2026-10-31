@@ -1,0 +1,42 @@
+ANALYSIS
+1-2. L: quis potis est condere (inf.) carmen dignum pectore pollenti pro maiestate rerum hisque repertis? E: who has strength of heart to build a song worthy of majesty and discoveries? MATCH
+3-5. L: quisve valet verbis tantum, qui possit (subj.) fingere laudes pro meritis eius, qui liquit (pf.) nobis talia praemia parta quaesitaque pectore suo? E: who is so strong in words that he could shape praises to the merits of the one who left us prizes brought forth and sought out by his heart? MATCH
+6. L: nemo erit (fut.) cretus mortali corpore. E: no one made of a mortal body. MATCH (ellipsis)
+7-12. L: si dicendum est ut maiestas petit, deus ille fuit, qui princeps invenit rationem vitae quae appellatur sapientia, quique per artem vitam [e] fluctibus tantis tenebrisque locavit in tranquillo et clara luce. E: if we must speak as majesty demands, he was a god, who first found the reasoning of life called wisdom, and who took life out of waves and darkness and set it in calm and light. MATCH
+13. L: confer (imper.) divina aliorum antiqua reperta. E: compare the godlike discoveries of others long ago. MATCH
+14-17. L: Ceres fertur instituisse fruges, Liber laticem; cum tamen vita posset manere sine his, ut fama est gentis vivere. E: same. MATCH
+18. L: at non poterat bene vivi (impers. pass.) sine puro pectore. E: a good life was not possible without a pure heart. MATCH
+19-21. L: quo magis hic merito deus videtur, ex quo solacia didita permulcent animos. E: same. MATCH
+22-23. L: si putabis facta Herculis antistare, ferere longius a vera ratione. E: same. MATCH
+24-26. L: quid obesset hiatus leonis et sus; officerent tanto opere Stymphala colentes? E: what harm would the lion and boar do; how much could the Stymphalian birds hinder us? MATCH
+27-28. L: quid posset taurus, Lernaea pestis hydra vallata colubris? E: same. MATCH
+29-34a. L: quidve [obesset] vis Geryonai, et equi Diomedis spirantes ignem propter Thracia..., serpens servans mala, amplexus stirpes? E: same, verb understood. MATCH
+34b-36. L: quid obesset propter Atlanteum litus, quo neque noster adit nec barbarus audet? E: same. MATCH
+37-38. L: cetera portenta quae sunt perempta, si non victa forent, quid viva nocerent? E: same. MATCH
+39-42. L: nil; ita terra scatit ferarum et repleta est terrore per nemora; quae loca vitandi est nostra potestas. E: same. MATCH
+43-44. L: nisi purgatumst pectus, quae proelia atque pericula nobis insinuandum (gerundive, impers.) ingratis! E: what battles and dangers must work their way into us against our will. MATCH (defensible reading)
+45-46. L: quantae curae cuppedinis scindunt hominem sollicitum, quantique timores! E: same. MATCH
+47-48. L: quid superbia, spurcitia, petulantia? quantas efficiunt clades! quid luxus desidiaeque? E: same. MATCH
+49-51. L: qui subegerit haec et expulerit dictis non armis, nonne decebit hunc dignarier esse numero divom? E: same. MATCH
+52-54. L: cum suerit dare dicta multa bene ac divinitus de (i)mmortalibus divis, atque pandere naturam rerum. E: same, with noted emendation. MATCH
+55-66. L: [ego] ingressus vestigia, dum persequor ac doceo quo foedere quaeque creata sint, quam necessum sit durare in eo, nec valeant rescindere validas aevi leges; quo genere animi natura reperta est consistere nativo corpore creta, nec posse durare per magnum aevum, sed simulacra solere (be wont) fallere mentem in somnis, cum videamur cernere eum quem vita reliquit; ordo rationis detulit huc, ut ratio reddunda sit mundum consistere mortali corpore nativumque esse. E: same skeleton; aevi leges = "laws of time"; magnum aevum = "long ages"; solere = "are used to", readable as passive "are employed to". DIFF (lexical; ambiguity at 62)
+67-75. L: et quibus modis congressus materiai fundarit terram...; quae animantes extiterint, quae nullo tempore natae; quo modo genus humanum coeperit vesci per nomina; quibus modis metus divom insinuarit pectora, [metus] qui tuetur sancta fana... E: same; relative "which" placed directly after "our hearts". DIFF (relative attachment ambiguous)
+76-81. L: expediam qua vi natura gubernans flectat cursus solis et meatus lunae; ne reamur haec lustrare cursus libera sponte sua, morigera ad fruges, neve putemus volvi divom ratione. E: same. MATCH
+82-90. L: qui didicere deos agere aevom securum, si mirantur qua ratione quaeque geri possint, referuntur in religiones et adsciscunt dominos, quos credunt omnia posse, ignari quid queat esse, quid nequeat, qua ratione potestas finita sit cuique, terminus haerens. E: same. MATCH
+91-96. L: ne moremur, tuere maria terras caelum; una dies dabit exitio naturam triplicem; moles et machina ruet sustentata. E: same. MATCH
+97-103. L: nec me fallit quam res nova accidat menti exitium futurum, et quam difficile sit pervincere; ut fit ubi adportes rem insolitam auribus nec possis subdere visu nec iacere in manus, via qua fidei fert in pectus. E: same. MATCH
+104-106. L: effabor; res ipsa dabit fidem dictis forsitan, et cernes omnia conquassari motibus terrarum ortis. E: same. MATCH
+107-109. L: quod fortuna gubernans flectat (opt. subj.) procul, et ratio potius quam res persuadeat omnia posse succidere victa fragore. E: same. MATCH
+110-113. L: prius quam adgrediar fundere fata de qua re sanctius et certa ratione magis quam Pythia, expediam multa solacia doctis dictis. E: same. MATCH
+114-121. L: ne refrenatus religione rearis terras... corpore divino debere aeterna manere, putesque par esse omnis pendere poenas ritu Gigantum, qui disturbent moenia mundi velintque restinguere solem, notantes inmortalia mortali sermone. E: same. MATCH
+122-125. L: quae distent a numine et sint indigna videri in numero deum, ut potius putentur praebere notitiam quid sit remotum vitali motu sensuque. E: same. MATCH
+126-127. L: non est ut putetur natura animi consiliumque posse esse cum quovis corpore. E: same. MATCH
+128-133. L: sicut non arbor in aethere, non nubes in aequore queunt esse..., certum est ubi quicquid crescat et insit, sic natura animi nequit oriri sola sine corpore neque esse longius a nervis et sanguine. E: same. MATCH
+134-137. L: si posset, multo prius vis animi posset esse in capite... et soleret (be wont) innasci quavis in parte, tandem manere in eodem homine. E: same; soleret = "be used to be born". DIFF (ambiguous idiom)
+138-143. L: quoniam in corpore nostro constat certum videturque ubi anima atque animus seorsum possit esse et crescere, tanto magis infitiandum totum posse durare extra corpus in glebis, igni, aqua, oris aetheris. E: same. MATCH
+144-145. L: haud constant praedita sensu divino, quandoquidem nequeunt vitaliter esse animata. E: same. MATCH
+FINDINGS
+62	AMBIGUITY	MODERATE	0.60	"simulacra solere ... fallere mentem" (images are wont to deceive the mind) is rendered "images are used to deceive the mind", which reads as a passive "are employed to deceive", implying an agent who uses them; "but that images are wont to deceive the mind in sleep"
+74	AMBIGUITY	MINOR	0.50	"qui ... tuetur" refers to metus (5.73), but the English puts "which" directly after "our hearts", so the clause first reads as describing the hearts, and only the singular "keeps" repairs it; "our hearts, that fear which over the round of the earth keeps holy"
+58	LEXICAL	MINOR	0.50	"aevi ... leges" is rendered "the strong laws of time", against the register's aevum = life, age, and 5.61 "magnum ... per aevum" (singular) becomes "long ages"; "and cannot annul the strong laws of age,"
+136	AMBIGUITY	MINOR	0.50	"innasci ... soleret" (would be wont to be born) is rendered "be used to be born", an unidiomatic phrase that can read as instrumental use rather than habit; the line repeats 3.792, so any change applies to both: "and would be wont to be born in any part whatever,"

@@ -1,0 +1,179 @@
+ANALYSIS
+
+**495-497**
+- Latin: pondus (terrae, concreto corpore abl.) constitit; atque [omnis mundi quasi limus] confluxit gravis in imum et subsedit funditus ut faex. omnis is gen. with mundi ("of the whole world") or nom. masc. with limus. It cannot agree with neuter pondus. gravis is nom. masc., with limus.
+- English: weight of earth settled; "all of it, heavy, like the slime of the world" flowed together and sank like dregs.
+- DIFF: omnis is read as "all of it" (the earth's weight); "whole" is lost from "of the whole world".
+
+**498-505**
+- Latin:
+  - mare, aer, aether ignifer sunt omnia pura relicta (corporibus liquidis abl.), leviora aliis alia.
+  - aether liquidissimus levissimusque super influit auras, nec commiscet corpus auris turbantibus.
+  - sinit haec verti turbinibus; sinit [haec] turbare (intrans.) procellis.
+  - ipse fert ignis certo impete labens.
+- English: same subjects and verbs; "lets them riot" for turbare intransitive; "below" is a gloss.
+- MATCH
+
+**506-508**
+- Latin: Pontos significat [aethera modice fluere atque posse uno nisu]; mare quod fluit certo aestu, conservans unum tenorem.
+- English: same.
+- MATCH ("evenly" for modice is close, but defensible)
+
+**509**
+- Latin: canamus (hortatory) quae sit causa motibus astrorum.
+- English: same.
+- MATCH
+
+**510-516**
+- Latin:
+  - si vortitur orbis, dicendum est aera premere polum ex utraque parte, tenere, claudere.
+  - inde alium [aera] supra fluere, intendere eodem quo sidera volvenda micant.
+  - aut alium supter, qui contra subvehat orbem.
+  - ut videmus fluvios versare rotas atque (h)austra.
+- English: same.
+- MATCH
+
+**517-525**
+- Latin:
+  - est uti possit caelum manere in statione, cum signa ferantur.
+  - Reason 1: sive quod aetheris aestus inclusi sunt, quaerentes viam versantur, et volvunt ignes per summania templa.
+  - Reason 2: sive aer extrinsecus fluens versat agens ignis.
+  - Reason 3: sive ipsi [ignes] serpere possunt quo cibus vocat invitatque euntis, pascentis corpora (pascentis agrees with ignes).
+- English: same. "Out" is implicit in quaerentes viam.
+- MATCH
+
+**526-533**
+- Latin:
+  - ponere certum quid sit difficilest.
+  - sed quid possit fiatque in variis mundis, id doceo, sequorque disponere causas quae possint esse motibus.
+  - necessest una sit et haec causa quae vegeat motum signis.
+  - praecipere quae sit haud quaquamst pedetemptim progredientis.
+- English: same.
+- MATCH
+
+**534-538**
+- Latin: ut terra quiescat, convenit pondus evanescere paulatim et decrescere, atque [terram] habere aliam naturam supter, coniunctam ex ineunte aevo, aptam partibus aeriis, quibus insita vivit.
+- English: same.
+- MATCH
+
+**539-545**
+- Latin:
+  - non est oneri, neque deprimit auras.
+  - ut membra nullo sunt pondere, nec caput oneri collo, nec sentimus pondus inesse in pedibus.
+  - at pondera quae foris veniunt imposita laedunt, saepe minora.
+  - usque adeo refert quid quaeque queat res.
+- English: same.
+- MATCH
+
+**546-549**
+- Latin: tellus non est aliena, repente allata, auris alienis obiecta aliunde; sed pariter concepta prima ab origine mundi, certaque pars eius, quasi membra nobis videntur.
+- English: same.
+- MATCH
+
+**550-555**
+- Latin:
+  - terra concussa tonitru concutit omnia quae supra se sunt motu.
+  - quod facere nulla ratione posset nisi esset revincta partibus aeriis caeloque.
+  - nam haerent communibus radicibus, coniuncta, uniter aucta.
+- English: same.
+- MATCH
+
+**556-558**
+- Latin: nonne vides quam magno pondere vis animai sustineat corpus nobis, quia coniuncta et apta est?
+- English: same.
+- MATCH
+
+**559-560**
+- Latin: quid potis est tollere corpus saltu nisi vis animae, quae membra gubernat?
+- English: same.
+- MATCH
+
+**561-563**
+- Latin: vides quantum tenuis natura valere possit ubi coniuncta est gravi corpori, ut aer [coniunctus] terris et animi vis nobis.
+- English: same.
+- MATCH
+
+**564-565**
+- Latin: nec rota solis nimio maior nec ardor minor esse potest quam videtur sensibus.
+- English: same.
+- MATCH
+
+**566-569**
+- Latin:
+  - e quibuscumque spatiis ignes possunt adicere lumina et adflare vaporem, nil libant de corpore flammarum magnis intervallis.
+  - nihil contractior ad speciem est ignis.
+- English: "the great intervals take nothing"; the subject is recast but the sense is kept.
+- MATCH
+
+**570-573**
+- Latin:
+  - quoniam calor lumenque perveniunt ad sensus et loca fulgent, forma filumque solis debet videri hinc.
+  - ut nil possis plus aut minus addere vere.
+- English: same. "As they are" glosses the result clause.
+- MATCH
+
+**574**
+- Latin: repeated line.
+- English: repeated line, noted.
+- MATCH
+
+**575-578**
+- Latin: luna, sive notho lumine lustrans loca fertur sive suam lucem iactat, nihilo maiore figura fertur quam videtur oculis qua cernimus.
+- English: same.
+- MATCH
+
+**579-584**
+- Latin:
+  - omnia longe semota per multum aera prius specie confusa videntur quam minui filum.
+  - quapropter necesse est lunam, quandoquidem claram speciem certamque figuram praebet ut notata est oris extremis, tanta videatur quanta est.
+- English: same.
+- MATCH
+
+**585-591**
+- Latin:
+  - quoscumque vides ignes aetheris, licet scire posse esse perquam pauxillo minores vel exigua parte maiores.
+  - quandoquidem ignes in terris, dum tremor ardorque cernitur, perparvom interdum mutare filum videntur, quo longius absunt.
+- English: same.
+- MATCH
+
+**592-595**
+- Latin: non mirandum qua ratione tantulus sol queat tantum mittere lumen quod compleat maria, terras omnis, caelum rigando, et perfundat cuncta vapore.
+- English: same.
+- MATCH
+
+**596**
+- Latin: repeated line.
+- English: repeats the English of 584, noted.
+- MATCH
+
+**597-601**
+- Latin:
+  - licet hinc unum fontem largifluum mundi totius patefactum scatere atque erumpere lumen.
+  - quia elementa vaporis undique conveniunt et coniectus confluit, ut ex uno capite hic profluat ardor.
+- English: same.
+- MATCH
+
+**602-603**
+- Latin: nonne vides quam late parvus fons prata riget interdum campisque redundet?
+- English: same.
+- MATCH
+
+**604-607**
+- Latin:
+  - est uti ardor ab igni solis non magno percipiat aera fervoribus.
+  - si aer ita opportunus idoneusque est ut ictus parvis ardoribus queat accendi.
+- English: same.
+- MATCH
+
+**608-609**
+- Latin: quod genus videmus incendia accidere segetes stipulamque ex una scintilla passim.
+- English: same.
+- MATCH
+
+**610-613**
+- Latin: forsitan sol, rosea lampade lucens, possideat multum ignem caecis fervoribus circum se, qui nullo fulgore notatus sit, ut aestifer exaugeat ictum radiorum.
+- English: same. The subject of "swell" is as open as in the Latin.
+- MATCH
+
+FINDINGS
+496	GRAMMAR	MINOR	0.55	"omnis mundi quasi limus ... gravis" makes omnis either genitive with mundi ("of the whole world") or nominative with limus, and it cannot agree with neuter pondus; the English "all of it, heavy" makes it refer to the earth's weight and loses "whole" from the world (see also 495, 497). Fix: "settled, and like the slime of the whole world, heavy, into the depths"

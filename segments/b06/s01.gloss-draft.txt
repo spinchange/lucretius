@@ -1,0 +1,33 @@
+ANALYSIS
+121-129: Latin: omnia videntur tremere / moenia dissiluisse (inf., pass. videntur), tonitru gravi concussa; cum procella intorsit sese (pf. act. sg.) et conclusa cogit nubem uti fiat cava spisso corpore; post ubi vis eius et impetus conminuit [nubem]; tum [nubes] scissa dat fragorem. English: all things seen to tremble, walls seem to have leapt asunder; when storm has twisted itself, compels the cloud to grow hollow; when the wind's force and onset have broken it, then, split, it gives a crash. MATCH.
+130-131: Latin: nec mirum, cum vesicula plena animae displosa dat haud parvum sonitum. English: bladder full of air, burst, gives no little sound. MATCH.
+132-134: Latin: est ratio ut [venti] sonitus faciant cum perflant; etenim videmus nubila ramosa atque aspera ferri. English: a principle by which winds make sounds; we see clouds branching and rough borne along. MATCH.
+135-136: Latin: ut, cum flamina cauri perflant silvam, frondes dant sonitum ramique fragorem. English: same. MATCH.
+137-141: Latin: fit ut vis venti perscindat nubem perfringens impete recto; nam res docet quid flatus possit, hic in terra ubi lenior est, cum arbusta evolvens haurit radicibus ab imis. English: force tears through cloud with straight onset; plain fact shows what a blast can do, here where gentler, overturning trees from roots. MATCH.
+142-144: Latin: sunt fluctus qui dant quasi murmur in frangendo; quod item fit in fluminibus et mari cum frangitur aestus. English: same. MATCH.
+145-147: Latin: fit ubi vis fulminis incidit e nubi in nubem; haec [nubes] si recepit ignem multo umore, trucidat [ignem] magno clamore. English: same; cloud slaughters the fire. MATCH.
+148-149: Latin: ut ferrum candens stridit ubi demersimus in imbrem gelidum. English: same. MATCH.
+150-155: Latin: si nubes aridior accipit ignem, uritur succensa sonitu; ut si flamma vagetur per montis; nec res ulla magis quam laurus crematur sonitu. English: same. MATCH.
+156-159: Latin: fragor geli atque ruina grandinis dat sonitum; cum ventus confercit, franguntur montes nimborum concreti et grandine mixti. English: same. MATCH.
+160-163: Latin: fulgit cum nubes excussere semina ignis concursu; ceu si lapis aut ferrum (subj.) percutiat lapidem (obj.); nam tum lumen exilit et ignis dissipat scintillas. English: as if stone should strike on stone, or on iron. DIFF: ferrum is a second subject (striker), not a second object.
+164-166: Latin: fit ut tonitrum accipiamus post quam oculi cernant fulgere; quia [res] tardius adveniunt ad auris quam res quae visum moveant. English: same. MATCH.
+167-172: Latin: si videas quem caedere auctum arboris ferro ancipiti, fit ut cernas ictum ante quam plaga det sonitum; sic fulgorem cernimus ante quam tonitrum accipimus, qui pariter mittitur igni e simili causa. English: same. MATCH.
+173-174: Latin: nubes tingunt loca lumine; tempestas fulgit. English: same. MATCH.
+175-179: Latin: ventus ubi invasit nubem et fecit eam cavam spissescere, fervescit mobilitate; ut vides omnia percalefacta ardescere; glans plumbea liquescit. English: same. MATCH.
+180-184: Latin: ergo hic fervidus cum perscidit nubem, dissipat semina ardoris expressa, quae faciunt fulgura; inde sonus sequitur qui tardius adlicit auris quam quae perveniunt ad lumina. English: same. MATCH.
+185-186: Latin: hoc fit nubibus densis et extructis alte. English: same. MATCH.
+187-188: Latin: ne sit frudi quod videmus quam lata sint magis quam quid extent. English: same. MATCH.
+189-203: Latin: contemplator, cum venti portabunt nubila transversa, aut ubi videbis [nubila] cumulata, superna urguere, sepultis ventis; tum poteris cognoscere moles et speluncas cernere, quas venti conplerunt, indignantur clausi, minantur, mittunt fremitus, versantur, convolvunt semina, cogunt, rotant flammam, donec divolsa nube fulserunt. English: same. MATCH.
+204-208: Latin: fit ut color aureus ignis devolet, quod necessust nubes habere semina ignis; cum sunt sine umore, colos est flammeus. English: same. MATCH.
+209-210: Latin: necessest [eas] concipere multa de lumine solis, ut rubeant. English: same. MATCH.
+211-213: Latin: cum ventus contrusit hasce in unum locum, profundunt semina expressa, quae faciunt colores fulgere. English: same. MATCH.
+214-218: Latin: fulgit cum nubila rarescunt; cum ventus diducit, necessest semina cadant ingratiis; tum fulgit sine terrore. English: same. MATCH.
+219-222: Latin: ictus et signa et notae declarant qua natura fulmina constent; haec sunt signa ignis non venti. English: same. MATCH.
+223-224: Latin: [fulmina] accendunt tecta et dominantur. English: same. MATCH.
+225-227: Latin: natura constituit hunc ignem corporibus minutis, cui nil obsistere possit. English: same. MATCH.
+228-230: Latin: fulmen transit per saepta, per saxa, per aera; facit aes et aurum liquidum. English: same. MATCH.
+231-235: Latin: curat vina diffugiant vasis integris, quia calor conlaxat lateramina et insinuatus differt primordia vini. English: same. MATCH.
+236-238: Latin: quod vapor solis non posse videtur efficere aetatem; tanto mobilior haec vis. English: same. MATCH.
+239-245: Latin: expediam quo pacto ea gignantur et fiant ut possint discludere, disturbare, avellere, commoliri, exanimare, prosternere, qua vi facere possint; neque morabor. English: same. MATCH.
+FINDINGS
+162	MISTRANSLATION	MINOR	0.70	"ceu lapidem si / percutiat lapis aut ferrum" (161-162) has lapis and ferrum both as subjects striking a stone, but the English makes iron a second object ("strike on stone, or on iron"); fix 162: "on stone, or iron strike it; for then too a light"

@@ -1,0 +1,69 @@
+ANALYSIS
+
+**483-484.** Latin: corpora sunt (pres. ind. pl.) partim primordia, partim [ea] quae constant concilio principiorum. English: bodies are partly first-beginnings, partly those formed from a union of beginnings. MATCH
+
+**485-486.** Latin: nulla vis potest stinguere [ea] quae sunt primordia; nam ea vincunt solido corpore demum. English: no force can quench those that are first-beginnings; for they prevail by solid body. MATCH
+
+**487-488.** Latin: etsi videtur difficile credere quicquam posse reperiri solido corpore in rebus. English: yet it seems hard to believe anything can be found of solid body among things. MATCH
+
+**489-491.** Latin: fulmen transit per saepta, ut clamor ac voces; ferrum candescit in igni; saxa dissiliunt vapore. English: the same three clauses. MATCH
+
+**492-493.** Latin: cum rigor auri solvitur aestu, tum glacies aeris liquescit. This is the correlative "both… and also", two parallel facts. English: "when… dissolves…, then… melts". DIFF: the English makes the second clause temporally or causally dependent on the first.
+
+**494-496.** Latin: calor permanat argentum, frigus [permanat]; quando sensimus utrumque, retinentes pocula, rore infuso. English: same, with "as custom has it" for rite. MATCH
+
+**497.** Latin: videtur nihil solidi esse. English: same. MATCH
+
+**498-502.** Latin: quia ratio naturaque cogit, ades, dum expediamus esse ea quae constent solido aeterno corpore, quae docemus esse semina primordiaque, unde summa constet creata. English: same structure ("us" supplied after compel). MATCH
+
+**503-506.** Latin: quoniam duplex natura (corporis atque loci) repertast constare; necessest utramque esse per se puramque. English: same. MATCH
+
+**507-509.** Latin: qua vacat spatium, corpus non est; qua tenet se corpus, inane nequaquam constat. English: same. MATCH
+
+**510.** Latin: corpora prima sunt solida ac sine inani. English: same. MATCH
+
+**511-515.** Latin: quoniam inanest in genitis rebus, necessest materiem solidam constare circum; nec res potest probari celare inane, si non relinquas quod cohibet constare solidum. English: same. MATCH
+
+**516-517.** Latin: id potest esse nihil nisi concilium materiai quod queat cohibere inane. English: same. MATCH
+
+**518-519.** Latin: materies, quae constat solido corpore, potest esse aeterna, cum cetera dissoluantur. English: same. MATCH
+
+**520-523.** Latin: si nil esset quod vacaret (per the note), omne foret solidum; nisi corpora certa essent quae complerent loca, spatium constaret vacuum inane. English: same. MATCH
+
+**524-527.** Latin: corpus [est] distinctum inani alternis, quoniam nec plenum nec vacuum extat; sunt ergo corpora quae possint distinguere spatium inane pleno. English: same. MATCH
+
+**528-531.** Latin: haec neque possunt dissolui icta, nec retexi penetrata, nec queunt labare temptata alia ratione; id quod iam supra ostendimus paulo ante. English: same, but "as I showed you already, a little while before". DIFF: supra is absent, and 1.429's refrain wording is not kept.
+
+**532-535.** Latin: nam videtur quicquam neque posse conlidi sine inani, nec frangi, nec findi, nec capere umorem, frigus, ignem, quibus omnia conficiuntur. English: same. MATCH
+
+**536-537.** Latin: quo magis res cohibet inane, tam magis labascit temptata his rebus. English: same. MATCH
+
+**538-539.** Latin: si corpora prima sunt solida, necessest sint aeterna. English: same. MATCH
+
+**540-542.** Latin: nisi materies fuisset aeterna, res redissent ad nihilum, renataque forent. English: same. MATCH
+
+**543-547.** Latin: quoniam docui nil posse creari de nihilo neque genitum revocari, primordia debent esse inmortali corpore, quo quaeque possint dissolui, ut materies subpeditet. English: same. MATCH
+
+**548-550.** Latin: sunt igitur primordia solida simplicitate; nec queunt alia ratione, servata per aevom, res reparare ex infinito tempore. English: same, with "kept" given as the main verb and "to renew" as purpose. MATCH (compression)
+
+**551-555.** Latin: si natura nullam finem parasset, corpora redacta forent aevo frangente, ut nihil conceptum posset pervadere finem aetatis. English: same. MATCH
+
+**556-560.** Latin: videmus quidvis citius dissolvi quam refici; quod aetas fregisset, numquam posset reparari tempore relicuo. English: same. MATCH
+
+**561-564.** Latin: finis frangendi reddita certa manet, quoniam videmus rem refici et tempora finita stare rebus, quibus possint contingere florem. English: same. MATCH
+
+**565-569.** Latin: accedit uti, cum corpora constant solidissima, omnia mollia possint tamen reddi (explained), quo pacto fiant et qua vi gerantur, quoniam inane admixtum est. English: same. MATCH
+
+**570-573.** Latin: si primordia sint mollia, ratio non poterit reddi unde silices ferrumque queant creari; nam natura carebit principio fundamenti. English: same. MATCH
+
+**574-576.** Latin: sunt solida simplicitate, quorum conciliatu omnia possunt artari et ostendere viris. English: same. MATCH
+
+**577-580.** Latin: si nulla finis reddita corporibus, tamen necessest corpora superare nunc rebus, quae nondum clueant temptata periclo. English: same. MATCH
+
+**581-583.** Latin: quoniam constant fragili natura, discrepat [ea] potuisse manere aeternum tempus vexata plagis. English: same. MATCH
+
+**584-598.** Latin: quoniam finis crescendi reddita constat, et quid queant/nequeant sancitum extat, nec commutatur quicquam, quin omnia constant ut volucres ostendant maculas inesse, debent habere corpus inmutabilis materiae; nam si primordia possent commutari revicta, incertum constet quid possit oriri…, nec possent saecla referre naturam… parentum. English: same. MATCH
+
+FINDINGS
+531	OMISSION	MINOR	0.60	"id quod iam supra tibi paulo ostendimus ante": the English "as I showed you already, a little while before" drops supra ("above") and departs from the fixed refrain 1.429; "as I showed you above, a little while before."
+492	MISTRANSLATION	MINOR	0.55	"cum labefactatus rigor auri solvitur aestu, / tum glacies aeris… liquescit" is a cum…tum correlative ("both… and also"), but "when… then" makes the melting of bronze (493) seem to depend on gold dissolving; "the hardness of gold is shaken loose and dissolves in heat,"

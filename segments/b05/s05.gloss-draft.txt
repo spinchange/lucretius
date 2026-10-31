@@ -1,0 +1,73 @@
+ANALYSIS
+
+614-619: Latin: ratio solis (subj.) nec patescit (pres. ind., neg.) simplex et recta (predicative); indirect questions quo pacto [sol] adeat (subj.) flexus brumalis aegocerotis, ut vertat (subj.) ad metas solstitialis canceris; luna videatur (subj. pass.) obire spatium; relative: in quo sol consumit annua tempora. English: the reasoning of the sun is not laid open, simple and straight; how it comes, how it bends, how the moon is seen to pass through the space in which the sun spends a year. DIFF: ratio solis is rendered "reasoning", where the register fixes "the order of the sun" for this line.
+
+620: Latin: causa (subj.) non reddita est (perf. pass.) simplex. English: not one simple cause is given. MATCH.
+
+621-624: Latin: id videtur (pres.) posse fieri cum primis; relative: quod sententia Democriti ponit; acc.+inf.: quanto sidera sint (subj.) propter terram, tanto [ea] posse minus ferri cum turbine caeli. English: same structure, nearer/less carried. MATCH.
+
+625-628: Latin: acc.+inf.: rapidas et acris viris illius (sc. turbinis) evanescere et imminui supter; solem relinqui paulatim cum posterioribus signis; causal: quod sit (subj.) inferior quam fervida signa. English: forces of the whirl fade and lessen; the sun is left behind; because it is lower. MATCH.
+
+629-631: Latin: et magis hoc lunam [relinqui]; quanto demissior eius cursus abest procul a caelo terrisque propinquat (one quanto clause, two verbs, subj. cursus), tanto [lunam] posse minus tendere cursum cum signis. English: "the lower its course, / the farther it lies ... and the nearer it comes ..., / the less it can". The English makes a chain of three correlatives. DIFF: the single quanto clause is split into "the lower ..., the farther ..." as if it were cause and effect.
+
+632-634: Latin: quanto fertur (pres. pass.) flaccidiore turbine, inferior quam sol, tanto magis omnia signa hanc adipiscuntur et praeter feruntur. English: same structure. MATCH.
+
+635-636: Latin: fit ut haec videatur reverti mobilius ad quodque signum, quia signa revisunt ad hanc. English: same. MATCH.
+
+637-642: Latin: fit ut aer alter possit fluere alternis certo tempore e transversis partibus; relatives: qui queat detrudere solem ...; qui reiciat [eum] a gelidis umbris ... in aestiferas partis. English: same. MATCH.
+
+643-645: Latin: putandumst (gerundive) ratione pari lunam stellasque (relative: quae volvunt annos) posse ire aeribus alternis e partibus. English: same, but pari ratione is rendered "by like reasoning" where the register fixes "on (by) a like principle" (5.643). DIFF (register only).
+
+646-647: Latin: nonne vides nubila ire (inf.) diversis ventis in diversas partis, inferna supernis? English: same. MATCH.
+
+648-649: Latin: qui minus illa sidera queant (subj.) ferri diversis aestibus? English: same. MATCH.
+
+650-655: Latin: nox obruit terras; aut ubi sol impulit (perf.) ultima caeli atque languidus efflavit ignis, where concussos and labefactos (acc. pl.) modify ignis; aut quia vis eadem cogit [eum] convortere cursum, relative: quae pertulit orbem. English: "has breathed out its fires, / shaken by the journey and weakened by much air". The participles can be read with the sun. DIFF: the modifier of concussos/labefactos is ambiguous.
+
+656-662: Latin: Matuta differt auroram et pandit lumina; aut quia sol anticipat, temptans accendere; aut quia ignes conveniunt et semina consuerunt confluere; relative: quae faciunt lumina gigni. English: same. MATCH.
+
+663-665: Latin: fama est ignis dispersos cerni (pass. inf.), inde coire et conficere orbem. English: same. MATCH.
+
+666-668: Latin: illud non debet esse mirabile, quod semina ignis possint confluere et reparare nitorem. English: same. MATCH.
+
+669-671: Latin: videmus multa quae fiunt certo tempore; arbusta florescunt, dimittunt florem. English: same. MATCH.
+
+672-674: Latin: aetas imperat (pres.) dentes cadere, inpubem pubescere veste, et demittere (let hang down, i.e. grow) barbam malis. English: "to let a soft beard fall down from his cheeks". DIFF: the English reads as shedding the beard, echoing "let their flower fall" (671).
+
+675-676: Latin: fulmina, nix, etc. fiunt partibus anni non nimis incertis. English: same. MATCH.
+
+677-679: Latin: ubi exordia fuerunt sic, atque res mundi cecidere ab origine, [res] redeunt ex ordine certo. English: same, with mundi slightly shifted. MATCH.
+
+680-688: Latin: licet dies crescere, noctes tabescere, luces minui; aut quia sol partit oras et dividit orbem, reponit quod detraxit, donec pervenit ad signum; relative: ubi nodus exaequat umbras. English: same. MATCH.
+
+689-695: Latin: nam caelum distinet metas aequato discrimine, propter posituram orbis; relative: in quo sol concludit tempora, lustrans; ut ratio declarat eorum qui notarunt. English: same. MATCH.
+
+696-700: Latin: aut quia aer crassior est; ideo iubar haesitat nec potest penetrare; propterea noctes longae cessant, dum veniat insigne. English: same. MATCH.
+
+701-704: Latin: aut quia ignes consuerunt confluere tardius et citius; relative: qui faciunt solem surgere; propterea fit uti videantur dicere verum. English: same, with a note on "they". MATCH.
+
+705-712: Latin: luna potest nitere, percussa radiis, et convertere lumen, quantum secedit; donique eum (the sun) contra fulsit atque oriens, super edita, vidit obitus eius (the sun's setting); inde debet condere lumen, quanto labitur propius. English: "has looked down upon its setting". "Its" most naturally means the moon. DIFF: the referent of eius is shifted from the sun to the moon.
+
+713-714: Latin: ut faciunt qui fingunt lunam esse consimilem pilai et tenere viam sub sole. English: same. MATCH.
+
+715-719: Latin: est quare possit volvier proprio lumine et reddere formas; licet corpus aliud esse, quod fertur et labitur, occursans officiensque, nec potis est cerni, quia fertur cassum lumine. English: same. MATCH.
+
+720-726: Latin: [luna] potest versari, ut globus pilai tinctus dimidia parte, et edere formas, donique vertit partem ad speciem; inde contorquet et aufert partem. English: same. MATCH.
+
+727-730: Latin: ut doctrina Chaldaeum, refutans artem astrologorum, tendit convincere contra, quasi id nequeat fieri quod pugnat uterque, aut minus sit cur ausis amplectier. English: same. MATCH.
+
+731-736: Latin: cur nequeat luna creari, quaeque aborisci, alia reparari, difficilest docere et vincere, cum videas multa creari. English: same. MATCH.
+
+737-740: Latin: it Ver et Venus, praenuntius graditur ante; Flora, quibus praespargens viai cuncta, opplet coloribus et odoribus. English: same. MATCH.
+
+741-747: Latin: sequitur Calor, comes Ceres et flabra; Autumnus adit, graditur Euan; tempestates secuntur; Bruma adfert nives, reddit rigorem; Hiemps sequitur crepitans. English: same. MATCH.
+
+748-750: Latin: quo minus est mirum, si luna gignitur et deletur certo tempore, cum multa possint fieri. English: same. MATCH.
+
+FINDINGS
+709	AMBIGUITY	MODERATE	0.70	"obitus eius" is the sun's setting (eius = eum, 708), but "has looked down upon its setting" makes it the moon's own setting; fix: "and, rising, has seen from on high the sun's setting;"
+674	MISTRANSLATION	MODERATE	0.60	"mollem malis demittere barbam" means letting a soft beard grow down from the cheeks, but "let a soft beard fall down from his cheeks" reads as shedding it, especially after "let their flower fall" (671); fix: "and alike to let a soft beard grow down from his cheeks."
+614	LEXICAL	MINOR	0.60	"ratio solis" is fixed in the register (5.614) as "the order of the sun", meaning the system of its motion, but "the reasoning of the sun" implies the sun reasons; fix: "Nor is the order of the sun laid open, simple and straight:"
+630	GRAMMAR	MINOR	0.50	The single clause "quanto demissior eius cursus abest procul a caelo terrisque propinquat" (629-630) is split into "the lower its course, / the farther it lies ... the nearer", which makes distance an effect of lowness, ahead of the real apodosis in 631; fix: "as its course runs far from the sky and nears the earth,"
+653	AMBIGUITY	MINOR	0.50	"concussos ... labefactos" agree with ignis (652), the fires, but "shaken by the journey and weakened by much air" can be read with the sun; fix: "its fires, shaken by the journey and weakened by much air,"
+643	LEXICAL	MINOR	0.50	"ratione pari" is fixed in the register at 5.643 as "on (by) a like principle", but the English has "by like reasoning"; fix: "And on a like principle we must suppose that the moon and the stars,"

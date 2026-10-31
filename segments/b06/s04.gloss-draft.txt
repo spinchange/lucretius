@@ -1,0 +1,38 @@
+ANALYSIS
+470-472: Latin: [corpora] vestes suspensae (nom.) declarant (pres. ind. 3pl) naturam tollere (inf.) permulta corpora mari toto quoque; cum concipiunt (3pl, subj. vestes) umoris adhaesum; litore with suspensae. English: clothes declare that nature lifts very many bodies from the whole sea; when they are hung on the shore and take in a clinging of moisture. MATCH.
+473-474: Latin: quo magis multa videntur (pass. 3pl) posse consurgere e salso momine ponti ad nubis augendas (purpose). English: so it seems all the more that many bodies can rise from the salt surge to swell the clouds. MATCH.
+475: Latin: nam ratio omnis umoribus consanguineast. English: for the principle of all moistures is of one blood. MATCH.
+476-482: Latin: videmus nebulas aestumque surgere ex fluviis et de terra; quae (rel. → nebulas aestumque) expressa feruntur, suffundunt caelum, sufficiunt nubis conveniundo; urget enim aetheris aestus et subtexit caerula nimbis. English: we see mists and heat rise; which are pressed out and carried, suffuse the sky, furnish clouds by coming together; for the ether's heat presses and weaves rain-cloud beneath the blue. MATCH.
+483-484: Latin: fit ut veniant (subj.) in hunc caelum extrinsecus illa corpora quae faciunt nubis nimbosque. English: same. MATCH.
+485-488: Latin: docui numerum innumerabilem summamque profundi esse infinitam; ostendi quanta mobilitate corpora volarent, quam repente transire solerent per spatium. English: I have taught the number is past counting and the sum infinite; I have shown with what great *speed* bodies fly and how in a moment they pass across a space. DIFF: mobilitate rendered "speed", against the register.
+489-494: Latin: haut mirumst si tempestas atque tenebrae coperiant (subj.) maria ac terras, tam magnis ventis, inpensa superne; quandoquidem exitus introitusque redditus extat elementis per caulas aetheris et spiracula mundi. English: same. MATCH.
+495-502: Latin: expediam (fut.) quo pacto umor concrescat et decidat; vincam (fut.) semina aquai consurgere simul nubibus ipsis ex omnibus rebus, et utrumque (nubis et aquam) crescere pariter, ut nobis corpus cum sanguine crescit, sudor, umor. English: same. MATCH.
+503-505: Latin: [nubes] concipiunt saepe multum marinum umorem, uti vellera, cum venti nubila portant supera mare. English: same. MATCH.
+506-507a: Latin: consimili ratione umor tollitur (pass.) ex omnibus amnibus in nubis. English: *In like manner* moisture is lifted from all rivers into the clouds. DIFF: consimili ratione not given the register's rendering.
+507b-512: Latin: cum semina aquarum convenere adaucta, confertae nubes certant mittere umorem dupliciter; nam vis venti contrudit et copia nimborum coacta urget, premit, facit effluere imbris. English: same. MATCH.
+513-516: Latin: cum nubila rarescunt ventis aut dissolvuntur icta calore, mittunt umorem stillantque, quasi cera multa liquescat (subj.) tabescens super igni. English: same. MATCH.
+517-518: Latin: imber vehemens fit ubi nubila premuntur utraque, vi cumulata et impete venti. English: same. MATCH.
+519-523: Latin: pluviae consuerunt retinere diu morarique ubi semina cientur, nubes nimbique feruntur, terraque redhalat umorem. English: same. MATCH.
+524-526: Latin: ubi sol fulsit (perf.) adversa aspargine nimborum, tum color arqui existit in nigris nubibus. English: same. MATCH.
+527-534: Latin: cetera (nix, venti, grando, pruinae, vis geli, mora) perfacilest reperire animoque videre quo pacto fiant, cum cognoris quae sint reddita elementis. English: same. MATCH.
+535-536a: Latin: percipe (imper.) quae ratio extet (subj.) terrai motibus. English: learn by what principle the motions of the earth come about. DIFF: register fixes 6.535 as "what the principle is"; the English makes the motions, not the principle, the thing that "comes about".
+536b-542: Latin: fac ut rearis terram esse plenam speluncis, gerere lacus, lucunas, rupes; putandumst flumina tecta volvere fluctus summersos; res postulat similem esse sui. English: same. MATCH.
+543-547: Latin: his rebus subiunctis (abl. abs.), terra tremit concussa ruinis, ubi aetas subruit speluncas; cadunt montes, tremores disserpunt. English: same. MATCH.
+548-551: Latin: tecta tota tremescunt concussa plaustris non magno pondere; exultant si quidvis viai succutit orbes. English: same. MATCH.
+552-556: Latin: fit ut terra iactetur vacillans ubi gleba provolvitur in lucunas; ut vas non quit constare nisi umor destitit iactarier. English: same. MATCH.
+557-560: Latin: cum ventus collectus procumbit et urget speluncas, tellus incumbit quo vis prona premit. English: same. MATCH.
+561-564: Latin: quae extructa sunt domorum, quanto edita magis, minent inclinata; trabes inpendent ire paratae. English: same. MATCH.
+565-567: Latin: et metuunt credere exitiale tempus clademque manere naturam mundi, cum videant molem incumbere. English: and yet men fear to believe that a fatal time waits for the world's nature, even when they see the mass leaning. MATCH.
+568-574: Latin: quod nisi respirent venti, vis nulla refrenet res euntis; nunc quia respirant, ingravescunt, redeunt, cedunt, terra minitatur ruinas saepius quam facit; inclinatur, recellit, recipit sedes. English: same. MATCH.
+575-576: MATCH.
+577-584: Latin: est haec causa tremoris: ubi ventus et vis animae coorta se coniecit in loca cava, fremit, portatur, post cum vis erumpitur et diffindens terram concinnat hiatum. English: same. MATCH.
+585-587: Latin: quod accidit Sidone et fuit Aegi, quas urbes exitus animai et terrae motus disturbat. English: same. MATCH.
+588-590: MATCH.
+591-595: Latin: quod nisi prorumpit, impetus animai et vis venti dispertitur ut horror et incutit tremorem; frigus uti cum venit in artus, concutit invitos cogens tremere. English: same. MATCH.
+596-600: Latin: trepidant ancipiti terrore; tecta timent, metuunt ne natura dissoluat cavernas, neu distracta dispandat hiatum idque velit complere ruinis. English: passive "be undone by nature", same agency. MATCH.
+601-607: Latin: licet reantur caelum terramque fore incorrupta; tamen vis pericli subdit stimulum timoris, ne tellus subtracta feratur in barathrum, summa sequatur, fiat ruina. English: same. MATCH.
+
+FINDINGS
+487	LEXICAL	MINOR	0.60	"quanta ... mobilitate" is rendered "with what great speed", though the register fixes mobilitas = "mobility, never speed"; "and I have shown with what great mobility"
+506	LEXICAL	MINOR	0.58	"consimili ratione" is rendered "In like manner", though the register cites 6.506 as the first Book 6 use of "on a like principle"; "On a like principle from all the rivers moisture"
+535	LEXICAL	MINOR	0.50	"quae ratio terrai motibus extet" is rendered "by what principle the motions of the earth come about", making the motions the subject instead of the principle, and departing from the register's 6.535 "what the principle is"; "Come now, what the principle is of the motions of the earth,"

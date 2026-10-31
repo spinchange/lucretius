@@ -1,0 +1,60 @@
+ANALYSIS
+
+878-881: Latin: neque Centauri fuerunt (pf. ind. act. pl.) nec queunt esse (pres. ind. pl.) [res] duplici natura, corpore bino, compacta (ptc. → implied creatures) ex alienigenis membris; result ut potestas (sg.) partis hinc illinc sat par esse potissit (pres. subj.). English: there were never Centaurs, nor can there be creatures of double nature … made up of alien limbs, whose powers could be matched closely enough. MATCH (the result clause is recast as a relative; the denial still governs it).
+
+882: Latin: id licet [tibi] hinc cognoscere quamvis hebeti corde. English: this you may learn from what follows, however dull your heart. MATCH
+
+883-885: Latin: tribus actis annis (abl. abs.) floret equus, puer haut quaquam [floret]; nam saepe etiam nunc quaeret (fut.) ubera … lactantia in somnis. English: when three years have come round, the horse flowers, the boy not; for often even then he will seek the milk-giving teats in sleep. MATCH
+
+886-889: Latin: ubi vires validae membraque deficiunt (pres. pl.) equum aetate senecta, languida fugienti vita (dat./abl.); tum demum florenta iuventas (subj.) officit puerili aevo et vestit malas lanugine. English: when the horse's strong powers and limbs fail in old age, languid as life flees; then youth comes on for the boy "in the flower of his age" and clothes his cheeks. MATCH (florenta modifies iuventas, not the boy; loose but the sense holds).
+
+890-898: Latin: ne forte credas (purpose, pres. subj.) Centauros confieri posse neque esse ex homine et semine equorum, aut Scyllas succinctas canibus, semimarinis corporibus, et cetera quorum membra discordia videmus; quae neque florescunt pariter nec robora sumunt nec proiciunt aetate senecta nec ardescunt simili Venere nec conveniunt moribus unis neque sunt eadem iucunda per artus. English: so that you need not believe Centaurs can be formed or exist, or Scyllas …, whose limbs we see at odds; for these neither flower together nor take strength nor throw it off nor burn alike nor agree in manners nor find the same things pleasant. MATCH
+
+899-900: Latin: licet videre barbigeras pecudes pinguescere saepe cicuta, quae homini acre venenum est. English: you may see bearded flocks often grow fat on hemlock, a bitter poison to a man. MATCH
+
+901-906: Latin: cum flamma soleat (subj., causal) torrere atque urere corpora leonum tam quam genus omne visceris et sanguinis quod extet; qui fieri potuit ut una Chimaera, triplici corpore, prima leo, postrema draco, media ipsa, flaret (impf. subj.) ore flammam? English: since flame scorches lions as much as all flesh and blood, how could it be that one Chimaera, in a triple body, breathed flame from her mouth? MATCH
+
+907-915: Latin: quare qui fingit talia animalia potuisse gigni tellure nova caeloque recenti (abl. abs.), nixus nomine inani novitatis, licet effutiat (subj.) multa simili ratione; dicat (jussive) flumina aurea fluxisse, arbusta florere suesse gemmis, aut hominem natum esse tanto impete ut ponere posset nisus trans maria et vertere caelum manibus. English: therefore whoever imagines such creatures could be begotten when earth was new, leaning on newness, may babble many things "by a like reasoning"; let him say rivers of gold flowed, trees used to flower with jewels, or a man was born so large that he could stride the seas and turn the heaven. DIFF: simili ratione is rendered against the register's fixed entry for 5.910 (etiam is also unrendered, negligible).
+
+916-924: Latin: quod multa semina fuere tempore quo tellus primum fudit animalia, nil tamen est signi pecudes mixtas inter se potuisse creari compactaque membra; propterea quia genera herbarum etc. quae nunc abundant non possunt creari complexa inter se, sed res quaeque procedit suo ritu et omnes servant discrimina foedere naturae certo. English: though there were many seeds … still there is no sign mixed beasts could be created and limbs joined; because herbs etc. that abound now cannot be created intertwined, but each proceeds after its own fashion and all keep distinctions by nature's fixed covenant. MATCH
+
+925-930: Latin: genus humanum illud fuit multo durius in arvis, ut decuit, quod tellus dura creasset (subj.), et fundatum maioribus solidisque ossibus, aptum nervis per viscera, quod non caperetur facile aestu, frigore, novitate cibi, labi corporis. English: the human race then was much harder, since the hard earth had created it, built on bigger, more solid bones, fastened with sinews, not easily overcome by heat, cold, strange food or any flaw. MATCH
+
+931-932: Latin: per multa lustra solis volventia (ptc. → lustra) tractabant vitam more volgivago ferarum. English: through many cycles of the sun rolling across the sky they led their lives like roaming beasts. MATCH
+
+933-936: Latin: nec erat quisquam robustus moderator aratri, nec scibat molirier arva ferro nec defodere virgulta nec decidere ramos falcibus. English: no sturdy steersman of the plough, nor did anyone know how to work the fields with iron, plant shoots, or prune branches. MATCH
+
+937-938: Latin: quod sol imbresque dederant, quod terra crearat sponte sua, id donum satis placabat pectora. English: what sun and rains had given, what earth had created of herself, that gift contented their hearts. MATCH
+
+939-942: Latin: curabant corpora inter quercus plerumque; et arbita quae nunc hiberno tempore cernis fieri matura colore puniceo, tellus tum ferebat plurima etiam maiora. English: among the oaks they tended their bodies for the most part; the arbute berries you now see ripen scarlet in winter, the earth then bore in plenty and larger. MATCH
+
+943-944: Latin: novitas florida mundi tulit multa pabula dura, ampla mortalibus miseris. English: the flowering newness of the world bore many coarse foods, ample for wretched mortals. MATCH
+
+945-947: Latin: fluvii fontesque vocabant sedare sitim, ut nunc decursus aquai claricitat saecla ferarum sitientia. English: rivers and springs called them to slake thirst, as now the downrush of water summons the thirsting beasts. MATCH
+
+948-952: Latin: tenebant templa silvestria nympharum nota vagis, quibus e scibant fluenta umore lubrica lavere proluvie larga umida saxa … et partim scatere atque erumpere plano campo. English: as they wandered they dwelt in the woodland precincts of the nymphs, known to them, from which they knew that streams washed the wet rocks … and partly welled up over the plain. MATCH
+
+953-957: Latin: necdum scibant tractare res igni neque uti pellibus et vestire corpus spoliis; sed colebant nemora, cavos montis, silvas, et condebant membra inter frutices, coacti vitare verbera ventorum imbrisque. English: nor did they know how to work with fire nor use skins …; they lived in groves, hollows and forests and hid their limbs in brushwood when driven to escape winds and rains. MATCH
+
+958-959: Latin: nec poterant spectare bonum commune neque scibant uti ullis moribus nec legibus inter se. English: nor could they look to a common good, nor use customs or laws. MATCH
+
+960-961: Latin: quod praedae fortuna obtulerat cuique, ferebat quisque, doctus sponte sua sibi valere et vivere. English: whatever prey fortune had offered each, he carried off, each taught to be strong and live for himself of his own accord. MATCH
+
+962-965: Latin: Venus iungebat corpora amantum; conciliabat enim quamque vel mutua cupido vel vis viri violenta et libido vel pretium. English: Venus joined lovers' bodies; each woman was won by mutual desire, the man's force and lust, or a price. MATCH
+
+966-968: Latin: freti virtute manuum pedumque consectabantur saecla ferarum saxis missilibus et pondere clavae. English: trusting in the power of hands and feet they hunted beasts with stones and the club. MATCH
+
+969: Latin: multa vincebant, pauca vitabant latebris. English: many they overcame, a few they avoided in hiding places. MATCH
+
+970-972: Latin: pares subus saetigeris dabant membra nuda terrae, capti tempore nocturno, involventes se foliis. English: like bristly boars they gave their limbs naked to earth when overtaken by night, rolling themselves in leaves. MATCH
+
+973-976: Latin: nec quaerebant diem solemque plangore, pavidi palantes in umbris noctis, sed taciti sepultique somno respectabant, dum sol inferret lumina caelo. English: nor did they seek day with laments, wandering in terror at night, but silent and asleep they waited until the sun brought light. MATCH
+
+977-981: Latin: quod consuerant a parvis cernere tenebras et lucem gigni alterno tempore, non erat ut fieri posset ut mirarentur umquam nec diffiderent, ne nox aeterna teneret terras, detracto lumine solis (abl. abs.). English: since from childhood they had seen darkness and light alternate, it could not be that they should wonder or mistrust, fearing eternal night would hold the earth, the sun's light withdrawn. MATCH
+
+982-983: Latin: illud magis erat curae, quod saecla ferarum faciebant quietem infestam miseris saepe. English: this was more their care, that beasts often made rest dangerous for the wretched men. MATCH
+
+984-987: Latin: eiecti domo fugiebant tecta saxea adventu suis spumigeri leonisque validi, atque cedebant nocte intempesta paventes hospitibus saevis cubilia instrata fronde. English: driven from home they fled their rocky shelters at the coming of a boar or lion, and in the dead of night, terrified, gave up to savage guests their leaf-strewn beds. MATCH
+
+FINDINGS
+5.910	LEXICAL	MINOR	0.55	"simili ratione" is rendered "by a like reasoning", against the register's fixed entry for 5.910 ("pari / simili ratione = on (by) a like principle"); "may babble out many things by a like principle:"

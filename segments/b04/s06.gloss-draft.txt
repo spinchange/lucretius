@@ -1,0 +1,88 @@
+ANALYSIS
+777-778. Latin: multa quaeruntur (pres. pass. pl.); multa nobis clarandumst (gerundive, dat. agent); si avemus exponere (pres. ind., 1 pl.). English: many questions arise; much we must make clear; if we wish to set out. MATCH.
+
+779-780. Latin: quaeritur (impers.) quare mens cogitet (subj.) id ipsum; quod cuique libido venerit (perf. subj.); eius = of that person. English: it is asked why the mind thinks of that very thing, whatever has come into anyone's fancy. MATCH.
+
+781-783. Latin: anne simulacra tuentur voluntatem; simul ac volumus, occurrit imago (sg.); si mare/terram/caelum cordist. English: do the images keep watch on our will; does an image meet us when we wish; if our heart is set on sea, earth, sky. MATCH.
+
+784-785. Latin: omnia (conventus, pompam, convivia, pugnas) sub verbo creat paratque natura? English: does nature create them all at a word and make them ready? MATCH.
+
+786-787. Latin: cum praesertim aliis (dat. poss.) animus cogitet (subj.) res omnis longe dissimilis, eadem in regione locoque. English: especially when the minds of others think of things far unlike, in the same region and place. MATCH (sg. animus to pl. minds is distributive).
+
+788-791. Latin: quid porro, cum cernimus simulacra procedere in numerum et movere membra, cum (simulacra) mittunt bracchia alternis et repetunt gestum oculis pede convenienti? English: same subjects, verbs and objects. MATCH.
+
+792-793. Latin: simulacra madent arte et vagantur docta (nom. pl.), ut possint facere ludos (purpose). English: images steeped in art, wander well taught, so that they can put on shows. MATCH.
+
+794-798. Latin: an illud erit verum? quia tempore in uno, cum sentimus (= cum vox emittitur una), latent tempora multa, quae ratio comperit esse; propterea fit uti quaeque simulacra praesto sint (subj.) quovis tempore, parata locis quisque. English: same causal frame and result clause, every image at hand, ready in every place. MATCH.
+
+799. Latin: tanta est mobilitas et rerum copia tanta. English: so great their mobility, so great the store of things. MATCH (refrain flagged by note).
+
+800-801. Latin: ubi prima perit et altera nata est alio statu, prior videtur mutasse gestum. English: same. MATCH.
+
+802-804. Latin: quia tenvia sunt, animus non potis est cernere acute nisi quae contendit; proinde omnia quae sunt praeterea pereunt, nisi quae (animus) ipse ex sese paravit. English: same subject (mind), negation scope and exception. MATCH.
+
+805-806. Latin: (animus) parat sese et sperat futurum ut videat quod consequitur rem quamque; fit ergo. English: same. MATCH.
+
+807-810. Latin: nonne vides oculos, cum coeperunt cernere quae tenvia sunt, contendere se atque parare (inf.), nec posse fieri sine eo ut cernamus acute? 808 is the interpolated repeat of 804. English: same structure, 808 kept as transmitted with note. MATCH.
+
+811-813. Latin: noscere possis (pot. subj.), si non advertas animum, proinde esse quasi (res) omni tempore semotum fuerit remotumque. English: you can recognize that if you do not turn your mind, it is as if they were set apart and far removed. MATCH.
+
+814-815. Latin: cur mirumst, si animus perdit cetera praeter quam quibus in rebus deditus est ipse? English: same. MATCH.
+
+816-817. Latin: adopinamur maxima de signis parvis; nos ipsi induimus nos in fraudem frustraminis. English: same. MATCH.
+
+818-821. Latin: fit ut interdum non suppeditetur imago eiusdem generis, sed (ut) femina quae fuit ante videatur adesse vir factus, aut facies aetasque sequatur alia ex alia. English: the image supplied is not of the same kind; what was a woman seems present, made a man; one face and age follow another. MATCH.
+
+822. Latin: sopor atque oblivia curant ne miremur. English: same. MATCH.
+
+823-831. Latin (emended sense): vitium (I wish you) effugere, errorem vitare; ne facias (think) lumina creata ut prospicere possimus; et fastigia ideo posse plicari ut proferre queamus passus; bracchia apta lacertis esse manusque datas ministras ut facere possemus quae usus foret. English: same purpose clauses, same nouns. MATCH.
+
+832-835. Latin: cetera quae cumque interpretantur omnia praepostera sunt perversa ratione, quoniam nil natumst ideo ut uti possemus, sed quod natumst procreat usum. English: same. MATCH.
+
+836-842. Latin: nec fuit videre ante lumina nata; nec orare ante lingua creata; origo linguae praecessit sermonem; aures creatae prius quam sonus auditus; membra fuere ante quam usus eorum foret; haud potuere crescere utendi causa. English: same negations and sequence. MATCH.
+
+843-847. Latin: conferre manu certamina, lacerare artus, foedare membra ante fuit quam tela volarent; natura coegit vitare volnus prius quam laeva daret obiectum parmai per artem. English: same. MATCH.
+
+848-850. Latin: mandare corpus quieti antiquius quam strata lecti; sedare sitim prius quam pocula nata. English: same. MATCH.
+
+851-852. Latin: haec possunt credi cognita utendi causa, quae reperta sunt ex usu vitaque. English: may be believed devised for the sake of using, since found out from use and life. MATCH (relative rendered causally, sense kept).
+
+853-854. Latin: illa seorsum sunt omnia, quae nata prius dedere post notitiam suae utilitatis. English: same. MATCH.
+
+855-857. Latin: quo genere videmus sensus et membra; procul est ut credere possis (ea) potuisse creari ob officium utilitatis. English: same. MATCH.
+
+858-859. Latin: non mirandum quod natura ipsa corporis cuiusque animantis quaerit cibum. English: same. MATCH.
+
+860-864. Latin: docui corpora multa fluere et recedere rebus; plurima debent (recedere) ex animalibus; quae (animalia) quia exercita sunt motu, multa exhalantur per os cum languida anhelant, multa pressa feruntur per sudorem. English: same referents. MATCH.
+
+865-866. Latin: rarescit corpus, subruitur natura omnis, quam rem dolor consequitur. English: same. MATCH.
+
+867-869. Latin: capitur cibus ut suffulciat artus et recreet vires interdatus, et ut opturet amorem edendi patentem per membra ac venas. English: same. MATCH.
+
+870-874. Latin: umor discedit in loca quae poscunt; liquor adveniens dissupat restinguitque corpora vaporis glomerata quae praebent incendia stomacho, ne calor aridus possit urere artus. English: same. MATCH.
+
+875-876. Latin: sitis abluitur de corpore; cupido expletur. English: same. MATCH.
+
+877-880. Latin: dicam qui fiat ut passus proferre queamus cum volumus, quare datum sit membra movere, et quae res insuerit (perf. subj., "has grown accustomed") protrudere onus corporis; tu percipe dicta. English: "what thing has been used to push forward". DIFF: "has been used to" most naturally reads as "has been employed to", not "is accustomed to".
+
+881-882. Latin: dico simulacra meandi accidere animo et pulsare animum. English: same. MATCH.
+
+883-884. Latin: voluntas fit; nec quisquam incipit facere rem ante quam mens providit quid velit. English: same. MATCH.
+
+885. Latin: id quod providet constat imago illius rei. English: same. MATCH.
+
+886-889. Latin: cum animus commovet sese ut velit ire et ingredi, (animus) ferit vim animai dissitam per membra; facile est, quoniam coniuncta tenetur. English: same. MATCH.
+
+890-891. Latin: ea (vis) ferit corpus; moles tota protruditur et movetur paulatim. English: same. MATCH.
+
+892-896a. Latin: corpus rarescit; aer, ut debet qui semper mobilis extat, venit per foramina patefacta penetratque largus et dispargitur ad partis minutas. English: same. MATCH.
+
+896-897. Latin: fit duabus rebus utrimque ut corpus feratur ut navis velis ventoque. English: same. MATCH.
+
+898-900. Latin: nec mirabile quod corpuscula tantula possunt contorquere tantum corpus et convertere onus totum. English: same. MATCH.
+
+901-906. Latin: ventus tenvis trudit navem magno molimine (= with great heaving or effort); manus una regit (navem) euntem quanto vis impete; gubernaclum unum contorquet quo libet; machina per trocleas et tympana commovet et sustollit multa levi nisu. English: "with great momentum"; rudder as subject (defensible, as in Bailey and Munro). DIFF: molimen (exertion) rendered with the modern physics term "momentum".
+
+FINDINGS
+4.902	LEXICAL	MINOR	0.55	"magno molimine" (with great heaving or exertion) is rendered "with great momentum", a modern physics term that names a property of the moving ship rather than the wind's effort, against the anachronism policy; "drives on and pushes a great ship with great heaving,"
+4.879	AMBIGUITY	MINOR	0.55	"insuerit" (has grown accustomed, is wont) becomes "has been used to push forward", which most readers will hear as "has been employed to", making the agent an instrument; "and what thing is wont to push forward this great weight"

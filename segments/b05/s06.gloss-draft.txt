@@ -1,0 +1,73 @@
+ANALYSIS
+751-752: Latin: [defectus solis, latebras lunae] fieri posse e pluribus causis; putandumst (gerundive, tibi). English: eclipses and hidings can come about from many causes; you must suppose. MATCH.
+
+753-757: Latin: cur luna queat (pres. subj.) secludere terram lumine solis et obstruere ei (the sun) altum caput a terris, obiciens (luna) orbem caecum radiis; aliud corpus non posse facere id tempore eodem putetur; quod (corpus) labatur cassum lumine semper. English: why moon able to shut earth off from sun's light, block its high head from earth's side, throwing blind orb; yet another body thought unable at same time; which glides forever void of light. MATCH.
+
+758-761: Latin: cur sol languidus nequeat dimittere ignis tempore certo recreareque lumen, cum praeteriit loca per auras infesta flammis, quae (loca) faciunt ignis interstingui atque perire. English: why sun, growing faint, not able to let fires go at fixed time and renew light, when it has passed regions hostile to flames, which cause fires to be quenched. MATCH.
+
+762-767: Latin: cur terra queat spoliare lunam lumine et ipsa super tenere solem oppressum, dum luna menstrua perlabitur umbras coni; aliud corpus nequeat succurrere lunae vel perlabier supra orbem solis, quod inter-rumpat radios lumenque profusum. English: same structure; another body unable to run beneath moon or glide above sun's orb, breaking off rays and light. MATCH.
+
+768-770: Latin: si luna fulget suo nitore, cur nequeat languescere certa parte mundi, dum perexit loca inimica luminibus propriis. English: if moon shines with own brightness, why could she not grow faint in fixed part of world while passing places hostile to own light. MATCH.
+
+771: Latin: repeat of 764. English: repeat of 764. MATCH.
+
+772-782: Latin: quoniam resolvi (1 sg. perf.) qua ratione quicquid fieri posset, ut noscere possemus quae vis et causa cieret cursus solis meatusque lunae, quove modo (sol, luna) possent obire offecto lumine (abl. abs.) et obducere terras neque opinantis tenebris, cum conivent et convisunt omnia loca; nunc redeo ad novitatem mundi et mollia arva terrae, quid (arva) primum crerint tollere in luminis oras et committere ventis. English: since I have unfolded by what principle each thing could come about, so that we might know what force set them moving, how they could go out when light blocked and draw darkness over unsuspecting lands, when they close eyes and look over all places; now I return to world's youth and fields, what they first chose to lift "into the shining shores of light" and entrust to winds. DIFF: "shining" has no Latin behind it (no dias).
+
+783-787: Latin: terra dedit genus herbarum nitoremque circum collis per campos; prata fulserunt colore; arboribus variis datumst certamen crescendi inmissis habenis. English: same. MATCH.
+
+788-792: Latin: ut pluma, pili, saetae creantur primum membris quadripedum et corpore pennipotentum, sic tellus sustulit herbas virgultaque primum, inde creavit saecla multa coorta varia ratione. English: same. MATCH.
+
+793-794: Latin: neque animalia possunt cecidisse de caelo nec terrestria exisse de lacunis. English: same. MATCH.
+
+795-796: Latin: linquitur ut terra merito adepta sit nomen maternum, quoniam cuncta creata sunt e terra. English: same. MATCH.
+
+797-798: Latin: multa animalia existunt terris, concreta imbribus et vapore solis. English: same. MATCH.
+
+799-800: Latin: quo minus mirum, si tum plura et maiora coorta sunt, adulta nova tellure atque aethere. English: same. MATCH.
+
+801-804: Latin: genus alituum volucresque, exclusae tempore verno, relinquebant ova, ut cicadae lincunt folliculos teretis aestate sponte sua, petentes victum. English: same. MATCH.
+
+805-806: Latin: tum terra dedit tibi primum saecla; nam calor umorque superabat. English: same. MATCH.
+
+807-808: Latin: hoc, ubi regio opportuna dabatur, crescebant uteri apti terram radicibus. English: same. MATCH.
+
+809-815: Latin: ubi aetas infantum (fugiens umorem, petessens auras) patefecerat quos (uteros), natura convertebat ibi foramina terrae et cogebat fundere sucum consimilem lactis; sicut femina, cum peperit, repletur lacte, quod impetus alimenti convertitur in mammas. English: same; "toward them" makes the implied direction explicit. MATCH.
+
+816-817: Latin: terra cibum, vapor vestem, herba cubile praebebat, (herba) multa et abundans molli lanugine. English: earth food, warmth clothing, grass a bed abounding in "thick, soft down". DIFF: multa (with herba, "plentiful") is moved onto the down as "thick".
+
+818-820: Latin: novitas mundi nec frigora nec aestus nec auras ciebat; omnia enim pariter crescunt et robora sumunt. English: same. MATCH.
+
+821-825: Latin: quare terra adepta nomen maternum merito tenet, quoniam ipsa creavit genus humanum atque fudit omne animal quod bacchatur in montibus, volucresque. English: same. MATCH.
+
+826-827: Latin: quia (terra) debet habere finem pariendi, destitit, ut mulier defessa spatio vetusto. English: same. MATCH.
+
+828-831: Latin: aetas mutat naturam mundi; alius status ex alio excipere omnia debet; nec ulla res manet similis sui; omnia migrant; natura commutat et cogit vertere. English: same. MATCH.
+
+832-833: Latin: aliud putrescit et debile aevo languet; aliud succrescit et exit e contemptibus. English: same. MATCH.
+
+834-836: Latin: aetas mutat naturam; status alter excipit terram ex alio, (ut) nequeat quod potuit, possit quod non tulit ante. English: same. MATCH.
+
+837-844: Latin: tellus conatast creare portenta coorta mira facie membrisque: androgynem, orba pedum, viduata manuum, muta sine ore, caeca sine voltu reperta, vincta adhaesu membrorum, ut nec possent facere quicquam nec cedere nec vitare malum nec sumere quod usus volet. English: same. MATCH.
+
+845-848: Latin: creabat cetera monstra nequiquam, quoniam natura absterruit auctum, nec (monstra) potuere tangere florem aetatis nec reperire cibum nec iungi per Veneris res. English: same. MATCH.
+
+849-854: Latin: videmus multa debere concurrere rebus, ut possint procudere saecla propagando: ut pabula sint, qua semina possint manare per artus membris remissis, ut femina possit coniungi maribus, habere (organa) qui mutent gaudia uterque. English: same. MATCH.
+
+855-856: Latin: necessest multa saecla interiisse nec potuisse procudere prolem. English: same. MATCH.
+
+857-859: Latin: quaecumque vides vesci auris, aut dolus aut virtus aut mobilitas est reservans genus id tuta ex ineunte aevo. English: cunning, courage or "swiftness" has kept that race safe from the beginning. DIFF: mobilitas rendered "swiftness", against the register's fixed "mobility" (enforced at 5.858).
+
+860-861: Latin: multa sunt quae, commendata nobis ex utilitate sua, manent tradita tutelae nostrae. English: same. MATCH.
+
+862-863: Latin: virtus tutatast leones, dolus volpes, fuga cervos. English: same. MATCH.
+
+864-867: Latin: corda canum, genus veterino semine partum, pecudes, saecla bucera omnia sunt tradita tutelae hominum, Memmi. English: same. MATCH.
+
+868-870: Latin: nam (ea) fugere feras cupide et secuta sunt pacem et pabula parta sine labore suo, quae damus causa utilitatis eorum. English: same. MATCH.
+
+871-877: Latin: at (ea) quis natura tribuit nil horum, ut nec possent vivere sponte sua nec dare nobis utilitatem, quare pateremur genus pasci praesidio nostro esseque tutum, haec iacebant praedae lucroque aliis, indupedita vinclis, donec natura redegit genus ad interitum. English: same. MATCH.
+
+FINDINGS
+781	ADDITION	MINOR	0.80	"in luminis oras" has no dias, and the register fixes 5.781 as "the shores of light", but the English adds "shining"; fix: "of earth, what in their new bearing they first chose to lift into the shores of light"
+858	LEXICAL	MINOR	0.70	"mobilitas" is rendered "swiftness", against the register's fixed "mobility" (never "speed", enforced at 5.858); fix: "either cunning or courage or else mobility"
+817	MISTRANSLATION	MINOR	0.50	"multa" agrees with herba (the grass was plentiful) but the English moves it onto the down as "thick"; fix: "plentiful, and abounding in soft down."

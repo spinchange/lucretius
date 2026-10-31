@@ -1,0 +1,81 @@
+ANALYSIS
+
+146-148: L: necessest [ut] discutiant (subj. pl.); subj. non radii... neque tela, sed species ratioque; obj. terrorem tenebrasque. E: same, "must be scattered not by... but by". MATCH (passive recast keeps agency).
+
+149-150: L: Principium cuius (nature's) sumet exordia hinc; content clause: nullam rem gigni e nihilo divinitus umquam. E: "Its first principle will take its starting-point... nothing is ever begotten from nothing by divine will." MATCH.
+
+151-154: L: formido continet omnis mortalis; quod tuentur multa fieri in terris caeloque; quorum operum causas videre nulla ratione possunt; ac rentur fieri divino numine. E: same structure, same subjects. MATCH.
+
+156-158, 155: L: ubi viderimus nil posse creari de nihilo, tum perspiciemus quod sequimur, et unde queat res quaeque creari et quo modo quaeque fiant sine opera divom. E: same. MATCH.
+
+159-160: L: si fierent de nihilo, omne genus posset nasci ex omnibus rebus, nil egeret semine. E: same. MATCH.
+
+161-164: L: homines posset oriri e mare, squamigerum genus e terra, volucres erumpere caelo; armenta... incerto partu tenerent culta ac deserta. E: same. MATCH.
+
+165-166: L: nec fructus solerent constare idem arboribus, sed mutarentur; omnes possent ferre omnia. E: same. MATCH.
+
+167-168: L: ubi non essent genitalia corpora cuique, qui posset mater certa consistere rebus? E: same. MATCH.
+
+169-171: L: quia quaeque creantur seminibus certis, inde enascitur et exit in luminis oras, ubi inest materies cuiusque et corpora prima. E: same, but "shining shores of light". DIFF: "shining" has no Latin behind it (no dias).
+
+172-173: L: hac re nequeunt omnia gigni ex omnibus, quod inest secreta facultas certis in rebus. E: same. MATCH.
+
+174-179: L: cur videmus rosam fundi vere, frumenta calore, vites autumno suadente, si non quia, cum certa semina confluxerunt suo tempore, patefit quod creatur, dum tempestates adsunt et tellus effert res teneras tuto in luminis oras? E: same, but "shining shores of light". DIFF: "shining" added (no dias).
+
+180-183: L: si fierent de nihilo, exorerentur subito incerto spatio et alienis partibus anni, quippe ubi nulla forent primordia quae possent arceri genitali concilio tempore iniquo. E: same. MATCH.
+
+184-187: L: nec foret usus spatio ad coitum seminis augendis rebus, si possent crescere e nilo; nam iuvenes fierent subito ex infantibus, arbusta exorta salirent. E: same. MATCH.
+
+188-191: L: manifestum est nil quorum fieri, quando omnia crescunt paulatim, ut par est semine certo, crescentesque servant genus; ut possis noscere quicque grandescere alique de sua materia. E: same. MATCH.
+
+192-198: L: accedit uti tellus nequeat submittere fetus sine imbribus, nec natura animantum secreta cibo possit propagare genus vitamque tueri; ut putes potius multa corpora esse communia multis rebus, ut elementa verbis, quam ullam rem existere posse sine principiis. E: same. MATCH.
+
+199-204: L: cur natura non potuit parare homines tantos qui possent transire pontum pedibus, divellere montis, vincere saecla, si non quia materies certa reddita est rebus gignundis, e qua constat quid possit oriri? E: same. MATCH.
+
+205-207: L: fatendum est nil posse fieri de nilo, quando opus est semine, quo creatae possint proferri in auras. E: same. MATCH.
+
+208-214: L: quoniam videmus culta praestare incultis et reddere meliores fetus manibus, esse primordia quae nos cimus ad ortus vertentes glebas; quod si nulla forent, videres quaeque fieri sponte multo meliora sine labore. E: same. MATCH.
+
+215-216: L: accedit uti natura dissoluat quicque in sua corpora neque interemat res ad nihilum. E: same. MATCH.
+
+217-220: L: si quid esset mortale cunctis partibus, res periret repente erepta ex oculis; nulla vi foret usus quae posset parere discidium partibus et exsolvere nexus. E: same. MATCH.
+
+221-224: L: nunc, quia quaeque constant aeterno semine, donec vis obiit quae diverberet res ictu aut penetret dissoluatque, natura non patitur exitium nullius videri. E: same. MATCH.
+
+225-229: L: si aetas penitus peremit quae amovet, unde Venus redducit genus in lumina vitae, unde tellus alit atque auget redductum? E: same. MATCH.
+
+230-231: L: unde fontes et flumina suppeditant mare? unde aether pascit sidera? E: same. MATCH.
+
+232-233: L: infinita aetas diesque debet consumpse omnia quae sunt mortali corpore. E: same. MATCH.
+
+234-237: L: si fuere in eo spatio ea e quibus summa consistit refecta, sunt praedita natura immortali; igitur haud possunt quaeque reverti ad nilum. E: same. MATCH.
+
+238-243: L: eadem vis causaque conficeret omnis res volgo, nisi materies aeterna teneret, indupedita nexus; tactus esset satis causa leti, quippe ubi nulla forent aeterno corpore quorum contextum quaeque vis deberet dissolvere. E: same. MATCH.
+
+244-249: L: quia nexus principiorum dissimiles constant et materies aeterna est, res remanent incolumi corpore, dum vis satis acris obeat reperta pro textura; igitur nulla res redit ad nihilum, sed omnes redeunt discidio in corpora materiai. E: same. MATCH.
+
+250-261: L: imbres pereunt ubi aether praecipitavit; fruges surgunt, rami virescunt, crescunt ipsae; hinc alitur genus, videmus urbes florere, silvas canere, pecudes deponunt corpora, umor manat, proles ludit perculsa mentes lacte mero. E: same; "made drunk" for perculsa covered by the note. MATCH.
+
+262-264: L: haud pereunt penitus quaecumque videntur, quando natura reficit alid ex alio nec patitur ullam rem gigni nisi morte aliena adiuta. E: same. MATCH.
+
+265-270: L: quoniam docui res non posse creari de nihilo nec genitas revocari ad nil, ne coeptes diffidere dictis quod primordia nequeunt cerni, accipe quae corpora necesse est confiteare esse nec posse videri. E: same. MATCH.
+
+271-276: L: vis venti verberat corpus, ruit navis, differt nubila, sternit campos arboribus, vexat montis flabris; ita pontus perfurit saevitque. E: same. MATCH.
+
+277-289: L: sunt venti corpora caeca quae verrunt et raptant, nec fluunt alia ratione quam cum natura aquae fertur flumine, quam auget decursus coniciens fragmina; nec pontes possunt tolerare vim; ita amnis incurrit, dat stragem, volvit saxa, ruit qua quidquid obstat. E: same. MATCH.
+
+290-294: L: debent flamina ferri sic, quae, cum procubuere uti flumen, trudunt res ruuntque, corripiunt, portant. E: same. MATCH.
+
+295-297: L: sunt venti corpora caeca, quandoquidem inveniuntur aemula amnibus qui sunt aperto corpore. E: same. MATCH.
+
+298-304: L: sentimus odores nec cernimus venientis; nec aestus tuimur, nec frigora quimus usurpare oculis, nec voces suemus cernere; quae necesse est constare corporea natura, quoniam possunt inpellere sensus; nulla res potest tangere et tangi nisi corpus. E: same. MATCH.
+
+305-310: L: vestes uvescunt, eaedem serescunt; neque visum est quo pacto umor persederit nec quo pacto fugerit; igitur umor dispergitur in partis quas oculi nulla ratione possunt videre. E: same. MATCH.
+
+311-319: L: anulus tenuatur, casus cavat lapidem, vomer decrescit, conspicimus strata detrita, signa ostendunt manus adtenuari tactu; videmus haec minui, cum sint detrita. E: same. MATCH.
+
+320-321: L: natura invida praeclusit speciem videndi quae corpora decedant quoque tempore. E: same. MATCH.
+
+FINDINGS
+170	ADDITION	MINOR	0.85	"oras in luminis" has no dias, but the English reads "the shining shores of light", importing the 1.22 epithet the register reserves for dias; "it is born and comes forth into the shores of light"
+179	ADDITION	MINOR	0.85	"in luminis oras" has no dias, but the English reads "the shining shores of light" (register: only 1.22 carries "shining"; the second round was noted as having fixed 1.170 and 1.179); "brings tender things safely forth into the shores of light?"

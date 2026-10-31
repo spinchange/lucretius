@@ -1,0 +1,33 @@
+ANALYSIS
+1-2. Latin: peragro (1sg pres. ind.), object avia loca Pieridum; trita (participle) modifies loca, with nullius ante solo. English: I wander through pathless places, trodden by no one's foot. MATCH
+2-9. Latin: iuvat + inf. accedere / haurire; iuvat + inf. decerpere, petere coronam, inde ... unde nulli velarint (pf. subj.) tempora musae; primum quod doceo ... et pergo exsolvere animum nodis religionum; deinde quod pango carmina, contingens. English: same clauses, same causal pair. MATCH
+10. Latin: id videtur non ab nulla ratione. English: this seems not without reason. MATCH
+11-25. Latin: uti medentes, cum dare conantur, contingunt pocula; ut aetas ludificetur, perpotet, non capiatur, valescat (purpose); sic ego volui exponere ... contingere; quoniam ratio videtur tristior, volgus abhorret; si possem tenere, dum percipis ... persentis. English: same skeleton, same subjects and moods. MATCH
+26-32. Latin: quoniam docui qualia sint exordia, quam ... volitent, quo modo possit res creari; agere incipiam (fut.), esse ea quae simulacra vocamus; quae nominitandast. English: same structure, but exordia is rendered "beginnings". DIFF (register term)
+33-35. Latin: quoniam docui quid esset natura animi, quibus e rebus compta vigeret, quo modo distracta rediret in ordia prima. English: same structure, but ordia prima is rendered "first origins". DIFF (register term)
+36-50. Latin: incipiam agere ...; quod imago gerit speciem cuius cluet fusa vagari; quae volitant; eadem terrificant mentes, cum contuimur; quae excierunt nos; ne reamur animas effugere / umbras volitare / aliquid relinqui, cum corpus atque natura perempta dederint discessum. English: same structure. MATCH
+51-53. Latin: dico effigias figurasque mittier summo de cortice; id licet cognoscere. English: same. MATCH
+54-62. Latin: quoniam res multae mittunt corpora, partim diffusa, partim contexta; ut cicadae ponunt, vituli mittunt, serpens exuit; nam videmus vepres auctas. English: same. MATCH
+63-66. Latin: quae quoniam fiunt, imago debet mitti; nam cur illa cadant ... nulla potestas. English: same. MATCH
+67-71. Latin: cum sint corpora multa minuta, quae possint iaci et servare; citius, quanto minus indupediri queunt. English: same. MATCH
+72-74. Latin: videmus [res] iacere ac largiri multa ... ipsum colorem. English: we see many things thrown off ... the color. MATCH (the object reading of multa is defensible)
+75-80. Latin: vela faciunt id, cum intenta flutant; namque inficiunt consessum et speciem scaenai ... coguntque fluitare. English: same. MATCH
+81-83. Latin: quanto mage inclusa sunt moenia, tam magis omnia conrident; ablative absolute correpta luce diei (with the daylight cut short). English: "with the light of day drawn in". DIFF (the ablative absolute is read in the opposite sense)
+84-86. Latin: cum lintea mittunt fucum, res debent mittere effigias; quoniam utraque iaculantur (deponent, active: both things cast off). English: "they are thrown" (passive). DIFF (agency shifts from the emitters to what is emitted)
+87-89. Latin: sunt vestigia, quae volitant, nec possunt videri. English: same. MATCH
+90-94. Latin: odor ... abundant diffusae ideo quia, dum veniunt, scinduntur; nec ostia sunt qua contendant exire. English: same. MATCH
+95-97. Latin: cum membrana iacitur, nihil est quod possit discerpere, quoniam est locata. English: same. MATCH
+98-103. Latin: simulacra quae apparent necessest consistere imaginibus missis, quandoquidem sunt praedita; nam cur ... nulla potestas. English: same. MATCH
+104-109. Latin: sunt effigiae, quas cum nemo possit cernere, reddunt visum reiectae; nec videntur servari posse ratione alia, ut reddantur. English: same. MATCH
+110-115. Latin: percipe quam tenui constet; quoniam primordia sunt infra sensus et minora quam quae oculi coeptant non posse tueri, uti confirmem, percipe quam sint subtilia exordia. English: same structure, but exordia is rendered "beginnings". DIFF (register term)
+116-122. Latin: animalia sunt tantula, quorum tertia pars nulla possit videri; quale putandumst; quantula sunt; quid primordia, unde constet anima ... nonne vides. English: same. MATCH
+123-126. Latin: quaecumque expirant odorem, ... quorum unum si [lacuna]. English: same. MATCH
+127-128. Latin: quin noscas simulacra vagari, nulla vi cassaque sensu. English: same. MATCH
+129-142. Latin: ne putes ea sola vagari, sunt quae gignuntur et constituuntur, quae feruntur; ut nubes cernimus concrescere, violare, mulcentes; ora videntur volare, ducere; montes ire, succedere; belua trahere, inducere; nec cessant mutare, vertere. English: same. MATCH
+
+FINDINGS
+4.26	LEXICAL	MODERATE	0.75	"cunctarum exordia rerum" is rendered "the beginnings of all things", but the register fixes exordia = origins at 4.26 (and requires 4.26-28 = 3.31-33), and "beginnings" is reserved for principia, so the distinct Latin words collapse into one English word; "But since I have taught what the origins of all things"
+4.114	LEXICAL	MODERATE	0.75	"exordia rerum / cunctarum" (114-115) is rendered "the beginnings / of all things", against the register's exordia = origins at 4.114; this merges exordia with principia in a passage that also has primordia (111); "yet now, so that I may confirm this too, how fine the origins"
+4.35	LEXICAL	MODERATE	0.70	"rediret in ordia prima" is rendered "returns to its first origins", but the register fixes ordia prima (4.35, tmesis of primordia) = first-beginnings; "first origins" misreads the term as exordia; "and in what way, torn apart, it returns to its first-beginnings."
+4.83	MISTRANSLATION	MODERATE	0.60	The ablative absolute "correpta luce diei" means the daylight is cut short or shut out by the awnings, but "with the light of day drawn in" suggests daylight is let into the theater, the opposite physical picture; "laughs, with the light of day cut off."
+4.86	GRAMMAR	MINOR	0.50	"iaculantur utraque" is deponent and active (both the linens and the things cast off from their surface), but the English "in both cases they are thrown from the surface" moves the agency to what is emitted; "since both alike cast off from their surface."

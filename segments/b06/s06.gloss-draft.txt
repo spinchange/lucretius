@@ -1,0 +1,226 @@
+ANALYSIS
+
+738-739
+Latin: (nunc age) expediam [fut. ind. act., 1 sg.] tibi; indirect questions: quae ... cumque sint [pres. subj.] loca lacusque Averna; quali natura praedita constent [pres. subj., pl.].
+English: I will explain to you; whatever the Avernian places and lakes may be; with what nature they are endowed.
+MATCH
+
+740-746
+Latin: id (quod Averna vocantur nomine) inpositumst [perf. pass.] ab re; quia sunt avibus contraria cunctis; quod, cum venere [perf.] volantes e regione ea loca, (oblitae remigii) pennarum vela remittunt, praecipitesque cadunt; profusae molli cervice in terram, si forte ita fert natura locorum, aut in aquam, si lacus substratus Averni.
+English: the name was given from the fact; because they are hostile to all birds; when birds have come over those places, they forget, they slacken, they fall headlong, necks drooping, onto the ground if nature brings it so, or into the water if a lake lies beneath.
+MATCH
+
+747-748
+Latin: is locus est Cumas aput; ubi montes (oppleti acri sulpure, calidis fontibus aucti) fumant.
+English: such a place is near Cumae, where the mountains, filled with sulphur and enriched with hot springs, smoke.
+MATCH
+
+749-755
+Latin: est et [locus] in moenibus Athenaeis, in vertice arcis, ad templum Palladis Tritonidis almae; quo numquam raucae cornices appellunt corpora pennis, non cum fumant altaria; usque adeo fugitant [pres. ind.], non iras Palladis (pervigili causa, ut cecinere poetae), sed natura loci opus efficit ipsa suapte.
+English: there is one also on the Athenian citadel by the temple of Pallas; there the crows never bring their bodies, not even when the altars smoke; so constantly do they shun it, not fleeing Pallas's anger for their watchfulness, as the poets sang, but nature does the work by its own power.
+MATCH
+
+756-759
+Latin: fertur locus item esse videri in Syria; quo simul ac quadripedes quoque vestigia primum intulerint [perf. subj.], vis ipsa cogat [pres. subj.] graviter concidere; ut si mactata sint manibus divis.
+English: it is said a place is likewise to be seen; as soon as even four-footed beasts have set their footsteps in it, its force makes them drop heavily, as if slaughtered to the divine shades.
+MATCH
+
+760-766
+Latin: omnia (quae) naturali ratione geruntur [pres. pass.]; et apparet origo, e quibus causis fiant.
+Purpose clauses, both governed by ne:
+- ne credatur [subj. pass.] ianua Orci pote esse eis regionibus;
+- [ne] post hinc reamur [subj., 1 pl.] deos manis forte inferne ducere animas in oras Acheruntis.
+Comparison: ut cervi alipedes saepe putantur naribus ducere serpentia saecla de latebris.
+English: all these things are brought about by a natural principle; their causes and origin are plain; "so that it may not be believed there is a gateway of Orcus..., and we then suppose that spirits are led ... by the gods of the shades"; as stags are often thought to draw out the crawling generations.
+DIFF: the negation of ne does not clearly carry over to reamur, so "and we then suppose" can read as an affirmative result; pote (can be) is flattened to "there is".
+
+767-768
+Latin: percipe [imperative]; quam procul sit [subj.] repulsum a vera ratione; nam conor [pres.] nunc dicere de re ipsa.
+English: take note how far this is driven from true reasoning; for now I attempt to speak of the thing itself.
+MATCH
+
+769-772
+Latin: principio dico hoc (quod dixi saepe quoque ante): esse in terra figuras rerum cuiusque modi; multa [esse] vitalia, quae sunt cibo; multaque, quae possint [subj.] incutere morbos et adcelerare mortem.
+Subject of incutere: multa (quae). Object: morbos.
+English: I say this, as often before; that in the earth there are shapes of every kind; many are life-giving as food; and "many that diseases / can drive in upon us and that can hasten death".
+DIFF: word order makes "diseases" read as the subject of "can drive in", with the things as object; the Latin has the things inflicting the diseases.
+
+773-776
+Latin: ostendimus [perf.] ante; [acc. + inf.] alias res esse magis aptas aliis animantibus ad vitai rationem; propter dissimilem naturam, dissimiles texturas inter sese, primasque figuras.
+English: we have shown before that different things are better suited to different creatures for the ordering of life, because of unlike nature, textures, and first shapes.
+MATCH
+
+777-780
+Latin: multa inimica meant per auris; multa infesta atque aspera tactu insinuant per ipsas naris; nec sunt multa parum vitanda tactu; neque autem [parum multa] fugienda aspectu, quae saporeque tristia sint.
+English: many things pass hostile through the ears; many enter through the nostrils, harmful and rough; nor are there few to be shunned by touch, nor few to be fled from by sight or bitter in taste.
+MATCH
+
+781-785
+Latin: videre licet quam multae res sint homini acriter infesto sensu, spurcae gravesque; primum certis arboribus gravis umbra [est] tributa usque adeo, ut [arbores] faciant [subj., pl.] saepe capitis dolores, si quis iacuit [perf.] subter eas prostratus in herbis.
+English: you can see how many things are hostile, foul and oppressive; first, an oppressive shade is given to certain trees, so that they often cause headaches, if someone has lain beneath them on the grass.
+MATCH
+
+786-787
+Latin: est arbos in magnis montibus Heliconis; consueta necare hominem taetro odore floris.
+English: there is a tree on Helicon; it is used to killing a man with the foul smell of its flower.
+MATCH
+
+788-790
+Latin: haec omnia ideo surgunt ex terris; quod tellus gerit permixta multa semina multarum rerum, multis modis; discretaque tradit.
+English: all these rise out of the earth for this reason; that the earth holds many seeds of many things mixed in many ways, and gives them forth apart.
+MATCH
+
+791-793
+Latin: lumen nocturnum recens extinctum, ubi offendit nares acri nidore, consopit ibidem [eum] qui morbo suevit concidere et spumas mittere.
+English: a night-lamp newly put out, when its reek strikes the nostrils, puts to sleep there and then the one whose sickness makes him fall and foam.
+MATCH
+
+794-796
+Latin: mulier, sopita castoreo gravi, recumbit; et nitidum opus effluit ei teneris manibus; si odoratast eo tempore quo menstrua solvit.
+English: castoreum puts a woman to sleep so that she sinks back; the bright work slips from her hands; if she has smelled it at the time of her flow.
+MATCH
+
+797-798
+Latin: multaque praeterea solvunt languentia membra per artus; atque labefactant animam sedibus intus.
+English: many things besides make the limbs droop and loosen them through the joints, and shake the spirit in its seats.
+MATCH
+
+799-801
+Latin: si cunctere [subj., 2 sg.] calidis lavabris et lueris plenior; quam facile fit, uti des saepe ruinas in medio solio ferventis aquai.
+English: if you linger in hot baths and bathe on a full stomach, how easily you often collapse in the middle of the boiling tub.
+MATCH
+
+802-803
+Latin: carbonum gravis vis atque odor insinuatur quam facile in cerebrum; nisi aqua praecepimus ante.
+English: the force and smell of charcoal makes its way into the brain how easily, unless we have first taken water.
+MATCH
+
+804-805
+Latin: cum fervida febris percepit membra domans; tum odor vini fit instar plagae mactabilis.
+English: when a burning fever has seized the body, mastering the limbs, the smell of wine is like a killing blow.
+MATCH
+
+806-810
+Latin: nonne vides: sulpur gigni in terra ipsa; bitumen concrescere taetro odore; denique, ubi secuntur venas argenti aurique scrutantes ferro abdita terrai, qualis odores expiret Scaptensula subter.
+English: do you not see that sulphur is produced and bitumen thickens; and where men follow the veins, searching with iron, what smells Scaptensula breathes out.
+MATCH
+
+811-812
+Latin: quid mali fit ut exalent aurata metalla; quas facies qualesque colores hominum reddunt.
+English: what evil the gold mines breathe out; what faces and colors they give to men.
+MATCH
+
+813-815
+Latin: nonne vides audisve, quam soleant perire in parvo tempore, et quam desit copia vitai, [ei] quos vis magna necessis cohibet in opere tali.
+English: do you not see or hear how they are apt to die in a short time and how the store of life fails those whom necessity holds to such work.
+MATCH
+
+816-817
+Latin: tellus igitur exaestuat omnis hos aestus; expiratque foras in apertum promptaque caeli.
+English: the earth therefore seethes out all these exhalations, and breathes them forth into the open and the free spaces of the sky.
+MATCH
+
+818-823
+Latin: Averna loca debent summittere alitibus vim mortiferam; quae surgit de terra in auras; ut venenet spatium caeli quadam de parte; quo simul ac ales delata sit pennis, impediatur ibi correpta caeco veneno; ut cadat e regione loci, qua derigit aestus.
+English: the Avernian places must send up against birds a deadly force; it rises into the breezes, so that it poisons the sky over some part; as soon as a bird is carried into it, it is hampered, seized by unseen poison, so that it falls straight down where the exhalation is aimed.
+MATCH
+
+824-825
+Latin: quo cum conruit; hic eadem vis illius aestus aufert reliquias vitae ex membris omnibus.
+English: when it has collapsed there, the same force takes the remnants of life from all its limbs.
+MATCH
+
+826-829
+Latin: primo [vis] quasi quendam conciet aestum; posterius fit uti, cum iam cecidere [perf., pl.] in fontis ipsos veneni, ibi sit quoque vita vomenda; propterea quod magna mali copia fit circum.
+English: at first it stirs a kind of turmoil; afterwards, when they have fallen into the springs of poison, life too must be vomited out there, because there is a great abundance of evil around.
+MATCH
+
+830-832
+Latin: fit ut interdum vis haec atque aestus Averni discutiat aera, qui cumquest locatus inter avis terramque; prope uti locus hic linquatur inanis.
+English: it happens that this force and exhalation drives apart whatever air lies between the birds and the earth, so that the place is left almost empty.
+MATCH
+
+833-835
+Latin: ubi venere volantes e regione cuius loci; claudicat extemplo nisus pinnarum inanis; et conamen omne alarum utrimque proditur.
+English: when, flying, they have come over this place, at once the effort of their wings limps, empty, and all the striving on either side is betrayed.
+MATCH
+
+836-839
+Latin: ubi nequeunt nixari insistereque alis; natura cogit [eas] delabi pondere in terram; et [aves], iacentes prope iam per vacuum inane, dispergunt animas per caulas corporis omnis.
+English: when they cannot lean and rest on their wings, nature forces them by their weight to slip down; and lying through the almost empty void they scatter their spirits through the passages of the body.
+MATCH
+
+840-842
+Latin: umor in puteis fit frigidior aestate; quia terra arescit calore; et, si qua semina vaporis forte habet proprie, dimittit in auras.
+English: the water in wells grows colder in summer, because the earth dries out and lets go whatever seeds of heat it has.
+MATCH
+
+843-844
+Latin: quo magis tellus effeta est calore; [eo] fit frigidior umor, qui abditus est in terra.
+English: the more the earth is exhausted by heat, the colder the hidden water becomes.
+MATCH
+
+845-847
+Latin: cum omnis terra premitur frigore coitque et quasi concrescit; fit ut coeundo exprimat in puteos, si quem calorem gerit ipsa.
+English: when all the earth is pressed by cold, draws together and congeals, in drawing together it squeezes out into the wells whatever heat it holds.
+MATCH
+
+848-849
+Latin: fertur fons esse apud Hammonis fanum, frigidus luce diurna et calidus nocturno tempore.
+English: there is, so the story goes, a spring by the shrine of Hammon, cold by day and hot at night.
+MATCH
+
+850-852
+Latin: homines admirantur nimis hunc fontem; et partim putant [some think] [eum] fervescere acri sole subter terras; ubi nox texit terras caligine.
+English: men marvel too much at this spring, and suppose that it "partly grows hot" by the sun beneath the earth when night has covered the lands.
+DIFF: partim (some of them) is read as an adverb of degree on the heating.
+
+853
+Latin: quod nimis longe remotum est a vera ratione.
+English: this is removed far, too far, from true reasoning.
+MATCH
+
+854-858
+Latin: ubi sol, contractans nudum corpus aquai, non quierit [perf. subj.] reddere [eam] calidum de supera parte; cum superum lumen fruatur tanto fervore; qui queat hic subter terram tam crasso corpore perquoquere umorem et focilare calido vapore.
+English: when the sun, handling the naked water, could not make it warm from above, though its light enjoys such heat, how could it beneath earth so dense cook the water through and nurse it with warm heat?
+MATCH
+
+859-860
+Latin: praesertim cum vix possit insinuare suum aestum radiis ardentibus per saepta domorum.
+English: especially since it can scarcely make its heat work its way through the walls of houses with its rays.
+MATCH
+
+861-863
+Latin: quae ratiost igitur; nimirum quod terra tenet circum fontem magis rara quam cetera tellus; multaque sunt ignis semina prope corpus aquai.
+English: what then is the principle? that the earth is more porous around the spring than elsewhere, and there are many seeds of fire near the water.
+MATCH
+
+864-865
+Latin: ubi nox obruit terram roriferis undis; extemplo terra frigescit penitus coitque.
+English: when night has buried the earth in dew-bearing waves, at once the earth grows cold deep down and draws together.
+MATCH
+
+866-868
+Latin: fit ut, tamquam compressa manu sit, exprimat in fontem quaecumque semina ignis habet; quae faciunt calidum tactum laticis atque vaporem.
+English: just as if pressed by a hand, it squeezes out whatever seeds of fire it holds, which make the water hot to the touch and its steam hot.
+MATCH
+
+869-872
+Latin: ubi sol obortus dimovit terram radiis et rare fecit, calido miscente vapore; rursus redeunt primordia ignis in antiquas sedes; et omnis calor aquai cedit in terram.
+English: when the risen sun has parted the earth and made it porous, its heat mixing in, the first-beginnings of fire return to their old seats, and all the water's heat withdraws into the earth.
+MATCH
+
+873
+Latin: fons fit frigidus in luce diurna hanc ob rem.
+English: for this reason the spring grows cold by day.
+MATCH
+
+874-878
+Latin: umor aquai iactatur radiis solis; et rarescit in lucem tremulo ab aestu; fit uti dimittat quaecumque semina ignis habet; quasi saepe [aqua] gelum quod continet in se mittit, et exsolvit glaciem nodosque relaxat.
+English: the water's moisture is shaken by the rays and thins out in daylight; therefore it lets go whatever seeds of fire it has, just as it often gives up the frost it holds, dissolves its ice and loosens its knots.
+MATCH
+
+FINDINGS
+771	AMBIGUITY	MAJOR	0.65	In "multaque, morbos / incutere ... quae possint" (771-772) the things inflict the diseases, but the English "many that diseases / can drive in upon us" makes "diseases" read as the subject, with the things driven in. Fix: "many that are life-giving, serving as food, and many that can drive diseases"
+851	MISTRANSLATION	MODERATE	0.55	"putant partim" (850-851) means that some of the men think the spring is heated by the sun beneath the earth, but the English "it partly grows hot" makes partim qualify the heating. Fix: "sun beneath the earth, some suppose, it grows hot"
+762	AMBIGUITY	MODERATE	0.50	The single ne governs both "credatur" (763) and "reamur" (764), but "so that it may not be believed ..., / and we then suppose" lets the second clause read as an affirmed consequence; "pote ... esse" (can be) is also flattened to "there is". Fix: "lest it be believed there can be a gateway of Orcus in these regions," (with 763 "or we then suppose that spirits are led from here to the shores of Acheron,")

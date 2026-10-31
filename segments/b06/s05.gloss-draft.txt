@@ -1,0 +1,58 @@
+ANALYSIS
+608-610: Lat: (homines) mirantur [pres. ind.] + acc.-inf. naturam non reddere mare maius; rel. quo sit [subj.] tantus decursus aquarum (= into which); quo veniant [subj.] omnia flumina ex omni parte. Eng: men wonder that nature does not make the sea larger; when so great is the downrush into it; when all rivers come to it. MATCH
+
+611-615: Lat: adde [imper.] vagos imbris, tempestates volantes; rel. quae spargunt rigantque omnia maria ac terras; adde suos fontis; omnia erunt [fut.] vix instar adaugmen unius guttai ad maris summam; quo minus est mirum mare magnum non augescere. Eng: add rains, storms, which sprinkle and drench all seas and lands; add its springs; all these will be scarcely the increase of one drop against the sea's sum; so it is less a wonder the great sea does not grow. MATCH
+
+616: Lat: sol detrahit [pres.] magnam partem aestu. Eng: same. MATCH
+
+617-619: Lat: videmus solem exsiccare vestis madentis umore suis radiis ardentibus; at videmus pelage multa et late substrata. Eng: we see clothes dried by the sun with burning rays; "and" we see seas many and spread wide beneath it. DIFF (slight): adversative at becomes "and", contrast weakened (below threshold).
+
+620-622: Lat: licet quamvis sol delibet [subj.] parvam partem umoris ab aequore ex uno quoque loco; tamen auferet [fut.] largiter undis in tanto spatio. Eng: however small a portion the sun may sip at any one place, yet over so great a space it will take largely. MATCH
+
+623-626: Lat: venti quoque possunt tollere magnam partem umoris verrentes aequora; quoniam videmus vias siccari ventis una nocte, crustas luti concrescere. Eng: same. MATCH
+
+627-630: Lat: docui [perf.] nubes quoque tollere multum umorem conceptum ex magno aequore ponti et spargere passim toto orbi; cum pluit et venti nubila portant. Eng: same. MATCH
+
+631-638: Lat: quoniam tellus est raro corpore et coniuncta est, cingens oras maris undique; debet umor manare in terras ex aequore salso, ut venit in mare de terris; percolatur virus, remanat materies umoris, confluit omnis ad caput amnibus, redit super terras agmine dulci, qua via secta semel detulit undas. Eng: same structure; "agmine dulci" as "fresh-water column". MATCH (lexical nuance only)
+
+639-646: Lat: expediam [fut.] ratio quae sit (= what the principle is) ut expirent ignes per fauces Aetnae; neque enim tempestas flammae coorta mediocri clade, dominata per agros Siculum, convertit ora finitimis gentibus ad se; cum cernentes templa caeli fumida scintillare complebant [impf.] pectora cura, quid moliretur rerum natura novarum. Eng: "by what reasoning it is that" fires breathe out I shall unfold; storm arose with no common disaster, holding sway, turned faces of neighbors; seeing precincts smoking and sparkling they filled hearts with anxiety at what new things nature might be working. DIFF: ratio quae sit rendered "by what reasoning", against the register's fixed "what the principle is" (6.639) and shifting the explanation to a method of argument.
+
+647-654: Lat: videndum, dispiciendum [gerundive, you]; ut reminiscaris summam rerum esse profundam et videas quam parvula pars caelum unum sit summai totius, quam multesima constet, nec tota pars quota homo unus terrai totius; si contueare ac videas, relinquas mirari multa. Eng: same. MATCH
+
+655-664: Lat: numquis nostrum miratur si quis accepit febrim coortam calido fervore in artus aut dolorem morbi; opturgescit pes, arripit dolor dentes, invadit oculos, existit sacer ignis, urit partem quam arripuit, repit per artus; quia sunt semina multarum rerum et tellus caelumque fert satis morbi mali, unde queat vis morbi procrescere. Eng: same. MATCH
+
+665-672: Lat: putandumst omnia ex infinito satis suppeditare toti caelo terraeque, unde queat tellus moveri, turbo percurrere, ignis abundare, caelum flammescere; id fit, ardescunt templa, tempestates pluviae sunt graviore coortu, ubi semina aquarum ita se tetulerunt. Eng: same. MATCH
+
+673-679: Lat: objection: nimis ingens est ardor; scilicet fluvius visus maximus ei qui non vidit maiorem; arbor homoque videtur ingens; quisque fingit ingentia maxima quae vidit; cum omnia cum caelo terra mari nil sint ad summam summai totius. Eng: same. MATCH
+
+680-683: Lat: expediam modis quibus flamma inritata efflet foras fornacibus Aetnae; primum natura montis est subcava, suffulta fere cavernis silicum. Eng: same. MATCH
+
+684-685: Lat: est ventus et aer in speluncis; ventus fit ubi aer est percitus agitando. Eng: same. MATCH
+
+686-689: Lat: hic (ventus) ubi percaluit calefecitque saxa terramque furens, et excussit ab ollis ignem calidum flammis velocibus, tollit se et eicit alte rectis faucibus. Eng: same. MATCH
+
+690-693: Lat: fert ardorem, differt favillam, volvit fumum, extrudit saxa; ne dubites quin haec sit turbida vis animai. Eng: same. MATCH
+
+694-697: Lat: mare frangit fluctus ad radices montis magna ex parti, resolvit aestum; speluncae perveniunt ex hoc mari subter ad fauces; fatendumst ire hac [lacuna]. Eng: same; "along a great part of its length" mild expansion. MATCH
+
+698-700: Lat: res cogit (it) penetrare penitus mari aperto, efflare foras, extollere flammam, subiectare saxa, tollere nimbos arenae. Eng: the fact compels us to think it penetrates... breathes out, lifts, throws up, raises. MATCH (defensible reading)
+
+701-702: Lat: sunt crateres in summo vertice, ut ipsi nominitant, quod nos fauces et ora perhibemus. Eng: same. MATCH
+
+703-711: Lat: sunt res quarum non satis est dicere unam causam, verum pluris, unde una tamen sit; ut si conspicias corpus hominis exanimum iacere, conveniat dicere omnis causas leti, ut una illius dicatur; nam non possis vincere eum interiisse ferro, frigore, morbo, veneno, verum scimus aliquid ex hoc genere esse quod contigit ei; item dicere habemus. Eng: same. MATCH
+
+712-713: Lat: Nilus crescit in aestatem, redundat campis, unicus in terris, amnis Aegypti. Eng: same. MATCH
+
+714-718: Lat: is rigat Aegyptum per medium calorem, aut quia aquilones sunt contra ostia aestate, anni tempore eo, qui (aquilones) etesiae esse feruntur; et flantes remorantur, cogentes undas sursus replent coguntque manere. Eng: "at that time of year when they are said to be the Etesians". DIFF: relative qui (= the north winds, which are called Etesian) made into a temporal clause on the season.
+
+719-723: Lat: haec flabra, quae aguntur ab stellis gelidis axis, feruntur adverso flumine; ille amnis venit ex aestifera parti ab austro, inter saecla nigra virum, exoriens a media regione diei. Eng: same. MATCH
+
+724-728: Lat: est uti congestus harenae possit oppilare ostia fluctibus adversis, cum mare ruit harenam intus; quo pacto fit uti exitus minus liber, impetus minus proclivis. Eng: same. MATCH
+
+729-734: Lat: fit uti pluviae magis fiant ad caput ei tempore eo quo flabra aquilonum coniciunt nubila in eas partis; scilicet cum (nubila) eiecta convenerunt, nubes contrusae ad montis coguntur premuntur. Eng: same. MATCH
+
+735-737: Lat: forsitan crescat de montibus Aethiopum, ubi sol lustrans subigit ningues albas descendere in campos radiis tabificis. Eng: same. MATCH
+
+FINDINGS
+639	LEXICAL	MODERATE	0.75	"ratio quae sit" is rendered "by what reasoning it is that", making ratio the instrument of argument rather than the explanation of the phenomenon, against the register's fixed rendering for this very line; "Now what the principle is by which, through the jaws of Mount Etna,"
+716	GRAMMAR	MINOR	0.50	"qui etesiae esse feruntur" is a relative on aquilones (the north winds, which are called the Etesians), but the English attaches it to "anni tempore eo" as "when they are said to be the Etesians", as if their name depended on the season; "at that time of year, the winds which are said to be the Etesians,"

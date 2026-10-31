@@ -15,7 +15,7 @@
   514  and if the square is false and slips from its straight lines,
   515  and if the level limps a hair's breadth at any point,
   516  everything must be made faulty and askew,
-  517  crooked, sagging, leaning forward, leaning back, the roof out of true,
+  517  the house crooked, sagging, leaning forward, leaning back, out of true,
   518  so that some parts seem already to want to fall, and do fall,
   519  all of it betrayed by those first false judgments;
   520  so then your reasoning of things must be crooked
@@ -45,7 +45,7 @@
   544  nor do the first-beginnings pierce the ears with like shape
   545  when the trumpet bellows deep with its low-pressed growl
   546  and the barbarous horn, roused, booms back its hoarse drone, {{NOTE: the source prints barbita ("lyre"); most editors read barbara, the "barbarous" Phrygian horn, which the sense requires and is rendered here}}
-  547  and when the Daulian birds, born in the gardens of Helicon, {{NOTE: nightingales, after the myth of Procne and Philomela set at Daulis; the line is textually disputed (Bailey reads swans from the torrents of Helicon)}}
+  547  and when the Daulian birds, born in the gardens of Helicon, {{NOTE: nightingales, after the myth of Procne and Philomela set at Daulis; the line is textually disputed (Bailey obelizes the manuscripts' words; Munro prints Voss's conjecture, swans from the torrents of Helicon)}}
   548  raise their liquid lament with mourning voice.
   549  So when we press these voices out from deep within our body
   550  and send them out straight through the mouth,

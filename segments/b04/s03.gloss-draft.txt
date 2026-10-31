@@ -1,0 +1,34 @@
+ANALYSIS
+379. L: [we] concedimus (pres. ind. act., negated by nec) + acc.-inf. oculos falli (pres. pass.); hilum; hic. E: we do not grant that the eyes are deceived one whit in this. MATCH
+380-385. L: tueri ... illorum est (seeing where light and shadow are belongs to the eyes); indirect questions: eadem sint lumina necne / umbra ... transeat / an fiat quod diximus; hoc animi ratio demum discernere debet; nec possunt oculi noscere naturam rerum. E: same clauses; the reasoning of the mind alone must discern; the eyes cannot know. MATCH
+386. L: noli (imper.) adfingere vitium animi oculis. E: do not fasten the mind's fault on the eyes. MATCH
+387-388. L: navis qua vehimur fertur cum stare videtur; quae manet in statione creditur praeter ire. E: same. MATCH
+389-390. L: colles campique videntur fugere ad puppim; rel. quos (hills/plains) agimus praeter navem, volamus velis. E: same, rel. as "as we drive past them". MATCH
+391-394. L: sidera cuncta videntur cessare, adfixa (sidera) cavernis; sunt omnia adsiduo motu; quandoquidem exorta revisunt obitus; cum permensa sunt caelum corpore. E: same. MATCH
+395-396. L: sol et luna videtur manere in statione pari ratione; ea quae res ipsa indicat ferri. E: same propositions; pari ratione rendered "in like manner". MATCH in sense; register term not kept
+397-399. L: montes exstantes ... inter quos patet exitus classibus (dat.); insula una videtur ex his coniunctis. E: same. MATCH
+400-403. L: fit uti atria versari et columnae cursare videantur pueris, ubi ipsi desierunt verti, ut vix credere possint tecta non minari ruere. E: same. MATCH
+404-413. L: cum natura coeptat erigere iubar ... extollere; montes quos sol videtur contingere vix absunt bis mille missus sagittae, vix quingentos cursus veruti; inter eos solemque iacent aequora ponti substrata oris; interiecta sunt milia terrarum, quae retinent gentes et saecla. E: same. MATCH
+414-419. L: coniectus aquae (subj.) non altior digito, qui sistit inter lapides, praebet despectum tanto inpete quantum patet hiatus caeli; ut videare despicere nubila et videre caelum, corpora abdita caelo sub terras. E: same. MATCH
+420-425. L: ubi ecus obhaesit flumine et despeximus undas; vis videtur ferre corpus equi transversum et contrudere in adversum flumen; quocumque traiecimus oculos, omnia videntur ferri et fluere adsimili ratione. E: same. MATCH
+426-431. L: quamvis porticus est aequali ductu stansque suffulta columnis, tamen cum tota videtur ab summa parte, trahit fastigia coni, iungens tecta solo, dextera laevis, donec conduxit in acumen. E: same. MATCH
+432-435. L: fit uti sol nautis videatur obire in undis et condere lumen; quippe ubi nil nisi aquam caelumque tuentur; ne credas sensus labefactari. E: same. MATCH
+436-442. L: navigia videntur ignaris clauda, aplustris fractis, obnitier undis; pars remorum supra rorem recta est, guberna recta superne; quae demersa obeunt videntur refracta converti, reverti supina, fluitare reflexa. E: same. MATCH
+443-446. L: cum venti portant nubila, signa videntur labier adversum nimbos et ire superne in aliam partem ac vera ratione feruntur. E: same. MATCH
+447-452. L: si manus subdita oculo pressit eum, fit uti omnia videantur fieri bina; lumina bina, supellex geminare, facies duplices, corpora bina. E: same. MATCH
+453-461. L: cum somnus devinxit membra et corpus iacet quiete, tamen videmur vigilare, movere membra; censemus cernere solem; videmur mutare caelum ... transire campos, audire sonitus cum silentia constent, reddere dicta tacentes. E: same. MATCH
+462-468. L: videmus multa, quae quaerunt violare fidem sensibus, ne quiquam, quoniam pars maxima fallit propter opinatus quos addimus, ut pro visis sint non visa; nam nihil aegrius quam secernere apertas ab dubiis quas animus addit. E: same. MATCH
+469-472. L: si quis putat nil sciri, nescit an id sciri possit, quoniam fatetur nil scire; minuam contendere causam contra hunc, qui statuit sese capite in vestigia. E: same. MATCH
+473-477. L: ut concedam [eum] hoc scire, quaeram unde sciat quid sit scire et nescire, cum nil veri viderit, quae res crearit notitiam, quae res probarit dubium differre certo. E: same. MATCH
+478-479. L: invenies notitiem veri creatam esse ab sensibus primis, neque sensus posse refelli. E: same. MATCH
+480-481. L: illud debet reperirier maiore fide, quod possit vincere falsa veris sponte sua. E: same. MATCH
+482-485. L: quid debet haberi maiore fide quam sensus? an ratio orta ab sensu falso valebit dicere contra eos, quae tota orta est ab sensibus? qui nisi veri sunt, ratio fit falsa. E: same. MATCH
+486-488. L: an aures (subj.) poterunt reprehendere oculos (acc.)? an tactus (subj.) aures (obj.)? an sapor arguet hunc tactum? an nares confutabunt, oculi revincent? E: will the eyes (subj.) correct the ears (obj.)? or the ears (subj.) the touch (obj.)? DIFF: agency reversed in both first questions; oculos is accusative, and 487 "hunc porro tactum" shows touch was the previous subject.
+489-493. L: non ita est; seorsum cuique potestas divisa, sua vis; necesse est quod molle, gelidum, fervens videre [seorsum], seorsum sentire colores et quae coloribus coniuncta. E: same, passive "is perceived apart", with note on videre. MATCH
+494-496. L: seorsus sapor habet vim, seorsus odores nascuntur, sonitus; necesse est non possint sensus alii alios convincere. E: same. MATCH
+497-498. L: nec poterunt ipsi reprehendere sese, quoniam aequa fides debebit haberi. E: same. MATCH
+499. L: quod visum est his (dat., the senses) in quoque tempore verum est. E: same. MATCH
+
+FINDINGS
+486	MISTRANSLATION	CRITICAL	0.92	"An poterunt oculos aures reprehendere, an aures / tactus?" has aures as subject and oculos (accusative) as object, then tactus as subject correcting aures; the English reverses both, making the eyes correct the ears and the ears correct the touch, which also breaks the chain into 487 "hunc porro tactum"; fix 486-487: "Or will the ears be able to correct the eyes, or the touch / the ears? Or again will the mouth's taste accuse this touch,"
+395	LEXICAL	MINOR	0.55	"pari ratione" is fixed in the register as "on a like principle" with 4.395 cited as first use, but the English has "in like manner"; fix: "And on a like principle the sun and the moon seem to stay"

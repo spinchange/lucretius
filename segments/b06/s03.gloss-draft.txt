@@ -1,0 +1,185 @@
+ANALYSIS
+
+357-359
+Latin: caeli domus (subj, modified by alta, stellis fulgentibus) totaque tellus concutitur (pres ind pass sg); autumno magis; et cum tempora veris florentia se pandunt (temporal).
+English: the high house of heaven, bright with stars, and the whole earth is shaken, in autumn above all, and again when spring's seasons unfold.
+MATCH
+
+360-361
+Latin: frigore desunt ignes; venti calore deficiunt; neque nubes sunt tam denso corpore (neg).
+English: in the cold, fires are lacking; in the heat, winds fail; nor are clouds so dense.
+MATCH
+
+362-363
+Latin: cum caeli tempora interutrasque constant, tum causae variae omnes fulminis concurrunt.
+English: when the seasons stand between the two, then all the causes run together.
+MATCH
+
+364
+Latin: fretus ipse anni permiscet frigus ad aestum.
+English: the very strait of the year mixes cold with heat.
+MATCH
+
+365-367
+Latin: quorum utrumque opus est nubi (dat) ad fulmina fabricanda; ut (result/purpose) discordia sit and aer furibundus fluctuet ignibus et ventis magno tumultu.
+English: a cloud needs both for forging bolts, so that there is discord and the raging air heaves.
+MATCH
+
+368-370
+Latin: prima pars caloris est postrema rigoris; id est tempus vernum; quare necesse est res dissimilis pugnare and mixtas turbare (intrans).
+English: the same, with "throw all into turmoil".
+MATCH (the object "all" is a slight transitive gloss, defensible)
+
+371-373
+Latin: cum calor extremus mixtus primo frigore volvitur (the autumn season), hic quoque hiemes acres (nom) confligunt aestatibus.
+English: the same.
+MATCH
+
+374-378
+Latin: propterea haec freta anni nominitanda sunt; nec mirum est si plurima fulmina fiunt and tempestas turbida cietur caelo, quoniam [tempus/caelum] bello ancipiti turbatur utrimque, hinc flammis, illinc ventis umoreque mixto.
+English: the same.
+MATCH
+
+379-386
+Latin: hoc est perspicere naturam fulminis and videre qua vi faciat, non volventem carmina perquirere indicia mentis divum: unde pervenerit / in utram partem verterit / quo pacto per loca saepta insinuarit [385] / ut dominatus hinc extulerit se / quid nocere queat ictus.
+English: the same, but insinuarit is moved up into 384 ("worked its way through walled places"). 385 adds "there" and "again". The wording departs from the register's fixed 6.91-93 = 6.383-385 refrain.
+DIFF: lineation shift 385→384; the refrain is not verbatim.
+
+387-395
+Latin: quod si Iuppiter et alii divi quatiunt templa and iaciunt ignem quo voluntas; cur non faciunt ut [ei] quibus scelus est, icti, flammas halent pectore perfixo, and cur potius [is] nulli rei conscius volvitur innoxius and inpeditur correptus turbine et igni?
+English: the same.
+MATCH
+
+396-397
+Latin: cur loca sola petunt and frustra laborant? an tum bracchia consuescunt and lacertos firmant?
+English: the same.
+MATCH
+
+398-399
+Latin: cur [divi] perpetiuntur telum patris optundi in terra? cur ipse sinit neque parcit in hostis?
+English: the same.
+MATCH
+
+400-401
+Latin: cur numquam caelo puro Iuppiter iacit fulmen and sonitus profundit?
+English: the same.
+MATCH
+
+402-403
+Latin: an, simul ac nubes successere, ipse tum in eas descendit, ut prope hinc ictus determinet?
+English: the same.
+MATCH
+
+404-405
+Latin: qua ratione in mare mittit? quid undas arguit, molem, campos?
+English: the same.
+MATCH
+
+406-407
+Latin: si vult [ut] caveamus ictum, cur dubitat facere ut possimus cernere missum?
+English: the same.
+MATCH
+
+408-410
+Latin: si nec opinantis vult opprimere igni, cur tonat ex illa parte ut vitare queamus, cur tenebras, fremitus, murmura ante concit?
+English: the same.
+MATCH
+
+411-413
+Latin: qui possis credere [eum] simul in multas partis mittere? an ausis contendere numquam factum ut ictus plures uno tempore fierent?
+English: the same.
+MATCH
+
+414-416
+Latin: at saepe factum est and necesse est fieri ut, ut pluere and imbris cadere, sic fulmina multa uno tempore fieri.
+English: the same.
+MATCH
+
+417-420
+Latin: cur delubra deum and suas sedes discutit fulmine, and simulacra deum frangit, and suis imaginibus honorem demit volnere?
+English: the same.
+MATCH
+
+421-422
+Latin: cur alta loca plerumque petit, and plurima vestigia eius ignis montibus in summis cernimus?
+English: the same.
+MATCH
+
+423-425
+Latin: quod superest, facile est cognoscere qua ratione presteras (quos Graii nominitarunt) missi superne in mare veniant.
+English: the same.
+MATCH
+
+426-430
+Latin: fit ut interdum columna tamquam demissa in mare descendat, quam circum freta fervescunt incita flabris; and navigia deprensa in summum periclum veniant vexata.
+English: the same.
+MATCH
+
+431-435
+Latin: hoc fit ubi vis venti non quit rumpere nubem quam coepit [rumpere], sed deprimit, ut sit tamquam columna, paulatim, quasi quid pugno coniectuque bracchi trudatur and extendatur.
+English: the same, with "set upon" loosely rendering coepit.
+MATCH
+
+436-437
+Latin: quam cum [vis venti] discidit, hinc vis venti prorumpitur in mare and fervorem concinnat.
+English: the same.
+MATCH
+
+438-439
+Latin: turbo versabundus descendit and illam nubem lento corpore pariter deducit.
+English: the same.
+MATCH
+
+440-442
+Latin: quam gravidam simul ac detrusit, ille [turbo] totum se inmittit and omne mare excitat, fervere cogens.
+English: the same.
+MATCH
+
+443-445
+Latin: fit ut vertex venti ipse involvat se nubibus, conradens semina nubis, and prestera imitetur.
+English: the same.
+MATCH
+
+446-447
+Latin: hic ubi se demisit dissoluitque, vim turbinis atque procellae provomit.
+English: the same.
+MATCH
+
+448-450
+Latin: quia raro fit and montis necesse est officere, idem crebrius apparet prospectu maris caeloque patenti.
+English: the same.
+MATCH
+
+451-454
+Latin: nubila concrescunt ubi corpora multa asperiora coiere repente, quae possint, modis exiguis indupedita, tamen compressa teneri.
+English: the same.
+MATCH
+
+455-458
+Latin: haec faciunt parvas nubes consistere; inde ea comprendunt, congregantur, crescunt, feruntur, donec tempestas coortast.
+English: the same.
+MATCH
+
+459-461
+Latin: fit uti cacumina, quam magis vicina caelo sint, tanto magis edita (ptc, "lofty") fument adsidue caligine (one correlative pair).
+English: the nearer to heaven, the more they smoke, "the higher they stand".
+DIFF: edita is turned into a third correlative clause.
+
+462-464
+Latin: quia, cum nubila primum consistunt, ante quam oculi possint videre tenvia, venti portantes cogunt ad cacumina.
+English: the same.
+MATCH
+
+465-467
+Latin: hic demum fit uti, turba maiore coorta (abl abs), et condensa [nubila] queant apparere and simul videantur surgere de vertice in aethram.
+English: the same.
+MATCH
+
+468-469
+Latin: nam res ipsa et sensus declarat loca sursum ventosa patere, cum montis ascendimus.
+English: the same.
+MATCH
+
+FINDINGS
+384	LINEATION	MINOR	0.55	Latin 384-385 ("quo pacto per loca saepta / insinuarit, et hinc dominatus ut extulerit se") puts insinuarit in 385, but the English moves it into 384 and pads 385 with "there" and "again"; it also departs from the register's verbatim 6.91-93 = 6.383-385 refrain. Fix: "it has turned from here, in what way through walled-in places" / 385 "it has slipped in, and how, having held sway, it has carried itself out,"
+460	GRAMMAR	MINOR	0.50	"tanto magis edita fument" has one correlative (the nearer, the more they smoke) with edita as a participle, "lofty"; the English "the more they smoke, the higher they stand" makes edita a second comparative clause. Fix: "the more, lofty as they are, they smoke"

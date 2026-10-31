@@ -1,0 +1,68 @@
+ANALYSIS
+
+**146-147.** Latin: Illud non est (impersonal) ut possis credere [subj. 2sg pres.]; acc.+inf.: sedes sanctas deum esse in partibus ullis mundi. English: it is not possible for you to believe that holy dwellings of gods exist in any parts of the world. MATCH.
+
+**148-149.** Latin: natura deum (tenvis, remota ab sensibus) vix videtur [3sg pres. pass.] mente animi. English: the nature of gods is thin, far removed, scarcely seen by the thought of the mind. MATCH.
+
+**150-151.** Latin: quoniam quae (natura) suffugit tactum et ictum manuum; debet contingere nil quod sit tactile nobis. English: since it slips from touch and stroke of hands, it must touch nothing tangible to us. MATCH.
+
+**152.** Latin: non quit tangere quod ipsum non licet tangi. English: what may not itself be touched cannot touch. MATCH.
+
+**153-155.** Latin: quare sedes debent esse dissimiles nostris sedibus, tenues de corpore eorum; quae probabo [1sg fut.] posterius. English: their dwellings must be unlike ours, thin in keeping with their bodies; I shall prove later. MATCH.
+
+**156-165.** Latin: dicere (gods) voluisse parare naturam mundi hominum causa; decere laudare opus; putare aeternum futurum; nec fas esse sollicitare [act. inf.] quod ratione deum fundatum sit perpetuo aevo, nec vexare verbis, evertere summa ab imo; adfingere cetera = desiperest. English: same chain of infinitives, sollicitare turned passive ("ever to be shaken"), with the sense kept; is folly. MATCH.
+
+**165-167.** Latin: quid emolumenti queat gratia nostra largirier immortalibus, ut adgrediantur gerere quicquam nostra causa? English: same. MATCH.
+
+**168-169.** Latin: quid novi potuit inlicere quietos ante ut cuperent mutare vitam priorem? English: same. MATCH.
+
+**170-173.** Latin: videtur debere gaudere novis (is) cui veteres obsunt; sed tali, cui nihil aegri accidit cum pulchre degeret, quid potuit accendere amorem novitatis? English: same. MATCH.
+
+**174.** Latin: quid mali fuerat nobis non esse creatis? English: what harm would it have been to us never to have been created. MATCH.
+
+**175-176.** Latin: an vita iacebat in tenebris donec diluxit origo genitalis rerum? English: same. MATCH.
+
+**177-178.** Latin: qui natus est debet velle manere in vita donec retinebit voluptas. English: same. MATCH.
+
+**179-180.** Latin: (ei) qui numquam gustavit amorem vitae nec fuit in numero, quid obest non esse creatum? English: same. MATCH.
+
+**181-186.** Latin: unde insita est divis exemplum et notities hominum, ut scirent quid vellent facere; quo modo cognita vis principiorum, quid possent permutato ordine; si non natura dedit speciem creandi? English: same. MATCH.
+
+**187-194.** Latin: primordia (percita plagis, concita ponderibus) consuerunt ferri, coire, pertemptare omnia quae possint creare; ut non sit mirum si deciderunt in disposituras, venere in meatus quales summa geritur novando. English: same. MATCH.
+
+**195-199.** Latin: quod si ignorem [pres. subj.] quae sint primordia, ausim confirmare, reddere: naturam nequaquam esse paratam divinitus nobis; tanta stat praedita culpa. English: same. MATCH.
+
+**200-203.** Latin: of quantum tegit impetus caeli, montes silvae possedere avidam partem; tenent rupes, paludes, mare quod distinet oras. English: same. MATCH.
+
+**204-205.** Latin: ardor et casus geli aufert mortalibus prope duas partis. English: same. MATCH.
+
+**206-209.** Latin: id quod superest arvi natura obducat [subj.] sentibus, ni vis humana resistat, consueta ingemere bidenti, proscindere terram. English: same. MATCH.
+
+**210-212.** Latin: si non (nos) vertentes glebas, subigentes solum, cimus ad ortus, nequeant existere sponte sua. English: same. MATCH.
+
+**213-217.** Latin: cum quaesita frondent et florent, aut torret aetherius sol, aut peremunt imbres pruinaeque, flabraque vexant. English: same structure; aetherius sol is rendered "the sun in the upper air" against the register's fixed "the sun in the ether" (first use 5.215). DIFF (lexical).
+
+**218-221.** Latin: cur natura alit atque auget genus horriferum ferarum infestum genti humanae; cur tempora adportant morbos; quare mors vagatur? English: same; horriferum ("horror-bringing") becomes "bristling with horror". DIFF (minor lexical).
+
+**222-227.** Latin: puer, ut navita proiectus, iacet nudus, infans, indigus auxilio, cum primum natura profudit in luminis oras; complet locum vagitu, ut aequumst cui restet tantum malorum. English: same, but "the shining shores of light" adds "shining", which has no dias behind it. DIFF (addition).
+
+**228-234.** Latin: pecudes crescunt; nec opus crepitacillis, nec adhibenda loquella nutricis; nec quaerunt vestes; non opus armis, moenibus qui tutentur; quando tellus et natura parit omnia omnibus. English: same. MATCH.
+
+**235-239.** Latin: quoniam corpus terrai, umor, animae aurarum, vapores (e quibus summa consistere videtur) constant corpore nativo ac mortali, debet natura mundi putari eodem. English: same. MATCH.
+
+**240-243.** Latin: quorum partes videmus esse corpore nativo, mortalibus figuris, haec cernimus ferme esse mortalia et nativa. English: same. MATCH.
+
+**243-246.** Latin: cum videam membra mundi consumpta regigni, scire licet caeli terraeque fuisse tempus principiale et cladem futuram. English: same. MATCH.
+
+**247-250.** Latin: ne rearis me corripuisse mihi, quod sumpsi terram, ignem mortalia esse, neque dubitavi umorem, auras perire, dixi gigni, augescere. English: same. MATCH.
+
+**251-254.** Latin: pars terrai (perusta solibus, pulsata vi pedum) exhalat nebulam pulveris, nubes quas venti dispergunt toto aere. English: same. MATCH.
+
+**255-256.** Latin: pars glebarum revocatur ad diluviem imbribus; flumina radentia rodunt ripas. English: same. MATCH.
+
+**257-260.** Latin: quodcumque alit auget redditur pro parte sua; quoniam omniparens videtur esse commune sepulcrum, ergo terra libatur et aucta recrescit. English: same. MATCH.
+
+FINDINGS
+5.224	ADDITION	MINOR	0.85	The Latin "in luminis oras" has no dias, and the English "into the shining shores of light" adds "shining", which the register bars at 5.224; fix: "help for life, as soon as into the shores of light"
+5.215	LEXICAL	MINOR	0.60	The register fixes "aetherius sol" as "the sun in the ether" with its first use at 5.215, but the English has "the sun in the upper air"; fix: "either the sun in the ether scorches them with excessive heat,"
+5.218	LEXICAL	MINOR	0.50	"genus horriferum" means a horror-bringing, dreadful race, but "bristling with horror" reads the horror as the beasts' own state, as if horridus; fix: "Further, the dreadful race of wild beasts, bringing horror,"

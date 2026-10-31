@@ -1,0 +1,99 @@
+ANALYSIS
+
+615-616 | L: lingua atque palatum (subj.) habent (pres. ind. pl.) plusculum rationis, plus operai; hoc, qui sentimus sucum = the means by which we perceive flavor. | E: tongue and palate hold a little more reasoning and more labor; "as for how we perceive flavor". | MATCH
+
+617-619 | L: sentimus (1pl) sucum in ore, cum cibum mandendo exprimimus; ceu siquis manu premere ac siccare coepit spongiam plenam aquai. | E: same; "happens to begin" for forte coepit. | MATCH
+
+620-621 | L: quod exprimimus (rel. subj.) diditur (pres. pass.) per caulas palati et per flexa foramina rarae linguae. | E: same. | MATCH
+
+622-624 | L: ubi corpora suci (gen. manantis) levia sunt, attingunt et tractant omnia umida templa linguai (sudantia agrees with templa). | E: same. | MATCH
+
+625-626 | L: at contra pungunt sensum lacerantque (implicit subj. corpora), coorta; quanto quaeque magis asperitate repleta. | E: "they prick... tear it"; "they" grammatically continues the smooth bodies, though 626 restricts it. | MATCH (defensible compression)
+
+627-629 | L: voluptas est e suco fine palati; cum praecipitavit (perf.) per fauces, nulla voluptas est, dum diditur omnis in artus. | E: same. | MATCH
+
+630-632 | L: nec refert quo victu corpus alatur (subj.), dum modo quod capias concoctum didere possis artubus et stomachi tumidum servare tenorem. | E: same. "Even" is in effect contained in tenor. | MATCH
+
+633-637 | L: expediam (fut.) ut videamus qui cibus sit aliis alius; quareve quod aliis triste et amarum est possit aliis perdulce videri (subj., under quare); tantaque est distantia (ind., main assertion) ut quod aliis cibus est aliis fuat venenum (result). | E: 636 "and why in these things there is such distance". The independent indicative assertion is subordinated under "explain why". | DIFF: assertion becomes an item to be explained
+
+638-639 | L: est itaque ut serpens, tacta salivis hominis (tacta agrees with serpens), disperit ac conficit se mandendo. | E: "for indeed there is a snake". itaque (consequence/illustration) is rendered as "for" (explanation); content otherwise matches. | MATCH (connective slightly shifted)
+
+640-641 | L: veratrum est nobis venenum; at capris et coturnicibus auget adipes. | E: same. | MATCH
+
+642-644 | L: ut cognoscere possis quibus rebus id fiat, decet meminisse quae diximus: semina multimodis mixta teneri (inf.). | E: same. | MATCH
+
+645-648 | L: omnes animantes qui cibum capiunt, ut sunt dissimiles extrinsecus et circumcaesura coercet generatim, proinde et seminibus constant (understood: dissimilibus) variantque figura (the seeds' shape is the point). | E: "they consist of seeds and vary in their shape". "Their" reads as the creatures' shape, which repeats 646-647, and the differing seeds are lost. | DIFF: whose figura is meant
+
+649-651 | L: cum semina distent, necesse est differre intervalla viasque (foramina) in membris, ore, palato. | E: same. | MATCH
+
+652-654 | L: (pores) debent esse minora quaedam maioraque; triquetra aliis, quadrata aliis, multa rutunda, quaedam multangula. | E: same; "creatures" is supplied for aliis. | MATCH
+
+655-657 | L: ut figurarum ratio motusque reposcunt, proinde debent differre figurae foraminibus et variare viae proinde ac textura coercet. | E: same. | MATCH
+
+658-662 | L: ubi quod suave est aliis fit amarum aliis, illi cui suave est levissima corpora debent intrare caulas palati contractabiliter; quibus eadem res acerba, aspera hamataque penetrant fauces. | E: same. | MATCH
+
+663 | L: facile est cognoscere quaeque. | E: same. | MATCH
+
+664-670 | L: ubi febris coorta est (bili superante, abl. abs.) aut vis morbi excita est, perturbatur corpus, commutantur positurae principiorum; fit ut quae corpora prius conveniebant nunc non conveniant, cetera sint apta quae penetrata queunt progignere sensum acerbum. | E: same. | MATCH
+
+671-672 | L: utraque commixta sunt in sapore mellis; id ostendimus ante. | E: same. | MATCH
+
+673-676 | L: agam (fut.) quo pacto adiectus odoris tangat naris; necesse est res multas esse unde fluctus odorum volvat se; putandum est fluere, mitti, spargi. | E: same. | MATCH
+
+677-678 | L: alius aliis animantibus aptus est, propter dissimilis formas. | E: same. | MATCH
+
+678-683 | L: apes ducuntur (pass.) odore mellis, volturii cadaveribus; promissa canum vis ducit quo ungula tulerit gressum; anser (subj.) praesentit humanum odorem. | E: same; 682-683 are passive with the goose as agent. | MATCH
+
+684-686 | L: nidor datus ducit quemque ad sua pabula et cogit resilire a veneno; servantur saecla ferarum. | E: same. | MATCH
+
+687-691 | L: odor est ut alter possit permitti longius alio; haud quisquam fertur tam longe quam sonitus, vox, mitto res quae feriunt acies. | E: same. | MATCH
+
+692-697 | L: errabundus tarde venit ac perit ante, distractus in auras; quia vix emittitur ex alto; penitus fluere odores significat quod fracta, contrita, conlabefacta magis redolere videntur. | E: same. | MATCH
+
+698-700 | L: licet videre (odor) creatum esse maioribus principiis quam vox, quoniam non penetrat per saepta qua vox fertur. | E: same. | MATCH
+
+701-705 | L: videbis non tam facile esse investigare in qua regione sit; refrigescit plaga cunctando; nec decurrunt calida nuntia; errant canes itaque. | E: same. | MATCH
+
+706-709 | L: nec hoc in odoribus solis et genere saporum est; species colores non ita conveniunt omnibus omnes ut non sint quaedam aliis acria visu. | E: same. | MATCH
+
+710-713 | L: gallum (obj.) noenu queunt leones (subj.) contra constare inque tueri; ita continuo meminere fugai. | E: same. | MATCH
+
+714-717 | L: quia sunt semina in corpore gallorum quae, cum inmissa sunt oculis leonum, interfodiunt pupillas, praebent dolorem, ut nequeant (leones) durare feroces. | E: same. | MATCH
+
+718-721 | L: cum haec nostras acies nil laedere possint, aut quia non penetrant aut quod penetrantibus illis exitus liber datur, ne in remorando laedere possint. | E: same. | MATCH
+
+722-723 | L: accipe quae res moveant animum, percipe unde veniant quae veniunt in mentem. | E: same. | MATCH
+
+724-727 | L: dico simulacra vagari multa, tenvia, quae iunguntur inter se in auris cum obvia veniunt. | E: same. | MATCH
+
+728-731 | L: haec multo magis tenvia textu quam quae percipiunt oculos; quoniam penetrant per rara corporis, cient animi naturam, lacessunt sensum. | E: same. | MATCH
+
+732-734 | L: videmus Centauros, Scyllarum membra, Cerbereas facies, simulacra eorum quorum ossa tellus amplectitur morte obita. | E: same. | MATCH
+
+735-738 | L: quoniam simulacra omnigenus feruntur, partim quae fiunt sponte in aere, partim quae recedunt ab rebus, et quae confiunt ex figuris horum. | E: same. | MATCH
+
+739-744 | L: non fit imago Centauri ex vivo, quoniam nulla talis natura fuit; ubi imago equi atque hominis convenit casu, haerescit; cetera eadem ratione creantur. | E: same. | MATCH
+
+745-748 | L: cum (causal) feruntur mobiliter, quaelibet una imago commovet animum uno ictu; tenvis enim mens est et mobilis. | E: same. | MATCH
+
+749-751 | L: possis cognoscere; quatinus hoc (what we see with mind) simile est illi (with eyes), necesse est fieri simili ratione. | E: same. | MATCH
+
+752-756 | L: quoniam docui me cernere leonum per simulacra, scire licet mentem moveri per simulacra leonum et cetera quae videt aeque atque oculi, nisi quod tenvia cernit. | E: same. | MATCH
+
+757-761 | L: nec alia ratione mens animi vigilat cum somnus profudit membra, nisi quod eadem simulacra lacessunt animos; ut videamur cernere eum quem mors et terra potita est. | E: same. | MATCH
+
+762-764 | L: natura cogit hoc fieri quod sensus offecti quiescunt nec possunt convincere falsum veris rebus. | E: same. | MATCH
+
+765-767 | L: meminisse iacet languetque; nec dissentit (memory, subj.) [acc.+inf.] eum, quem mens se vivom cernere credit, potitum (esse) mortis iam pridem. The content memory fails to assert is "the man the mind sees alive is long dead". | E: "does not protest that this one, in the grip of death... long since, is not the one the mind believes it sees alive." The English adds a negation and turns the content into "the dead man is not the one seen", which denies the very identity the Latin turns on. | DIFF: added negation inverts the proposition
+
+768-770 | L: non est mirum simulacra moveri, iactare bracchia; nam fit ut in somnis imago videatur facere hoc. | E: same. | MATCH
+
+771-772 | L: ubi prima perit et altera nata est inde alio statu, prior videtur mutasse gestum. | E: same. | MATCH
+
+773-776 | L: putandum est id fieri celeri ratione: tanta mobilitas, copia rerum, tanta sensibili quovis tempore copia particularum, ut possit suppeditare. | E: same, but particularum is rendered "particles", against the register (particulae 4.776 = tiny parts). The note's claim "used here only" is false (4.261). | DIFF: barred lexical rendering
+
+FINDINGS
+766	MISTRANSLATION	CRITICAL	0.80	"nec dissentit eum mortis letique potitum / iam pridem, quem mens vivom se cernere credit" (766-767) says memory does not object that the man the mind sees alive is long dead; the English adds "is not" and makes the unprotested claim "this dead one is not the one seen alive", which reverses the identity. Fix: "and does not protest that this one is in the grip of death and doom / long since, the one the mind believes it sees alive."
+776	LEXICAL	MINOR	0.85	"copia particularum" is rendered "particles", which the register bars (particulae 4.261, 4.776 = small part, tiny parts), and the note wrongly says the word occurs only here. Fix: "the abundance of tiny parts, that it can supply them." Also drop or correct the note.
+648	AMBIGUITY	MODERATE	0.55	"proinde et seminibus constant variantque figura" means the creatures consist of seeds that differ in shape; "vary in their shape" reads as the creatures' outward shape, already stated in 646-647. Fix: "so too they consist of seeds that vary in their shape."
+636	GRAMMAR	MINOR	0.50	"tantaque in his rebus distantia differitasque est" is an indicative main assertion outside the scope of quareve (634-635); "and why in these things there is such distance" subordinates it to the promise to explain. Fix: "and in these things there is such distance and difference"

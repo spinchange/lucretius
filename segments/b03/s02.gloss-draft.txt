@@ -1,0 +1,64 @@
+ANALYSIS
+
+**262-265.** Latin: primordia principiorum (subj.) cursant (pres. ind. 3pl.) inter, motibus inter se. Result clause: ut nihil unum secernier possit (pres. subj.), and ut nec divisa potestas fieri spatio (possit). Contrast: sed multae vis (subj.) unius corporis extant (pres. ind.), qualified by quasi. English: first-beginnings run among one another in motions; result clause, no single one can be set apart, nor its power made separate by space; but they stand out as the many forces of one body. DIFF: "quasi" (as it were) is dropped, so a hedged likeness becomes a flat identity.
+
+**266-272.** Latin: quod genus (just as) in viscere est (3sg.) odor, color, sapor; et tamen ex his omnibus est unum perfectum augmen. Then sic calor, aer, venti potestas, mixta (nom. pl.) creant (3pl.) unam naturam, with mobilis illa vis as a coordinate subject. Relative: quae (= vis) dividit ollis initum motus ab se. Relative: unde oritur sensifer motus. English: just as there is smell, color and savor, yet from all one complete growth of body; so heat, air and wind, mingled, create one nature "together with" that mobile force; which hands out to them the beginning of motion; from which sense-bearing motion arises. MATCH. "Together with" keeps the fourth nature as a co-creator.
+
+**273-275.** Latin: haec natura latet penitus prorsum and subest; nec quicquam est infra hac magis in corpore; and ipsa est anima animae totius proporro. English: lies hidden deep down and underneath; nothing further below it; it is in turn the very spirit of the whole spirit. MATCH. "Prorsum" is compressed into "deep down".
+
+**276-281.** Latin: quod genus in membris, mixta latens est animi vis animaeque potestas; quia creatast (3sg. perf. pass.) de corporibus parvis paucisque. Then sic haec vis, nominis expers, facta minutis corporibus, latet, and est quasi anima totius animae proporro, and dominatur corpore toto. English: same structure, singular "it is created", "small and few", "as it were the very spirit", "holds dominion". MATCH.
+
+**282-287.** Latin: consimili ratione necessest that ventus, aer, calor vigeant (subj.) commixta per artus, and aliud subsit magis emineatque aliis; purpose: ut quiddam unum fieri videatur ab omnibus; ni: calor, ventus, potestas aeris seorsum interemant sensum and diducta (n. pl., the elements) solvant. English: "By a like reasoning", the elements must be active, mingled; one lies beneath or stands out; so that one thing may be seen made from all; lest the three, apart, destroy sense and, drawn asunder, dissolve it. DIFF (lexical): the register fixes consimili ratione as "on a like principle", citing 3.282 itself.
+
+**288-293.** Latin: est animo calor ille, quem sumit in ira, cum fervescit and ardor micat acrius ex oculis; est frigida multa aura, comes formidinis, quae ciet horrorem and concitat artus; est status ille pacati aeris, qui fit pectore tranquillo voltuque sereno. English: same three clauses with the same relatives. MATCH.
+
+**294-298.** Latin: calidi plus est illis quibus acria corda iracundaque mens effervescit facile in ira; quo genere est vis violenta leonum, qui rumpunt pectora fremitu, gementes, nec possunt capere fluctus irarum. English: same. MATCH.
+
+**299-301.** Latin: mens cervorum, frigida, est ventosa magis, and concitat gelidas auras citius; quae faciunt tremulum motum existere membris. English: same. MATCH.
+
+**302-306.** Latin: natura boum vivit placido magis aere; nec fax irai, subdita, fumida, umquam percit nimis, suffundens umbram caecae caliginis; nec torpet perfixa telis pavoris; sitast inter utrasque. English: same. MATCH.
+
+**307-309.** Latin: quamvis doctrina constituat (subj.) quosdam pariter politos, tamen illa (= doctrina) relinquit prima vestigia naturae cuiusque animi. English: same. MATCH.
+
+**310-313.** Latin: nec putandumst mala posse evelli radicitus, quin hic decurrat, ille temptetur, ille tertius accipiat quaedam clementius aequo. English: same, with "so that... would not". MATCH.
+
+**314-318.** Latin: necessest naturas varias moresque sequacis differre in aliis rebus; quorum nequeo exponere caecas causas, nec reperire tot nomina figurarum quot sunt principiis, unde oritur variantia. English: same. MATCH.
+
+**319-322.** Latin: video (me) posse firmare illud: vestigia naturarum linqui usque adeo parvola, quae ratio nequeat depellere, ut nihil inpediat degere vitam dignam dis. English: same; "our" natures is a slight specification. MATCH.
+
+**323-326.** Latin: haec natura tenetur ab omni corpore and est custos et causa salutis corporis; nam haerent communibus radicibus, nec videntur posse divelli sine pernicie. English: same. MATCH.
+
+**327-330.** Latin: quod genus haud facile est evellere odorem e glaebis thuris quin intereat natura eius; sic haut facile est extrahere naturam animi atque animae corpore toto quin omnia dissoluantur. English: same. MATCH.
+
+**331-336.** Latin: principiis inplexis (abl. abs.) ab origine prima, fiunt praedita consorti vita; nec videtur potestas corporis atque animi quaeque posse sentire seorsum sine vi alterius; sed sensus conflatur, accensus, communibus motibus. English: same. MATCH.
+
+**337-338.** Latin: corpus per se nec gignitur nec crescit neque videtur durare post mortem. English: same. MATCH.
+
+**339-343.** Latin: non, ut umor aquae dimittit vaporem qui datus est, neque convellitur, sed manet incolumis, non sic possunt artus relicti perferre discidium animai; sed pereunt convulsi and putrescunt. English: same. MATCH.
+
+**344-347.** Latin: ex ineunte aevo, mutua contagia (subj., n. pl.) corporis atque animai discunt vitalis motus, reposta (= contagia) in membris alvoque, ut discidium nequeat fieri sine peste. English: "the body and the spirit, in their mutual contacts, learn". Subject shifted from contagia to the two partners, but the proposition is the same. MATCH.
+
+**348-349.** Latin: ut videas naturam eorum quoque consistere coniunctam, quoniam causa salutis coniunctast. English: same, with "must stand". MATCH.
+
+**350-353.** Latin: siquis refutat corpus sentire and credit animam permixtam suscipere motum quem sensum nominitamus, repugnat contra manifestas verasque res. English: same. MATCH.
+
+**354-355.** Latin: quis adferet umquam quid sit corpus sentire, si non quod res ipsa palam dedit ac docuit? English: same. MATCH.
+
+**356-358.** Latin: objection: dimissa anima (abl. abs.), corpus caret sensu. Reply: perdit enim quod non fuit proprium eius in aevo, multaque perdit quom expellitur aevo. English: same. MATCH.
+
+**359-361.** Latin: dicere oculos nullam rem posse cernere, sed animum spectare per eos ut foribus reclusis, difficilest, cum sensus eorum ducat contra. English: same. MATCH.
+
+**362-364.** Latin: sensus trahit atque detrudit ad acies ipsas, praesertim cum nequimus cernere fulgida, quia lumina praepediuntur luminibus. English: same. MATCH.
+
+**365-366.** Latin: quod non fit foribus; neque ostia reclusa, qua cernimus, suscipiunt laborem. English: same. MATCH.
+
+**367-369.** Latin: si lumina sunt pro foribus, animus videtur debere cernere magis exemptis oculis, sublatis postibus (abl. abs.). English: same. MATCH.
+
+**370-373.** Latin: nequaquam possis sumere illud quod sententia Democriti ponit: primordia corporis atque animi, singula, adposita alternis, variare ac nectere membra. English: same. MATCH.
+
+**374-380.** Latin: cum elementa animae sunt minora quam (ea) quibus corpus constat, tum concedunt numero and sunt rara dissita per artus; dumtaxat ut possis promittere hoc: quantula corpora prima queant ciere sensiferos motus, tanta intervalla exordia prima animai tenere. English: same structure, but exordia prima becomes "the first starting-points". DIFF (lexical): the register fixes technical exordia as "origins" and reserves "starting-point" for the non-technical 1.149.
+
+FINDINGS
+380	LEXICAL	MINOR	0.80	"exordia prima animai" (the technical name for the spirit's atoms) is rendered "the first starting-points of the spirit", against the register's fixed "origins" (starting-point is reserved for non-technical 1.149), and the line's note wrongly says this follows policy; fix: "are the intervals the first origins of the spirit keep."
+282	LEXICAL	MINOR	0.80	"consimili ratione" is rendered "By a like reasoning", but the register fixes "on a like principle" and cites 3.282 by name; fix: "On a like principle wind and air and heat"
+265	OMISSION	MINOR	0.50	"quasi multae vis unius corporis extant" loses "quasi" (as it were), so the English asserts outright that the atoms are the many forces of one body rather than likening them to it; fix: "but they stand out as it were the many forces of one body."

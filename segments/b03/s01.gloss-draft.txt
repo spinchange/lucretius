@@ -1,0 +1,41 @@
+ANALYSIS
+136-139: L: dico [inf. clauses] animum atque animam (subj) coniuncta teneri (pres. pass. inf.) inter se; (eadem) unam naturam (obj) conficere ex se; sed consilium (subj) caput esse quasi et dominari in corpore toto; quod (rel. → consilium) nos animum mentemque vocamus. E: I say mind and spirit are held joined, make up a single nature; but the counsel is the head and lord over the body; which (→ counsel) we call mind and thought. MATCH (dominari as "the lord" is compression).
+140: L: id (→ consilium) situm haeret (pres. ind.) media regione pectoris. E: this is set and fixed in the middle of the breast. MATCH
+141-142: L: hic exultat pavor ac metus; haec loca circum laetitiae mulcent; hic ergo mens animusque est. E: here dread and fear leap; around these places joys caress; here therefore are thought and mind. MATCH
+143-144: L: cetera pars animae (subj), dissita (→ pars) per corpus, paret et movetur (pass.) ad numen momenque mentis. E: the rest of the spirit, scattered, obeys and moves at the nod and impulse of the mind. MATCH
+145-146: L: id (→ consilium/mind) solum per se sapit et sibi gaudet, cum neque animam neque corpus res una commovet. E: this alone has understanding and rejoices for itself, when nothing moves spirit or body along with it. MATCH (una read adverbially; defensible)
+147-151: L: quasi, cum caput aut oculus laeditur temptante dolore (abl. abs.), non omni concruciamur corpore, sic animus laeditur ipse laetitiaque viget, cum cetera pars animai nulla novitate cietur. E: as when head or eye is hurt by pain we are not tormented in the whole body, so the mind is hurt or thrives with joy, when the rest of the spirit is stirred by nothing new. MATCH (-que as "or" keeps the sense)
+152-158: L: ubi mens commota est metu, videmus animam totam consentire, sudores palloremque existere, infringi linguam, vocem aboriri, caligare oculos, sonere auris, succidere artus; denique videmus homines concidere ex animi terrore. E: same series, same subjects; "we see men often collapse". MATCH
+158-160: L: ut quivis noscere possit (result) esse animam cum animo coniunctam; quae (→ anima), cum animi vi percussa est, exim corpus propellit et icit. E: so that anyone may learn the spirit is joined with the mind, and, struck by the mind's force, it drives the body and strikes it. MATCH
+161-167: L: haec ratio docet naturam animi atque animai corpoream esse; ubi enim (it, the mind/spirit) videtur propellere membra, corripere ex somno corpus, mutare vultum, regere ac versare hominem; quorum nil fieri sine tactu posse videmus nec tactum sine corpore; nonne fatendum est animum animamque corporea natura constare? E: same, with "it is seen" and the rhetorical question kept. MATCH
+168-169: L: cernis animum fungi pariter cum corpore et una consentire. E: you see the mind is acted on together with the body and feels along with it. MATCH
+170-174: L: si minus offendit vitam vis teli, adacta (→ vis), ossibus ac nervis disclusis (abl. abs.); at tamen insequitur languor, terrae petitus suavis, aestus mentis qui gignitur in terra, interdumque incerta voluntas exsurgendi. E: if the weapon's force, though not striking out life, is driven in, laying open bones and sinews; yet follow faintness, a pleasant sinking to earth, the turmoil born in the mind on the earth, now and then a wavering will to rise. MATCH
+175-176: L: ergo necesse est naturam animi corpoream esse, quoniam telis ictuque laborat. E: same. MATCH
+177-178: L: pergam rationem reddere dictis quali corpore sit animus et unde constiterit (indir. q.). E: I shall go on to give an account of what body the mind is and from what composed. MATCH
+179-181: L: aio (id) esse persubtilem et factum constare minutis corporibus; licet advertas animum hinc ut pernoscere possis id ita esse. E: same. MATCH
+182-185: L: nil videtur fieri tam celeri ratione quam si mens proponit fieri et inchoat ipsa; ergo animus se perciet ocius quam res ulla quorum natura videtur in promptu. E: same. MATCH
+186-188: L: quod mobile tanto opere est debet constare seminibus rutundis minutisque, ut inpulsa (→ semina) momine parvo moveri possint. E: same. MATCH
+189-190: L: movetur aqua et flutat tantillo momine, creata (→ aqua) figuris volubilibus parvisque. E: same. MATCH
+191-192: L: mellis natura constantior est, latices pigri magis, actus cunctantior. E: same. MATCH
+193-195: L: haeret inter se magis omnis copia materiai, quia non extat corporibus tam levibus, subtilibus, rutundis. E: same. MATCH
+196-199a: L: aura papaveris suspensa levisque potest cogere ut acervus ab summo diffluat; at lapidum spicarumque coniectum noenu potest. E: same. MATCH
+199b-202: L: corpora pro quam parvissima et levissima sunt, ita mobilitate fruuntur; quae magis cum pondere et aspera inveniuntur, eo stabilita magis sunt. E: same proportion. MATCH
+203-205: L: quoniam natura animi reperta est mobilis egregie, necesse est constare corporibus parvis, levibus, rutundis. E: same. MATCH
+206-207: L: quae res cognita invenietur utilis et opportuna cluebit. E: same. MATCH
+208-215: L: haec res dedicat naturam eius, quam tenui textura constet, quam parvo loco se contineat si conglomerari possit; quod, simul atque quies leti hominem indepta est et natura animi animaeque recessit, nil cernas libatum de corpore ad speciem, nihil ad pondus; mors omnia praestat praeter sensum vaporemque. E: same. MATCH
+216-220: L: ergo necesse est animam totam esse perparvis seminibus, nexam (→ anima) per venas viscera nervos, quatenus, ubi omnis cessit, circumcaesura se incolumem praestat nec defit hilum ponderis. E: same. MATCH
+221-227: L: quod genus est, cum flos Bacchi evanuit, aut spiritus unguenti diffugit, aut sucus de corpore cessit; res ipsa nil minor videtur nec detractum quicquam de pondere, quia semina sucos et odorem efficiunt in toto corpore rerum. E: same. MATCH
+228-230: L: scire licet naturam mentis animaeque esse creatam pauxillis seminibus, quoniam fugiens nil ponderis aufert. E: same. MATCH
+231: L: haec natura non putanda est simplex (gerundive, negated). E: we must not think this nature simple. MATCH
+232-234: L: tenuis aura deserit moribundos, mixta (→ aura) vapore; vapor trahit aera; nec calor est cui non mixtus sit aer. E: same. MATCH
+235-236: L: quod natura eius rara constat, necesse est primordia aeris multa moveri inter eum. E: same. MATCH
+237: L: iam triplex natura animi reperta est. E: same. MATCH
+238-240: L: haec cuncta non sat sunt ad sensum creandum, quoniam mens recipit nil horum posse creare sensiferos motus, quae (obj., the thoughts) denique mente volutat. E: these are not enough to create sensation, since the mind does not accept that any can create the sense-bearing motions or the things it turns over in thought. MATCH in sense; mente is "thought", against the register's explicit 3.240 entry.
+241-245: L: necesse est quarta natura adtribuatur; ea est nominis expers; qua nil mobilius, tenuius, nec magis e parvis levibusque elementis extat; quae prima didit motus per artus. E: same. MATCH
+246-251: L: prima cietur, perfecta (→ natura) parvis figuris; inde calor et venti potestas motus accipit, inde aer, inde omnia mobilitantur; concutitur sanguis, viscera persentiscunt, postremis ossibus datur sive voluptas sive ardor. E: same. MATCH
+252-255: L: nec temere potest dolor huc penetrare neque malum permanare, quin omnia perturbentur usque adeo ut vitae desit locus et partes animai diffugiant per caulas corporis omnis. E: same. MATCH
+256-257: L: plerumque fit finis motibus in summo corpore; hanc ob rem vitam retinere valemus. E: same. MATCH
+258-261: L: egestas sermonis abstrahit (me) aventem invitum rationem reddere quo pacto ea mixta vigeant; sed tangam ut potero summatim attingere. E: same. MATCH
+
+FINDINGS
+240	LEXICAL	MINOR	0.50	"quae denique mente volutat": the register fixes instrumental mente at 3.240 as "mind", but the English has "turns over in thought", which also blurs the mens/animus pairing rule; suggested fix: "the sense-bearing motions, or the things it then turns over in the mind."

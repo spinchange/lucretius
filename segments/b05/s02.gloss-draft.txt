@@ -1,0 +1,139 @@
+ANALYSIS
+
+**261-264 (Quod super est ... declarat)**
+- Latin: [that] mare, flumina, fontes abundare (inf.) umore novo semper, and latices manare perennis; nil opus est verbis (main); decursus aquarum declarat (pres. ind.) undique.
+- English: that the sea, rivers and springs always brim with new moisture, and waters flow without end; there is no need of words; the downrush declares it on every side.
+- MATCH
+
+**264-268 (sed primum ... diditur omnis)**
+- Latin: quicquid aquai primum tollitur (pres. pass.); in summa fit ut umor nihil abundet (result clause); because venti verrentes aequora deminuunt, and sol aetherius retexens radiis [deminuit]; because [umor] diditur supter per terras.
+- English: whatever water comes first is taken off; and so on the whole the moisture never overflows; because winds diminish it, and the sun unweaving it; because it is spread out beneath.
+- DIFF: aetherius sol (267) is rendered "the sun of the upper air", against the register's "the sun in the ether" (5.267 = 5.389).
+
+**269-272 (percolatur ... undas)**
+- Latin: virus percolatur; materies umoris remanat retro; omnis convenit ad caput amnibus; inde fluit agmine dulci; qua via secta semel detulit (perf.) undas liquido pede.
+- English: brine strained out; matter of moisture oozes back; all gathers at the heads; flows in a column of sweet water; where a channel, once cut, carried the waves down.
+- MATCH
+
+**273-274 (Aera ... horas)**
+- Latin: dicam (fut., 1 sg.) aera; qui mutatur (pass.) innumerabiliter corpore toto privas in horas.
+- English: I shall speak of air, which is changed in numberless ways in its whole body every hour.
+- MATCH
+
+**275-278 (semper enim ... versa)**
+- Latin: quod cumque fluit de rebus, id omne fertur in mare aeris; qui nisi retribuat corpora rebus recreetque fluentis (pres. subj.), omnia forent (impf. subj.) resoluta et versa.
+- English: as the Latin, an unreal conditional with air as the subject.
+- MATCH
+
+**279-280 (haut igitur ... constat)**
+- Latin: [aer] haut cessat gigni de rebus et reccidere in res; quoniam constat omnia fluere adsidue.
+- English: air never ceases to be born and to fall back; since it is certain all things flow.
+- MATCH
+
+**281-283 (Largus ... lumen)**
+- Latin: fons luminis, aetherius sol, inrigat caelum candore recenti; suppeditat lumen novo lumine.
+- English: the fountain of light, "the sun of the upper air", floods the sky and supplies light with new light.
+- DIFF: aetherius sol (281) again departs from the register.
+
+**284-285 (nam primum ... accidit)**
+- Latin: quicquid fulgoris primum disperit ei (dat.), quo cumque accidit.
+- English: whatever brightness comes first is lost to it, wherever it falls.
+- MATCH
+
+**285-293 (id licet ... ipsum)**
+- Latin: you may learn this from the fact that as soon as nubes coepere succedere soli and radios lucis inter...rumpere (tmesis = interrumpere, transitive, object radios); then inferior pars horum disperit and terra inumbratur; ut noscas (purpose) res egere splendore novo, quemque iactum perire, res non posse videri ratione alia, ni caput lucis suppeditet.
+- English: clouds begin to pass beneath the sun and "to break through between the rays of light"; the lower part of those rays is lost; earth is shadowed; so that you may know, and so on.
+- DIFF: in 287 the clouds interrupt or break the rays (inter-rumpere radios). The English makes rumpere intransitive, so the clouds break through between the rays and the rays are no longer what is broken.
+
+**294-301 (quin etiam ... flammae)**
+- Latin: lumina nocturna (lychni, taedae) properant suppeditare novom lumen consimili ratione, ardore ministro (abl. abs.); instant tremere ignibus; lux non relinquit loca, quasi rupta inter; ei (the light) exitium celeratur ab omnibus ignibus, origine flammae.
+- English: lamps and torches hurry to supply new light; press on; the light leaves no place as if broken; its destruction is hastened by the swift birth of flame.
+- MATCH ("from all its fires" adds "its" to the fires, which is minor)
+
+**302-305 (sic igitur ... vigere)**
+- Latin: putandum (gerundive) solem, lunam, stellas iactare lucem ex alio atque alio subortu and perdere quicquid flammarum primum; ne credas (purpose) haec vigere inviolabilia.
+- English: same.
+- MATCH
+
+**306-310 (Denique non lapides ... niti)**
+- Latin: non cernis (rhetorical question) lapides vinci ab aevo, turris ruere, saxa putrescere, delubra et simulacra fatisci, nec numen posse protollere finis fati neque niti adversus foedera naturae?
+- English: same, with the negation on posse kept.
+- MATCH
+
+**311-317 (denique non monimenta ... fragore)**
+- Latin: non videmus monimenta dilapsa (312 corrupt), silices ruere, nec perferre patique vires aevi finiti?; neque enim caderent (impf. subj.) avolsa, quae pertolerassent (plpf. subj.) omnia tormenta ex infinito tempore, privata fragore.
+- English: same; the relative "quae pertolerassent" is recast as "if ... they had borne up", which is equivalent.
+- MATCH
+
+**318-321 (Denique iam tuere ... constat)**
+- Latin: tuere (imperative) hoc, quod continet terram amplexu; si procreat omnia and recipit perempta, totum constat nativum, mortali corpore.
+- English: same.
+- MATCH
+
+**322-323 (nam quod cumque ... res)**
+- Latin: quod cumque auget alitque res, debet deminui, recreari cum recipit.
+- English: same.
+- MATCH
+
+**324-327 (Praeterea si ... poetae)**
+- Latin: si nulla fuit origo genitalis and semper aeterna fuere, cur non cecinere (perf.) alii poetae alias res supera bellum Thebanum?
+- English: same.
+- MATCH
+
+**328-329 (quo tot ... florent)**
+- Latin: quo cecidere facta virum; neque usquam florent insita monimentis?
+- English: same.
+- MATCH
+
+**330-331 (verum ... cepit)**
+- Latin: summa habet novitatem; natura mundi recens est; neque pridem exordia cepit.
+- English: same.
+- MATCH
+
+**332-337 (quare etiam ... voces)**
+- Latin: artes expoliuntur, augescunt; addita sunt multa navigiis; organici peperere sonores; natura rerum ratioque reperta est nuper; ego primus repertus sum qui possim vertere.
+- English: same.
+- MATCH
+
+**338-344 (Quod si ... futurum)**
+- Latin: si credis eadem fuisse, saecla periisse, urbis cecidisse, amnes exisse et coperuisse; tanto magis victus fateare necesse est exitium futurum.
+- English: same.
+- MATCH
+
+**345-347 (nam cum ... ruinas)**
+- Latin: cum res temptarentur morbis periclisque; si incubuisset tristior causa, darent cladem ruinasque.
+- English: same.
+- MATCH
+
+**348-350 (nec ratione ... removit)**
+- Latin: videmur esse mortales nulla ratione alia, nisi quod aegrescimus isdem morbis atque illi quos natura removit.
+- English: same.
+- MATCH
+
+**351-363 (Praeterea ... plaga)**
+- Latin: three alternatives for what is eternal: (a) because it is of solid body, respuere ictus, nec pati penetrare; (b) durare quia expertia plagarum, like the void; (c) because nulla copia loci circum, like summa summarum, with no locus extra and no corpora to incidere.
+- English: same three alternatives with the same subjects.
+- MATCH
+
+**364-372 (at neque ... perire)**
+- Latin: neither is natura mundi of solid body (since inane admixtum), nor is it like the void; neque corpora desunt quae possint corruere summam aut cladem inportare; nec deficit natura loci quo possint moenia exspargi aut [quo] possunt perire pulsa.
+- English: same.
+- MATCH
+
+**373-375 (haut igitur ... hiatu)**
+- Latin: ianua leti non praeclusa est caelo, soli, terrae, undis; sed patet et respectat hiatu.
+- English: same.
+- MATCH
+
+**376-379 (quare etiam ... vires)**
+- Latin: necesse est confiteare haec eadem etiam nativa; neque enim quae sunt mortali corpore potuissent contemnere vires aevi ex infinito tempore.
+- English: same. "Etiam" is dropped, which is minor.
+- MATCH
+
+FINDINGS
+
+| Line | Category | Severity | Confidence | Finding and suggested fix |
+|---|---|---|---|---|
+| 287 | MISTRANSLATION | MODERATE | 0.62 | "radios inter quasi rumpere lucis" is tmesis for interrumpere, with the clouds breaking or interrupting the rays (radios is the object). The English "to break through between the rays of light" makes the clouds break through, so the rays are no longer what is broken. Fix: "and, as it were, to break off the rays of light between," |
+| 267 | LEXICAL | MINOR | 0.55 | "aetherius sol" is rendered "the sun of the upper air", which the register bars ("the sun in the ether", 5.215, 5.267 = 5.389). Fix: "diminish it, and the sun in the ether, unweaving it with his rays," |
+| 281 | LEXICAL | MINOR | 0.55 | "aetherius sol" is again rendered "the sun of the upper air", against the register's fixed "the sun in the ether". Fix: "Likewise the generous fountain of liquid light, the sun in the ether," |

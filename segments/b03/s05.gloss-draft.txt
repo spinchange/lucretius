@@ -1,0 +1,62 @@
+ANALYSIS
+
+670-673. Latin: si natura animai constat (immortalis) et insinuatur (pres. ind.) in corpus nascentibus (dat.); cur nequimus (1pl) meminisse super ante actam aetatem, nec tenemus ulla vestigia gestarum rerum. English: if the nature of the spirit is immortal and works its way in at our birth; why can we not remember besides the age lived before, nor keep traces. MATCH
+
+674-678. Latin: si animi potestas mutata est (perf.) tanto opere ut exciderit omnis retinentia actarum rerum; id non longius errat ab leto; fateare necesse est quae fuit ante interiisse, et quae nunc est nunc esse creatam. English: if the power of the mind is changed so greatly that all holding of past things has fallen away; that wanders not far from death; you must confess what was before has perished, what is now has now been created. MATCH
+
+679-685. Latin: si, perfecto corpore (abl. abs.), solita est inferri nobis animi vivata potestas tum cum gignimur; haud conveniebat ut videatur cresse cum corpore in sanguine; sed convenit vivere solam per se sibi ut in cavea, ut corpus tamen affluat sensu. English: same conditions, same apodoses (not fitting that it grow with body; fitting that it live alone as in a cage so that the body flows with sense). MATCH
+
+686-690. Latin: putandum est neque animas esse expertis originis nec solutas leti lege; nam neque putandum est potuisse adnecti tanto opere insinuatas extrinsecus; quod manifesta res docet fieri totum contra. English: must not think spirits without beginning nor released from death's law; must not think they could be bound so closely, having worked in from outside; the plain fact shows the reverse. MATCH
+
+691-697. Latin: [anima] conexa est per venas viscera nervos ossa ut dentes sensu participentur; morbus, stringor aquae, lapis oppressus e frugibus asper (indicat); nec, cum sint tam contextae, videntur posse exire incolumes et exsolvere sese salvas. English: the spirit is so knit that even the teeth share sense, as toothache, the twinge of icy water, a rough stone in the bread show; nor, being so woven in, do they seem able to go out unharmed and unloose themselves safe. MATCH
+
+698-702. Latin: si putas animam insinuatam extrinsecus solere permanare per membra; tanto magis peribit fusa cum corpore; quod permanat dissolvitur, interit ergo; dispertitur enim per caulas omnis. English: same structure. MATCH
+
+703-710. Latin: ut cibus, cum diditur in membra, disperit et sufficit aliam naturam; sic anima atque animus, quamvis integra recens eunt, tamen dissolvuntur in manando, dum diduntur particulae quibus animi natura creatur, quae nunc dominatur nata ex illa quae tunc periit partita. English: same, with relative clauses on the right nouns. MATCH
+
+711-712. Latin: videtur natura animae neque privata natali die nec funeris expers. English: neither deprived of a birthday nor exempt from a funeral. MATCH
+
+713-716. Latin: linquontur necne semina animai in corpore exanimo? si linquuntur et insunt, haut erit ut possit haberi inmortalis, quoniam libata recessit partibus amissis (abl. abs.). English: same. MATCH
+
+717-721. Latin: sin profugit ablata sinceris membris ut nullas partis liquerit; unde vermes expirant cadavera, unde copia animantum exos et exanguis perfluctuat artus? English: same; boneless and bloodless attaches to the host. MATCH
+
+722-729. Latin: si credis animas insinuari extrinsecus vermibus et privas posse venire in corpora, nec reputas cur milia conveniant unde una recesserit; est quaerendum utrum animae venentur semina vermiculorum et fabricentur sibi ubi sint, an insinuentur quasi corporibus perfectis. English: same. MATCH
+
+730-734. Latin: neque suppeditat dicere cur faciant ipsae quareve laborent; neque enim, cum sine corpore sunt, volitant sollicitae morbis algu fame; corpus enim adfine vitiis laborat, et animus fungitur mala contage eius. English: same. MATCH
+
+735-737. Latin: esto quamvis utile his facere corpus, cum subeant; at nulla via videtur qua possint; ergo animae non faciunt sibi corpora. English: same. MATCH
+
+738-740. Latin: nec est ut qui insinuentur cum perfectis corporibus; neque poterunt esse conexae subtiliter neque contagia fient consensu. English: same. MATCH
+
+741-747. Latin: cur violentia sequitur seminium leonum, dolus volpes, fuga cervos; a patribus datur, patrius pavor incitat artus; cur cetera generascunt membris ingenioque ex ineunte aevo; si non quia vis animi certa suo semine crescit pariter cum corpore quoque. English: same; corpore quoque read as "with every body" (abl. of quisque, defensible). MATCH
+
+748-753. Latin: si inmortalis foret et mutare soleret corpora, animantes essent permixtis moribus; canis effugeret incursum cervi; accipiter tremeret fugiens veniente columba (abl. abs.); desiperent homines, saperent saecla ferarum. English: same. MATCH
+
+754-759. Latin: illud fertur falsa ratione, quod aiunt inmortalem animam flecti mutato corpore; quod mutatur dissolvitur, interit; partes traiciuntur et ordine migrant; quare debent posse dissolvi per artus, ut intereant cunctae una cum corpore. English: same. MATCH
+
+760-764. Latin: sin dicent animas hominum semper ire in corpora humana, quaeram cur e sapienti stulta queat fieri, nec prudens sit puer ullus, [763 intrusive], nec tam doctus pullus equae quam vis equi. English: same, with 763 printed and noted. MATCH
+
+765-768. Latin: confugient mentem tenerascere in tenero corpore; si fit, fateare necesse est animam mortalem esse, quoniam mutata per artus amittit vitam sensumque priorem. English: same. MATCH
+
+769-771. Latin: quo modo poterit vis animi, confirmata pariter cum corpore quoque, tangere florem aetatis, nisi erit consors in origine prima? English: same. MATCH
+
+772-775. Latin: quid vult exire membris senectis? an metuit manere conclusa in corpore putri, et ne domus fessa obruat? at non sunt pericla immortali. English: same. MATCH
+
+776-783. Latin: videtur deridiculum animas esse praesto ad conubia et partus, immortales expectare mortalia membra innumero numero, certare quae prima insinuetur; si non foedera ita pacta sunt ut quae prima advenerit insinuetur prima, neque contendant viribus hilum. English: same. MATCH
+
+784-787. Latin: non arbor in aethere, non nubes in aequore esse queunt, nec pisces vivere in arvis, nec cruor in lignis, nec sucus saxis inesse; certum est ubi quicquid crescat et insit. English: same. MATCH
+
+788-789. Latin: natura animi nequit oriri sola sine corpore neque esse longius a nervis et sanguine. English: same. MATCH
+
+790-793. Latin: si posset, vis animi multo prius posset esse in capite aut umeris aut calcibus, et soleret innasci quavis in parte, tandem manere in eodem homine. English: same. MATCH
+
+794-797. Latin: quoniam in nostro corpore constat videtur certum dispositumque ubi possit esse et crescere sorsum anima atque animus; infitiandum totum posse durare extra corpus genique. English: same. MATCH
+
+798-799. Latin: corpus ubi interiit, confiteare necesse est animam periisse distractam in corpore toto. English: same. MATCH
+
+800-805. Latin: mortale aeterno iungere et putare consentire et fungi mutua posse desipere est; quid putandum diversius aut magis inter se disiunctum discrepitansque, quam mortale iunctum in concilio immortali tolerare procellas? English: the same, but "inter se disiunctum" is rendered "disjoined from itself". DIFF: a reciprocal, between two things, becomes reflexive, within one thing.
+
+806-818. Latin: necesse est quaecumque manent aeterna aut quia sunt solido corpore respuere ictus nec pati penetrare quicquam quod queat dissociare partis, ut materiai corpora; aut posse durare per omnem aetatem quia sunt expertia plagarum sicut inane, quod manet intactum; aut quia nulla copia loci circum sit quo res possint discedere, sicut summa summarum aeterna est, neque extra est locus quo diffugiant neque corpora quae possint incidere et dissolvere plaga. English: the same three alternatives in the same structure. MATCH
+
+FINDINGS
+803	MISTRANSLATION	MINOR	0.55	"magis inter se disiunctum" (disjoined from one another, the mortal and the immortal of 800-805) is rendered "more disjoined from itself", which makes it a split within one thing rather than between two; "or more disjoined from one another and more discordant"

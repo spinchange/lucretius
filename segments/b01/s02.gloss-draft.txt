@@ -1,0 +1,99 @@
+ANALYSIS
+
+322-327. Latin: [quae cumque] dies naturaque tribuit (3sg pf, compound subj.) … cogens; nulla acies potest tueri (neg.); nec … quae senescunt, nec saxa peresa (quae impendent mare) … quid amittant cernere possis (2sg pres subj., potential). English: whatever days and nature add … no sharpness can observe; nor in whatever grows old, nor in rocks eaten by salt, could you discern what they lose. MATCH.
+
+328. Latin: natura gerit res corporibus caecis (igitur). English: therefore nature carries on her work through unseen bodies. MATCH.
+
+329-330. Latin: nec omnia tenentur stipata undique corporea natura (neg. pass.); namque est inane in rebus. English: not all things are held packed tight by the nature of body; for there is void. MATCH.
+
+331-333. Latin: quod cognosse erit utile; nec sinet [te] errantem dubitare, quaerere, diffidere dictis. English: having learned this will be of use; will not let you wander, doubting, asking, distrusting my words. MATCH.
+
+334. Latin: locus est intactus, inane vacansque. English: there is place, untouchable, void and empty. MATCH.
+
+335-339. Latin: si non esset, res non possent moveri; officium corporis (officere, obstare) adesset omnibus; haud quicquam procedere posset, quoniam nulla res daret principium cedendi. English: same. MATCH.
+
+340-345. Latin: cernimus multa moveri; quae, si non esset inane, non tam carerent motu quam genita nulla ratione fuissent, quoniam materies stipata quiesset (plpf subj.). English: same. MATCH.
+
+346-347. Latin: quamvis res solidae putentur, licet cernas esse raro corpore. English: however solid they are thought, you may see they are of loose and porous body. MATCH (compression).
+
+348-349. Latin: umor permanat in saxis; omnia flent guttis. English: same. MATCH.
+
+350. Latin: cibus dissipat sese in corpus omne animantum. English: food spreads through the whole body of living things. MATCH.
+
+351-353. Latin: arbusta crescunt, fetus fundunt, quod cibus omnis diffunditur in totas [arbusta] ab radicibus. English: same. MATCH.
+
+354-355. Latin: voces meant inter saepta, transvolitant clausa domorum; frigus permanat ad ossa. English: same. MATCH.
+
+356-357. Latin: nisi sint inania qua corpora possent transire, haud videres fieri. English: same. MATCH.
+
+358-359. Latin: cur videmus res praestare pondere rebus nihilo maiore figura? English: same. MATCH.
+
+360-363. Latin: si tantundem corporis est in lana quantum in plumbo, par est pendere tantundem, quoniam officium corporis premere deorsum; natura inanis manet sine pondere. English: same. MATCH.
+
+364-367. Latin: quod magnum aeque leviusque videtur declarat plus inanis; gravius dedicat plus corporis, minus vacui. English: same. MATCH.
+
+368-369. Latin: est id quod quaerimus, admixtum rebus, quod inane vocamus. English: same. MATCH.
+
+370-371. Latin: cogor praecurrere illud quod quidam fingunt, ne [id] possit te deducere vero. English: same. MATCH.
+
+372-376. Latin: aiunt latices cedere squamigeris nitentibus et aperire vias, quia pisces linquant loca quo undae confluere possint; sic alias res posse moveri, quamvis plena omnia. English: same. MATCH.
+
+377. Latin: id totum receptum falsa ratione. English: same. MATCH.
+
+378-380. Latin: quo squamigeri poterunt procedere, ni latices spatium dederint? quo undae concedere poterunt, cum pisces ire nequibunt? English: same. MATCH.
+
+381-383. Latin: aut privandum corpora motu, aut dicendum inane admixtum, unde res capiat initum movendi. English: same. MATCH.
+
+384-386. Latin: si duo corpora dissiliant, necesse aer possidat omne inane quod fiat inter. English: same. MATCH.
+
+387-390. Latin: is quamvis confluat, haud poterit uno tempore totum spatium compleri; necesse occupet primum quemque locum, deinde omnia possideantur. English: same. MATCH.
+
+391-397. Latin: si aliquis putat id fieri quia aer se condenseat, errat; vacuum fit, vacuum repletur; nec aer potest denserier, nec, si posset, sine inani posset trahere se. English: same. MATCH.
+
+398-399. Latin: quamvis causando multa moreris, fateare necesse esse inane. English: same. MATCH.
+
+400-401. Latin: possum (indic.) conradere fidem commemorando argumenta. English: I could set before you … to scrape together belief. MATCH (mood nuance only).
+
+402-403. Latin: haec vestigia sunt satis animo sagaci, per quae possis cognoscere cetera. English: same. MATCH.
+
+404-409. Latin: ut canes inveniunt quietes ferai intectas fronde, cum institerunt vestigia, sic tu poteris videre alid ex alio, insinuare latebras, protrahere verum. English: same. MATCH.
+
+410-417. Latin: si pigraris/recesseris, possum promittere: lingua fundet haustus ut verear ne senectus serpat … resolvat prius quam copia sit missa per auris. English: same. MATCH.
+
+418-421. Latin: ut repetam pertexere coeptum, natura constitit duabus rebus: corpora et inane, in quo sita sunt et qua moventur. English: same. MATCH.
+
+422-425. Latin: communis sensus dedicat corpus esse; cui nisi fides valebit, haut erit quo referentes confirmare queamus. English: same. MATCH.
+
+426-429. Latin: locus ac spatium si nullum foret, corpora haut possent sita esse neque meare (anacoluthon). English: same anacoluthon. MATCH.
+
+430-432. Latin: nihil est quod possis dicere seiunctum ab corpore secretumque ab inani, quod quasi tertia natura reperta sit. English: same. MATCH.
+
+433-439. Latin: quod cumque erit debebit esse aliquid augmine; si tactus erit, augebit numerum corporis; sin intactile, quod nulla de parte prohibere queat rem transire, erit vacuum. English: same. MATCH.
+
+440-442. Latin: quod per se erit aut faciet, aut fungi debebit agentibus aliis, aut erit ut res possint esse gerique in eo. English: same. MATCH.
+
+443-444. Latin: nulla res potest facere et fungi sine corpore, nec praebere locum nisi inane. English: same. MATCH.
+
+445-448. Latin: nulla tertia natura potest relinqui, nec quae cadat sub sensus nec quam quisquam apisci possit ratione. English: same. MATCH.
+
+449-450. Latin: quae cumque cluent, invenies coniuncta his duabus aut videbis eventa. English: same. MATCH.
+
+451-454. Latin: coniunctum est quod nusquam potis est seiungi sine discidio permitiali; pondus saxis … intactus inani. English: same. MATCH.
+
+455-458. Latin: servitium … cetera quorum adventu abituque natura manet incolumis, haec soliti sumus eventa vocare. English: same. MATCH.
+
+459-461. Latin: tempus per se non est; sensus consequitur ab rebus quid transactum, quae instet, quid sequatur. English: same. MATCH.
+
+462-463. Latin: nec fatendum quemquam sentire tempus per se semotum ab motu quieteque. English: same. MATCH.
+
+464-468. Latin: cum dicunt Tyndaridem raptam (= the carrying-off of Helen) et gentis subactas (= the subjugation of the Trojans) esse, videndum ne haec cogant nos fateri esse per se, quando aetas abstulerit saecla quorum haec eventa fuerunt. English: when they say that the abducted daughter and the subdued nations exist; the persons, not the events, are the subject. DIFF: participial noun phrase read as persons, not events.
+
+469-470. Latin: quod cumque actum erit poterit dici eventum aliud terris, aliud regionibus. English: same. MATCH.
+
+471-477. Latin: si materies nulla fuisset nec locus, numquam ignis … accendisset certamina, nec equos inflammasset Pergama partu nocturno Graiiugenarum (by its night-time bringing-forth of the Greeks). English: … set Pergamum aflame by its birth in the night of sons of the Greeks. DIFF: partu = the horse's giving birth to the Greeks, rendered as the horse's own birth, and "night of sons of the Greeks" misattaches the genitive.
+
+478-482. Latin: ut perspicere possis res gestas non constare per se ut corpus, nec cluere ratione qua inane, sed ut possis vocare eventa corporis atque loci. English: same. MATCH.
+
+FINDINGS
+477	MISTRANSLATION	MODERATE	0.70	"partu nocturno Graiiugenarum" is the horse's night-time bringing-forth of the Greeks hidden in it, but "by its birth in the night of sons of the Greeks" makes the horse the one born and attaches the genitive to "night"; "aflame by bringing forth the sons of the Greeks by night;"
+464	AMBIGUITY	MODERATE	0.55	"Tyndaridem raptam … subactas Troiiugenas gentis … esse" (with 465) is the ab urbe condita idiom for the events (the abduction, the conquest), but "the abducted daughter of Tyndareus and the nations … exist" makes the persons exist, which blurs the point that these events are accidents (467); "Finally, when they say that the carrying-off of Tyndareus' daughter" (with 465: "and the conquest in war of the Trojan nations exist, we must take care")

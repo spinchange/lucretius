@@ -1,0 +1,115 @@
+ANALYSIS
+
+**269-270**
+- Latin: [percipe] imperative 2sg; cur videatur (pres. subj. pass.) imago ultra speculum; nam remota (imago) videtur penitus.
+- English: learn (imper.) why the image is seen beyond the mirror; for it is seen withdrawn deep within.
+- MATCH
+
+**271-274**
+- Latin: quod genus illa foris quae transpiciuntur (pres. pass. pl.); cum ianua praebet (3sg) transpectum apertum; facitque ut multa foris videantur ex aedibus; is visus fit (3sg) duplici aere.
+- English: like those things outside that are seen through, when a doorway offers an open view and lets many things be seen from the house; that sight comes about through a double air.
+- MATCH
+
+**275-278**
+- Latin: aer cernitur (pres. pass.) citra postes; fores secuntur dextra laevaque; post lux perterget oculos, et aer alter, et illa quae transpiciuntur.
+- English: the air is discerned on this side of the doorposts; the doors follow right and left; an outer light sweeps the eyes, and a second air, and the things seen through.
+- MATCH
+
+**279-288**
+- Latin: ubi imago proiecit se; dum venit, protrudit agitque aera qui locatus (est) inter se oculosque; facit ut hunc sentire queamus prius quam speculum; ubi sensimus speculum, imago quae fertur a nobis pervenit, reiecta revisit oculos, propellens alium aera volvit, facit ut hunc prius quam se videamus; eoque semota videtur tantum distare.
+- English: the same clauses, the same subjects and objects; "se" is taken as the image.
+- MATCH
+
+**289-291**
+- Latin: minime mirarier est par (lacuna) illis quae reddunt visum ex aequore speculorum, quoniam res utraque confit aeribus binis.
+- English: it is right to wonder not at all at those that give back a sight from the level surface of mirrors, since in either case the thing is brought about by two airs.
+- MATCH
+
+**292-301**
+- Latin: fit ut dextera pars videatur in laeva, eo quod imago, cum offendit planitiem, non convertitur incolumis, sed eliditur recta retrorsum, ut siquis adlidat personam (prius quam arida sit) pilae trabive, atque ea servet rectam figuram fronte et exprimat se elisam retro; fiet ut oculus dexter sit laevus, et laevus dexter.
+- English: the same structure.
+- MATCH
+
+**302-303**
+- Latin: fit ut imago tradatur de speculo in speculum, ut quinque aut sex simulacra fieri suerint.
+- English: the same.
+- MATCH
+
+**304-307**
+- Latin: quae cumque latebunt (fut.) retro parte interiore, quamvis remota (neut. pl., modifying the things) torte penitusque, omnia educta per flexos aditus licebit (fut.) videantur esse in aedibus pluribus speculis.
+- English: whatever things lie hidden (present) in the inner part; "however winding and deep withdrawn the way" (the participle now modifies the way); all can be brought out through crooked passages and be seen within the house by many mirrors.
+- DIFF: remota is moved from the hidden things to "the way".
+
+**308-310**
+- Latin: usque adeo imago translucet; cum laeva data est, fit ut dextera fiat; inde redit et convertit eodem.
+- English: the same.
+- MATCH
+
+**311-317**
+- Latin: quae cumque latuscula speculorum praedita (sunt) flexura adsimili lateris nostri, ea remittunt nobis simulacra dextera, aut quia imago transfertur... elisa bis advolat, aut quod imago circum agitur cum venit, quod figura flexa docet (eam) convertier ad nos.
+- English: the same.
+- MATCH
+
+**318-323**
+- Latin: credas (pot. subj.) simulacra indugredi, pedem ponere, gestum imitari, propterea quia, qua parte recedas, simulacra nequeunt reverti illinc; quandoquidem natura cogit omnia referri ac resilire ad aequos flexus reddita.
+- English: images walk forward and set their foot down with ours, you would believe, and imitate our gesture; the same causal clauses follow.
+- MATCH
+
+**324-328**
+- Latin: oculi fugitant vitantque tueri splendida; sol caecat, si pergas tendere contra, quia vis ipsius magna est et simulacra feruntur alte per purum aera et feriunt oculos turbantia composituras.
+- English: the same.
+- MATCH
+
+**329-331**
+- Latin: splendor acer adurit oculos, quod possidet semina ignis multa, quae gignunt dolorem insinuando.
+- English: the same.
+- MATCH
+
+**332-336**
+- Latin: quae cumque tuentur arquati fiunt lurida, quia semina luroris fluunt de corpore eorum obvia simulacris, multaque mixta sunt in oculis eorum, quae pingunt omnia palloribus.
+- English: the same.
+- MATCH
+
+**337-343**
+- Latin: e tenebris tuemur quae sunt in luce, quia, cum aer ater propior init oculos et possedit apertos, aer lucidus insequitur, qui purgat eos ac discutit umbras illius aeris; nam hic est mobilior, minutior, mage pollens.
+- English: the same.
+- MATCH
+
+**344-347**
+- Latin: qui simul atque replevit vias luce atque patefecit (vias) quas aer ater obsederat, simulacra quae sita sunt in luce secuntur lacessuntque ut videamus.
+- English: the same.
+- MATCH
+
+**348-352**
+- Latin: quod contra facere nequimus e luce in tenebris, quia aer posterior crassior insequitur, qui complet foramina obsiditque vias, ne simulacra coniecta possint moveri.
+- English: the same; "move them" for moveri is a defensible reading.
+- MATCH
+
+**353-359**
+- Latin: cum cernimus turris quadratas, fit ut videantur rutundae, quia angulus omnis cernitur optusus sive non cernitur, ac perit eius plaga (fem.) nec perlabitur ictus (masc.), quia dum simulacra feruntur per multum aera, aer cogit eum (masc.: ictus or angulus) hebescere offensibus.
+- English: every angle is seen blunted, or is not seen, and its blow (= plaga) is lost and its stroke (= ictus) does not glide through; the air forces "the blow" to grow dull.
+- DIFF: eum is masculine, but the English points it at "blow", the word it used for the feminine plaga.
+
+**360-363**
+- Latin: ubi angulus omnis suffugit sensum, fit ut structa saxorum tuantur quasi ad turnum; non ut quae coram sunt vereque rutunda, sed simulata adumbratim videntur.
+- English: the same.
+- MATCH
+
+**364-369**
+- Latin: umbra videtur moveri, sequi, imitari, si credis aera privatum lumine posse indugredi, sequentem motus; nam nihil potest esse id quod umbram perhibere suemus nisi aer cassus lumine.
+- English: the same.
+- MATCH
+
+**370-374**
+- Latin: quia terra privatur lumine qua cumque officimus, repletur quod liquimus eius, fit ut quae fuit umbra videatur secuta (esse) nos e regione eadem.
+- English: the same.
+- MATCH
+
+**375-378**
+- Latin: nova lumina se fundunt, prima dispereunt, quasi lana trahatur in ignem; propterea terra spoliatur et repletur abluitque umbras.
+- English: the same.
+- MATCH
+
+FINDINGS
+305	GRAMMAR	MINOR	0.55	"quamvis torte penitusque remota" is neuter plural and describes the hidden things themselves (however crookedly and deeply withdrawn they are), but the English attaches it to "the way"; "even so, however crookedly and deeply they are withdrawn,"
+359	AMBIGUITY	MINOR	0.50	"cogit hebescere eum" takes a masculine pronoun (ictus, or the angulus), but the English says "the blow," the word it used for the feminine plaga at 357, so the referent shifts; "the air by frequent collisions forces the stroke to grow dull."

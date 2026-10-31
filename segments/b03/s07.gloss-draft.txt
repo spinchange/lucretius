@@ -1,0 +1,220 @@
+ANALYSIS
+
+931-932 + 950-951 (frame)
+Latin: si [natura] mittat (pres. subj.) vocem et increpet (subj.) alicui nostrum; quid respondemus (pres. ind.), nisi [naturam] intendere litem (inf.) et exponere causam (inf.)
+English: if nature should find a voice and should rebuke one of us; what do we answer, except that nature presses a suit and sets out a case
+MATCH
+
+933-934
+Latin: quid tibi tanto operest, mortalis (voc.), quod [tu] indulges (2 sg. ind.) nimis aegris luctibus? quid [tu] congemis ac fles mortem?
+English: what ails you so, mortal, that you give yourself up too far to sick grieving? why do you groan at death and weep?
+MATCH
+
+935-939
+Latin: nam si vita grata fuit tibi et non commoda (subj.) perfluxere atque interiere ingrata, quasi congesta in vas pertusum; cur non recedis ut conviva plenus vitae et capis (2 sg.) quietem securam, stulte (voc.)
+English: for if life was welcome and good things have not, as if poured into a holed vessel, run through and perished unenjoyed, why not withdraw like a guest full of life and take untroubled rest, you fool
+MATCH
+
+940-943
+Latin: sin ea quae fructus es periere profusa et vita in offensost, cur quaeris addere amplius, quod rursum pereat (subj.) et occidat omne ingratum, non potius facis finem vitae atque laboris?
+English: but if what you enjoyed is poured out and lost and life offends you, why seek to add more, only to be lost again and perish unenjoyed, and not rather make an end of life and labor?
+MATCH
+
+944-945
+Latin: nam nihil est praeterea quod [ego] machiner inveniamque (1 sg. subj.) tibi, quod placeat; eadem sunt omnia semper
+English: for there is nothing more that I can devise and find for you to please you; all things are always the same
+MATCH
+
+946-949
+Latin: si corpus non iam marcet annis et artus confecti non languent, tamen omnia eadem restant, si perges vincere omnia saecla vivendo, atque etiam potius si numquam sis moriturus
+English: if your body is not yet withering and limbs not worn out, still all remains the same, even if you outlast all generations, and still more if you were never going to die
+MATCH
+
+952-954
+Latin: si grandior seniorque queratur (subj.) atque lamentetur obitum amplius aequo, non [natura] merito inclamet magis et increpet voce acri?
+English: if someone older should complain and lament his death more than is right, would she not with reason cry out louder and rebuke him sharply?
+MATCH
+
+955
+Latin: aufer (impv.) lacrimas, baratre (voc.), et compesce (impv.) querellas
+English: away with your tears, you bottomless pit, and check your complaints
+MATCH
+
+956
+Latin: [tu] perfunctus (ptc., you) omnia praemia vitai marces
+English: you have had all the prizes of life and now you wither
+MATCH
+
+957-960
+Latin: sed quia aves quod abest, temnis praesentia, vita elapsast tibi inperfecta ingrataque, et mors adstitit ad caput nec opinanti (dat., you) ante quam possis discedere satur ac plenus rerum
+English: because you crave the absent and scorn the present, life has slipped away unfinished and unenjoyed, and death, before you looked for it, has stood at your head before you can depart full and sated with things
+MATCH
+
+961-962
+Latin: nunc mitte (impv.) omnia aliena tua aetate tamen, aequo animo; age dum, concede (impv.) magnis; necessest
+English: as it is, let go of all things unsuited to your age, and with an even mind, come, yield to greater ones: you must
+MATCH (tamen unrendered; textual crux noted)
+
+963-965
+Latin: iure agat (subj.), iure increpet inciletque; enim vetustas extrusa novitate rerum cedit semper, et necessest reparare aliud ex aliis
+English: rightly she would plead, rebuke and reproach; for the old, thrust out by newness, gives way always, and one thing must be restored out of others
+MATCH
+
+966
+Latin: nec quisquam deditur (pres. pass.) in barathrum nec Tartara atra
+English: no one is handed down into the Pit or to black Tartarus
+MATCH
+
+967
+Latin: materies opus est, ut postera saecla crescant (purpose)
+English: matter is needed so that later generations may grow
+MATCH
+
+968
+Latin: quae tamen omnia sequentur (fut.) te, vita perfuncta (abl. abs.)
+English: and yet they all, their life lived through, will follow you
+MATCH
+
+969
+Latin: ergo haec nec minus quam tu cecidere ante cadentque
+English: so these, no less than you, have fallen before and will fall
+MATCH
+
+970-971
+Latin: sic alid ex alio numquam desistet oriri, vitaque datur nulli mancipio, omnibus usu
+English: so one thing will never cease to rise from another, and life is given to none to own, to all to use
+MATCH
+
+972-973
+Latin: respice (impv.) quam nil ad nos fuerit vetustas ante acta temporis aeterni, quam nascimur ante
+English: look back how the age gone by of eternal time before we are born was nothing to us
+MATCH
+
+974-975
+Latin: hoc speculum futuri temporis post mortem nostram natura exponit nobis
+English: this is the mirror nature holds up to us of the time to come after our death
+MATCH
+
+976-977
+Latin: numquid horribile apparet, num quicquam triste videtur, non exstat securius omni somno?
+English: does anything horrible appear, anything seem grim? is it not more untroubled than any sleep?
+MATCH
+
+978-979
+Latin: ea quaecumque prodita sunt esse Acherunte profundo, omnia sunt nobis in vita
+English: whatever is told to exist in deep Acheron, all are here in our life
+MATCH
+
+980-981
+Latin: nec miser Tantalus timet saxum magnum inpendens aere, torpens cassa formidine
+English: no wretched Tantalus fears the great rock hanging in the air, numb with empty dread
+MATCH
+
+982-983
+Latin: sed metus divom inanis urget mortalis (acc. pl.) in vita, [mortales] timent casum quem fors ferat cuique
+English: rather in life an empty fear of the gods oppresses mortals, and they fear the fall chance may bring to each
+MATCH
+
+984-986
+Latin: nec volucres ineunt Tityon iacentem Acherunte, nec possunt reperire quicquam quod scrutentur sub pectore perpetuam aetatem
+English: nor do birds enter Tityos lying in Acheron, nor can they find anything to search for beneath his breast through all eternity
+MATCH
+
+987-991
+Latin: quamlibet [Tityos] exstet immani proiectu corporis, qui non sola novem iugera optineat (subj.) membris dispessis sed orbem terrai, non tamen poterit perferre dolorem aeternum nec praebere cibum semper
+English: however vast the sprawl of his body, though it should cover not just nine acres but the whole earth, still he could not bear eternal pain nor furnish food forever
+MATCH
+
+992-994
+Latin: sed Tityos est hic nobis, quem iacentem in amore volucres lacerant atque angor anxius exest aut curae scindunt alia cuppedine
+English: Tityos is here among us, the one lying in love whom birds tear, whom anguish eats away, or cares rend with some other craving
+MATCH
+
+995-997
+Latin: Sisyphus est ante oculos, qui imbibit petere fasces et secures a populo, et semper recedit victus tristisque
+English: Sisyphus is before our eyes, who seeks the rods and axes from the people, thirsting for them, and always withdraws beaten and grim
+MATCH
+
+998-1002
+Latin: nam petere imperium, quod inanest nec datur, atque sufferre laborem, hoc est trudere saxum nixantem adverso monte, quod tamen e vertice volvitur et petit aequora campi
+English: to seek power, empty and never given, and endure labor for it, is to push uphill a rock which rolls back from the summit and rushes for the plain
+MATCH
+
+1003-1010
+Latin: deinde pascere naturam ingratam animi atque explere et satiare numquam, quod faciunt tempora annorum, nec tamen explemur, hoc id est quod memorant puellas congerere laticem in vas pertusum, quod expleri nulla ratione potestur
+English: always to feed the mind's ungrateful nature, fill it and never satisfy it, as the seasons do, and yet we are never filled, this is what is meant by the girls who pour water into a holed vessel, which can by no means be filled
+MATCH
+
+1011-1013
+Latin: Cerberus et Furiae et lucis egestas, Tartarus eructans aestus; qui neque sunt usquam nec possunt esse
+English: Cerberus and the Furies and the lack of light, Tartarus belching heat; these are nowhere and cannot be
+MATCH
+
+1014-1017
+Latin: sed in vita est metus poenarum pro male factis, insignis insignibus, et luela sceleris, carcer, iactus, verbera, carnifices, robur, pix, lammina, taedae
+English: in life there is fear of punishment for evil deeds, notable as the deeds, and atonement for crime: prison, hurling, scourges, executioners, dungeon, pitch, plates, torches
+MATCH
+
+1018-1022
+Latin: etsi absunt, at mens conscia factis praemetuens adhibet stimulos torretque flagellis, nec videt qui terminus possit esse nec quae sit finis, atque metuit magis ne haec gravescant in morte
+English: even if absent, the mind conscious of its deeds, fearing beforehand, applies goads and scorches itself with whips, and does not see what limit can be or what end, and fears these may grow heavier in death
+MATCH (magis absorbed into "grow heavier"; defensible)
+
+1023
+Latin: hic vita stultorum fit Acherusia
+English: here the life of fools becomes an Acheron
+MATCH
+
+1024
+Latin: hoc etiam tute possis dicere tibi interdum
+English: this too you might at times say to yourself
+MATCH
+
+1025-1026
+Latin: sis, etiam bonus Ancus reliquit lumina oculis, qui fuit melior quam tu multis rebus, improbe
+English: even good Ancus has left the light with his eyes, who was better than you in many things, shameless one
+MATCH (sis, "pray", unrendered; negligible)
+
+1027-1028
+Latin: inde multi alii reges et potentes rerum occiderunt, qui imperitarunt magnis gentibus
+English: since then many other kings and lords have perished, who ruled great nations
+MATCH
+
+1029-1033
+Latin: ille quoque ipse, qui stravit viam per mare et dedit iter legionibus et docuit ire pedibus super lacunas et contempsit murmura ponti, lumine adempto (abl. abs.) fudit animam corpore moribundo
+English: he too who laid a road across the sea, gave his legions a way, taught them to cross on foot, scorned the sea's roar, had the light taken and poured his spirit from a dying body
+MATCH
+
+1034-1035
+Latin: Scipiadas, fulmen belli, horror Carthaginis, dedit ossa terrae proinde ac esset famul infimus
+English: the son of the Scipios, thunderbolt of war, terror of Carthage, gave his bones to the earth as if the lowest servant
+MATCH
+
+1036-1038
+Latin: adde repertores, adde comites Heliconiadum; quorum Homerus unus potitus sceptra sopitus est eadem quiete aliis
+English: add the discoverers, add the companions of the Muses; among them Homer, who alone held the scepter, sleeps in the same rest
+MATCH
+
+1039-1041
+Latin: denique postquam vetustas admonuit Democritum memores motus mentis languescere, ipse obvius optulit caput leto sponte sua
+English: finally Democritus, after old age warned him the mindful motions of his mind were slackening, went of his will to meet death and offered his head
+DIFF: memores motus rendered "mindful motions", against the register
+
+1042-1044
+Latin: ipse Epicurus obit, decurso lumine vitae (abl. abs.), qui superavit genus humanum ingenio et restinxit omnis stellas, ut sol aetherius exortus
+English: Epicurus died when the light of his life had run its course, who surpassed the race and put out all the stars, as the sun does, risen in the upper air
+DIFF: aetherius sol rendered "the sun ... in the upper air", against the register
+
+1045
+Latin: tu vero dubitabis (fut.) et indignabere obire?
+English: and will you hesitate and resent it, to die?
+MATCH
+
+1046-1052
+Latin: [tu] cui vita est mortua prope iam vivo atque videnti, qui conteris partem maiorem aevi somno, et vigilans stertis nec cessas cernere somnia, et geris mentem sollicitam, nec potes reperire quid mali sit tibi, cum ebrius urgeris curis atque fluitans vagaris animo incerto errore
+English: you whose life is all but dead while you live and see, who waste most of your life in sleep, snore awake, never cease seeing dreams, carry a troubled mind, cannot find what is wrong, when drunk you are pressed by cares and drift wandering in the wavering error of your mind
+MATCH
+
+FINDINGS
+1040	LEXICAL	MINOR	0.90	"memores motus ... mentis" is rendered "the mindful motions of his mind", but the register fixes memores motus as "the remembering motions" (3.1040, explicitly "not mindful"); "warned him that the remembering motions of his mind were slackening,"
+1044	LEXICAL	MINOR	0.88	"exortus ut aetherius sol" is rendered "as the sun does, risen in the upper air", but the register fixes aetherius sol as "the sun in the ether" (5.215; "never 'the sun of the upper air'"); "all the stars, as the sun in the ether does when it has risen."

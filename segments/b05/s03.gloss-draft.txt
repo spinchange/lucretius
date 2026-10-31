@@ -1,0 +1,58 @@
+ANALYSIS
+
+380-384: Latin: cum (causal) membra (subj.) pugnent (pres. subj. pl.); concita (nom. pl., modifies membra) by pio nequaquam bello; main: nonne vides (2 sg.) + acc.-inf. aliquam finem posse dari ollis (dat.); vel cum sol et vapor (subj.) exsuperarint (pf. subj. pl.); omnibus epotis umoribus (abl. abs.). English: since members fight, stirred by a war not holy; do you not see that an end can be granted them, either when sun and heat have drunk up the moisture and prevailed. MATCH (the ablative absolute becomes an active verb with the same agent; "either" stands for vel with no second limb).
+
+385: Latin: quod (obj.) facere intendunt (pl.); neque adhuc conata (subj.) patrantur (pass.). English: they strive to do this; they have not yet carried out the attempt. MATCH.
+
+386-387: Latin: tantum suppeditant amnes (subj.); ultra minantur (amnes) diluviare omnia ex alto gurgite ponti. English: so much do the rivers supply; they threaten to flood all things from the deep gulf of the sea. MATCH.
+
+388-391: Latin: ne quiquam; quoniam venti verrentes aequora (subj.) deminuunt, and sol retexens radiis (subj.); et confidunt (venti, sol) + siccare omnia posse prius quam liquor possit contingere finem incepti. English: in vain, since winds diminish it, and the sun unweaving with rays; they trust they can dry all before the water reaches its end. MATCH.
+
+392-395: Latin: (elements, subj.) spirantes tantum bellum aequo certamine; cernere certant de magnis rebus; cum (concessive or temporal) semel fuerit superantior ignis (pf. subj.) et semel umor regnarit, ut fama est. English: breathing such war in equal contest, they strive to settle great matters, though once fire has been the stronger and once water reigned. MATCH.
+
+396-398: Latin: ignis superavit, ambiens perussit multa; cum vis solis equorum rapax (subj.) raptavit Phaethonta avia (adv. acc., off the road) aethere toto terrasque per omnis. English: fire prevailed and burned much, when the force of the sun's horses swept Phaethon off the road through ether and lands. MATCH.
+
+399-405: Latin: pater (subj.) percitus ira deturbavit Phaethonta fulminis ictu equis in terram; Sol (subj.) cadenti obvius succepit lampada, redegit equos disiectos, iunxit trementis, recreavit cuncta gubernans per iter suum; ut poetae cecinere, scilicet. English: the father dashed Phaethon from the horses to the earth; the Sun, meeting him as he fell, caught up the lamp, brought back and yoked the horses, and steering on their road restored all things; as the poets have sung. MATCH.
+
+406: Latin: quod (subj.) est repulsum procul nimis a vera ratione. English: this is driven very far from true reasoning. MATCH.
+
+407-410: Latin: ignis superare potest ubi plura corpora materiai sunt coorta ex infinito; inde vires (subj.) cadunt revictae aliqua ratione, aut res (subj.) pereunt exustae torrentibus auris. English: fire can prevail when more bodies have risen; then its forces fall, overcome by some principle, or things perish, burned. MATCH (aliqua ratione is non-technical, "in some way"; "by some principle" leans technical but does not change the proposition).
+
+411-412: Latin: umor (subj.) coortus coepit superare, quando obruit vitas hominum undis. English: water rose up and began to prevail, when it overwhelmed the lives of men. MATCH.
+
+413-415: Latin: ubi vis (subj.) aversa aliqua ratione recessit, quae cumque fuerat coorta ex infinito (relative clause on vis); constiterunt imbres, flumina minuerunt vim. English: when that force, whatever of it had risen, was turned aside and withdrew, the rains stopped and the rivers lessened their force. MATCH.
+
+416-418: Latin: indirect question: quibus modis ille coniectus materiai (subj.) fundarit terram, caelum, ponti profunda, solis lunai cursus; main: ponam ex ordine. English: same skeleton. MATCH.
+
+419-431: Latin: neque consilio primordia (subj.) locarunt se ordine suo sagaci mente; nec pepigere quos motus quaeque darent; sed quia primordia percita plagis ex infinito tempore, concita ponderibus suis, consuerunt ferri, coire, pertemptare omnia quae cumque possent creare congressa; propterea fit uti, volgata per aevom, experiundo omnigenus coetus et motus, conveniant ea quae coniecta fiunt exordia magnarum rerum. English: same clauses, same subjects, same negations. MATCH.
+
+432-436: Latin: Hic tum neque poterat cerni solis rota altivolans lumine largo, nec sidera, mare, caelum, terra, aer; nec res ulla videri similis nostris rebus; sed nova tempestas molesque coorta. English: same list under one "could be seen"; "a kind of strange storm and a mass, risen up." MATCH.
+
+437-448: Latin: inde loci partes (subj.) coepere diffugere; res pares cum paribus iungi, discludere mundum, dividere membra, disponere partes, e principiis omnigenis, quorum discordia (subj.) turbabat intervalla ... motus, proelia miscens, propter dissimilis formas; quod non omnia poterant manere coniuncta nec dare motus convenientis; hoc est, secernere caelum a terris, mare sorsum uti pateret, ignes aetheris seorsus. English: same infinitives under "began"; discord is the subject of "threw into confusion"; causal clause and the "that is" infinitives are kept. MATCH.
+
+449-451: Latin: corpora terrai (subj.) coibant in medio, quod erant gravia et perplexa, et capiebant imas sedes. English: same skeleton. MATCH.
+
+452-454: Latin: quanto magis coibant perplexa, tam magis expressere ea quae efficerent mare, sidera, solem, lunam, moenia mundi. English: the more they came together, the more they squeezed out those which would make these. MATCH.
+
+455-457: Latin: omnia haec sunt magis e levibus rutundis seminibus, minoribus elementis, quam tellus. English: same skeleton. MATCH.
+
+457-459: Latin: ideo aether ignifer (subj.) erumpens per rara foramina partibus primus se sustulit, et levis abstulit secum multos ignis. English: same skeleton. MATCH.
+
+460-466: Latin: non alia ratione ac videmus, cum lumina solis (subj.) rubent per herbas, lacus fluviique (subj.) exhalant nebulam, ut tellus fumare videtur; omnia quae cum conciliantur sursum, corpore concreto subtexunt nubila caelum in alto. English: same comparison, same subjects. MATCH.
+
+467-470: Latin: aether (subj.) levis, diffusilis, circumdatus corpore concreto, se saepsit; et diffusus late in omnis partis, omnia cetera saepsit avido complexu. English: same skeleton. MATCH.
+
+471-472: Latin: exordia solis lunaeque (subj. pl.) secuta sunt hunc; quorum globi vertuntur in auris interutrasque. English: same skeleton. MATCH.
+
+473-477: Latin: quae neque terra neque aether adscivit sibi, quod neque fuerunt tam gravia ut sederent, nec levia ut possent labier per summas oras; et tamen sunt ita interutrasque ut versent corpora viva et extent ut partes mundi. English: same skeleton. MATCH.
+
+478-479: Latin: quod genus, in nobis licet quaedam membra manere in statione, cum tamen sint ea quae moveantur. English: same skeleton. MATCH.
+
+480-482: Latin: his rebus retractis (abl. abs.), terra (subj.) repente succidit qua nunc plaga ponti tendit, et suffudit fossas salso gurgite. English: same skeleton. MATCH.
+
+483-491: Latin: quanto magis aestus et radii (subj.) cogebant terram, verberibus crebris fartam ad extrema limina, ut condensa coiret in medio suo; tam magis sudor expressus augebat mare camposque manando; et tanto magis corpora vaporis et aeris (subj.) elapsa volabant et densabant templa caeli. English: same correlatives, same subjects, ut clause as result. MATCH.
+
+492-494: Latin: campi sidebant; ascensus montibus altis crescebant; neque enim poterant saxa subsidere nec omnes partis succumbere pariter tantundem. English: same skeleton. MATCH.
+
+FINDINGS
+NONE

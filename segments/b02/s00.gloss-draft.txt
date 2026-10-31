@@ -1,0 +1,162 @@
+ANALYSIS
+2.1-4
+L: [suave est] spectare (inf.) laborem alterius, abl. abs. ventis turbantibus aequora; non quia vexari quemquam est voluptas (ind.), sed quia cernere suave est quibus malis ipse careas (subj., 2 sg).
+E: sweet [is] to watch the toil of another, when winds churn; not because anyone's distress is pleasure, but because it is sweet to see what evils you are free of.
+MATCH
+
+2.6, 2.5
+L: suave [est] tueri certamina belli magna, instructa (mod. certamina) per campos, tua sine parte pericli.
+E: sweet to look upon great contests of war drawn up across the plains, no share in the danger.
+MATCH
+
+2.7-13
+L: nihil dulcius est quam tenere templa serena, bene munita (n. pl., mod. templa), edita doctrina sapientum; unde queas (subj.) despicere alios videreque [eos] errare, quaerere viam palantis (mod. alios), certare, contendere, niti, emergere, potiri (infs. dep. on videre).
+E: nothing sweeter than to hold, "well fortified", the serene precincts built high by teaching; from where you can look down and see them wander, seek, contend, compete, strive, rise, gain mastery.
+DIFF: "well fortified", set off after "to hold", can be read as describing the holder; Latin munita modifies templa.
+
+2.14-16a
+L: exclamations; degitur (pres. pass.) hoc aevi quodcumque est in tenebris vitae periclisque.
+E: O miserable minds..., in what darkness and dangers this span of life is passed.
+MATCH
+
+2.16b-19
+L: nonne videre naturam latrare sibi nihil aliud nisi ut dolor seiunctus corpore absit (subj.), [natura] fruatur mente iucundo sensu, semota (nom. f., the subject) cura metuque.
+E: do you not see nature barks for nothing else than that pain be parted and absent, and the mind enjoy a pleasant sense "of things", set apart from care and fear.
+DIFF: "of things" has no Latin; "set apart" now hangs on "sense" rather than on the subject.
+
+2.20-33
+L: ergo videmus pauca esse opus ad corpoream naturam: quae demant dolorem, uti delicias substernere possint gratius interdum; neque natura requirit (pres., neg.: does not miss/feel the want) si non sunt simulacra..., nec domus fulget..., nec citharae reboant templa, cum tamen [homines] prostrati... corpora curant, praesertim cum tempestas adridet et tempora conspergunt herbas.
+E: we see few things needed: such as take away pain and can spread delights, more welcome now and then; nor does nature "require", if there are no golden images..., nor house gleam, nor lyres echo, when they lie on grass and tend their bodies, above all when weather smiles and seasons sprinkle grass.
+DIFF: requirit (miss, feel the lack of) becomes objectless "require", which blurs "nature feels no want if these are absent".
+
+2.34-36
+L: nec febres decedunt citius corpore, si iacteris (subj. pass., 2 sg) in picturis ostroque, quam si in plebeia veste cubandum est.
+E: nor do fevers leave faster if you are tossed on pictures and purple than if you must lie beneath a common coverlet.
+MATCH
+
+2.37-39
+L: quoniam gazae, nobilitas, gloria nihil proficiunt in corpore, quod superest, putandum [est] nil prodesse animo quoque.
+E: since treasures, nobility, glory profit nothing in the body, for the rest we must think they do the mind no good.
+MATCH
+
+2.40-46
+L: si non forte, cum videas legiones tuas fervere... cientis simulacra belli, constabilitas..., ornatas armis stlattas animatasque, his rebus religiones timefactae effugiunt animo pavidae, timores mortis tum lincunt pectus vacuum solutumque.
+E: unless, when you see your legions seething, stirring images of war, made firm..., ships fitted with arms, full of spirit, then religions in terror flee your mind panic-stricken, and fears of death leave your heart empty and loosed.
+MATCH (corrupt 2.43 noted)
+
+2.47-54
+L: quod si videmus haec ridicula esse, reque vera metus curaeque nec metuunt sonitus nec tela, versantur inter reges, neque reverentur fulgorem nec splendorem, quid dubitas quin omnis haec sit rationis potestas, cum vita omnis laboret in tenebris?
+E: if we see these are laughable, and in truth fears and cares fear neither arms nor weapons, move among kings, do not revere glitter or purple, why do you doubt this power belongs wholly to reasoning, when all life labors in darkness?
+MATCH
+
+2.55-58
+L: uti pueri trepidant metuuntque omnia in tenebris, sic nos in luce timemus interdum [ea] quae nihilo magis metuenda sunt quam quae pueri pavitant finguntque futura.
+E: refrain, same structure.
+MATCH
+
+2.59-61
+L: necesse est non radii neque tela diei discutiant terrorem tenebrasque, sed naturae species ratioque.
+E: refrain, same structure.
+MATCH
+
+2.62-66
+L: expediam (fut.) quo motu corpora gignant res resolvantque, qua vi cogantur, quae mobilitas sit reddita ollis meandi; tu memento te praebere dictis.
+E: I shall explain by what motion bodies beget and dissolve, by what force compelled, what mobility given for travelling the void; remember to give yourself to my words.
+MATCH
+
+2.67-76a
+L: materies non cohaeret stipata, quoniam videmus rem quamque minui, cernimus omnia fluere aevo vetustatemque subducere [ea] ex oculis, cum summa videatur manere incolumis, quia corpora decedentia minuunt unde abeunt, donant augmine quo venere; cogunt illa senescere, haec florescere, nec remorantur.
+E: matter does not cling packed close, since we see each thing diminish, perceive all flowing away, age withdrawing them, while the sum remains unimpaired, because departing bodies diminish what they leave, increase what they reach; force the one to age, the other to flower, and do not linger.
+MATCH
+
+2.75b-79
+L: sic summa novatur semper; mortales vivunt mutua; gentes augescunt, aliae minuuntur; saecla mutantur; cursores lampada tradunt.
+E: same, clause for clause.
+MATCH
+
+2.80-82
+L: si putas primordia posse cessare cessandoque progignere motus, vagaris avius a vera ratione.
+E: same.
+MATCH
+
+2.83-85a
+L: quoniam vagantur per inane, necesse est cuncta primordia ferri aut gravitate sua aut forte ictu alterius.
+E: since they wander, all first-beginnings must be carried by their own weight or perhaps by another's blow.
+MATCH
+
+2.85b-88
+L: cum cita obvia conflixere, fit ut repente diversa dissiliant; neque mirum, quae sint durissima ponderibus solidis neque quicquam obstet a tergibus.
+E: when swift they have met and clashed, they spring apart; no wonder, since very hard, solid in weight, nothing blocking behind.
+MATCH
+
+2.89-94
+L: quo magis pervideas omnia corpora iactari, reminiscere imum totius nil esse in summa, neque [ea] habere ubi corpora prima consistant, quoniam spatium sine fine modoque est, inmensumque patere... pluribus ostendi et probatum est.
+E: so that you may see bodies tossed, remember the whole has no bottom, first bodies no place to rest, since space is without end, and that it spreads immeasurable I have shown and proved.
+MATCH
+
+2.95-99
+L: quod quoniam constat, nulla quies est reddita corporibus primis, sed exercita motu partim confulta resultant intervallis magnis, pars vexantur ab ictu brevibus spatiis.
+E: same.
+MATCH
+
+2.100-104
+L: quaecumque magis condenso conciliatu convecta resultant exiguis intervallis, indupedita figuris, haec constituunt radices saxi, corpora ferri, cetera.
+E: those that, in a denser "gathering", brought together, rebound across small intervals, entangled, form the roots of rock, the bodies of iron, the rest.
+DIFF: conciliatu rendered "gathering" against the register's fixed "union" (first use 2.100).
+
+2.105-108
+L (corrupt): paucula quae porro vagantur, cetera dissiliunt longe recursantque in magnis intervallis; haec sufficiunt aera rarum et lumina solis.
+E: those few others that wander leap far apart and run back across great intervals; these furnish thin air and sunlight.
+MATCH (as printed, noted)
+
+2.109-111
+L: multa praeterea vagantur, quae reiecta sunt conciliis rerum nec usquam potuere consociare motus etiam recepta.
+E: same.
+MATCH
+
+2.112-113
+L: cuius rei, uti memoro, simulacrum et imago semper versatur ante oculos et instat.
+E: same.
+MATCH
+
+2.114-122
+L: contemplator, cum radii inserti fundunt lumina solis per opaca domorum: videbis multa minuta corpora misceri..., edere proelia certantia turmatim nec dare pausam, exercita conciliis et discidiis; ut possis conicere quale sit primordia iactari semper in inani.
+E: look closely, when the sun's light is poured by rays let in through dark places: you will see many minute bodies mingle, wage wars troop by troop, give no pause, driven by unions and partings; so you may guess what it is for first-beginnings to be tossed in the void.
+MATCH (voice change keeps agency)
+
+2.123-124
+L: dumtaxat, parva res potest dare exemplare rerum magnarum et vestigia notitiai.
+E: same.
+MATCH
+
+2.125-128
+L: hoc etiam magis par est te advertere animum haec corpora quae videntur turbare in radiis, quod tales turbae significant motus materiai quoque clandestinos caecosque subesse.
+E: for this reason too it is more fitting to attend to these bodies in turmoil, because such turmoils signify motions of matter hidden and blind beneath.
+MATCH
+
+2.129-131
+L: videbis multa percita plagis caecis commutare viam retroque repulsa reverti nunc huc nunc illuc.
+E: same.
+MATCH
+
+2.132
+L: scilicet hic error est omnibus a principiis.
+E: this wandering all comes from the beginnings.
+MATCH (omnibus loosely "all"; defensible)
+
+2.133-137
+L: prima primordia moventur per se; inde ea corpora quae sunt parvo conciliatu et proxima ad viris principiorum cientur inpulsa ictibus illorum caecis; ipsaque proporro lacessunt paulo maiora.
+E: first the first-beginnings move of themselves; then bodies formed of a small "gathering", nearest the strength of the beginnings, are set going, struck by their blind blows; they in turn assail larger bodies.
+DIFF: conciliatu again "gathering", not the register's "union".
+
+2.138-141
+L: sic motus ascendit a principiis et exit paulatim ad sensus, ut moveantur illa quoque quae cernere quimus in lumine solis, nec apparet aperte quibus plagis id faciant.
+E: so motion rises and comes out to our senses, so that those too are moved which we can make out in sunlight, though by what blows they do it does not plainly appear.
+MATCH
+
+FINDINGS
+2.100	LEXICAL	MINOR	0.85	"magis condenso conciliatu" is rendered "in a denser gathering", breaking the register's fixed conciliatus = "union" (first use listed at 2.100); fix: "And all those that, in a denser union,"
+2.134	LEXICAL	MINOR	0.85	"parvo sunt corpora conciliatu" is rendered "formed of a small gathering", against the register's conciliatus = "union" (listed for 2.134); fix: "then those bodies that are formed of a small union"
+2.19	ADDITION	MINOR	0.55	"iucundo sensu" becomes "a pleasant sense of things", adding "of things" with no rerum behind it, and the added phrase makes "set apart" (semota, which belongs to the subject in 2.18) read as modifying the sense; fix: "a pleasant feeling, set apart from care and fear?"
+2.23	LEXICAL	MINOR	0.50	"neque natura ipsa requirit, si non..." (nature does not miss or feel the want, if there are no golden images...) becomes an objectless "nor does nature herself require, if there are no...", which obscures the sense through 2.24-28; fix: "more welcome now and then; nor does nature herself feel the lack,"
+2.7	AMBIGUITY	MINOR	0.50	"bene ... munita" modifies templa in 2.8, but "to hold, well fortified, the serene precincts" lets the phrase describe the person holding; fix: "but nothing is sweeter than to hold the well-fortified"
