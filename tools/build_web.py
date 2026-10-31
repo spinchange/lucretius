@@ -419,6 +419,13 @@ def export_art(art: dict[int, list[dict]]) -> None:
             im = im.resize((1200, round(im.height * 1200 / im.width)),
                            Image.LANCZOS)
         im.save(dst, "JPEG", quality=82, optimize=True, progressive=True)
+    # An image dropped from INDEX.md (or a retired margin image) would
+    # otherwise stay published at its old URL: remove every exported image
+    # the site no longer uses. The originals in illustrations/ are untouched.
+    for old in sorted(OUT_ART.glob("*.jpg")):
+        if old.name not in files:
+            old.unlink()
+            print(f"  removed unused illustration: art/{old.name}")
     first = art.get(1, [None])[0]
     if first and not (DOCS / "social.jpg").exists():
         im = Image.open(ART / first["file"]).convert("RGB")
