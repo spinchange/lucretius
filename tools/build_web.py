@@ -460,6 +460,13 @@ def figure(it: dict, n: int) -> str:
 # Page furniture
 
 
+def social_url() -> str:
+    """The link-preview image, versioned by its content: social sites cache
+    previews by image URL, so a new card needs a new URL to be fetched."""
+    v = hashlib.md5((DOCS / "social.jpg").read_bytes()).hexdigest()[:8]
+    return f"{SITE}/social.jpg?v={v}"
+
+
 def css_version() -> str:
     return hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
@@ -473,7 +480,7 @@ def social_meta(title: str, desc: str, path: str) -> str:
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="{html.escape(SITE_NAME)}">
 <meta property="og:url" content="{url}">
-<meta property="og:image" content="{SITE}/social.jpg">
+<meta property="og:image" content="{social_url()}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
@@ -1175,7 +1182,7 @@ API_LANDING = """\
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="De Rerum Natura — On the Nature of Things">
 <meta property="og:url" content="{SITE}/api/">
-<meta property="og:image" content="{SITE}/social.jpg">
+<meta property="og:image" content="{social_url()}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
@@ -1323,7 +1330,7 @@ def build_landing(books: dict[int, dict], margin: list[dict], total: int,
 <meta property="og:description" content="Lucretius, On the Nature of Things, complete in a line-for-line English translation with notes, and Machiavelli's margin. Free to read online.">
 <meta property="og:site_name" content="{html.escape(SITE_NAME)}">
 <meta property="og:url" content="{SITE}/">
-<meta property="og:image" content="{SITE}/social.jpg">
+<meta property="og:image" content="{social_url()}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:type" content="book">
