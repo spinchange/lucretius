@@ -68,7 +68,7 @@ a{color:var(--ochre)}
 /* the illustrations, at their passages */
 .art{margin:14px 0 26px; text-align:center}
 .verse .art{margin-left:-2.6rem}
-.art img{width:100%; height:auto; border-radius:3px;
+.art img{display:block; width:auto; max-width:100%; max-height:640px; margin:0 auto; height:auto; border-radius:3px;
   box-shadow:0 10px 34px rgba(0,0,0,.45); border:1px solid rgba(214,166,74,.3)}
 .art figcaption{font-size:.82rem; opacity:.8; margin-top:8px; font-style:italic}
 .art figcaption .cite{font-style:normal; margin-left:.4em}
