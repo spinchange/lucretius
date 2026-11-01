@@ -460,18 +460,18 @@ def figure(it: dict, n: int) -> str:
 # Page furniture
 
 
-def social_url() -> str:
+def social_url(name: str = "social.jpg") -> str:
     """The link-preview image, versioned by its content: social sites cache
     previews by image URL, so a new card needs a new URL to be fetched."""
-    v = hashlib.md5((DOCS / "social.jpg").read_bytes()).hexdigest()[:8]
-    return f"{SITE}/social.jpg?v={v}"
+    v = hashlib.md5((DOCS / name).read_bytes()).hexdigest()[:8]
+    return f"{SITE}/{name}?v={v}"
 
 
 def css_version() -> str:
     return hashlib.md5(CSS.encode("utf-8")).hexdigest()[:8]
 
 
-def social_meta(title: str, desc: str, path: str) -> str:
+def social_meta(title: str, desc: str, path: str, img: str = "social.jpg") -> str:
     url = f"{SITE}/{path}"
     t, d = html.escape(title), html.escape(desc)
     return f"""<link rel="canonical" href="{url}">
@@ -480,7 +480,7 @@ def social_meta(title: str, desc: str, path: str) -> str:
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="{html.escape(SITE_NAME)}">
 <meta property="og:url" content="{url}">
-<meta property="og:image" content="{social_url()}">
+<meta property="og:image" content="{social_url(img)}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
@@ -488,7 +488,8 @@ def social_meta(title: str, desc: str, path: str) -> str:
 
 
 def page(title: str, desc: str, body: str, path: str, depth_home: str = "../",
-         indexed: bool = False, head_extra: str = "", wrap_cls: str = "") -> str:
+         indexed: bool = False, head_extra: str = "", wrap_cls: str = "",
+         social_img: str = "social.jpg") -> str:
     body_attr = " data-pagefind-body" if indexed else ""
     cls = f' class="wrap{(" " + wrap_cls) if wrap_cls else ""}"'
     return f"""<!doctype html>
@@ -498,7 +499,7 @@ def page(title: str, desc: str, body: str, path: str, depth_home: str = "../",
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)}</title>
 <meta name="description" content="{html.escape(desc)}">
-{social_meta(title, desc, path)}<link rel="stylesheet" href="read.css?v={css_version()}">
+{social_meta(title, desc, path, social_img)}<link rel="stylesheet" href="read.css?v={css_version()}">
 {head_extra}</head>
 <body>
 <div class="band"></div>
@@ -863,6 +864,9 @@ def render_copy_table(rows: list[dict]) -> str:
 # [text](href) inline, hrefs relative to docs/read/.
 
 ESSAYS = ROOT / "essays"
+# each essay's link-preview card (in docs/, rendered by tools/render_covers.py
+# from illustrations/); an essay without one uses the site card
+ESSAY_CARD = {"how-machiavelli-read-lucretius": "social-essay.jpg"}
 ESSAY_LINK = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
 ESSAY_EM = re.compile(r"\*([^*]+)\*")
 
@@ -908,7 +912,8 @@ def build_essay(src: Path) -> tuple[str, str, str]:
         '<a href="index.html">&lsaquo; Contents</a><span></span>'
         '<a href="margin.html">Machiavelli’s margin &rsaquo;</a></nav>'])
     return slug, title, page(f"{title} — De Rerum Natura", dek, body,
-                             f"read/{slug}.html", indexed=True)
+                             f"read/{slug}.html", indexed=True,
+                             social_img=ESSAY_CARD.get(slug, "social.jpg"))
 
 
 def build_margin(margin: list[dict]) -> str:
@@ -976,7 +981,7 @@ def build_margin(margin: list[dict]) -> str:
                 "manuscript copy of Lucretius (Vatican MS Ross. 884), "
                 "transcribed, translated, keyed to the line of the poem and "
                 "linked to its folio.", "\n".join(out), "read/margin.html",
-                indexed=True)
+                indexed=True, social_img="social-margin.jpg")
 
 
 # ---------------------------------------------------------------------------

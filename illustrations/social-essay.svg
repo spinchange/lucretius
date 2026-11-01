@@ -1,0 +1,56 @@
+<svg viewBox="0 0 1200 630" width="1200" height="630" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="How Machiavelli Read Lucretius: an essay on the margins of his own copy of the poem, beside a medallion of the young Machiavelli.">
+  <!-- The link-preview card of one page (docs/social-essay.jpg), in the design of
+       social.svg. Rendered by tools/render_covers.py. -->
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a1a14"/>
+      <stop offset="1" stop-color="#2e0c0b"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.5" r="0.8">
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0c0404" stop-opacity="0.45"/>
+    </radialGradient>
+    <pattern id="meander" width="30" height="30" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#efe6d2" stroke-width="2.8">
+        <path d="M0 4 H30"/>
+        <path d="M0 26 H30"/>
+        <path d="M21 26 V8 H8 V20 H14"/>
+      </g>
+    </pattern>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="medallion-clip">
+      <circle cx="900" cy="315" r="210"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#red)"/>
+  <rect width="1200" height="630" fill="#efe6d2" filter="url(#grain)"/>
+  <rect width="1200" height="630" fill="url(#vig)"/>
+
+  <!-- frame and key bands -->
+  <rect x="14" y="14" width="1172" height="602" fill="none" stroke="#efe6d2" stroke-width="2" opacity="0.85"/>
+  <rect x="80" y="32" width="1040" height="30" fill="url(#meander)"/>
+  <rect x="80" y="566" width="1040" height="30" fill="url(#meander)"/>
+
+  <!-- title block -->
+  <g font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" text-anchor="middle" fill="#efe6d2">
+    <text x="345" y="196" font-size="24" font-style="italic" opacity="0.75">nos liberam habere mentem</text>
+    <text x="345" y="262" font-size="46" textLength="430" lengthAdjust="spacingAndGlyphs">HOW MACHIAVELLI</text>
+    <text x="345" y="326" font-size="46" textLength="390" lengthAdjust="spacingAndGlyphs">READ LUCRETIUS</text>
+    <line x1="215" y1="354" x2="475" y2="354" stroke="#d6a64a" stroke-width="1.4"/>
+    <text x="345" y="392" font-size="22" fill="#d6a64a" letter-spacing="4">AN ESSAY</text>
+    <text x="345" y="436" font-size="16" letter-spacing="1.5" fill-opacity="0.85">ON THE MARGINS OF HIS OWN COPY, c. 1497</text>
+    <text x="345" y="466" font-size="15" font-style="italic" opacity="0.65">De Rerum Natura &#183; dererumnatura.org</text>
+  </g>
+
+  <!-- medallion -->
+  <image href="medallion_machiavelli_face.jpg" x="690" y="105" width="420" height="420" clip-path="url(#medallion-clip)"/>
+  <circle cx="900" cy="315" r="212" fill="none" stroke="#efe6d2" stroke-width="3.4"/>
+  <circle cx="900" cy="315" r="205" fill="none" stroke="#efe6d2" stroke-width="1.3" opacity="0.75"/>
+</svg>
