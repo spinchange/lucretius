@@ -32,6 +32,8 @@ edition has a stable anchor: /read/book-02.html#L216.
 - [Contents](https://dererumnatura.org/read/index.html): all six books, one page each
 - [Machiavelli's margin](https://dererumnatura.org/read/margin.html): the introduction, the
   reading marks, and the state of the copy
+- [How Machiavelli read Lucretius](https://dererumnatura.org/read/how-machiavelli-read-lucretius.html):
+  an essay on what his notes concentrate on and what they pass over
 - [About](https://dererumnatura.org/)
 
 ## Companions

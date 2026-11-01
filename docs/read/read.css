@@ -137,6 +137,10 @@ a{color:var(--ochre)}
 .cite:hover{text-decoration:underline}
 
 .prose p{margin:0 0 1em}
+.essay p{text-align:justify; hyphens:auto}
+.verse-quote{margin:1.1em 0 1.3em 2.2em; font-style:italic; line-height:1.55}
+.verse-quote a{font-style:normal}
+.essay hr{border:0; border-top:1px solid rgba(214,166,74,.3); margin:36px 0 14px}
 .prose h2, .mbook h2{font-weight:normal; font-variant:small-caps;
   letter-spacing:.06em; color:var(--ochre); font-size:1.3rem;
   margin:36px 0 12px; border-bottom:1px solid rgba(214,166,74,.3);

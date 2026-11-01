@@ -849,6 +849,61 @@ def render_copy_table(rows: list[dict]) -> str:
     return "\n".join(out)
 
 
+# ---------------------------------------------------------------------------
+# Essays: essays/<slug>.txt -> docs/read/<slug>.html. A small plain-text
+# markup: "# " title, ": " dek, "## " section, "> " quoted verse (one line
+# per line), "---" rule, blank lines between paragraphs; *italic* and
+# [text](href) inline, hrefs relative to docs/read/.
+
+ESSAYS = ROOT / "essays"
+ESSAY_LINK = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
+ESSAY_EM = re.compile(r"\*([^*]+)\*")
+
+
+def essay_inline(text: str) -> str:
+    t = html.escape(text, quote=False)
+    t = ESSAY_LINK.sub(lambda m: f'<a href="{m.group(2)}">{m.group(1)}</a>', t)
+    return ESSAY_EM.sub(r"<em>\1</em>", t)
+
+
+def build_essay(src: Path) -> tuple[str, str, str]:
+    """Returns (slug, title, page html)."""
+    title, dek, out = "", "", []
+    for block in re.split(r"\n\s*\n", src.read_text(encoding="utf-8").strip()):
+        lines = block.strip().splitlines()
+        first = lines[0]
+        if first.startswith("# "):
+            title = first[2:].strip()
+        elif first.startswith(": "):
+            dek = " ".join(l.strip() for l in lines)[2:]
+        elif first.startswith("## "):
+            out.append(f"<h2>{essay_inline(first[3:].strip())}</h2>")
+        elif first.startswith(">"):
+            out.append('<blockquote class="verse-quote">' + "<br>".join(
+                essay_inline(l.lstrip(">").strip()) for l in lines) + "</blockquote>")
+        elif first.strip() == "---":
+            out.append("<hr>")
+            if len(lines) > 1:
+                out.append(f'<p class="apparatus">{essay_inline(" ".join(lines[1:]))}</p>')
+        else:
+            out.append(f"<p>{essay_inline(' '.join(l.strip() for l in lines))}</p>")
+    slug = src.stem
+    body = "\n".join([
+        '<nav class="booknav" data-pagefind-ignore>'
+        '<a href="index.html">&lsaquo; Contents</a><span></span>'
+        '<a href="margin.html">Machiavelli’s margin &rsaquo;</a></nav>',
+        '<header class="bookhead">',
+        f'<h1 data-pagefind-meta="title">{essay_inline(title)}</h1>',
+        f'<p class="argument">{essay_inline(dek)}</p>',
+        '</header>',
+        '<div class="prose essay">', *out, '</div>',
+        '<nav class="booknav bottom" data-pagefind-ignore>'
+        '<a href="index.html">&lsaquo; Contents</a><span></span>'
+        '<a href="margin.html">Machiavelli’s margin &rsaquo;</a></nav>'])
+    return slug, title, page(f"{title} — De Rerum Natura", dek, body,
+                             f"read/{slug}.html", indexed=True)
+
+
 def build_margin(margin: list[dict]) -> str:
     reading = [r for r in margin if r["reading"]]
     copy = [r for r in margin if not r["reading"]]
@@ -886,6 +941,10 @@ def build_margin(margin: list[dict]) -> str:
         f'outer margin of the page, level with its line: '
         f'<a href="{PRINT_URL}" rel="noopener">buy the paperback</a> '
         f'(ISBN 978-0-557-67921-8).</p>')
+    out.append(
+        '<p class="apparatus">What the notes add up to: '
+        '<a href="how-machiavelli-read-lucretius.html">How Machiavelli '
+        'read Lucretius</a>, an essay.</p>')
     out.append("</div>")
     for n in range(1, 7):
         out.append(f'<section class="mbook" id="book-{n}">')
@@ -1042,6 +1101,7 @@ def build_crawler_files(total: int, total_notes: int, marg: int) -> None:
         f"Sitemap: {SITE}/sitemap.xml\n",
         encoding="utf-8")
     urls = ([f"{SITE}/", f"{SITE}/read/index.html", f"{SITE}/read/margin.html"]
+            + [f"{SITE}/read/{p.stem}.html" for p in sorted(ESSAYS.glob("*.txt"))]
             + [f"{SITE}/read/book-{n:02d}.html" for n in range(1, 7)]
             + [f"{SITE}/api/"])
     (DOCS / "sitemap.xml").write_text(
@@ -1085,6 +1145,8 @@ edition has a stable anchor: /read/book-02.html#L216.
 - [Contents]({SITE}/read/index.html): all six books, one page each
 - [Machiavelli's margin]({SITE}/read/margin.html): the introduction, the
   reading marks, and the state of the copy
+- [How Machiavelli read Lucretius]({SITE}/read/how-machiavelli-read-lucretius.html):
+  an essay on what his notes concentrate on and what they pass over
 - [About]({SITE}/)
 
 ## Companions
@@ -1371,6 +1433,13 @@ def build_landing(books: dict[int, dict], margin: list[dict], total: int,
   </div>
 </div>
 <section>
+  <h2>How Machiavelli read it</h2>
+  <p>Seventeen of his nineteen notes stand beside one book, on atoms, the
+  swerve and the free mind; the history of kings and laws in Book 5 he
+  passed without a mark. <a href="read/how-machiavelli-read-lucretius.html">Read
+  the essay</a>.</p>
+</section>
+<section>
   <h2>Start anywhere</h2>
   <p>The poem argues from its first line to its last, but it can be entered
   at any of its set pieces.
@@ -1590,6 +1659,10 @@ a{color:var(--ochre)}
 .cite:hover{text-decoration:underline}
 
 .prose p{margin:0 0 1em}
+.essay p{text-align:justify; hyphens:auto}
+.verse-quote{margin:1.1em 0 1.3em 2.2em; font-style:italic; line-height:1.55}
+.verse-quote a{font-style:normal}
+.essay hr{border:0; border-top:1px solid rgba(214,166,74,.3); margin:36px 0 14px}
 .prose h2, .mbook h2{font-weight:normal; font-variant:small-caps;
   letter-spacing:.06em; color:var(--ochre); font-size:1.3rem;
   margin:36px 0 12px; border-bottom:1px solid rgba(214,166,74,.3);
@@ -1697,6 +1770,12 @@ def main() -> None:
     (OUT / "index.html").write_text(build_contents(books, margin, audio),
                                     encoding="utf-8")
     (OUT / "margin.html").write_text(build_margin(margin), encoding="utf-8")
+    essays = []
+    for src in sorted(ESSAYS.glob("*.txt")):
+        slug, title, doc = build_essay(src)
+        (OUT / f"{slug}.html").write_text(doc, encoding="utf-8")
+        essays.append((slug, title))
+        print(f"{slug}.html")
     total, total_notes = build_api(books, margin)
     (DOCS / "index.html").write_text(
         build_landing(books, margin, total, total_notes, art), encoding="utf-8")

@@ -1,0 +1,62 @@
+# How Machiavelli Read Lucretius
+
+: What the margins of his own copy of the poem show about where a young Florentine’s attention went, and where it did not.
+
+Some time around 1497, a Florentine in his late twenties, not yet in public office, sat down and copied out the whole of Lucretius’s *De Rerum Natura* by hand: more than seven thousand lines of Latin verse arguing that the world is made of atoms falling through the void, that the mind dies with the body, and that the gods have no interest in us. The copyist was Niccolò Machiavelli. His manuscript is now in the Vatican Library as MS Ross. 884. The hand was recognised as his by Sergio Bertelli in 1961, and Alison Brown printed and discussed his notes on Book 2 in *The Return of Lucretius to Renaissance Florence* (2010).
+
+The margins of the copy hold [229 entries](margin.html). Most are a copyist’s work: about a hundred corrections of his own slips, variant readings, lines he dropped and wrote back in, catchwords. The rest, about ninety, record reading: dashes and crosses where his eye stopped, hard words picked out, Greek written beside the Latin that renders it, one pointing hand, and nineteen notes in his own words. This essay is about those. They are few, and a margin records attention rather than belief. But where a reader’s attention goes, and where it does not, is evidence of a kind, and here the pattern is sharp.
+
+## One book
+
+Seventeen of the nineteen notes stand beside Book 2. Book 1 has one, *Comparatio*, “comparison”, beside the simile of the cup of wormwood rimmed with honey ([1.936](book-01.html#L936)). Book 4 has one, *de gallo*, “on the cock”, heading the example of the lion that cannot face a cockerel ([4.710](book-04.html#L710)). Books 3, 5 and 6 have none. Outside Book 2 his pen makes dashes and picks out rare words, *metutum*, *ningues*, *rehalat*, the way a reader marks words to look up later.
+
+Book 2 is the physics of motion: how the atoms fall, how fast, why they collide, why their shapes are many but not infinite. In its margin the notes come every page or two, and they read like a student’s summary of a lecture. *On the motion of first-beginnings.* *On the speed of motion.* *Nothing is carried upward by its own nature.* *The shape of first-beginnings is various.* *The first-beginnings of any shape are infinite in number.* One heading, beside the shapes of the atoms, uses a word Lucretius never uses: [*De figura atomorum*](book-02.html#L333), “on the shape of atoms”. At the head of the book, before its first line, he wrote out in Greek Epicurus’s own definition of pleasure, “the well-settled condition of the flesh”, which survives in Plutarch, and put it into Latin beneath. This is a reader going behind the poet to the philosopher, and taking the doctrine down.
+
+## The free mind
+
+The notes gather where the argument of the book turns. At [2.217](book-02.html#L217) Lucretius introduces the swerve: atoms falling straight down through the void “at quite uncertain times / and uncertain places ... push off a little from their course”. Machiavelli writes *quom declinent principia*, “when the first-beginnings swerve”. Thirty lines later Lucretius draws the consequence:
+
+> Finally, if every motion is always linked,
+> and the new always arises from the old in a fixed order,
+> and the first-beginnings do not by swerving make
+> some beginning of motion to break the covenants of fate,
+> so that cause should not follow cause from infinity,
+> from where does it arise, free, for living things throughout the earth,
+> from where, I ask, is this will wrested away from the fates ...
+> ([2.251–257](book-02.html#L251))
+
+Beside the passage, bracketing it, Machiavelli wrote the most quoted sentence in his margin: *motum varium esse et ex eo nos liberam habere mentem*, “that motion is various, and from this we have a free mind.” Lucretius takes seven lines of questions to get there. The note does it in one, and makes it a consequence: motion varies, therefore the mind is free. Thirty lines further on he takes down [the three causes of motion](book-02.html#L284) in Lucretius’s own word: *in seminibus esse pondus plagas et clinamen*, “in the seeds there are weight, blows, and the swerve.”
+
+Some fifteen years later, in the twenty-fifth chapter of *The Prince*, Machiavelli asks how much power fortune has over human affairs, and answers: “Nevertheless, so that our free will may not be extinguished, I judge it may be true that fortune is arbiter of half our actions, but that she leaves the other half, or close to it, for us to govern.” Nothing proves that the note in the margin of Book 2 led to that sentence, and fortune and free will were a commonplace of the age. But the copyist of 1497 and the author of 1513 are asking the same question, and the margin shows him meeting it first in the most uncompromising form antiquity gave it: in a physics with no room for providence.
+
+## The hand at 2.82
+
+In the whole poem Machiavelli drew one pointing hand as a reader. (A second, in Book 1, is only a copyist’s sign tying an inserted passage to its place.) It points at [2.82](book-02.html#L80):
+
+> If you think the first-beginnings of things can stand still
+> and by standing still beget new motions of things,
+> you wander far astray from true reasoning.
+
+Nothing in the universe is at rest, and nothing at rest could begin anything. Some twenty years on, in the *Discourses on Livy*, he would write that “all the affairs of men are in motion and cannot stand still”, so that states must either rise or fall (I.6). That nothing holds still is the premise of his politics. The one hand he drew in the poem points at the line that says so of the atoms.
+
+## The gods
+
+Two notes in Book 2 concern the gods, and both are blunt. Where Lucretius repeats from Book 1 that the gods live “removed from our affairs and separated far away” ([2.646–648](book-02.html#L646)), the margin says *deos non curare mortalia*: “the gods do not care about mortal affairs.” A few lines before Lucretius turns on those who believe the world was made for us by the gods’ power ([2.167](book-02.html#L167)), he wrote *nil fieri consilio*: “nothing happens by design.”
+
+These are summaries of the text, not confessions. But the dates give them an edge. The copy belongs to the years when Girolamo Savonarola ruled Florence from the pulpit, preaching that God governed the city directly and burning its vanities in the Piazza della Signoria; the great bonfire was in February 1497. In March 1498 Machiavelli described two of the friar’s sermons in a letter to Ricciardo Becchi, with a cool eye for how the preacher went along with the times and coloured his lies. In May Savonarola was hanged and burned in the same piazza, and within weeks Machiavelli was in office as Second Chancellor of the Republic. In those same years he was writing out, in a careful hand, a poem whose first book cries out at the evils religion has persuaded men to, and summing up its theology in four words.
+
+## What he left unmarked
+
+The reading marks thin out after Book 2, but they do not stop. In Book 3 he set dashes through [the proof](book-03.html#L566) that the spirit cannot live outside the body, at [the conclusion](book-03.html#L866) “that there is nothing to be feared in death”, beside the mourners’ speech, and on either side of the death of Epicurus. He read the book on death attentively, and said nothing.
+
+The silence that is hardest to explain is in Book 5. Lucretius’s history of the human race runs from the first people in the woods to the discovery of fire, and Machiavelli dotted the margin beside [the fire struck from rubbing branches](book-05.html#L1096). The lines that follow are a short history of politics. Kings [found cities and build citadels](book-05.html#L1108) for their own defence. In time the kings are killed, and the crowd tramples the emblems it once feared, “for what was too much feared before is eagerly trampled”. Out of the chaos come [magistrates and laws](book-05.html#L1143), because the human race, “worn out with living its life by force”, falls “of its own accord beneath laws and tight bonds of right”. Then Lucretius turns to [how fear of the gods arose](book-05.html#L1161). Here, if anywhere in the poem, one expects the future author of *The Prince* and the *Discourses* to have filled the margin. There is no reading mark on these pages; the only ticks there look like paragraph signs made in copying.
+
+There are explanations to hand. He may have read the later books with less of a pen in his hand; the marks thin as the copy goes on, as a copyist’s energy might; a young man in 1497 may have cared more about the physics of freedom than about the history of kings. The margin cannot say. It shows only that the passage which most anticipates his later work went by without a mark, and that the passages he stopped over, again and again, were about atoms.
+
+## Reading the margin
+
+It is easy to make too much of nineteen notes. Machiavelli’s pen was busiest correcting his own copying, and most of what he wrote in the margins makes the text right rather than comments on it. He summarised arguments he did not necessarily accept, as students do. But the shape of his attention is clear: a long, close reading of the physics of motion; a sentence that turns the swerve into the freedom of the mind; a pointing hand at the line that says nothing stands still; and a flat statement of the gods’ indifference, made in the city and the years of Savonarola. Every one of these notes is printed in the margin of this edition beside the line it stands against, and [listed with its folio](margin.html), so that the reader can follow the copyist through the poem, and judge.
+
+---
+
+Sources: the transcription of MS Ross. 884 on this site; Alison Brown, *The Return of Lucretius to Renaissance Florence* (Harvard University Press, 2010), chapter 4; Machiavelli, *The Prince* 25, *Discourses on Livy* I.6, and the letter to Ricciardo Becchi of 9 March 1498. The poem is quoted in this edition’s translation; the translations from Machiavelli’s Italian are the essay’s own. An essay by Claude.
