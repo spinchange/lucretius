@@ -500,7 +500,7 @@ def page(title: str, desc: str, body: str, path: str, depth_home: str = "../",
 <footer>
   <a href="index.html">Contents</a> · <a href="margin.html">Machiavelli’s margin</a> · <a href="{depth_home}">About</a><br>
   translation <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> (public domain) ·
-  notes, commentary &amp; the margin transcription © 2026 Chris Duffy, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> ·
+  notes, commentary &amp; the margin transcription © 2026 Christopher Duffy, Sr., <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> ·
   Latin source public domain
 </footer>
 </body>
@@ -995,7 +995,7 @@ def build_api(books: dict[int, dict], margin: list[dict]) -> tuple[int, int]:
         "license": ("English translation (the 'en' fields and the verse in "
                     "book-0N.txt): CC0 1.0 (public domain dedication). "
                     "Notes, commentary, and the margin transcription and "
-                    "English: CC BY 4.0, (c) 2026 Chris Duffy. Latin: the "
+                    "English: CC BY 4.0, (c) 2026 Christopher Duffy, Sr. Latin: the "
                     "Perseus Digital Library text (public domain; markup "
                     "CC BY-SA 4.0), Munro/Bailey numbering. Machiavelli's "
                     "notes themselves: public domain."),
@@ -1203,7 +1203,7 @@ dedicated to the public domain under
 The <strong>Latin</strong> is the Perseus Digital Library's text, in the
 public domain (its TEI markup is CC BY-SA 4.0). The <strong>notes, the
 translator's commentary, and the transcription and English of the
-margin</strong> are © 2026 Chris Duffy,
+margin</strong> are © 2026 Christopher Duffy, Sr.,
 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>;
 Machiavelli's words are his own and public domain. The illustrations are
 AI-generated (Google Gemini) and are not reproductions of ancient
@@ -1411,7 +1411,7 @@ def build_landing(books: dict[int, dict], margin: list[dict], total: int,
   <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>:
   copy it, print it, teach it, remix it, no permission needed. The notes,
   commentary, and the transcription and English of the margin are © 2026
-  Chris Duffy under
+  Christopher Duffy, Sr., under
   <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
   The images of Ross. 884 are the Vatican Library’s and are not reproduced
   here; every entry links to its page on DigiVatLib.</p>
@@ -1427,7 +1427,7 @@ def build_landing(books: dict[int, dict], margin: list[dict], total: int,
 <div class="band"></div>
 <footer>
   On the nature of things · translation <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> (public domain) ·
-  notes, commentary &amp; the margin © 2026 Chris Duffy, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> ·
+  notes, commentary &amp; the margin © 2026 Christopher Duffy, Sr., <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> ·
   Latin source public domain
 </footer>
 </body>

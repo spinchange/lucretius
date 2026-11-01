@@ -31,6 +31,11 @@ ROOT = Path(__file__).resolve().parent.parent
 TEMPLATE = ROOT / "tools" / "print" / "wrap.typ"
 INTERIOR = ROOT / "print-build" / "de-rerum-natura-7x10-complete.pdf"
 MEDALLION = "illustrations/cover_medallion.jpg"
+# Lulu's barcode for the hardcover ISBN 978-0-557-67921-8, downloaded from
+# the Lulu wizard. A paperback has its own ISBN and needs its own file.
+BARCODE = ROOT / "print-build" / "isbn-barcode.svg"
+# Hardcover spine widths Lulu gave (from its print-ready cover), by page count
+LULU_SPINE = {266: 0.87}
 OUT = ROOT / "print-build"
 
 
@@ -51,6 +56,8 @@ def main(argv=None) -> int:
     provisional = False
     if args.spine:
         spine = args.spine
+    elif args.kind == "hardcover" and pages in LULU_SPINE:
+        spine = LULU_SPINE[pages]
     elif args.kind == "paperback":
         spine = paper
     else:
@@ -68,12 +75,16 @@ def main(argv=None) -> int:
     cmd = [typst, "compile", "--root", str(ROOT),
            "--input", f"kind={args.kind}", "--input", f"spine={spine}",
            "--input", f"medallion=/{MEDALLION}", str(TEMPLATE), str(out)]
+    barcode = args.kind == "hardcover" and BARCODE.exists()
+    if barcode:
+        cmd[-2:-2] = ["--input", f"barcode=/{BARCODE.relative_to(ROOT).as_posix()}"]
     res = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
     if res.returncode:
         sys.stderr.write(res.stderr)
         raise SystemExit("typst failed")
     print(f"{out.relative_to(ROOT)}: {width:.3f} x {height:.3f} in; {pages} pages; "
-          f"spine {spine:.3f} in" + (" (ESTIMATE: replace with Lulu's template figure)"
+          f"spine {spine:.3f} in; " + ("barcode placed" if barcode else
+          "NO BARCODE (save Lulu's SVG as print-build/isbn-barcode.svg)") + (" (ESTIMATE: replace with Lulu's template figure)"
                                       if provisional else ""))
     return 0
 

@@ -12,6 +12,7 @@
 #let KIND = sys.inputs.at("kind", default: "hardcover")
 #let SPINE = float(sys.inputs.at("spine")) * 1in
 #let MEDALLION = sys.inputs.at("medallion")
+#let BARCODE = sys.inputs.at("barcode", default: none)   // Lulu's ISBN barcode (SVG)
 
 #let hard = KIND == "hardcover"
 #let edge = if hard { 0.75in } else { 0.125in }      // wrap or bleed
@@ -156,6 +157,7 @@
   v(0.4in)
   text(size: 9pt, tracking: 0.14em, fill: chalk.transparentize(25%))[DERERUMNATURA.ORG]
   v(1fr)
-  // the lower right is left clear for the ISBN barcode
-  box(width: 100%, height: 1.35in)
+  // Lulu wants the ISBN barcode in the bottom-right corner of the back cover
+  align(right, box(width: 2in, height: 1.35in, align(right + bottom,
+    if BARCODE != none { image(BARCODE, width: 1.9in) })))
 })

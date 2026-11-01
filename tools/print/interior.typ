@@ -195,7 +195,7 @@
   #v(0.3in)
   #text(size: 9pt, tracking: 0.25em)[EDITED BY] \
   #v(0.04in)
-  #text(size: 11.5pt, tracking: 0.08em)[CHRIS DUFFY]
+  #text(size: 11.5pt, tracking: 0.08em)[CHRISTOPHER DUFFY, SR.]
   #v(1fr)
   #text(size: 8.5pt, fill: quiet-ink, tracking: 0.08em)[dererumnatura.org]
 ]
@@ -207,6 +207,27 @@
 #block(width: 100%)[
   #set text(size: 8pt, hyphenate: true)
   #set par(justify: false, leading: 0.55em, spacing: 0.9em)
+  #block(spacing: 1.6em)[
+    #set par(spacing: 1.1em)
+    // the copyright information Lulu asks for, as the user gave it
+    De Rerum Natura \
+    On the Nature of Things, with the Marginalia of Niccolò Machiavelli \
+    Lucretius \
+    Notes by Niccolò Machiavelli \
+    Translated by Claude Fable, V.I \
+    Edited by Christopher Duffy, Sr. \
+    Illustrated by Gemini Argon, IV
+
+    Copyright © 2026 Christopher Duffy, Sr. \
+    This work is licensed under Creative Commons Attribution 4.0 International
+    (CC BY 4.0). You are free to share and adapt this material for any purpose,
+    even commercially, as long as you give appropriate credit to the original
+    author.
+
+    ISBN 978-0-557-67921-8 \
+    Imprint: Lulu.com
+  ]
+
   Lucretius, _De Rerum Natura_ (_On the Nature of Things_), in a line-for-line
   English translation from the Latin, with notes, the translator’s commentary
   on each book, and the marginalia of Niccolò Machiavelli.
@@ -214,7 +235,7 @@
   The English translation is dedicated to the public domain under Creative
   Commons CC0 1.0: copy it, print it, teach it, remix it, no permission
   needed. The notes, the translator’s commentary, and the transcription and
-  English of the margin are © 2026 Chris Duffy, licensed under Creative
+  English of the margin are © 2026 Christopher Duffy, Sr., licensed under Creative
   Commons Attribution 4.0 (CC BY 4.0). Machiavelli’s words are his own and in
   the public domain. The Latin followed is the Perseus Digital Library’s text,
   in the public domain.
