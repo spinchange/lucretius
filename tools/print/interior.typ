@@ -10,7 +10,7 @@
 #let trim-h = 10in
 #let m-inside = 0.875in
 #let m-outside = 2.05in        // the text's outer margin: Machiavelli's column lives here
-#let col-w = 1.4in             // his column
+#let col-w = 1.37in            // his column; its outer edge (and the folios) 0.51in from trim, Lulu's 0.5in safe line
 #let col-gap = 0.17in          // between the verse and his column
 #let text-w = trim-w - m-inside - m-outside
 #let wide-outside = 0.875in    // back matter: a plain, wide measure

@@ -68,6 +68,9 @@ OUT_ART = DOCS / "art"
 # Every illustration carries this credit, so that no one takes an image for
 # a photograph of a real Roman wall painting.
 HERO_ART = "book01_01_venus_and_mars.jpg"
+# The print edition (Lulu, paperback, ISBN 978-0-557-67921-8)
+PRINT_URL = ("https://www.lulu.com/shop/lucretius-and-gemini-argon-iv-and-niccol%C3%B2-"
+             "machiavelli-and-christopher-duffy-sr/de-rerum-natura/paperback/product-yv6z98j.html")
 ART_CREDIT = "AI-generated illustration (Gemini), after Pompeian wall painting"
 MARGIN_ART = "machiavelli_copying_lucretius.jpg"
 MARGIN_ART_CREDIT = (
@@ -878,6 +881,11 @@ def build_margin(margin: list[dict]) -> str:
             f'<a href="#book-{n}">{ROMAN[n-1]}</a>' for n in range(1, 7))
         + '. The whole table is also served as '
         '<a href="../api/marginalia.json">marginalia.json</a>.</p>')
+    out.append(
+        f'<p class="apparatus">The print edition sets every reading mark in the '
+        f'outer margin of the page, level with its line: '
+        f'<a href="{PRINT_URL}" rel="noopener">buy the paperback</a> '
+        f'(ISBN 978-0-557-67921-8).</p>')
     out.append("</div>")
     for n in range(1, 7):
         out.append(f'<section class="mbook" id="book-{n}">')
@@ -1358,6 +1366,8 @@ def build_landing(books: dict[int, dict], margin: list[dict], total: int,
       <b>Machiavelli’s margin</b><span>his notes, keyed to the poem</span></a>
     <a class="btn" href="api/">
       <b>The text as data</b><span>Latin and English, line by line</span></a>
+    <a class="btn" href="{PRINT_URL}" rel="noopener">
+      <b>Buy the paperback</b><span>7 × 10 in, with his margin in the margin</span></a>
   </div>
 </div>
 <section>
